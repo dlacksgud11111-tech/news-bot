@@ -234,6 +234,9 @@ def main() -> int:
     ap.add_argument("--state", default=str(ROOT / "state" / "state.json"))
     ap.add_argument("--messages-only", action="store_true",
                     help="메시지 응답만 하고 뉴스 수집은 건너뜀 (worker 용)")
+    ap.add_argument("--no-messages", action="store_true",
+                    help="뉴스 수집만 하고 수신 메시지는 건드리지 않음. "
+                         "worker 가 상시 대기 중일 때 같은 메시지에 두 번 답하는 것을 막는다.")
     ap.add_argument("--dry-run", action="store_true",
                     help="텔레그램 발송 없이 콘솔에만 출력")
     args = ap.parse_args()
@@ -274,7 +277,7 @@ def main() -> int:
         bot.send = lambda text, preview=False: (print("\n" + "─" * 60 + "\n" + text), True)[1]
 
     try:
-        if has_telegram:
+        if has_telegram and not args.no_messages:
             handle_messages(bot, store, sm, cfg)
         if not args.messages_only:
             flush_queue(bot, store, cfg)

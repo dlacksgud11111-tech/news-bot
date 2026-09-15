@@ -32,7 +32,9 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python src/main.py
+        # --no-messages: 수신 메시지는 worker.yml 이 15초 간격으로 전담한다.
+        # worker 를 끄셨다면 이 옵션을 지워야 링크를 보냈을 때 답이 옵니다.
+        run: python src/main.py --no-messages
 
       - name: Persist state
         run: |
