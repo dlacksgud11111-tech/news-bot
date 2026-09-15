@@ -1,0 +1,223 @@
+# ============================================================
+#  전력·에너지 뉴스 봇 설정
+#  이 파일만 고치면 봇의 성격이 바뀝니다. 코드는 건드릴 필요 없음.
+# ============================================================
+
+model:
+  # 요약에 쓰는 모델.
+  #   claude-sonnet-5  입력 $2  / 출력 $10  per 1M  ← 현재 설정
+  #   claude-opus-5    입력 $5  / 출력 $25  per 1M  (품질 최상, 약 2.5배 비쌈)
+  # 기사 요약은 판단보다 정리에 가까워서 sonnet 으로도 충분합니다.
+  # 요약이 부실하다 싶으면 opus 로 되돌리세요.
+  id: claude-sonnet-5
+  # low | medium | high | xhigh | max  — 뉴스 요약은 low 로 충분하고 가장 쌉니다.
+  effort: low
+  max_tokens: 8000
+
+# news-clipper 가 매일 07시에 4개 섹터 32건을 통독용으로 보내줍니다.
+# 이 봇은 "아침까지 기다리면 늦는 것"만 담당하므로 문턱이 높게 잡혀 있습니다.
+# 뉴스가 너무 안 온다 싶으면 min_importance 를 3으로, min_score 를 5로 내리세요.
+limits:
+  max_posts_per_run: 2      # 한 번 돌 때 최대 발행 수 (도배 방지)
+  max_posts_per_day: 4      # 하루 총 상한. 통독은 아침 다이제스트가 하므로 적게 잡음
+  max_night_queue: 2        # 조용한 시간에 쌓을 수 있는 최대 건수.
+                            # 미국 뉴스가 새벽에 몰려 하루치를 다 먹어버리는 것을 막는다.
+  max_per_company_per_day: 1  # 같은 회사 건은 하루 몇 건까지. 0 이면 제한 없음.
+                            # 대형 수주는 공시가 쪼개져 나와(2200억 + 1665억 = 3865억)
+                            # 숫자 지문만으로는 같은 사건인 줄 모른다. 이 규칙이 그걸 막는다.
+  max_candidates_per_run: 15  # 점수 통과 후 모델까지 보낼 기사 수 상한 (비용 상한)
+  min_importance: 4         # 모델이 매긴 중요도(1~5)가 이 값 미만이면 발행 안 함
+  min_score: 7              # 키워드 점수가 이 값 미만이면 모델에 보내지도 않음
+  article_max_chars: 12000  # 모델에 넣는 본문 최대 길이
+
+quiet_hours:
+  # 한국시간 기준. 이 시간대에 잡힌 건 큐에 쌓아뒀다가 end 시각 이후 첫 실행 때 한꺼번에 발송.
+  # end 를 08시로 둔 이유: 07시에 news-clipper 다이제스트 4건이 먼저 도착한다.
+  # 같은 시각에 이 봇까지 쏟아지면 둘 다 안 읽게 되므로 한 시간 비켜뒀다.
+  enabled: true
+  start: 1   # 01시부터
+  end: 8     # 08시 전까지 조용
+
+# ------------------------------------------------------------
+#  뉴스 소스
+# ------------------------------------------------------------
+# 아래 목록은 2026-09-15 기준 전부 응답 확인됨. scripts/check_feeds.py 로 재점검 가능.
+# T&D World, 한국경제는 RSS를 차단해서 뺐습니다 (필요하면 google_news 검색으로 대체됨).
+feeds:
+  global:
+    - https://www.utilitydive.com/feeds/news/
+    - https://www.powermag.com/feed/
+    - https://www.energy-storage.news/feed/
+    - https://www.pv-magazine.com/feed/
+    - https://www.datacenterdynamics.com/rss/
+    - https://www.eia.gov/rss/todayinenergy.xml         # 미국 에너지정보청
+    # 아래 3개는 news-clipper 와 역할을 나누면서 뺐습니다. 되살리려면 주석만 푸세요.
+    #  - https://world-nuclear-news.org/rss   원전은 clipper 의 원전 다이제스트(8건)가 전담
+    #  - https://cleantechnica.com/feed/      회당 45건, 논평 위주라 확정 이벤트가 거의 없음
+    #  - https://oilprice.com/rss/main        유가는 관심 3축(수주·프로젝트·정책) 밖
+  korea:
+    - https://www.electimes.com/rss/allArticle.xml      # 전기신문
+    - http://www.e2news.com/rss/allArticle.xml          # 이투뉴스
+    - http://www.energy-news.co.kr/rss/allArticle.xml   # 에너지신문
+    - https://www.todayenergy.kr/rss/allArticle.xml     # 투데이에너지
+    - https://rss.etnews.com/Section902.xml             # 전자신문 산업
+    - https://www.yna.co.kr/rss/economy.xml             # 연합뉴스 경제
+    - https://www.mk.co.kr/rss/30100041/                # 매일경제 경제
+
+# 구글 뉴스 RSS 검색 (직접 피드가 없는 소스까지 긁어옴)
+google_news:
+  - { q: "변압기 OR 전력기기 OR 송전망 수주", hl: ko, gl: KR, ceid: "KR:ko" }
+  - { q: "HD현대일렉트릭 OR 효성중공업 OR LS일렉트릭", hl: ko, gl: KR, ceid: "KR:ko" }
+  - { q: "데이터센터 전력 OR 전력수급기본계획 OR 계통연계", hl: ko, gl: KR, ceid: "KR:ko" }
+  - { q: "transformer shortage OR transformer order OR switchgear backlog", hl: en-US, gl: US, ceid: "US:en" }
+  - { q: "transmission line project OR HVDC contract OR grid interconnection queue", hl: en-US, gl: US, ceid: "US:en" }
+  - { q: "data center power demand OR utility capex OR FERC order", hl: en-US, gl: US, ceid: "US:en" }
+
+# ------------------------------------------------------------
+#  워치리스트 — 여기 이름이 제목에 뜨면 점수가 확 올라갑니다.
+#  종목 추가/삭제는 이 목록만 고치면 됩니다.
+# ------------------------------------------------------------
+watchlist:
+  domestic:
+    - HD현대일렉트릭
+    - 효성중공업
+    - LS일렉트릭
+    - LS전선
+    - 제룡전기
+    - 산일전기
+    - 일진전기
+    - 대원전선
+    - 가온전선
+    - 비츠로테크
+    - 서전기전
+    - 대한전선
+    - 한국전력
+    - 한전KPS
+    - 두산에너빌리티
+  overseas:
+    - GE Vernova
+    - Siemens Energy
+    - Hitachi Energy
+    - Schneider Electric
+    - Eaton
+    - ABB
+    - Quanta Services
+    - MYR Group
+    - Prysmian
+    - Nexans
+    - NKT
+    - Vertiv
+    - Mitsubishi Electric
+    - Toshiba Energy
+    - Hyosung
+    - HD Hyundai Electric
+
+  # 매체마다 회사명을 줄여 씁니다. 여기서 묶어줘야 '효성重' 기사와 '효성중공업' 기사가
+  # 같은 회사 건으로 집계되어 max_per_company_per_day 규칙에 함께 걸립니다.
+  # 새 종목을 추가할 때 흔히 쓰이는 약칭이 있으면 같이 넣어주세요.
+  aliases:
+    효성중공업: [효성重, 효성중공, 효성 중공업]
+    HD현대일렉트릭: [HD현대일렉, 현대일렉트릭, HD현대일렉트릭㈜]
+    LS일렉트릭: [LS일렉, LS ELECTRIC]
+    한국전력: [한전, 한국전력공사, KEPCO]
+    두산에너빌리티: [두산에너빌, 두산에너지빌리티]
+    대한전선: [대한전선㈜]
+    한전KPS: [KPS]
+    GE Vernova: [GE버노바, 버노바, GE Vernova Inc]
+    Siemens Energy: [지멘스에너지, 지멘스 에너지]
+    Hitachi Energy: [히타치에너지, 히타치 에너지]
+    Schneider Electric: [슈나이더일렉트릭, 슈나이더]
+    Quanta Services: [콴타, 콴타서비스]
+    Prysmian: [프리즈미안]
+    Vertiv: [버티브]
+
+# ------------------------------------------------------------
+#  키워드 가중치 — 관심 3축(기업·수주 / 프로젝트·입찰 / 정책·규제)
+# ------------------------------------------------------------
+keywords:
+  strong:   # 가중치 3 — 이게 뜨면 거의 확실히 관심사
+    - 수주
+    - 계약 체결
+    - 공급계약
+    - 증설
+    - 신규 공장
+    - 착공
+    - 입찰
+    - 낙찰
+    - 우선협상대상자
+    - 수주잔고
+    - 리드타임
+    - 전력수급기본계획
+    - order
+    - contract award
+    - awarded
+    - backlog
+    - capex
+    - groundbreaking
+    - tender
+    - RFP
+    - interconnection queue
+    - rate case
+    - FERC order
+
+  medium:   # 가중치 2
+    - 변압기
+    - 초고압
+    - HVDC
+    - 차단기
+    - 개폐기
+    - 배전반
+    - 송전선
+    - 전력망
+    - 계통
+    - 변전소
+    - 데이터센터 전력
+    - 전력기기
+    - 원전
+    - SMR
+    - 케이블
+    - transformer
+    - substation
+    - switchgear
+    - transmission
+    - grid
+    - utility
+    - data center power
+    - nuclear
+    - SMR
+    - cable
+    - turbine
+
+  weak:     # 가중치 1
+    - 전력
+    - 에너지
+    - 재생에너지
+    - 태양광
+    - 풍력
+    - ESS
+    - 전기요금
+    - power
+    - energy
+    - renewable
+    - solar
+    - wind
+    - storage
+    - electricity
+
+# 제목에 이게 들어있으면 점수와 무관하게 버림
+blocklist:
+  - 부고
+  - 인사말
+  - 채용공고
+  - 포토
+  - 오늘의 운세
+  - 사설
+  - 기고
+  - 독자투고
+  - 광고
+  - 이벤트 당첨
+  - 주가 급등락 마감
+  - obituary
+  - sponsored
+  - webinar
+  - press release distribution

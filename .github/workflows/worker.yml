@@ -1,0 +1,48 @@
+name: news-bot-worker
+
+# 링크를 던지면 몇 초 안에 답이 오게 하고 싶을 때 쓰는 "상시 대기" 워커.
+#
+#  - Actions 탭 → news-bot-worker → Run workflow 로 켜면 50분간 15초 간격으로 대기합니다.
+#  - 항상 켜두고 싶으면 아래 schedule 주석을 푸세요. (public 저장소만 권장 —
+#    private 저장소는 월 2,000분 무료 한도를 훌쩍 넘깁니다.)
+#  - 뉴스 자동 수집은 하지 않습니다(--messages-only). 그건 bot.yml 담당.
+#  - 상태 파일을 커밋하지 않습니다. 텔레그램이 읽은 메시지를 서버에서 지우므로
+#    bot.yml 이 같은 메시지에 중복 응답하지 않습니다.
+
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: "0 * * * *"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: news-bot-worker
+  cancel-in-progress: true
+
+jobs:
+  listen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Listen for 50 minutes
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          end=$(( $(date +%s) + 3000 ))
+          while [[ $(date +%s) -lt $end ]]; do
+            python src/main.py --messages-only || echo "::warning::iteration failed"
+            sleep 15
+          done
