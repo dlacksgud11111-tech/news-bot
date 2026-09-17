@@ -227,6 +227,26 @@
    "t": "기후차관, 효성중공업 美 초고압차단기 생산현장 방문…\"시장 확대 지원\" - 뉴시스",
    "ts": 1789620129,
    "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40SzJwOFJyZVItREpzOHJzc2xtNkNaRkttSVRxNl96TDVsNUoyVHR2R0Myb1B3aVF2WXlwb0lOTGY4NDlJVDE4dVVDRTlZWW9NYl9LSzFfQWw3X0s0WmZKZVY2aWxrejNKNnotSHljWDA4V2p4UEdrMtIBeEFVX3lxTE40SzJwOFJyZVItREpzOHJzc2xtNkNaRkttSVRxNl96TDVsNUoyVHR2R0Myb1B3aVF2WXlwb0lOTGY4NDlJVDE4dVVDRTlZWW9NYl9LSzFfQWw3X0s0WmZKZVY2aWxrejNKNnotSHljWDA4V2p4UEdrMg?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "S저널",
+   "sc": 14,
+   "sec": "전력기기",
+   "t": "효성중공업, 12조 서해안 에너지고속도로 겨냥…국산 HVDC 핵심설비 공개 - S저널",
+   "ts": 1789639664,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WVmdwREZCWkdOUVQ2am1zV3RqUGw0QUstREkydnFDeTFQVWc1dy1UNkVwc181NXM1YmlwckpQMTNGalJCZmNpUmRGelBwWk5kZ0p4a2xjMDBUZHVQcEs2RVY1NVNOWmdDMTJsLWFR?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "SBS Biz",
+   "sc": 6,
+   "sec": "원전",
+   "t": "[투자 노하우] 한·미 대미투자 연기…원전·LNG 등 핵심은 에너지? - SBS Biz",
+   "ts": 1789638540,
+   "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83TFoxYi1SaTJ3bzhkVUtmNWZHZTVYWFlQbkhyNjNPZjNrTm9FbE5LY3p2OGQzTjd0Qlk3WkVMaFdWV1U4YXRUTHNFVFg2ZzJRNXpV0gFYQVVfeXFMUHhiYUtiNFJvajQwcGZOU0xPYVlXVEhfclQydTh2bDdoWWFXdVV0Q0R5b2h6aDM5MFJEWVBkbVRnTXNPVnhaOUJiTnozNlpzN0FITmsySWlRTg?oc=5"
   }
  ],
  "clip_titles": [],
@@ -277,6 +297,7 @@
   "0b44871fd9d9a400": 1789627496,
   "0bb6d71040b9e6c5": 1789627496,
   "0be22890c5253cc1": 1789627496,
+  "0c2cda88b5c5182e": 1789640415,
   "0c34000f5e30606a": 1789627496,
   "0c678b6f3de23f3a": 1789627496,
   "0c68791c0a0e5f29": 1789627496,
@@ -562,6 +583,7 @@
   "62d709ec347107c4": 1789627496,
   "63748de6fa1cd7d5": 1789629088,
   "6375c7ae7f0af4f2": 1789627496,
+  "637a1ec6b3b782c2": 1789640415,
   "63999d676064d0bf": 1789629088,
   "63b9f6cbaa1d6e88": 1789627496,
   "63d996a8e5cba507": 1789627496,
@@ -951,6 +973,7 @@
   "d73685bb548088ae": 1789627496,
   "d80576eeb7757d9d": 1789627496,
   "d8bc8e757763d94d": 1789627496,
+  "d8d3182b9dc3d9e8": 1789640415,
   "d8d7125fc737def0": 1789627496,
   "d8eb15f4040f648c": 1789627496,
   "d96e19ad8d098f93": 1789632918,
@@ -1133,7 +1156,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-17 19:15 KST",
+  "last_run": "2026-09-17 19:20 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
