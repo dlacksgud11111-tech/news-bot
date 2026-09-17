@@ -112,6 +112,36 @@
    "t": "“울산 AI 데이터센터, 제조 데이터 연결해야 AX 성공” - iusm.co.kr",
    "ts": 1789634114,
    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03Rm1nYlhBVk8xVnNCWEExUFlXWnNrdzd3YkRrbHhQMW80Wk5LaUhHd05TVjBWaGFPbW8welZRQmxoTzdsQU5Qa09idFh6cTFZekI1VXh5aTZnZ05reGtRaktKdWF3cmNGcVHSAW5BVV95cUxPQ3ktRTZnWmNfUC16ZTJLS0dIV05Bak1nOE4zQVVBa3NaN0hMMDFnMWJTSlp5NVBRelc2bTZ5dkVucG94enlmTlZHX2hSYWZvUVdqM05kLVI2NmhRLXVyNnA0TFF2S25aVnBYd1pKdw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "이뉴스투데이",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "데이터센터 ‘수요전력 쪼개기’ 의혹···주민 반발 속 수도권 전력망 부담까지 - 이뉴스투데이",
+   "ts": 1789686151,
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QVXRBNVN3N2MzT0tYWGlKeHRtbnFkTjNxUlpEeDFQOWpCUEtPMmhXVkJvcVNyV2h3MXJlN3dtMTdkNFVyZ0d5NVg4am1PWTUwRTRZRE4waWl0b3h6M1ZHWFBtQS1PRExZbmVpVlZMRUXSAXRBVV95cUxQdFMweE0tZmZ3RTgyc204MEJrQnFlN1JMc0Q3WFlxMWlCRTUtcHlfSnQ0TVNzZVJINzh0Z3ByWUxwaWhRQVRaTVluQW4xUHg2T1MzUjhKblZSeHR2TnY3RjB5UlFSMk5iMFVVUnNESi1uVjZiRg?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "뉴스밸류",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "[심층분석]효성중공업, HVDC 국산화 전면에…국산 핵심 기자재의 신뢰성 검증이 관건 - 뉴스밸류",
+   "ts": 1789684200,
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zVXVibE84R29nTWdvMEdxSVJYQW52XzNmR0hRa09jWmdHM3p1eExHUmdEb0VUM1hYNXAzX3dBU3dfN3Y0TUFTcllZT21XNjNMZE5qeHBMRXdWM3VyMTBCZ0pnZUNZcDJucFE?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "반토막 난 전력기기株…AI 속도조절론에도 수주는 ‘역주행’ - v.daum.net",
+   "ts": 1789592470,
+   "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CMmJHeUdweEhNeC1PdUZubnpHVWw5dWtxWkRmcHBCb1AyeXlpSVhCMmdqamIwd0o2LUUxNGMza1ZibnFrT29OVDZuVWN2anN3WHZRVQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -127,6 +157,7 @@
   "025c2c5600cbfbe9": 1789629088,
   "029c1af8c1cec11e": 1789627496,
   "02a103e43497cc0b": 1789649116,
+  "02fa75d6c7747074": 1789686930,
   "030534865f3acd04": 1789627496,
   "0336ca586314a4ce": 1789630819,
   "0353d7cf89aaf18a": 1789627496,
@@ -475,6 +506,7 @@
   "5b25a76d771e1b74": 1789627496,
   "5b47dd83f4cee36b": 1789627496,
   "5c3ceb41f8d900a8": 1789627496,
+  "5c4dc2360ec368a9": 1789686930,
   "5c731a95a7526f8b": 1789627496,
   "5c8963a4e0b3db21": 1789654217,
   "5c9d43b0b6fd5daa": 1789634416,
@@ -694,6 +726,7 @@
   "95afdeca6cd510b9": 1789627496,
   "95d92ec09c25432a": 1789644321,
   "965290b3599a4dd4": 1789627496,
+  "97496b481ecb7a84": 1789686930,
   "97656ae4c59d9d7c": 1789629088,
   "982188f1294f88e6": 1789633820,
   "984833176e35d975": 1789627496,
@@ -869,6 +902,7 @@
   "c1f7db158c66006b": 1789627496,
   "c22dc00606ac5a4e": 1789627496,
   "c2416ce1bcb6d10b": 1789627496,
+  "c273cfe7ba4af81b": 1789686930,
   "c29c948ef1a999e3": 1789627496,
   "c2a60a92e62e0bef": 1789638316,
   "c2c681b76796e17b": 1789627496,
@@ -1162,7 +1196,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 08:10 KST",
+  "last_run": "2026-09-18 08:15 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
