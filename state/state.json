@@ -37,7 +37,18 @@
   "accda29e47d0d212": 1789627489
  },
  "alerted_today": 6,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "Google, Nvidia, and Emerald AI found the AI Energy Management Alliance to support demand response capabilities within the data center sector",
+   "ts": 1789642220,
+   "u": "https://www.datacenterdynamics.com/en/news/google-nvidia-and-emerald-ai-found-the-ai-energy-management-alliance-to-support-demand-response-capabilities-within-the-data-center-sector/"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "003700b0bc3aa10c": 1789627496,
@@ -184,6 +195,7 @@
   "26f236844490d56e": 1789633522,
   "27044a608039c98b": 1789627496,
   "271c09db3cc523a5": 1789637719,
+  "2720ff30a6f84491": 1789642528,
   "2798757f18619f0b": 1789627496,
   "27e827f8084203d1": 1789629088,
   "2821b12599fbd811": 1789634416,
@@ -652,6 +664,7 @@
   "b8647869bf31c834": 1789627496,
   "b8e9e9337df89435": 1789627496,
   "b902cf32f808d90d": 1789627496,
+  "b9491309ed73f9d8": 1789642528,
   "b95016708544da7f": 1789629088,
   "b96cdab838814cbc": 1789627496,
   "b972ca977c1abe42": 1789629612,
@@ -950,7 +963,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-17 19:50 KST",
+  "last_run": "2026-09-17 19:55 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
