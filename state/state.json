@@ -147,6 +147,16 @@
    "t": "데이터센터 규제, IL 주지사 선거 쟁점 부상 - 미주중앙일보",
    "ts": 1789677000,
    "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zOXVNc1hNYnZDWHhwdDhvVmRYSTZsdWZydTVmWkV0cXZFUndTZU90bUN2YXBvQW5tdURfRkpINzRpRm1LUFYtbGFTZkJrb3NKaGd5UHJQLXZ0UzhpQkZIT2ZR?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "아시아투데이",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "“AI 인프라 경쟁, 데이터센터 넘어 전력·공급망” - 아시아투데이",
+   "ts": 1789621589,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tN3hWaVM1YWFwV1JNV0V5aHpRQ0JwdVZmS2s1YkxWczlFS0R5ZmsySGtLQVY4bmc1S1lfNlBIQzB5OGNPYV9PNm8wNURGbnlPdDJXbWJLSWRhaTlVUmpFWXUwZkRCd3ZlRmdpRVF3?oc=5"
   }
  ],
  "clip_titles": [],
@@ -833,6 +843,7 @@
   "b7855d60af34d90c": 1789627496,
   "b7bbc04d76e7fb65": 1789627496,
   "b7fe35f6dbbb9a59": 1789627496,
+  "b81f9519fd5e53b6": 1789678217,
   "b842f097a5fbd69d": 1789662917,
   "b8647869bf31c834": 1789627496,
   "b883121171c50158": 1789647653,
@@ -1161,7 +1172,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 05:45 KST",
+  "last_run": "2026-09-18 05:50 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
