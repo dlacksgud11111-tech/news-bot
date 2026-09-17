@@ -497,6 +497,16 @@
    "t": "네이버, 데이터센터 전력 확보 나선다… 진도 태양광 지분 투자 추진 - IT조선",
    "ts": 1789521284,
    "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lM182ZVA5aXhNdTlaMlVHNEZCYUpUc1JoZ0VuTjBkeUpyaFdrRmJXaUNnYXpEV1hrMTNlVDFlSW1KWVR3eXF3ZGt4ZG8xeHJsU2JYZkh4NzZmangxcG9pUEZvLVhxNndXZ0NfUEZqTl_SAXRBVV95cUxNTlRyVGxIQnZ3MGh1R1Bab2lMNHE2anEtSnNfcWhfWDJsNHhkamJ1R08yZjZ2TFR3SmRmZWhpYkxxS0ctU08tbE5rNnBVUE1jX1VZSkU1M3JmaDJPR0VkaUVxTGdMTllhN3k4M2l5SkpJcmFpdQ?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "비즈트리뷴",
+   "sc": 16,
+   "sec": "전력기기",
+   "t": "효성중공업, HVDC 핵심설비 국산화 본격화…한전 실증사업 합류 - 비즈트리뷴",
+   "ts": 1789628677,
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmVGt2d25IU1BQbVpYZ281WWxqMmFRVWtJbi1KYW1weHVER2pmUHFmTHpmTUFJR2hiUHZSNmI1UF9wS2ctQTRNZjNrVmRKWk8yb2xzYXZ3ZEdJSnNQWGhETFJvaWtlbThqNEJwOGdIRU0?oc=5"
   }
  ],
  "clip_titles": [],
@@ -624,6 +634,7 @@
   "2c3439902c054a4c": 1789629088,
   "2c3997afcffa63d7": 1789629088,
   "2c52d64284ebb7a1": 1789627496,
+  "2ca5fbdb2e5f635c": 1789629150,
   "2d62a810cc66e8b0": 1789627496,
   "2e64002002f87169": 1789627496,
   "2ee4e2cb2ef4c862": 1789627496,
@@ -943,6 +954,7 @@
   "b1b50a0c09ee51ea": 1789627496,
   "b263481ea76b50dd": 1789627496,
   "b2c739c17022c4ff": 1789627496,
+  "b2f86a66fe564c20": 1789629150,
   "b39b383ec149733f": 1789627496,
   "b3d895e28ae72c9a": 1789629088,
   "b485281e4604f5d0": 1789629088,
@@ -1147,6 +1159,7 @@
   "f9d069647a6477c2": 1789627496,
   "fa276bd86d5c87ca": 1789627496,
   "fa3ccef5e2b9666b": 1789627496,
+  "fab178fbbba2e096": 1789629150,
   "fae80569bce639a5": 1789627496,
   "fb05622e5d050cb2": 1789629088,
   "fb736d694e820235": 1789627496,
@@ -1200,7 +1213,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-17 16:11 KST",
+  "last_run": "2026-09-17 16:12 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
