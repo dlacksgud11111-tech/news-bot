@@ -72,6 +72,16 @@
    "t": "에코메탄올, 한국종합기술과 태백 동점 청정메탄올 프로젝트 EPC 협약",
    "ts": 1789676141,
    "u": "http://www.e2news.com/news/articleView.html?idxno=334387"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Aligned breaks ground on gigawatt-scale data center campus in Pennsylvania",
+   "ts": 1789644565,
+   "u": "https://www.datacenterdynamics.com/en/news/aligned-breaks-ground-on-gigawatt-scale-data-center-campus-in-pennsylvania/"
   }
  ],
  "clip_titles": [],
@@ -231,6 +241,7 @@
   "290d92e4a2fb1573": 1789627496,
   "29920d2e2a1aae43": 1789627496,
   "2acc50ff2fd955f2": 1789627496,
+  "2b28e65f30b433f6": 1789644931,
   "2b45aa77adaf8ae1": 1789627496,
   "2b65150e05d8134e": 1789627496,
   "2bda6d38346b119d": 1789627496,
@@ -994,7 +1005,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-17 20:30 KST",
+  "last_run": "2026-09-17 20:35 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
