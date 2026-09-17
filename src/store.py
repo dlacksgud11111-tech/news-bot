@@ -125,6 +125,13 @@ class Store:
             "seen": {},            # url_key -> unix ts
             "titles": [],          # [[ts, [tokens...]], ...] 최근 제목 지문
             "queue": [],           # 조용한 시간대에 밀린 발행물
+            "alerted": {},         # url_key -> ts  (이미 울린 알람)
+            "alert_titles": [],    # 알람용 제목 지문 (같은 사건 재알람 방지)
+            "clipped": {},         # url_key -> ts  (이미 클리핑에 담은 기사)
+            "clip_titles": [],     # 클리핑용 제목 지문
+            "clip_buffer": [],     # 다음 클리핑에 나갈 기사들
+            "last_clip": 0,        # 마지막 클리핑 발송 시각 (unix)
+            "alerted_today": 0,
             "day": "",             # 'YYYY-MM-DD' (KST)
             "posted_today": 0,
             "companies_today": {}, # 회사명 -> 오늘 발행 수
@@ -148,6 +155,7 @@ class Store:
             self.data["day"] = today
             self.data["posted_today"] = 0
             self.data["companies_today"] = {}
+            self.data["alerted_today"] = 0
 
     def remaining_today(self, cap: int) -> int:
         self._roll_day()
@@ -190,6 +198,51 @@ class Store:
         if title:
             self.data["titles"].append([int(time.time()), normalize_title(title)])
 
+    # ---------- 알람 / 클리핑 ----------
+
+    def _is_dup(self, url: str, title: str, seen_key: str, titles_key: str) -> bool:
+        if url_key(url) in self.data[seen_key]:
+            return True
+        if not title:
+            return False
+        return any(isinstance(p, str) and is_same_story(title, p)
+                   for _ts, p in self.data[titles_key])
+
+    def _record(self, url: str, title: str, seen_key: str, titles_key: str) -> None:
+        self.data[seen_key][url_key(url)] = int(time.time())
+        if title:
+            self.data[titles_key].append([int(time.time()), normalize_title(title)])
+
+    def already_alerted(self, url: str, title: str) -> bool:
+        return self._is_dup(url, title, "alerted", "alert_titles")
+
+    def mark_alerted(self, url: str, title: str) -> None:
+        self._record(url, title, "alerted", "alert_titles")
+        self.data["alerted_today"] = self.data.get("alerted_today", 0) + 1
+
+    def already_clipped(self, url: str, title: str) -> bool:
+        # 클리핑은 같은 사건의 다른 기사도 목록에 남길 값어치가 있으므로
+        # URL 만 본다. 제목 지문까지 보면 매체별 시각 차이가 사라진다.
+        return url_key(url) in self.data["clipped"]
+
+    def mark_clipped(self, url: str, title: str) -> None:
+        self.data["clipped"][url_key(url)] = int(time.time())
+
+    def alerts_left_today(self, cap: int) -> int:
+        self._roll_day()
+        return max(0, cap - int(self.data.get("alerted_today", 0)))
+
+    def clip_due(self, interval_hours: float) -> bool:
+        if not self.data["clip_buffer"]:
+            return False
+        return time.time() - float(self.data.get("last_clip") or 0) >= interval_hours * 3600
+
+    def flush_clip(self) -> list[dict]:
+        rows = self.data["clip_buffer"]
+        self.data["clip_buffer"] = []
+        self.data["last_clip"] = int(time.time())
+        return rows
+
     # ---------- 조용한 시간 큐 ----------
 
     def enqueue(self, payload: dict) -> None:
@@ -222,8 +275,10 @@ class Store:
 
     def save(self) -> None:
         cutoff = int(time.time()) - SEEN_TTL_DAYS * 86400
-        self.data["seen"] = {k: v for k, v in self.data["seen"].items() if v >= cutoff}
-        self.data["titles"] = self.data["titles"][-MAX_TITLE_FINGERPRINTS:]
+        for key in ("seen", "alerted", "clipped"):
+            self.data[key] = {k: v for k, v in self.data[key].items() if v >= cutoff}
+        for key in ("titles", "alert_titles", "clip_titles"):
+            self.data[key] = self.data[key][-MAX_TITLE_FINGERPRINTS:]
         self.data["stats"]["last_run"] = now_kst().strftime("%Y-%m-%d %H:%M KST")
 
         self.path.parent.mkdir(parents=True, exist_ok=True)

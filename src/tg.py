@@ -16,9 +16,20 @@ MAX_LEN = 4000  # 텔레그램 한도 4096, 여유 둠
 
 
 class Telegram:
-    def __init__(self, token: str, chat_id: str):
+    """채널 여러 개로 나눠 보낸다.
+
+    channels 는 {용도: chat_id}. 해당 용도의 채널이 설정돼 있지 않으면
+    개인 DM(chat_id)으로 떨어진다 — 채널을 아직 안 만들었어도 메시지가
+    사라지지 않게 하기 위한 장치다.
+    """
+
+    def __init__(self, token: str, chat_id: str, channels: dict | None = None):
         self.token = token
         self.chat_id = str(chat_id)
+        self.channels = {k: str(v) for k, v in (channels or {}).items() if v}
+
+    def target(self, channel: str | None) -> str:
+        return self.channels.get(channel or "", self.chat_id)
 
     def _call(self, method: str, payload: dict, retries: int = 3) -> dict | None:
         url = API.format(token=self.token, method=method)
@@ -43,13 +54,13 @@ class Telegram:
             return data.get("result")
         return None
 
-    def send(self, text: str, preview: bool = False) -> bool:
+    def send(self, text: str, preview: bool = False, channel: str | None = None) -> bool:
         ok = True
         for chunk in _split(text):
             res = self._call(
                 "sendMessage",
                 {
-                    "chat_id": self.chat_id,
+                    "chat_id": self.target(channel),
                     "text": chunk,
                     "parse_mode": "HTML",
                     "link_preview_options": {"is_disabled": not preview},

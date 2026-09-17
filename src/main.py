@@ -17,17 +17,22 @@ from pathlib import Path
 
 import yaml
 
+from datetime import datetime
+
 sys.path.insert(0, str(Path(__file__).parent))
 
+import alerts  # noqa: E402
+import clipping  # noqa: E402
 import extract  # noqa: E402
 import scoring  # noqa: E402
 import sources  # noqa: E402
 import tg  # noqa: E402
-from store import Store, now_kst  # noqa: E402
+from store import Store, now_kst, url_key  # noqa: E402
 from summarize import Summarizer  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 log = logging.getLogger("newsbot")
+NEWLINE = chr(10)
 
 def load_dotenv(path: Path) -> int:
     """로컬 테스트용 .env 로더.
@@ -166,7 +171,69 @@ def flush_queue(bot: tg.Telegram, store: Store, cfg: dict) -> None:
         bot.send(payload["text"])
 
 
-def run_news_cycle(bot: tg.Telegram, store: Store, sm: Summarizer, cfg: dict) -> None:
+def render_alert(item: dict, m: dict) -> str:
+    """알람 한 건. AI를 안 쓰므로 제목을 그대로 옮기고 왜 울렸는지만 덧붙인다."""
+    tag = m["rule"]
+    if m["company"]:
+        tag = m["company"] + " · " + m["rule"]
+    foot = [x for x in (item.get("source") or "",) if x]
+    if item.get("published"):
+        foot.append(datetime.fromtimestamp(item["published"]).strftime("%H:%M"))
+    why = " ".join(m["words"][:3])
+
+    return NEWLINE.join([
+        "⚡ <b>" + tg._esc(tag) + "</b>",
+        "",
+        '<a href="' + tg._esc(item["link"]) + '">' + tg._esc(item["title"]) + "</a>",
+        "",
+        "<i>" + tg._esc(" · ".join(foot)) + "</i>  ·  <code>" + tg._esc(why) + "</code>",
+    ])
+
+
+def run_alerts(bot: tg.Telegram, store: Store, cfg: dict, items: list[dict]) -> int:
+    a = cfg.get("alerts") or {}
+    if not a.get("enabled", True):
+        return 0
+    budget = min(a.get("max_per_run", 5), store.alerts_left_today(a.get("max_per_day", 30)))
+    if budget <= 0:
+        log.info("오늘 알람 한도 소진")
+        return 0
+
+    sent = 0
+    for item, m in alerts.pick(items, cfg, store, budget):
+        store.mark_alerted(item["link"], item["title"])
+        if bot.send(render_alert(item, m), channel="alert"):
+            sent += 1
+            log.info("알람 [%s/%s] %s", m["rule"], m["company"] or "-", item["title"][:44])
+    return sent
+
+
+def run_clipping(bot: tg.Telegram, store: Store, cfg: dict, items: list[dict]) -> int:
+    c = cfg.get("clipping") or {}
+    if not c.get("enabled", True):
+        return 0
+
+    added = clipping.collect(items, cfg, store)
+    if added:
+        log.info("클리핑 버퍼에 %d건 추가 (누적 %d건)", added, len(store.data["clip_buffer"]))
+
+    if not store.clip_due(c.get("interval_hours", 2)):
+        return 0
+    if len(store.data["clip_buffer"]) < c.get("min_items", 3):
+        log.info("클리핑 건수 부족(%d건) — 다음 회차로", len(store.data["clip_buffer"]))
+        return 0
+
+    rows = store.flush_clip()
+    alerted = set(store.data["alerted"])
+    alerted_urls = {r["u"] for r in rows if url_key(r["u"]) in alerted}
+    for chunk in clipping.render(rows, cfg, alerted_urls):
+        bot.send(chunk, channel="clip")
+    log.info("클리핑 %d건 발송", len(rows))
+    return len(rows)
+
+
+def run_news_cycle(bot: tg.Telegram, store: Store, sm: Summarizer, cfg: dict,
+                   items: list[dict] | None = None) -> None:
     limits = cfg.get("limits") or {}
     quiet = in_quiet_hours(cfg)
 
@@ -183,7 +250,7 @@ def run_news_cycle(bot: tg.Telegram, store: Store, sm: Summarizer, cfg: dict) ->
         log.info("발행 한도 소진 (야간 몫)" if quiet else "오늘 발행 한도 소진")
         return
 
-    items = sources.collect(cfg)
+    items = items if items is not None else sources.collect(cfg)
     fresh = [i for i in items if store.is_new(i["link"], i["title"])]
     candidates = scoring.shortlist(fresh, cfg)
     log.info("신규 %d건 → 후보 %d건 (예산 %d건%s)",
@@ -272,19 +339,34 @@ def main() -> int:
     store = Store(args.state)
     sm = Summarizer(cfg)
 
-    bot = tg.Telegram(token, chat_id)
+    # 채널 배정: config 에 적힌 환경변수 이름으로 실제 chat_id 를 찾는다.
+    # 값이 없으면 개인 DM 으로 떨어지므로, 채널을 아직 안 만들었어도 메시지가 사라지지 않는다.
+    ch_cfg = cfg.get("channels") or {}
+    channels = {name: os.environ.get(envname, "") for name, envname in ch_cfg.items()}
+    for name, cid in channels.items():
+        log.info("채널 %-5s -> %s", name, cid or "(미설정 · 개인 DM)")
+
+    bot = tg.Telegram(token, chat_id, channels)
     if args.dry_run:
-        bot.send = lambda text, preview=False: (print("\n" + "─" * 60 + "\n" + text), True)[1]
+        def _show(text, preview=False, channel=None):
+            print(NEWLINE + "=" * 64 + "  [" + (channel or "DM") + "]" + NEWLINE + text)
+            return True
+        bot.send = _show
 
     try:
         if has_telegram and not args.no_messages:
             handle_messages(bot, store, sm, cfg)
         if not args.messages_only:
             flush_queue(bot, store, cfg)
-            if not store.paused:
-                run_news_cycle(bot, store, sm, cfg)
-            else:
+            if store.paused:
                 log.info("일시정지 상태 — 자동 발행 건너뜀")
+            else:
+                # 피드는 한 번만 읽고 알람·클리핑·(선택)AI선별이 나눠 쓴다
+                items = sources.collect(cfg)
+                run_alerts(bot, store, cfg, items)
+                run_clipping(bot, store, cfg, items)
+                if (cfg.get("curation") or {}).get("enabled", False):
+                    run_news_cycle(bot, store, sm, cfg, items)
     finally:
         # 연습 실행이 상태를 더럽히면, 정작 실제 실행 때 그 기사들이 이미 본 것으로 처리된다
         if args.dry_run:
