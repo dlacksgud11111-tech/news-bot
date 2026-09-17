@@ -52,7 +52,18 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 2,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "머니투데이",
+   "sc": 10,
+   "sec": "전력기기",
+   "t": "효성重, 에너지대전서 HVDC 기술 공개..밸브·제어기 국산화 - 머니투데이 - 머니투데이",
+   "ts": 1789605016,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16cWVuaWFXS2FqU1NBQ2laeEFNZUZRcW5RZFJJVG1fRmNWR016M2lWNjVoMFpRY1E5UU9hVTByRHRZTV9sZ0k5WUZHMThXUkNDVDlGMDhEV0o1dzlMRzl3cEZuU0gwOVg3NFZGctIBckFVX3lxTE4tM1diMmhCWDJ4UlRoNGczeExCWE52andFbUFmVS1HdWNBRlpVN055OTU0YWE3ZlBBajFfWTIzbmNTVGxENExRMXhSU29IOTNweXoxOG01YWVDWS0zQ29EZ3VLZWdKTEc1NDVoS0hfTE5LZw?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "003700b0bc3aa10c": 1789627496,
@@ -73,6 +84,7 @@
   "03fa52e1013b5ee4": 1789627496,
   "042cfb23d6e695a6": 1789627496,
   "04422e804cc0f8b5": 1789629088,
+  "047de98d7222f0e7": 1789682714,
   "047fb5aed74f790c": 1789679129,
   "04d6e29d6b213f69": 1789641027,
   "054e34c8df399f37": 1789627496,
@@ -608,6 +620,7 @@
   "8f578dbebeaea4ff": 1789627496,
   "8f6d94f141b44952": 1789627496,
   "8f6f62765762ff11": 1789627496,
+  "8fab80bd178f34e9": 1789682714,
   "8fb277102ef0e00b": 1789641915,
   "90082ed85926a2fa": 1789629088,
   "9089a0d42b82f331": 1789679129,
@@ -707,6 +720,7 @@
   "add5a751a2962a7b": 1789634416,
   "add891651fb260db": 1789629088,
   "ae02f4281adc10d6": 1789627496,
+  "ae42dfa18d9bf3a0": 1789682714,
   "ae5088f8bc7d5f97": 1789634116,
   "ae590a2c88cbed6a": 1789627496,
   "af284089984fedf1": 1789627496,
@@ -1083,7 +1097,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 07:00 KST",
+  "last_run": "2026-09-18 07:05 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
