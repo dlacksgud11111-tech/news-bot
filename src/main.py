@@ -4,7 +4,8 @@
   1) 내가 봇에게 보낸 메시지 처리 (링크 정리 / 명령어)   ← 모드 C
   2) 조용한 시간에 밀렸던 발행물 내보내기
   3) 뉴스 수집 → 선별 → 요약 → 발송                      ← 모드 A+B
-  4) 상태 저장
+  4) 금요일 08시가 지났으면 부동산 주간 News Flow          ← 모드 D
+  5) 상태 저장
 """
 
 from __future__ import annotations
@@ -17,7 +18,7 @@ from pathlib import Path
 
 import yaml
 
-from datetime import datetime
+from datetime import datetime, timedelta
 
 sys.path.insert(0, str(Path(__file__).parent))
 
@@ -27,6 +28,7 @@ import extract  # noqa: E402
 import scoring  # noqa: E402
 import sources  # noqa: E402
 import tg  # noqa: E402
+import weekly  # noqa: E402
 from store import Store, now_kst, url_key  # noqa: E402
 from summarize import Summarizer  # noqa: E402
 
@@ -74,6 +76,17 @@ def in_quiet_hours(cfg: dict) -> bool:
     h = now_kst().hour
     start, end = int(q.get("start", 1)), int(q.get("end", 7))
     return start <= h < end if start < end else (h >= start or h < end)
+
+
+def weekly_status(store: Store, cfg: dict) -> str:
+    """/status 에 한 줄로 보여줄 주간 리포트 상태."""
+    if not (cfg.get("weekly") or {}).get("enabled", True):
+        return "꺼짐"
+    due = weekly.deadline(cfg)
+    if float(store.data.get("last_weekly") or 0) >= due.timestamp():
+        nxt = due + timedelta(days=7)
+        return f"{due:%m/%d} 발송 완료 · 다음 {nxt:%m/%d} {nxt.hour}시"
+    return f"{due:%m/%d %H시} 마감분 대기 중"
 
 
 def summarize_and_render(sm: Summarizer, item: dict, cfg: dict, mode: str):
@@ -127,7 +140,8 @@ def handle_messages(bot: tg.Telegram, store: Store, sm: Summarizer, cfg: dict) -
                 f"대기 큐: {len(d['queue'])}건\n"
                 f"자동 발행: {'⏸ 중지' if store.paused else '▶️ 작동중'}\n"
                 f"누적 발행: {d['stats'].get('total_posted', 0)}건\n"
-                f"마지막 실행: {d['stats'].get('last_run', '-')}"
+                f"마지막 실행: {d['stats'].get('last_run', '-')}\n"
+                f"주간 리포트: {weekly_status(store, cfg)}"
             )
             continue
         if cmd == "/pause":
@@ -251,6 +265,20 @@ def run_clipping(bot: tg.Telegram, store: Store, cfg: dict, items: list[dict]) -
     return len(rows)
 
 
+def run_weekly(bot: tg.Telegram, store: Store, cfg: dict, force: bool = False) -> int:
+    """부동산 주간 News Flow. 금요일 08시가 지난 첫 실행에서 한 번만 나간다.
+
+    워크플로를 따로 두지 않는다. GitHub 예약은 몇 시간씩 밀리는데(README 참고)
+    이 봇은 앱스 스크립트가 5분마다 제 시각에 깨워주므로, 그 실행에 얹는 편이
+    금요일 08시를 훨씬 잘 지킨다.
+    """
+    if not force and quiet_for(cfg, "clip"):
+        # 새벽에 밀린 실행이 걸린 경우다. 도장을 안 찍었으니 07시 이후 첫 실행에 나간다.
+        log.info("조용한 시간 — 주간 리포트는 아침으로 미룹니다")
+        return 0
+    return weekly.run(bot, store, cfg, force=force)
+
+
 def run_news_cycle(bot: tg.Telegram, store: Store, sm: Summarizer, cfg: dict,
                    items: list[dict] | None = None) -> None:
     limits = cfg.get("limits") or {}
@@ -323,6 +351,9 @@ def main() -> int:
     ap.add_argument("--no-messages", action="store_true",
                     help="뉴스 수집만 하고 수신 메시지는 건드리지 않음. "
                          "worker 가 상시 대기 중일 때 같은 메시지에 두 번 답하는 것을 막는다.")
+    ap.add_argument("--weekly-now", action="store_true",
+                    help="부동산 주간 News Flow 를 지금 당장 한 번 만든다 "
+                         "(요일·마감 무시. --dry-run 과 같이 쓰면 콘솔로만 확인)")
     ap.add_argument("--dry-run", action="store_true",
                     help="텔레그램 발송 없이 콘솔에만 출력")
     args = ap.parse_args()
@@ -367,12 +398,15 @@ def main() -> int:
 
     bot = tg.Telegram(token, chat_id, channels)
     if args.dry_run:
-        def _show(text, preview=False, channel=None):
+        def _show(text, preview=False, channel=None, plain=False):
             print(NEWLINE + "=" * 64 + "  [" + (channel or "DM") + "]" + NEWLINE + text)
             return True
         bot.send = _show
 
     try:
+        if args.weekly_now:
+            run_weekly(bot, store, cfg, force=True)
+            return 0
         if has_telegram and not args.no_messages:
             handle_messages(bot, store, sm, cfg)
         if not args.messages_only:
@@ -384,6 +418,7 @@ def main() -> int:
                 items = sources.collect(cfg)
                 run_alerts(bot, store, cfg, items)
                 run_clipping(bot, store, cfg, items)
+                run_weekly(bot, store, cfg)
                 if (cfg.get("curation") or {}).get("enabled", False):
                     run_news_cycle(bot, store, sm, cfg, items)
     finally:

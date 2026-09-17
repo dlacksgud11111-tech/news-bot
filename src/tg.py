@@ -54,18 +54,24 @@ class Telegram:
             return data.get("result")
         return None
 
-    def send(self, text: str, preview: bool = False, channel: str | None = None) -> bool:
+    def send(self, text: str, preview: bool = False, channel: str | None = None,
+             plain: bool = False) -> bool:
+        """plain=True 면 HTML 해석 없이 글자 그대로 보낸다.
+
+        주간 리포트처럼 '메시지를 그대로 복사해 붙이는' 용도에 쓴다. HTML 모드로
+        보내려면 제목 속 & 나 < 를 &amp; 로 바꿔 넣어야 하는데, 그게 복사한
+        글에 그대로 남아 리포트에 들어간다.
+        """
         ok = True
         for chunk in _split(text):
-            res = self._call(
-                "sendMessage",
-                {
-                    "chat_id": self.target(channel),
-                    "text": chunk,
-                    "parse_mode": "HTML",
-                    "link_preview_options": {"is_disabled": not preview},
-                },
-            )
+            payload = {
+                "chat_id": self.target(channel),
+                "text": chunk,
+                "link_preview_options": {"is_disabled": not preview},
+            }
+            if not plain:
+                payload["parse_mode"] = "HTML"
+            res = self._call("sendMessage", payload)
             ok = ok and res is not None
         return ok
 

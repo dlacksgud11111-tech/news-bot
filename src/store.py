@@ -131,6 +131,8 @@ class Store:
             "clip_titles": [],     # 클리핑용 제목 지문
             "clip_buffer": [],     # 다음 클리핑에 나갈 기사들
             "last_clip": 0,        # 마지막 클리핑 발송 시각 (unix)
+            "last_weekly": 0,      # 마지막 주간 리포트의 마감 시각 (unix).
+                                   # 이 값이 도장이다 — 같은 주를 두 번 보내지 않는다.
             "alerted_today": 0,
             "alert_cooldown": {},  # "회사|규칙" -> 마지막 알람 시각
             "day": "",             # 'YYYY-MM-DD' (KST)
