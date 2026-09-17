@@ -152,6 +152,16 @@
    "t": "(월요객석)AI 데이터센터의 경쟁력, 발전량 확보에서 그리드 유연성으로 - 전기신문",
    "ts": 1789686000,
    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44cFNmTEt4RWxGcGNzSkd0TXItNkpqRlkwRVV1SVIzcnhpcmVsN2U1TTA2REZiQWN1M1hCbUtMZVRRQVBrYUJKNFg3NnlkZjcweXM5SWJSRTVqSzQwblVNcGNPRXdUZ3BMeV83ONIBcEFVX3lxTE04STRnSHdyNEJaNGEzR1VOX1pWMEhZVEhJYXFfclo4SzF2MVpHTmlBejVxdUpydnNIeWFacGxMVjc1VUUtTTBBR0I3VzBfUTNHOXkxaGlRZTQtR2FBQ0J2dFA4cDl6THpsUno1eWJBX0s?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "[AI 고속도로] \"GPU 있어도 전기 없으면 끝\"…엔비디아·구글, 데이터센터 전력판 바꾼다 - v.daum.net",
+   "ts": 1789608349,
+   "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTWXg5b2RaTEZFUWxlTW9TN1RYeDhPU0lMZFN1OFhrWUp4VVU3dmhsX2FyUnZXOXQ4WFFiNE8yRXlwd0hfeWlMY0NwUmkxelR4STdTQw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -668,6 +678,7 @@
   "82151272ed611c75": 1789631415,
   "8224666e3837ddcb": 1789627496,
   "824a9350c40afac5": 1789684816,
+  "8262fbcbfa91e115": 1789687812,
   "8273ad1a1fad785b": 1789627496,
   "8278cbc5aa88ae92": 1789632630,
   "82951340173a2818": 1789627496,
@@ -1208,7 +1219,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 08:25 KST",
+  "last_run": "2026-09-18 08:30 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
