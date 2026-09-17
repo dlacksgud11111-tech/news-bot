@@ -97,6 +97,16 @@
    "t": "[오늘 이 종목] AI 데이터센터부터 HBM4까지…성장 수혜주는? - MTN 머니투데이방송",
    "ts": 1789611850,
    "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBab2QxVXRTM25XTm1nQmUtUmNZaXRYZGsySV82OEZ5YnZ2QnB6WThjUjJjRWt4MWhRLUN4M2V2UVpFNGdMdDJuVmR5b1VjMXhaZ0J3bDM4LUlYbDhVVnBPMjdNWF8?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "블루밍비트",
+   "sc": 8,
+   "sec": "데이터센터·AI전력",
+   "t": "오라클, 텍사스 풍력발전 10개 프로젝트 투자…AI 데이터센터 전력 확보 - 블루밍비트",
+   "ts": 1789666831,
+   "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zX2lNRFRIVEtOZTFNaEV6T1RIQ1FoSFJJVnlTQ2Nrd0NmbW1HMko0VFgxZXdtZGI1NHpGd1Yxcl9tclNaYXlCY0xQaWZmc0ll?oc=5"
   }
  ],
  "clip_titles": [],
@@ -599,6 +609,7 @@
   "82b40fcc3c65b459": 1789627496,
   "82f406bc354675db": 1789627496,
   "830e675698904445": 1789629088,
+  "8350dde44babcd72": 1789667118,
   "836aba3c4407a7ee": 1789627496,
   "84252f552b1bb5fa": 1789634116,
   "843b05f8813fd299": 1789657519,
@@ -1100,7 +1111,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 02:40 KST",
+  "last_run": "2026-09-18 02:45 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
