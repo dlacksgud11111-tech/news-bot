@@ -657,6 +657,26 @@
    "t": "AI 데이터센터 투자 확대…전력·용수 확보 중요성 커져 - 라이센스뉴스",
    "ts": 1789632000,
    "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42NWc2RXZ5MW5jYTU0ZGFJOHpDNGNGLThSMUMtbE56OW9ZYk5pcnVmN3d4aFd4bDBnV0toVkgwaXZPNkJ6Y3U5anh5WjVkMUNiNTNmV05XbjZyTDJqRDBKbGZJSi1QNVJlUGhn?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "이투뉴스 - 전체기사",
+   "sc": 0,
+   "sec": "유틸리티·정책",
+   "t": "동서발전, SK가스인터내셔널과 직수입LNG 현물 매매기본계약",
+   "ts": 1789664662,
+   "u": "http://www.e2news.com/news/articleView.html?idxno=334381"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "kscnews.co.kr",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "효성중공업, 국산 전압형 HVDC 핵심기술 공개 - kscnews.co.kr",
+   "ts": 1789605900,
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wMDJPNGl3VU0wNV9mRGZ3ejVDcEdNV2l5aFdBdkhUdUhrM3E5VGNSUXhYQ2tCM2hMbDhOaW1SX1JMWWxiZzhKSzBBaXRIdVlEQjBhVk1XbGFCSGlpLTlkZU9MVFV0MjlFWUl3?oc=5"
   }
  ],
  "clip_titles": [],
@@ -960,6 +980,7 @@
   "67a9f20acd467246": 1789629088,
   "67d1e7680cd65026": 1789629088,
   "67ea5c41670615f9": 1789627496,
+  "67f8127883d819f1": 1789632630,
   "6812b34cbb976b12": 1789627496,
   "68f6451e2b82c89e": 1789627496,
   "691c2a46761f6875": 1789627496,
@@ -977,6 +998,7 @@
   "6f94a490ec48301a": 1789630519,
   "6ff224511bbc5819": 1789627496,
   "6ffc17490eb2e2c5": 1789630519,
+  "703422a41848848f": 1789632630,
   "708f4119680bfc04": 1789630519,
   "7091946b08032ce8": 1789627496,
   "70c6e9fe472269da": 1789627496,
@@ -1038,6 +1060,7 @@
   "82151272ed611c75": 1789631415,
   "8224666e3837ddcb": 1789627496,
   "8273ad1a1fad785b": 1789627496,
+  "8278cbc5aa88ae92": 1789632630,
   "82951340173a2818": 1789627496,
   "8299e0a15a816eff": 1789627496,
   "82b40fcc3c65b459": 1789627496,
@@ -1338,6 +1361,7 @@
   "ed7c4493f1732424": 1789629923,
   "ed7d5526edc1f356": 1789629923,
   "edbf9ca77c481a26": 1789627496,
+  "edd471bd3499e491": 1789632630,
   "ee5e0be9f6213802": 1789627496,
   "ef2daef2865da6e7": 1789627496,
   "ef3a5bdbe4a4e2bd": 1789627496,
@@ -1429,7 +1453,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-17 17:05 KST",
+  "last_run": "2026-09-17 17:10 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
