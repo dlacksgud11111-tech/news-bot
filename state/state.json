@@ -162,6 +162,26 @@
    "t": "[AI 고속도로] \"GPU 있어도 전기 없으면 끝\"…엔비디아·구글, 데이터센터 전력판 바꾼다 - v.daum.net",
    "ts": 1789608349,
    "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTWXg5b2RaTEZFUWxlTW9TN1RYeDhPU0lMZFN1OFhrWUp4VVU3dmhsX2FyUnZXOXQ4WFFiNE8yRXlwd0hfeWlMY0NwUmkxelR4STdTQw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "ebn.co.kr",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "[서학개미 안테나] 제너락 18%↑…아마존과 24억달러 데이터센터 전력 계약 - ebn.co.kr",
+   "ts": 1789686743,
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JdGpvY2pIcHhfekNEblZKeWVUanZJcWpOTGRtS2UtTm5YdldCeHp6S2JNVHJTSlJLcjRqc1dtblN4aUVESzBQN182QUU0cE9LRWJRbDJkeHQzb3c1LWdIaERQcDMyWjZo?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Univest",
+   "sc": 4,
+   "sec": "전력기기",
+   "t": "Transformer Stock Rises 45% in 1 Year: What Drove It - Univest",
+   "ts": 1789663905,
+   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PYklYQjViWW9WU1Y2eFpRTWcyZTVLTlIydkxiRDlWdGFTc0phRGV2TTNXRjNRejZyQ0wxREFPZ3M0a1hXSm94bHNDWXU3MXB1YXhBck9ENGhISWlneElST2VWQWxRdHNORXdzcGxqT2hqUDlLTk5pOQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -293,6 +313,7 @@
   "1b91666e408d21d8": 1789627496,
   "1bff12ffd9fed061": 1789648519,
   "1c20e332f79121f8": 1789627496,
+  "1c536ce1bfdc3fde": 1789688119,
   "1c68f85fc8ecce65": 1789627496,
   "1d6d56f739e296c7": 1789630519,
   "1df6f6f354229b1e": 1789627496,
@@ -327,6 +348,7 @@
   "25398e6dc15b1224": 1789627496,
   "2549f2647e1b2e86": 1789627496,
   "259a2da7441ff646": 1789629088,
+  "261df68ccd9cb56d": 1789688119,
   "263fbed0860da2ef": 1789627496,
   "266cbde5c6585034": 1789649420,
   "269c907533f6ed36": 1789627496,
@@ -362,6 +384,7 @@
   "2d62a810cc66e8b0": 1789627496,
   "2e4a7298bbeed3a2": 1789634416,
   "2e64002002f87169": 1789627496,
+  "2ea214c497de1da9": 1789688119,
   "2ee4e2cb2ef4c862": 1789627496,
   "305ff558ffb6c841": 1789652129,
   "30b27e93d5fa84db": 1789627496,
@@ -517,6 +540,7 @@
   "58f1ff71f74e6a9e": 1789632918,
   "59450169591b871b": 1789648519,
   "598ad1fc2ec8a7c8": 1789631717,
+  "59cc4129a5998504": 1789688119,
   "59fb8e3b3566d812": 1789629088,
   "5a02b5e3acb6d19e": 1789630519,
   "5a9311bc43a688a5": 1789627496,
@@ -1026,6 +1050,7 @@
   "d9cce83b57d17d96": 1789627496,
   "da069d1f452c03c5": 1789627496,
   "da16c05920528003": 1789627496,
+  "da58bf947a9d5083": 1789688119,
   "dabee4548baeb0a4": 1789627496,
   "daeeea20f1836229": 1789633522,
   "db5c56d9ab39aae8": 1789627496,
@@ -1130,6 +1155,7 @@
   "f29cd925462a6865": 1789627496,
   "f2e7a22438287d5b": 1789627496,
   "f32ef9435088ca33": 1789627496,
+  "f333858b0f311f86": 1789688119,
   "f37d55d85eec8ba9": 1789627496,
   "f3b02d877809d222": 1789627496,
   "f3e19d108591effb": 1789627496,
@@ -1185,6 +1211,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789682431,
+ "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
  "queue": [],
@@ -1219,7 +1246,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 08:30 KST",
+  "last_run": "2026-09-18 08:35 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
