@@ -42,198 +42,7 @@
   "accda29e47d0d212": 1789627489
  },
  "alerted_today": 7,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "Google, Nvidia, and Emerald AI found the AI Energy Management Alliance to support demand response capabilities within the data center sector",
-   "ts": 1789642220,
-   "u": "https://www.datacenterdynamics.com/en/news/google-nvidia-and-emerald-ai-found-the-ai-energy-management-alliance-to-support-demand-response-capabilities-within-the-data-center-sector/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "녹색경제신문",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "GS건설·DL이앤씨 등 AI 데이터센터 사업 확대…건설업계 생태계 확장 - 녹색경제신문",
-   "ts": 1789621433,
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OOUlyNXZiN2hidV9lb2FJWmtMRk45Y0NURW02akFqVjhCX3hEMVpKWjZmbzAzU1ZEaFllcE5JajZSS3MyZXhOUFVZSFZLUWV6SFgya3JjZC1hSWNVVTNmTFpsaGFVZHdf?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "에코메탄올, 한국종합기술과 태백 동점 청정메탄올 프로젝트 EPC 협약",
-   "ts": 1789676141,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334387"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Aligned breaks ground on gigawatt-scale data center campus in Pennsylvania",
-   "ts": 1789644565,
-   "u": "https://www.datacenterdynamics.com/en/news/aligned-breaks-ground-on-gigawatt-scale-data-center-campus-in-pennsylvania/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "NorthC breaks ground on data center in Frankfurt, Germany",
-   "ts": 1789644810,
-   "u": "https://www.datacenterdynamics.com/en/news/northc-breaks-ground-on-data-center-in-frankfurt-germany/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "Spain launches capacity market as grid investment rises above €17 billion",
-   "ts": 1789645868,
-   "u": "https://www.pv-magazine.com/2026/09/17/spain-launches-capacity-market-as-grid-investment-rises-above-e17-billion/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Rune launches solar-sited modular compute system, raises $40m Series A",
-   "ts": 1789646119,
-   "u": "https://www.datacenterdynamics.com/en/news/rune-launches-solar-sited-modular-compute-system-raises-40m-series-a/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Google considers data center development in New Mexico",
-   "ts": 1789646229,
-   "u": "https://www.datacenterdynamics.com/en/news/google-considers-data-center-development-in-new-mexico/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 3,
-   "sec": "재생에너지·ESS",
-   "t": "Commissioning delays and technical gaps plague battery storage handovers, industry experts warn",
-   "ts": 1789646785,
-   "u": "https://www.energy-storage.news/commissioning-delays-and-technical-gaps-plague-battery-storage-handovers-industry-experts-warn/"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 7,
-   "sec": "유틸리티·정책",
-   "t": "한전KDN-PLN IP, 인니 누사페니다 신재생사업 타당성 검토",
-   "ts": 1789679170,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228305"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "SR타임스",
-   "sc": 18,
-   "sec": "전력기기",
-   "t": "효성중공업, 에너지대전서 '한전 실증' 국산 HVDC 핵심기술 공개 - SR타임스",
-   "ts": 1789646434,
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96TzdfcGlnOGlRTGZnX2Nfam9NRElGY0QtMEhuVnAxQm9sRDNwczBaaWdDU2tuaDBsekFRZVFHcTlpaXQ5UmV3UGtuM25LSVVMXzdxbzFWb19TaWhpR0NmdTMwdHVYOUl50gFrQVVfeXFMUC1NWVNGTW9lMDRHZ1VVbWM1SGF4Rk41MF9DemRDdTl3UVdGbThYX01maEtRR2pHNzVRb3NFSDFEc2x1NkV4V3Roa2VyZUZJeDZ5Yjh2LWZSeHJXRjhPdWtNWHlCb19IbU9XbEU?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "Bangladesh launches $123 million rooftop solar fund",
-   "ts": 1789647667,
-   "u": "https://www.pv-magazine.com/2026/09/17/bangladesh-launches-123-million-rooftop-solar-fund/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "First Solar drops TOPCon patent complaint",
-   "ts": 1789648503,
-   "u": "https://www.pv-magazine.com/2026/09/17/first-solar-drops-topcon-patent-complaint/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 3,
-   "sec": "유틸리티·정책",
-   "t": "가스公 사업비 지원한 대구시민햇빛발전소 24호기 준공",
-   "ts": 1789681355,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334398"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "경남에너지, 진해권역 최초 상용차 전용 ‘창원덕산 수소충전소’ 가동",
-   "ts": 1789681299,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334397"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 0,
-   "sec": "유틸리티·정책",
-   "t": "가스공사 본사·전국 15개 사업장 취약계층에 3.4억원 상당 지원",
-   "ts": 1789680931,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334390"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 1,
-   "sec": "유틸리티·정책",
-   "t": "한화오션, LNG운반선 화물창 검사·LNG벙커링선 공동개발 착수",
-   "ts": 1789680826,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334388"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "CEO스코어데일리",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "효성·HD현대·LS, 美 AI 전력특수 ‘쌍끌이’…“전력기기 수주 3건 중 2건이 미국” - CEO스코어데일리",
-   "ts": 1789631717,
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fYUUwYjZrX05ZQmFtcWtnVklPZkhKdzl6c0ZCZEdZNFZSUjJ6bGNiekY1dHM1TG9BY1RyczhtOVIwMFprMHdqU29CY3ZLeUJfUDhac1pLeGw2b0hkSlo1MjJMbHZQa3Ez?oc=5"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "한국면세뉴스",
-   "sc": 16,
-   "sec": "전력기기",
-   "t": "\"국산 HVDC 상용화 속도\"…효성중공업, 한전 실증사업 참여 - 한국면세뉴스",
-   "ts": 1789627527,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96UmY3c2N3a1dvVmwwVzBfQWd1alI2SkIwcXJTdTZ5dTJJQS1KcWMyNnlXQ3FLb3FrRUM1andfaVZaMjNyMmdPTkVVX2hEcjdfdmN6ZG1tdUZEWDMyZnNjNXhvUmNONUhBbEE?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "003700b0bc3aa10c": 1789627496,
@@ -1163,7 +972,7 @@
   "효성중공업": 1
  },
  "day": "2026-09-17",
- "last_clip": 1789642232,
+ "last_clip": 1789649715,
  "paused": false,
  "posted_today": 3,
  "queue": [],
@@ -1198,7 +1007,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-17 21:50 KST",
+  "last_run": "2026-09-17 21:55 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
