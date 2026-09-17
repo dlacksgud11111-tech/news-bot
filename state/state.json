@@ -102,6 +102,16 @@
    "t": "Spain launches capacity market as grid investment rises above €17 billion",
    "ts": 1789645868,
    "u": "https://www.pv-magazine.com/2026/09/17/spain-launches-capacity-market-as-grid-investment-rises-above-e17-billion/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "Rune launches solar-sited modular compute system, raises $40m Series A",
+   "ts": 1789646119,
+   "u": "https://www.datacenterdynamics.com/en/news/rune-launches-solar-sited-modular-compute-system-raises-40m-series-a/"
   }
  ],
  "clip_titles": [],
@@ -317,6 +327,7 @@
   "3a20b0ecb4c8c28c": 1789638316,
   "3a7d7b5b8245dde0": 1789632918,
   "3b1056290accdafc": 1789629088,
+  "3b1dd863d0bba9bc": 1789646417,
   "3b369d86c40fd91e": 1789627496,
   "3b6b19690ed57c45": 1789627496,
   "3bdae99a4f91c6a2": 1789627496,
@@ -1028,7 +1039,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-17 20:55 KST",
+  "last_run": "2026-09-17 21:00 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
