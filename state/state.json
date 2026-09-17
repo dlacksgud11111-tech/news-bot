@@ -247,6 +247,16 @@
    "t": "[투자 노하우] 한·미 대미투자 연기…원전·LNG 등 핵심은 에너지? - SBS Biz",
    "ts": 1789638540,
    "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83TFoxYi1SaTJ3bzhkVUtmNWZHZTVYWFlQbkhyNjNPZjNrTm9FbE5LY3p2OGQzTjd0Qlk3WkVMaFdWV1U4YXRUTHNFVFg2ZzJRNXpV0gFYQVVfeXFMUHhiYUtiNFJvajQwcGZOU0xPYVlXVEhfclQydTh2bDdoWWFXdVV0Q0R5b2h6aDM5MFJEWVBkbVRnTXNPVnhaOUJiTnozNlpzN0FITmsySWlRTg?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합인포맥스",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "美 데이터센터 전력 사용량 2년 내 '580TWh'…韓 전력 기업 특수 - 연합인포맥스",
+   "ts": 1789604157,
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jRlkxMDZ4WHRKVUNWUHloenRVX3l3T0tlcXVIU2RMUXM5ejdPR2gxM0xydEJyWXhIblpPWnZfcTc2QmhqR09QbWV1VFV2ZExpVDFXd0kyQ0wyV041MUtUU2tSWXBDaXdKNVg0Ym92SEQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -378,6 +388,7 @@
   "2193edbfbeba5b53": 1789627496,
   "21ac419df79f65c9": 1789627496,
   "21b0fcaa0fbf3c33": 1789627496,
+  "232b964f21f0b9ee": 1789641317,
   "234aa7d44236e25f": 1789634116,
   "23aa3ab4bc882174": 1789627496,
   "23e01b538372c656": 1789631415,
@@ -688,6 +699,7 @@
   "7ff88c70b104a116": 1789629088,
   "80156503d4fdbafe": 1789627496,
   "803dc3abf693b36a": 1789627496,
+  "804fb7c2785bb102": 1789641317,
   "805fff8861021598": 1789627496,
   "808f47b7d9b0aed9": 1789637719,
   "8096faaad0d7f8f1": 1789627496,
@@ -1157,7 +1169,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-17 19:30 KST",
+  "last_run": "2026-09-17 19:35 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
