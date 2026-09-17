@@ -737,6 +737,46 @@
    "t": "[심층분석]효성중공업, HVDC 국산화 전면에…‘밸브·제어기’ 확보가 전력망 공급망 바꾼다 - 뉴스밸류",
    "ts": 1789605000,
    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nZlNTTVBHSlJUTHFZNHUzTDlKZlpmVU9DNV9fblllaExNMy1QMVA3MGN6MnNrUVhZSTJXNDlONnBVOGtHUzhwNzdDUWpoblltVXEtd25naHpkZjFHWm5WQ1pLRVJiaGV1U3c?oc=5"
+  },
+  {
+   "co": "한국전력",
+   "n": 2,
+   "s": "전기신문 - 전체기사",
+   "sc": 17,
+   "sec": "유틸리티·정책",
+   "t": "(2026 전력AI포럼)“전력 먹던 AI, 계통 운영 두뇌로”...한전, 2030 ‘AI 대전환’ 시동",
+   "ts": 1789665864,
+   "u": "https://www.electimes.com/news/articleView.html?idxno=372591"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "전기신문 - 전체기사",
+   "sc": 8,
+   "sec": "전력기기",
+   "t": "(2026 전력AI포럼) “현장으로 뛰어든 AI… 전력산업, ‘AI 그리드’ 대전환 맞이했다”",
+   "ts": 1789665850,
+   "u": "https://www.electimes.com/news/articleView.html?idxno=372592"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "허프포스트코리아",
+   "sc": 14,
+   "sec": "전력기기",
+   "t": "효성중공업 2026 대한민국 에너지대전 참가 : 자체 기술로 국산화한 초고압직류송전 설비 선보인다 - 허프포스트코리아",
+   "ts": 1789633310,
+   "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GNlNNZkFLU05RbXRKeGJFQm01cFhlaU1LeDM1Mm1kR3BNM19mMHRyd2pPRVlfMFJJWTBrOFliYTZKemRRc3hObzJuMm5Wc3BQU1dkb0NvVQ?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "여성소비자신문",
+   "sc": 14,
+   "sec": "전력기기",
+   "t": "LS그룹·효성중공업, 중앙아시아 3개국과 에너지-핵심광물 분야 사업 협력·‘2026 대한민국 에너지대전’서 국산 HVDC 핵심설비 공개 - 여성소비자신문",
+   "ts": 1789627322,
+   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94ajYyY2NyQmcyYXhVdEtHR3FUV3RwYkFZajNlX0xTelY4dERLR0JrRlNDbGFSakF5MnVwdUlsRGNGYkZNT1c4OEhXakJkZlRwTlBQSnhTT09VNm5FV214V3IyZ0tJQQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -811,10 +851,12 @@
   "130af4911ed5ef81": 1789627496,
   "132ce01b6e6e4ede": 1789627496,
   "135b0f698a898b49": 1789627496,
+  "13cf78ca87798eee": 1789633820,
   "13e2c1f714708888": 1789627496,
   "143f7958a0199122": 1789627496,
   "147e4b7dc573219e": 1789627496,
   "1645cb4d538dbbbe": 1789627496,
+  "16734c3710e1bdf5": 1789633820,
   "16ba59c3a5e2ea85": 1789627496,
   "171761c9d9c085f2": 1789627496,
   "17221af43713df36": 1789632334,
@@ -875,6 +917,7 @@
   "2b45aa77adaf8ae1": 1789627496,
   "2b65150e05d8134e": 1789627496,
   "2bda6d38346b119d": 1789627496,
+  "2c0796269b2c2357": 1789633820,
   "2c3439902c054a4c": 1789629088,
   "2c3997afcffa63d7": 1789629088,
   "2c52d64284ebb7a1": 1789627496,
@@ -1048,6 +1091,7 @@
   "674fc3707d33123f": 1789629923,
   "67657fa35fc7a0d7": 1789627496,
   "677f8e246190ecb9": 1789627496,
+  "6781ae2b34f07af1": 1789633820,
   "67a9f20acd467246": 1789629088,
   "67d1e7680cd65026": 1789629088,
   "67ea5c41670615f9": 1789627496,
@@ -1114,6 +1158,7 @@
   "7b6fa4ff83cf0217": 1789629088,
   "7b929aaca65a359a": 1789629088,
   "7bba2a30cbe5de86": 1789627496,
+  "7c39b3fc4753b390": 1789633820,
   "7c9ce484532d632e": 1789627496,
   "7cc34ce63721b462": 1789627496,
   "7d1f3b54c8250378": 1789627496,
@@ -1182,6 +1227,7 @@
   "95afdeca6cd510b9": 1789627496,
   "965290b3599a4dd4": 1789627496,
   "97656ae4c59d9d7c": 1789629088,
+  "982188f1294f88e6": 1789633820,
   "984833176e35d975": 1789627496,
   "99462ccc0519934d": 1789632918,
   "9b18c355c0374b06": 1789627496,
@@ -1426,6 +1472,7 @@
   "e7793003ffca0063": 1789627496,
   "e79a7c51d9ac742c": 1789627496,
   "e7ccb4cde78841d8": 1789632918,
+  "e81319572d1dde0c": 1789633820,
   "e87195b5f255958b": 1789630519,
   "e8b5c5c1c9554e74": 1789630819,
   "e9a0453abdc9d0a0": 1789629088,
@@ -1536,7 +1583,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-17 17:25 KST",
+  "last_run": "2026-09-17 17:30 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
