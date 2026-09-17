@@ -97,6 +97,16 @@
    "t": "Scientists build 17%-efficient semi-transparent perovskite solar cell based on sputter-resistant aluminum oxide layer",
    "ts": 1789636471,
    "u": "https://www.pv-magazine.com/2026/09/17/scientists-build-17-efficient-semi-transparent-perovskite-solar-cell-based-on-sputter-resistant-aluminum-oxide-layer/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "브릿지경제",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "GS, AI데이터센터 생태계 확대⋯‘GS벤처스 테크데이’ 개최 - 브릿지경제",
+   "ts": 1789538400,
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BWGhqREtGc20wNFlJV2UzQU41M3V1QzNHbHUwNjZXdjd3RTJZVWhBQjNrNXdaV2wyQnJoWGd4blJ3ZTFuRlBQcmc5S3ZaYUltOEdtSHgzQ2dxZw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -219,6 +229,7 @@
   "211b9f92b8cc8c8a": 1789627496,
   "211fb2817f777687": 1789627496,
   "21309dc8f5ae751d": 1789632334,
+  "217c306208e09d6e": 1789636827,
   "2193edbfbeba5b53": 1789627496,
   "21ac419df79f65c9": 1789627496,
   "21b0fcaa0fbf3c33": 1789627496,
@@ -970,7 +981,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-17 18:15 KST",
+  "last_run": "2026-09-17 18:20 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
