@@ -72,6 +72,16 @@
    "t": "효성중공업, 국산 HVDC 시대 연다 - 중소기업신문",
    "ts": 1789609473,
    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QWnRPTk4zSTJjbV9LVVNrNmF2N1p3Wk9hNllJNUNoM190V1I0bmJOM3NpRTF3Q09zRlZfLWxSNTFOaVYxbXpsMW9WN0JyWDRFR0YzR0RnQy1CelNUdVRFajg4WkJEWTlaTUdLUQ?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "weekly.donga.com",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "효성중공업, 미국 빅테크 2곳과 3865억 원대 변압기 계약 - weekly.donga.com",
+   "ts": 1789682402,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04OHFfZnI0ajRjbTRSOUczV0NjOUxHMy1qS1VvcFE2ZGdQZzhWLUc0RVppVmQyMnlYalRsMFlaY1lDOUp6WWVvc3lnRWliMEpod2QxemVNODhoQUZtM2EwTS03Mi12UGRQWDdqRHF3?oc=5"
   }
  ],
  "clip_titles": [],
@@ -996,6 +1006,7 @@
   "ec41da134826e56e": 1789627496,
   "ec458635664c4694": 1789627496,
   "ec84f0c8d324235a": 1789627496,
+  "ecfee84b1f3453be": 1789683319,
   "ed68a54fe09a38ea": 1789629088,
   "ed728d6791e9c9dc": 1789629088,
   "ed7c4493f1732424": 1789629923,
@@ -1066,6 +1077,7 @@
   "fead65220fac4cb8": 1789627496,
   "feb7c72d95d12768": 1789656017,
   "ff05432b996fa423": 1789636217,
+  "ff42fff2cf9857d9": 1789683319,
   "ff5f179a6ff527c6": 1789627496,
   "ff68f917e952cf9e": 1789627496,
   "ff8e43c57e3108c2": 1789629088,
@@ -1108,7 +1120,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 07:10 KST",
+  "last_run": "2026-09-18 07:15 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
