@@ -202,6 +202,7 @@ def run_alerts(bot: tg.Telegram, store: Store, cfg: dict, items: list[dict]) -> 
     sent = 0
     for item, m in alerts.pick(items, cfg, store, budget):
         store.mark_alerted(item["link"], item["title"])
+        store.touch_cooldown(m["company"], m["rule"])
         if bot.send(render_alert(item, m), channel="alert"):
             sent += 1
             log.info("알람 [%s/%s] %s", m["rule"], m["company"] or "-", item["title"][:44])
@@ -226,9 +227,10 @@ def run_clipping(bot: tg.Telegram, store: Store, cfg: dict, items: list[dict]) -
     rows = store.flush_clip()
     alerted = set(store.data["alerted"])
     alerted_urls = {r["u"] for r in rows if url_key(r["u"]) in alerted}
-    for chunk in clipping.render(rows, cfg, alerted_urls):
+    chunks = clipping.render(rows, cfg, alerted_urls)
+    for chunk in chunks:
         bot.send(chunk, channel="clip")
-    log.info("클리핑 %d건 발송", len(rows))
+    log.info("클리핑 발송 (버퍼 %d건 중 상한만큼)", len(rows))
     return len(rows)
 
 

@@ -52,14 +52,24 @@ def match(item: dict, cfg: dict) -> dict | None:
 
 
 def pick(items: list[dict], cfg: dict, store, limit: int) -> list[tuple[dict, dict]]:
-    """알람 후보를 고른다. 최신 것부터, 이미 울린 건 제외."""
+    """알람 후보를 고른다. 최신 것부터, 이미 울린 건과 쿨다운 중인 건 제외."""
+    cooldown = (cfg.get("alerts") or {}).get("cooldown_hours", 4)
     out: list[tuple[dict, dict]] = []
+    fired: set[str] = set()  # 이번 실행 안에서도 같은 (회사, 규칙)은 한 번만
+
     for item in items:
         if len(out) >= limit:
             break
         if store.already_alerted(item["link"], item["title"]):
             continue
         m = match(item, cfg)
-        if m:
-            out.append((item, m))
+        if not m:
+            continue
+
+        key = (m["company"] or "") + "|" + m["rule"]
+        if m["company"] and (key in fired or store.in_cooldown(m["company"], m["rule"], cooldown)):
+            continue
+
+        fired.add(key)
+        out.append((item, m))
     return out

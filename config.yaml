@@ -58,6 +58,9 @@ alerts:
   enabled: true
   max_per_run: 5
   max_per_day: 30
+  cooldown_hours: 4      # 같은 회사의 같은 유형 사건은 이 시간 안에 한 번만.
+                         # 큰 수주는 매체 열 곳이 제목을 달리해 쓰는데, 제목만으로는
+                         # 같은 사건인 줄 모른다. 이 값이 그 재탕을 막는다.
   rules:
     - name: 수주·계약
       require_company: true

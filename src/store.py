@@ -132,6 +132,7 @@ class Store:
             "clip_buffer": [],     # 다음 클리핑에 나갈 기사들
             "last_clip": 0,        # 마지막 클리핑 발송 시각 (unix)
             "alerted_today": 0,
+            "alert_cooldown": {},  # "회사|규칙" -> 마지막 알람 시각
             "day": "",             # 'YYYY-MM-DD' (KST)
             "posted_today": 0,
             "companies_today": {}, # 회사명 -> 오늘 발행 수
@@ -228,6 +229,22 @@ class Store:
     def mark_clipped(self, url: str, title: str) -> None:
         self.data["clipped"][url_key(url)] = int(time.time())
 
+    def in_cooldown(self, company: str, rule: str, hours: float) -> bool:
+        """같은 회사의 같은 유형 사건을 연달아 알리지 않는다.
+
+        큰 수주 하나를 매체 열 곳이 제각각 다른 제목으로 쓰면 제목 지문만으로는
+        같은 사건인 줄 모른다. (회사, 규칙) 쌍에 쿨다운을 두면 그게 걸린다.
+        다른 유형(예: 통상·정책)은 막지 않으므로 성격이 다른 사건은 그대로 울린다.
+        """
+        if hours <= 0 or not company:
+            return False
+        last = self.data["alert_cooldown"].get(company + "|" + rule, 0)
+        return time.time() - float(last) < hours * 3600
+
+    def touch_cooldown(self, company: str, rule: str) -> None:
+        if company:
+            self.data["alert_cooldown"][company + "|" + rule] = int(time.time())
+
     def alerts_left_today(self, cap: int) -> int:
         self._roll_day()
         return max(0, cap - int(self.data.get("alerted_today", 0)))
@@ -277,6 +294,9 @@ class Store:
         cutoff = int(time.time()) - SEEN_TTL_DAYS * 86400
         for key in ("seen", "alerted", "clipped"):
             self.data[key] = {k: v for k, v in self.data[key].items() if v >= cutoff}
+        self.data["alert_cooldown"] = {
+            k: v for k, v in self.data["alert_cooldown"].items() if v >= cutoff
+        }
         for key in ("titles", "alert_titles", "clip_titles"):
             self.data[key] = self.data[key][-MAX_TITLE_FINGERPRINTS:]
         self.data["stats"]["last_run"] = now_kst().strftime("%Y-%m-%d %H:%M KST")
