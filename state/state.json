@@ -87,6 +87,16 @@
    "t": "이호현 기후차관, 효성중공업 美 전력기기 생산 현장 방문 - 전기신문",
    "ts": 1789624154,
    "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQbnFEbnNzb21MUzF3NldTcUdiWGNaR0stb1FuazJoMzBEWmdiY2VEUUJFdzRsdWhuUDNMM01GajZJcTBrOVQyYnNVSDR2Q2hHeWxfdHJJSEpsbmF4Y2M3aDJRMXpvRHJad2JHcjN3c0rSAXBBVV95cUxQUG5xRG5zc29tTFMxdzZXU3FHYlhjWkdLLW9RbmsyaDMwRFpnYmNlRFFCRXc0bHVoblAzTDNNRmo2SXEwazlUMmJzVUg0dkNoR3lsX3RySUhKbG5heGNjN2gyUTF6b0RyWndiR3Izd3NK?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "Scientists build 17%-efficient semi-transparent perovskite solar cell based on sputter-resistant aluminum oxide layer",
+   "ts": 1789636471,
+   "u": "https://www.pv-magazine.com/2026/09/17/scientists-build-17-efficient-semi-transparent-perovskite-solar-cell-based-on-sputter-resistant-aluminum-oxide-layer/"
   }
  ],
  "clip_titles": [],
@@ -429,6 +439,7 @@
   "68f6451e2b82c89e": 1789627496,
   "691c2a46761f6875": 1789627496,
   "6aef674a1c128c46": 1789627496,
+  "6af88f13c585a2b3": 1789636515,
   "6c85408b112ca956": 1789627496,
   "6c863d16802c46cc": 1789627496,
   "6c8b077e533d9d5f": 1789627496,
@@ -959,7 +970,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-17 18:10 KST",
+  "last_run": "2026-09-17 18:15 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
