@@ -50,7 +50,7 @@
   },
   {
    "co": "",
-   "n": 1,
+   "n": 2,
    "s": "전기신문 - 전체기사",
    "sc": 13,
    "sec": "전력기기",
@@ -637,6 +637,16 @@
    "t": "Utility costs could put pressure on cities’ finances, S&P experts warn",
    "ts": 1789569194,
    "u": "https://www.utilitydive.com/news/rising-utility-costs-could-put-pressure-on-cities-finances-sp-experts-wa/830557/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "“데이터센터, 이젠 땅보다 전력”…AI 열풍에 서울 공실률 1% - v.daum.net",
+   "ts": 1789625708,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKZk9NajFQdzVPM1hFS3kxMUttaktjdWJLcnh5S3daak1pb2l1ZFRvckc1aGpQNmdZOHkyMUxiWExpTlNjY24ybmt4aWc4M1U?oc=5"
   }
  ],
  "clip_titles": [],
@@ -747,6 +757,7 @@
   "21ac419df79f65c9": 1789627496,
   "21b0fcaa0fbf3c33": 1789627496,
   "23aa3ab4bc882174": 1789627496,
+  "23e01b538372c656": 1789631415,
   "244904092c40a0fb": 1789629923,
   "24524f67c2af44ef": 1789627496,
   "24675eed3f3ffe99": 1789629088,
@@ -984,6 +995,7 @@
   "778e343336251936": 1789629088,
   "77c4be3f61b0adfc": 1789627496,
   "78f4a0bccba75b7f": 1789627496,
+  "79578982b1ae5c4d": 1789631415,
   "795d7b50155a79e5": 1789627496,
   "79e5f88d7eb74c3a": 1789630819,
   "7ad61663e3f86563": 1789627496,
@@ -1007,6 +1019,7 @@
   "8096faaad0d7f8f1": 1789627496,
   "81741ed956c59347": 1789627496,
   "817438ead89eb454": 1789629088,
+  "82151272ed611c75": 1789631415,
   "8224666e3837ddcb": 1789627496,
   "8273ad1a1fad785b": 1789627496,
   "82951340173a2818": 1789627496,
@@ -1127,6 +1140,7 @@
   "b2c739c17022c4ff": 1789627496,
   "b2f86a66fe564c20": 1789629150,
   "b39b383ec149733f": 1789627496,
+  "b3cddb779f9dc4c2": 1789631415,
   "b3d895e28ae72c9a": 1789629088,
   "b485281e4604f5d0": 1789629088,
   "b49b9d8b0c9f94b7": 1789627496,
@@ -1209,6 +1223,7 @@
   "cd45fbfa2769e431": 1789629088,
   "cd6e29fbecd22644": 1789629088,
   "cdcff6d68d397b8e": 1789629088,
+  "cddebd072c6726c4": 1789631415,
   "cde30d2cd1f7f278": 1789627496,
   "cebf5994ee1e37bb": 1789630519,
   "cee2aedb8dd8a8c8": 1789627496,
@@ -1395,7 +1410,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-17 16:45 KST",
+  "last_run": "2026-09-17 16:50 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
