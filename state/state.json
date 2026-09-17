@@ -77,6 +77,16 @@
    "t": "House passes ratepayer protection bill to limit data center cost shifts",
    "ts": 1789655481,
    "u": "https://www.utilitydive.com/news/house-passes-ratepayer-protection-bill-data-centers/830658/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "technovalue.com",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터, 연료전지로 '탄소중립' 길 열다 - technovalue.com",
+   "ts": 1789657827,
+   "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82VVREWUw2RktlbmZOa0Q2amFST0U0LWNweGZUR0lYbmoyRGVtS181Rng5eU9oS0gya2hjamNDMHdrTFNhdWhrOUV4UlNIbWZwNHM3MFRZZw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -338,6 +348,7 @@
   "416f82629d2e2a85": 1789627496,
   "41ccb6636c9115ec": 1789632918,
   "41d5043f20a440a7": 1789627496,
+  "426d52cc02b665ea": 1789663551,
   "429a3ee6d9bc0d7f": 1789631127,
   "42e6621670e1ce17": 1789630256,
   "4366b4a295198fb3": 1789629315,
@@ -1078,7 +1089,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 01:40 KST",
+  "last_run": "2026-09-18 01:45 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
