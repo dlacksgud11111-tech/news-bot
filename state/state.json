@@ -82,6 +82,16 @@
    "t": "Aligned breaks ground on gigawatt-scale data center campus in Pennsylvania",
    "ts": 1789644565,
    "u": "https://www.datacenterdynamics.com/en/news/aligned-breaks-ground-on-gigawatt-scale-data-center-campus-in-pennsylvania/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "NorthC breaks ground on data center in Frankfurt, Germany",
+   "ts": 1789644810,
+   "u": "https://www.datacenterdynamics.com/en/news/northc-breaks-ground-on-data-center-in-frankfurt-germany/"
   }
  ],
  "clip_titles": [],
@@ -786,6 +796,7 @@
   "cdcff6d68d397b8e": 1789629088,
   "cddebd072c6726c4": 1789631415,
   "cde30d2cd1f7f278": 1789627496,
+  "ce0334a09d3e40b6": 1789645218,
   "cebf5994ee1e37bb": 1789630519,
   "cee2aedb8dd8a8c8": 1789627496,
   "cf1395633e610a75": 1789627496,
@@ -953,6 +964,7 @@
   "fae80569bce639a5": 1789627496,
   "fb05622e5d050cb2": 1789629088,
   "fb736d694e820235": 1789627496,
+  "fc08e53d9a58ee44": 1789645218,
   "fc253918010bdc51": 1789627496,
   "fc36e78b9075e580": 1789637719,
   "fc7f470bcb1c3715": 1789627496,
@@ -1005,7 +1017,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-17 20:35 KST",
+  "last_run": "2026-09-17 20:40 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
