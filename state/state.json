@@ -107,6 +107,26 @@
    "t": "GS, AI데이터센터 생태계 확대⋯‘GS벤처스 테크데이’ 개최 - 브릿지경제",
    "ts": 1789538400,
    "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BWGhqREtGc20wNFlJV2UzQU41M3V1QzNHbHUwNjZXdjd3RTJZVWhBQjNrNXdaV2wyQnJoWGd4blJ3ZTFuRlBQcmc5S3ZaYUltOEdtSHgzQ2dxZw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "hani.co.kr",
+   "sc": 8,
+   "sec": "데이터센터·AI전력",
+   "t": "현대차, 새만금 청정수소 AI 데이터센터 전력 활용 검토…수소사업 ‘에너지’로 - hani.co.kr",
+   "ts": 1789636860,
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DMjkzaWZzZ0szV3I5MFV3bl82ekQ4NUlFTDhya0ZFTUVmVVR5SWhFemdjdWF1d3ZTYTBrU0Mzbl9fWGtJNnRjOVowN0pkVUtTZlE2UmhVRmtGV0E5UWN5R3lZc1A0SkktdXpjVS1aMnJlQQ?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "한국NGO신문",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "효성중공업, 한국전력 '대용량 전압형 HVDC 국산화·실증사업' 참여기업 선정 - 한국NGO신문",
+   "ts": 1789635949,
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3UDRYZUtILXI1RVJrVkt3UlhsWVU4b2ZJQmQ0Z0hEb3lYbEFHc1d2SV9RdXpOVURfblZCejVkZHZtc2I1TXo0Y09jRnN1cEUzY2xvY08yYXp1VF9vV2xMWjBYeHdrS0RX?oc=5"
   }
  ],
  "clip_titles": [],
@@ -413,6 +433,7 @@
   "5cab1f4744ae285c": 1789627496,
   "5cb2f607b0cd5ec7": 1789627496,
   "5cb66a164bdbc7a2": 1789627496,
+  "5cce5601b739fc06": 1789637120,
   "5cf923d37bf08936": 1789632334,
   "5d0968d162f63173": 1789627496,
   "5d16537d74f17597": 1789630519,
@@ -420,6 +441,7 @@
   "5db8280acb625b2e": 1789627496,
   "5e44f00db428640a": 1789627496,
   "5e7871a102741dd4": 1789629088,
+  "5ec4e32a732ee9a3": 1789637120,
   "5edbfff4b1148b1a": 1789629088,
   "5ee0acae28846174": 1789627496,
   "5f678e8ddee6f41b": 1789627496,
@@ -767,6 +789,7 @@
   "cd129ba9c61c32ca": 1789634116,
   "cd45b25d7473933b": 1789629088,
   "cd45fbfa2769e431": 1789629088,
+  "cd69da5c756f85ae": 1789637120,
   "cd6e29fbecd22644": 1789629088,
   "cdcff6d68d397b8e": 1789629088,
   "cddebd072c6726c4": 1789631415,
@@ -981,7 +1004,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-17 18:20 KST",
+  "last_run": "2026-09-17 18:25 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
