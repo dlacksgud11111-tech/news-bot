@@ -207,6 +207,26 @@
    "t": "[특징주] HD현대중공업, 엔진·데이터센터 전력까지 성장축 확대 - 뉴스티앤티",
    "ts": 1789617214,
    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91QktpRkhnVXZBWWpEZkN4Qm5Kd2dwU2FTWHhDYk43aDNXSGltR0pGQ1oxYXBVVld6VkNvVTdITVp2VTdVTWdzX1VKQWpEWFI5RWlhY3RVdXFhY2NhZElDNFJJX19lb0JUMkE?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "테크M",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "[글로벌] 앤트로픽, 호주서 2.16GW 데이터센터 확보…AI 경쟁 '전력·인프라전'으로 - 테크M",
+   "ts": 1789638406,
+   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UQ195bmlkaXBCZTRHUm5EaWdfU194cjRaSmM1ZjlFaHRGVHV4bTNPMU94VHZsSl9JRE8wRUQ3WGFsQnl6U2RxWG80N0ZvckpVTWJDQnN5Qk1OOWZYOU1Ed0gtaTZXZ9IBakFVX3lxTE5ZUVFsMFQyVkpVcUREeTJtczQ2WF9GUHVCN0tUdDBNZzNybzhRdnNGTk9OY2E4REtUZjJpOU54VU1Pcy1YQ0Qtd3dUZHM3TVFzWVNkTTJzOUlYWXNqTHNXSVBJU3lRLUVGMHc?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "뉴시스",
+   "sc": 16,
+   "sec": "전력기기",
+   "t": "기후차관, 효성중공업 美 초고압차단기 생산현장 방문…\"시장 확대 지원\" - 뉴시스",
+   "ts": 1789620129,
+   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40SzJwOFJyZVItREpzOHJzc2xtNkNaRkttSVRxNl96TDVsNUoyVHR2R0Myb1B3aVF2WXlwb0lOTGY4NDlJVDE4dVVDRTlZWW9NYl9LSzFfQWw3X0s0WmZKZVY2aWxrejNKNnotSHljWDA4V2p4UEdrMtIBeEFVX3lxTE40SzJwOFJyZVItREpzOHJzc2xtNkNaRkttSVRxNl96TDVsNUoyVHR2R0Myb1B3aVF2WXlwb0lOTGY4NDlJVDE4dVVDRTlZWW9NYl9LSzFfQWw3X0s0WmZKZVY2aWxrejNKNnotSHljWDA4V2p4UEdrMg?oc=5"
   }
  ],
  "clip_titles": [],
@@ -575,6 +595,7 @@
   "6e57a481baa5e673": 1789629088,
   "6e5cb1b84176d101": 1789627496,
   "6e73a20d9584a28e": 1789632918,
+  "6e7aa01c709a30d4": 1789639528,
   "6f5331acb38661e5": 1789636217,
   "6f602ee512261342": 1789634416,
   "6f6e8ce42acf3992": 1789627496,
@@ -725,6 +746,7 @@
   "9dd4079c0c23a1a6": 1789629088,
   "9ef9434f46ed9d49": 1789627496,
   "9fd86959a5fd139e": 1789627496,
+  "a01066456e177294": 1789639528,
   "a0211b1f0655a4e5": 1789627496,
   "a02cb89e58dc697d": 1789629088,
   "a08b648f74f3a466": 1789637719,
@@ -860,6 +882,7 @@
   "c3e73a951f75bcdf": 1789634416,
   "c41e87c4ed44c3e7": 1789627496,
   "c43520d70fd04b55": 1789627496,
+  "c4bd5d764718d20d": 1789639528,
   "c4e77d86190c2d41": 1789627496,
   "c5045c0c8515d31d": 1789627496,
   "c51ff93e5fac5349": 1789627496,
@@ -950,6 +973,7 @@
   "dedc89d338c0837d": 1789635327,
   "dedd28d4745fbf66": 1789632334,
   "df85707cb05498ba": 1789627496,
+  "e0827a2b69061cd2": 1789639528,
   "e0b5be5e6f041d29": 1789629088,
   "e0ddcc12e85c861c": 1789627496,
   "e0e61eb4013ad25d": 1789627496,
@@ -1021,6 +1045,7 @@
   "f169b74c6e4864c8": 1789627496,
   "f199ae83098968f1": 1789627496,
   "f1e9453bb7a31e77": 1789629088,
+  "f2012dd5c7141dc5": 1789639528,
   "f278f2e18f01e5df": 1789629088,
   "f29cd925462a6865": 1789627496,
   "f2e7a22438287d5b": 1789627496,
@@ -1108,7 +1133,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-17 19:00 KST",
+  "last_run": "2026-09-17 19:05 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
