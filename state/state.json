@@ -75,13 +75,33 @@
   },
   {
    "co": "효성중공업",
-   "n": 1,
+   "n": 2,
    "s": "weekly.donga.com",
    "sc": 12,
    "sec": "전력기기",
    "t": "효성중공업, 미국 빅테크 2곳과 3865억 원대 변압기 계약 - weekly.donga.com",
    "ts": 1789682402,
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04OHFfZnI0ajRjbTRSOUczV0NjOUxHMy1qS1VvcFE2ZGdQZzhWLUc0RVppVmQyMnlYalRsMFlaY1lDOUp6WWVvc3lnRWliMEpod2QxemVNODhoQUZtM2EwTS03Mi12UGRQWDdqRHF3?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "2news.co.kr",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "K-전력기기 3사, 북미 데이터센터 수주 1조 7900억 원 돌파 - 2news.co.kr",
+   "ts": 1789683180,
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zN3U3N182bE9oVGY0SWE4Sl96alNYZk0yR21fWkI4VW9qN1paMEVyMXpfaDQxbVF5c3J2dnlsQVgwNzJtNVhFVVdXUXB3eVFxRzZhUXdfemp1VmVWTDRXTHR6U1BRbGVB?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴스1",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "'러브콜' 계속되는 K-전력기기, 3Q 美 데이터센터 설비만 1.8조 수주 - 뉴스1",
+   "ts": 1789682400,
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hRkNwcm9nU0xodm5SY3c2TWk3MnMzUXNNVm5KV05fMnNEMk1HZ2NON015cEcwaHdyRUlZRnJXT1hNQjJwWG5QRG1qU3NzUmVSUm9RLTdQZnBOV0N5Z3FTSUtldnrSAWpBVV95cUxPRjlkZlkwTlNxejN6RV9JNTI3Nno0ZkNJTU5BdzJwZnNLeTJnZFlKXzZVeGs0SnlvNFpQbEpWNzVWMkNBXzJLRW5PamJRZnF1ZDdiR3RXUGt2bHdnaGNtUjFlWXVTM3Nlal9n?oc=5"
   }
  ],
  "clip_titles": [],
@@ -700,6 +720,7 @@
   "a367751b8c6a0369": 1789629088,
   "a3d47687aaefcc56": 1789635016,
   "a3d5bdd6021fec1f": 1789677617,
+  "a41471374e32a288": 1789683939,
   "a43b10619f290e7f": 1789627496,
   "a44047720745025c": 1789627496,
   "a44e282fef80a92b": 1789679129,
@@ -752,6 +773,7 @@
   "b0d5c4f8c6b323e0": 1789634416,
   "b0e838b6ccc45c1f": 1789647027,
   "b1385cf4f7fbab47": 1789630519,
+  "b1806b75e6e37592": 1789683939,
   "b1873a2e62a09f9c": 1789627496,
   "b1b50a0c09ee51ea": 1789627496,
   "b2250ad5291bce47": 1789637719,
@@ -1029,6 +1051,7 @@
   "f199ae83098968f1": 1789627496,
   "f1e9453bb7a31e77": 1789629088,
   "f2012dd5c7141dc5": 1789639528,
+  "f22fe24586bb5c9b": 1789683939,
   "f278f2e18f01e5df": 1789629088,
   "f29cd925462a6865": 1789627496,
   "f2e7a22438287d5b": 1789627496,
@@ -1120,7 +1143,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 07:20 KST",
+  "last_run": "2026-09-18 07:25 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
