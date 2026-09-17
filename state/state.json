@@ -142,6 +142,16 @@
    "t": "한전KDN-PLN IP, 인니 누사페니다 신재생사업 타당성 검토",
    "ts": 1789679170,
    "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228305"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "SR타임스",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "효성중공업, 에너지대전서 '한전 실증' 국산 HVDC 핵심기술 공개 - SR타임스",
+   "ts": 1789646434,
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96TzdfcGlnOGlRTGZnX2Nfam9NRElGY0QtMEhuVnAxQm9sRDNwczBaaWdDU2tuaDBsekFRZVFHcTlpaXQ5UmV3UGtuM25LSVVMXzdxbzFWb19TaWhpR0NmdTMwdHVYOUl50gFrQVVfeXFMUC1NWVNGTW9lMDRHZ1VVbWM1SGF4Rk41MF9DemRDdTl3UVdGbThYX01maEtRR2pHNzVRb3NFSDFEc2x1NkV4V3Roa2VyZUZJeDZ5Yjh2LWZSeHJXRjhPdWtNWHlCb19IbU9XbEU?oc=5"
   }
  ],
  "clip_titles": [],
@@ -770,6 +780,7 @@
   "b7bbc04d76e7fb65": 1789627496,
   "b7fe35f6dbbb9a59": 1789627496,
   "b8647869bf31c834": 1789627496,
+  "b883121171c50158": 1789647653,
   "b8e9e9337df89435": 1789627496,
   "b902cf32f808d90d": 1789627496,
   "b9491309ed73f9d8": 1789642528,
@@ -859,6 +870,7 @@
   "cee2aedb8dd8a8c8": 1789627496,
   "cf1395633e610a75": 1789627496,
   "cf356e533f5942b5": 1789629088,
+  "cf9e95fc4e7a6b73": 1789647653,
   "d0613f37161425ac": 1789627496,
   "d07b2a7884ebb6e2": 1789634416,
   "d0a73f988cbc2e87": 1789634116,
@@ -1076,7 +1088,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-17 21:15 KST",
+  "last_run": "2026-09-17 21:20 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
