@@ -92,6 +92,16 @@
    "t": "NorthC breaks ground on data center in Frankfurt, Germany",
    "ts": 1789644810,
    "u": "https://www.datacenterdynamics.com/en/news/northc-breaks-ground-on-data-center-in-frankfurt-germany/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "Spain launches capacity market as grid investment rises above €17 billion",
+   "ts": 1789645868,
+   "u": "https://www.pv-magazine.com/2026/09/17/spain-launches-capacity-market-as-grid-investment-rises-above-e17-billion/"
   }
  ],
  "clip_titles": [],
@@ -698,6 +708,7 @@
   "b485281e4604f5d0": 1789629088,
   "b49b9d8b0c9f94b7": 1789627496,
   "b4c5f72041f3adcb": 1789632334,
+  "b4e84e3fd7c5de09": 1789646130,
   "b4fbffde1dac14ab": 1789627496,
   "b5046afe43c0ef3a": 1789629088,
   "b51d00bb87d24964": 1789627496,
@@ -1017,7 +1028,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-17 20:50 KST",
+  "last_run": "2026-09-17 20:55 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
