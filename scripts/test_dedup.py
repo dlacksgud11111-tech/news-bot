@@ -70,7 +70,48 @@ def main() -> int:
             print(f"        B 숫자={sorted(number_signature(b))}")
 
     print(f"\n{passed}/{len(CASES)} 통과")
-    return 0 if passed == len(CASES) else 1
+    return (0 if passed == len(CASES) else 1) | title_tests()
+
+
+
+
+# ---------------------------------------------------------------- 제목 정리
+# 클리핑 목록은 매체명을 따로 보여주지 않으므로 제목 끝의 ' - 매체명' 을 뗀다.
+# 공백 없는 하이픈까지 자르면 'K-원전 전주기…' 가 'K' 로 잘려 제목이 망가진다.
+TITLE_CASES: list[tuple[str, str, str]] = [
+    ("효성중공업, HVDC 실증 사업 수주… 밸브·제어기 공급 - 폴리뉴스 Polinews",
+     "효성중공업, HVDC 실증 사업 수주… 밸브·제어기 공급",
+     "매체명 꼬리 제거"),
+    ("‘원전 건설’ 넘어 ‘해체’까지…K-원전 전주기 경쟁력 키운다",
+     "‘원전 건설’ 넘어 ‘해체’까지…K-원전 전주기 경쟁력 키운다",
+     "공백 없는 하이픈은 건드리지 않음"),
+    ("원유·원전·핵심광물·AI까지…한-중앙아 협력 전방위 확대",
+     "원유·원전·핵심광물·AI까지…한-중앙아 협력 전방위 확대",
+     "'한-중앙아' 보존"),
+    ("美 데이터센터 전력 사용량 2년 내 '580TWh'…韓 전력 기업 특수 | - 연합인포맥스",
+     "美 데이터센터 전력 사용량 2년 내 '580TWh'…韓 전력 기업 특수",
+     "남은 구분자 꼬리 정리"),
+    ("[속보] 효성중공업, 미국서 3866억원 규모 공급계약 2건 - CBC뉴스",
+     "[속보] 효성중공업, 미국서 3866억원 규모 공급계약 2건",
+     "앞머리 [속보] 는 정보라서 유지"),
+]
+
+
+def title_tests() -> int:
+    from clipping import display_title
+
+    passed = 0
+    print()
+    for raw, expected, why in TITLE_CASES:
+        got = display_title(raw)
+        ok = got == expected
+        passed += ok
+        print(f"{'PASS' if ok else 'FAIL'}  {why}")
+        if not ok:
+            print(f"        기대: {expected}")
+            print(f"        결과: {got}")
+    print(f"\n제목 정리 {passed}/{len(TITLE_CASES)} 통과")
+    return 0 if passed == len(TITLE_CASES) else 1
 
 
 if __name__ == "__main__":

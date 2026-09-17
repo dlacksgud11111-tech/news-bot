@@ -10,6 +10,7 @@
 from __future__ import annotations
 
 import html
+import re
 from datetime import datetime, timezone
 
 from scoring import _contains, companies_in, score
@@ -79,8 +80,24 @@ def collect(items: list[dict], cfg: dict, store) -> int:
     return added
 
 
+# 매체명 꼬리는 반드시 " - 매체" 처럼 구분자 양쪽에 공백이 있다.
+# 공백을 요구하지 않으면 'K-원전 전주기…' 의 하이픈까지 잘라 제목이 망가진다.
+_TRAIL_OUTLET = re.compile(r"\s+[-–—|]\s+[^-–—|]{1,22}\s*$")
+
+
 def _esc(s: str) -> str:
     return html.escape(str(s or "").strip(), quote=False)
+
+
+def display_title(title: str) -> str:
+    """구글뉴스 제목 끝에 붙는 ' - 매체명' 을 뗀다.
+
+    목록에서는 매체명을 따로 보여주지 않으므로 제목에 남아 있으면 자리만 먹는다.
+    앞머리의 [속보] 같은 표시는 정보라서 그대로 둔다.
+    """
+    t = _TRAIL_OUTLET.sub("", title.strip())
+    t = t.rstrip(" |-–—·")  # 매체명을 떼고 남은 구분자 꼬리 정리
+    return t if len(t) >= 8 else title.strip()  # 너무 짧아지면 원문 유지
 
 
 def render(buffer: list[dict], cfg: dict, alerted_urls: set[str]) -> list[str]:
@@ -125,24 +142,23 @@ def render(buffer: list[dict], cfg: dict, alerted_urls: set[str]) -> list[str]:
         shown = total_cap
 
     now = datetime.now().strftime("%m/%d %H:%M")
-    head = f"<b>📰 전력·에너지 클리핑</b>  {now}  ·  {shown}건"
-    if dropped:
-        head += f" <i>(관련도 낮은 {dropped}건 제외)</i>"
-    lines = [head, ""]
+    out = ["<b>📰 전력·에너지 클리핑</b>", f"<i>{now} · {shown}건</i>", ""]
 
     for sec in order:
         rows = kept.get(sec)
         if not rows:
             continue
-        lines.append(f"<b>── {_esc(sec)} ({len(rows)})</b>")
+        out.append(f"<b>━━ {_esc(sec)}  {len(rows)}</b>")
+        out.append("")
         for r in rows:
             mark = "🚨 " if r["u"] in alerted_urls else ""
-            src = _esc(r.get("s") or "")
-            if r.get("n", 1) > 1:
-                src += f" 외 {r['n'] - 1}곳"
-            src = f" <i>{src}</i>" if src else ""
-            lines.append(f'· {mark}<a href="{_esc(r["u"])}">{_esc(r["t"])}</a>{src}')
-        lines.append("")
+            n = r.get("n", 1)
+            more = f" <i>(+{n - 1})</i>" if n > 1 else ""
+            title = _esc(display_title(r["t"]))
+            out.append(mark + '<a href="' + _esc(r["u"]) + '">' + title + "</a>" + more)
+            out.append("")
 
-    lines.append("<i>훑어보고 필요한 건 링크를 봇에게 보내면 정리해 드립니다.</i>")
-    return ["\n".join(lines)]
+    if dropped:
+        out.append(f"<i>관련도 낮은 {dropped}건은 뺐습니다.</i>")
+    out.append("<i>필요한 건 링크를 봇에게 보내면 정리해 드립니다.  (+N) 은 같은 사건을 쓴 매체 수</i>")
+    return [chr(10).join(out)]

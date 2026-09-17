@@ -194,6 +194,9 @@ def run_alerts(bot: tg.Telegram, store: Store, cfg: dict, items: list[dict]) -> 
     a = cfg.get("alerts") or {}
     if not a.get("enabled", True):
         return 0
+    if quiet_for(cfg, "alert"):
+        log.info("조용한 시간 — 알람 건너뜀")
+        return 0
     budget = min(a.get("max_per_run", 5), store.alerts_left_today(a.get("max_per_day", 30)))
     if budget <= 0:
         log.info("오늘 알람 한도 소진")
@@ -209,6 +212,16 @@ def run_alerts(bot: tg.Telegram, store: Store, cfg: dict, items: list[dict]) -> 
     return sent
 
 
+def quiet_for(cfg: dict, what: str) -> bool:
+    """지금이 이 모드의 조용한 시간인가.
+
+    수집은 계속하고 발송만 멈춘다. 새벽에 쌓인 것은 아침 첫 실행 때
+    한 번에 나가므로, 아침 다이제스트와 같은 효과를 공짜로 낸다.
+    """
+    q = cfg.get("quiet_hours") or {}
+    return what in (q.get("applies_to") or []) and in_quiet_hours(cfg)
+
+
 def run_clipping(bot: tg.Telegram, store: Store, cfg: dict, items: list[dict]) -> int:
     c = cfg.get("clipping") or {}
     if not c.get("enabled", True):
@@ -218,6 +231,10 @@ def run_clipping(bot: tg.Telegram, store: Store, cfg: dict, items: list[dict]) -
     if added:
         log.info("클리핑 버퍼에 %d건 추가 (누적 %d건)", added, len(store.data["clip_buffer"]))
 
+    if quiet_for(cfg, "clip"):
+        log.info("조용한 시간 — 클리핑은 모아뒀다가 아침에 보냅니다 (%d건)",
+                 len(store.data["clip_buffer"]))
+        return 0
     if not store.clip_due(c.get("interval_hours", 2)):
         return 0
     if len(store.data["clip_buffer"]) < c.get("min_items", 3):
