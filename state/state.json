@@ -1,6 +1,6 @@
 {
  "alert_cooldown": {
-  "효성중공업|수주·계약": 1789658129
+  "효성중공업|수주·계약": 1789682430
  },
  "alert_titles": [
   [
@@ -34,11 +34,16 @@
   [
    1789658129,
    "효성중공업, 3800억 초고압변압기 美서 수주"
+  ],
+  [
+   1789682430,
+   "효성중공업, 한국전력 'HVDC 국산화 실증사업' 밸브"
   ]
  ],
  "alerted": {
   "1073060c113fb962": 1789629087,
   "12ac389b7fb194b2": 1789627494,
+  "3a7d7b5b8245dde0": 1789682430,
   "558c3dc7f4a3f569": 1789627492,
   "5cce5601b739fc06": 1789643729,
   "8b6589b0156277f4": 1789627490,
@@ -46,159 +51,8 @@
   "accda29e47d0d212": 1789627489,
   "cdaa54f68b0563fa": 1789658129
  },
- "alerted_today": 1,
- "clip_buffer": [
-  {
-   "co": "효성중공업",
-   "n": 3,
-   "s": "내외경제TV",
-   "sc": 14,
-   "sec": "전력기기",
-   "t": "효성중공업, '2026 에너지대전'서 국산 HVDC 핵심 기술 뽐낸다 - 내외경제TV",
-   "ts": 1789644385,
-   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13TndFbEFPTkhrSUFvYzRlUjZtNzBCOXpZaTd4aFBTTk44NnF3Rl9LOWxSZFdEOFRqLUxjX1Z2Z2k1U2duWGNsdEtnTFRDQmtnVmZTNTFMQmlveUpfTDhtTkg2UUpGQ3JsY0U4?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 5,
-   "sec": "재생에너지·ESS",
-   "t": "Meta, Apex Clean Energy agree to 144-MW Texas solar PPA",
-   "ts": 1789659724,
-   "u": "https://www.utilitydive.com/news/meta-apex-clean-energy-144-mw-texas-solar-ppa/830675/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 1,
-   "sec": "데이터센터·AI전력",
-   "t": "House passes ratepayer protection bill to limit data center cost shifts",
-   "ts": 1789655481,
-   "u": "https://www.utilitydive.com/news/house-passes-ratepayer-protection-bill-data-centers/830658/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "technovalue.com",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터, 연료전지로 '탄소중립' 길 열다 - technovalue.com",
-   "ts": 1789657827,
-   "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82VVREWUw2RktlbmZOa0Q2amFST0U0LWNweGZUR0lYbmoyRGVtS181Rng5eU9oS0gya2hjamNDMHdrTFNhdWhrOUV4UlNIbWZwNHM3MFRZZw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "MTN 머니투데이방송",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "[오늘 이 종목] AI 데이터센터부터 HBM4까지…성장 수혜주는? - MTN 머니투데이방송",
-   "ts": 1789611850,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBab2QxVXRTM25XTm1nQmUtUmNZaXRYZGsySV82OEZ5YnZ2QnB6WThjUjJjRWt4MWhRLUN4M2V2UVpFNGdMdDJuVmR5b1VjMXhaZ0J3bDM4LUlYbDhVVnBPMjdNWF8?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "블루밍비트",
-   "sc": 8,
-   "sec": "데이터센터·AI전력",
-   "t": "오라클, 텍사스 풍력발전 10개 프로젝트 투자…AI 데이터센터 전력 확보 - 블루밍비트",
-   "ts": 1789666831,
-   "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zX2lNRFRIVEtOZTFNaEV6T1RIQ1FoSFJJVnlTQ2Nrd0NmbW1HMko0VFgxZXdtZGI1NHpGd1Yxcl9tclNaYXlCY0xQaWZmc0ll?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Burlington advances on-site solar strategy across distribution network",
-   "ts": 1789657200,
-   "u": "https://www.utilitydive.com/news/burlington-advances-on-site-solar-strategy-across-distribution-network/830650/"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 14,
-   "sec": "전력기기",
-   "t": "효성중공업, 국산 HVDC 시대 연다…AI·디지털부터 청정에너지까지 솔루션 제시 - v.daum.net",
-   "ts": 1789609031,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfZE0wWnJPVEVBYXplQWVaY083QnZyb01ZZi1WRU1FWFBkZzh4NFJmUkhXeTNaakhvT2p6VnRYMlZLTExCMjJoeWtSWlY1Tm8?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "POWER Magazine",
-   "sc": 8,
-   "sec": "전력기기",
-   "t": "Bringing a Power Plant’s Worth of Load Onto the Grid: NERC’s Interconnection Reckoning",
-   "ts": 1789676370,
-   "u": "https://www.powermag.com/bringing-a-power-plants-worth-of-load-onto-the-grid-nercs-interconnection-reckoning/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "미주중앙일보",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "데이터센터 규제, IL 주지사 선거 쟁점 부상 - 미주중앙일보",
-   "ts": 1789677000,
-   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zOXVNc1hNYnZDWHhwdDhvVmRYSTZsdWZydTVmWkV0cXZFUndTZU90bUN2YXBvQW5tdURfRkpINzRpRm1LUFYtbGFTZkJrb3NKaGd5UHJQLXZ0UzhpQkZIT2ZR?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "아시아투데이",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "“AI 인프라 경쟁, 데이터센터 넘어 전력·공급망” - 아시아투데이",
-   "ts": 1789621589,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tN3hWaVM1YWFwV1JNV0V5aHpRQ0JwdVZmS2s1YkxWczlFS0R5ZmsySGtLQVY4bmc1S1lfNlBIQzB5OGNPYV9PNm8wNURGbnlPdDJXbWJLSWRhaTlVUmpFWXUwZkRCd3ZlRmdpRVF3?oc=5"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "디지털데일리",
-   "sc": 10,
-   "sec": "데이터센터·AI전력",
-   "t": "오펜하이머 손자가 본 AI 데이터센터 전력 해법…“한국처럼 원전 건설·금융구조 바꿔야” - 디지털데일리",
-   "ts": 1789678800,
-   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GZHRrZ2N2anc4NksxVExmalprVjBCU0JqRUxoU1BLM2R1Yzlzcnl0MTAwTGU4a0RzdUVic2dBaVZTZU50dGlYUk15TVM0ejJoMTl0dV8yUUpxLXFHNURhcjVn?oc=5"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "글로벌이코노믹",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "효성중공업, HVDC 핵심 설비 '밸브·제어기' 자체 기술 대거 공개 - 글로벌이코노믹",
-   "ts": 1789604658,
-   "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnIxRDRULXUxWTRKTDlEeW9VbVlDWDVXdXlLc2dIaDhtNlpMcFZoR2xCRHowNXZWWjFvMmRPZ05CVFJPZXFfNTREWGtSQ0ExZWZaM0ZLeUlyZWhqaGRCMFJDc3ROZ3dtWHpFZEstZEVPWTFyUDJ4UFM3V2dBWlZWUVY5UmFlUQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터 몰리자 실리콘밸리도 ‘전력 비상’…화석연료 회귀 우려 - v.daum.net",
-   "ts": 1789681500,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iYmtXSldzWU1Qc0dHQjJSYWxWdnBNZG5heEJZVW5iRmNhLWU1OHVDOU56a21oY08yMHFKeWlLb1dvQUlCVy1MX0pOajZ6Wnc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "[새만금 산업지도 바꿀 육양국] (중) 전망-AI 데이터센터 최적지로 부상…현대차 투자와 시너지 기대 - v.daum.net",
-   "ts": 1789632900,
-   "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE91UXBlLWlVckZHenUxVGNDNkxkMW9adURfcnRrdEdnRklKTmxkSFpENXJCZ2RmaTc1MWR4VVMzbW8wUVhyMEE?oc=5"
-  }
- ],
+ "alerted_today": 2,
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "003700b0bc3aa10c": 1789627496,
@@ -1194,7 +1048,7 @@
  },
  "companies_today": {},
  "day": "2026-09-18",
- "last_clip": 1789656918,
+ "last_clip": 1789682431,
  "paused": false,
  "posted_today": 0,
  "queue": [],
@@ -1229,7 +1083,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 06:55 KST",
+  "last_run": "2026-09-18 07:00 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
