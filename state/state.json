@@ -122,6 +122,16 @@
    "t": "Google considers data center development in New Mexico",
    "ts": 1789646229,
    "u": "https://www.datacenterdynamics.com/en/news/google-considers-data-center-development-in-new-mexico/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 3,
+   "sec": "재생에너지·ESS",
+   "t": "Commissioning delays and technical gaps plague battery storage handovers, industry experts warn",
+   "ts": 1789646785,
+   "u": "https://www.energy-storage.news/commissioning-delays-and-technical-gaps-plague-battery-storage-handovers-industry-experts-warn/"
   }
  ],
  "clip_titles": [],
@@ -597,6 +607,7 @@
   "871d8660628f59ab": 1789627496,
   "8736947d88b66b5f": 1789629315,
   "8768438c78d292d2": 1789631127,
+  "88e24d4ff5526ec3": 1789647027,
   "89031fb515806617": 1789627496,
   "890f086354f2e9fd": 1789627496,
   "8952486a890dec8d": 1789629088,
@@ -719,6 +730,7 @@
   "b04029fdc1668494": 1789627496,
   "b0a0bc52060cffd1": 1789627496,
   "b0d5c4f8c6b323e0": 1789634416,
+  "b0e838b6ccc45c1f": 1789647027,
   "b1385cf4f7fbab47": 1789630519,
   "b1873a2e62a09f9c": 1789627496,
   "b1b50a0c09ee51ea": 1789627496,
@@ -1053,7 +1065,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-17 21:05 KST",
+  "last_run": "2026-09-17 21:10 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
