@@ -41,7 +41,7 @@
   "a35a79d408f8ec9f": 1789627493,
   "accda29e47d0d212": 1789627489
  },
- "alerted_today": 7,
+ "alerted_today": 0,
  "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
@@ -688,6 +688,7 @@
   "b263481ea76b50dd": 1789627496,
   "b2c739c17022c4ff": 1789627496,
   "b2f86a66fe564c20": 1789629150,
+  "b3640013a1aba591": 1789657219,
   "b39b383ec149733f": 1789627496,
   "b3cddb779f9dc4c2": 1789631415,
   "b3d895e28ae72c9a": 1789629088,
@@ -996,14 +997,11 @@
   "ff8e43c57e3108c2": 1789629088,
   "ffa40d075e7d7e5b": 1789627496
  },
- "companies_today": {
-  "Hitachi Energy": 1,
-  "효성중공업": 1
- },
- "day": "2026-09-17",
+ "companies_today": {},
+ "day": "2026-09-18",
  "last_clip": 1789656918,
  "paused": false,
- "posted_today": 3,
+ "posted_today": 0,
  "queue": [],
  "seen": {
   "01275bb0f35d8837": 1789607675,
@@ -1036,7 +1034,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-17 23:55 KST",
+  "last_run": "2026-09-18 00:00 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
