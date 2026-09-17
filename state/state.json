@@ -717,6 +717,26 @@
    "t": "한·중 수소 전문가 \"산업화 위해 가격·수요·공급망 함께 키워야\"",
    "ts": 1789665398,
    "u": "http://www.e2news.com/news/articleView.html?idxno=334380"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "팝콘뉴스",
+   "sc": 16,
+   "sec": "전력기기",
+   "t": "효성중공업, 한전 HVDC 국산화 실증 참여…밸브·제어기 기술 선봬 - 팝콘뉴스",
+   "ts": 1789631305,
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WaHJobl9sUEE2bW1RaTU4eFZRMjRZdkpCTWlMZlpPYUU0b2NpY1R6MXIyNnJCUHFkUUc3ajRNOVFmZkNKRnZNR1lnLWRvSFRRWkpNdjZfOEZHMXBCcjRPbVhZUUlQaHE4OWdHNEh4ONIBckFVX3lxTE5kckV5YW42OFFJSnVOT1BRc2xOU3EzSEU2TU9ITFlocEFBcEd6WUdXWVVud0tFY3Frc0ttVWhTVlNMVTZvTkQzZVlXNHd4Nzgwa1ZJd0dhWko1QW5xaXFKN1dCLWF4dXJhdkE1TzRSYXBIQQ?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "뉴스밸류",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "[심층분석]효성중공업, HVDC 국산화 전면에…‘밸브·제어기’ 확보가 전력망 공급망 바꾼다 - 뉴스밸류",
+   "ts": 1789605000,
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nZlNTTVBHSlJUTHFZNHUzTDlKZlpmVU9DNV9fblllaExNMy1QMVA3MGN6MnNrUVhZSTJXNDlONnBVOGtHUzhwNzdDUWpoblltVXEtd25naHpkZjFHWm5WQ1pLRVJiaGV1U3c?oc=5"
   }
  ],
  "clip_titles": [],
@@ -842,6 +862,7 @@
   "259a2da7441ff646": 1789629088,
   "263fbed0860da2ef": 1789627496,
   "269c907533f6ed36": 1789627496,
+  "26f236844490d56e": 1789633522,
   "27044a608039c98b": 1789627496,
   "2798757f18619f0b": 1789627496,
   "27e827f8084203d1": 1789629088,
@@ -1098,6 +1119,7 @@
   "7d1f3b54c8250378": 1789627496,
   "7d419273e8d8ebda": 1789632017,
   "7dcfb818a258ba99": 1789630519,
+  "7e4dd2a3f1cc42d4": 1789633522,
   "7f16559f1c80e50f": 1789627496,
   "7f6bac662c59fb2b": 1789627496,
   "7f9361a513cd5563": 1789627496,
@@ -1359,6 +1381,7 @@
   "da069d1f452c03c5": 1789627496,
   "da16c05920528003": 1789627496,
   "dabee4548baeb0a4": 1789627496,
+  "daeeea20f1836229": 1789633522,
   "db5c56d9ab39aae8": 1789627496,
   "dbcfd521805eed15": 1789627496,
   "dceded5164757263": 1789629088,
@@ -1513,7 +1536,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-17 17:20 KST",
+  "last_run": "2026-09-17 17:25 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
