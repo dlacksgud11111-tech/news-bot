@@ -177,6 +177,26 @@
    "t": "효성중공업, HVDC 핵심 설비 '밸브·제어기' 자체 기술 대거 공개 - 글로벌이코노믹",
    "ts": 1789604658,
    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnIxRDRULXUxWTRKTDlEeW9VbVlDWDVXdXlLc2dIaDhtNlpMcFZoR2xCRHowNXZWWjFvMmRPZ05CVFJPZXFfNTREWGtSQ0ExZWZaM0ZLeUlyZWhqaGRCMFJDc3ROZ3dtWHpFZEstZEVPWTFyUDJ4UFM3V2dBWlZWUVY5UmFlUQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터 몰리자 실리콘밸리도 ‘전력 비상’…화석연료 회귀 우려 - v.daum.net",
+   "ts": 1789681500,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iYmtXSldzWU1Qc0dHQjJSYWxWdnBNZG5heEJZVW5iRmNhLWU1OHVDOU56a21oY08yMHFKeWlLb1dvQUlCVy1MX0pOajZ6Wnc?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "[새만금 산업지도 바꿀 육양국] (중) 전망-AI 데이터센터 최적지로 부상…현대차 투자와 시너지 기대 - v.daum.net",
+   "ts": 1789632900,
+   "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE91UXBlLWlVckZHenUxVGNDNkxkMW9adURfcnRrdEdnRklKTmxkSFpENXJCZ2RmaTc1MWR4VVMzbW8wUVhyMEE?oc=5"
   }
  ],
  "clip_titles": [],
@@ -570,6 +590,7 @@
   "63999d676064d0bf": 1789629088,
   "63b9f6cbaa1d6e88": 1789627496,
   "63d996a8e5cba507": 1789627496,
+  "6490060aa45353db": 1789681826,
   "64cf0eb79b4fc198": 1789627496,
   "64d15219cf9450dc": 1789637719,
   "65693e4abaf55ad5": 1789627496,
@@ -898,6 +919,7 @@
   "bc33aa962d5f6e6a": 1789638920,
   "bcc1e6b600f2c894": 1789630519,
   "bcc27e12540e3a32": 1789679129,
+  "bcc60a5e32a4268a": 1789681826,
   "bd4f724aefe98040": 1789627496,
   "bd83b0ee3ad7fb7a": 1789629315,
   "bde8c1de6a295907": 1789637719,
@@ -1207,7 +1229,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 06:45 KST",
+  "last_run": "2026-09-18 06:50 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
