@@ -77,6 +77,16 @@
    "t": "[오늘 이 종목] AI 데이터센터부터 HBM4까지…성장 수혜주는? - supple.kr",
    "ts": 1789612596,
    "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SX3hsVlBpRVVMT3JOTksyUDFxN3htV3RCcjUzQzA4Ynp5bEtONi1PTzNqdWNBVUZnQlVmd3FlZ0ZaT0FhVUN1TzRYRVRZZmxaUnk2em1LMkl6MDlX?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "전기신문",
+   "sc": 14,
+   "sec": "전력기기",
+   "t": "이호현 기후차관, 효성중공업 美 전력기기 생산 현장 방문 - 전기신문",
+   "ts": 1789624154,
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQbnFEbnNzb21MUzF3NldTcUdiWGNaR0stb1FuazJoMzBEWmdiY2VEUUJFdzRsdWhuUDNMM01GajZJcTBrOVQyYnNVSDR2Q2hHeWxfdHJJSEpsbmF4Y2M3aDJRMXpvRHJad2JHcjN3c0rSAXBBVV95cUxQUG5xRG5zc29tTFMxdzZXU3FHYlhjWkdLLW9RbmsyaDMwRFpnYmNlRFFCRXc0bHVoblAzTDNNRmo2SXEwazlUMmJzVUg0dkNoR3lsX3RySUhKbG5heGNjN2gyUTF6b0RyWndiR3Izd3NK?oc=5"
   }
  ],
  "clip_titles": [],
@@ -429,6 +439,7 @@
   "6e57a481baa5e673": 1789629088,
   "6e5cb1b84176d101": 1789627496,
   "6e73a20d9584a28e": 1789632918,
+  "6f5331acb38661e5": 1789636217,
   "6f602ee512261342": 1789634416,
   "6f6e8ce42acf3992": 1789627496,
   "6f94a490ec48301a": 1789630519,
@@ -902,6 +913,7 @@
   "fc9c203e616d298e": 1789627496,
   "fe02d534697aa903": 1789627496,
   "fead65220fac4cb8": 1789627496,
+  "ff05432b996fa423": 1789636217,
   "ff5f179a6ff527c6": 1789627496,
   "ff68f917e952cf9e": 1789627496,
   "ff8e43c57e3108c2": 1789629088,
@@ -947,7 +959,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-17 18:05 KST",
+  "last_run": "2026-09-17 18:10 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
