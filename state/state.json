@@ -132,6 +132,16 @@
    "t": "Commissioning delays and technical gaps plague battery storage handovers, industry experts warn",
    "ts": 1789646785,
    "u": "https://www.energy-storage.news/commissioning-delays-and-technical-gaps-plague-battery-storage-handovers-industry-experts-warn/"
+  },
+  {
+   "co": "한국전력",
+   "n": 1,
+   "s": "에너지신문 - 전체기사",
+   "sc": 7,
+   "sec": "유틸리티·정책",
+   "t": "한전KDN-PLN IP, 인니 누사페니다 신재생사업 타당성 검토",
+   "ts": 1789679170,
+   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228305"
   }
  ],
  "clip_titles": [],
@@ -852,6 +862,7 @@
   "d0613f37161425ac": 1789627496,
   "d07b2a7884ebb6e2": 1789634416,
   "d0a73f988cbc2e87": 1789634116,
+  "d13d122b09597a8e": 1789647317,
   "d154bc45fa6daf6d": 1789627496,
   "d1798765cc8a757f": 1789627496,
   "d1a163164a7c6144": 1789629088,
@@ -1065,7 +1076,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-17 21:10 KST",
+  "last_run": "2026-09-17 21:15 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
