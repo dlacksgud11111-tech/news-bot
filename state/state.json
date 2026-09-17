@@ -177,6 +177,26 @@
    "t": "효성중공업, 국산 HVDC 시대 연다… 핵심기술 전격 공개 - 뉴스엔뷰",
    "ts": 1789637936,
    "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GZlhRdjRZUkFzZEl6M3ZTcTNVMXA4TWRCRlhDcExXc1I1MXl4SllybHVLV2Y4ekoyS2V0WkVsX3V0czdpY2o4dTlRM3BDSW9jeGc4VzlDUkZid3gyRlFfVzNNV3U?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스 경제 최신기사",
+   "sc": 4,
+   "sec": "원전",
+   "t": "대미투자 막판 진통…원전 이견에 '100억불 선납' 압박 겹쳤나(종합)",
+   "ts": 1789638379,
+   "u": "https://www.yna.co.kr/view/AKR20260917088651003"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "더퍼블릭",
+   "sc": 16,
+   "sec": "전력기기",
+   "t": "효성중공업, 한전 HVDC 국산화 사업 참여…핵심설비 기술력 선봬 - 더퍼블릭",
+   "ts": 1789636896,
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByMDZKZFFiX3BlR2lNV29zS2RtZzA2NDZsc1ZIUUw5REY4bDRJdHk0cUNNeWVSZ1F4elBJSHRqeWVPLWFzM09kZGNLMmJRTHl2M0VILTIxaDF3U1Frc3FGQ3pxcEN4amV2cFlr0gFvQVVfeXFMTXBCaW9udXBIV0lXOWhBTjFkNXJnM3lldHdEelJUWThjZ21WRk9wSnFQRUI1YVgyTU05dE1TWlJoNk1fczFQTlk5TmloSUl3cnA4QktVT2gtYVlNSDhSNjBvTkhVRFB5WFhUREpfd2Uw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -339,6 +359,7 @@
   "2c52d64284ebb7a1": 1789627496,
   "2c87a1de6aa1eb5c": 1789638316,
   "2ca5fbdb2e5f635c": 1789629150,
+  "2cdb6ce1a12017f9": 1789638920,
   "2cfcf3ce6dc71946": 1789637719,
   "2d62a810cc66e8b0": 1789627496,
   "2e4a7298bbeed3a2": 1789634416,
@@ -793,6 +814,7 @@
   "bb86e88774e73564": 1789627496,
   "bba9df0bd438401c": 1789632334,
   "bbf9ac8f01b5ca5f": 1789627496,
+  "bc33aa962d5f6e6a": 1789638920,
   "bcc1e6b600f2c894": 1789630519,
   "bd4f724aefe98040": 1789627496,
   "bd83b0ee3ad7fb7a": 1789629315,
@@ -975,6 +997,7 @@
   "edbf9ca77c481a26": 1789627496,
   "edd471bd3499e491": 1789632630,
   "ee5e0be9f6213802": 1789627496,
+  "ee7d04d0099b25b0": 1789638920,
   "eed13029ced1d3b0": 1789635918,
   "ef2daef2865da6e7": 1789627496,
   "ef3a5bdbe4a4e2bd": 1789627496,
@@ -1074,7 +1097,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-17 18:50 KST",
+  "last_run": "2026-09-17 18:55 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
