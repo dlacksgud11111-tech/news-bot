@@ -112,6 +112,36 @@
    "t": "반토막 난 전력기기株…AI 속도조절론에도 수주는 ‘역주행’ - v.daum.net",
    "ts": 1789592470,
    "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1vM3lSVHdULUVPUUJ5RXh1VmotaTU4OWczODY0V2N0TWpxVmdOZkgzdlp0OG9vbVAwN1I5SjdmWHpMNGJXd2c?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴스투데이",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "[마켓인사이드] 중간선거 앞두고 공화·민주 양쪽에서 공격받는 AI 데이터센터 - 뉴스투데이",
+   "ts": 1789655220,
+   "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TZjNlaHpSY0x5VkQyc3pMQnoyYmY0VUJEakF2bDdHeVc0U1FQRk55NDZMSmt1dExvNHBNVEpLcVNwaXg1OU5hZGFubGlrLVJwSHlJdm10eUJDUnYzbHc?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "lawissue.co.kr",
+   "sc": 16,
+   "sec": "전력기기",
+   "t": "효성중공업, 한전 대용량 HVDC 실증사업 참여 - lawissue.co.kr",
+   "ts": 1789655069,
+   "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tSUswamRZNHdoNjRXM1NTa2ZFbG1iamJiejFNcjQ5STd0SjJGVHJGUXNNQXBKeWpVMnB4dk9wNkJPSlFsa2gwdHJJRjB0cnYxbWNNbE9xdHg0NHNOX3NYREJvaHZKeDR3bDRNUzZpVUM3cndHNVJmN3hn?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "모바일한경",
+   "sc": 22,
+   "sec": "전력기기",
+   "t": "효성중공업, 3800억 초고압변압기 美서 수주 - 모바일한경",
+   "ts": 1789632626,
+   "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTkVtZkJDZ2dDTUxYbWFpNVBuby1Nam9CeGlLaG40WTJBWTdtMDFUNjNPeFZJelhVR2J0aENoQjFpMWdKekdFeGtwcDlHZTBKbXE2T3NJQW9UMmJhYkRFU0Mxc3dfRXg3VHZiTnI5ZGx4ZEhZYWt3dlNsZDVQM05saHNfeXU1d2xPa2wtUmkxY3JXX1ROYzhxWDNlTjM3dXVMVUtQUlJhVWY1MmtPaVE?oc=5"
   }
  ],
  "clip_titles": [],
@@ -149,6 +179,7 @@
   "0815996fac76be42": 1789630256,
   "084e7582d96eeec9": 1789627496,
   "08c755d7ec571ffe": 1789627496,
+  "08d647260e31ed67": 1789655729,
   "08ee3afba00650a2": 1789629088,
   "091d63ef6ab99d8f": 1789631127,
   "0930647ffc96f221": 1789627496,
@@ -622,6 +653,7 @@
   "88e24d4ff5526ec3": 1789647027,
   "89031fb515806617": 1789627496,
   "890f086354f2e9fd": 1789627496,
+  "894bbd95398eb93c": 1789655729,
   "8952486a890dec8d": 1789629088,
   "89627064efce7e65": 1789627496,
   "8977d254721689b5": 1789631127,
@@ -865,6 +897,7 @@
   "cd69da5c756f85ae": 1789637120,
   "cd6e29fbecd22644": 1789629088,
   "cda87e489ca578c3": 1789654217,
+  "cdaa54f68b0563fa": 1789655729,
   "cdcff6d68d397b8e": 1789629088,
   "cddebd072c6726c4": 1789631415,
   "cde30d2cd1f7f278": 1789627496,
@@ -923,6 +956,7 @@
   "db5c56d9ab39aae8": 1789627496,
   "db9de21f163f6baa": 1789644321,
   "dbcfd521805eed15": 1789627496,
+  "dc0104fce3a0c7e6": 1789655729,
   "dceded5164757263": 1789629088,
   "dd1c78e61a340814": 1789627496,
   "dd74163ab5c41807": 1789629088,
@@ -1100,7 +1134,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-17 23:30 KST",
+  "last_run": "2026-09-17 23:35 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
