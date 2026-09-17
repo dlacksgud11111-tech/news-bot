@@ -112,6 +112,16 @@
    "t": "Rune launches solar-sited modular compute system, raises $40m Series A",
    "ts": 1789646119,
    "u": "https://www.datacenterdynamics.com/en/news/rune-launches-solar-sited-modular-compute-system-raises-40m-series-a/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Google considers data center development in New Mexico",
+   "ts": 1789646229,
+   "u": "https://www.datacenterdynamics.com/en/news/google-considers-data-center-development-in-new-mexico/"
   }
  ],
  "clip_titles": [],
@@ -216,6 +226,7 @@
   "196e1146652f62b3": 1789627496,
   "19abf67ffcbc8095": 1789627496,
   "19b893164ed45b66": 1789627496,
+  "1a47e5fa4b9db80b": 1789646718,
   "1a7a1907640992b4": 1789627496,
   "1a843e403963a913": 1789627496,
   "1aa303a1ebe0e026": 1789629088,
@@ -313,6 +324,7 @@
   "361dcef4a6bf65d7": 1789627496,
   "362c9920decbc5d8": 1789627496,
   "3643544ab3b5af90": 1789635918,
+  "36558f5fa032c5b3": 1789646718,
   "367979b5dea8d110": 1789629088,
   "36ac6dfa2a3e862f": 1789627496,
   "3749c7eb9b97674a": 1789627496,
@@ -531,6 +543,7 @@
   "778441a27c542a69": 1789629315,
   "778e343336251936": 1789629088,
   "77c4be3f61b0adfc": 1789627496,
+  "782c892dba060c2a": 1789646718,
   "78b1a7c118dbe5ef": 1789634116,
   "78f4a0bccba75b7f": 1789627496,
   "79578982b1ae5c4d": 1789631415,
@@ -657,6 +670,7 @@
   "a22bd1b3213e2d8d": 1789627496,
   "a2681db9ac3bfe52": 1789627496,
   "a30d7cdcb2abb320": 1789627496,
+  "a315c8a8ee96e2f8": 1789646718,
   "a3181ee57e162405": 1789627496,
   "a35a79d408f8ec9f": 1789627496,
   "a367751b8c6a0369": 1789629088,
@@ -1039,7 +1053,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-17 21:00 KST",
+  "last_run": "2026-09-17 21:05 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
