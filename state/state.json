@@ -67,6 +67,16 @@
    "t": "Meta, Apex Clean Energy agree to 144-MW Texas solar PPA",
    "ts": 1789659724,
    "u": "https://www.utilitydive.com/news/meta-apex-clean-energy-144-mw-texas-solar-ppa/830675/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 1,
+   "sec": "데이터센터·AI전력",
+   "t": "House passes ratepayer protection bill to limit data center cost shifts",
+   "ts": 1789655481,
+   "u": "https://www.utilitydive.com/news/house-passes-ratepayer-protection-bill-data-centers/830658/"
   }
  ],
  "clip_titles": [],
@@ -902,6 +912,7 @@
   "dedd28d4745fbf66": 1789632334,
   "df85707cb05498ba": 1789627496,
   "e0827a2b69061cd2": 1789639528,
+  "e0ad829b3839a141": 1789663217,
   "e0b5be5e6f041d29": 1789629088,
   "e0ddcc12e85c861c": 1789627496,
   "e0e61eb4013ad25d": 1789627496,
@@ -1067,7 +1078,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 01:35 KST",
+  "last_run": "2026-09-18 01:40 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
