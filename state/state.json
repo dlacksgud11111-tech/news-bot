@@ -300,7 +300,7 @@
   },
   {
    "co": "",
-   "n": 1,
+   "n": 2,
    "s": "동아일보",
    "sc": 8,
    "sec": "데이터센터·AI전력",
@@ -517,6 +517,26 @@
    "t": "효성중공업, 국산 HVDC 시대 연다…밸브·제어기 기술 확보 - 이지경제",
    "ts": 1789629021,
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56cDc0YmRyX3ZFV05nUlZtLTBGdGhzWG84bExpV2ozQ2xWMUdKbUpYWXN6Ymh3RmJrdHVwbERjVEJEbXgyNnY4V1ZSNDZ4OGtROUJhRlY0cjlFQU50VmNjc05OM3l6NDF6RFVLYi1n?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "지디넷코리아",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "[AI 고속도로] \"GPU 있어도 전기 없으면 끝\"…엔비디아·구글, 데이터센터 전력판 바꾼다 - 지디넷코리아",
+   "ts": 1789608239,
+   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QOWFHeXFLTHg0WDNTck03UlZxdmNXR3lrVmZkU2ZTS2JfeThzZ2NQX1Q2T19pS2tXaERUNjl5NlhCc0FhV0lGQ05JdHk5d19Nb01QbVJB?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "CPA뉴스",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "삼일PwC “AI 인프라 경쟁, 데이터센터 넘어 ‘전력·공급망’ 시대로” - CPA뉴스",
+   "ts": 1789602008,
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzX2c2UDZZU1BFYU02enY1VlpwT3M4M2lxLUp3M0N2Y0lNc3paREpraWtFY1ZMa3ZHeUpqUnRrOE1XYnJjaHE5M1JNWUd6cjlCZV9maXhsM0ZnR0hxSDJvS1QzRm9kMk5M?oc=5"
   }
  ],
  "clip_titles": [],
@@ -543,6 +563,7 @@
   "07267789ee608886": 1789627496,
   "0789b6bfbf121a95": 1789627496,
   "07d525960c49b672": 1789627496,
+  "0815996fac76be42": 1789630256,
   "084e7582d96eeec9": 1789627496,
   "08c755d7ec571ffe": 1789627496,
   "08ee3afba00650a2": 1789629088,
@@ -704,6 +725,7 @@
   "40646036c8dcb939": 1789627496,
   "416f82629d2e2a85": 1789627496,
   "41d5043f20a440a7": 1789627496,
+  "42e6621670e1ce17": 1789630256,
   "4366b4a295198fb3": 1789629315,
   "4385ca3fbb940582": 1789627496,
   "43caff40d9fb16b3": 1789629088,
@@ -744,6 +766,7 @@
   "5410f53ff78d6786": 1789629088,
   "543bb61aef37ba2b": 1789627496,
   "5511ecd565bb6e00": 1789627496,
+  "551b46f2c576adb3": 1789630256,
   "553e6a09164dd525": 1789629088,
   "55681c291f495ecd": 1789629088,
   "558c3dc7f4a3f569": 1789627496,
@@ -1238,7 +1261,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-17 16:25 KST",
+  "last_run": "2026-09-17 16:30 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
