@@ -35,7 +35,7 @@
 | ⚡ **알람** | 키워드 적중 기사 | 즉시 (5분 내) | 안 씀 | 알람 채널 |
 | 📰 **클리핑** | 섹터별 목록 40건 | 2시간마다 | 안 씀 | 클리핑 채널 |
 | 💬 **요약** | 내가 보낸 링크 | 몇 초 | 씀 | 개인 DM |
-| 🏠 **주간** | 부동산 News Flow 8건 | 금요일 08시 | 안 씀 | 클리핑 채널 |
+| 🏠 **주간** | 부동산 News Flow 8건 | 금요일 08시 | 안 씀 | 데일리 다이제스트 |
 
 알람과 클리핑이 AI 를 안 쓰기 때문에 **빠르고, 비용이 0 에 가깝고, "AI 가 잘못 버릴"
 위험이 없습니다.** AI 는 내가 직접 고른 기사 하나를 정리할 때만 씁니다.
@@ -64,8 +64,9 @@
 ### 부동산 주간 News Flow (config.yaml 의 `weekly`)
 
 전력·에너지와 아무 상관이 없는, 별개의 일입니다. LS증권 **'부동산 Weekly Data'** 의
-'지난주 주요 News Flow' 칸에 붙일 기사 8건을 **매주 금요일 오전 8시** 클리핑 채널로
-보냅니다. 소스도 따로입니다 — 위 전력 피드를 쓰지 않고 구글 뉴스에서 부동산 검색어
+'지난주 주요 News Flow' 칸에 붙일 기사 8건을 **매주 금요일 오전 8시**
+📋 데일리 다이제스트 채널(`weekly.channel`)로 보냅니다. 전력 클리핑과 섞지 않으려고
+`news-clipper` 가 아침 다이제스트를 보내는 그 채널로 보냅니다. 소스도 따로입니다 — 위 전력 피드를 쓰지 않고 구글 뉴스에서 부동산 검색어
 15개를 돌립니다. 대상 기간은 **지난주 금요일 00:00 ~ 이번주 금요일 08:00 (KST)**.
 
 메시지가 두 개 옵니다.
@@ -237,13 +238,21 @@ python scripts/get_chat_id.py
 
 ### 3. GitHub Secrets 등록
 
-저장소 → **Settings → Secrets and variables → Actions → New repository secret** 에서 3개 등록:
+저장소 → **Settings → Secrets and variables → Actions → New repository secret** 에서 등록:
 
-| Name | Value |
-|---|---|
-| `ANTHROPIC_API_KEY` | `sk-ant-...` |
-| `TELEGRAM_BOT_TOKEN` | `123456:AA...` |
-| `TELEGRAM_CHAT_ID` | 2번에서 찾은 숫자 |
+| Name | Value | 필수 |
+|---|---|---|
+| `ANTHROPIC_API_KEY` | `sk-ant-...` | ✅ |
+| `TELEGRAM_BOT_TOKEN` | `123456:AA...` | ✅ |
+| `TELEGRAM_CHAT_ID` | 2번에서 찾은 숫자 (개인 DM) | ✅ |
+| `TELEGRAM_CHAT_ID_ALERT` | ⚡️ 알람 채널 | |
+| `TELEGRAM_CHAT_ID_CLIP` | 📰 클리핑 채널 | |
+| `TELEGRAM_CHAT_ID_DIGEST` | 📋 데일리 다이제스트 (주간 리포트가 갑니다) | |
+
+> 채널 셋은 **안 넣어도 봇은 돕니다** — 그 경우 해당 메시지가 개인 DM 으로
+> 떨어집니다. 반대로 채널을 만들고 `.env` 에만 넣어 두면 로컬에서만 채널로 가고
+> GitHub 에서는 DM 으로 갑니다. 양쪽을 맞춰 주세요.
+> 채널 chat_id 는 채널에 봇을 관리자로 넣은 뒤 `scripts/get_chat_id.py` 로 찾습니다.
 
 ### 4. 켜기
 

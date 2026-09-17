@@ -46,8 +46,9 @@ quiet_hours:
 #  비어 있으면 개인 DM(TELEGRAM_CHAT_ID)으로 떨어집니다.
 # ============================================================
 channels:
-  alert: TELEGRAM_CHAT_ID_ALERT   # 🚨 키워드 즉시 알람
-  clip: TELEGRAM_CHAT_ID_CLIP     # 📰 훑어보기용 목록
+  alert: TELEGRAM_CHAT_ID_ALERT     # ⚡️ 전력 알람 — 키워드 즉시
+  clip: TELEGRAM_CHAT_ID_CLIP       # 📰 전력 클리핑 — 훑어보기용 목록
+  digest: TELEGRAM_CHAT_ID_DIGEST   # 📋 데일리 다이제스트 — news-clipper 와 공용
 
 # ============================================================
 #  1) 키워드 알람 — AI를 쓰지 않습니다. 제목만 보고 즉시 보냅니다.
@@ -121,6 +122,8 @@ curation:
 # ============================================================
 weekly:
   enabled: true
+  channel: digest      # 위 channels 중 어디로 보낼지. 전력 클리핑과 섞지 않으려고
+                       # news-clipper 의 데일리 다이제스트 채널로 보냅니다.
   weekday: 5           # ISO 요일. 1=월 … 7=일 → 5는 금요일
   hour: 8              # 이 시각이 지난 첫 실행에 나갑니다 (5분마다 도니 오차 5분)
   count: 8             # 최종 선정 건수

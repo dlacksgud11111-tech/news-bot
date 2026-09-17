@@ -499,15 +499,16 @@ def run(bot, store, cfg: dict, force: bool = False) -> int:
     ranked = rank(items, cfg)
     picks = pick(ranked, cfg)
     store.data["last_weekly"] = due.timestamp()
+    ch = w.get("channel", "clip")
 
     if not picks:
         bot.send(f"🏠 부동산 주간 News Flow — {_fmt_day(t1)} 기준 후보 "
-                 f"{len(items)}건 중 기준에 맞는 기사를 못 찾았습니다.", channel="clip")
+                 f"{len(items)}건 중 기준에 맞는 기사를 못 찾았습니다.", channel=ch)
         return 0
 
     bot.send(render_memo(cfg, t0, t1, len(ranked), picks,
-                         alternates(ranked, picks, cfg)), channel="clip")
+                         alternates(ranked, picks, cfg)), channel=ch)
     bot.send(render_paste(picks, bool(w.get("resolve_links", True))),
-             channel="clip", plain=True)
+             channel=ch, plain=True)
     log.info("주간 리포트 발송 %d건", len(picks))
     return len(picks)
