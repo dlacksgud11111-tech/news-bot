@@ -233,6 +233,16 @@
    "t": "정유업계, AI 데이터센터 열관리 패권 경쟁…밸류체인 구축 속도 - ebn.co.kr",
    "ts": 1789705020,
    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FTmNXLS1pN1pXaVFSaXpEWHRFeV9lVDZzOGZMZ09CWEpKRjAyZ0pGcmxWNnVORTVBaHoxVG5TaHdUNjJVbjc2ZUFiX3NBTXo2OF9vTGpCbkt4ZlFoeG02c1BHeG1TS1V5?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "파이낸셜포스트",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "지엔씨에너지, AI 데이터센터 ‘비상발전기 품귀’ 터졌다…아마존 최대 80억달러 선점·韓 매년 1조 시장 개화 - 파이낸셜포스트",
+   "ts": 1789686809,
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NN2FqZ01zV3dRWFhCUWFaaXZxa182cXBCV3k1NkpJazNFNHFUX1VTTUJHQVpBaFJ0V293MzkzeW5ta1FrM2hPUGRRc09ReElDTndOQ2s0eTA1N0RCeDdmeDlOY2dGLTRSYjdNQThiekYzVkRU?oc=5"
   }
  ],
  "clip_titles": [],
@@ -608,6 +618,7 @@
   "3ed642ea05ad0c1e": 1789627496,
   "3ed7069c20bdb6c1": 1789627496,
   "3ede36dacd66dfdf": 1789629088,
+  "3ee14f6cdea16424": 1789709072,
   "3efc2561ae3c268b": 1789627496,
   "3f1aaeb291917d0b": 1789691116,
   "3fdd7157a4c729c4": 1789679129,
@@ -1033,6 +1044,7 @@
   "8fb277102ef0e00b": 1789641915,
   "8fe55276562cf174": 1789693531,
   "8fe6598b0c08e39d": 1789698990,
+  "9001ec112da89a7f": 1789709072,
   "90082ed85926a2fa": 1789629088,
   "904a528587886dc6": 1789693531,
   "9089a0d42b82f331": 1789679129,
@@ -1260,6 +1272,7 @@
   "b8e63103370bfc15": 1789691718,
   "b8e9e9337df89435": 1789627496,
   "b902cf32f808d90d": 1789627496,
+  "b92905b756986747": 1789709072,
   "b93e06514e04c1b4": 1789696217,
   "b947012ba705e3a8": 1789679129,
   "b9491309ed73f9d8": 1789642528,
@@ -1291,6 +1304,7 @@
   "be1ab525966a65d9": 1789627496,
   "be1b59fb32c021e3": 1789689626,
   "be1e94f9d7ec4fc0": 1789629088,
+  "be515037fb289946": 1789709072,
   "be5e02b63dc8af80": 1789632918,
   "be61e4822127033c": 1789688716,
   "bea333d656f56cda": 1789627496,
@@ -1491,6 +1505,7 @@
   "e24f8d53d0c6d820": 1789627496,
   "e26c5fd049f06264": 1789691116,
   "e29c77b9e67eff8a": 1789695321,
+  "e2b913ba1fa389ee": 1789709072,
   "e319b78946e2c1c3": 1789627496,
   "e33dd648f953a984": 1789627496,
   "e3452929cd3f03ae": 1789706118,
@@ -1678,7 +1693,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789704327,
- "last_msg_poll": 1789708747,
+ "last_msg_poll": 1789709318,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1719,7 +1734,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 14:19 KST",
+  "last_run": "2026-09-18 14:28 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
