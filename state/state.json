@@ -94,6 +94,16 @@
    "t": "미국서 미움받는 AI데이터센터, 호주로 몰렸더니…호주도 비상, 왜 - 중앙일보",
    "ts": 1789772400,
    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4YWdTSC1MWDFJZ0tWNVk0WUtUR1dldWstSU9tNmU0dHRzSE5BRGtWSGhvZHNLMnI0S1VwM1pOZ293bzJacWRqLUZ0ODZZam1tcVhCb0RR?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "icnweb.kr",
+   "sc": 14,
+   "sec": "전력기기",
+   "t": "LS일렉트릭-한국전력, 배전망 안정화 위한 ‘그리드포밍’ 기술 공동 개발 - icnweb.kr",
+   "ts": 1789774680,
+   "u": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOQjh0SE9OeDNCb2YwYmZxb2FHZGNLZXIzNndrTm1BRGtQRmdIRUFWWWs2TFA1STUzUmNJVVFQMjNJam9LNEU0SS11UjN5V1VPMmd5aTJlUlVjWUlleXBUQ2R4d0pWLVczY2hMdEFocW5HQ1BDSGVBQm1GeEZaSFBWY1NLZUVLSFNFNmZrQ0FHbnpzTUZ2eTJWbFYzR3habTNhLTBRd2R4bldmNUhoVmxaeHdySktzUlY3SDNSR20wSWVlUTFRSWFlcDhhbDQwVzNQU09NLVdwRzVVeDRBNDNfTzB4VHdfVGNXc0dBSUgycGkzUVllek5TM2pfVy1zTkszY0IyM195Q0Via3FLYXhIWmQ3LWJueG1MZDBOUi10bHFGZ0ZzRXZiOHB5dV9Uc0xtMUpwT3hydzBkc2N1RFE?oc=5"
   }
  ],
  "clip_titles": [],
@@ -413,6 +423,7 @@
   "2937d1553872748b": 1789720517,
   "295771b5a96b18ee": 1789716319,
   "2983692d7f3ad9b6": 1789693531,
+  "2989f199ffcd62f6": 1789775168,
   "29920d2e2a1aae43": 1789627496,
   "2a030a86064d1774": 1789738532,
   "2aa08541ed3d244d": 1789673419,
@@ -1912,7 +1923,7 @@
  "companies_today": {},
  "day": "2026-09-19",
  "last_clip": 1789768815,
- "last_msg_poll": 1789774835,
+ "last_msg_poll": 1789775416,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1953,7 +1964,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 08:40 KST",
+  "last_run": "2026-09-19 08:50 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
