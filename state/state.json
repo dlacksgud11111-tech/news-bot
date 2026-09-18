@@ -154,6 +154,16 @@
    "t": "Oracle signs 1.7GW of wind energy supply agreements to support operations in Texas",
    "ts": 1789738248,
    "u": "https://www.datacenterdynamics.com/en/news/oracle-signs-17gw-of-wind-energy-supply-agreements-to-support-operations-in-texas/"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "인더뉴스",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "효성중공업, HVDC 핵심기술확보 노력 결실…조현준 회장 “미래전력망 핵심, 선제 대응” - 인더뉴스",
+   "ts": 1789716032,
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wR3JOaXM4NGx2eUxseVlFNUVRUVZ5VDJha0xRTUZDRlFyWEl0VWstZWxFZ1ItaDdGalBEY1JsdkRlLXZCREl2TW1ia3UzXzVtbXNacUlTNXJsV1o5YU5YZjNpaXI?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1417,6 +1427,7 @@
   "b5f61370edc7dcfc": 1789627496,
   "b6ab820005a00b4d": 1789683016,
   "b6acd0c917e2eca1": 1789706118,
+  "b6ae7766acea8482": 1789739129,
   "b6db0a10e1b4b877": 1789731017,
   "b6edc0a017de7a6e": 1789627496,
   "b726faebf5fbc07d": 1789627496,
@@ -1926,7 +1937,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789734020,
- "last_msg_poll": 1789739064,
+ "last_msg_poll": 1789739378,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1967,7 +1978,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 22:44 KST",
+  "last_run": "2026-09-18 22:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
