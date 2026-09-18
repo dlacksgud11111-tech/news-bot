@@ -363,6 +363,26 @@
    "t": "한국 전력기기 3사 수주잔고 7배 급증…미국 수급 불균형 지속 - 리드경제",
    "ts": 1789694940,
    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95TTBPODltWGRDM0NSY1BkcW1ubEY2a0duQUVwMHI4RDcyUlpQRmFETlhJVUNBWDlIVEpiYTVKYmxFbVk2eTFzV2YzYXRXUnFYMk03QUN4cU1SN1hKaFVDRV9aeE5nTDlxamVJX3Y2Yw?oc=5"
+  },
+  {
+   "co": "HD현대일렉트릭",
+   "n": 1,
+   "s": "ER 이코노믹리뷰",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "HD현대일렉트릭, 유럽 해상풍력 시장 첫발…변압기·리액터 발트해로 출항 - ER 이코노믹리뷰",
+   "ts": 1789695660,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lR1RFWXVpRDY1QU1ab1hzVHl3U21tendoTzdlbk1xTkRVV3F1dGQtUzY5VUE2ZHQtZ3RpcVNXMDBIRzlZZ1BKXzhWVVBzdVlTRW9qemlrcmhrLThuT2hrc3JxZ0w2akJMNWw5cA?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "한국경제",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "“데이터센터 1조달러 시장 열린다”…KIC, 뉴욕서 투자전략 논의 - 한국경제",
+   "ts": 1789694855,
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14RmhrNXdYdmNtRnItVWh4S1hQVmdVa3ZzLVFKWlh6ZkNlbUZhaGNxSnV6LXNRaDdGMHN4T2VrWFRkQ3BNTkhJYmVocG9FVmxEaHp4SHlEbGtzQQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -500,6 +520,7 @@
   "18b5a50a19c35d74": 1789629315,
   "18cd75d38be6f27b": 1789627496,
   "18e1e48ca81577e5": 1789632918,
+  "195fcf5f5f13579b": 1789696217,
   "196e1146652f62b3": 1789627496,
   "19abf67ffcbc8095": 1789627496,
   "19b893164ed45b66": 1789627496,
@@ -962,6 +983,7 @@
   "795d7b50155a79e5": 1789627496,
   "79e5f88d7eb74c3a": 1789630819,
   "7a20ceb70d325049": 1789691718,
+  "7a5275f57a359616": 1789696217,
   "7ad61663e3f86563": 1789627496,
   "7b0a7b591a969f1b": 1789630519,
   "7b42839fbe8aed84": 1789627496,
@@ -1255,6 +1277,7 @@
   "b8e63103370bfc15": 1789691718,
   "b8e9e9337df89435": 1789627496,
   "b902cf32f808d90d": 1789627496,
+  "b93e06514e04c1b4": 1789696217,
   "b947012ba705e3a8": 1789679129,
   "b9491309ed73f9d8": 1789642528,
   "b95016708544da7f": 1789629088,
@@ -1594,6 +1617,7 @@
   "fab178fbbba2e096": 1789629150,
   "fae80569bce639a5": 1789627496,
   "fb05622e5d050cb2": 1789629088,
+  "fb408b09acdc6727": 1789696217,
   "fb736d694e820235": 1789627496,
   "fc08e53d9a58ee44": 1789645218,
   "fc253918010bdc51": 1789627496,
@@ -1616,7 +1640,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789689915,
- "last_msg_poll": 1789696164,
+ "last_msg_poll": 1789696463,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1655,7 +1679,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 10:49 KST",
+  "last_run": "2026-09-18 10:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065786,
