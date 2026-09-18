@@ -63,258 +63,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 4,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 10,
-   "sec": "재생에너지·ESS",
-   "t": "재생에너지 보급 혁신 TF 출범…2030년 100GW 총력",
-   "ts": 1789736726,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303248"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 2,
-   "sec": "유틸리티·정책",
-   "t": "지역난방公, 집단에너지 산업 AX 가속화 나서",
-   "ts": 1789731414,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303252"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 10,
-   "sec": "건설·플랜트",
-   "t": "현대건설,  ‘100MW 이상급 수전해 플랜트 설계’ 국책 과제 참여",
-   "ts": 1789726499,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303236"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 5,
-   "sec": "유틸리티·정책",
-   "t": "가스공사, 햇빛발전소 준공 지원으로 '에너지 상생' 실천",
-   "ts": 1789689600,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303242"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일신문",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "AI 데이터센터 전력 수요 확대 기대…전선株 일제히 급등 - 매일신문",
-   "ts": 1789705593,
-   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKU0JTck1uX3pKZWVLUVBydGJRN083ZjZSdXBfQTV5cC1wdm9aUFpkNVFNMnNINFZDMWhaMklLX1A2VEljbHdnUFR0WWw2V3ZKemhrMmZ0TC1sVXpnYThfb0RR?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "근무 시간에 회사로 찾아가는 AI 교육, 기업 AX 문턱 낮춘다…강소기업협회 G밸리지회·한국소프트웨어인재개발원 업무협약",
-   "ts": 1789705087,
-   "u": "https://www.etnews.com/20260918000183"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "핀포인트뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "데이터센터 고속도로 탄다… 빛샘전자, 초고속 광통신 부품 수요 급증 수혜 - 핀포인트뉴스",
-   "ts": 1789705395,
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BWTNucG42SWcyMHdsa28ySlJYTnNHM0tndEVlbWs1a3U4MjdQS2Noc2VsNmo5d2l1S28tLUpGRl96MFpaV1dIaXRTUmFMUHZrd3otN1FMa3Mxc01mb3JmeHNsTVFsS2RxLXZsWXNaZlRJSEXSAXdBVV95cUxNM1VzbVM5cGNreElnOGNzZVJmbWxEMWRoOXktRjJXZVRfV29BN19keFNjTnhtcHI5QlJ2Z1JFWUNNazR3ZzVoWEVKTHM1Qm5lVjFReEE4YmZrdFV0RGExOFY1bXpTRFY1UkFSVkJHQ1RQdTlsYl9Ebw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "네이버 프리미엄콘텐츠",
-   "sc": 6,
-   "sec": "원전",
-   "t": "금리 부담 완화에 AI 인프라 재반등…전력·원전·반도체로 매수 확산-[美증시 특징주] - 네이버 프리미엄콘텐츠",
-   "ts": 1789684740,
-   "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWV9TUUN3UWV6UDhoZWNtczhLV21vQWZyVnVNQ0ZFYTc2clRfbGpGbTIyOTFOXzAtM2NxTWlRY2JXaTV0VmVjdWRtdlFFQ1hiQ0RxcDdMTHhTNFNVRWF2VXB2UjNUaWp2VmpoaHg4NV9hQU1jTVhMX213UFhQclJ1U2p3?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "핀포인트뉴스",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "전력망 고속도로의 핵심 혈관… 선도전기, 전기공급 제어장치 수요 폭증 - 핀포인트뉴스",
-   "ts": 1789706537,
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aR2NzeVVKUHlwaFJKRGtuODBKTzVCZjRnUjZQYmpoWDVwQUtseHB6YXdzQVZ3OVplRV9URUIzaWVSYmRDTlI5ZFNUR0FlbExnZzB1YUY0UjJQTEx6R05VWWhoQlF2WVh0MDNSaXoxM0NzWXfSAXdBVV95cUxOUHM2VE1DVkdNdmpueHp0RlZWZUdDUjIwV2RGNjQ5TXRKR19SU2xtZ2tsR1hEYkIxRmtGekJFUm1iRGJWNkNPTXA2WGRicm5HS3VXVGdSdm9FZ3NlTDdpc2R0NER5cXFnUU5wbDRMWjZiZWFHTGhsYw?oc=5"
-  },
-  {
-   "co": "HD현대일렉트릭",
-   "n": 1,
-   "s": "데일리한국",
-   "sc": 18,
-   "sec": "전력기기",
-   "t": "HD현대일렉트릭, 유럽 해상 풍력단지에 변압기·리액터 공급 - 데일리한국",
-   "ts": 1789703651,
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GbzZMVlIzOTlkd3RVQXhkNTVzeVl6VlZoaGJyZlRGSDVFQ2pKVkl1b0hmak0zUUFUZGUxNTBrcmdTbHpBSC10ZVhvRUpMcnVQWlotYjRSbk5URUlkT1ZsRlJmYW83YnhlZzExdnRXc9IBc0FVX3lxTE9KOTI4SHdyOHNvNnVwMnFxYmNCd2JvUUNicnpjRWhuZTlxT3FwZkVON1lqRHZTX0lSNGJvZGZiMDlULXdnQUdkMjU0RldXazdyT3RoNjBZSnNzWGF2R1FWd3FINHVxT00xV3N1VE02ZlBuSnc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "theguru.co.kr",
-   "sc": 10,
-   "sec": "데이터센터·AI전력",
-   "t": "美 데이터센터 전력비 부담 법안 통과에 美원전주 급등 - theguru.co.kr",
-   "ts": 1789707279,
-   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96amVEQms5UFhyVEFJRXowSFlzTWhFMnd3eDljT09VYVljTC1aYm5zQUVCb3BycURwdXhlRXg1VjhXTEM2bkJMYWM2SG1RNFlBUVJsTUpXOEp3UEVLeXpMWHhpbw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "롯데이노베이트, 데이터센터 DBO 키운다…출 비중 30% 목표",
-   "ts": 1789707754,
-   "u": "https://www.etnews.com/20260918000215"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "[2026 전남광주뷰티산업전] 국제인재개발원, 훈련생들이 직접 K-뷰티비컨 선봬",
-   "ts": 1789707505,
-   "u": "https://www.etnews.com/20260918000213"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "[ET특징주]동양, AI데이터센터·가덕도신공항 수혜 기대감에 상승세",
-   "ts": 1789706427,
-   "u": "https://www.etnews.com/20260918000193"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "신안우이 해상풍력 시동…중부발전, 무탄소 60% 속도",
-   "ts": 1789739823,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372610"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "AI타임스",
-   "sc": 8,
-   "sec": "데이터센터·AI전력",
-   "t": "네이버, AI 데이터센터 전력 확보 확대…진도 태양광 지분 투자 추진 - AI타임스",
-   "ts": 1789707768,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmSDhUMHNiUzhrNXFyN0xuYm5vSjZWQnFsdmFJOEwyVklTV3p2c2g2TG91aldLYUFVR08tNl9Ycy1VYUE1WGYyTGw3SDdWVUJhdXFzS0REeU54TnZyc3BwNkxvQlhjMlIxdmc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "ebn.co.kr",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "정유업계, AI 데이터센터 열관리 패권 경쟁…밸류체인 구축 속도 - ebn.co.kr",
-   "ts": 1789705020,
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FTmNXLS1pN1pXaVFSaXpEWHRFeV9lVDZzOGZMZ09CWEpKRjAyZ0pGcmxWNnVORTVBaHoxVG5TaHdUNjJVbjc2ZUFiX3NBTXo2OF9vTGpCbkt4ZlFoeG02c1BHeG1TS1V5?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "파이낸셜포스트",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "지엔씨에너지, AI 데이터센터 ‘비상발전기 품귀’ 터졌다…아마존 최대 80억달러 선점·韓 매년 1조 시장 개화 - 파이낸셜포스트",
-   "ts": 1789686809,
-   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NN2FqZ01zV3dRWFhCUWFaaXZxa182cXBCV3k1NkpJazNFNHFUX1VTTUJHQVpBaFJ0V293MzkzeW5ta1FrM2hPUGRRc09ReElDTndOQ2s0eTA1N0RCeDdmeDlOY2dGLTRSYjdNQThiekYzVkRU?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일경제 : 경제",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "[화제의 신간] 한국금융인재개발원, 금융사기예방전문가 자격시험 교재 출시",
-   "ts": 1789709232,
-   "u": "https://www.mk.co.kr/news/economy/12156478"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "eanews.kr",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "[환경기획15] 폭증하는 AI 데이터센터, 지구 전력·수자원 고갈시키는 ‘보이지 않는 블랙홀’ - eanews.kr",
-   "ts": 1789709216,
-   "u": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBVbVhkdjBLS0RyX3U1bjZIQjhfU2pMYTdlUWFEV1RubHVMY3VyZVZvNVpCcnJraVoyQ3VuUE9NcGppMUpuZDdzY3FR?oc=5"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "이투데이",
-   "sc": 16,
-   "sec": "전력기기",
-   "t": "티씨머티리얼즈, 변압기 핵심소재 3배 확대 전망…K-전력기기 업체 잇딴 수주에 상승세 - 이투데이",
-   "ts": 1789709040,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE93VVVRREw1YjZzUHVtRzdFemMwVERDd3pvckhzOUtMSDF6dW5JWHk2c2VkdUN1dG9BODRkU1VXTmNiY2pPV0FiQlZrQlM0ajh2OU5YRTB1VHMycjlMUEZhZml1S0I2cllYMFZycWhyRXYtZw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Chosunbiz",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "AI데이터센터 사업 본격화하는 GS… 석탄발전 가동률까지 높아지는 1석2조 ‘기대감’ - 조선비즈 - Chosunbiz",
-   "ts": 1789708800,
-   "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnBzbkRueHNVdkdTZlhQMkctczFOa2hHS28yQ01OWFJQMm54RmRzeC05SkFQMFlJazF1QXJaWVRVUDBBWENCTkFpT1BCREZhSmY1ajdlbHlqclk2TWN5UkJqUElsSGJ6Q3ZCRGNLR3FGV0FsY3FTck5xRjlNa3llb0ttU1nSAZgBQVVfeXFMTUV0LVlfWEphUmZJNjhIWmRmNG9KMXRCazkxVXNBMXE4WmtVTkJGMnRXNVdrSVh4M0NyYXl1LWRxakhQZmFtcXdDZG1xb2ZwdFVoTGF0V0t6aFVTOTVaNUZkcC0tZlNRNThobUlFbjlHYlI5QTFndXBKWi13TTRiMGtxUzk2MzBmd2RzZDVqdXlVTkRacnlHSG8?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "정릉골 재개발에 '탄력'…\"국민대 학군단 부지 이주 합의\"",
-   "ts": 1789709718,
-   "u": "https://www.yna.co.kr/view/AKR20260918116600004"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "\"부산 가덕신공항, 적정 공사비 확보·인허가 단축이 관건\"",
-   "ts": 1789709400,
-   "u": "https://www.yna.co.kr/view/AKR20260918034700051"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 13,
-   "sec": "전력기기",
-   "t": "LS마린솔루션, 1569억 해저케이블 수주…'신안 해상풍력' 닻 올린다",
-   "ts": 1789742574,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372615"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "003700b0bc3aa10c": 1789627496,
@@ -826,6 +575,7 @@
   "58ce22d8e27c7720": 1789650916,
   "58dabeebedf719ef": 1789705827,
   "58f1ff71f74e6a9e": 1789632918,
+  "591b4fc2ccabe2da": 1789711937,
   "59450169591b871b": 1789648519,
   "598ad1fc2ec8a7c8": 1789631717,
   "59b77681f7a13237": 1789689915,
@@ -1420,6 +1170,7 @@
   "c1b1f22c3486777c": 1789627496,
   "c1e17dc4b6a5cd24": 1789627496,
   "c1f7db158c66006b": 1789627496,
+  "c202f3b817559067": 1789711937,
   "c22dc00606ac5a4e": 1789627496,
   "c2416ce1bcb6d10b": 1789627496,
   "c273cfe7ba4af81b": 1789686930,
@@ -1797,8 +1548,8 @@
  },
  "companies_today": {},
  "day": "2026-09-18",
- "last_clip": 1789704327,
- "last_msg_poll": 1789711605,
+ "last_clip": 1789711937,
+ "last_msg_poll": 1789712187,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1839,7 +1590,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 15:06 KST",
+  "last_run": "2026-09-18 15:16 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
