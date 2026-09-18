@@ -109,30 +109,22 @@ def _esc(s: str) -> str:
 
 
 def render(card: dict, item: dict) -> str:
-    """요약 카드 → 텔레그램 HTML 메시지."""
+    """요약 카드 → 텔레그램 메시지.
+
+    양식은 리서치 노트 형태를 따른다 — 대괄호 제목, 줄표 리드, 번호 항목을
+    빈 줄로 띄우고, 맨 아래 뉴스 링크. 해시태그는 넣지 않는다.
+    발표 주체와 날짜는 첫 항목 안에 들어간다(프롬프트가 요구한다).
+    """
     lines = [f"<b>[{_esc(card['title'])}]</b>", ""]
 
     lead = _esc(card.get("lead"))
     if lead:
-        lines += [f"▪️ {lead}", ""]
+        lines += [f"- {lead}", ""]
 
     for n, d in enumerate(card.get("details") or [], 1):
         d = _esc(d)
         if d:
-            lines.append(f"{n}. {d}")
+            lines += [f"{n}. {d}", ""]
 
-    lines.append("")
-
-    when = ""
-    if item.get("published"):
-        dt = datetime.fromtimestamp(item["published"], tz=timezone.utc)
-        when = " · " + dt.astimezone().strftime("%m월 %d일")
-    src = _esc(item.get("source") or "링크")
-    lines.append(f'🔗 <a href="{_esc(item["link"])}">{src}{when}</a>')
-
-    tags = [t.strip().lstrip("#").replace(" ", "") for t in (card.get("tags") or [])]
-    tags = [f"#{_esc(t)}" for t in tags if t]
-    if tags:
-        lines.append(" ".join(tags))
-
+    lines.append("뉴스 링크: " + _esc(item["link"]))
     return "\n".join(lines)

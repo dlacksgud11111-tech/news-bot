@@ -103,6 +103,9 @@ def summarize_and_render(sm: Summarizer, item: dict, cfg: dict, mode: str):
     card = sm.run(item, body, mode=mode)
     if not card:
         return None, None
+    # 본문이 비었으면 모델은 제목과 URL 만 보고 쓴 것이다. 카드가 얕은 이유가
+    # 되므로 호출 측이 알 수 있게 표시해 둔다.
+    card["_body_ok"] = bool(body)
     if mode == "feed":
         if not card.get("publish"):
             log.info("모델이 버림 [%s] %s", card.get("reject_reason", "")[:40], item["title"][:50])
@@ -162,15 +165,21 @@ def handle_messages(bot: tg.Telegram, store: Store, sm: Summarizer, cfg: dict) -
         log.info("온디맨드 요청: %s", url)
         bot.send("⏳ 정리 중…")
         item = {"title": "", "link": url, "source": "", "published": None, "summary": ""}
-        rendered, _ = summarize_and_render(sm, item, cfg, mode="ondemand")
+        rendered, card = summarize_and_render(sm, item, cfg, mode="ondemand")
         if rendered:
             # 요약 카드는 전용 채널에 쌓고, DM 은 입력창으로만 쓴다.
             # 채널을 아직 안 만들었으면(값 없음) 여기 DM 으로 그대로 보낸다 —
             # 없는 채널을 가리키며 '올렸습니다' 라고 거짓말하지 않기 위해서다.
             to = "summary" if bot.channels.get("summary") else None
             bot.send(rendered, channel=to)
+            warn = "" if card.get("_body_ok") else (
+                "\n⚠️ 본문을 못 읽어 제목만으로 정리했습니다 "
+                "(유료 기사·봇 차단·삭제된 페이지). 카드가 얕으면 이 때문입니다."
+            )
             if to:
-                bot.send("✅ 📝 기사 요약 채널에 올렸습니다.")
+                bot.send("✅ 📝 기사 요약 채널에 올렸습니다." + warn)
+            elif warn:
+                bot.send(warn.strip())
             store.mark(url, "")  # 같은 기사가 자동 피드로 또 오지 않게
         else:
             bot.send("❌ 정리 실패. 본문을 못 읽었거나(유료 기사) 모델 호출이 실패했습니다.")
