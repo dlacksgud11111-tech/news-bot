@@ -125,7 +125,7 @@
   },
   {
    "co": "",
-   "n": 1,
+   "n": 2,
    "s": "AI 매터스",
    "sc": 12,
    "sec": "전력기기",
@@ -162,6 +162,36 @@
    "t": "HD현대일렉, 유럽 해상풍력 시장 뚫었다…변압기·리액터 폴란드로 - 아주경제",
    "ts": 1789692537,
    "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LSU1DeEdvcUhwaFVvREZsN1dKeEhKZk9WUFFfcEJJWXN0Z242dFpSMGE4dzhYQlBrVGFfMWxuZEtHdmVtRF8xVEZ2aEpaUUpuaUJVYlZoS3phQdIBWEFVX3lxTE56dGdqVU9DQXowSDU5WXF2dUhxcklvcEZfWUpGRVNXaTBmRENWSUNPSW9SbHpDU0FBMnJ3U3NMT0dubTVYTUdFZVo1aS1HSzV6Nnl3Y3ZBWEs?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스 경제 최신기사",
+   "sc": 0,
+   "sec": "건설·플랜트",
+   "t": "현대건설, 대규모 수전해 플랜트 설계 패키지 개발 나선다",
+   "ts": 1789692941,
+   "u": "https://www.yna.co.kr/view/AKR20260918048600003"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스 경제 최신기사",
+   "sc": 0,
+   "sec": "건설·플랜트",
+   "t": "대우건설 정원주 회장, 한-중앙아 정상회의서 협력 확대",
+   "ts": 1789692693,
+   "u": "https://www.yna.co.kr/view/AKR20260918046600003"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "마켓잉크",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터가 이끈 실적, 이튼 3년간 매출 100억 달러 추가 확보 목표 - 마켓잉크",
+   "ts": 1789692593,
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXMGRjNG93a0pRaDBvci0xWXEtb2NMUXpFT1d5akJHdW12SUFuTTVjekYtSDJGeXRaV2U5bmVkX0lMVzRESmRjbVU5Wk5TTXdSYjNXMDlmM1k0X0ZBNEJ2OHdRRjU1Tm0yOG1JT0RETQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -264,6 +294,7 @@
   "1254ef0867463b32": 1789627496,
   "12aafd7f55c89caf": 1789627496,
   "12ac389b7fb194b2": 1789627496,
+  "12f374c28802161b": 1789693220,
   "130af4911ed5ef81": 1789627496,
   "132ce01b6e6e4ede": 1789627496,
   "13517d89e0ac42c4": 1789637719,
@@ -720,6 +751,7 @@
   "7dcfb818a258ba99": 1789630519,
   "7e3f9ecaf59aa9a3": 1789635618,
   "7e4dd2a3f1cc42d4": 1789633522,
+  "7ed8c896f463b518": 1789693220,
   "7f16559f1c80e50f": 1789627496,
   "7f6bac662c59fb2b": 1789627496,
   "7f9361a513cd5563": 1789627496,
@@ -825,6 +857,7 @@
   "99462ccc0519934d": 1789632918,
   "9a3f94e7334124c2": 1789689915,
   "9acdb86561cc6027": 1789634416,
+  "9b09bbda41e4de3b": 1789693220,
   "9b18c355c0374b06": 1789627496,
   "9b63c189a413dcb5": 1789637719,
   "9c44debf3bd29370": 1789629088,
@@ -1152,6 +1185,7 @@
   "e26c5fd049f06264": 1789691116,
   "e319b78946e2c1c3": 1789627496,
   "e33dd648f953a984": 1789627496,
+  "e379d88ec8e68180": 1789693220,
   "e394fd37d27d4d20": 1789627496,
   "e3c6f6554ee9a958": 1789627496,
   "e3fa7c46afbe4af1": 1789627496,
@@ -1225,6 +1259,7 @@
   "ef3a5bdbe4a4e2bd": 1789627496,
   "ef4b49e429409980": 1789627496,
   "ef6d15391ad97561": 1789627496,
+  "eff63fc4501319ef": 1789693220,
   "f03e7c9b44c32dd5": 1789692920,
   "f05752777b5cfae3": 1789629088,
   "f06a9be50df28947": 1789627496,
@@ -1256,6 +1291,7 @@
   "f5675083e3b5e1e8": 1789635618,
   "f58fd803a528e4f1": 1789627496,
   "f5fb75c8cdb32760": 1789669819,
+  "f6003baeeb912e11": 1789693220,
   "f650fce28ae4ecb8": 1789627496,
   "f6e8db16f44a6251": 1789627496,
   "f7208d4f263d547c": 1789629088,
@@ -1338,10 +1374,10 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 09:55 KST",
+  "last_run": "2026-09-18 10:00 KST",
   "total_posted": 7
  },
- "tg_offset": 371065781,
+ "tg_offset": 371065783,
  "titles": [
   [
    1789448532,
