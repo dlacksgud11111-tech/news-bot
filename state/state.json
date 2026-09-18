@@ -74,158 +74,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "DCD Intelligence: Data center expansion is outpacing talent",
-   "ts": 1789743653,
-   "u": "https://www.datacenterdynamics.com/en/news/dcd-intelligence-data-center-expansion-is-outpacing-talent/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "PGIM sells data center development site in Munich",
-   "ts": 1789743448,
-   "u": "https://www.datacenterdynamics.com/en/news/pgim-sells-data-center-development-site-in-munich/"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "ESG경제",
-   "sc": 8,
-   "sec": "유틸리티·정책",
-   "t": "[지방정부에너지대전환]④ 한전과 지방정부, 이제 전력공급 넘어 산업을 함께 설계해야 - ESG경제",
-   "ts": 1789720093,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03dFVTclp2eGFqYnc0WmRSa3B0MWRCcGxxcE51cE5PaTlKWlR1R0VUMW5ZbGZTWjJ1MnViN0Y4LW4xenpBTVhwV1hSV245NkNLV1dRazRUNVkxWXk3eTlOcC0zMWdOc0F5YWMxOQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Brazil's Eveo plans data center in Recife",
-   "ts": 1789743839,
-   "u": "https://www.datacenterdynamics.com/en/news/eveo-accelerates-expansion-in-the-northeast-and-will-have-a-tier-iii-data-center-in-recife/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 8,
-   "sec": "전력기기",
-   "t": "Microsoft ‘preserving its ability’ to challenge data center transmission costs decision",
-   "ts": 1789740553,
-   "u": "https://www.utilitydive.com/news/microsoft-virginia-scc-data-center-transmission/830775/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "“데이터센터 병목은 전력… 사용 방식 바꿔야” - v.daum.net",
-   "ts": 1789659355,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLT2ZaS1BzWVpDNkNHelNiY0FwejdQZFRQSUxabUJYWHcyUzNDUlltSHVFN1RtNkJsaS0xVG1Gb2FHWTlMd1Ryal85OGt6Snc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "더구루",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "자체 발전·배터리 갖춘 데이터센터, 화재 위험 10배 높아…외피·보험 분산 중요 - 더구루",
-   "ts": 1789743621,
-   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VTWtZNUthak5oODIwU3lVdFFsWkxNWWNhakF6UXNZTzVfQk9UejlCSlNJNVFPYVptTG42R3JxajJIeW50c2dYWlZiUzNrYnR2TERNSFc3Yl9oMExBMlBQODJMOA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Brazil's President Lula signs ReData data center bill into law",
-   "ts": 1789746008,
-   "u": "https://www.datacenterdynamics.com/en/news/president-lula-signs-bill-at-the-planalto-palace/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Virginia’s Loudoun County board votes to pause new data center applications",
-   "ts": 1789748339,
-   "u": "https://www.datacenterdynamics.com/en/news/virginias-loudoun-county-board-votes-to-pause-new-data-center-applications/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "POWER Magazine",
-   "sc": 1,
-   "sec": "재생에너지·ESS",
-   "t": "Driving the Hydrogen Economy:  How a Custom Non-Return Valve Advances  Fuel Cell Development in Material Handling",
-   "ts": 1789748556,
-   "u": "https://www.powermag.com/driving-the-hydrogen-economy-how-a-custom-non-return-valve-advances-fuel-cell-development-in-material-handling/"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "koreasprint.com",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "LS일렉트릭-한전, 배전용 ‘그리드포밍’ 기술 공동 개발 맞손 - koreasprint.com",
-   "ts": 1789748460,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MVjRJUmV5eXlseVdzZDIyckVCajhkQUdRSUpKZFo5eGZYX1B4bU9IUTBpV0xWdGdHUVRMb256cEUzajVJUElteEF1SlI3a2xwN2hsRm1NSVdzYWtRSllqcUR6TFU4MW5FdzZ6Qjhn?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "POWER Magazine",
-   "sc": 7,
-   "sec": "건설·플랜트",
-   "t": "The Overlooked Renewable Energy Resource: Why Construction Waste Should Be Part of America’s Energy Strategy",
-   "ts": 1789751773,
-   "u": "https://www.powermag.com/the-overlooked-renewable-energy-resource-why-construction-waste-should-be-part-of-americas-energy-strategy/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "shattered.io",
-   "sc": 4,
-   "sec": "전력기기",
-   "t": "AWS Launches Grid AI Agents as Queue Hits 438 GW [2026] - shattered.io",
-   "ts": 1789762492,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tTkJwbDlwMUF1S1VodUdmX0N4eFhaZFFUaXZiY3JwRnlraHhOcXV0N2N0WDdtQzJEZEVPdDhhS3duT21zV09EWkNFN0FwMm1vS1lzTkdNelp0SmlsTDV5d01wSUxRcVJ4eGlvd1VuLW5GUQ?oc=5"
-  },
-  {
-   "co": "HD현대일렉트릭",
-   "n": 1,
-   "s": "뉴시스",
-   "sc": 18,
-   "sec": "전력기기",
-   "t": "\"변압기 호황\" HD현대일렉트릭, 유럽 해상풍력서도 기회 잡는다 - 뉴시스",
-   "ts": 1789765200,
-   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yTjF0eFhTSzZabHJMZERUNDc3Q0hjR21MaHBtaTk1b0FWcnlMMG42ZVNkdW9hRGFjZDh6ajA5VFFqVU9IVUg5d0NaSWZ3SkhNanVjaUc3LTNtTkdyT2VweNIBeEFVX3lxTE1fWFJSQ1Ficl9jVHNXNE1DamtiV2U3SXJkSlp2czZaV0E3d0dnTktWV2tNTzhSQlFUcWhYall3V3hQMXNhdkJNTXd1TzVBUkxKcEkzUGZ2TDcxOWhSRWNnNlNVeHV2aEswZm5kNC1LN0ViLXRzZmpSbg?oc=5"
-  },
-  {
-   "co": "HD현대일렉트릭",
-   "n": 1,
-   "s": "아이뉴스24",
-   "sc": 18,
-   "sec": "전력기기",
-   "t": "HD현대일렉트릭, 해상변전소 유럽 해상풍력 현장 출항 - 아이뉴스24",
-   "ts": 1789694825,
-   "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CTnRTcWZadThWd0gySHUyQ2F3bnpDZEtDaGk0R201VFMxSktLbURZdEh3d243YlFGUEFmME5nUGgyTkFMNXFsZXh6bw?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "0033fde36740424f": 1789729598,
@@ -2031,8 +1880,8 @@
  },
  "companies_today": {},
  "day": "2026-09-19",
- "last_clip": 1789741740,
- "last_msg_poll": 1789768765,
+ "last_clip": 1789768815,
+ "last_msg_poll": 1789769064,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2073,7 +1922,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 06:59 KST",
+  "last_run": "2026-09-19 07:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
