@@ -69,7 +69,18 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 5,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "pinpointnews.co.kr",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "수자원공사, 대청댐 수열로 AI 데이터센터 조성 - pinpointnews.co.kr",
+   "ts": 1789719012,
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Ka0E4UDB3RHlQZEZwUGtIN2JRcWlHYkQ0bFVIOWhod01RMXZmRGd2cVBPdVNtQXNfTHdCMXpEZWtBdkxsZUdzaHR5TkZ4S0c1MHl0TXVqOERLOEtqYk0zQnJTTFRuVlNMUjNZTkE5QU02eVXSAXdBVV95cUxOZmd5QVQzQzdPcmp0c3VqZF9kZTE1cTVrbTdoQi04TVp0ZUlsb0phcHdfcE9SeDZrMXMweUswSWFtX2FzYS1pOUJPR1VtVUswLTl5THpFaEJudEx3aTl0eGpyVjVWS1UzbjNXRk9zV01kOWtpb2JuYw?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "003700b0bc3aa10c": 1789627496,
@@ -86,6 +97,7 @@
   "025c2c5600cbfbe9": 1789629088,
   "029c1af8c1cec11e": 1789627496,
   "02a103e43497cc0b": 1789649116,
+  "02b71e992e1d00bf": 1789719622,
   "02fa75d6c7747074": 1789686930,
   "030534865f3acd04": 1789627496,
   "0336ca586314a4ce": 1789630819,
@@ -848,6 +860,7 @@
   "7d419273e8d8ebda": 1789632017,
   "7d8669a3b5c67c31": 1789635327,
   "7dcfb818a258ba99": 1789630519,
+  "7e13809476fe28cc": 1789719622,
   "7e3f9ecaf59aa9a3": 1789635618,
   "7e4dd2a3f1cc42d4": 1789633522,
   "7ecccc2b09b2c51d": 1789702529,
@@ -1670,7 +1683,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789719316,
- "last_msg_poll": 1789719564,
+ "last_msg_poll": 1789719862,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1711,7 +1724,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 17:19 KST",
+  "last_run": "2026-09-18 17:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
