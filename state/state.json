@@ -62,6 +62,16 @@
    "t": "[서학개미 안테나] 홀텍 IPO 연기에 오클로·뉴스케일파워 급등…데이터센터發 원전주 재조명 - ebn.co.kr",
    "ts": 1789686751,
    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fdkt1U2g2RWdwalhTcjVLQ3gxU1JIOW92VjJ0MklXaWpnOFBHUk5xYlgzeG01bkpvOFAxN1BFaFh2dGpCMzY1OXhoT1Z4Y3VQY2NIcDYtRXlzb3Zqa3Z6Z1NRQ2N3by1f?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Chosunbiz",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 시대 전력난 해법은… 크루소, 소형원전 기반 데이터센터 짓는다 - 조선비즈 - Chosunbiz",
+   "ts": 1789690440,
+   "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWEZWb1dFWkRpR2hJUHU0VFVISE5GYnFyVzU1aGVPZFczbnVvQmhMOVpSMktQZy1SdlJpTHM1c3RlUzZuOUpiMDE2eFdudlhENTNZTTNZSFpER0prWmdkUXc0SGJOSWNQZHUtREVXMk5BT3FJUk5XeS1OV3I3bks5ak530gGWAUFVX3lxTFBIMjFlamtvbER0NXBXYmhDaElNMFkwZGpPUjNZR2IyMjBTSDcyR0V3d0JqOVRYVHFMd3hPN2l1YzI1Z2U2M003dTFHeW1YVHRtOW5MNXVTdVp3NFdpOEVhclNITHZnWmNZVV9NcHdOZ0hncnhKNE5tTkNrUFMxcmFrNzhSRVNSMkZpaGZZT0wwczJJaEJVQQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -74,6 +84,7 @@
   "00df172dffaa1fdc": 1789629088,
   "0100ac02404a0c8e": 1789627496,
   "010c9cef2c0d13de": 1789627496,
+  "023fa609b2d47d01": 1789690830,
   "025c2c5600cbfbe9": 1789629088,
   "029c1af8c1cec11e": 1789627496,
   "02a103e43497cc0b": 1789649116,
@@ -407,6 +418,7 @@
   "512965eda0907e40": 1789634416,
   "519a8c6fe9640bcd": 1789629088,
   "519eec3d8e6c8d29": 1789627496,
+  "51ccb743d4b295ea": 1789690830,
   "52002ca3abce3623": 1789629088,
   "5207100f815959da": 1789629088,
   "529e2d4bf1ca4744": 1789627496,
@@ -1172,7 +1184,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 09:15 KST",
+  "last_run": "2026-09-18 09:20 KST",
   "total_posted": 7
  },
  "tg_offset": 371065773,
