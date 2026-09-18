@@ -4,8 +4,9 @@ from __future__ import annotations
 
 import html
 import logging
+import re
 import time
-from datetime import datetime, timezone
+import urllib.parse
 
 import requests
 
@@ -111,11 +112,12 @@ def _esc(s: str) -> str:
 def render(card: dict, item: dict) -> str:
     """요약 카드 → 텔레그램 메시지.
 
-    양식은 리서치 노트 형태를 따른다 — 대괄호 제목, 줄표 리드, 번호 항목을
-    빈 줄로 띄우고, 맨 아래 뉴스 링크. 해시태그는 넣지 않는다.
+    주제 이모지 + 대괄호 제목, 줄표 리드, 1) 2) 항목을 빈 줄로 띄우고,
+    맨 아래에 매체명으로 건 링크 한 줄. 해시태그는 넣지 않는다.
     발표 주체와 날짜는 첫 항목 안에 들어간다(프롬프트가 요구한다).
     """
-    lines = [f"<b>[{_esc(card['title'])}]</b>", ""]
+    emoji = (card.get("emoji") or "📌").strip()
+    lines = [f"<b>{_esc(emoji)} [{_esc(card['title'])}]</b>", ""]
 
     lead = _esc(card.get("lead"))
     if lead:
@@ -124,7 +126,10 @@ def render(card: dict, item: dict) -> str:
     for n, d in enumerate(card.get("details") or [], 1):
         d = _esc(d)
         if d:
-            lines += [f"{n}. {d}", ""]
+            lines += [f"{n}) {d}", ""]
 
-    lines.append("뉴스 링크: " + _esc(item["link"]))
+    # 주소를 그대로 노출하면 줄이 길어진다. 매체명(없으면 도메인)에 링크를 건다.
+    label = item.get("source") or urllib.parse.urlparse(item["link"]).netloc
+    label = re.sub(r"^www\.", "", label or "원문 보기")
+    lines.append(f'🔗 <a href="{_esc(item["link"])}">{_esc(label)}</a>')
     return "\n".join(lines)
