@@ -214,6 +214,16 @@
    "t": "\"변압기 호황\" HD현대일렉트릭, 유럽 해상풍력서도 기회 잡는다 - 뉴시스",
    "ts": 1789765200,
    "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yTjF0eFhTSzZabHJMZERUNDc3Q0hjR21MaHBtaTk1b0FWcnlMMG42ZVNkdW9hRGFjZDh6ajA5VFFqVU9IVUg5d0NaSWZ3SkhNanVjaUc3LTNtTkdyT2VweNIBeEFVX3lxTE1fWFJSQ1Ficl9jVHNXNE1DamtiV2U3SXJkSlp2czZaV0E3d0dnTktWV2tNTzhSQlFUcWhYall3V3hQMXNhdkJNTXd1TzVBUkxKcEkzUGZ2TDcxOWhSRWNnNlNVeHV2aEswZm5kNC1LN0ViLXRzZmpSbg?oc=5"
+  },
+  {
+   "co": "HD현대일렉트릭",
+   "n": 1,
+   "s": "아이뉴스24",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "HD현대일렉트릭, 해상변전소 유럽 해상풍력 현장 출항 - 아이뉴스24",
+   "ts": 1789694825,
+   "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CTnRTcWZadThWd0gySHUyQ2F3bnpDZEtDaGk0R201VFMxSktLbURZdEh3d243YlFGUEFmME5nUGgyTkFMNXFsZXh6bw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -677,6 +687,7 @@
   "3d04f8cf0b0b5632": 1789713633,
   "3d3bcc9444569e39": 1789694436,
   "3d57dba129198893": 1789629088,
+  "3d7d1c6d682d25a3": 1789767070,
   "3dafacd3beed6976": 1789727277,
   "3dcee15a06a653ca": 1789658129,
   "3e0c8fa4a3adb218": 1789713065,
@@ -2020,7 +2031,7 @@
  "companies_today": {},
  "day": "2026-09-19",
  "last_clip": 1789741740,
- "last_msg_poll": 1789766748,
+ "last_msg_poll": 1789767317,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2061,7 +2072,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 06:25 KST",
+  "last_run": "2026-09-19 06:35 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
