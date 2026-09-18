@@ -262,6 +262,26 @@
    "t": "[특징주] 아마존 대규모 전력장비 계약에 전선주 강세…가온전선 18%↑ - 이투데이",
    "ts": 1789692360,
    "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yWDJBekdVY1R5SWZ6bWFETVB6MnRjR0d5VHhrVGRZR1U4YjZXeEhTVnE5VjFjNnZ6ZDVTLWZQci1HZWZCT2RDeXpOS3lNbHRvNG92NQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "에너지신문 - 전체기사",
+   "sc": 1,
+   "sec": "유틸리티·정책",
+   "t": "지진에 가스 누출·화재까지…가스공사, 복합재난 대응 ‘실전훈련’",
+   "ts": 1789726262,
+   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228321"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터 몰리자 실리콘밸리도 ‘전력 비상’…화석연료 회귀 우려 - v.daum.net",
+   "ts": 1789681500,
+   "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5xdl9QTm44V0lEbUNBeWZiU2g0NVBpOGxIM2I3Mm53SDJkMWh4djNBdDZYVHZ0V1RkajZfUTI3ajg5TDlYcUE?oc=5"
   }
  ],
  "clip_titles": [],
@@ -285,6 +305,7 @@
   "0347c98e5f3ecdf3": 1789693814,
   "0353d7cf89aaf18a": 1789627496,
   "0392355132f68d23": 1789627496,
+  "03dc9483e0a5b187": 1789694131,
   "03fa52e1013b5ee4": 1789627496,
   "042cfb23d6e695a6": 1789627496,
   "04422e804cc0f8b5": 1789629088,
@@ -643,6 +664,7 @@
   "4fb900dbd596744e": 1789627496,
   "4ffeabe14a210b4e": 1789627496,
   "5005b49b3ccd18a1": 1789627496,
+  "50252fdab47936d9": 1789694131,
   "505669e9238ab204": 1789627496,
   "50b8174b10d5a680": 1789631127,
   "50e458d29187c0f5": 1789627496,
@@ -1217,6 +1239,7 @@
   "cdcff6d68d397b8e": 1789629088,
   "cddebd072c6726c4": 1789631415,
   "cde30d2cd1f7f278": 1789627496,
+  "cdf92c9a6001d19d": 1789694131,
   "ce0334a09d3e40b6": 1789645218,
   "ce31e53d0df5c039": 1789649116,
   "ce9df27a8b1968cf": 1789649116,
@@ -1292,6 +1315,7 @@
   "dedc89d338c0837d": 1789635327,
   "dedd28d4745fbf66": 1789632334,
   "df85707cb05498ba": 1789627496,
+  "dfe932b0af50ec5e": 1789694131,
   "e0827a2b69061cd2": 1789639528,
   "e0ad829b3839a141": 1789663217,
   "e0b5be5e6f041d29": 1789629088,
@@ -1384,6 +1408,7 @@
   "eff63fc4501319ef": 1789693220,
   "f03e7c9b44c32dd5": 1789692920,
   "f05752777b5cfae3": 1789629088,
+  "f05de461d33ec664": 1789694131,
   "f06a9be50df28947": 1789627496,
   "f09cd73698fb79ef": 1789627496,
   "f0b77a66ea60fdaa": 1789629088,
@@ -1497,7 +1522,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 10:10 KST",
+  "last_run": "2026-09-18 10:15 KST",
   "total_posted": 7
  },
  "tg_offset": 371065784,
