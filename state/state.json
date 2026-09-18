@@ -343,6 +343,26 @@
    "t": "건설공제조합, 글로벌 인프라 콘퍼런스 참가…해외 수주 지원",
    "ts": 1789694737,
    "u": "https://www.yna.co.kr/view/AKR20260918062200003"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Queen 이코노미퀸",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "K-전력기기 3사, 3Q 북미 데이터센터 수주 1조 7900억 원 규모 - Queen 이코노미퀸",
+   "ts": 1789695722,
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jNU9zQU81UXllNW83RWhHcVZmMU5HMl9aeE5LeEJOOG9iZElUc2plcHhZYjU4YUNVYjVpRDd3SHZkV2t4VUdaaFhkTjFqZjhVNlA1MU52ZkxmcEJ1ckJoTDhUOUQ0LW0w?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "리드경제",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "한국 전력기기 3사 수주잔고 7배 급증…미국 수급 불균형 지속 - 리드경제",
+   "ts": 1789694940,
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95TTBPODltWGRDM0NSY1BkcW1ubEY2a0duQUVwMHI4RDcyUlpQRmFETlhJVUNBWDlIVEpiYTVKYmxFbVk2eTFzV2YzYXRXUnFYMk03QUN4cU1SN1hKaFVDRV9aeE5nTDlxamVJX3Y2Yw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -471,6 +491,7 @@
   "16c961d7dc44c182": 1789693531,
   "171761c9d9c085f2": 1789627496,
   "17221af43713df36": 1789632334,
+  "1729bc9695cbc13b": 1789695920,
   "179e314d6bf8d6b2": 1789637719,
   "17ea2019185c4ad5": 1789627496,
   "1807bcf4a9cfe970": 1789627496,
@@ -859,6 +880,7 @@
   "691c2a46761f6875": 1789627496,
   "696e429e7ddbef8d": 1789648519,
   "699bc6528bcc31d6": 1789689915,
+  "6a982a4d221c8033": 1789695920,
   "6aef674a1c128c46": 1789627496,
   "6af88f13c585a2b3": 1789636515,
   "6b6039ba6d4ed578": 1789691718,
@@ -1358,6 +1380,7 @@
   "d1a163164a7c6144": 1789629088,
   "d1dd944d53a27a20": 1789627496,
   "d2250e51ed3c8095": 1789627496,
+  "d22b214114206def": 1789695920,
   "d22c9acd6da5106b": 1789652129,
   "d23e2fa8b55a7088": 1789629088,
   "d2646241f0a40634": 1789627496,
@@ -1593,7 +1616,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789689915,
- "last_msg_poll": 1789695863,
+ "last_msg_poll": 1789696164,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1607,6 +1630,7 @@
   "381dab70369fcfc7": 1789589365,
   "3cf2222e3dd5b762": 1789482543,
   "3ff75ee6c8c3be04": 1789523153,
+  "548ed758c0d7bf16": 1789696070,
   "5b5615bb8c32941e": 1789541523,
   "767f1a2b22130fb8": 1789448532,
   "76aa2d8a91196097": 1789589359,
@@ -1631,10 +1655,10 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 10:44 KST",
+  "last_run": "2026-09-18 10:49 KST",
   "total_posted": 7
  },
- "tg_offset": 371065785,
+ "tg_offset": 371065786,
  "titles": [
   [
    1789448532,
