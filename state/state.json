@@ -164,6 +164,16 @@
    "t": "Virginia’s Loudoun County board votes to pause new data center applications",
    "ts": 1789748339,
    "u": "https://www.datacenterdynamics.com/en/news/virginias-loudoun-county-board-votes-to-pause-new-data-center-applications/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "POWER Magazine",
+   "sc": 1,
+   "sec": "재생에너지·ESS",
+   "t": "Driving the Hydrogen Economy:  How a Custom Non-Return Valve Advances  Fuel Cell Development in Material Handling",
+   "ts": 1789748556,
+   "u": "https://www.powermag.com/driving-the-hydrogen-economy-how-a-custom-non-return-valve-advances-fuel-cell-development-in-material-handling/"
   }
  ],
  "clip_titles": [],
@@ -635,6 +645,7 @@
   "3e88078ef72e1f17": 1789629088,
   "3eb7a5a7ee77bdb7": 1789629088,
   "3ebb13936c39b990": 1789627496,
+  "3ec5b8cd2fcc9bf3": 1789748719,
   "3eccbe4ac5be1cfd": 1789632918,
   "3ed642ea05ad0c1e": 1789627496,
   "3ed7069c20bdb6c1": 1789627496,
@@ -1957,7 +1968,7 @@
  "companies_today": {},
  "day": "2026-09-19",
  "last_clip": 1789741740,
- "last_msg_poll": 1789748675,
+ "last_msg_poll": 1789748968,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1998,7 +2009,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 01:24 KST",
+  "last_run": "2026-09-19 01:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
