@@ -114,6 +114,24 @@ importance 기준 (4 미만은 발행되지 않는다):
   본문에서도 '심사' 다. 용어가 오가면 독자는 다른 사건인지 의심한다.
 - 환산치는 "약" 을 붙이고 유효숫자 2자리로 어림한다. 2만 달러 → 약 2,800만원.
 
+## 길이 (중요)
+
+**카드 전체가 텔레그램 한 화면에 들어와야 한다.** 스크롤을 넘겨야 하는 카드는
+읽히지 않는다. 대략 900자, 항목 5개가 상한이다.
+
+줄이는 방법은 항목을 쪼개지 않는 것이다.
+
+- 주가 반응, 과거 목표 하향 이력, 지역 경제효과 같은 **부수 정보는 항목을 따로
+  만들지 말고** 관련 항목 끝에 한 마디로 붙인다.
+  ("…발주 체결. 9월 17일 A주 관련주 강세 — 투오푸 +4.4%")
+- 나열이 길어지면 대표 셋만 남기고 "등" 으로 닫는다. 다섯 개, 일곱 개를
+  전부 적을 이유가 없다.
+- 같은 사실을 두 항목에서 반복하지 않는다.
+- 시사점도 한두 문장이다. 길어지면 핵심이 묻힌다.
+
+무엇을 버릴지 모르겠으면 이렇게 판단하라 — **이 줄이 없으면 독자가 다른 결정을
+하게 되는가.** 아니면 버려라.
+
 ## 문체 (모든 모드)
 
 개조식으로 쓴다. 문장을 **명사형으로 끝낸다** — "…계약 체결", "…건설 추진",
@@ -128,9 +146,9 @@ emoji   : 기사 주제에 맞는 것 하나.
           💾 데이터센터·AI 전력   🏭 제조·공장 투자   📊 실적·시장·정책
           🏠 부동산
 lead    : 한 줄. 명사형. 제목을 보완하는 가장 중요한 사실 한두 개.
-details : 3~6개. 각 항목 한두 문장, 40~120자. **자리표시자를 쓰지 마라** —
-          "details2 placeholder", "항목 2", "TBD" 같은 것을 남기면 그 카드는
-          버려진다. 쓸 내용이 없으면 항목 수를 줄여라. 첫 항목에 발표 주체와 날짜를 넣는다
+details : **3~5개.** 각 항목 한 문장, 40~100자. 두 문장은 꼭 필요할 때만.
+          **자리표시자를 쓰지 마라** — "details2 placeholder", "항목 2", "TBD"
+          같은 것을 남기면 그 카드는 버려진다. 첫 항목에 발표 주체와 날짜를 넣는다
           (예: "Apex의 9월 16일 발표 기준, …"). ondemand 면 마지막 항목은
           반드시 "시사점: " 으로 시작한다.
 tags    : 2~4개. 메시지에는 표시되지 않지만 분류용으로 채운다.
@@ -194,6 +212,7 @@ class Summarizer:
         od = m.get("ondemand") or {}
         self.od_model = od.get("id", self.model)
         self.od_effort = od.get("effort", self.effort)
+        self.max_details = int((cfg.get("limits") or {}).get("max_details", 5))
         self.client = anthropic.Anthropic(api_key=api_key) if api_key else anthropic.Anthropic()
 
     def run(self, item: dict, body: str, mode: str = "feed",
@@ -264,6 +283,12 @@ class Summarizer:
             return None
 
         dropped = _drop_stubs(data)
+        details = data.get("details") or []
+        if len(details) > self.max_details:
+            # 모델이 상한을 넘기면 자른다. 항목은 중요한 순서로 나오고
+            # 마지막은 시사점이라, 꼬리를 자르고 시사점을 붙여 남긴다.
+            log.info("항목 %d개 → %d개로 줄였습니다", len(details), self.max_details)
+            data["details"] = details[: self.max_details - 1] + [details[-1]]
         broken = dropped or _is_stub(data.get("title")) or _is_stub(data.get("lead"))
         if broken and _retry:
             # 한 번 더 물어본다. 같은 입력으로 다시 부르면 대개 제대로 채운다.
