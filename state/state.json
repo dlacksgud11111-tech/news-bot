@@ -383,6 +383,26 @@
    "t": "“데이터센터 1조달러 시장 열린다”…KIC, 뉴욕서 투자전략 논의 - 한국경제",
    "ts": 1789694855,
    "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14RmhrNXdYdmNtRnItVWh4S1hQVmdVa3ZzLVFKWlh6ZkNlbUZhaGNxSnV6LXNRaDdGMHN4T2VrWFRkQ3BNTkhJYmVocG9FVmxEaHp4SHlEbGtzQQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "이투뉴스 - 전체기사",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "美 하원, 데이터센터 전기료 상승 방지 법안 통과시켜",
+   "ts": 1789728736,
+   "u": "http://www.e2news.com/news/articleView.html?idxno=334354"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "블록미디어",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "\"데이터센터 성공의 조건은?\" 한국 AI 데이터센터 지도--비트플래닛 - 블록미디어",
+   "ts": 1789695960,
+   "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mR09GTzVlYXl6Ulh1b2hmbXVOVHJRLWEzYjNhaDhmLXJKdEVoeFl5bVN1MmVMWGd1NG1sd2c5ZUtXMmlxMDVma3FXdTNIR3JVd19VQjd0eHg?oc=5"
   }
  ],
  "clip_titles": [],
@@ -799,6 +819,7 @@
   "534879898f3a5f8e": 1789693531,
   "5380ee503186658e": 1789695321,
   "53aefac76dd3ae28": 1789627496,
+  "53af561c2b1696e0": 1789696517,
   "53c08ffc26994488": 1789627496,
   "5410f53ff78d6786": 1789629088,
   "543bb61aef37ba2b": 1789627496,
@@ -1342,6 +1363,7 @@
   "c4bd5d764718d20d": 1789639528,
   "c4e77d86190c2d41": 1789627496,
   "c5045c0c8515d31d": 1789627496,
+  "c51ef6f27d5f64bc": 1789696517,
   "c51ff93e5fac5349": 1789627496,
   "c558fcb8c68e4d41": 1789627496,
   "c5e3fb1a8c6e330b": 1789627496,
@@ -1640,7 +1662,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789689915,
- "last_msg_poll": 1789696463,
+ "last_msg_poll": 1789696761,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1650,6 +1672,7 @@
   "04422e804cc0f8b5": 1789578650,
   "1430d9c05aa6017b": 1789465100,
   "15c77123df4e9b80": 1789589411,
+  "1faff5170d31436e": 1789696749,
   "24e4a299c9bfb8a9": 1789496783,
   "381dab70369fcfc7": 1789589365,
   "3cf2222e3dd5b762": 1789482543,
@@ -1679,10 +1702,10 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 10:54 KST",
+  "last_run": "2026-09-18 10:59 KST",
   "total_posted": 7
  },
- "tg_offset": 371065786,
+ "tg_offset": 371065787,
  "titles": [
   [
    1789448532,
