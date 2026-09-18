@@ -2,7 +2,7 @@
  "alert_cooldown": {
   "HD현대일렉트릭|수주·계약": 1789694720,
   "LS전선|수주·계약": 1789713632,
-  "효성중공업|수주·계약": 1789682430
+  "효성중공업|수주·계약": 1789720222
  },
  "alert_titles": [
   [
@@ -52,6 +52,10 @@
   [
    1789713632,
    "'2026 탄소중립 EXPO' 폐막…포스코그룹"
+  ],
+  [
+   1789720222,
+   "효성중공업, 美빅테크서 변압기 3865억 수주…AI 데이터센터 공략"
   ]
  ],
  "alerted": {
@@ -66,9 +70,10 @@
   "99e9e19b28cb6dd8": 1789694435,
   "a35a79d408f8ec9f": 1789627493,
   "accda29e47d0d212": 1789627489,
+  "bc994ca12211ee69": 1789720222,
   "cdaa54f68b0563fa": 1789658129
  },
- "alerted_today": 5,
+ "alerted_today": 6,
  "clip_buffer": [
   {
    "co": "",
@@ -79,6 +84,16 @@
    "t": "수자원공사, 대청댐 수열로 AI 데이터센터 조성 - pinpointnews.co.kr",
    "ts": 1789719012,
    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Ka0E4UDB3RHlQZEZwUGtIN2JRcWlHYkQ0bFVIOWhod01RMXZmRGd2cVBPdVNtQXNfTHdCMXpEZWtBdkxsZUdzaHR5TkZ4S0c1MHl0TXVqOERLOEtqYk0zQnJTTFRuVlNMUjNZTkE5QU02eVXSAXdBVV95cUxOZmd5QVQzQzdPcmp0c3VqZF9kZTE1cTVrbTdoQi04TVp0ZUlsb0phcHdfcE9SeDZrMXMweUswSWFtX2FzYS1pOUJPR1VtVUswLTl5THpFaEJudEx3aTl0eGpyVjVWS1UzbjNXRk9zV01kOWtpb2JuYw?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "조세일보",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "효성중공업, 美빅테크서 변압기 3865억 수주…AI 데이터센터 공략 - 조세일보",
+   "ts": 1789719680,
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yYVhvemM2QWFnTDIwRWxwRDdhYTQzeThHQU1KZmt0aUtNeGl5WTJYS1FrVUpNUlV5NXVkR25Cak0tVEdQVkZtMENSdElsUks3Uk9aVmlSREJyY3ZGcVc1dTRGQU41ZnBCSlNuRF9sMkRtTF9t?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1248,6 +1263,7 @@
   "bbf7dbbe59c49807": 1789718720,
   "bbf9ac8f01b5ca5f": 1789627496,
   "bc33aa962d5f6e6a": 1789638920,
+  "bc994ca12211ee69": 1789720223,
   "bcc05bce8f9ec134": 1789693531,
   "bcc1e6b600f2c894": 1789630519,
   "bcc27e12540e3a32": 1789679129,
@@ -1684,7 +1700,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789719316,
- "last_msg_poll": 1789720184,
+ "last_msg_poll": 1789720463,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1725,7 +1741,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 17:29 KST",
+  "last_run": "2026-09-18 17:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
