@@ -39,10 +39,32 @@ jobs:
           TELEGRAM_CHAT_ID_CLIP: ${{ secrets.TELEGRAM_CHAT_ID_CLIP }}
           TELEGRAM_CHAT_ID_WEEKLY: ${{ secrets.TELEGRAM_CHAT_ID_WEEKLY }}
           TELEGRAM_CHAT_ID_SUMMARY: ${{ secrets.TELEGRAM_CHAT_ID_SUMMARY }}
-        # 수신 메시지는 messages.yml 이 1분마다 전담합니다. 여기서는 그쪽이
-        # 20분 넘게 조용할 때만 대신 받습니다 — 전담이 죽어도 링크 응답이
-        # 아예 끊기지는 않게 하는 그물입니다.
-        run: python src/main.py --messages-if-stale 20
+        # 이 단계가 뉴스 수집과 수신 메시지를 함께 처리합니다.
+        # 이어지는 'Listen for messages' 단계와 한 짝입니다.
+        run: python src/main.py
+
+      # 앱스 스크립트가 5분마다 깨우니, 한 실행이 4분을 버티면 사실상 언제나
+      # 누군가 듣고 있는 셈이 됩니다. 링크를 넣으면 10초 안팎에 답이 옵니다.
+      #
+      # 별도 워크플로를 두지 않는 이유: 그러면 그쪽을 깨울 트리거가 또 필요한데,
+      # GitHub 예약에 맡겼다가 하루 세 번만 살아남은 것이 예전 worker.yml 입니다.
+      # 이미 제 시각에 오는 트리거에 얹는 편이 확실하고, 앱스 스크립트는
+      # 손댈 필요가 없습니다.
+      #
+      # 240초인 이유: 앞 단계가 30초쯤 걸려 합쳐서 4분 반이고, 다음 5분 깨우기와
+      # 겹치지 않습니다. 겹치더라도 concurrency 가 줄을 세웁니다.
+      - name: Listen for messages
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_CHAT_ID_SUMMARY: ${{ secrets.TELEGRAM_CHAT_ID_SUMMARY }}
+        run: |
+          end=$(( $(date +%s) + 240 ))
+          while [[ $(date +%s) -lt $end ]]; do
+            sleep 10
+            python src/main.py --messages-only || echo "::warning::메시지 처리 실패"
+          done
 
       - name: Persist state
         run: |
