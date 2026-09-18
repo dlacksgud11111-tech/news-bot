@@ -184,6 +184,16 @@
    "t": "LS일렉트릭-한전, 배전용 ‘그리드포밍’ 기술 공동 개발 맞손 - koreasprint.com",
    "ts": 1789748460,
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MVjRJUmV5eXlseVdzZDIyckVCajhkQUdRSUpKZFo5eGZYX1B4bU9IUTBpV0xWdGdHUVRMb256cEUzajVJUElteEF1SlI3a2xwN2hsRm1NSVdzYWtRSllqcUR6TFU4MW5FdzZ6Qjhn?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "POWER Magazine",
+   "sc": 7,
+   "sec": "건설·플랜트",
+   "t": "The Overlooked Renewable Energy Resource: Why Construction Waste Should Be Part of America’s Energy Strategy",
+   "ts": 1789751773,
+   "u": "https://www.powermag.com/the-overlooked-renewable-energy-resource-why-construction-waste-should-be-part-of-americas-energy-strategy/"
   }
  ],
  "clip_titles": [],
@@ -650,6 +660,7 @@
   "3dafacd3beed6976": 1789727277,
   "3dcee15a06a653ca": 1789658129,
   "3e0c8fa4a3adb218": 1789713065,
+  "3e1000ba817a37f6": 1789752020,
   "3e266a6ce686e3a3": 1789627496,
   "3e3ae8aafb98782f": 1789627496,
   "3e73616ff01de6ea": 1789738816,
@@ -1980,7 +1991,7 @@
  "companies_today": {},
  "day": "2026-09-19",
  "last_clip": 1789741740,
- "last_msg_poll": 1789751960,
+ "last_msg_poll": 1789752270,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2021,7 +2032,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 02:19 KST",
+  "last_run": "2026-09-19 02:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
