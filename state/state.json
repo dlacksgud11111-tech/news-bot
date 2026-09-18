@@ -274,6 +274,46 @@
    "t": "효성중공업, HVDC 국산화 나선다…컨버터 밸브·제어기 공개 - dbr.donga.com",
    "ts": 1789628220,
    "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uT1JoOG9aelE3UWtabDJCSzBfNWoza2hCQTRCdG9OMUhmbWUxaWNSU205d3pUbTVmVkkzanBqWTJYRy1Qa25DZTZxSVIyb05XMTRpZXF6SkZURkpJUnc?oc=5"
+  },
+  {
+   "co": "Schneider Electric",
+   "n": 1,
+   "s": "DCD",
+   "sc": 4,
+   "sec": "데이터센터·AI전력",
+   "t": "DCD Talks: What 800 VDC means for data center cooling with Mike Donahue, Schneider Electric Global",
+   "ts": 1789724506,
+   "u": "https://www.datacenterdynamics.com/en/videos/dcd-talks-what-800-vdc-means-for-data-center-cooling-with-mike-donahue-schneider-electric-global/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 5,
+   "sec": "재생에너지·ESS",
+   "t": "Azerbaijan inaugurates 100 MW solar project",
+   "ts": 1789724438,
+   "u": "https://www.pv-magazine.com/2026/09/18/azerbaijan-inaugurates-100-mw-solar-project/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Asp Data Center secures NOK1.6bn to fund data center project in Stavanger, Norway",
+   "ts": 1789724193,
+   "u": "https://www.datacenterdynamics.com/en/news/asp-data-center-secures-nok16bn-to-fund-data-center-project-in-stavanger-norway/"
+  },
+  {
+   "co": "HD현대일렉트릭",
+   "n": 1,
+   "s": "에너지경제신문",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "HD현대일렉 변압기, 유럽 해상풍력단지로…“국내업계 최초” - 에너지경제신문",
+   "ts": 1789711780,
+   "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04RzJzVTBQelFGOGJOMjAyZkI5VnlRWjhXRVQ4QkNUNXdHTUxpbVJ6OV9PbEl3LTBZbjU2Q3BQX2xhb3loY1p5YXFiTnJad1k3MmlPbmlGeERyd2M?oc=5"
   }
  ],
  "clip_titles": [],
@@ -471,6 +511,7 @@
   "1b2e7266e4566b1a": 1789629088,
   "1b41cd56806e4c19": 1789627496,
   "1b91666e408d21d8": 1789627496,
+  "1b9fb307498e461e": 1789724997,
   "1bb3429b1a582e95": 1789712512,
   "1bff12ffd9fed061": 1789648519,
   "1c20e332f79121f8": 1789627496,
@@ -536,6 +577,7 @@
   "258a4efa5b8ac6e0": 1789718720,
   "259a2da7441ff646": 1789629088,
   "25abb1641d367150": 1789723222,
+  "25d2783dddb19c3d": 1789724997,
   "25ed99eb09bc70fb": 1789721435,
   "25f0d7b602ff77eb": 1789714524,
   "25f24072a6dd78b2": 1789701321,
@@ -1249,6 +1291,7 @@
   "982188f1294f88e6": 1789633820,
   "984833176e35d975": 1789627496,
   "98e442e44587a7ae": 1789634116,
+  "99160298832d1178": 1789724997,
   "99462ccc0519934d": 1789632918,
   "9971f831ed5322d1": 1789721130,
   "99e9e19b28cb6dd8": 1789694436,
@@ -1287,6 +1330,7 @@
   "a04b07d04818cd0b": 1789693531,
   "a05a7994895f0432": 1789644018,
   "a08b648f74f3a466": 1789637719,
+  "a0d77ade2a24c41f": 1789724997,
   "a0e49d1b9e09e5a5": 1789627496,
   "a116fb883386bfe8": 1789697120,
   "a131f35903479069": 1789627496,
@@ -1945,7 +1989,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789719316,
- "last_msg_poll": 1789724666,
+ "last_msg_poll": 1789725243,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1986,7 +2030,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 18:44 KST",
+  "last_run": "2026-09-18 18:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
