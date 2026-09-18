@@ -162,13 +162,23 @@
   },
   {
    "co": "",
-   "n": 1,
+   "n": 2,
    "s": "전기신문",
    "sc": 6,
    "sec": "데이터센터·AI전력",
    "t": "거린에너지-네이버, 진도 태양광으로 AI 전력 확보 맞손 - 전기신문",
    "ts": 1789714871,
    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyV29DU3ZqY0JyM2F3MkVqdXZnMkdHcTkxWUxHWU5na0VGV0lORUVLODVqZmxkSTlLYTVmQVp5RklzVmNVcXd1VU95N0VSZ1hLeU9EaVE1UVhxNm5zMVh2NmRNVm02cFVBWlhEcdIBcEFVX3lxTE15R1FUWDNPb3YteF9kY0lZdGhTeE5aT21TcTJSN2xmN0hfM2daTmM0eEtTakRzMkxseHE2U24wYmZ6Z3dSM3lldlhvV1RyZktjYnRraE5USmM5YndfMnF1eWJObC1RMkxua1QwMHBsYkc?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "에너지신문 - 전체기사",
+   "sc": 8,
+   "sec": "재생에너지·ESS",
+   "t": "LTO 배터리 산업 현장 공급…그리너지, AMR용 배터리 8월부터 양산",
+   "ts": 1789748372,
+   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228334"
   }
  ],
  "clip_titles": [],
@@ -438,6 +448,7 @@
   "28921d7a36965148": 1789689626,
   "28956e4cc8e6e901": 1789627496,
   "290d92e4a2fb1573": 1789627496,
+  "295771b5a96b18ee": 1789716319,
   "2983692d7f3ad9b6": 1789693531,
   "29920d2e2a1aae43": 1789627496,
   "2aa08541ed3d244d": 1789673419,
@@ -872,6 +883,7 @@
   "744a0722e51cf16f": 1789693531,
   "74904b67ef56d664": 1789629088,
   "74a3b1457f0c3a38": 1789627496,
+  "74b608a0c5bf8452": 1789716319,
   "74b856865b84afc2": 1789627496,
   "74b9e3c289d28c49": 1789627496,
   "74e120ffcbabc0da": 1789627496,
@@ -1064,6 +1076,7 @@
   "94a7bc6e8af2008e": 1789627496,
   "94ca4e82ad4d606c": 1789708498,
   "94e1114b5a266df9": 1789705521,
+  "952de807bc014c54": 1789716319,
   "95473a75ba4d0cb5": 1789634116,
   "95afdeca6cd510b9": 1789627496,
   "95d92ec09c25432a": 1789644321,
@@ -1275,6 +1288,7 @@
   "b770762cbe687a62": 1789627496,
   "b77d8262e9a2c30d": 1789656318,
   "b7855d60af34d90c": 1789627496,
+  "b78f9a27b13b58d2": 1789716319,
   "b7bbc04d76e7fb65": 1789627496,
   "b7fe35f6dbbb9a59": 1789627496,
   "b81f9519fd5e53b6": 1789678217,
@@ -1329,6 +1343,7 @@
   "bf4aea1fd5d2f47e": 1789627496,
   "bf83a25d8879ffea": 1789712512,
   "bfb528f17e15cef4": 1789627496,
+  "c00adeab68e2f372": 1789716319,
   "c0491fdd381ce1d7": 1789627496,
   "c085b52ae4b71a81": 1789634116,
   "c094140fab0e036b": 1789627496,
@@ -1733,7 +1748,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789711937,
- "last_msg_poll": 1789716270,
+ "last_msg_poll": 1789716565,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1774,7 +1789,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 16:24 KST",
+  "last_run": "2026-09-18 16:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
