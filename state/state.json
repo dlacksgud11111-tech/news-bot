@@ -123,6 +123,26 @@
    "t": "근무 시간에 회사로 찾아가는 AI 교육, 기업 AX 문턱 낮춘다…강소기업협회 G밸리지회·한국소프트웨어인재개발원 업무협약",
    "ts": 1789705087,
    "u": "https://www.etnews.com/20260918000183"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "핀포인트뉴스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "데이터센터 고속도로 탄다… 빛샘전자, 초고속 광통신 부품 수요 급증 수혜 - 핀포인트뉴스",
+   "ts": 1789705395,
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BWTNucG42SWcyMHdsa28ySlJYTnNHM0tndEVlbWs1a3U4MjdQS2Noc2VsNmo5d2l1S28tLUpGRl96MFpaV1dIaXRTUmFMUHZrd3otN1FMa3Mxc01mb3JmeHNsTVFsS2RxLXZsWXNaZlRJSEXSAXdBVV95cUxNM1VzbVM5cGNreElnOGNzZVJmbWxEMWRoOXktRjJXZVRfV29BN19keFNjTnhtcHI5QlJ2Z1JFWUNNazR3ZzVoWEVKTHM1Qm5lVjFReEE4YmZrdFV0RGExOFY1bXpTRFY1UkFSVkJHQ1RQdTlsYl9Ebw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "네이버 프리미엄콘텐츠",
+   "sc": 6,
+   "sec": "원전",
+   "t": "금리 부담 완화에 AI 인프라 재반등…전력·원전·반도체로 매수 확산-[美증시 특징주] - 네이버 프리미엄콘텐츠",
+   "ts": 1789684740,
+   "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWV9TUUN3UWV6UDhoZWNtczhLV21vQWZyVnVNQ0ZFYTc2clRfbGpGbTIyOTFOXzAtM2NxTWlRY2JXaTV0VmVjdWRtdlFFQ1hiQ0RxcDdMTHhTNFNVRWF2VXB2UjNUaWp2VmpoaHg4NV9hQU1jTVhMX213UFhQclJ1U2p3?oc=5"
   }
  ],
  "clip_titles": [],
@@ -559,6 +579,7 @@
   "4e23888217cc671e": 1789651818,
   "4e542cc5daa30b24": 1789627496,
   "4ed3f8a04a63049c": 1789689020,
+  "4f8fb1c688708227": 1789706718,
   "4fb900dbd596744e": 1789627496,
   "4ffeabe14a210b4e": 1789627496,
   "5005b49b3ccd18a1": 1789627496,
@@ -1019,6 +1040,7 @@
   "a94eed982b465002": 1789669819,
   "a9ae868adfe9dda1": 1789692619,
   "a9d645c9355ae498": 1789693531,
+  "a9f6e42956377cbf": 1789706718,
   "a9f89e3c1fe57304": 1789691718,
   "aa2580a0962f5e38": 1789630519,
   "aa5667e3d60ce67a": 1789627496,
@@ -1268,6 +1290,7 @@
   "d3a981938e2fc1a5": 1789634416,
   "d3e65bc85bdc8c25": 1789634116,
   "d3e7941f45b7c0b0": 1789627496,
+  "d3f225c1d2b68ac9": 1789706718,
   "d437816152821265": 1789686316,
   "d4609afd94c8e16c": 1789629088,
   "d47110f4bb098246": 1789698990,
@@ -1504,7 +1527,9 @@
   "fbdd390e214ba2de": 1789701321,
   "fc08e53d9a58ee44": 1789645218,
   "fc253918010bdc51": 1789627496,
+  "fc2ddbc1e062b3a4": 1789706718,
   "fc36e78b9075e580": 1789637719,
+  "fc3fa91ec09e292c": 1789706718,
   "fc7f470bcb1c3715": 1789627496,
   "fc9c203e616d298e": 1789627496,
   "fce683d174f62de1": 1789687516,
@@ -1525,7 +1550,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789704327,
- "last_msg_poll": 1789706654,
+ "last_msg_poll": 1789706960,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1566,7 +1591,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 13:44 KST",
+  "last_run": "2026-09-18 13:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
