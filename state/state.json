@@ -144,6 +144,16 @@
    "t": "‘대청댐 물로 AI 서버 식힌다’…충북, 2조3000억 데이터센터 시동 - 공뉴스",
    "ts": 1789735961,
    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fZmZMY0lnUDk0RGg5VGZCNjRqd2g1ZE5UMF95QlEwcmQxdU9CWVlodmI4TDZIWFpfMWlDNzBESGxoTjhPRWM1RHZVMVhTdjdXcGJFX2N2bUlubUNQa0hfQWNieC1rVVNfQ20teQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "Oracle signs 1.7GW of wind energy supply agreements to support operations in Texas",
+   "ts": 1789738248,
+   "u": "https://www.datacenterdynamics.com/en/news/oracle-signs-17gw-of-wind-energy-supply-agreements-to-support-operations-in-texas/"
   }
  ],
  "clip_titles": [],
@@ -458,6 +468,7 @@
   "295771b5a96b18ee": 1789716319,
   "2983692d7f3ad9b6": 1789693531,
   "29920d2e2a1aae43": 1789627496,
+  "2a030a86064d1774": 1789738532,
   "2aa08541ed3d244d": 1789673419,
   "2acc50ff2fd955f2": 1789627496,
   "2b0287f3d9a0dd71": 1789705521,
@@ -661,6 +672,7 @@
   "46ff66ef9707cf57": 1789627496,
   "4700e802afe4af52": 1789627496,
   "4709609ec4e7fe42": 1789627496,
+  "472698ff8bfa7532": 1789738532,
   "4753037fad042fda": 1789694721,
   "47d5dadec43e8a9e": 1789709642,
   "4808bb2d77ce5080": 1789691718,
@@ -1911,7 +1923,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789734020,
- "last_msg_poll": 1789738465,
+ "last_msg_poll": 1789738778,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1952,7 +1964,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 22:34 KST",
+  "last_run": "2026-09-18 22:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
