@@ -134,6 +134,16 @@
    "t": "“데이터센터 병목은 전력… 사용 방식 바꿔야” - v.daum.net",
    "ts": 1789659355,
    "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLT2ZaS1BzWVpDNkNHelNiY0FwejdQZFRQSUxabUJYWHcyUzNDUlltSHVFN1RtNkJsaS0xVG1Gb2FHWTlMd1Ryal85OGt6Snc?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "더구루",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "자체 발전·배터리 갖춘 데이터센터, 화재 위험 10배 높아…외피·보험 분산 중요 - 더구루",
+   "ts": 1789743621,
+   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VTWtZNUthak5oODIwU3lVdFFsWkxNWWNhakF6UXNZTzVfQk9UejlCSlNJNVFPYVptTG42R3JxajJIeW50c2dYWlZiUzNrYnR2TERNSFc3Yl9oMExBMlBQODJMOA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -851,6 +861,7 @@
   "667cb00fd62e78c9": 1789718720,
   "667ef29e612c5903": 1789649116,
   "66a6e0ff671e56cd": 1789627496,
+  "6700d19e99b83421": 1789745736,
   "674fc3707d33123f": 1789629923,
   "67657fa35fc7a0d7": 1789627496,
   "6778f6c38acc3397": 1789724420,
@@ -1922,7 +1933,7 @@
  "companies_today": {},
  "day": "2026-09-19",
  "last_clip": 1789741740,
- "last_msg_poll": 1789745401,
+ "last_msg_poll": 1789745985,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1963,7 +1974,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 00:30 KST",
+  "last_run": "2026-09-19 00:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
