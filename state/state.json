@@ -122,6 +122,16 @@
    "t": "[심층리포트] 수도권 데이터센터 전력 승인률 1.9%, 522건 중 10건만 통과한 이유 - 한국데이터경제신문",
    "ts": 1789592400,
    "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jNTVSRmtEdlJ3R3Znclhhc3U0dmJOb1hucHR1ajNMMWUyWTFMTDRmdFlYNVFHSEJmVi1UVjBkT3lidmJFZWZSYTBJVzJuWk84RE1hOE1YZzBQa1JobzBSbWFsYThZTW9qcGFFZHB0c0jSAXRBVV95cUxPODRQREkyZTR6ejZSbWRhQ3IzU09BTzdnMVg1VE45NGg1UFdNN2JnR1RZVlFCQ0NqbVZBS0dZQ2lYQjFIazFlYkh2VmxFc3RKckhLNWNQYjNudE5TeDA2Y0pjRm5QUzJjM09DS3N3RGNjUFJQSg?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "AI 매터스",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "미 하원, 데이터센터가 전력망 증설 비용 부담하는 법안 417대 3으로 통과 - AI 매터스",
+   "ts": 1789691712,
+   "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lUm1zdU1tOXlBSlpFMFpIWF9PbGlHWTJMcUdiemwwLUZlV0ZJOVkxVHBUd2dtUUFwbDJUMDZvSlpFVG1wUFJiOTRTZW9VVGlGbmZUYQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -549,6 +559,7 @@
   "603ea98d9b66519e": 1789676118,
   "604bc20c31aa6511": 1789627496,
   "60e1e3746111ef8b": 1789627496,
+  "6137ca44fc539a6f": 1789692015,
   "622dd754da381bdb": 1789627496,
   "624e6bf862fb20d2": 1789655120,
   "6263a612be66c588": 1789627496,
@@ -611,6 +622,7 @@
   "7059f48c1762d7d0": 1789649116,
   "708f4119680bfc04": 1789630519,
   "7091946b08032ce8": 1789627496,
+  "70922bb496c92587": 1789692015,
   "70c6e9fe472269da": 1789627496,
   "711b061aaba804fa": 1789691718,
   "71c7d736b77e6db4": 1789627496,
@@ -1277,7 +1289,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 09:35 KST",
+  "last_run": "2026-09-18 09:40 KST",
   "total_posted": 7
  },
  "tg_offset": 371065781,
