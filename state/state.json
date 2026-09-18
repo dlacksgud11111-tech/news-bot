@@ -194,6 +194,16 @@
    "t": "The Overlooked Renewable Energy Resource: Why Construction Waste Should Be Part of America’s Energy Strategy",
    "ts": 1789751773,
    "u": "https://www.powermag.com/the-overlooked-renewable-energy-resource-why-construction-waste-should-be-part-of-americas-energy-strategy/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "shattered.io",
+   "sc": 4,
+   "sec": "전력기기",
+   "t": "AWS Launches Grid AI Agents as Queue Hits 438 GW [2026] - shattered.io",
+   "ts": 1789762492,
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tTkJwbDlwMUF1S1VodUdmX0N4eFhaZFFUaXZiY3JwRnlraHhOcXV0N2N0WDdtQzJEZEVPdDhhS3duT21zV09EWkNFN0FwMm1vS1lzTkdNelp0SmlsTDV5d01wSUxRcVJ4eGlvd1VuLW5GUQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1068,6 +1078,7 @@
   "7b6fa4ff83cf0217": 1789629088,
   "7b929aaca65a359a": 1789629088,
   "7bba2a30cbe5de86": 1789627496,
+  "7bd68505a113b0cc": 1789764171,
   "7c3099077fdd380b": 1789693531,
   "7c39b3fc4753b390": 1789633820,
   "7c5c761bea62dfbf": 1789715716,
@@ -1727,6 +1738,7 @@
   "da0289bbb93f0945": 1789691349,
   "da069d1f452c03c5": 1789627496,
   "da16c05920528003": 1789627496,
+  "da3d91049038aef5": 1789764171,
   "da58bf947a9d5083": 1789688119,
   "da9a5fb516e97686": 1789698990,
   "dabee4548baeb0a4": 1789627496,
@@ -1993,7 +2005,7 @@
  "companies_today": {},
  "day": "2026-09-19",
  "last_clip": 1789741740,
- "last_msg_poll": 1789763848,
+ "last_msg_poll": 1789764419,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2034,7 +2046,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 05:37 KST",
+  "last_run": "2026-09-19 05:46 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
