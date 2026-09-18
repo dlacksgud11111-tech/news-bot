@@ -189,6 +189,36 @@
    "t": "효성중공업, 외산 의존도 낮추고 공급망 리스크 정조준…대용량 송전망 글로벌 수출 교두보 마련 - 인사이드비나",
    "ts": 1789716352,
    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85eUVKN05nOXFIWE10YzFKcFZwdDlfUWNBQXJidnVoNGRnTUFLNmNpbEEyekNmUncwMDFhcnR6aGE5UG9vUW1tWTY5ZDJlXzdzV0tXSkNCMUxwbk5MSkczNkYzeHFZaEoycWhSbQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "에너지신문 - 전체기사",
+   "sc": 1,
+   "sec": "재생에너지·ESS",
+   "t": "한국가스학회, ‘제2회 수소·가스산업 AI 경진대회’ 연다",
+   "ts": 1789749139,
+   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228335"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "After 30 years in hot-arid climate, Arco solar modules still deliver about half their original power",
+   "ts": 1789716667,
+   "u": "https://www.pv-magazine.com/2026/09/18/after-30-years-in-hot-arid-climate-arco-solar-modules-still-deliver-about-half-their-original-power/"
+  },
+  {
+   "co": "HD현대일렉트릭",
+   "n": 1,
+   "s": "아시아투데이",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "HD현대일렉트릭 변압기 ‘발트해行’…국내 첫 유럽 해상풍력 현장 투입 - 아시아투데이",
+   "ts": 1789694266,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCMjJCZGEzcHBrQ2NJVDU5bXh5T25abW5ISmdXLUFxZ0Fid1E4djk0QzFXMWhTQVh3Y2xKOXpmbUZsejVCR1IxOHZ6ajM2cHdjRkNDOTVIc0FnY0hORC1fcXhsaGJvNU9DOXNvT0NR?oc=5"
   }
  ],
  "clip_titles": [],
@@ -482,6 +512,7 @@
   "2cdb6ce1a12017f9": 1789638920,
   "2cfcf3ce6dc71946": 1789637719,
   "2d22f8c0573d19e5": 1789693531,
+  "2d4975ee8ee544cd": 1789716922,
   "2d53b166b567850b": 1789679129,
   "2d58bc6fcd230d76": 1789698990,
   "2d592136e45dd873": 1789705521,
@@ -568,6 +599,7 @@
   "3a20b0ecb4c8c28c": 1789638316,
   "3a68e7b4cf9d3cca": 1789689317,
   "3a7d7b5b8245dde0": 1789632918,
+  "3a88c75b4d18018c": 1789716922,
   "3ac0981f8d004d46": 1789686316,
   "3b1056290accdafc": 1789629088,
   "3b1dd863d0bba9bc": 1789646417,
@@ -748,6 +780,7 @@
   "59fb8e3b3566d812": 1789629088,
   "5a02b5e3acb6d19e": 1789630519,
   "5a66184bd628b516": 1789692619,
+  "5a8cfa6b6198ef37": 1789716922,
   "5a9311bc43a688a5": 1789627496,
   "5adbb5b11ac5b1c3": 1789654217,
   "5b19f19ebc66f452": 1789627496,
@@ -809,6 +842,7 @@
   "65693e4abaf55ad5": 1789627496,
   "6573f9e0a0fda72f": 1789627496,
   "65950502eef87527": 1789679129,
+  "65a44fe579d6b93b": 1789716922,
   "65f4170f5e98e03d": 1789629088,
   "66150068ced81113": 1789689915,
   "667ef29e612c5903": 1789649116,
@@ -1193,6 +1227,7 @@
   "a8f28eac9ed812ad": 1789627496,
   "a94bd41ca0e56302": 1789627496,
   "a94eed982b465002": 1789669819,
+  "a98ebecb1df07e25": 1789716922,
   "a9ae868adfe9dda1": 1789692619,
   "a9b54e79893fe727": 1789707915,
   "a9d1e4864fab0fba": 1789708498,
@@ -1761,7 +1796,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789711937,
- "last_msg_poll": 1789716874,
+ "last_msg_poll": 1789717164,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1802,7 +1837,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 16:34 KST",
+  "last_run": "2026-09-18 16:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
