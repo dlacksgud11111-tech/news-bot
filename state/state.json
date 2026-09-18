@@ -229,6 +229,36 @@
    "t": "전력거래소 “기록적 폭염에도 여름철 전력수급 안정적 운영”",
    "ts": 1789717572,
    "u": "https://www.etnews.com/20260918000280"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "컨슈머치",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "조현준 회장 ‘기술 경영’ 결실…효성 스태콤, 美 전력망 필수 설비 주목 - 컨슈머치",
+   "ts": 1789718693,
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GUVptOUkzbk50NzVBcVl2eXJMN3FpNmxRSTdRM3Vrc3h3cnNaZkFIZ2NNcnNWX2JFY1NOUzJQZG93ZWh1YWtYeVNLcFJhRXA0Q0JqQ1R1clA0QlNYNGItcGNkSXZyb2F3d0E?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "충남일보",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "수자원공사, 대청댐 수열 활용 AI 데이터센터 구축 속도 - 충남일보",
+   "ts": 1789718672,
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oNlJ6SEdXeHZBMzNabFY0endlT281Xy00aVNlYmtBMUZuWFhuUXBTVXJmUXpGS190TmdBZVNCRWpEMWY1QWlGLTR5V0Y5ci14MlRPNWEzb1RCTUhKQ0QtanpMWWNxbl9tWW03ck8tTS1Fa2c?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "ebn.co.kr",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "조현준, 14년 전 찍은 HVDC 승부수…효성중공업 '글로벌 톱3' 시동 - ebn.co.kr",
+   "ts": 1789716743,
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fcjFrbmItdG4xZlQzRHhHREV1OUNLRUNrU3cyY0k1QWhkbHJwOEQ4ZDJyS3E5RVRoTi04NkFFaU9UMnBMNlMzUzdrTlpicGNTRVF1LU9GaUN5a0J6MXVOdFp0UWpqbW15?oc=5"
   }
  ],
  "clip_titles": [],
@@ -278,6 +308,7 @@
   "07d525960c49b672": 1789627496,
   "07f0199f19dd7d5b": 1789697120,
   "0815996fac76be42": 1789630256,
+  "0818b8426de90604": 1789719021,
   "08332f90ed3993ee": 1789697120,
   "08336f1c112bb352": 1789689915,
   "084668228d8dd403": 1789693531,
@@ -1156,6 +1187,7 @@
   "974db347aca0890f": 1789698990,
   "97656ae4c59d9d7c": 1789629088,
   "9775dd7a16a87e47": 1789695321,
+  "97cbd63761dc5ffc": 1789719021,
   "97cd73ec51508bf1": 1789712512,
   "982188f1294f88e6": 1789633820,
   "984833176e35d975": 1789627496,
@@ -1228,6 +1260,7 @@
   "a50e1ddceb6c35a3": 1789627496,
   "a511703915b626e8": 1789629088,
   "a52dea358121f9c4": 1789713633,
+  "a558d886642d6606": 1789719021,
   "a58ed729c1625337": 1789698990,
   "a5aacbc42a1bcf55": 1789638052,
   "a5bef8c64e4df41a": 1789685428,
@@ -1295,6 +1328,7 @@
   "af424881fe719e85": 1789701029,
   "af5d72321e9a48f7": 1789627496,
   "b019227e71aad459": 1789627496,
+  "b039c759af870239": 1789719021,
   "b03d36cecddeb06a": 1789689915,
   "b04029fdc1668494": 1789627496,
   "b0477da5905c2f43": 1789691718,
@@ -1824,7 +1858,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789711937,
- "last_msg_poll": 1789718960,
+ "last_msg_poll": 1789719271,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1865,7 +1899,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 17:09 KST",
+  "last_run": "2026-09-18 17:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
