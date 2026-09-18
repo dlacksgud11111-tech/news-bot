@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import html as htmllib
 import json
 import logging
 import re
@@ -95,18 +96,49 @@ def resolve(url: str, timeout: int = 20) -> str:
     return _resolve_google(url, timeout) or url
 
 
-def article_text(url: str, max_chars: int = 12000, timeout: int = 20) -> tuple[str, bool]:
-    """(본문, 성공여부). 실패하면 빈 문자열."""
+_TITLE_META = re.compile(
+    r"""<meta[^>]+(?:property|name)=["'](?:og:title|twitter:title)["'][^>]+"""
+    r"""content=["']([^"']+)""",
+    re.I,
+)
+_TITLE_TAG = re.compile(r"<title[^>]*>(.*?)</title>", re.I | re.S)
+# '제목 | Pluang', '제목 - 연합뉴스' 처럼 뒤에 붙는 사이트 이름
+_SITE_TAIL = re.compile(r"\s*[|\-–—·]\s*[^|\-–—·]{1,30}\s*$")
+
+# 이보다 짧으면 본문이 아니라 '관련 기사' 카드나 미리보기 블록일 가능성이 크다.
+# 실측: pluang.com 에서 328자짜리 관련뉴스 카드가 본문으로 통과해 엉뚱한 기사를
+# 요약했다. 짧은 단신이 여기 걸려도 손해는 '본문 부족' 경고뿐이다.
+MIN_BODY = 600
+
+
+def page_title(html: str) -> str:
+    """기사 페이지의 제목. og:title 을 먼저 보고 없으면 <title>."""
+    m = _TITLE_META.search(html) or _TITLE_TAG.search(html)
+    if not m:
+        return ""
+    t = htmllib.unescape(re.sub(r"\s+", " ", m.group(1))).strip()
+    return _SITE_TAIL.sub("", t).strip() or t
+
+
+def article_text(url: str, max_chars: int = 12000,
+                 timeout: int = 20) -> tuple[str, bool, str]:
+    """(본문, 성공여부, 페이지 제목). 실패하면 본문은 빈 문자열.
+
+    제목을 함께 돌려주는 이유: 내가 링크만 보낼 때는 기사 제목을 알 수 없어서,
+    추출기가 엉뚱한 글을 물어와도 대조할 기준이 없다. 제목이 있으면 모델이
+    "제목은 주가 급등인데 본문은 CEO 매도" 라는 어긋남을 알아챈다.
+    """
     try:
         r = requests.get(url, headers=HEADERS, timeout=timeout)
         r.raise_for_status()
         if "html" not in r.headers.get("content-type", "").lower():
-            return "", False
+            return "", False, ""
         html = r.text
     except requests.RequestException as e:
         log.info("본문 요청 실패 %s: %s", url, e)
-        return "", False
+        return "", False, ""
 
+    title = page_title(html)
     text = trafilatura.extract(
         html,
         include_comments=False,
@@ -114,9 +146,11 @@ def article_text(url: str, max_chars: int = 12000, timeout: int = 20) -> tuple[s
         favor_precision=True,
         no_fallback=False,
     )
-    if not text or len(text) < 250:
-        return (text or "")[:max_chars], False
-    return text[:max_chars], True
+    if not text or len(text) < MIN_BODY:
+        if text:
+            log.info("본문이 %d자뿐 — 관련뉴스 카드일 수 있음: %s", len(text), url)
+        return (text or "")[:max_chars], False, title
+    return text[:max_chars], True, title
 
 
 def clean_html(s: str) -> str:

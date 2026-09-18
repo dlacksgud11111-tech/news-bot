@@ -14,6 +14,7 @@ import argparse
 import logging
 import os
 import sys
+import time
 from pathlib import Path
 
 import yaml
@@ -79,6 +80,24 @@ def in_quiet_hours(cfg: dict) -> bool:
     return start <= h < end if start < end else (h >= start or h < end)
 
 
+def messages_due(args, store: Store) -> bool:
+    """이 실행이 수신 메시지를 처리해야 하는가.
+
+    평소에는 1분마다 도는 전담 실행(messages.yml)이 전부 가져간다.
+    두 실행이 같은 순간에 텔레그램을 읽으면 같은 링크에 두 번 답할 수 있어서,
+    5분짜리 실행은 전담이 조용해졌을 때만 끼어든다.
+    """
+    if args.messages_only or args.messages_if_stale <= 0:
+        return True
+    last = float(store.data.get("last_msg_poll") or 0)
+    quiet = (time.time() - last) / 60
+    if quiet <= args.messages_if_stale:
+        return False
+    log.warning("메시지 전담 실행이 %.0f분째 조용합니다 — 이번 실행이 대신 처리합니다 "
+                "(앱스 스크립트 1분 트리거를 확인하세요)", quiet)
+    return True
+
+
 def weekly_status(store: Store, cfg: dict) -> str:
     """/status 에 한 줄로 보여줄 주간 리포트 상태."""
     if not (cfg.get("weekly") or {}).get("enabled", True):
@@ -96,16 +115,20 @@ def summarize_and_render(sm: Summarizer, item: dict, cfg: dict, mode: str):
     url = extract.resolve(item["link"])
     item = dict(item, link=url)
 
-    body, ok = extract.article_text(url, limits.get("article_max_chars", 12000))
+    body, ok, fetched = extract.article_text(url, limits.get("article_max_chars", 12000))
+    if fetched and not item.get("title"):
+        # 링크만 보냈을 때는 제목이 비어 있다. 페이지 제목을 채워 넣어야
+        # 모델이 본문과 제목의 어긋남을 알아챌 수 있다.
+        item = dict(item, title=fetched)
     if not ok and not body:
         body = extract.clean_html(item.get("summary", ""))
 
-    card = sm.run(item, body, mode=mode)
+    card = sm.run(item, body, mode=mode, body_ok=ok)
     if not card:
         return None, None
-    # 본문이 비었으면 모델은 제목과 URL 만 보고 쓴 것이다. 카드가 얕은 이유가
-    # 되므로 호출 측이 알 수 있게 표시해 둔다.
-    card["_body_ok"] = bool(body)
+    # 본문을 제대로 못 읽었으면 카드가 얕거나 엉뚱할 수 있다. 호출 측이
+    # 알 수 있게 표시해 둔다.
+    card["_body_ok"] = ok
     if mode == "feed":
         if not card.get("publish"):
             log.info("모델이 버림 [%s] %s", card.get("reject_reason", "")[:40], item["title"][:50])
@@ -173,8 +196,9 @@ def handle_messages(bot: tg.Telegram, store: Store, sm: Summarizer, cfg: dict) -
             to = "summary" if bot.channels.get("summary") else None
             bot.send(rendered, channel=to)
             warn = "" if card.get("_body_ok") else (
-                "\n⚠️ 본문을 못 읽어 제목만으로 정리했습니다 "
-                "(유료 기사·봇 차단·삭제된 페이지). 카드가 얕으면 이 때문입니다."
+                "\n⚠️ 본문을 제대로 못 읽었습니다 (유료 기사·봇 차단·삭제된 페이지, "
+                "또는 관련뉴스 카드만 잡힌 경우). 카드가 얕거나 제목과 어긋나면 "
+                "이 때문이니 원문을 한 번 확인해 주세요."
             )
             if to:
                 bot.send("✅ 📝 기사 요약 채널에 올렸습니다." + warn)
@@ -367,6 +391,9 @@ def main() -> int:
     ap.add_argument("--no-messages", action="store_true",
                     help="뉴스 수집만 하고 수신 메시지는 건드리지 않음. "
                          "worker 가 상시 대기 중일 때 같은 메시지에 두 번 답하는 것을 막는다.")
+    ap.add_argument("--messages-if-stale", type=float, default=0, metavar="분",
+                    help="메시지 전담 실행(--messages-only)이 이 시간(분) 넘게 "
+                         "조용하면 이 실행이 대신 메시지를 처리한다. 0 이면 항상 처리.")
     ap.add_argument("--weekly-now", action="store_true",
                     help="부동산 주간 News Flow 를 지금 당장 한 번 만든다 "
                          "(요일·마감 무시. --dry-run 과 같이 쓰면 콘솔로만 확인)")
@@ -423,8 +450,12 @@ def main() -> int:
         if args.weekly_now:
             run_weekly(bot, store, cfg, force=True)
             return 0
-        if has_telegram and not args.no_messages:
+        if has_telegram and not args.no_messages and messages_due(args, store):
             handle_messages(bot, store, sm, cfg)
+            if args.messages_only:
+                # 전담 실행만 도장을 찍는다. 대타가 찍으면 20분마다 한 번씩만
+                # 처리되는 이상한 리듬이 된다.
+                store.data["last_msg_poll"] = int(time.time())
         if not args.messages_only:
             flush_queue(bot, store, cfg)
             if store.paused:

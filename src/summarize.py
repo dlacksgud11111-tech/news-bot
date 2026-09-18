@@ -37,6 +37,11 @@ SYSTEM = """\
    예: "12억 달러(약 1조 6천억원)", "765kV", "2028년 준공"
 4. 기사 본문이 잘렸거나 내용이 부실하면 details 를 짧게 쓰되, 없는 내용을 채우지 마라.
 5. 회사명은 한국 독자에게 익숙한 표기를 쓴다. (예: GE Vernova → GE버노바)
+6. **제목과 본문이 서로 다른 사건을 말하면 본문을 의심하라.** 뉴스 페이지에는
+   '관련 기사' 카드가 함께 실려 있어서, 추출기가 엉뚱한 글을 본문으로 물어오는
+   일이 있다. 이때는 제목이 가리키는 사건만 다루고, 마지막 항목에
+   "본문 추출이 불완전해 다른 기사가 섞였을 수 있음" 이라고 적어라.
+   본문에만 있고 제목과 무관한 사실을 카드의 중심으로 삼지 마라.
 
 ## 발행 판단 (mode=feed 일 때만)
 
@@ -134,15 +139,23 @@ class Summarizer:
         self.od_effort = od.get("effort", self.effort)
         self.client = anthropic.Anthropic(api_key=api_key) if api_key else anthropic.Anthropic()
 
-    def run(self, item: dict, body: str, mode: str = "feed") -> dict | None:
+    def run(self, item: dict, body: str, mode: str = "feed",
+            body_ok: bool = True) -> dict | None:
         """실패하면 None. 호출 측에서 조용히 건너뛴다."""
         parts = [
             f"제목: {item['title']}",
             f"매체: {item.get('source') or '(불명)'}",
             f"URL: {item['link']}",
         ]
-        if body:
+        if body and body_ok:
             parts.append(f"\n본문:\n{body}")
+        elif body:
+            parts.append(
+                "\n본문(추출 불완전 — 너무 짧다):\n" + body
+                + "\n\n[주의] 위 글이 제목과 다른 사건을 말하고 있으면 그것은 본문이 아니라"
+                " 같은 페이지에 실린 '관련 기사' 카드다. 그 경우 제목이 가리키는 기사만"
+                " 정리하고, 본문을 확보하지 못했다고 밝혀라."
+            )
         else:
             parts.append(
                 "\n본문: (본문 추출 실패 — 아래 요약문만 있음)\n"

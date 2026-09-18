@@ -39,11 +39,10 @@ jobs:
           TELEGRAM_CHAT_ID_CLIP: ${{ secrets.TELEGRAM_CHAT_ID_CLIP }}
           TELEGRAM_CHAT_ID_WEEKLY: ${{ secrets.TELEGRAM_CHAT_ID_WEEKLY }}
           TELEGRAM_CHAT_ID_SUMMARY: ${{ secrets.TELEGRAM_CHAT_ID_SUMMARY }}
-        # 이 실행이 수신 메시지까지 처리합니다. 앱스 스크립트가 5분마다 깨우므로
-        # 링크를 넣으면 늦어도 5분 안에 요약이 올라갑니다.
-        # (worker.yml 은 2026-09-18 에 버렸습니다 — GitHub 예약에 맡겨져 있어서
-        #  하루 세 번만 살아 있었고, 그동안 링크에 아무 답이 없었습니다.)
-        run: python src/main.py
+        # 수신 메시지는 messages.yml 이 1분마다 전담합니다. 여기서는 그쪽이
+        # 20분 넘게 조용할 때만 대신 받습니다 — 전담이 죽어도 링크 응답이
+        # 아예 끊기지는 않게 하는 그물입니다.
+        run: python src/main.py --messages-if-stale 20
 
       - name: Persist state
         run: |

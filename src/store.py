@@ -139,6 +139,9 @@ class Store:
             "posted_today": 0,
             "companies_today": {}, # 회사명 -> 오늘 발행 수
             "tg_offset": 0,        # 텔레그램 getUpdates 오프셋
+            "last_msg_poll": 0,    # 메시지 전담 실행(--messages-only)이 마지막으로
+                                   # 텔레그램을 확인한 시각. 이게 오래 멈춰 있으면
+                                   # 5분짜리 실행이 대신 받는다.
             "paused": False,
             "stats": {"total_posted": 0, "last_run": ""},
         }
