@@ -74,288 +74,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 6,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 3,
-   "s": "pinpointnews.co.kr",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "수자원공사, 대청댐 수열로 AI 데이터센터 조성 - pinpointnews.co.kr",
-   "ts": 1789719012,
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Ka0E4UDB3RHlQZEZwUGtIN2JRcWlHYkQ0bFVIOWhod01RMXZmRGd2cVBPdVNtQXNfTHdCMXpEZWtBdkxsZUdzaHR5TkZ4S0c1MHl0TXVqOERLOEtqYk0zQnJTTFRuVlNMUjNZTkE5QU02eVXSAXdBVV95cUxOZmd5QVQzQzdPcmp0c3VqZF9kZTE1cTVrbTdoQi04TVp0ZUlsb0phcHdfcE9SeDZrMXMweUswSWFtX2FzYS1pOUJPR1VtVUswLTl5THpFaEJudEx3aTl0eGpyVjVWS1UzbjNXRk9zV01kOWtpb2JuYw?oc=5"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "조세일보",
-   "sc": 18,
-   "sec": "전력기기",
-   "t": "효성중공업, 美빅테크서 변압기 3865억 수주…AI 데이터센터 공략 - 조세일보",
-   "ts": 1789719680,
-   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yYVhvemM2QWFnTDIwRWxwRDdhYTQzeThHQU1KZmt0aUtNeGl5WTJYS1FrVUpNUlV5NXVkR25Cak0tVEdQVkZtMENSdElsUks3Uk9aVmlSREJyY3ZGcVc1dTRGQU41ZnBCSlNuRF9sMkRtTF9t?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일경제 : 경제",
-   "sc": 0,
-   "sec": "유틸리티·정책",
-   "t": "석탄발전 19기 4년내 폐쇄…LNG로 전환",
-   "ts": 1789720243,
-   "u": "https://www.mk.co.kr/news/economy/12156670"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "쿠키뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "‘대청댐 수열로 AI 데이터센터 냉방’… 수자원공사, 친환경 AI 데이터센터 집적단지 추진 - 쿠키뉴스",
-   "ts": 1789720155,
-   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UYkRhUGhrRDNaTTlLOUFKOVI2clJCb2had0lHanZpcVFudWhjLU1wUDByRjM0Y21fLTZPVTdFUTZMRjlQUUl5Vk1BbHpwMVk5Ym5WZGNoZWRmcFA3RmVxOHpiOA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴시스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "수자원공사, 대청댐 수열 활용 'AI 데이터센터 집적단지' 잰걸음 - 뉴시스",
-   "ts": 1789719959,
-   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JeTBEVHpKWllOeW9yNXBlRmFMdW5uY0pGM0hNOWNOb3lKaU5pUm9YUXUwNGhwaXZaRG9XUlJ5LVhIaFVacGV3d3pPbTBCdDJvaTVPMnBoa3prWkI2bUMxMtIBeEFVX3lxTFA0VWdoS01nSlFUWDJ6YURBTjVzNHBGaEdWQ19ibnhlVkdvd1lOd196TGlFRzVjNFRGTl90bHFkZUdjeVI5S2poNW5XNnpxemFXUkUxWVIzeF9DeV9MTzkwSThRUEN3R0p6bmVQT0ExWVJZUi1OTjkyUQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일경제 마켓",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "충북도, AI데이터센터 유치 위한 전력공급 기반 마련 협약 - 매일경제 마켓",
-   "ts": 1789718991,
-   "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxaEIxT2paaE5hZWU0NFBFWVVSMG5USGZtYzlHNjBhZEFEWXo0UnpBdFNWS1p3R2N6aTI3a1Z1TklYNlVyQnMtbnh4bWJDQVY1ZEE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 1,
-   "sec": "전력기기",
-   "t": "2기 분산특구, 결국 ‘커뮤니티 마이크로그리드형’만 받는다",
-   "ts": 1789752992,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372621"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 11,
-   "sec": "전력기기",
-   "t": "전력망 가변차선제 '동적 송전용량' 국내 첫 시범사업",
-   "ts": 1789752856,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334434"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 5,
-   "sec": "원전",
-   "t": "한수원 ‘2026 원전해체 비즈니스 포럼’ 개최",
-   "ts": 1789749153,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303273"
-  },
-  {
-   "co": "한전KPS",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 14,
-   "sec": "유틸리티·정책",
-   "t": "한전KPS, 초급간부-상임감사 '청렴 토크콘서트' 개최",
-   "ts": 1789748734,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303272"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 8,
-   "sec": "유틸리티·정책",
-   "t": "한전, 중소기업 현장안전·AI 전환 지원",
-   "ts": 1789748360,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303271"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 14,
-   "sec": "유틸리티·정책",
-   "t": "한전기술 '2026 국가공헌대상' AI 혁신 산업통상부 장관상 수상",
-   "ts": 1789747534,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303269"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 9,
-   "sec": "전력기기",
-   "t": "기후부, 계절별 송전용량 시범사업 시행",
-   "ts": 1789747156,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303266"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "엔지니어링공제조합, 수소 금융까지 품었다",
-   "ts": 1789745798,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303261"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 5,
-   "sec": "재생에너지·ESS",
-   "t": "PPA 중개플랫폼 본격화…기업 재생에너지 계약·정산 역량 중요해진다",
-   "ts": 1789753231,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228340"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 11,
-   "sec": "전력기기",
-   "t": "계절 따라 송전선로 용량 늘린다...출력제어 완화 ‘시험대’",
-   "ts": 1789753681,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228338"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "국토일보",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "수자원공사, 대청댐 수열특화단지내 AI 데이터센터 구축 시동 - 국토일보",
-   "ts": 1789720200,
-   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWVmVvYUxJVFFGMFNXRU5LN1hodTNYb2l0RDZCQk5DTUZFWms0MDNiMTNsUzU4eEg5X2ZNem1HNWtMZXlEWXlYRHVsTU1ZSzhpMzNfOVEwWURIU3lYTWp3VVFqYw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "China TOPCon solar cell prices fall for third week as export buying fades and wafer costs ease",
-   "ts": 1789723577,
-   "u": "https://www.pv-magazine.com/2026/09/18/china-topcon-solar-cell-prices-fall-for-third-week-as-export-buying-fades-and-wafer-costs-ease/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 0,
-   "sec": "재생에너지·ESS",
-   "t": "제2회 수소·가스 산업 AI 활용 우수사례 경진대회 접수 한창",
-   "ts": 1789756150,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334439"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "dbr.donga.com",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "효성중공업, HVDC 국산화 나선다…컨버터 밸브·제어기 공개 - dbr.donga.com",
-   "ts": 1789628220,
-   "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uT1JoOG9aelE3UWtabDJCSzBfNWoza2hCQTRCdG9OMUhmbWUxaWNSU205d3pUbTVmVkkzanBqWTJYRy1Qa25DZTZxSVIyb05XMTRpZXF6SkZURkpJUnc?oc=5"
-  },
-  {
-   "co": "Schneider Electric",
-   "n": 1,
-   "s": "DCD",
-   "sc": 4,
-   "sec": "데이터센터·AI전력",
-   "t": "DCD Talks: What 800 VDC means for data center cooling with Mike Donahue, Schneider Electric Global",
-   "ts": 1789724506,
-   "u": "https://www.datacenterdynamics.com/en/videos/dcd-talks-what-800-vdc-means-for-data-center-cooling-with-mike-donahue-schneider-electric-global/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 5,
-   "sec": "재생에너지·ESS",
-   "t": "Azerbaijan inaugurates 100 MW solar project",
-   "ts": 1789724438,
-   "u": "https://www.pv-magazine.com/2026/09/18/azerbaijan-inaugurates-100-mw-solar-project/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Asp Data Center secures NOK1.6bn to fund data center project in Stavanger, Norway",
-   "ts": 1789724193,
-   "u": "https://www.datacenterdynamics.com/en/news/asp-data-center-secures-nok16bn-to-fund-data-center-project-in-stavanger-norway/"
-  },
-  {
-   "co": "HD현대일렉트릭",
-   "n": 1,
-   "s": "에너지경제신문",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "HD현대일렉 변압기, 유럽 해상풍력단지로…“국내업계 최초” - 에너지경제신문",
-   "ts": 1789711780,
-   "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04RzJzVTBQelFGOGJOMjAyZkI5VnlRWjhXRVQ4QkNUNXdHTUxpbVJ6OV9PbEl3LTBZbjU2Q3BQX2xhb3loY1p5YXFiTnJad1k3MmlPbmlGeERyd2M?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Grew Solar, Caelux to produce perovskite-silicon tandem modules in India",
-   "ts": 1789725839,
-   "u": "https://www.pv-magazine.com/2026/09/18/grew-solar-caelux-to-produce-perovskite-silicon-tandem-modules-in-india/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "머니투데이",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "AI·데이터센터 대응 전략 논의..'제3회 전력반도체 지산학 K-포럼' - 머니투데이 - 머니투데이",
-   "ts": 1789725590,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LUEptN29oTkduejdwaDMzc01ZUzFfcm0yVDYxSDA2SWlzZ040UHEzczQ0Tm9FcTFmYXNXb3k4WjFMNGlfQ0RhZ0w3UmxHa1lkVVkyMFEwVG9GdWt4Tm8xUEF6TUlNVUZMYmVFStIBckFVX3lxTE0yTmFialNmV3pKdmRta1lzMFNaRGgzLTluVTJpX3ZtSjFOZmRhSFlSclpRSHdQT2phUGIxREhzaFpaN0o3ZTlkV2ZnbmpiU0l0SHdtTjZDWGtSRU5lVVYybmRrVjlJRV94Ynd0YjBDeW1FZw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 1,
-   "sec": "건설·플랜트",
-   "t": "Construction begins on 2 GW green hydrogen plant in Spain",
-   "ts": 1789725562,
-   "u": "https://www.pv-magazine.com/2026/09/18/construction-begins-on-2-gw-green-hydrogen-plant-in-spain/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "시사우리신문",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "충북도, 대청댐 수열에너지 특화단지 대규모 AI데이터센터 구축 본격화 - 시사우리신문",
-   "ts": 1789720380,
-   "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWMtakhubVhKZ0VqN0pwbld2dzFJWERlN3RrWVVpXy1tbWFVU2xmTFlUenY4aFNaU3FmZVN1SlV2Ymd0eUgzeXQ5dVZKcS1CWDZsS1RhaW5WRDd4VXdacUJSOS12b0gxNGxoajUydUR6V3otTlk2dmlpUkNzbGM0Smc3bWVDTk9JY0c2aTN3MWZUZ1NSVWtSd0huMUVoMW9feWpjSDVYYV9wZG5DTHlCRXFndWNBazdsU29QbjVwVklJWHp3SkMw?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "003700b0bc3aa10c": 1789627496,
@@ -517,6 +236,7 @@
   "17221af43713df36": 1789632334,
   "1729bc9695cbc13b": 1789695920,
   "179e314d6bf8d6b2": 1789637719,
+  "17c3c2ca1a12b8bd": 1789726695,
   "17ea2019185c4ad5": 1789627496,
   "18008097985fd526": 1789713633,
   "1807bcf4a9cfe970": 1789627496,
@@ -907,6 +627,7 @@
   "529e2d4bf1ca4744": 1789627496,
   "534879898f3a5f8e": 1789693531,
   "5380ee503186658e": 1789695321,
+  "5387a88c79b04928": 1789726695,
   "53a7f58b11dafc58": 1789704919,
   "53aefac76dd3ae28": 1789627496,
   "53af561c2b1696e0": 1789696517,
@@ -1367,6 +1088,7 @@
   "9ed9f87391f3f49a": 1789721730,
   "9ef9434f46ed9d49": 1789627496,
   "9f24a5f5b9920f25": 1789710209,
+  "9f98dc58a07d3d8a": 1789726695,
   "9fd86959a5fd139e": 1789627496,
   "a0059453b175881c": 1789712512,
   "a01066456e177294": 1789639528,
@@ -2037,8 +1759,8 @@
  },
  "companies_today": {},
  "day": "2026-09-18",
- "last_clip": 1789719316,
- "last_msg_poll": 1789726376,
+ "last_clip": 1789726695,
+ "last_msg_poll": 1789726945,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2079,7 +1801,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 19:12 KST",
+  "last_run": "2026-09-18 19:22 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
