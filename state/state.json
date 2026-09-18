@@ -143,6 +143,16 @@
    "t": "HD현대일렉트릭, 유럽 해상풍력 첫 수주 3년 만에 현장 투입 - v.daum.net",
    "ts": 1789694287,
    "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lUmE0Z011a1Bpb3l3V1VIRUNpNzhsTTc0d0tqOGg4VnV6NVpJMDRmYkNPSjdIaHA4VWRDVjQ1eHhxOERrMnJTS1lLWU1rYlU?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "매일경제",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터 몰리자 실리콘밸리도 ‘전력 비상’…화석연료 회귀 우려 - 매일경제",
+   "ts": 1789681468,
+   "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvNXB5b29SQ1RuMnZWRWdmekZXSTNvNDRqNEFweENMYUxGTlpYVDdYQ0NMV1ZjTHZLTjJ5UEU5ajRDMV9mU3BsSlFZYzU4UQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -794,6 +804,7 @@
   "7dcfb818a258ba99": 1789630519,
   "7e3f9ecaf59aa9a3": 1789635618,
   "7e4dd2a3f1cc42d4": 1789633522,
+  "7ecccc2b09b2c51d": 1789702529,
   "7ed8c896f463b518": 1789693220,
   "7f16559f1c80e50f": 1789627496,
   "7f6bac662c59fb2b": 1789627496,
@@ -1483,7 +1494,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789697120,
- "last_msg_poll": 1789702472,
+ "last_msg_poll": 1789702778,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1524,7 +1535,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 12:34 KST",
+  "last_run": "2026-09-18 12:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
