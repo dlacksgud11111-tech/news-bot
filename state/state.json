@@ -159,6 +159,16 @@
    "t": "GS, 한국전력과 현장안전·AI 전환 선도 '맞손'",
    "ts": 1789713406,
    "u": "https://www.etnews.com/20260918000257"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "전기신문",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "거린에너지-네이버, 진도 태양광으로 AI 전력 확보 맞손 - 전기신문",
+   "ts": 1789714871,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyV29DU3ZqY0JyM2F3MkVqdXZnMkdHcTkxWUxHWU5na0VGV0lORUVLODVqZmxkSTlLYTVmQVp5RklzVmNVcXd1VU95N0VSZ1hLeU9EaVE1UVhxNm5zMVh2NmRNVm02cFVBWlhEcdIBcEFVX3lxTE15R1FUWDNPb3YteF9kY0lZdGhTeE5aT21TcTJSN2xmN0hfM2daTmM0eEtTakRzMkxseHE2U24wYmZ6Z3dSM3lldlhvV1RyZktjYnRraE5USmM5YndfMnF1eWJObC1RMkxua1QwMHBsYkc?oc=5"
   }
  ],
  "clip_titles": [],
@@ -364,6 +374,7 @@
   "1e67abeaa877335d": 1789691718,
   "1e88f01a3809795f": 1789688716,
   "1ea6cd8325a9aca2": 1789695321,
+  "1eb74537025f482c": 1789715716,
   "1ef076fa0bae0aa2": 1789706415,
   "1f1a3576641ac6a0": 1789627496,
   "1f6568ad1fca59e1": 1789635918,
@@ -589,6 +600,7 @@
   "4385ca3fbb940582": 1789627496,
   "43932a57564931a4": 1789707915,
   "43978c2192283034": 1789698403,
+  "43bbef492ab491e0": 1789715716,
   "43c54b348df26f1c": 1789712512,
   "43caff40d9fb16b3": 1789629088,
   "440ef2afac7d5ec3": 1789697424,
@@ -636,6 +648,7 @@
   "4c98f9710ccddd60": 1789700729,
   "4ca809598c7a0d30": 1789691718,
   "4cd1c25d44cf2c0d": 1789637416,
+  "4d1a2ad442906cf1": 1789715716,
   "4d2f3fff4e759e9f": 1789676423,
   "4d462d1f5211e49c": 1789629088,
   "4d4e59ce52cfa8d1": 1789627496,
@@ -906,6 +919,7 @@
   "7bba2a30cbe5de86": 1789627496,
   "7c3099077fdd380b": 1789693531,
   "7c39b3fc4753b390": 1789633820,
+  "7c5c761bea62dfbf": 1789715716,
   "7c7397e54407dd2d": 1789709642,
   "7c9ce484532d632e": 1789627496,
   "7cc34ce63721b462": 1789627496,
@@ -1513,6 +1527,7 @@
   "e16a653b627d278d": 1789698990,
   "e1baf44a263120b6": 1789627496,
   "e219c43b80528d63": 1789627496,
+  "e21c2a90824b1bde": 1789715716,
   "e230191e9ef3f52f": 1789642232,
   "e236c2c4e5c0f748": 1789627496,
   "e24f8d53d0c6d820": 1789627496,
@@ -1718,7 +1733,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789711937,
- "last_msg_poll": 1789715676,
+ "last_msg_poll": 1789715963,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1759,7 +1774,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 16:14 KST",
+  "last_run": "2026-09-18 16:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
