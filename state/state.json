@@ -144,6 +144,16 @@
    "t": "자체 발전·배터리 갖춘 데이터센터, 화재 위험 10배 높아…외피·보험 분산 중요 - 더구루",
    "ts": 1789743621,
    "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VTWtZNUthak5oODIwU3lVdFFsWkxNWWNhakF6UXNZTzVfQk9UejlCSlNJNVFPYVptTG42R3JxajJIeW50c2dYWlZiUzNrYnR2TERNSFc3Yl9oMExBMlBQODJMOA?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Brazil's President Lula signs ReData data center bill into law",
+   "ts": 1789746008,
+   "u": "https://www.datacenterdynamics.com/en/news/president-lula-signs-bill-at-the-planalto-palace/"
   }
  ],
  "clip_titles": [],
@@ -980,6 +990,7 @@
   "777da02337273faf": 1789634416,
   "777f9353fc73f40a": 1789627496,
   "778441a27c542a69": 1789629315,
+  "7789c922753e5680": 1789746316,
   "778e343336251936": 1789629088,
   "77968177f8766075": 1789702817,
   "779f010721d9f601": 1789707615,
@@ -1933,7 +1944,7 @@
  "companies_today": {},
  "day": "2026-09-19",
  "last_clip": 1789741740,
- "last_msg_poll": 1789746260,
+ "last_msg_poll": 1789746564,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1974,7 +1985,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 00:44 KST",
+  "last_run": "2026-09-19 00:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
