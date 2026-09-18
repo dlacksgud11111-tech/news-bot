@@ -113,6 +113,26 @@
    "t": "HD현대일렉, 유럽 해상풍력 변압기·리액터 공급 - v.daum.net",
    "ts": 1789698313,
    "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiWmhXaTJiQ2hmUFJpVVE0c3pBNWdVV2UzZkRPX1dsellySFpYNXBjTEthSW1obWZXS05NSDhrRnd2blBJXzdFWlZQMkpDRTQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "이투뉴스 - 전체기사",
+   "sc": 7,
+   "sec": "재생에너지·ESS",
+   "t": "LS마린솔루션, 신안우이 해상풍력 프로젝트 품었다",
+   "ts": 1789733073,
+   "u": "http://www.e2news.com/news/articleView.html?idxno=334409"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "특허뉴스",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "“AI 전력 먹는 열, 다시 전기로”... 데이터센터 비용 48% 줄인다 - 특허뉴스",
+   "ts": 1789700280,
+   "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5VGlpY0UxNkhpQmlpMUtNUkl1SEdTLVlmTTZCS3VfcGh5R0g5Q3hUZTdYbV9FMktXR01mVW1tY1JnUWRqUDdJVQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -445,6 +465,7 @@
   "3be385f4eb17073f": 1789698990,
   "3c0807664acebada": 1789630819,
   "3c751f5936119bb8": 1789627496,
+  "3c996221f649f37e": 1789700729,
   "3cd96b249b18f26a": 1789627496,
   "3ce73ca4da2f0ec4": 1789635618,
   "3d02df0628ccef2b": 1789690229,
@@ -516,6 +537,7 @@
   "4bd5b6df9a618704": 1789689915,
   "4c079bb12e9f4211": 1789630519,
   "4c7c09501167f99d": 1789632334,
+  "4c98f9710ccddd60": 1789700729,
   "4ca809598c7a0d30": 1789691718,
   "4cd1c25d44cf2c0d": 1789637416,
   "4d2f3fff4e759e9f": 1789676423,
@@ -1003,6 +1025,7 @@
   "b1806b75e6e37592": 1789683939,
   "b1873a2e62a09f9c": 1789627496,
   "b1b50a0c09ee51ea": 1789627496,
+  "b215b4b003323e96": 1789700729,
   "b2250ad5291bce47": 1789637719,
   "b263481ea76b50dd": 1789627496,
   "b2c739c17022c4ff": 1789627496,
@@ -1387,6 +1410,7 @@
   "f6003baeeb912e11": 1789693220,
   "f650fce28ae4ecb8": 1789627496,
   "f6e8db16f44a6251": 1789627496,
+  "f71318736637fc73": 1789700729,
   "f7208d4f263d547c": 1789629088,
   "f755876c7071ffdd": 1789649420,
   "f787d4a45a1a8914": 1789649116,
@@ -1423,6 +1447,7 @@
   "fe02d534697aa903": 1789627496,
   "fead65220fac4cb8": 1789627496,
   "feb7c72d95d12768": 1789656017,
+  "fee05038a61a095f": 1789700729,
   "ff05432b996fa423": 1789636217,
   "ff315905d4cbd1ea": 1789691349,
   "ff42fff2cf9857d9": 1789683319,
@@ -1434,7 +1459,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789697120,
- "last_msg_poll": 1789700392,
+ "last_msg_poll": 1789700976,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1475,7 +1500,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 11:59 KST",
+  "last_run": "2026-09-18 12:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
