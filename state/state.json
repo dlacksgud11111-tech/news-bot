@@ -234,6 +234,16 @@
    "t": "계절 따라 송전선로 용량 늘린다...출력제어 완화 ‘시험대’",
    "ts": 1789753681,
    "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228338"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "국토일보",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "수자원공사, 대청댐 수열특화단지내 AI 데이터센터 구축 시동 - 국토일보",
+   "ts": 1789720200,
+   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWVmVvYUxJVFFGMFNXRU5LN1hodTNYb2l0RDZCQk5DTUZFWms0MDNiMTNsUzU4eEg5X2ZNem1HNWtMZXlEWXlYRHVsTU1ZSzhpMzNfOVEwWURIU3lYTWp3VVFqYw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1339,6 +1349,7 @@
   "af2d9d911432ec89": 1789629088,
   "af424881fe719e85": 1789701029,
   "af5d72321e9a48f7": 1789627496,
+  "afd545e62e80e213": 1789722018,
   "b019227e71aad459": 1789627496,
   "b039c759af870239": 1789719021,
   "b03d36cecddeb06a": 1789689915,
@@ -1789,6 +1800,7 @@
   "f1e9453bb7a31e77": 1789629088,
   "f1ea2f9be689ba23": 1789707915,
   "f2012dd5c7141dc5": 1789639528,
+  "f223a1b108219c2c": 1789722018,
   "f22fe24586bb5c9b": 1789683939,
   "f2589c65da32d708": 1789691718,
   "f269695d3b21e87e": 1789694436,
@@ -1878,7 +1890,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789719316,
- "last_msg_poll": 1789721971,
+ "last_msg_poll": 1789722261,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1919,7 +1931,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 17:59 KST",
+  "last_run": "2026-09-18 18:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
