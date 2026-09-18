@@ -204,6 +204,16 @@
    "t": "AWS Launches Grid AI Agents as Queue Hits 438 GW [2026] - shattered.io",
    "ts": 1789762492,
    "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tTkJwbDlwMUF1S1VodUdmX0N4eFhaZFFUaXZiY3JwRnlraHhOcXV0N2N0WDdtQzJEZEVPdDhhS3duT21zV09EWkNFN0FwMm1vS1lzTkdNelp0SmlsTDV5d01wSUxRcVJ4eGlvd1VuLW5GUQ?oc=5"
+  },
+  {
+   "co": "HD현대일렉트릭",
+   "n": 1,
+   "s": "뉴시스",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "\"변압기 호황\" HD현대일렉트릭, 유럽 해상풍력서도 기회 잡는다 - 뉴시스",
+   "ts": 1789765200,
+   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yTjF0eFhTSzZabHJMZERUNDc3Q0hjR21MaHBtaTk1b0FWcnlMMG42ZVNkdW9hRGFjZDh6ajA5VFFqVU9IVUg5d0NaSWZ3SkhNanVjaUc3LTNtTkdyT2VweNIBeEFVX3lxTE1fWFJSQ1Ficl9jVHNXNE1DamtiV2U3SXJkSlp2czZaV0E3d0dnTktWV2tNTzhSQlFUcWhYall3V3hQMXNhdkJNTXd1TzVBUkxKcEkzUGZ2TDcxOWhSRWNnNlNVeHV2aEswZm5kNC1LN0ViLXRzZmpSbg?oc=5"
   }
  ],
  "clip_titles": [],
@@ -719,6 +729,7 @@
   "44840ced1f1ca80e": 1789693531,
   "44a73dfe47551271": 1789629088,
   "44e312b16ab43dc2": 1789692619,
+  "44f28a21e0f76c84": 1789765932,
   "454890183b9642da": 1789627496,
   "45608d9f24bda367": 1789695017,
   "45839a67052aae46": 1789694721,
@@ -798,6 +809,7 @@
   "52002ca3abce3623": 1789629088,
   "5207100f815959da": 1789629088,
   "529e2d4bf1ca4744": 1789627496,
+  "5332abbf0863e894": 1789765932,
   "53396e6f95b51b46": 1789735230,
   "534879898f3a5f8e": 1789693531,
   "5380ee503186658e": 1789695321,
@@ -1441,6 +1453,7 @@
   "b0e838b6ccc45c1f": 1789647027,
   "b0ef03c406061dfa": 1789712512,
   "b0f93348864e86f6": 1789758666,
+  "b135529aa4cc681e": 1789765932,
   "b1385cf4f7fbab47": 1789630519,
   "b1401b215badbaea": 1789736719,
   "b1689f513be93d1b": 1789705521,
@@ -1501,6 +1514,7 @@
   "b7bbc04d76e7fb65": 1789627496,
   "b7fe35f6dbbb9a59": 1789627496,
   "b81f9519fd5e53b6": 1789678217,
+  "b8221c5c29807afb": 1789765932,
   "b842f097a5fbd69d": 1789662917,
   "b8647869bf31c834": 1789627496,
   "b883121171c50158": 1789647653,
@@ -1944,6 +1958,7 @@
   "f650fce28ae4ecb8": 1789627496,
   "f664eeda57eaef53": 1789729598,
   "f6e8db16f44a6251": 1789627496,
+  "f710e639d372adfb": 1789765932,
   "f71318736637fc73": 1789700729,
   "f7208d4f263d547c": 1789629088,
   "f74b83508a176758": 1789713633,
@@ -2005,7 +2020,7 @@
  "companies_today": {},
  "day": "2026-09-19",
  "last_clip": 1789741740,
- "last_msg_poll": 1789765611,
+ "last_msg_poll": 1789766180,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2046,7 +2061,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 06:06 KST",
+  "last_run": "2026-09-19 06:16 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
