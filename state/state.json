@@ -244,6 +244,16 @@
    "t": "수자원공사, 대청댐 수열특화단지내 AI 데이터센터 구축 시동 - 국토일보",
    "ts": 1789720200,
    "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWVmVvYUxJVFFGMFNXRU5LN1hodTNYb2l0RDZCQk5DTUZFWms0MDNiMTNsUzU4eEg5X2ZNem1HNWtMZXlEWXlYRHVsTU1ZSzhpMzNfOVEwWURIU3lYTWp3VVFqYw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "China TOPCon solar cell prices fall for third week as export buying fades and wafer costs ease",
+   "ts": 1789723577,
+   "u": "https://www.pv-magazine.com/2026/09/18/china-topcon-solar-cell-prices-fall-for-third-week-as-export-buying-fades-and-wafer-costs-ease/"
   }
  ],
  "clip_titles": [],
@@ -1608,6 +1618,7 @@
   "d3f225c1d2b68ac9": 1789706718,
   "d3f647935a3c3236": 1789720817,
   "d437816152821265": 1789686316,
+  "d439908366a13bb2": 1789723821,
   "d44830a908f7922b": 1789720817,
   "d45f8100ba47bc9e": 1789713633,
   "d4609afd94c8e16c": 1789629088,
@@ -1899,7 +1910,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789719316,
- "last_msg_poll": 1789723761,
+ "last_msg_poll": 1789724063,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1940,7 +1951,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 18:29 KST",
+  "last_run": "2026-09-18 18:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
