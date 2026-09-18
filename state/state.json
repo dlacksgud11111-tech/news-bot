@@ -133,6 +133,16 @@
    "t": "“AI 전력 먹는 열, 다시 전기로”... 데이터센터 비용 48% 줄인다 - 특허뉴스",
    "ts": 1789700280,
    "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5VGlpY0UxNkhpQmlpMUtNUkl1SEdTLVlmTTZCS3VfcGh5R0g5Q3hUZTdYbV9FMktXR01mVW1tY1JnUWRqUDdJVQ?oc=5"
+  },
+  {
+   "co": "HD현대일렉트릭",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 20,
+   "sec": "재생에너지·ESS",
+   "t": "HD현대일렉트릭, 유럽 해상풍력 첫 수주 3년 만에 현장 투입 - v.daum.net",
+   "ts": 1789694287,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lUmE0Z011a1Bpb3l3V1VIRUNpNzhsTTc0d0tqOGg4VnV6NVpJMDRmYkNPSjdIaHA4VWRDVjQ1eHhxOERrMnJTS1lLWU1rYlU?oc=5"
   }
  ],
  "clip_titles": [],
@@ -247,6 +257,7 @@
   "12f374c28802161b": 1789693220,
   "130af4911ed5ef81": 1789627496,
   "132ce01b6e6e4ede": 1789627496,
+  "132d98e794cc4534": 1789701615,
   "13379d57f5c6d449": 1789693814,
   "13517d89e0ac42c4": 1789637719,
   "135b0f698a898b49": 1789627496,
@@ -721,6 +732,7 @@
   "71b2d175e645c49f": 1789693531,
   "71c7d736b77e6db4": 1789627496,
   "71cd01aa93e63f78": 1789627496,
+  "725bdd188e7c2869": 1789701615,
   "72fd1976c76cc734": 1789629088,
   "7342d939921e5d90": 1789627496,
   "73528d1a3936506f": 1789627496,
@@ -931,6 +943,7 @@
   "9ef9434f46ed9d49": 1789627496,
   "9fd86959a5fd139e": 1789627496,
   "a01066456e177294": 1789639528,
+  "a0165e9b499c7fe2": 1789701615,
   "a0211b1f0655a4e5": 1789627496,
   "a02cb89e58dc697d": 1789629088,
   "a04b07d04818cd0b": 1789693531,
@@ -1415,6 +1428,7 @@
   "f4cf97a53c7290bb": 1789627496,
   "f5675083e3b5e1e8": 1789635618,
   "f58fd803a528e4f1": 1789627496,
+  "f59c9d020b4e9ed1": 1789701615,
   "f5fb75c8cdb32760": 1789669819,
   "f6003baeeb912e11": 1789693220,
   "f650fce28ae4ecb8": 1789627496,
@@ -1469,7 +1483,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789697120,
- "last_msg_poll": 1789701571,
+ "last_msg_poll": 1789701863,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1510,7 +1524,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 12:19 KST",
+  "last_run": "2026-09-18 12:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
