@@ -174,6 +174,16 @@
    "t": "Driving the Hydrogen Economy:  How a Custom Non-Return Valve Advances  Fuel Cell Development in Material Handling",
    "ts": 1789748556,
    "u": "https://www.powermag.com/driving-the-hydrogen-economy-how-a-custom-non-return-valve-advances-fuel-cell-development-in-material-handling/"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "koreasprint.com",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "LS일렉트릭-한전, 배전용 ‘그리드포밍’ 기술 공동 개발 맞손 - koreasprint.com",
+   "ts": 1789748460,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MVjRJUmV5eXlseVdzZDIyckVCajhkQUdRSUpKZFo5eGZYX1B4bU9IUTBpV0xWdGdHUVRMb256cEUzajVJUElteEF1SlI3a2xwN2hsRm1NSVdzYWtRSllqcUR6TFU4MW5FdzZ6Qjhn?oc=5"
   }
  ],
  "clip_titles": [],
@@ -323,6 +333,7 @@
   "13379d57f5c6d449": 1789693814,
   "13517d89e0ac42c4": 1789637719,
   "135b0f698a898b49": 1789627496,
+  "135b2661bc8c18f6": 1789749023,
   "135d5be3073dfc0d": 1789705521,
   "13630e6b3c40efc9": 1789713633,
   "13cf78ca87798eee": 1789633820,
@@ -1968,7 +1979,7 @@
  "companies_today": {},
  "day": "2026-09-19",
  "last_clip": 1789741740,
- "last_msg_poll": 1789748968,
+ "last_msg_poll": 1789749267,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2009,7 +2020,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 01:29 KST",
+  "last_run": "2026-09-19 01:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
