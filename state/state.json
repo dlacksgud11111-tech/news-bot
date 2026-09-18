@@ -124,6 +124,16 @@
    "t": "Microsoft ‘preserving its ability’ to challenge data center transmission costs decision",
    "ts": 1789740553,
    "u": "https://www.utilitydive.com/news/microsoft-virginia-scc-data-center-transmission/830775/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "“데이터센터 병목은 전력… 사용 방식 바꿔야” - v.daum.net",
+   "ts": 1789659355,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLT2ZaS1BzWVpDNkNHelNiY0FwejdQZFRQSUxabUJYWHcyUzNDUlltSHVFN1RtNkJsaS0xVG1Gb2FHWTlMd1Ryal85OGt6Snc?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1687,6 +1697,7 @@
   "e1689c027cebf02d": 1789689626,
   "e16a653b627d278d": 1789698990,
   "e1baf44a263120b6": 1789627496,
+  "e2124e0bc09d0647": 1789745154,
   "e219c43b80528d63": 1789627496,
   "e21c2a90824b1bde": 1789715716,
   "e230191e9ef3f52f": 1789642232,
@@ -1911,7 +1922,7 @@
  "companies_today": {},
  "day": "2026-09-19",
  "last_clip": 1789741740,
- "last_msg_poll": 1789744836,
+ "last_msg_poll": 1789745401,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1952,7 +1963,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 00:20 KST",
+  "last_run": "2026-09-19 00:30 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
