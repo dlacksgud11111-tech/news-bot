@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import json
 import logging
+import re
 
 import anthropic
 
@@ -102,6 +103,17 @@ importance 기준 (4 미만은 발행되지 않는다):
    판단에 필요한데 기사에 없는 항목을 시사점 항목 끝에 덧붙인다.
    "…는 이번 발표에서 미공개" 한 마디가 독자의 시간을 아낀다.
 
+## 중국·일본 기사 번역
+
+- **기업명은 한글 음역 + 괄호 원문.** 투오푸그룹(拓普集团), 싼화즈콩(三花智控),
+  솽린(双林). 한자만 남기지 마라 — 한국 독자는 읽지 못한다.
+- **기술용어는 한국 업계에서 쓰는 말로.**
+  审核 → 심사 (감사 아님) / 力觉传感器 → 힘 센서 / 谐波减速器 → 하모닉 감속기
+  行星滚柱丝杠 → 롤러 스크류 / 灵巧手 → 다관절 핸드 / 产线 → 생산라인
+- **한 카드 안에서 같은 개념은 같은 단어로.** 제목에서 '심사' 라고 썼으면
+  본문에서도 '심사' 다. 용어가 오가면 독자는 다른 사건인지 의심한다.
+- 환산치는 "약" 을 붙이고 유효숫자 2자리로 어림한다. 2만 달러 → 약 2,800만원.
+
 ## 문체 (모든 모드)
 
 개조식으로 쓴다. 문장을 **명사형으로 끝낸다** — "…계약 체결", "…건설 추진",
@@ -116,7 +128,9 @@ emoji   : 기사 주제에 맞는 것 하나.
           💾 데이터센터·AI 전력   🏭 제조·공장 투자   📊 실적·시장·정책
           🏠 부동산
 lead    : 한 줄. 명사형. 제목을 보완하는 가장 중요한 사실 한두 개.
-details : 3~5개. 각 항목 한두 문장, 40~120자. 첫 항목에 발표 주체와 날짜를 넣는다
+details : 3~6개. 각 항목 한두 문장, 40~120자. **자리표시자를 쓰지 마라** —
+          "details2 placeholder", "항목 2", "TBD" 같은 것을 남기면 그 카드는
+          버려진다. 쓸 내용이 없으면 항목 수를 줄여라. 첫 항목에 발표 주체와 날짜를 넣는다
           (예: "Apex의 9월 16일 발표 기준, …"). ondemand 면 마지막 항목은
           반드시 "시사점: " 으로 시작한다.
 tags    : 2~4개. 메시지에는 표시되지 않지만 분류용으로 채운다.
@@ -145,6 +159,30 @@ SCHEMA = {
 }
 
 
+# 모델이 항목을 채우지 못하고 남기는 자리표시자. 실제로 "details2 placeholder"
+# 라는 줄이 카드에 실려 나갔다. 사람 눈에는 명백하니 코드가 걸러야 한다.
+_PLACEHOLDER = re.compile(
+    r"placeholder|자리\s*표시|플레이스홀더|\btodo\b|\btbd\b|lorem ipsum"
+    r"|^\s*(details?|detail|item|항목|내용)\s*\d+\s*$"
+    r"|^\s*(details?|detail|item|항목|내용)\s*\d+\s*(placeholder|자리표시)",
+    re.I,
+)
+
+
+def _is_stub(text: str) -> bool:
+    t = (text or "").strip()
+    return not t or len(t) < 10 or bool(_PLACEHOLDER.search(t))
+
+
+def _drop_stubs(card: dict) -> list[str]:
+    """자리표시자로 보이는 details 항목을 걸러내고, 걸러낸 것들을 돌려준다."""
+    kept, dropped = [], []
+    for d in card.get("details") or []:
+        (dropped if _is_stub(d) else kept).append((d or "").strip())
+    card["details"] = kept
+    return dropped
+
+
 class Summarizer:
     def __init__(self, cfg: dict, api_key: str | None = None):
         m = cfg.get("model") or {}
@@ -159,7 +197,7 @@ class Summarizer:
         self.client = anthropic.Anthropic(api_key=api_key) if api_key else anthropic.Anthropic()
 
     def run(self, item: dict, body: str, mode: str = "feed",
-            body_ok: bool = True) -> dict | None:
+            body_ok: bool = True, _retry: bool = True) -> dict | None:
         """실패하면 None. 호출 측에서 조용히 건너뛴다."""
         parts = [
             f"제목: {item['title']}",
@@ -223,6 +261,22 @@ class Summarizer:
             data = json.loads(text)
         except json.JSONDecodeError:
             log.error("JSON 파싱 실패: %s", text[:200])
+            return None
+
+        dropped = _drop_stubs(data)
+        broken = dropped or _is_stub(data.get("title")) or _is_stub(data.get("lead"))
+        if broken and _retry:
+            # 한 번 더 물어본다. 같은 입력으로 다시 부르면 대개 제대로 채운다.
+            log.warning("자리표시자가 섞여 나왔습니다 %s — 다시 요청합니다: %s",
+                        dropped or "(제목/리드)", item["link"])
+            again = self.run(item, body, mode=mode, body_ok=body_ok, _retry=False)
+            if again and len(again.get("details") or []) >= len(data.get("details") or []):
+                return again
+        if dropped:
+            log.warning("자리표시자 %d개를 버렸습니다: %s", len(dropped), dropped)
+        if len(data.get("details") or []) < 2:
+            log.error("쓸 수 있는 항목이 %d개뿐입니다 — 카드를 버립니다: %s",
+                      len(data.get("details") or []), item["link"])
             return None
 
         data["_usage"] = {

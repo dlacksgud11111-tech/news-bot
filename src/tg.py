@@ -128,8 +128,6 @@ def render(card: dict, item: dict) -> str:
         if d:
             lines += [f"{n}) {d}", ""]
 
-    # 주소를 그대로 노출하면 줄이 길어진다. 매체명(없으면 도메인)에 링크를 건다.
-    label = item.get("source") or urllib.parse.urlparse(item["link"]).netloc
-    label = re.sub(r"^www\.", "", label or "원문 보기")
-    lines.append(f'🔗 <a href="{_esc(item["link"])}">{_esc(label)}</a>')
+    # 주소도 매체명도 노출하지 않는다. 누르기만 하면 되는 한 단어.
+    lines.append(f'🔗 <a href="{_esc(item["link"])}">링크</a>')
     return "\n".join(lines)
