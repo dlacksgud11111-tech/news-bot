@@ -134,6 +134,16 @@
    "t": "Russia claims strikes on De Novo data center in Kyiv, Ukraine",
    "ts": 1789736354,
    "u": "https://www.datacenterdynamics.com/en/news/russia-claims-strikes-on-de-novo-data-center-in-kyiv-ukraine/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "공뉴스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "‘대청댐 물로 AI 서버 식힌다’…충북, 2조3000억 데이터센터 시동 - 공뉴스",
+   "ts": 1789735961,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fZmZMY0lnUDk0RGg5VGZCNjRqd2g1ZE5UMF95QlEwcmQxdU9CWVlodmI4TDZIWFpfMWlDNzBESGxoTjhPRWM1RHZVMVhTdjdXcGJFX2N2bUlubUNQa0hfQWNieC1rVVNfQ20teQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -576,6 +586,7 @@
   "3bdae99a4f91c6a2": 1789627496,
   "3be385f4eb17073f": 1789698990,
   "3c0807664acebada": 1789630819,
+  "3c584012bc013353": 1789736719,
   "3c751f5936119bb8": 1789627496,
   "3c9220388b2596b7": 1789707915,
   "3c9892e6fcd3fbac": 1789715428,
@@ -979,6 +990,7 @@
   "7a7c382e6a3bf43b": 1789713065,
   "7ad513f617fe16eb": 1789704620,
   "7ad61663e3f86563": 1789627496,
+  "7afba3c2caf58bc0": 1789736719,
   "7b0a7b591a969f1b": 1789630519,
   "7b42839fbe8aed84": 1789627496,
   "7b53666aac921e63": 1789627496,
@@ -1171,6 +1183,7 @@
   "9971f831ed5322d1": 1789721130,
   "99e9e19b28cb6dd8": 1789694436,
   "99f3af956aea358c": 1789710788,
+  "9a11884bfb90b566": 1789736719,
   "9a247866f612be5a": 1789697424,
   "9a3f94e7334124c2": 1789689915,
   "9acdb86561cc6027": 1789634416,
@@ -1342,6 +1355,7 @@
   "b0e838b6ccc45c1f": 1789647027,
   "b0ef03c406061dfa": 1789712512,
   "b1385cf4f7fbab47": 1789630519,
+  "b1401b215badbaea": 1789736719,
   "b1689f513be93d1b": 1789705521,
   "b1806b75e6e37592": 1789683939,
   "b1873a2e62a09f9c": 1789627496,
@@ -1897,7 +1911,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789734020,
- "last_msg_poll": 1789736662,
+ "last_msg_poll": 1789736970,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1938,7 +1952,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 22:04 KST",
+  "last_run": "2026-09-18 22:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
