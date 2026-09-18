@@ -163,6 +163,16 @@
    "t": "HD현대일렉트릭, 유럽 해상 풍력단지에 변압기·리액터 공급 - 데일리한국",
    "ts": 1789703651,
    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GbzZMVlIzOTlkd3RVQXhkNTVzeVl6VlZoaGJyZlRGSDVFQ2pKVkl1b0hmak0zUUFUZGUxNTBrcmdTbHpBSC10ZVhvRUpMcnVQWlotYjRSbk5URUlkT1ZsRlJmYW83YnhlZzExdnRXc9IBc0FVX3lxTE9KOTI4SHdyOHNvNnVwMnFxYmNCd2JvUUNicnpjRWhuZTlxT3FwZkVON1lqRHZTX0lSNGJvZGZiMDlULXdnQUdkMjU0RldXazdyT3RoNjBZSnNzWGF2R1FWd3FINHVxT00xV3N1VE02ZlBuSnc?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "theguru.co.kr",
+   "sc": 10,
+   "sec": "데이터센터·AI전력",
+   "t": "美 데이터센터 전력비 부담 법안 통과에 美원전주 급등 - theguru.co.kr",
+   "ts": 1789707279,
+   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96amVEQms5UFhyVEFJRXowSFlzTWhFMnd3eDljT09VYVljTC1aYm5zQUVCb3BycURwdXhlRXg1VjhXTEM2bkJMYWM2SG1RNFlBUVJsTUpXOEp3UEVLeXpMWHhpbw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -474,6 +484,7 @@
   "356ebad5b0123067": 1789627496,
   "3580e1a522845a1c": 1789695321,
   "35cf3e90daedb4aa": 1789691718,
+  "35d90e32ed125cc1": 1789707615,
   "361dcef4a6bf65d7": 1789627496,
   "362c9920decbc5d8": 1789627496,
   "3643544ab3b5af90": 1789635918,
@@ -695,6 +706,7 @@
   "60e1e3746111ef8b": 1789627496,
   "6137ca44fc539a6f": 1789692015,
   "613d1851c0d8a7c7": 1789693814,
+  "617cc9ae9f4193e8": 1789707615,
   "622dd754da381bdb": 1789627496,
   "624e6bf862fb20d2": 1789655120,
   "6263a612be66c588": 1789627496,
@@ -820,6 +832,7 @@
   "778441a27c542a69": 1789629315,
   "778e343336251936": 1789629088,
   "77968177f8766075": 1789702817,
+  "779f010721d9f601": 1789707615,
   "77c4be3f61b0adfc": 1789627496,
   "77e0f2a1525e1af5": 1789706118,
   "782c892dba060c2a": 1789646718,
@@ -1576,7 +1589,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789704327,
- "last_msg_poll": 1789707560,
+ "last_msg_poll": 1789707861,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1617,7 +1630,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 13:59 KST",
+  "last_run": "2026-09-18 14:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
