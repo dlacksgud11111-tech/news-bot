@@ -63,118 +63,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 4,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 7,
-   "sec": "재생에너지·ESS",
-   "t": "2030 재생에너지 100GW 위한 범정부 TF 출범",
-   "ts": 1789729687,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334406"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 3,
-   "sec": "유틸리티·정책",
-   "t": "[에너지·환경·안전, 혁신의 시대를 열다] 버려지던 LNG 냉열의 재발견…가스공사, 탄소중립 이끈다",
-   "ts": 1789729470,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372560"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "용산구, '남산대림아파트 재건축' 정비계획안 주민공람",
-   "ts": 1789697822,
-   "u": "https://www.yna.co.kr/view/AKR20260918078800004"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "인포스탁데일리",
-   "sc": 2,
-   "sec": "전력기기",
-   "t": "[테마시황] 제너락·아마존 전력 공급 계약 소식에 국내 전선·전력 테마 상승 흐름 - 인포스탁데일리",
-   "ts": 1789698666,
-   "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YTW5DamFZYm1OQmt6bEFBYmI0NFRuWENzSHFuS21KSHJEMkhkQnpPdDBtLUhoTWRRaTNXd2RoVW9BT2R5b012YlVIQlNpZ2JuR3lYQ0hmTm5SY3ZHUkJsbWNvNzdiUHprTHppQVhPMjBlVGdfY2c?oc=5"
-  },
-  {
-   "co": "HD현대일렉트릭",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 10,
-   "sec": "전력기기",
-   "t": "HD현대일렉, 유럽 해상풍력 변압기·리액터 공급 - v.daum.net",
-   "ts": 1789698313,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiWmhXaTJiQ2hmUFJpVVE0c3pBNWdVV2UzZkRPX1dsellySFpYNXBjTEthSW1obWZXS05NSDhrRnd2blBJXzdFWlZQMkpDRTQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 7,
-   "sec": "재생에너지·ESS",
-   "t": "LS마린솔루션, 신안우이 해상풍력 프로젝트 품었다",
-   "ts": 1789733073,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334409"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "특허뉴스",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "“AI 전력 먹는 열, 다시 전기로”... 데이터센터 비용 48% 줄인다 - 특허뉴스",
-   "ts": 1789700280,
-   "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5VGlpY0UxNkhpQmlpMUtNUkl1SEdTLVlmTTZCS3VfcGh5R0g5Q3hUZTdYbV9FMktXR01mVW1tY1JnUWRqUDdJVQ?oc=5"
-  },
-  {
-   "co": "HD현대일렉트릭",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 20,
-   "sec": "재생에너지·ESS",
-   "t": "HD현대일렉트릭, 유럽 해상풍력 첫 수주 3년 만에 현장 투입 - v.daum.net",
-   "ts": 1789694287,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lUmE0Z011a1Bpb3l3V1VIRUNpNzhsTTc0d0tqOGg4VnV6NVpJMDRmYkNPSjdIaHA4VWRDVjQ1eHhxOERrMnJTS1lLWU1rYlU?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일경제",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터 몰리자 실리콘밸리도 ‘전력 비상’…화석연료 회귀 우려 - 매일경제",
-   "ts": 1789681468,
-   "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvNXB5b29SQ1RuMnZWRWdmekZXSTNvNDRqNEFweENMYUxGTlpYVDdYQ0NMV1ZjTHZLTjJ5UEU5ajRDMV9mU3BsSlFZYzU4UQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "SK온-엘앤에프, LFP 양극재 공급 계약...‘탈중국’ ESS 나선다",
-   "ts": 1789731357,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372604"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "아이씨엔매거진",
-   "sc": 8,
-   "sec": "데이터센터·AI전력",
-   "t": "LS일렉트릭, KT클라우드와 AI 데이터센터 전략적 파트너십 - 아이씨엔매거진",
-   "ts": 1789680780,
-   "u": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOX2U4OWY5RlhfSThmYTNON3pjVFJyT0VQSnp3TFZ2S3RqUTdJWHFlZzBJOUMwaGRpVDc1S2dncWl6SHlTODZBR2s0c1kxZzFMelF0N2dwSlpOX3NBZG5haThhOXQydTFrV2dwNERvbVZqRkJxZ19FU0ZYZldDSHVNcHQxWmw5YTdybGYwSEd6TTI3VXgxTGpQYWczcWVybmJTMm9JWXl2TGxiUDZrems1YzkzbkRySlQzandKQ2pRXzVObEUyQ0tydDc1NFVqWnJsQzhYVVNJT0txUHRab0RGb1pCOW82ci15NzlfYlhhTmdHa1RLUk1XZ1pfczRFMEUwYzdKbXMtQkw0ZG9HVmVJdHJPZnNmNXc3YzRabHRnYnIzaGEySDBYb3M2MF9DZDdibnNKazNhYWpza3Fpai0yU2J3UQ?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "003700b0bc3aa10c": 1789627496,
@@ -239,6 +128,7 @@
   "0a43c9f5fb7b3650": 1789648519,
   "0a4972bb2f72b7ec": 1789627496,
   "0a828ec3943e7338": 1789629088,
+  "0aaeebde5e90f8be": 1789704327,
   "0ae284dee6e285e3": 1789627496,
   "0b1452b2c059ec6a": 1789627496,
   "0b31c912a2c39e87": 1789648519,
@@ -1521,8 +1411,8 @@
  },
  "companies_today": {},
  "day": "2026-09-18",
- "last_clip": 1789697120,
- "last_msg_poll": 1789704275,
+ "last_clip": 1789704327,
+ "last_msg_poll": 1789704573,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1563,7 +1453,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 13:04 KST",
+  "last_run": "2026-09-18 13:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
