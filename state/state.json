@@ -313,6 +313,26 @@
    "t": "HD현대일렉트릭, 유럽 해상풍력 첫 수주 3년 만에 현장 투입 - 뉴스웨이",
    "ts": 1789694271,
    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IbHhkM0VSRXdva0h6VmVOY1hiNE5wUlFRaWdqZFdwRnhfV0hCQzRsd2tGMFhZMzljdXVLNXNOTFdhenV3N3lFYk84NEVRanUwaHFaVlZKLS1JeXdYbTZqWWFhOTJKWXFXbVE?oc=5"
+  },
+  {
+   "co": "HD현대일렉트릭",
+   "n": 1,
+   "s": "inews24.com",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "HD현대일렉트릭, 해상변전소 유럽 해상풍력 현장 출항 - inews24.com",
+   "ts": 1789694825,
+   "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5QNU1rRElwSktwM2JUTFJlal9vNE5VR3pEbkF4aEd4YzNsdGliT2lONlRZYk9NNmRKQjcyZkV3Q2dBN3hwTHc?oc=5"
+  },
+  {
+   "co": "HD현대일렉트릭",
+   "n": 1,
+   "s": "아시아투데이",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "HD현대일렉트릭 변압기 ‘발트해行’…국내 첫 유럽 해상풍력 현장 투입 - 아시아투데이",
+   "ts": 1789694266,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TcWxjTHF3YTNYdmQ2SERTckM4Q3BLRW5fTDN6cmJ0aHFHMk1FLVV3Tzl5Z0NzbHJvMzI0VmdRenA0YXQ2LVhWSW5zclVlQ2Z2OWJ3MUFrblo1M05YTF85U0hQWHFsYmNnbV9iVQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -432,6 +452,7 @@
   "143f7958a0199122": 1789627496,
   "147e4b7dc573219e": 1789627496,
   "149bae1e1cfb97db": 1789653625,
+  "15e4c228e946ae6e": 1789695017,
   "1645cb4d538dbbbe": 1789627496,
   "16734c3710e1bdf5": 1789633820,
   "16796cf2d8d054b5": 1789635918,
@@ -659,6 +680,7 @@
   "44a73dfe47551271": 1789629088,
   "44e312b16ab43dc2": 1789692619,
   "454890183b9642da": 1789627496,
+  "45608d9f24bda367": 1789695017,
   "45839a67052aae46": 1789694721,
   "45edd36044f4ce0f": 1789689020,
   "4617de34553ebb4b": 1789656318,
@@ -946,6 +968,7 @@
   "8478731985fd4913": 1789629088,
   "852223dfb55a9dcd": 1789689915,
   "852ff64543eef161": 1789693531,
+  "858bb64f74e1110b": 1789695017,
   "85c71b2beac17b48": 1789693531,
   "860c99e317601fa3": 1789629923,
   "86393f8ccb4aa3fd": 1789627496,
@@ -1525,6 +1548,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789689915,
+ "last_msg_poll": 0,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1562,7 +1586,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 10:25 KST",
+  "last_run": "2026-09-18 10:30 KST",
   "total_posted": 7
  },
  "tg_offset": 371065785,
