@@ -163,6 +163,16 @@
    "t": "SK온-엘앤에프, LFP 양극재 공급 계약...‘탈중국’ ESS 나선다",
    "ts": 1789731357,
    "u": "https://www.electimes.com/news/articleView.html?idxno=372604"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "아이씨엔매거진",
+   "sc": 8,
+   "sec": "데이터센터·AI전력",
+   "t": "LS일렉트릭, KT클라우드와 AI 데이터센터 전략적 파트너십 - 아이씨엔매거진",
+   "ts": 1789680780,
+   "u": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOX2U4OWY5RlhfSThmYTNON3pjVFJyT0VQSnp3TFZ2S3RqUTdJWHFlZzBJOUMwaGRpVDc1S2dncWl6SHlTODZBR2s0c1kxZzFMelF0N2dwSlpOX3NBZG5haThhOXQydTFrV2dwNERvbVZqRkJxZ19FU0ZYZldDSHVNcHQxWmw5YTdybGYwSEd6TTI3VXgxTGpQYWczcWVybmJTMm9JWXl2TGxiUDZrems1YzkzbkRySlQzandKQ2pRXzVObEUyQ0tydDc1NFVqWnJsQzhYVVNJT0txUHRab0RGb1pCOW82ci15NzlfYlhhTmdHa1RLUk1XZ1pfczRFMEUwYzdKbXMtQkw0ZG9HVmVJdHJPZnNmNXc3YzRabHRnYnIzaGEySDBYb3M2MF9DZDdibnNKazNhYWpza3Fpai0yU2J3UQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -289,6 +299,7 @@
   "149bae1e1cfb97db": 1789653625,
   "15e4c228e946ae6e": 1789695017,
   "1645cb4d538dbbbe": 1789627496,
+  "1656ea1e6f54e46a": 1789703127,
   "16734c3710e1bdf5": 1789633820,
   "16796cf2d8d054b5": 1789635918,
   "168ba5d71125279d": 1789635327,
@@ -1510,7 +1521,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789697120,
- "last_msg_poll": 1789703064,
+ "last_msg_poll": 1789703375,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1551,7 +1562,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 12:44 KST",
+  "last_run": "2026-09-18 12:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
