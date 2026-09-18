@@ -179,6 +179,16 @@
    "t": "LTO 배터리 산업 현장 공급…그리너지, AMR용 배터리 8월부터 양산",
    "ts": 1789748372,
    "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228334"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "인사이드비나",
+   "sc": 8,
+   "sec": "전력기기",
+   "t": "효성중공업, 외산 의존도 낮추고 공급망 리스크 정조준…대용량 송전망 글로벌 수출 교두보 마련 - 인사이드비나",
+   "ts": 1789716352,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85eUVKN05nOXFIWE10YzFKcFZwdDlfUWNBQXJidnVoNGRnTUFLNmNpbEEyekNmUncwMDFhcnR6aGE5UG9vUW1tWTY5ZDJlXzdzV0tXSkNCMUxwbk5MSkczNkYzeHFZaEoycWhSbQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -237,6 +247,7 @@
   "08c755d7ec571ffe": 1789627496,
   "08d647260e31ed67": 1789655729,
   "08ee3afba00650a2": 1789629088,
+  "090c6707512b08e5": 1789716627,
   "091d63ef6ab99d8f": 1789631127,
   "0930647ffc96f221": 1789627496,
   "09481c0911dd3f88": 1789698990,
@@ -563,6 +574,7 @@
   "3b369d86c40fd91e": 1789627496,
   "3b6b19690ed57c45": 1789627496,
   "3b7aa54e081e1158": 1789703719,
+  "3b90f7e44f1d89c5": 1789716627,
   "3bb8ce2347fc848e": 1789701321,
   "3bdae99a4f91c6a2": 1789627496,
   "3be385f4eb17073f": 1789698990,
@@ -1475,6 +1487,7 @@
   "d47110f4bb098246": 1789698990,
   "d47db4ccae7a1b49": 1789699582,
   "d48cba00f4965c2d": 1789629088,
+  "d4af798255fd8a14": 1789716627,
   "d4cc86309d8857ce": 1789627496,
   "d4e5a1f262e4aa20": 1789627496,
   "d51481e7fdfe80c1": 1789627496,
@@ -1748,7 +1761,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789711937,
- "last_msg_poll": 1789716565,
+ "last_msg_poll": 1789716874,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1789,7 +1802,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 16:29 KST",
+  "last_run": "2026-09-18 16:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
