@@ -154,6 +154,16 @@
    "t": "Brazil's President Lula signs ReData data center bill into law",
    "ts": 1789746008,
    "u": "https://www.datacenterdynamics.com/en/news/president-lula-signs-bill-at-the-planalto-palace/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Virginia’s Loudoun County board votes to pause new data center applications",
+   "ts": 1789748339,
+   "u": "https://www.datacenterdynamics.com/en/news/virginias-loudoun-county-board-votes-to-pause-new-data-center-applications/"
   }
  ],
  "clip_titles": [],
@@ -321,6 +331,7 @@
   "16734c3710e1bdf5": 1789633820,
   "16796cf2d8d054b5": 1789635918,
   "168ba5d71125279d": 1789635327,
+  "1697c3ef9ae09ce3": 1789748428,
   "16ba59c3a5e2ea85": 1789627496,
   "16c961d7dc44c182": 1789693531,
   "171761c9d9c085f2": 1789627496,
@@ -1946,7 +1957,7 @@
  "companies_today": {},
  "day": "2026-09-19",
  "last_clip": 1789741740,
- "last_msg_poll": 1789748366,
+ "last_msg_poll": 1789748675,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1987,7 +1998,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 01:19 KST",
+  "last_run": "2026-09-19 01:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
