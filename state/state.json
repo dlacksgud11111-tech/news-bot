@@ -74,7 +74,28 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 6,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "EVE Energy signs 206 GWh battery framework with US storage supplier Fluence",
+   "ts": 1789734762,
+   "u": "https://www.pv-magazine.com/2026/09/18/eve-energy-signs-206-gwh-battery-framework-with-us-storage-supplier-fluence/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "The Hydrogen Stream: Singapore researchers present artificial leaf for H2 production from contaminated seawater",
+   "ts": 1789734612,
+   "u": "https://www.pv-magazine.com/2026/09/18/the-hydrogen-stream-singapore-researchers-present-artificial-leaf-for-h2-production-from-contaminated-seawater/"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "0033fde36740424f": 1789729598,
@@ -104,6 +125,7 @@
   "0347c98e5f3ecdf3": 1789693814,
   "0353d7cf89aaf18a": 1789627496,
   "0392355132f68d23": 1789627496,
+  "039d3ed9bb2f87c5": 1789734932,
   "03dc9483e0a5b187": 1789694131,
   "03fa52e1013b5ee4": 1789627496,
   "03fc6ab698e8be04": 1789721130,
@@ -708,6 +730,7 @@
   "5b387427e407f7af": 1789707317,
   "5b47dd83f4cee36b": 1789627496,
   "5c3ceb41f8d900a8": 1789627496,
+  "5c4b456a2c662ce0": 1789734932,
   "5c4dc2360ec368a9": 1789686930,
   "5c731a95a7526f8b": 1789627496,
   "5c8963a4e0b3db21": 1789654217,
@@ -824,6 +847,7 @@
   "6e73a20d9584a28e": 1789632918,
   "6e7aa01c709a30d4": 1789639528,
   "6e8aa9e37e8f5c17": 1789695321,
+  "6ea6411b3a07ea77": 1789734932,
   "6f0efae17b8aec6d": 1789720817,
   "6f5331acb38661e5": 1789636217,
   "6f602ee512261342": 1789634416,
@@ -1818,7 +1842,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789734020,
- "last_msg_poll": 1789734863,
+ "last_msg_poll": 1789735184,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1859,7 +1883,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 21:34 KST",
+  "last_run": "2026-09-18 21:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
