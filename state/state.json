@@ -94,6 +94,16 @@
    "t": "효성중공업, 美빅테크서 변압기 3865억 수주…AI 데이터센터 공략 - 조세일보",
    "ts": 1789719680,
    "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtOU5mMjNFTGJuaEhmSFlSTWdOTlJMdUd6X1hpZDhOM0h0NUJpcXhiS3RKVi1sNW9hMjI4ZnhZNUNqMEVrQmJoVURZR29jSnNBVEt4REpSaUlRSkY5b2pz?oc=5"
+  },
+  {
+   "co": "한국전력",
+   "n": 1,
+   "s": "한국전력신문",
+   "sc": 14,
+   "sec": "전력기기",
+   "t": "한전-LS ELECTRIC, 배전용 그리드포밍 기술 공동연구 및 글로벌 사업화 협력 - 한국전력신문",
+   "ts": 1789727308,
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ncVdfLTVCMFp1SEtuTzRvTElmYlA4R21FalNWcUVFMXVDenlhc0xDY2JITXdoQ0VhdktsQXBrRTZURmdac1NPVllYYXU0eDNVZWtOM2tzUndqQUlWNzcwdDN4UTFDdWJpTVE?oc=5"
   }
  ],
  "clip_titles": [],
@@ -670,6 +680,7 @@
   "555f091237616e54": 1789707915,
   "55681c291f495ecd": 1789629088,
   "558c3dc7f4a3f569": 1789627496,
+  "55a570fc2922979d": 1789727860,
   "5624251de8e3dd87": 1789627496,
   "564b76a091ad3a7f": 1789627496,
   "569ac6b2b8eb7261": 1789629088,
@@ -1008,6 +1019,7 @@
   "8b7b0f156eed15bc": 1789648519,
   "8b7b342012e6d286": 1789627496,
   "8be1678b31fd0982": 1789695321,
+  "8bf48a7c84eeb3c1": 1789727860,
   "8c0308b5734bd8cc": 1789627496,
   "8c146ae3182d10b3": 1789691718,
   "8c6acdf5a2a8e108": 1789627496,
@@ -1135,6 +1147,7 @@
   "a1895af9dea863e8": 1789627496,
   "a1fc19afd496790a": 1789720517,
   "a20abfcc1e1844a9": 1789698990,
+  "a218604350684309": 1789727860,
   "a22737406f2e7caf": 1789709642,
   "a22bd1b3213e2d8d": 1789627496,
   "a2514317cad22616": 1789720817,
@@ -1165,6 +1178,7 @@
   "a511703915b626e8": 1789629088,
   "a52dea358121f9c4": 1789713633,
   "a558d886642d6606": 1789719021,
+  "a5836a2f18014b7d": 1789727860,
   "a58ed729c1625337": 1789698990,
   "a5aacbc42a1bcf55": 1789638052,
   "a5bef8c64e4df41a": 1789685428,
@@ -1417,6 +1431,7 @@
   "c833b11b998ee2ef": 1789627496,
   "c878b5d30b45dc8a": 1789693531,
   "c89c3e08ae850c41": 1789724119,
+  "c8f53c4e93d2e639": 1789727860,
   "c98b4e15917e33a2": 1789710788,
   "c98ff19dd484930e": 1789627496,
   "c998ecc967a0a9ad": 1789627496,
@@ -1517,6 +1532,7 @@
   "d782a8af8f826683": 1789697120,
   "d7ff6e43ba2ecd86": 1789718720,
   "d80576eeb7757d9d": 1789627496,
+  "d80bfcfa84487160": 1789727860,
   "d849c27237da0a1b": 1789649116,
   "d88b8967362c2567": 1789720817,
   "d8bc8e757763d94d": 1789627496,
@@ -1787,7 +1803,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789726695,
- "last_msg_poll": 1789727522,
+ "last_msg_poll": 1789728105,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1828,7 +1844,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 19:32 KST",
+  "last_run": "2026-09-18 19:41 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
