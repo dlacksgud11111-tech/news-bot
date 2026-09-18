@@ -129,6 +129,26 @@
    "t": "'2026 탄소중립 EXPO' 폐막…포스코그룹·LS전선 BEST 참가기업 선정",
    "ts": 1789712703,
    "u": "https://www.etnews.com/20260918000252"
+  },
+  {
+   "co": "HD현대일렉트릭",
+   "n": 1,
+   "s": "연합인포맥스",
+   "sc": 10,
+   "sec": "전력기기",
+   "t": "HD현대일렉, 유럽 해상풍력단지에 변압기·리액터 공급…국내업계 첫 사례 - 연합인포맥스",
+   "ts": 1789714235,
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vYnB4VGpUM0FHcm9haV9LZXViSzlTTVN2NW5qUHB3aWZWZkRweWlPSWhGb29nMW5kdE10c2JoTU5BUnVHQU52dkJFTUhray1HS2xkMHlJYW1Td0xpODhHYmg3UG1IWXZqOHVlTlBndno?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "eroun.net",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "조현준의 선제적 승부수…효성중공업, 2GW급 HVDC로 글로벌 전력망 공략 - eroun.net",
+   "ts": 1789713906,
+   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Ub1BTUU1sSEh0VlJKR3JocTFHdWJ4elpvLUMyeTNiemZaczJVeHIzR1ozdDNRVWlwQ0RsdmJka0Fwa1B0VkoxX3dsand3UUowZS1mX1NzcjljRDgyXzJUNEREdEFWUQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1264,6 +1284,7 @@
   "be61e4822127033c": 1789688716,
   "bea333d656f56cda": 1789627496,
   "bed14a10033e669c": 1789627496,
+  "bf34c04d618072e3": 1789714817,
   "bf4aea1fd5d2f47e": 1789627496,
   "bf83a25d8879ffea": 1789712512,
   "bfb528f17e15cef4": 1789627496,
@@ -1650,6 +1671,7 @@
   "fc9c203e616d298e": 1789627496,
   "fce683d174f62de1": 1789687516,
   "fd47eabcfae9ea13": 1789697120,
+  "fd5be5e017e6e3a5": 1789714817,
   "fdcdb1437c1741ac": 1789684520,
   "fe02d534697aa903": 1789627496,
   "fe36aebd89cc2470": 1789712512,
@@ -1667,7 +1689,7 @@
  "companies_today": {},
  "day": "2026-09-18",
  "last_clip": 1789711937,
- "last_msg_poll": 1789714771,
+ "last_msg_poll": 1789715065,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1708,7 +1730,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 15:59 KST",
+  "last_run": "2026-09-18 16:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
