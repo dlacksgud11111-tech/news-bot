@@ -104,6 +104,26 @@
    "t": "LS일렉트릭-한국전력, 배전망 안정화 위한 ‘그리드포밍’ 기술 공동 개발 - icnweb.kr",
    "ts": 1789774680,
    "u": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOQjh0SE9OeDNCb2YwYmZxb2FHZGNLZXIzNndrTm1BRGtQRmdIRUFWWWs2TFA1STUzUmNJVVFQMjNJam9LNEU0SS11UjN5V1VPMmd5aTJlUlVjWUlleXBUQ2R4d0pWLVczY2hMdEFocW5HQ1BDSGVBQm1GeEZaSFBWY1NLZUVLSFNFNmZrQ0FHbnpzTUZ2eTJWbFYzR3habTNhLTBRd2R4bldmNUhoVmxaeHdySktzUlY3SDNSR20wSWVlUTFRSWFlcDhhbDQwVzNQU09NLVdwRzVVeDRBNDNfTzB4VHdfVGNXc0dBSUgycGkzUVllek5TM2pfVy1zTkszY0IyM195Q0Via3FLYXhIWmQ3LWJueG1MZDBOUi10bHFGZ0ZzRXZiOHB5dV9Uc0xtMUpwT3hydzBkc2N1RFE?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "광역행정신문",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "「“대청댐 물로 AI서버 식힌다”…충북, 2조3천억 친환경 데이터센터 추진」 - 광역행정신문",
+   "ts": 1789774500,
+   "u": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5tdFBodHBoRlRrQnpPaGVvMzZheW5hSkx6UG5WVXB2YXdGVVRkY0N3U0hzRUxBdlpNdHpfVnZjZjdrZmxL?oc=5"
+  },
+  {
+   "co": "HD현대일렉트릭",
+   "n": 1,
+   "s": "시사저널e",
+   "sc": 22,
+   "sec": "유틸리티·정책",
+   "t": "HD현대일렉트릭 ‘한전 입찰제한’ 소송 장기화···담합 재판 결과 기다린다 - 시사저널e",
+   "ts": 1789718644,
+   "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82WTJKdElIWVZHczRodGJ4a0NJWEhDbl8xdHpOR2tPNXByZms4RERzNkx1RDBPMjBpLWZNM0c0RUYzanFoNFNMaDF2QS1PbF9DS1U4dG1RcV9ndTZhWXNpTFNtWmpqLXhRUWpYXzQwS1VFWVUyUlHSAXZBVV95cUxPNlkySnRJSFlWR3M0aHRieGtDSVhIQ25fMXR6TkdrTzVwcmZrOEREczZMdUQwTzIwaS1mTTNHNEVGM2pxaDRTTGgxdkEtT2xfQ0tVOHRtUXFfZ3U2YVlzaUxTbVpqai14UVFqWF80MEtVRVlVMlJR?oc=5"
   }
  ],
  "clip_titles": [],
@@ -636,6 +656,7 @@
   "4650d9ec8c1e1ce7": 1789629088,
   "4655a6a7bf664483": 1789629088,
   "4660e32af8a380f7": 1789643416,
+  "46bc5faa42548420": 1789775739,
   "46db9cfff8baf7a3": 1789709642,
   "46ff66ef9707cf57": 1789627496,
   "4700e802afe4af52": 1789627496,
@@ -1108,6 +1129,7 @@
   "8e8500ba591fb485": 1789629088,
   "8e945a529c2c9ff1": 1789735230,
   "8ea3539e61691b3f": 1789720517,
+  "8eb5d9517ff14596": 1789775739,
   "8ec1a202f81d5fc5": 1789692619,
   "8f421667991ad2b6": 1789635016,
   "8f4492ea2ae80801": 1789635918,
@@ -1382,6 +1404,7 @@
   "b461fff6a117643f": 1789695618,
   "b485281e4604f5d0": 1789629088,
   "b49b9d8b0c9f94b7": 1789627496,
+  "b49c91527334ef51": 1789775739,
   "b4a6f1cb14223703": 1789697120,
   "b4c5f72041f3adcb": 1789632334,
   "b4d02bab4676a1ed": 1789724119,
@@ -1923,7 +1946,7 @@
  "companies_today": {},
  "day": "2026-09-19",
  "last_clip": 1789768815,
- "last_msg_poll": 1789775416,
+ "last_msg_poll": 1789775986,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1964,7 +1987,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 08:50 KST",
+  "last_run": "2026-09-19 08:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
