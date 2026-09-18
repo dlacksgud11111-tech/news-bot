@@ -74,98 +74,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 6,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "EVE Energy signs 206 GWh battery framework with US storage supplier Fluence",
-   "ts": 1789734762,
-   "u": "https://www.pv-magazine.com/2026/09/18/eve-energy-signs-206-gwh-battery-framework-with-us-storage-supplier-fluence/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "The Hydrogen Stream: Singapore researchers present artificial leaf for H2 production from contaminated seawater",
-   "ts": 1789734612,
-   "u": "https://www.pv-magazine.com/2026/09/18/the-hydrogen-stream-singapore-researchers-present-artificial-leaf-for-h2-production-from-contaminated-seawater/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "ppss.kr",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "한국수자원공사, 대청댐 수열 활용 'AI 데이터센터' 조성...친환경 첨단 산업 육성 - ppss.kr",
-   "ts": 1789726200,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kb3U1c1IzNjlidnlyYXk1Uml0Um9GNGpia0xPNzYzb0dkLVIzZExFR1l3dFpvTm5Fd2M2MVF6RTlsYlRlMVZ1SmV2Z0VMbS12MmxJdzRzR2VORGRFaFlHN1Rjb3A?oc=5"
-  },
-  {
-   "co": "HD현대일렉트릭",
-   "n": 1,
-   "s": "시사저널e",
-   "sc": 22,
-   "sec": "유틸리티·정책",
-   "t": "HD현대일렉트릭 ‘한전 입찰제한’ 소송 장기화···담합 재판 결과 기다린다 - 시사저널e",
-   "ts": 1789715205,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE00QTRwbUsyQUpDUDNteGRrcWxRdW0teHo5UWR6M2NrQm1MODBfaUZCdWdudnRFSGY2RVhTZ0ZOdEpwaDQzWWR1UWE0VlN5aTc5VmF2aUhZZzNMdHExT3JXQVNCUmR6cGVLTkpRS0dFZHJNQdIBdkFVX3lxTE82WTJKdElIWVZHczRodGJ4a0NJWEhDbl8xdHpOR2tPNXByZms4RERzNkx1RDBPMjBpLWZNM0c0RUYzanFoNFNMaDF2QS1PbF9DS1U4dG1RcV9ndTZhWXNpTFNtWmpqLXhRUWpYXzQwS1VFWVUyUlE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지데일리",
-   "sc": 8,
-   "sec": "전력기기",
-   "t": "대청댐 물로 AI 데이터센터 식힌다…청주에 ‘수열·전력망’ 결합 첨단산업 거점 - 에너지데일리",
-   "ts": 1789722843,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oTjBOWk5IU0JlTktuN25ubWZEbTN0OEpFQzNaUEw2WTRCVFJOcE1BZXhCMEMwbkQ0LVRlLVcyWTFqMTNieDVWRkl0RXdhYnJPMUpLclM3TmdTbGF1WEFQcl9yVkhRMVRBcUVBTmNZdjlSUQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Russia claims strikes on De Novo data center in Kyiv, Ukraine",
-   "ts": 1789736354,
-   "u": "https://www.datacenterdynamics.com/en/news/russia-claims-strikes-on-de-novo-data-center-in-kyiv-ukraine/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "공뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "‘대청댐 물로 AI 서버 식힌다’…충북, 2조3000억 데이터센터 시동 - 공뉴스",
-   "ts": 1789735961,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fZmZMY0lnUDk0RGg5VGZCNjRqd2g1ZE5UMF95QlEwcmQxdU9CWVlodmI4TDZIWFpfMWlDNzBESGxoTjhPRWM1RHZVMVhTdjdXcGJFX2N2bUlubUNQa0hfQWNieC1rVVNfQ20teQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "Oracle signs 1.7GW of wind energy supply agreements to support operations in Texas",
-   "ts": 1789738248,
-   "u": "https://www.datacenterdynamics.com/en/news/oracle-signs-17gw-of-wind-energy-supply-agreements-to-support-operations-in-texas/"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "인더뉴스",
-   "sc": 18,
-   "sec": "전력기기",
-   "t": "효성중공업, HVDC 핵심기술확보 노력 결실…조현준 회장 “미래전력망 핵심, 선제 대응” - 인더뉴스",
-   "ts": 1789716032,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wR3JOaXM4NGx2eUxseVlFNUVRUVZ5VDJha0xRTUZDRlFyWEl0VWstZWxFZ1ItaDdGalBEY1JsdkRlLXZCREl2TW1ia3UzXzVtbXNacUlTNXJsV1o5YU5YZjNpaXI?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "0033fde36740424f": 1789729598,
@@ -1054,6 +963,7 @@
   "804fb7c2785bb102": 1789641317,
   "805fff8861021598": 1789627496,
   "8077844e14aad228": 1789702817,
+  "808b2bee119d75ff": 1789741740,
   "808f47b7d9b0aed9": 1789637719,
   "8096faaad0d7f8f1": 1789627496,
   "80d4a93cd8b57c39": 1789697120,
@@ -1938,8 +1848,8 @@
  },
  "companies_today": {},
  "day": "2026-09-18",
- "last_clip": 1789734020,
- "last_msg_poll": 1789741395,
+ "last_clip": 1789741740,
+ "last_msg_poll": 1789741988,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1980,7 +1890,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 23:23 KST",
+  "last_run": "2026-09-18 23:33 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
