@@ -57,9 +57,10 @@ def load_dotenv(path: Path) -> int:
     return loaded
 
 
-HELP = """<b>전력·에너지 뉴스 봇</b>
+HELP = """<b>리서치 봇</b>
 
-기사 링크를 그냥 보내면 번역·요약해서 정리해 드립니다.
+기사 링크를 여기에 넣으면 번역·요약해서 <b>📝 기사 요약</b> 채널에 올립니다.
+(이 방은 링크를 넣는 입력창입니다)
 
 /status — 오늘 발행 수, 큐, 일시정지 상태
 /pause — 자동 발행 중지 (링크 정리는 계속 됨)
@@ -163,7 +164,13 @@ def handle_messages(bot: tg.Telegram, store: Store, sm: Summarizer, cfg: dict) -
         item = {"title": "", "link": url, "source": "", "published": None, "summary": ""}
         rendered, _ = summarize_and_render(sm, item, cfg, mode="ondemand")
         if rendered:
-            bot.send(rendered)
+            # 요약 카드는 전용 채널에 쌓고, DM 은 입력창으로만 쓴다.
+            # 채널을 아직 안 만들었으면(값 없음) 여기 DM 으로 그대로 보낸다 —
+            # 없는 채널을 가리키며 '올렸습니다' 라고 거짓말하지 않기 위해서다.
+            to = "summary" if bot.channels.get("summary") else None
+            bot.send(rendered, channel=to)
+            if to:
+                bot.send("✅ 📝 기사 요약 채널에 올렸습니다.")
             store.mark(url, "")  # 같은 기사가 자동 피드로 또 오지 않게
         else:
             bot.send("❌ 정리 실패. 본문을 못 읽었거나(유료 기사) 모델 호출이 실패했습니다.")

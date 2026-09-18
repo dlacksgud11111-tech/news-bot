@@ -45,10 +45,13 @@ quiet_hours:
 #  채널 배정 — 값은 GitHub Secrets / .env 의 환경변수 이름입니다.
 #  비어 있으면 개인 DM(TELEGRAM_CHAT_ID)으로 떨어집니다.
 # ============================================================
+#  하나의 업무 = 하나의 채널. 개인 DM 은 '링크를 넣는 입력창'과 명령어 응답으로만
+#  씁니다. 채널 주소가 비어 있으면 그 메시지는 DM 으로 떨어집니다.
 channels:
-  alert: TELEGRAM_CHAT_ID_ALERT     # ⚡️ 전력 알람 — 키워드 즉시
-  clip: TELEGRAM_CHAT_ID_CLIP       # 📰 전력 클리핑 — 훑어보기용 목록
-  digest: TELEGRAM_CHAT_ID_DIGEST   # 📋 데일리 다이제스트 — news-clipper 와 공용
+  alert: TELEGRAM_CHAT_ID_ALERT       # ⚡️ 전력 알람 — 키워드 즉시
+  clip: TELEGRAM_CHAT_ID_CLIP         # 📰 시간별 뉴스 클리핑 — 2시간마다 목록
+  weekly: TELEGRAM_CHAT_ID_WEEKLY     # 📋 부동산 위클리 — 금요일 08시 News Flow
+  summary: TELEGRAM_CHAT_ID_SUMMARY   # 📝 기사 요약 — DM 에 링크를 넣으면 여기로
 
 # ============================================================
 #  1) 키워드 알람 — AI를 쓰지 않습니다. 제목만 보고 즉시 보냅니다.
@@ -122,8 +125,7 @@ curation:
 # ============================================================
 weekly:
   enabled: true
-  channel: digest      # 위 channels 중 어디로 보낼지. 전력 클리핑과 섞지 않으려고
-                       # news-clipper 의 데일리 다이제스트 채널로 보냅니다.
+  channel: weekly      # 위 channels 중 어디로 보낼지
   weekday: 5           # ISO 요일. 1=월 … 7=일 → 5는 금요일
   hour: 8              # 이 시각이 지난 첫 실행에 나갑니다 (5분마다 도니 오차 5분)
   count: 8             # 최종 선정 건수

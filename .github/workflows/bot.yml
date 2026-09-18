@@ -37,10 +37,13 @@ jobs:
           # 채널을 만들어 놨어도 GitHub 에서 돌 때는 전부 DM 으로만 갑니다.
           TELEGRAM_CHAT_ID_ALERT: ${{ secrets.TELEGRAM_CHAT_ID_ALERT }}
           TELEGRAM_CHAT_ID_CLIP: ${{ secrets.TELEGRAM_CHAT_ID_CLIP }}
-          TELEGRAM_CHAT_ID_DIGEST: ${{ secrets.TELEGRAM_CHAT_ID_DIGEST }}
-        # --no-messages: 수신 메시지는 worker.yml 이 15초 간격으로 전담한다.
-        # worker 를 끄셨다면 이 옵션을 지워야 링크를 보냈을 때 답이 옵니다.
-        run: python src/main.py --no-messages
+          TELEGRAM_CHAT_ID_WEEKLY: ${{ secrets.TELEGRAM_CHAT_ID_WEEKLY }}
+          TELEGRAM_CHAT_ID_SUMMARY: ${{ secrets.TELEGRAM_CHAT_ID_SUMMARY }}
+        # 이 실행이 수신 메시지까지 처리합니다. 앱스 스크립트가 5분마다 깨우므로
+        # 링크를 넣으면 늦어도 5분 안에 요약이 올라갑니다.
+        # (worker.yml 은 2026-09-18 에 버렸습니다 — GitHub 예약에 맡겨져 있어서
+        #  하루 세 번만 살아 있었고, 그동안 링크에 아무 답이 없었습니다.)
+        run: python src/main.py
 
       - name: Persist state
         run: |
