@@ -74,118 +74,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 6,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Crusoe raises $3.9bn for AI data center build-out",
-   "ts": 1789726973,
-   "u": "https://www.datacenterdynamics.com/en/news/crusoe-raises-39bn-for-ai-data-center-build-out/"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "조세일보",
-   "sc": 18,
-   "sec": "전력기기",
-   "t": "효성중공업, 美빅테크서 변압기 3865억 수주…AI 데이터센터 공략 - 조세일보",
-   "ts": 1789719680,
-   "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtOU5mMjNFTGJuaEhmSFlSTWdOTlJMdUd6X1hpZDhOM0h0NUJpcXhiS3RKVi1sNW9hMjI4ZnhZNUNqMEVrQmJoVURZR29jSnNBVEt4REpSaUlRSkY5b2pz?oc=5"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "한국전력신문",
-   "sc": 14,
-   "sec": "전력기기",
-   "t": "한전-LS ELECTRIC, 배전용 그리드포밍 기술 공동연구 및 글로벌 사업화 협력 - 한국전력신문",
-   "ts": 1789727308,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ncVdfLTVCMFp1SEtuTzRvTElmYlA4R21FalNWcUVFMXVDenlhc0xDY2JITXdoQ0VhdktsQXBrRTZURmdac1NPVllYYXU0eDNVZWtOM2tzUndqQUlWNzcwdDN4UTFDdWJpTVE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Bitdeer AI to lease 65MW data center in Johor, Malaysia",
-   "ts": 1789728360,
-   "u": "https://www.datacenterdynamics.com/en/news/bitdeer-ai-to-lease-65mw-data-center-in-johor-malaysia/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "BESS Industry Buzz: Energy Storage Summit Germany takeaways",
-   "ts": 1789728785,
-   "u": "https://www.energy-storage.news/bess-industry-buzz-energy-storage-summit-germany-takeaways/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 5,
-   "sec": "재생에너지·ESS",
-   "t": "Very low cost rooftop solar slashes domestic energy cost – Part 3: African Countries",
-   "ts": 1789729429,
-   "u": "https://www.pv-magazine.com/2026/09/18/very-low-cost-rooftop-solar-slashes-domestic-energy-cost-part-3-african-countries/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "머니투데이",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "AI·데이터센터 대응 전략 논의..'제3회 전력반도체 지산학 K-포럼' - 머니투데이 - 머니투데이",
-   "ts": 1789725590,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yTmFialNmV3pKdmRta1lzMFNaRGgzLTluVTJpX3ZtSjFOZmRhSFlSclpRSHdQT2phUGIxREhzaFpaN0o3ZTlkV2ZnbmpiU0l0SHdtTjZDWGtSRU5lVVYybmRrVjlJRV94Ynd0YjBDeW1FZ9IBckFVX3lxTE0yTmFialNmV3pKdmRta1lzMFNaRGgzLTluVTJpX3ZtSjFOZmRhSFlSclpRSHdQT2phUGIxREhzaFpaN0o3ZTlkV2ZnbmpiU0l0SHdtTjZDWGtSRU5lVVYybmRrVjlJRV94Ynd0YjBDeW1FZw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "충북도, AI데이터센터 유치 위한 전력공급 기반 마련 협약 - 연합뉴스",
-   "ts": 1789718991,
-   "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44Smt5amZ4WjRuR2RvbzM4cWVSc2ltaVVabjMzOHVTYWl1UmhaUk1QcHJLUXZRaHRQYkFjYnRMVFAyOHpBcldGTTlGSm5rQkxuVHlSUWlwZ0JZUlXSAWBBVV95cUxPbnF0V3puVDdzenE5eXp2Rl9ZR3RVR0J5YmNkZ3o4RHZUa2lOOE5rc2dfZ19iOEtOeFlfVUc1LUphaWhnTjhlTDh5c3BkX0t6bU1XNlRfME5LcW9RWmRJTG0?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 9,
-   "sec": "재생에너지·ESS",
-   "t": "Google, esVolta pilot uses battery storage to ‘time-shift’ renewable energy credits",
-   "ts": 1789731694,
-   "u": "https://www.pv-magazine.com/2026/09/18/google-esvolta-pilot-uses-battery-storage-to-time-shift-renewable-energy-credits/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "도민연합뉴스",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "충북도, 대청댐 수열에너지 특화단지 대규모 AI데이터센터 구축 본격화 - 도민연합뉴스",
-   "ts": 1789719780,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JSl9fMGw5Q1BpQnl4LTZiSjg3eVBkcGxGTFFPNTVMTV9IRm9Ca0NFQldZUkhtWjd3QXk0UG5fUkpjQ0s5WjN5ZHZ5bkJkSWY2YXdodjBFdWdSMWthTkhxQjN3QXlJVkVtcHc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "마켓인",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "“AI가 키운 1조달러 시장”…KIC 뉴욕 포럼서 뜬 '데이터센터 투자' - 마켓인",
-   "ts": 1789718247,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwN182MGJ0a0RQU2JOMC1WLWpNRk54SWxseFZFMlZFMXdiLVNBeDdRR3JuamFDenpqZGZ0QXdhUmhSVzIzLUV3NFhhbHdQMDhCMFVmem0wOTJzVXF1WVF4a1JyakZIejNQTDFkMHpjZkN3dw?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "0033fde36740424f": 1789729598,
@@ -402,6 +291,7 @@
   "1d129d2891ce53cc": 1789695321,
   "1d40ef32f2e496b6": 1789693531,
   "1d54753b6862c19e": 1789695321,
+  "1d55a67b4a7a7fad": 1789734020,
   "1d6d56f739e296c7": 1789630519,
   "1db52b46c6189a95": 1789706118,
   "1df6f6f354229b1e": 1789627496,
@@ -532,6 +422,7 @@
   "2ee4e2cb2ef4c862": 1789627496,
   "2ef7481a81fbd6f1": 1789693814,
   "2f164159ae25cced": 1789719316,
+  "2f375aea9f00a87e": 1789734020,
   "2f7dd365de68ee74": 1789733129,
   "2f810b94c9d325e7": 1789698990,
   "305ff558ffb6c841": 1789652129,
@@ -1898,6 +1789,7 @@
   "fb05622e5d050cb2": 1789629088,
   "fb408b09acdc6727": 1789696217,
   "fb736d694e820235": 1789627496,
+  "fbd7d684c496f697": 1789734020,
   "fbdd390e214ba2de": 1789701321,
   "fc08e53d9a58ee44": 1789645218,
   "fc253918010bdc51": 1789627496,
@@ -1925,8 +1817,8 @@
  },
  "companies_today": {},
  "day": "2026-09-18",
- "last_clip": 1789726695,
- "last_msg_poll": 1789733972,
+ "last_clip": 1789734020,
+ "last_msg_poll": 1789734272,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1967,7 +1859,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-18 21:19 KST",
+  "last_run": "2026-09-18 21:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065790,
