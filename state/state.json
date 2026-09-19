@@ -104,6 +104,16 @@
    "t": "[AINEX 2026] LS전선 “AI 시대 해저광망, 국가 전략 공급망으로 키워야”",
    "ts": 1789858800,
    "u": "https://www.etnews.com/20260919000039"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터, 전력 더 끌어오기보다 '덜 쓰기'로⋯구글·엔비디아 20여개사 연합 - v.daum.net",
+   "ts": 1789860687,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yRm1uX01xM0dyaUVOdGZYZFNTaS1wdkJUQ1lmZHJWRmoxRWlsT0R6SWRGNWJJN19fTGlVQVc3UU4weHhIWFpaU1U0T3pCMjQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -766,6 +776,7 @@
   "502bf28b62e08f52": 1789715428,
   "504d23dd725db9fa": 1789783260,
   "505669e9238ab204": 1789627496,
+  "506a367adfbcc30f": 1789861138,
   "50b8174b10d5a680": 1789631127,
   "50e458d29187c0f5": 1789627496,
   "5112bcb93a0c738e": 1789631127,
@@ -1061,6 +1072,7 @@
   "78b1a7c118dbe5ef": 1789634116,
   "78f4a0bccba75b7f": 1789627496,
   "78f919a80826497e": 1789721730,
+  "7918c3fe7b781119": 1789861138,
   "79578982b1ae5c4d": 1789631415,
   "795d7b50155a79e5": 1789627496,
   "79b7595eafefa82b": 1789729035,
@@ -2109,7 +2121,7 @@
  "companies_today": {},
  "day": "2026-09-20",
  "last_clip": 1789855639,
- "last_msg_poll": 1789860811,
+ "last_msg_poll": 1789861385,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2150,7 +2162,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-20 08:33 KST",
+  "last_run": "2026-09-20 08:43 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
