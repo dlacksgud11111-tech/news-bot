@@ -74,58 +74,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "HD현대일렉트릭",
-   "n": 1,
-   "s": "뉴시스",
-   "sc": 18,
-   "sec": "전력기기",
-   "t": "\"변압기 호황\" HD현대일렉트릭, 유럽 해상풍력서도 기회 잡는다 - 뉴시스",
-   "ts": 1789765200,
-   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fWFJSQ1Ficl9jVHNXNE1DamtiV2U3SXJkSlp2czZaV0E3d0dnTktWV2tNTzhSQlFUcWhYall3V3hQMXNhdkJNTXd1TzVBUkxKcEkzUGZ2TDcxOWhSRWNnNlNVeHV2aEswZm5kNC1LN0ViLXRzZmpSbtIBeEFVX3lxTE1fWFJSQ1Ficl9jVHNXNE1DamtiV2U3SXJkSlp2czZaV0E3d0dnTktWV2tNTzhSQlFUcWhYall3V3hQMXNhdkJNTXd1TzVBUkxKcEkzUGZ2TDcxOWhSRWNnNlNVeHV2aEswZm5kNC1LN0ViLXRzZmpSbg?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "중앙일보",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "미국서 미움받는 AI데이터센터, 호주로 몰렸더니…호주도 비상, 왜 - 중앙일보",
-   "ts": 1789772400,
-   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4YWdTSC1MWDFJZ0tWNVk0WUtUR1dldWstSU9tNmU0dHRzSE5BRGtWSGhvZHNLMnI0S1VwM1pOZ293bzJacWRqLUZ0ODZZam1tcVhCb0RR?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "icnweb.kr",
-   "sc": 14,
-   "sec": "전력기기",
-   "t": "LS일렉트릭-한국전력, 배전망 안정화 위한 ‘그리드포밍’ 기술 공동 개발 - icnweb.kr",
-   "ts": 1789774680,
-   "u": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOQjh0SE9OeDNCb2YwYmZxb2FHZGNLZXIzNndrTm1BRGtQRmdIRUFWWWs2TFA1STUzUmNJVVFQMjNJam9LNEU0SS11UjN5V1VPMmd5aTJlUlVjWUlleXBUQ2R4d0pWLVczY2hMdEFocW5HQ1BDSGVBQm1GeEZaSFBWY1NLZUVLSFNFNmZrQ0FHbnpzTUZ2eTJWbFYzR3habTNhLTBRd2R4bldmNUhoVmxaeHdySktzUlY3SDNSR20wSWVlUTFRSWFlcDhhbDQwVzNQU09NLVdwRzVVeDRBNDNfTzB4VHdfVGNXc0dBSUgycGkzUVllek5TM2pfVy1zTkszY0IyM195Q0Via3FLYXhIWmQ3LWJueG1MZDBOUi10bHFGZ0ZzRXZiOHB5dV9Uc0xtMUpwT3hydzBkc2N1RFE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "광역행정신문",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "「“대청댐 물로 AI서버 식힌다”…충북, 2조3천억 친환경 데이터센터 추진」 - 광역행정신문",
-   "ts": 1789774500,
-   "u": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5tdFBodHBoRlRrQnpPaGVvMzZheW5hSkx6UG5WVXB2YXdGVVRkY0N3U0hzRUxBdlpNdHpfVnZjZjdrZmxL?oc=5"
-  },
-  {
-   "co": "HD현대일렉트릭",
-   "n": 1,
-   "s": "시사저널e",
-   "sc": 22,
-   "sec": "유틸리티·정책",
-   "t": "HD현대일렉트릭 ‘한전 입찰제한’ 소송 장기화···담합 재판 결과 기다린다 - 시사저널e",
-   "ts": 1789718644,
-   "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82WTJKdElIWVZHczRodGJ4a0NJWEhDbl8xdHpOR2tPNXByZms4RERzNkx1RDBPMjBpLWZNM0c0RUYzanFoNFNMaDF2QS1PbF9DS1U4dG1RcV9ndTZhWXNpTFNtWmpqLXhRUWpYXzQwS1VFWVUyUlHSAXZBVV95cUxPNlkySnRJSFlWR3M0aHRieGtDSVhIQ25fMXR6TkdrTzVwcmZrOEREczZMdUQwTzIwaS1mTTNHNEVGM2pxaDRTTGgxdkEtT2xfQ0tVOHRtUXFfZ3U2YVlzaUxTbVpqai14UVFqWF80MEtVRVlVMlJR?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "0033fde36740424f": 1789729598,
@@ -1945,8 +1894,8 @@
  },
  "companies_today": {},
  "day": "2026-09-19",
- "last_clip": 1789768815,
- "last_msg_poll": 1789775986,
+ "last_clip": 1789776030,
+ "last_msg_poll": 1789776272,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1987,7 +1936,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 08:59 KST",
+  "last_run": "2026-09-19 09:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
