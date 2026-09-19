@@ -74,38 +74,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "얼리어답터뉴스",
-   "sc": 4,
-   "sec": "데이터센터·AI전력",
-   "t": "직류(DC) 전환, 선택이 아닌 필연—AI 데이터센터와 태양광이 바꾸는 전력 인프라의 경제학 - 얼리어답터뉴스",
-   "ts": 1789785799,
-   "u": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RdW5LZDlrM09LbkpYbkpQQUZlZl9VVm1VWUNfdE5oVDhUQ0o1RXRmVFN6RHFMc1ZFYzc5cmdXdUowNlROUlo5MTVR?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "UK regulator plans BESS fees to cut grid connection queue",
-   "ts": 1789808400,
-   "u": "https://www.pv-magazine.com/2026/09/19/uk-regulator-plans-bess-fees-to-cut-grid-connection-queue/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴시안",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "[창간 14주년 특별기획Ⅱ –AI 인프라 新전쟁Ⅱ③] 데이터센터 넘어 공급망으로…AI 인프라가 한국의 새 성장판 - 뉴시안",
-   "ts": 1789767810,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qeFlKcTBIcHVUYUpWek5fN1BkS2dXejFiMFFxU2ZKZ09JSFFHdVFFZ1ZhVjAtOVpVWUpBanJucW83ZF95NXJmT1dyTk9YY3BRNU5MTl9JWUsyb3JRSXhwZ3hURlFJQkYweXfSAW5BVV95cUxQX2xzY01JTmpEYWpBbnE1QmN3bnpHckFROVA1RFI3OTc3eFZrVjdyajFRdHNTcklPTUg5X1lheHJuVWtkenNYdGxySmVnaS0xTUNiOTN1Z05neFRlRGRZb2ZJUl9tNGtaY2xlZnVFZw?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "0033fde36740424f": 1789729598,
@@ -2038,8 +2007,8 @@
  },
  "companies_today": {},
  "day": "2026-09-19",
- "last_clip": 1789805726,
- "last_msg_poll": 1789812750,
+ "last_clip": 1789813080,
+ "last_msg_poll": 1789813332,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2080,7 +2049,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 19:12 KST",
+  "last_run": "2026-09-19 19:22 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
