@@ -74,168 +74,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 1,
-   "sec": "건설·플랜트",
-   "t": "[창간축사] 김영태 한국기계설비건설협회 가스공사업협의회 회장",
-   "ts": 1789815424,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228368"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 1,
-   "sec": "재생에너지·ESS",
-   "t": "[창간축사] 오기석 한국천연가스수소차량협회 회장",
-   "ts": 1789815357,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228367"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "충청일보",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "대청댐 수열로 인공지능 데이터센터 전력 부담 낮출 청주 집적단지 구상 - 충청일보",
-   "ts": 1789783031,
-   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCcU1HX0JRdDRrdW9DOUpVYkw4dzJFRU9kNXdIUXZ3UHo4NWxzU2dvRWcxbUhxbGJXakNRNWpVUzZEMEZyb0MxLTVZbWtyZ3BzSTJ4M08wcUpNb2xIbDVMUklUWmF4UjlSY2k1U0xtVDc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 1,
-   "sec": "재생에너지·ESS",
-   "t": "[창간축사] 김재홍 한국수소연합 회장",
-   "ts": 1789816177,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228380"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "[창간축사] 조철희 한국신재생에너지학회 회장",
-   "ts": 1789816142,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228379"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "[창간축사] 정우식 한국재생에너지단체총연합회 사무총장",
-   "ts": 1789816104,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228378"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 2,
-   "sec": "원전",
-   "t": "[창간축사] 최성민 한국원자력학회 회장",
-   "ts": 1789815933,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228376"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 7,
-   "sec": "재생에너지·ESS",
-   "t": "[창간축사] 임완빈 신재생에너지협회 상근부회장",
-   "ts": 1789816449,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228385"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 7,
-   "sec": "재생에너지·ESS",
-   "t": "[창간축사] 성진기 한국풍력산업협회 상근부회장",
-   "ts": 1789816399,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228384"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 5,
-   "sec": "재생에너지·ESS",
-   "t": "[창간축사] 박종환 한국태양광산업협회 회장",
-   "ts": 1789816324,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228383"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 11,
-   "sec": "유틸리티·정책",
-   "t": "[창간축사] 김대한 한국전력공사 전력연구원장",
-   "ts": 1789816685,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228390"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 5,
-   "sec": "유틸리티·정책",
-   "t": "[창간축사] 함흥규 한전산업개발주식회사 대표이사",
-   "ts": 1789816615,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228389"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 6,
-   "sec": "유틸리티·정책",
-   "t": "[창간축사] 박종배 대한전기학회 회장",
-   "ts": 1789816511,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228386"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 2,
-   "sec": "유틸리티·정책",
-   "t": "[창간축사] 홍의락 한국가스공사 사장",
-   "ts": 1789817026,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228397"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "대한청년일보",
-   "sc": 4,
-   "sec": "데이터센터·AI전력",
-   "t": "직류(DC) 전환, 선택이 아닌 필연—AI 데이터센터와 태양광이 바꾸는 전력 인프라의 경제학 - 대한청년일보",
-   "ts": 1789785799,
-   "u": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBva1VTODBDR19OZVNvYmdQY3BHWlpsZ285M1ptWVVPLTNtcVF4T0RiaEZBREk0MUdxN2ZOSi1RWWgxXzg?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "Green hydrogen’s growing share in chemical production",
-   "ts": 1789790400,
-   "u": "https://www.pv-magazine.com/2026/09/19/green-hydrogens-growing-share-in-chemical-production/"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "0033fde36740424f": 1789729598,
@@ -735,6 +574,7 @@
   "3e266a6ce686e3a3": 1789627496,
   "3e2ebe94a7f50f7f": 1789784418,
   "3e3ae8aafb98782f": 1789627496,
+  "3e3fec5f884ab6f2": 1789790714,
   "3e73616ff01de6ea": 1789738816,
   "3e88078ef72e1f17": 1789629088,
   "3eb7a5a7ee77bdb7": 1789629088,
@@ -1385,6 +1225,7 @@
   "9e0be620ffcf9e48": 1789689915,
   "9e76c901b6161168": 1789724119,
   "9ed9f87391f3f49a": 1789721730,
+  "9ef1ffdae874eab1": 1789790714,
   "9ef9434f46ed9d49": 1789627496,
   "9f24a5f5b9920f25": 1789710209,
   "9f98dc58a07d3d8a": 1789726695,
@@ -2129,8 +1970,8 @@
  },
  "companies_today": {},
  "day": "2026-09-19",
- "last_clip": 1789783260,
- "last_msg_poll": 1789790681,
+ "last_clip": 1789790714,
+ "last_msg_poll": 1789790960,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2171,7 +2012,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 13:04 KST",
+  "last_run": "2026-09-19 13:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
