@@ -84,6 +84,16 @@
    "t": "[초대석] 문양택 기후에너지환경부 전력산업정책관···“전력 풍부한 비수도권, 산업용 전기요금 낮춘다”",
    "ts": 1789824600,
    "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228402"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "M이코노미뉴스",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "전력 30% 먹는 데이터센터...수열로 최대 70% 아낀다 - M이코노미뉴스",
+   "ts": 1789793323,
+   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jZDBhWGtEZkN0TTJNNkV1Rzk3UXhlaGp6TlZ0MDYtNVNqdWFFTTZCTWJCYUN1OEJHdzdDMURJSHpqTjJfbE1nQXJqb3pZQlVWMGVyZzB4R0hzc3VMVFljWXhmOFpGZjA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1498,6 +1508,7 @@
   "bddda5b6076665b7": 1789691718,
   "bde8c1de6a295907": 1789637719,
   "bdf384671e5d4b07": 1789705521,
+  "be0abf0fcb918f65": 1789793728,
   "be1ab525966a65d9": 1789627496,
   "be1b59fb32c021e3": 1789689626,
   "be1e94f9d7ec4fc0": 1789629088,
@@ -1986,7 +1997,7 @@
  "companies_today": {},
  "day": "2026-09-19",
  "last_clip": 1789790714,
- "last_msg_poll": 1789793666,
+ "last_msg_poll": 1789793975,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2027,7 +2038,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 13:54 KST",
+  "last_run": "2026-09-19 13:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
