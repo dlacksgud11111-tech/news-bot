@@ -74,7 +74,18 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 0,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "지티티코리아",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "AI 데이터센터 급증에 전력망 신뢰성 우선 73%...실시간 수요관리로 전환 - 지티티코리아",
+   "ts": 1789833600,
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tNDhRcHFLeGhnNEdWVFdhazV3cXBDUG52ZEw0amJSLVduaUNjYmZrS0J3RmxiZklmbGdfNDVzR1FLeWg1SlZlVkVaOVFkaDlYZ3VaT2hTOVZhd3RpWVFnMS1pNG12OTRaZlE?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "0033fde36740424f": 1789729598,
@@ -517,6 +528,7 @@
   "367979b5dea8d110": 1789629088,
   "36aa139c291695eb": 1789693531,
   "36ac6dfa2a3e862f": 1789627496,
+  "36da0a929655d15e": 1789834229,
   "36f2743c21080955": 1789688419,
   "37489c547bab7174": 1789690229,
   "3749c7eb9b97674a": 1789627496,
@@ -2022,7 +2034,7 @@
  "companies_today": {},
  "day": "2026-09-20",
  "last_clip": 1789828325,
- "last_msg_poll": 1789834166,
+ "last_msg_poll": 1789834477,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2063,7 +2075,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-20 01:09 KST",
+  "last_run": "2026-09-20 01:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
