@@ -74,68 +74,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 9,
-   "sec": "전력기기",
-   "t": "German grid operator dispute limits battery use at new solar-storage hybrid plant",
-   "ts": 1789801200,
-   "u": "https://www.pv-magazine.com/2026/09/19/german-grid-operator-dispute-limits-battery-use-at-new-solar-storage-hybrid-plant/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "컨슈머타임스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "한국수자원공사, 대청댐 수열 활용 '친환경 AI 데이터센터 집적단지' 추진 - 컨슈머타임스",
-   "ts": 1789801176,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90VGc4cVRQMndaQ3VhQVBralVJNml1XzVfODNUTUhWM0M4MERiYTJLNUt6X05QV2UyM25MdHlsV1VIcVlNTG5WUVZkSFR1YndzLThybHdabmQxckVmRnpWTHNDSnVnbFlsVkE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "핀포인트뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "조선소에서 데이터센터 만든다…삼성중공업의 ‘FDC 승부수’ - 핀포인트뉴스",
-   "ts": 1789801766,
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1VWFBN2hMZThCcFVHTF9makR3ZzVhcVpzWVpuQjNxNEZOZlNIWTl3aGRrcllSRDVkd3BtUHN3S2l0dmF1d1JoZ3RQYks0SnZZVE90cm03WktQWkR1NV8taGM2d1hxclNxNURhbWVzTEZBNnPSAXdBVV95cUxQV2hja1NYV3JiRGZueFhDZnNzaWZZdjIzLWhzMllNbS1HbHNOaUl6TDR6eGdITW1xbUVIeWhMMHc3Nl84TEJKMFNHRUxfbG1CX3k5UWRaWW1XNDdUekhCeWxQZnRPUHZPYmV5Z3owV2lnUkNmZHVCZw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "충청타임즈",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "충북도, 대청댐 수열에너지단지에 2조3000억 규모 AI데이터센터 추진 - 충청타임즈",
-   "ts": 1789798680,
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yUmZBVVhtVjJVd0JLRHNxQkcyaWc2QkRQM1VNYTlPMFJLSTN3dmR3d0dNMjFiZG5OTGM5MzVpWG9KWGl4MV9NWjYwT0E2WmhTbFA2X3dOY29LUFFCa1l3VTU1X1RDWnBL?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "Solar module imports drop 48% in Brazil in H1",
-   "ts": 1789803000,
-   "u": "https://www.pv-magazine.com/2026/09/19/solar-module-imports-drop-48-in-brazil-in-h1/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Tesla’s $10.1 billion Texas solar gigafactory clears key tax hurdle",
-   "ts": 1789804800,
-   "u": "https://www.pv-magazine.com/2026/09/19/teslas-10-1-billion-texas-solar-gigafactory-clears-key-tax-hurdle/"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "0033fde36740424f": 1789729598,
@@ -2062,8 +2001,8 @@
  },
  "companies_today": {},
  "day": "2026-09-19",
- "last_clip": 1789798257,
- "last_msg_poll": 1789805668,
+ "last_clip": 1789805726,
+ "last_msg_poll": 1789805966,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2104,7 +2043,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 17:14 KST",
+  "last_run": "2026-09-19 17:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
