@@ -124,6 +124,16 @@
    "t": "Solar module imports drop 48% in Brazil in H1",
    "ts": 1789803000,
    "u": "https://www.pv-magazine.com/2026/09/19/solar-module-imports-drop-48-in-brazil-in-h1/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "Tesla’s $10.1 billion Texas solar gigafactory clears key tax hurdle",
+   "ts": 1789804800,
+   "u": "https://www.pv-magazine.com/2026/09/19/teslas-10-1-billion-texas-solar-gigafactory-clears-key-tax-hurdle/"
   }
  ],
  "clip_titles": [],
@@ -660,6 +670,7 @@
   "42e6621670e1ce17": 1789630256,
   "42f78a0d5c429b33": 1789785019,
   "4335dbc6a7c3d683": 1789692920,
+  "435f626e50fd7c5c": 1789805116,
   "4366b4a295198fb3": 1789629315,
   "4385ca3fbb940582": 1789627496,
   "43932a57564931a4": 1789707915,
@@ -831,6 +842,7 @@
   "5b2a863224eb8e2b": 1789720517,
   "5b387427e407f7af": 1789707317,
   "5b47dd83f4cee36b": 1789627496,
+  "5badaa2df94a038f": 1789805116,
   "5c3ceb41f8d900a8": 1789627496,
   "5c4b456a2c662ce0": 1789734932,
   "5c4dc2360ec368a9": 1789686930,
@@ -2033,6 +2045,7 @@
   "fd47eabcfae9ea13": 1789697120,
   "fd5be5e017e6e3a5": 1789714817,
   "fdcdb1437c1741ac": 1789684520,
+  "fdfde46208e73426": 1789805116,
   "fe02d534697aa903": 1789627496,
   "fe36aebd89cc2470": 1789712512,
   "fead65220fac4cb8": 1789627496,
@@ -2050,7 +2063,7 @@
  "companies_today": {},
  "day": "2026-09-19",
  "last_clip": 1789798257,
- "last_msg_poll": 1789805076,
+ "last_msg_poll": 1789805363,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2091,7 +2104,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 17:04 KST",
+  "last_run": "2026-09-19 17:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
