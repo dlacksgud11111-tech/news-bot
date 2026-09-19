@@ -74,38 +74,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "미주중앙일보",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "미국서 미움받는 AI데이터센터, 호주로 몰렸더니…호주도 비상, 왜 - 미주중앙일보",
-   "ts": 1789772400,
-   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fVjJFTXA3d0d3eGRIb3RqZExVdmhaRENoSnFZWDBETmFsV0UtZ1Q2UkdoN0t5akNsOFdyMU5qb3FwTkVHLXBuMEEtNl9mc191emdVTElpa2V5b0NfbE5hVmln?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "토큰포스트",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "미국인 65% AI 데이터센터 반대…전기·물 사용 우려 - 토큰포스트",
-   "ts": 1789779748,
-   "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sSEJWOFA5LUd5T2pxX0QyempLOGx3US1Va3NRaFlpX3h5bEo0bDRPVXZ3b25SN0VDX0l4M05OS1kxRFdNcDRhOHlSdmNiZVI4?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 1,
-   "sec": "건설·플랜트",
-   "t": "[창간축사] 윤기주 한국열관리시공협회 회장",
-   "ts": 1789814504,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228357"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "0033fde36740424f": 1789729598,
@@ -302,6 +271,7 @@
   "19b893164ed45b66": 1789627496,
   "19d472a5181b98e0": 1789695321,
   "19da277d9929da26": 1789693531,
+  "1a08a72bd2eef8ae": 1789783260,
   "1a41ddbb63b0ce32": 1789693531,
   "1a47e5fa4b9db80b": 1789646718,
   "1a5d357f80ce115b": 1789697120,
@@ -356,6 +326,7 @@
   "2085c7d58b1a247c": 1789627496,
   "20aa0052587b909f": 1789693531,
   "20b8f0402b19c67c": 1789695321,
+  "20cd111fedee5e86": 1789783260,
   "2101a0081ca703ea": 1789639217,
   "2116a3f05b5712d5": 1789731618,
   "211b9f92b8cc8c8a": 1789627496,
@@ -430,6 +401,7 @@
   "2989f199ffcd62f6": 1789775168,
   "29920d2e2a1aae43": 1789627496,
   "2a030a86064d1774": 1789738532,
+  "2a928ff9e0ffbda3": 1789783260,
   "2aa08541ed3d244d": 1789673419,
   "2acc50ff2fd955f2": 1789627496,
   "2b0287f3d9a0dd71": 1789705521,
@@ -704,6 +676,7 @@
   "5005b49b3ccd18a1": 1789627496,
   "50252fdab47936d9": 1789694131,
   "502bf28b62e08f52": 1789715428,
+  "504d23dd725db9fa": 1789783260,
   "505669e9238ab204": 1789627496,
   "50b8174b10d5a680": 1789631127,
   "50e458d29187c0f5": 1789627496,
@@ -1885,6 +1858,7 @@
   "f650fce28ae4ecb8": 1789627496,
   "f65777b4585734bc": 1789776316,
   "f664eeda57eaef53": 1789729598,
+  "f6807e8fa6cd8ded": 1789783260,
   "f6caf6929a73c447": 1789782685,
   "f6e8db16f44a6251": 1789627496,
   "f710e639d372adfb": 1789765932,
@@ -1948,8 +1922,8 @@
  },
  "companies_today": {},
  "day": "2026-09-19",
- "last_clip": 1789776030,
- "last_msg_poll": 1789782935,
+ "last_clip": 1789783260,
+ "last_msg_poll": 1789783501,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1990,7 +1964,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 10:55 KST",
+  "last_run": "2026-09-19 11:05 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
