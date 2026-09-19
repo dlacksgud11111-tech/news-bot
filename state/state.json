@@ -84,6 +84,16 @@
    "t": "직류(DC) 전환, 선택이 아닌 필연—AI 데이터센터와 태양광이 바꾸는 전력 인프라의 경제학 - 얼리어답터뉴스",
    "ts": 1789785799,
    "u": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RdW5LZDlrM09LbkpYbkpQQUZlZl9VVm1VWUNfdE5oVDhUQ0o1RXRmVFN6RHFMc1ZFYzc5cmdXdUowNlROUlo5MTVR?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "UK regulator plans BESS fees to cut grid connection queue",
+   "ts": 1789808400,
+   "u": "https://www.pv-magazine.com/2026/09/19/uk-regulator-plans-bess-fees-to-cut-grid-connection-queue/"
   }
  ],
  "clip_titles": [],
@@ -2004,6 +2014,7 @@
   "fead65220fac4cb8": 1789627496,
   "feb7c72d95d12768": 1789656017,
   "fee05038a61a095f": 1789700729,
+  "fef19e4a141d0d59": 1789808455,
   "ff05432b996fa423": 1789636217,
   "ff315905d4cbd1ea": 1789691349,
   "ff42fff2cf9857d9": 1789683319,
@@ -2016,7 +2027,7 @@
  "companies_today": {},
  "day": "2026-09-19",
  "last_clip": 1789805726,
- "last_msg_poll": 1789808365,
+ "last_msg_poll": 1789808703,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2057,7 +2068,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 17:59 KST",
+  "last_run": "2026-09-19 18:05 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
