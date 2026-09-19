@@ -74,7 +74,18 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 0,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "대한청년일보",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "스페이스X, AI 전력 확보전 - 대한청년일보",
+   "ts": 1789821897,
+   "u": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1mZFNpVTFUTmtfc2dpSEl1bEFCUnBPamFtODJUek02X1ZrREdlemdGWDMzRTAwOVp2LU9PdVBFZk40WEE?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "0033fde36740424f": 1789729598,
@@ -1406,6 +1417,7 @@
   "b135529aa4cc681e": 1789765932,
   "b1385cf4f7fbab47": 1789630519,
   "b1401b215badbaea": 1789736719,
+  "b147853a068e6f3d": 1789822514,
   "b1689f513be93d1b": 1789705521,
   "b1806b75e6e37592": 1789683939,
   "b1873a2e62a09f9c": 1789627496,
@@ -2012,7 +2024,7 @@
  "companies_today": {},
  "day": "2026-09-19",
  "last_clip": 1789813080,
- "last_msg_poll": 1789822462,
+ "last_msg_poll": 1789822763,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2053,7 +2065,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 21:54 KST",
+  "last_run": "2026-09-19 21:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
