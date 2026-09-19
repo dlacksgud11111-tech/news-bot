@@ -84,6 +84,16 @@
    "t": "AI 데이터센터 급증에 전력망 신뢰성 우선 73%...실시간 수요관리로 전환 - 지티티코리아",
    "ts": 1789833600,
    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tNDhRcHFLeGhnNEdWVFdhazV3cXBDUG52ZEw0amJSLVduaUNjYmZrS0J3RmxiZklmbGdfNDVzR1FLeWg1SlZlVkVaOVFkaDlYZ3VaT2hTOVZhd3RpWVFnMS1pNG12OTRaZlE?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "g-enews.com",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "\"테슬라 제치고 데이터센터가 효자\"… 파나소닉, AI 백업 배터리 매출 EV 역전 - g-enews.com",
+   "ts": 1789853700,
+   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMXBNU1dKUGVYa3MwcU5lNG96eTBhdnJYOERZRnIxVU1uWGVNZjdNREp3UXl5OGNvbE5Cck5yNVJuWkFWc0psQVpTQUtDS2dtWmw0SzhsdU0tbDUwYTNtWnlfaGJ5MzQ0b0hwdW9DT2ZLMFBjWDZJUEVsVThXVXIyeEw2WlNfVkY2?oc=5"
   }
  ],
  "clip_titles": [],
@@ -711,6 +721,7 @@
   "4d4e59ce52cfa8d1": 1789627496,
   "4d795190d8080597": 1789630519,
   "4daf173299cb9cfe": 1789627496,
+  "4db2a3c1137e78af": 1789853948,
   "4dd272e1d3bda7c4": 1789627496,
   "4e1534393e8c2272": 1789707915,
   "4e23888217cc671e": 1789651818,
@@ -1778,6 +1789,7 @@
   "db9de21f163f6baa": 1789644321,
   "dbcfd521805eed15": 1789627496,
   "dc0104fce3a0c7e6": 1789655729,
+  "dc5c17d8a8875d1d": 1789853948,
   "dc658a90d2730a00": 1789769417,
   "dc9e867a15f6bb7a": 1789697120,
   "dcab20be85b3fde7": 1789709642,
@@ -2060,7 +2072,7 @@
  "companies_today": {},
  "day": "2026-09-20",
  "last_clip": 1789828325,
- "last_msg_poll": 1789853635,
+ "last_msg_poll": 1789854188,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2101,7 +2113,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-20 06:33 KST",
+  "last_run": "2026-09-20 06:43 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
