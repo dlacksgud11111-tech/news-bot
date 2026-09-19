@@ -94,6 +94,26 @@
    "t": "전력 30% 먹는 데이터센터...수열로 최대 70% 아낀다 - M이코노미뉴스",
    "ts": 1789793323,
    "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jZDBhWGtEZkN0TTJNNkV1Rzk3UXhlaGp6TlZ0MDYtNVNqdWFFTTZCTWJCYUN1OEJHdzdDMURJSHpqTjJfbE1nQXJqb3pZQlVWMGVyZzB4R0hzc3VMVFljWXhmOFpGZjA?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "생생비즈플러스",
+   "sc": 4,
+   "sec": "전력기기",
+   "t": "효성, 초고압직류송전 시장서 '두각'...조현준 회장 \"5년 안에 글로벌 톱3로\" - 생생비즈플러스",
+   "ts": 1789793773,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDcVlHcURHTlF2OUZ2TWF2QS1tVE5kSVFCSW5ZUXJ5VG5xWndoc3paX2FsVm16RGMyLVRVZlhMOFBtMGpvVlFzcEYwRkF2TXVCR1U5WGRrNXJyMnJRa0hjcU9QVVIwV0FzYXBocA?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "파이낸셜포스트",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "조현준 효성그룹 회장의 기술경영…美 AI 전력망 정조준 - 파이낸셜포스트",
+   "ts": 1789793374,
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlZlBCLTI4Vm9tNGk0TEdvUW5KdTFlLTdBeU5hOGhSNThnTkFDSXpQX3NsRWUyaXJKbDF2SDl4U2o1WTUxdW1UUXlrQ25SS2lnRmdTcnBmNjV5MWVkWU5ZTld0T3BVbTVpdnhmUG9LQnFOUU15?oc=5"
   }
  ],
  "clip_titles": [],
@@ -535,6 +555,7 @@
   "37489c547bab7174": 1789690229,
   "3749c7eb9b97674a": 1789627496,
   "3776f13ec3dc28dd": 1789708498,
+  "37b4c100ebcf252a": 1789794287,
   "3832ac28b8d541da": 1789695321,
   "3839776569143fb1": 1789632918,
   "384e7bbaa018404f": 1789627496,
@@ -611,6 +632,7 @@
   "3f1aaeb291917d0b": 1789691116,
   "3f5eb02d2f60a79c": 1789714524,
   "3f7ad0ce3bb17e87": 1789718720,
+  "3f9b7d18124de3ab": 1789794287,
   "3fdd7157a4c729c4": 1789679129,
   "40164707e5b4b486": 1789627496,
   "4034987bfad9748f": 1789629088,
@@ -1179,6 +1201,7 @@
   "9298af22c3c21b89": 1789629088,
   "92a4c31c11ca31c5": 1789693531,
   "92df3c0aa4930746": 1789634116,
+  "936b9c4b53656900": 1789794287,
   "937ee1be9ceae73e": 1789713633,
   "93afa437ca5523b5": 1789689626,
   "93b1856a8108daa6": 1789627496,
@@ -1224,6 +1247,7 @@
   "9acdb86561cc6027": 1789634416,
   "9af168f2b3ef862e": 1789724119,
   "9b09bbda41e4de3b": 1789693220,
+  "9b128fda44270363": 1789794287,
   "9b18c355c0374b06": 1789627496,
   "9b63c189a413dcb5": 1789637719,
   "9b9f0d40bc6a4fc7": 1789693531,
@@ -1759,6 +1783,7 @@
   "e1689c027cebf02d": 1789689626,
   "e16a653b627d278d": 1789698990,
   "e1baf44a263120b6": 1789627496,
+  "e1c94f5a4a4740f6": 1789794287,
   "e2124e0bc09d0647": 1789745154,
   "e219c43b80528d63": 1789627496,
   "e21c2a90824b1bde": 1789715716,
@@ -1770,6 +1795,7 @@
   "e272007995c39d5c": 1789715119,
   "e29c77b9e67eff8a": 1789695321,
   "e2b913ba1fa389ee": 1789709072,
+  "e2be54b841849724": 1789794287,
   "e311200e70275275": 1789784117,
   "e319b78946e2c1c3": 1789627496,
   "e33dd648f953a984": 1789627496,
@@ -1997,7 +2023,7 @@
  "companies_today": {},
  "day": "2026-09-19",
  "last_clip": 1789790714,
- "last_msg_poll": 1789793975,
+ "last_msg_poll": 1789794535,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2038,7 +2064,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 13:59 KST",
+  "last_run": "2026-09-19 14:08 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
