@@ -84,6 +84,16 @@
    "t": "스페이스X, AI 전력 확보전 - 대한청년일보",
    "ts": 1789821897,
    "u": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1mZFNpVTFUTmtfc2dpSEl1bEFCUnBPamFtODJUek02X1ZrREdlemdGWDMzRTAwOVp2LU9PdVBFZk40WEE?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "tokenpost.kr",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터 보험료 2030년 242억달러 전망 - tokenpost.kr",
+   "ts": 1789823366,
+   "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EbTZLNUdqZnU0cktaZGNNRFhLZnVpN0dDRHczUXBtRFhEQUdxN1dqa25MNHBZRmJLZ0pIcjJlN1RaakZadmI2SUtGYmtSRk1R?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1852,6 +1862,7 @@
   "e95b37d8b8eae3e1": 1789691718,
   "e9a0453abdc9d0a0": 1789629088,
   "e9d860e78e57de86": 1789717533,
+  "e9d9f7423abe5895": 1789824289,
   "e9e5227444201b9c": 1789629088,
   "ea28303f44ee7b00": 1789748116,
   "ea9a3a2336468efa": 1789632918,
@@ -2024,7 +2035,7 @@
  "companies_today": {},
  "day": "2026-09-19",
  "last_clip": 1789813080,
- "last_msg_poll": 1789823965,
+ "last_msg_poll": 1789824536,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2065,7 +2076,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 22:19 KST",
+  "last_run": "2026-09-19 22:28 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
