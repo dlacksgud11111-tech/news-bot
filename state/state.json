@@ -74,7 +74,18 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 0,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 9,
+   "sec": "전력기기",
+   "t": "German grid operator dispute limits battery use at new solar-storage hybrid plant",
+   "ts": 1789801200,
+   "u": "https://www.pv-magazine.com/2026/09/19/german-grid-operator-dispute-limits-battery-use-at-new-solar-storage-hybrid-plant/"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "0033fde36740424f": 1789729598,
@@ -1512,6 +1523,7 @@
   "bed14a10033e669c": 1789627496,
   "bf34c04d618072e3": 1789714817,
   "bf4aea1fd5d2f47e": 1789627496,
+  "bf694a4b9d9d9133": 1789801516,
   "bf83a25d8879ffea": 1789712512,
   "bfb528f17e15cef4": 1789627496,
   "c00adeab68e2f372": 1789716319,
@@ -1882,6 +1894,7 @@
   "f0d4ea69049a63a3": 1789718720,
   "f0f4c6d469d52974": 1789697120,
   "f115b86b84002f6e": 1789695321,
+  "f13de6ed59d54f0a": 1789801516,
   "f169b74c6e4864c8": 1789627496,
   "f17ef42c64168859": 1789691349,
   "f199ae83098968f1": 1789627496,
@@ -1993,7 +2006,7 @@
  "companies_today": {},
  "day": "2026-09-19",
  "last_clip": 1789798257,
- "last_msg_poll": 1789801472,
+ "last_msg_poll": 1789801763,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2034,7 +2047,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 16:04 KST",
+  "last_run": "2026-09-19 16:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
