@@ -114,6 +114,16 @@
    "t": "조현준 효성그룹 회장의 기술경영…美 AI 전력망 정조준 - 파이낸셜포스트",
    "ts": 1789793374,
    "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlZlBCLTI4Vm9tNGk0TEdvUW5KdTFlLTdBeU5hOGhSNThnTkFDSXpQX3NsRWUyaXJKbDF2SDl4U2o1WTUxdW1UUXlrQ25SS2lnRmdTcnBmNjV5MWVkWU5ZTld0T3BVbTVpdnhmUG9LQnFOUU15?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "zdnet.co.kr",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "[안광섭 AI 진테제] AI 데이터센터 본질...복잡한 4각 함수 - zdnet.co.kr",
+   "ts": 1789794414,
+   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jZFR1ek5Ub2c2dlhKTHhkZUpuN0E3M0RoSjhLb1BWTzUwVzBORHRfQ05jbGFoeFAyXzFiT0RGcGwtLXRNdDRmZW9Hd00zWnBjNUtFeFZB?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1897,6 +1907,7 @@
   "ee7d04d0099b25b0": 1789638920,
   "eed13029ced1d3b0": 1789635918,
   "eefb42375dc288d2": 1789692619,
+  "eefcafe36180fbc9": 1789794855,
   "ef2daef2865da6e7": 1789627496,
   "ef3a5bdbe4a4e2bd": 1789627496,
   "ef4b49e429409980": 1789627496,
@@ -2023,7 +2034,7 @@
  "companies_today": {},
  "day": "2026-09-19",
  "last_clip": 1789790714,
- "last_msg_poll": 1789794535,
+ "last_msg_poll": 1789795105,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2064,7 +2075,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 14:08 KST",
+  "last_run": "2026-09-19 14:18 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
