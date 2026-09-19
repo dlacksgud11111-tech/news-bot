@@ -84,6 +84,16 @@
    "t": "미국서 미움받는 AI데이터센터, 호주로 몰렸더니…호주도 비상, 왜 - 미주중앙일보",
    "ts": 1789772400,
    "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fVjJFTXA3d0d3eGRIb3RqZExVdmhaRENoSnFZWDBETmFsV0UtZ1Q2UkdoN0t5akNsOFdyMU5qb3FwTkVHLXBuMEEtNl9mc191emdVTElpa2V5b0NfbE5hVmln?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "토큰포스트",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "미국인 65% AI 데이터센터 반대…전기·물 사용 우려 - 토큰포스트",
+   "ts": 1789779748,
+   "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sSEJWOFA5LUd5T2pxX0QyempLOGx3US1Va3NRaFlpX3h5bEo0bDRPVXZ3b25SN0VDX0l4M05OS1kxRFdNcDRhOHlSdmNiZVI4?oc=5"
   }
  ],
  "clip_titles": [],
@@ -492,6 +502,7 @@
   "351183c561736ef7": 1789627496,
   "356ebad5b0123067": 1789627496,
   "3580e1a522845a1c": 1789695321,
+  "359cd637e047f639": 1789780383,
   "35cf3e90daedb4aa": 1789691718,
   "35d90e32ed125cc1": 1789707615,
   "361dcef4a6bf65d7": 1789627496,
@@ -998,6 +1009,7 @@
   "7fc10ca25a7fa3c6": 1789649116,
   "7fd4de919af83536": 1789705521,
   "7ff88c70b104a116": 1789629088,
+  "7ffacbbb98c8526c": 1789780383,
   "80156503d4fdbafe": 1789627496,
   "803dc3abf693b36a": 1789627496,
   "804228dd736d055f": 1789679129,
@@ -1913,7 +1925,7 @@
  "companies_today": {},
  "day": "2026-09-19",
  "last_clip": 1789776030,
- "last_msg_poll": 1789780066,
+ "last_msg_poll": 1789780630,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -1954,7 +1966,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 10:07 KST",
+  "last_run": "2026-09-19 10:17 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
