@@ -84,6 +84,16 @@
    "t": "German grid operator dispute limits battery use at new solar-storage hybrid plant",
    "ts": 1789801200,
    "u": "https://www.pv-magazine.com/2026/09/19/german-grid-operator-dispute-limits-battery-use-at-new-solar-storage-hybrid-plant/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "컨슈머타임스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "한국수자원공사, 대청댐 수열 활용 '친환경 AI 데이터센터 집적단지' 추진 - 컨슈머타임스",
+   "ts": 1789801176,
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90VGc4cVRQMndaQ3VhQVBralVJNml1XzVfODNUTUhWM0M4MERiYTJLNUt6X05QV2UyM25MdHlsV1VIcVlNTG5WUVZkSFR1YndzLThybHdabmQxckVmRnpWTHNDSnVnbFlsVkE?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1309,6 +1319,7 @@
   "a5aacbc42a1bcf55": 1789638052,
   "a5bef8c64e4df41a": 1789685428,
   "a60c0e49cb633f2f": 1789627496,
+  "a648cce34289d9a2": 1789802414,
   "a666d79040b610bf": 1789627496,
   "a6948e01fd51c57f": 1789715119,
   "a6ae9b128c19489e": 1789724119,
@@ -2006,7 +2017,7 @@
  "companies_today": {},
  "day": "2026-09-19",
  "last_clip": 1789798257,
- "last_msg_poll": 1789802370,
+ "last_msg_poll": 1789802665,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2047,7 +2058,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 16:19 KST",
+  "last_run": "2026-09-19 16:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
