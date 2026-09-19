@@ -214,6 +214,16 @@
    "t": "[창간축사] 홍의락 한국가스공사 사장",
    "ts": 1789817026,
    "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228397"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "대한청년일보",
+   "sc": 4,
+   "sec": "데이터센터·AI전력",
+   "t": "직류(DC) 전환, 선택이 아닌 필연—AI 데이터센터와 태양광이 바꾸는 전력 인프라의 경제학 - 대한청년일보",
+   "ts": 1789785799,
+   "u": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBva1VTODBDR19OZVNvYmdQY3BHWlpsZ285M1ptWVVPLTNtcVF4T0RiaEZBREk0MUdxN2ZOSi1RWWgxXzg?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1180,6 +1190,7 @@
   "82151272ed611c75": 1789631415,
   "8224666e3837ddcb": 1789627496,
   "822de6d632f8e0eb": 1789701029,
+  "823411ff4a74d392": 1789786534,
   "824a9350c40afac5": 1789684816,
   "8262fbcbfa91e115": 1789687812,
   "8273ad1a1fad785b": 1789627496,
@@ -2100,7 +2111,7 @@
  "companies_today": {},
  "day": "2026-09-19",
  "last_clip": 1789783260,
- "last_msg_poll": 1789786463,
+ "last_msg_poll": 1789786784,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2141,7 +2152,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-19 11:54 KST",
+  "last_run": "2026-09-19 11:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
