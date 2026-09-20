@@ -99,6 +99,16 @@
    "t": "데이터센터 200곳 몰린 美지역, 1.8조원 세수에도 \"이제 그만\" 왜? - 한국일보",
    "ts": 1789932600,
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0RlktNG1pdURJcGZmTjltWlpISS1JUEJKcGllOVo4T1JGczJJb1d1dFFuZU5LckJaakZEbk9hdkVNNkE2R1VfLWd1cGZvX09YVWpPMl8wbmN6dldSWVdPWHBZbERpVVRCNktOalVR0gFzQVVfeXFMUFFFTmVERXdQczhtR2ZwbUtzcmpidHhyXzBOUF82TUQwam9ZOURNTjBKbTh4Uk5iS2MyYlBQb0FkZ1YyVjRXVkczU0YzZHZYU0VjSXF3enplVm9WdzVMbjNxTGxTTW9NdDN2WDMyOTZtSnd4UQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "supple.kr",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "GS, AI 데이터센터 병목 스타트업으로 푼다 [상생경영] - supple.kr",
+   "ts": 1789934400,
+   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tRHdYbHhyRzlxbzRJZUdwQUJGMW81bEFNRWJ2VGNRQm81elE4UUJOVlVLdWxhUnZfcUhIYlB5cDVvUGtMSFFaVHhDS1ZlRjV0ODJoc0g3OTZWWGs1?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2028,6 +2038,7 @@
   "d6318335742f6eaa": 1789627496,
   "d641fe517b813ed1": 1789662917,
   "d643fba2ea75465d": 1789627496,
+  "d64a39634f0a1b01": 1789935268,
   "d6ad35236fb8348d": 1789699582,
   "d6ae15ca1e80a423": 1789718720,
   "d707ad713215cfaf": 1789870063,
@@ -2396,7 +2407,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789919867,
- "last_msg_poll": 1789934930,
+ "last_msg_poll": 1789935519,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2437,7 +2448,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 05:08 KST",
+  "last_run": "2026-09-21 05:18 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
