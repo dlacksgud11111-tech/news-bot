@@ -74,68 +74,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 2,
-   "s": "더게이트",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "“전력 30% 줄이고 180초 만에 냉방 100%”…LG전자, AI 데이터센터 칠러 출시 - 더게이트",
-   "ts": 1789868763,
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iZnpmdmJVcTB5X25YUUxVMDQ5c2JzaXNaMnZuMXBwVmprVC1Jek1Zb29WeWloRDF1anFJVkF3ZWFDRWpOeDJnWUFOUTVjUlRHUmhHM1ZLdXBuYzNUM2RtLTFubjQ1cEtK0gFsQVVfeXFMUHEtb3RjTjVDcWRiM3NtcWlvUG13bzkwM0xiYTVhb0Y2dWs0Z1BEaHhvR1ZmOWc0VEZqeWtBVUhDcmY2SmRqcUhxRXV4ZjFoaTk5aE5LWHNkdnNadEtCcjlDY0tZaEFYT1RtYmF0?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 4,
-   "sec": "전력기기",
-   "t": "[신간]“전력은 경제 안보”…반도체 공장은 1.5년, 전선은 10년",
-   "ts": 1789887600,
-   "u": "https://www.etnews.com/20260920000053"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "대전일보",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "대청댐 수열로 AI 데이터센터 냉각…청주에 집적단지 추진 - 대전일보",
-   "ts": 1789884660,
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlR3B6Y0NoUW9qWFdmZ0VRR2RLcU82OWpySTRYQ2VsMjlOdjRHM0czT2IySG42ZnFBOVJTT1o3UGgtY00zRmEzTktUdHdfNmVYNVh5a09nSlp0dnI4WktzWklmd2hOa3QwX0RZVTFya9IBc0FVX3lxTE92cldSZHJZWnBxa09HeHlqVHprbVRJUU5lbFVtbzhURVVHdmp0YzJsODhQZlIyN2d2T21iZlBKRm95bXdLbmFQV2dwd2xIRTlsLWpaUTN0anhOZmNnaWZySmxVdjJ0RVBnd3d1ZFJvU1Jjbjg?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "핀포인트뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터 늘자 발전소도 바빠졌다…나노, 대기오염 잡는다 - 핀포인트뉴스",
-   "ts": 1789889413,
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rNFNfSXQ0cklLNlk4ZFVYN0hnWGhiR2lDRnFPX3ZIUFNCcWY3a3ZlMHBZelg5ZUFTcXFneVYxMkRxZXktZXVzMW5UeTVOdkh2SUk1Q3E3aEx2ZU5qM3VyWkUtNFc4cG5LYXFiQzFVWWVNSkHSAXdBVV95cUxOUU1UdXlHVzU2YW1NUExWdWJraGpvenVJcUFOZENRZVRDcFJhbEYzRm9JX0ZYN0lac2pfUHdVSGZkZl9YdTlEZ1pPVl84QlR4bERQdk9aeGRFQm01bFV3NXdOYmp5MGEzWWo4d2hnc01EbUp1Ujc1dw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "속보 - 이티뉴스",
-   "sc": 3,
-   "sec": "데이터센터·AI전력",
-   "t": "[창간특집 인터뷰] 김성환 기후부 장관 “AI 시대, 전력수요 3배 가까이 늘 수도…'탈탄소 AI 강국' 만든다”",
-   "ts": 1789891200,
-   "u": "https://www.etnews.com/20260915000078"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터, 전력 더 끌어오기보다 '덜 쓰기'로⋯구글·엔비디아 20여개사 연합 - v.daum.net",
-   "ts": 1789860687,
-   "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XdU5qaFAySFFYYTY4Ulh5a1FlbmpJZ1R6eWpLel9KcVJrdXF6YTRBS1RIbkY1empSMFNUcGsyT2xIeTNjaS1nNElMUQ?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "001fd9cb95168f6f": 1789868904,
@@ -2382,8 +2321,8 @@
  },
  "companies_today": {},
  "day": "2026-09-20",
- "last_clip": 1789885788,
- "last_msg_poll": 1789892963,
+ "last_clip": 1789893027,
+ "last_msg_poll": 1789893276,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2424,7 +2363,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-20 17:29 KST",
+  "last_run": "2026-09-20 17:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
