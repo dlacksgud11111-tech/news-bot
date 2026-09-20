@@ -84,6 +84,16 @@
    "t": "‘칠러 매출 1조’ 앞당긴다…LG전자, AI 데이터센터 냉각 승부 - 메트로신문",
    "ts": 1789876874,
    "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05RHZpQzFFbEtxNzFuSnFrYUxRZS11UnNxNFRJVmRTWnJZNzZHcEJibFdQaUdZZV9mSTdocGoxNjRsQ0oyNHJlM05qYVpwQVUwQnJyVDIzajVYcjdkOUhJRw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "cwn.kr",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, 'AI 데이터센터 전용 터보 칠러'로 전력소비 30% 절감…기계적 마찰 대폭 줄였다 - cwn.kr",
+   "ts": 1789874623,
+   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TSzFjNVY5eVNuUWY0bHhlRXBYT01pcnRkUk02TGtlT0NsUjJhXzJHeFBkNFJZSjUzS0ltd0RxR1FtcFVnMFYwZ0RDTmNqMnpJWmZoSzk5WVhLME1TeWlvaDJ3?oc=5"
   }
  ],
  "clip_titles": [],
@@ -324,6 +334,7 @@
   "19b893164ed45b66": 1789627496,
   "19d472a5181b98e0": 1789695321,
   "19da277d9929da26": 1789693531,
+  "19ff3de6628a9f21": 1789879816,
   "1a023d8b4239b584": 1789784117,
   "1a08a72bd2eef8ae": 1789783260,
   "1a41ddbb63b0ce32": 1789693531,
@@ -2279,7 +2290,7 @@
  "companies_today": {},
  "day": "2026-09-20",
  "last_clip": 1789878021,
- "last_msg_poll": 1789879771,
+ "last_msg_poll": 1789880064,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2320,7 +2331,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-20 13:49 KST",
+  "last_run": "2026-09-20 13:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
