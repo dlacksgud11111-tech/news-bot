@@ -94,6 +94,16 @@
    "t": "LG전자, 'AI 데이터센터 전용 터보 칠러'로 전력소비 30% 절감…기계적 마찰 대폭 줄였다 - cwn.kr",
    "ts": 1789874623,
    "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TSzFjNVY5eVNuUWY0bHhlRXBYT01pcnRkUk02TGtlT0NsUjJhXzJHeFBkNFJZSjUzS0ltd0RxR1FtcFVnMFYwZ0RDTmNqMnpJWmZoSzk5WVhLME1TeWlvaDJ3?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "메트로신문",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "대청댐 물로 AI 데이터센터 열 식힌다… 수자원공사, 친환경 수열 집적단지 구축 '잰걸음' - 메트로신문",
+   "ts": 1789878908,
+   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PdmFiUWNxdlBuWWN3QlY3andzNVZJTmlIUjV4M0NLa3c4UDJFb05WUHZkQmNsY1kyZE80cDk4TXg3bTRTS0hrWkdGLWdwRzRtdkNxVC1PMHpab3k3UnBSRw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1269,6 +1279,7 @@
   "8768438c78d292d2": 1789631127,
   "8792afb3aa502908": 1789705221,
   "882658e9d9292998": 1789649116,
+  "8860ef4f72589fc9": 1789881017,
   "886e86cef88c0807": 1789726134,
   "88e10b8a674c63ba": 1789708498,
   "88e24d4ff5526ec3": 1789647027,
@@ -2292,7 +2303,7 @@
  "companies_today": {},
  "day": "2026-09-20",
  "last_clip": 1789878021,
- "last_msg_poll": 1789880973,
+ "last_msg_poll": 1789881266,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2333,7 +2344,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-20 14:09 KST",
+  "last_run": "2026-09-20 14:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
