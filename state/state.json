@@ -114,6 +114,16 @@
    "t": "전력망 찜해놓고 방치 … 유령사업자 80% 퇴출",
    "ts": 1789894194,
    "u": "https://www.mk.co.kr/news/economy/12157614"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴뉴스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "GS, AI 데이터센터 인프라 넘어 '기술 생태계 키운다...스타트업과 협력 확대 - 뉴뉴스",
+   "ts": 1789894179,
+   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkYlVFc2VFR1lGeUtLZXYyR3pCMWtNY29QanJZVGVYajlOcElJeG1YZ1FSQmxUYWtnQTQ3UzFwNVd4a1dkdkdIYW1EQXFrZUtEdnlpZ1BmQS1tWHllZUVPYi1VV01jdw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2163,6 +2173,7 @@
   "e7c6d843e50e0021": 1789689020,
   "e7ccb4cde78841d8": 1789632918,
   "e7da2196903a2f2c": 1789659315,
+  "e7f3cab0bcabe5fb": 1789894552,
   "e7ff821d9be49bfe": 1789690229,
   "e81319572d1dde0c": 1789633820,
   "e87195b5f255958b": 1789630519,
@@ -2378,7 +2389,7 @@
  "companies_today": {},
  "day": "2026-09-20",
  "last_clip": 1789893027,
- "last_msg_poll": 1789894465,
+ "last_msg_poll": 1789894799,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2419,7 +2430,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-20 17:54 KST",
+  "last_run": "2026-09-20 17:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
