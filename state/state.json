@@ -114,6 +114,16 @@
    "t": "LG, AI 데이터센터 전력 30%↓ '냉각 혁명' 신제품 출시 : 경제 - 재경일보",
    "ts": 1789867320,
    "u": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4wck5sRjd3TE5Kb0p5dGxIWjFZU2VUdTZyMHptNEw5emE2b3RNOFExSTAwd1FGWmdEUld1MzhuYU5Hd3cxV1lkRTh3?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "충북도, 대청댐 수열에너지단지에 2조3000억 규모 AI데이터센터 추진 - v.daum.net",
+   "ts": 1789798867,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1haXdNMVc2cFRsWDJCRUZzWng1Z3pBZ2FTaEY5SmZ3Y2lTWUhFYzhQVnNuekJKVWhxdFJ3T0NPT0tnSWxHUU9zTkJ3Y1VUTWc?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2201,6 +2211,7 @@
   "f48aee4e765b6699": 1789627496,
   "f4bb81b74e866da5": 1789713633,
   "f4cf97a53c7290bb": 1789627496,
+  "f4d005c4da76c792": 1789875616,
   "f4d7df2b857c5f2b": 1789705521,
   "f5675083e3b5e1e8": 1789635618,
   "f58fd803a528e4f1": 1789627496,
@@ -2293,7 +2304,7 @@
  "companies_today": {},
  "day": "2026-09-20",
  "last_clip": 1789870630,
- "last_msg_poll": 1789875567,
+ "last_msg_poll": 1789875863,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2334,7 +2345,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-20 12:39 KST",
+  "last_run": "2026-09-20 12:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
