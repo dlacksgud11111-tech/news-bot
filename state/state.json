@@ -109,6 +109,26 @@
    "t": "\"데이터센터 어디 지을까?\"…이제는 '전기·임차인' 싸움 - edaily.co.kr",
    "ts": 1789943524,
    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb092UVhvaXFkbDg1alhxdktqaHlodGR5VmhKeVdXb3pKTDdXQzUwUTZYZDl6enRUbmNwcXk1NVBUQlRjNmFwXzBndUZZRmdMeXkzSDk5dGdtRnJYSWF3RmNmTDhBSDZmZjlBVmJVeWZ1ME9yVVFnVlJjUS1yN3FEUA?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "데이터뉴스",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "전력기기 3사, 매출 늘리고 수주잔고 더 쌓았다 - 데이터뉴스",
+   "ts": 1789946752,
+   "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvbXpUdFhLRjd6bXJHSURjRXZkQkpJYXNPMjZwVExWWnZwLWxEZHZzelFVQnJaVmFDWXdXbzVzUS1UUVdTUTZCMVQxdXkzdkRtbFRIeDd6eVkyZkhRU0sw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴스1",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "트럼프 일가, AI·데이터센터 투자 확대…'이해충돌' 재가열 - 뉴스1",
+   "ts": 1789946322,
+   "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RWTNBeS13eUlxVFEtRnV3Q0IyajY5SVhhMjgzRHN1NkdrWFZ3MmtsNFN3Yzk0MlVqbHM2S05hLTAyLTIwd3c0QWhERGh3WmphMm1Bd0JOTEvSAV5BVV95cUxPVkc2TkRmcVNYRFNDdFlGRl9zNTJjMklfYnRJSldQX1MwX3FnS1ExZ2UwOVFyeUEzNXlvV3VpQWQxNWVNYXY4cEsxY3dxX18zTm10c09vS3pEY0RmRDBR?oc=5"
   }
  ],
  "clip_titles": [],
@@ -526,6 +546,7 @@
   "2a030a86064d1774": 1789738532,
   "2a928ff9e0ffbda3": 1789783260,
   "2aa08541ed3d244d": 1789673419,
+  "2ab0ab142713c927": 1789947108,
   "2acc50ff2fd955f2": 1789627496,
   "2b0287f3d9a0dd71": 1789705521,
   "2b0594426c5915a6": 1789692619,
@@ -1029,6 +1050,7 @@
   "6200e38cc5023724": 1789729598,
   "62243665bb182604": 1789851315,
   "622dd754da381bdb": 1789627496,
+  "62348606cc5611b2": 1789947108,
   "6248583c43c9accf": 1789866315,
   "624e6bf862fb20d2": 1789655120,
   "6263a612be66c588": 1789627496,
@@ -1545,6 +1567,7 @@
   "9ef9434f46ed9d49": 1789627496,
   "9f1144c75d2c6b1f": 1789866315,
   "9f24a5f5b9920f25": 1789710209,
+  "9f6999355459a63a": 1789947108,
   "9f98dc58a07d3d8a": 1789726695,
   "9fd86959a5fd139e": 1789627496,
   "a0059453b175881c": 1789712512,
@@ -1601,6 +1624,7 @@
   "a47f90735e7a17ce": 1789709642,
   "a4a1bfa6327beb7a": 1789724119,
   "a4ac8fbfd96388f2": 1789629088,
+  "a4c6168d8e8eca1c": 1789947108,
   "a4c7befbd24ec614": 1789776616,
   "a4de1d15edbfd6d5": 1789691718,
   "a4e54ce2ffcedc41": 1789895115,
@@ -2452,7 +2476,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789941629,
- "last_msg_poll": 1789946757,
+ "last_msg_poll": 1789947350,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2493,7 +2517,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 08:25 KST",
+  "last_run": "2026-09-21 08:35 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
