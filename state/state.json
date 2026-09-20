@@ -124,6 +124,16 @@
    "t": "GS, AI 데이터센터 인프라 넘어 '기술 생태계 키운다...스타트업과 협력 확대 - 뉴뉴스",
    "ts": 1789894179,
    "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkYlVFc2VFR1lGeUtLZXYyR3pCMWtNY29QanJZVGVYajlOcElJeG1YZ1FSQmxUYWtnQTQ3UzFwNVd4a1dkdkdIYW1EQXFrZUtEdnlpZ1BmQS1tWHllZUVPYi1VV01jdw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "충청매일",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "대청댐 물로 AI데이터센터 식힌다 - 충청매일",
+   "ts": 1789894504,
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3RjhZMjBXby1pVFNWM0JlSmhiTUpidFlWTmVka0xsY0dQT3VISGJoeThFaVBxTWh2Vk1mejBib3h1T1pZTnltMlhwUVhzRmYwUG1fY0czLTdpSlQ5V1QwT1pKUnMwd3pYVXc?oc=5"
   }
  ],
  "clip_titles": [],
@@ -640,6 +650,7 @@
   "35d90e32ed125cc1": 1789707615,
   "361dcef4a6bf65d7": 1789627496,
   "362c9920decbc5d8": 1789627496,
+  "363c19de78193cf4": 1789896615,
   "3643544ab3b5af90": 1789635918,
   "36558f5fa032c5b3": 1789646718,
   "367979b5dea8d110": 1789629088,
@@ -2394,7 +2405,7 @@
  "companies_today": {},
  "day": "2026-09-20",
  "last_clip": 1789893027,
- "last_msg_poll": 1789896561,
+ "last_msg_poll": 1789896861,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2435,7 +2446,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-20 18:29 KST",
+  "last_run": "2026-09-20 18:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
