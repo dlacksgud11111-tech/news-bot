@@ -74,7 +74,18 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 0,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "메트로신문",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "‘칠러 매출 1조’ 앞당긴다…LG전자, AI 데이터센터 냉각 승부 - 메트로신문",
+   "ts": 1789876874,
+   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05RHZpQzFFbEtxNzFuSnFrYUxRZS11UnNxNFRJVmRTWnJZNzZHcEJibFdQaUdZZV9mSTdocGoxNjRsQ0oyNHJlM05qYVpwQVUwQnJyVDIzajVYcjdkOUhJRw?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "001fd9cb95168f6f": 1789868904,
@@ -1481,6 +1492,7 @@
   "a6948e01fd51c57f": 1789715119,
   "a6ae9b128c19489e": 1789724119,
   "a6fdbfb4d893ddf6": 1789695321,
+  "a72758e6b9007bb5": 1789878920,
   "a776c99517f53b50": 1789633213,
   "a78288c798dc271b": 1789627496,
   "a7c6811dc0688baa": 1789720817,
@@ -2267,7 +2279,7 @@
  "companies_today": {},
  "day": "2026-09-20",
  "last_clip": 1789878021,
- "last_msg_poll": 1789878862,
+ "last_msg_poll": 1789879170,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2308,7 +2320,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-20 13:34 KST",
+  "last_run": "2026-09-20 13:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
