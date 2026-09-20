@@ -109,6 +109,16 @@
    "t": "GS, AI 데이터센터 병목 스타트업으로 푼다 [상생경영] - supple.kr",
    "ts": 1789934400,
    "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tRHdYbHhyRzlxbzRJZUdwQUJGMW81bEFNRWJ2VGNRQm81elE4UUJOVlVLdWxhUnZfcUhIYlB5cDVvUGtMSFFaVHhDS1ZlRjV0ODJoc0g3OTZWWGs1?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "팝콘뉴스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, AI 데이터센터 최적화 ‘공랭식 터보 칠러’ 출시 - 팝콘뉴스",
+   "ts": 1789866000,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qR19ZMmU5Z2JuMmdxel9YSlduZlNhaUtKTVljLTJwZFBzNU9CNUZ4Ukp0YlhsQnFjVzBaZGZVT2tXang1cnBGVXNwQzFFSVpDY3ZrV1V2T0J6ZFZ4ZGRZcWtadmlTTGtLV29DMXFR0gFyQVVfeXFMTU5DbHhOc3gtZDJkc2VoUUM3Y2JXY3dnMFVmYk5DTnJpdXJVWFMzZXNPMTE4X0NtekJPbnA4Tmc5QjhQcE5QTlAzMnROdDhwMTBfaW9HclBnaVcxNW1qRGJQZ2hCTEpsczVLODJlRWhYSUdR?oc=5"
   }
  ],
  "clip_titles": [],
@@ -713,6 +723,7 @@
   "3dbcafd4fc16edd5": 1789774587,
   "3dccb4edbbff71ad": 1789851916,
   "3dcee15a06a653ca": 1789658129,
+  "3debc42401f12e65": 1789936425,
   "3e03cd19635dc357": 1789888052,
   "3e0c8fa4a3adb218": 1789713065,
   "3e1000ba817a37f6": 1789752020,
@@ -2408,7 +2419,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789919867,
- "last_msg_poll": 1789936079,
+ "last_msg_poll": 1789936672,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2449,7 +2460,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 05:27 KST",
+  "last_run": "2026-09-21 05:37 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
