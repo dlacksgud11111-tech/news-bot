@@ -84,6 +84,16 @@
    "t": "전력기기 호황에 노조 생긴 효성重…내년 역대급 성과급 기대감↑ - 지디넷코리아",
    "ts": 1789863476,
    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jVVF0RlJWSmg3dFNGVkVZcE1ycGthemdyNkFGcDhzb1p5Q3VKbWNVNVVkeVJkbFpoTTkwVXlVNzF3QlVndlZkUV83YW1OWDNDS2MtVXRn?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스 경제 최신기사",
+   "sc": 6,
+   "sec": "건설·플랜트",
+   "t": "현대건설, 도시정비사업 수주액 2년 연속 10조원 돌파",
+   "ts": 1789863915,
+   "u": "https://www.yna.co.kr/view/AKR20260920014400003"
   }
  ],
  "clip_titles": [],
@@ -410,6 +420,7 @@
   "263fbed0860da2ef": 1789627496,
   "266cbde5c6585034": 1789649420,
   "269c907533f6ed36": 1789627496,
+  "26a35918023d67f6": 1789864548,
   "26f236844490d56e": 1789633522,
   "27044a608039c98b": 1789627496,
   "2714392bd558e2aa": 1789727277,
@@ -2109,7 +2120,7 @@
  "companies_today": {},
  "day": "2026-09-20",
  "last_clip": 1789863399,
- "last_msg_poll": 1789864220,
+ "last_msg_poll": 1789864794,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2150,7 +2161,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-20 09:30 KST",
+  "last_run": "2026-09-20 09:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
