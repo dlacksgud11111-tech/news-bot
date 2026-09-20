@@ -74,58 +74,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "[AINEX 2026] 시스코 “AI 데이터센터 확장, 멀티플레인 네트워크가 핵심”",
-   "ts": 1789858800,
-   "u": "https://www.etnews.com/20260919000041"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 4,
-   "sec": "전력기기",
-   "t": "[AINEX 2026] KT “AIDC만 늘려선 AI 허브 한계…해저케이블 투자 병행해야”",
-   "ts": 1789858800,
-   "u": "https://www.etnews.com/20260919000040"
-  },
-  {
-   "co": "LS전선",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 7,
-   "sec": "전력기기",
-   "t": "[AINEX 2026] LS전선 “AI 시대 해저광망, 국가 전략 공급망으로 키워야”",
-   "ts": 1789858800,
-   "u": "https://www.etnews.com/20260919000039"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "v.daum.net",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터, 전력 더 끌어오기보다 '덜 쓰기'로⋯구글·엔비디아 20여개사 연합 - v.daum.net",
-   "ts": 1789860687,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yRm1uX01xM0dyaUVOdGZYZFNTaS1wdkJUQ1lmZHJWRmoxRWlsT0R6SWRGNWJJN19fTGlVQVc3UU4weHhIWFpaU1U0T3pCMjQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일일보",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "[기획] 데이터센터는 ‘건물’ 아닌 ‘설비’…전기·냉각 기술 경쟁 격화 - 매일일보",
-   "ts": 1789862400,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tNExLekpqNjN3OVo4YnVvbmVhVEJ2WThVZDdZa1piYThMUzF4NGZxYWVQdE9oTGh1ejk2TllNc0NndzFGbXNUNTctOWNjZW9CakhVd3U3cy1UVlY3WU1YdUt0ZELSAWhBVV95cUxNZTVURzI5UGd6N1RvaG1nY2ZrUm5CRk95NWY2Ync4ZTM4TGFkWjBIcHlFWjREdHprZ1FoTnFXUlRvN1NzVDVPN0xId0d0Zko4OC1yUmRNR0JRQjBiUTk0dm5FZ0RfaEJmdA?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "0033fde36740424f": 1789729598,
@@ -162,6 +111,7 @@
   "03dc9483e0a5b187": 1789694131,
   "03fa52e1013b5ee4": 1789627496,
   "03fc6ab698e8be04": 1789721130,
+  "04088d7a1c9575f1": 1789863399,
   "042cfb23d6e695a6": 1789627496,
   "04422e804cc0f8b5": 1789629088,
   "045df76a29580456": 1789710209,
@@ -208,6 +158,7 @@
   "09a92bdb2d43e6ab": 1789627496,
   "09bf1c0f406e54a3": 1789629088,
   "09e4e1924aa5244d": 1789728460,
+  "09ef967379a51795": 1789863399,
   "09fcdf52c41de82e": 1789644018,
   "0a13f0038a478570": 1789629088,
   "0a23eeeb34a7c328": 1789707915,
@@ -262,6 +213,7 @@
   "10eae82163d6b266": 1789627496,
   "10f0ce45db3d6071": 1789714524,
   "1100ef677bdd2271": 1789629088,
+  "1133e637f5896802": 1789863399,
   "1141e35158e0c2d7": 1789859418,
   "116069b75263ed95": 1789627496,
   "1161342a525b4065": 1789627496,
@@ -1080,6 +1032,7 @@
   "77e0f2a1525e1af5": 1789706118,
   "7812710f6512eb9f": 1789731320,
   "782c892dba060c2a": 1789646718,
+  "78736a03269deb77": 1789863399,
   "789f3ece8ceab191": 1789731320,
   "78b1a7c118dbe5ef": 1789634116,
   "78f4a0bccba75b7f": 1789627496,
@@ -1382,6 +1335,7 @@
   "a26abb0a7aa5f6b6": 1789797679,
   "a26ded7561d39ac1": 1789692317,
   "a28dc36ed77d8c31": 1789715119,
+  "a2b4658f28a75652": 1789863399,
   "a2f3852c760dc0bc": 1789648519,
   "a30d7cdcb2abb320": 1789627496,
   "a315c8a8ee96e2f8": 1789646718,
@@ -1597,6 +1551,7 @@
   "ba4d1ead6d86b3c7": 1789637719,
   "ba7e1c2eec990ea1": 1789698990,
   "ba81ce1c037dea1e": 1789647914,
+  "bae33e10898fc56c": 1789863399,
   "bb05e14af612e15b": 1789733129,
   "bb0cfad5739c236d": 1789783839,
   "bb3c70befd0316d7": 1789627496,
@@ -1622,6 +1577,7 @@
   "bde8c1de6a295907": 1789637719,
   "bdf384671e5d4b07": 1789705521,
   "be0abf0fcb918f65": 1789793728,
+  "be19c1c065528af5": 1789863399,
   "be1ab525966a65d9": 1789627496,
   "be1b59fb32c021e3": 1789689626,
   "be1e94f9d7ec4fc0": 1789629088,
@@ -1637,6 +1593,7 @@
   "bf694a4b9d9d9133": 1789801516,
   "bf83a25d8879ffea": 1789712512,
   "bfb528f17e15cef4": 1789627496,
+  "bfc37a3454781376": 1789863399,
   "c00adeab68e2f372": 1789716319,
   "c03a724250752735": 1789783839,
   "c0491fdd381ce1d7": 1789627496,
@@ -2139,8 +2096,8 @@
  },
  "companies_today": {},
  "day": "2026-09-20",
- "last_clip": 1789855639,
- "last_msg_poll": 1789863074,
+ "last_clip": 1789863399,
+ "last_msg_poll": 1789863651,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2181,7 +2138,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-20 09:11 KST",
+  "last_run": "2026-09-20 09:20 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
