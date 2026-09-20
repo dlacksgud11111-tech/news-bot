@@ -89,6 +89,16 @@
    "t": "[이슈] ABB, ‘더 스마트한’ 전력… AI가 바꾸는 데이터센터의 미래 - 에너지데일리",
    "ts": 1789941900,
    "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PUUVianRqRXpsYnRwdEczWUY0SUlrOE42WHJVTEtpVTNteUZmeWpTOFZwUGpYMzIydi01cU5tWEZjeld3WHVvc05wWTVTcDFLUFRsQnBUeU8yVWRYOU51VEVfQVZmdmJlWWtZb0g0UkZqUQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "이투뉴스 - 전체기사",
+   "sc": 11,
+   "sec": "전력기기",
+   "t": "'우물에서 숭늉찾기' 기후부 전력망 대책 뒷말",
+   "ts": 1789970400,
+   "u": "http://www.e2news.com/news/articleView.html?idxno=334429"
   }
  ],
  "clip_titles": [],
@@ -1239,6 +1249,7 @@
   "7d419273e8d8ebda": 1789632017,
   "7d5323cdea5915ab": 1789786216,
   "7d8669a3b5c67c31": 1789635327,
+  "7d8c02d39aaf1744": 1789942522,
   "7da64be0b50376a6": 1789886351,
   "7dcfb818a258ba99": 1789630519,
   "7ddd02d47b003b07": 1789936978,
@@ -1432,6 +1443,7 @@
   "93afa437ca5523b5": 1789689626,
   "93b1856a8108daa6": 1789627496,
   "93d37fb98b836859": 1789627496,
+  "93f05ec3e69aa8cd": 1789942522,
   "946794e7c72a45b6": 1789697729,
   "947bd961b56a8057": 1789709642,
   "9481d73519f9a166": 1789627496,
@@ -1452,6 +1464,7 @@
   "969c7f5f016b3867": 1789695321,
   "96b4a53ed9d5f732": 1789784719,
   "96fcf5f81ee0aa0f": 1789689915,
+  "9719178d57f58110": 1789942522,
   "972c14d2a8017867": 1789691718,
   "97496b481ecb7a84": 1789686930,
   "974db347aca0890f": 1789698990,
@@ -1882,6 +1895,7 @@
   "c4c3450500dd5b88": 1789851916,
   "c4e77d86190c2d41": 1789627496,
   "c5045c0c8515d31d": 1789627496,
+  "c51c672ab0a787e5": 1789942522,
   "c51ef6f27d5f64bc": 1789696517,
   "c51ff93e5fac5349": 1789627496,
   "c551f3df31ef6eb8": 1789706118,
@@ -2407,7 +2421,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789941629,
- "last_msg_poll": 1789942465,
+ "last_msg_poll": 1789942763,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2448,7 +2462,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 07:14 KST",
+  "last_run": "2026-09-21 07:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
