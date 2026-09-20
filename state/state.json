@@ -124,6 +124,26 @@
    "t": "AI 데이터센터, 전력 더 끌어오기보다 '덜 쓰기'로⋯구글·엔비디아 20여개사 연합 - v.daum.net",
    "ts": 1789860687,
    "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sWHJFWlFxeDljSEZjQ1BCV3VHWlhRNjRJRTU0Q1RtYklEV1NyZ2hQbW5TcFdBdTVmODhqLXRzWmgxWGdNSjRKRXpQWDJ4YlN4SlQ0Nw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Trade Brains",
+   "sc": 10,
+   "sec": "전력기기",
+   "t": "5 Transformer Stocks with Strong Order Books of Up to ₹32,000 Cr to Keep on Your Radar - Trade Brains",
+   "ts": 1789883377,
+   "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVHdJUF9RZHR1b25fb2tnc2l4NExnamZsMGtDZElzaGpaWjE4c0RpX0t0ZDRyRnpSNEFuUUVRVzdDdDY1R3RiaElXVFNVWjJQajdZcTNVd2NfRmxwQ3lCc0R6QTkwSDRvTTBKRzlIaV82SDNmdmgzTlBYbWtPNEU4ZEh5UDRSZDRmNWdobEtyV1hwVUlPWXN3Ui1KRlVqck5zeGQwZ2lzUDRlbFFLV1djcWdHcGF6TFRiRGUwU2NhYTAzMGtFdTNKeVFLRQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "브릿지경제",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, AI 데이터센터 최적화 ‘공랭식 터보 칠러’ 출시 - 브릿지경제",
+   "ts": 1789866060,
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJNllYaDQwcWxxXzdibVdmaUJfR0E4czJ0Q3dldmxrbXFvSEFCcTF3Zl9idmEwX3o4T1Rvb04zN0lyM1JkUVNfekxrMkhicERVTHp4TmVyVlB5QQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -265,6 +285,7 @@
   "0ea0d5abef807d24": 1789712512,
   "0ebf027534387b05": 1789877422,
   "0ebf7b6407f212e3": 1789648519,
+  "0f15e0018dc3fd7c": 1789883723,
   "0f259db306d390de": 1789866315,
   "0f506dcddc529a85": 1789627496,
   "0f6222b8aa9f92af": 1789873818,
@@ -720,6 +741,7 @@
   "3ed642ea05ad0c1e": 1789627496,
   "3ed7069c20bdb6c1": 1789627496,
   "3ede36dacd66dfdf": 1789629088,
+  "3edf09f3c9277a3f": 1789883723,
   "3ee14f6cdea16424": 1789709072,
   "3efc2561ae3c268b": 1789627496,
   "3f058d5098bfc87c": 1789776316,
@@ -2326,7 +2348,7 @@
  "companies_today": {},
  "day": "2026-09-20",
  "last_clip": 1789878021,
- "last_msg_poll": 1789883661,
+ "last_msg_poll": 1789883967,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2367,7 +2389,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-20 14:54 KST",
+  "last_run": "2026-09-20 14:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
