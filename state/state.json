@@ -94,6 +94,16 @@
    "t": "[신간]“전력은 경제 안보”…반도체 공장은 1.5년, 전선은 10년",
    "ts": 1789887600,
    "u": "https://www.etnews.com/20260920000053"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "대전일보",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "대청댐 수열로 AI 데이터센터 냉각…청주에 집적단지 추진 - 대전일보",
+   "ts": 1789884660,
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlR3B6Y0NoUW9qWFdmZ0VRR2RLcU82OWpySTRYQ2VsMjlOdjRHM0czT2IySG42ZnFBOVJTT1o3UGgtY00zRmEzTktUdHdfNmVYNVh5a09nSlp0dnI4WktzWklmd2hOa3QwX0RZVTFya9IBc0FVX3lxTE92cldSZHJZWnBxa09HeHlqVHprbVRJUU5lbFVtbzhURVVHdmp0YzJsODhQZlIyN2d2T21iZlBKRm95bXdLbmFQV2dwd2xIRTlsLWpaUTN0anhOZmNnaWZySmxVdjJ0RVBnd3d1ZFJvU1Jjbjg?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1296,6 +1306,7 @@
   "8952486a890dec8d": 1789629088,
   "89627064efce7e65": 1789627496,
   "8977d254721689b5": 1789631127,
+  "8987be7490af89f3": 1789889765,
   "898b5342c8baa974": 1789872360,
   "899c58961bc401e1": 1789865116,
   "89a0bc42738648d2": 1789627496,
@@ -1843,6 +1854,7 @@
   "c878b5d30b45dc8a": 1789693531,
   "c89c3e08ae850c41": 1789724119,
   "c8f53c4e93d2e639": 1789727860,
+  "c91206cad977cc65": 1789889765,
   "c98b4e15917e33a2": 1789710788,
   "c98ff19dd484930e": 1789627496,
   "c998ecc967a0a9ad": 1789627496,
@@ -2323,7 +2335,7 @@
  "companies_today": {},
  "day": "2026-09-20",
  "last_clip": 1789885788,
- "last_msg_poll": 1789889450,
+ "last_msg_poll": 1789890015,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2364,7 +2376,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-20 16:30 KST",
+  "last_run": "2026-09-20 16:40 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
