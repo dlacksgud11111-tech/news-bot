@@ -74,78 +74,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "메트로신문",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "‘칠러 매출 1조’ 앞당긴다…LG전자, AI 데이터센터 냉각 승부 - 메트로신문",
-   "ts": 1789876874,
-   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05RHZpQzFFbEtxNzFuSnFrYUxRZS11UnNxNFRJVmRTWnJZNzZHcEJibFdQaUdZZV9mSTdocGoxNjRsQ0oyNHJlM05qYVpwQVUwQnJyVDIzajVYcjdkOUhJRw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "cwn.kr",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, 'AI 데이터센터 전용 터보 칠러'로 전력소비 30% 절감…기계적 마찰 대폭 줄였다 - cwn.kr",
-   "ts": 1789874623,
-   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TSzFjNVY5eVNuUWY0bHhlRXBYT01pcnRkUk02TGtlT0NsUjJhXzJHeFBkNFJZSjUzS0ltd0RxR1FtcFVnMFYwZ0RDTmNqMnpJWmZoSzk5WVhLME1TeWlvaDJ3?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "메트로신문",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "대청댐 물로 AI 데이터센터 열 식힌다… 수자원공사, 친환경 수열 집적단지 구축 '잰걸음' - 메트로신문",
-   "ts": 1789878908,
-   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PdmFiUWNxdlBuWWN3QlY3andzNVZJTmlIUjV4M0NLa3c4UDJFb05WUHZkQmNsY1kyZE80cDk4TXg3bTRTS0hrWkdGLWdwRzRtdkNxVC1PMHpab3k3UnBSRw?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "뉴뉴스",
-   "sc": 22,
-   "sec": "전력기기",
-   "t": "LS일렉트릭·한전, 배전용 ‘그리드포밍’ 공동개발...재생에너지 전력망 안정화 - 뉴뉴스",
-   "ts": 1789876492,
-   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nc1BJa2F4WTJSbU9MVE1sY21OUlhjb1UtVHhvdEdqSTk5cEZDcXRjQmluWThnZHAwSkNIRkNjbktiNjVkZlVpanZvMm5hYTM3S29INkxZTGxNUlR5LTVEMFo5R2xCQQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터, 전력 더 끌어오기보다 '덜 쓰기'로⋯구글·엔비디아 20여개사 연합 - v.daum.net",
-   "ts": 1789860687,
-   "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sWHJFWlFxeDljSEZjQ1BCV3VHWlhRNjRJRTU0Q1RtYklEV1NyZ2hQbW5TcFdBdTVmODhqLXRzWmgxWGdNSjRKRXpQWDJ4YlN4SlQ0Nw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Trade Brains",
-   "sc": 10,
-   "sec": "전력기기",
-   "t": "5 Transformer Stocks with Strong Order Books of Up to ₹32,000 Cr to Keep on Your Radar - Trade Brains",
-   "ts": 1789883377,
-   "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVHdJUF9RZHR1b25fb2tnc2l4NExnamZsMGtDZElzaGpaWjE4c0RpX0t0ZDRyRnpSNEFuUUVRVzdDdDY1R3RiaElXVFNVWjJQajdZcTNVd2NfRmxwQ3lCc0R6QTkwSDRvTTBKRzlIaV82SDNmdmgzTlBYbWtPNEU4ZEh5UDRSZDRmNWdobEtyV1hwVUlPWXN3Ui1KRlVqck5zeGQwZ2lzUDRlbFFLV1djcWdHcGF6TFRiRGUwU2NhYTAzMGtFdTNKeVFLRQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "브릿지경제",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, AI 데이터센터 최적화 ‘공랭식 터보 칠러’ 출시 - 브릿지경제",
-   "ts": 1789866060,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJNllYaDQwcWxxXzdibVdmaUJfR0E4czJ0Q3dldmxrbXFvSEFCcTF3Zl9idmEwX3o4T1Rvb04zN0lyM1JkUVNfekxrMkhicERVTHp4TmVyVlB5QQ?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "001fd9cb95168f6f": 1789868904,
@@ -1820,6 +1749,7 @@
   "c1ade9da475aca23": 1789627496,
   "c1b1f22c3486777c": 1789627496,
   "c1e17dc4b6a5cd24": 1789627496,
+  "c1e7567a98b245c7": 1789885788,
   "c1f453983919db92": 1789791917,
   "c1f7db158c66006b": 1789627496,
   "c202f3b817559067": 1789711937,
@@ -2353,8 +2283,8 @@
  },
  "companies_today": {},
  "day": "2026-09-20",
- "last_clip": 1789878021,
- "last_msg_poll": 1789885466,
+ "last_clip": 1789885788,
+ "last_msg_poll": 1789886029,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2395,7 +2325,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-20 15:24 KST",
+  "last_run": "2026-09-20 15:33 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
