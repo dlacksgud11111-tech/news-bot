@@ -74,7 +74,18 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 0,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "투데이e코노믹",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, AI 데이터센터용 공랭식 터보 칠러 출시…냉각 효율·확장성 강화 - 투데이e코노믹",
+   "ts": 1789893205,
+   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WdUVWYXVfdC1pTXlFRVZ0YjdJM2hTb2ZNUmFrZ2k2ZzItZ1RBVldzWVhQelNGRW9vZDN6TXFCUUY5ZUJhUk5nNzhGaVFrcUQxVDJRX2NJa2NyWVBjclRKckdwTjFwLTA?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "001fd9cb95168f6f": 1789868904,
@@ -2241,6 +2252,7 @@
   "f664eeda57eaef53": 1789729598,
   "f6807e8fa6cd8ded": 1789783260,
   "f6caf6929a73c447": 1789782685,
+  "f6df3f5e547954f2": 1789893329,
   "f6e8db16f44a6251": 1789627496,
   "f710e639d372adfb": 1789765932,
   "f71318736637fc73": 1789700729,
@@ -2322,7 +2334,7 @@
  "companies_today": {},
  "day": "2026-09-20",
  "last_clip": 1789893027,
- "last_msg_poll": 1789893276,
+ "last_msg_poll": 1789893580,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2363,7 +2375,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-20 17:34 KST",
+  "last_run": "2026-09-20 17:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
