@@ -99,6 +99,16 @@
    "t": "'우물에서 숭늉찾기' 기후부 전력망 대책 뒷말",
    "ts": 1789970400,
    "u": "http://www.e2news.com/news/articleView.html?idxno=334429"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "edaily.co.kr",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "\"데이터센터 어디 지을까?\"…이제는 '전기·임차인' 싸움 - edaily.co.kr",
+   "ts": 1789943524,
+   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb092UVhvaXFkbDg1alhxdktqaHlodGR5VmhKeVdXb3pKTDdXQzUwUTZYZDl6enRUbmNwcXk1NVBUQlRjNmFwXzBndUZZRmdMeXkzSDk5dGdtRnJYSWF3RmNmTDhBSDZmZjlBVmJVeWZ1ME9yVVFnVlJjUS1yN3FEUA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1554,6 +1564,7 @@
   "a2681db9ac3bfe52": 1789627496,
   "a26abb0a7aa5f6b6": 1789797679,
   "a26ded7561d39ac1": 1789692317,
+  "a2701e53098720ad": 1789943682,
   "a28dc36ed77d8c31": 1789715119,
   "a2b4658f28a75652": 1789863399,
   "a2f3852c760dc0bc": 1789648519,
@@ -1649,6 +1660,7 @@
   "ac03d52123dff67f": 1789627496,
   "ac37df33236657d2": 1789629088,
   "ac481f21c0f1f1f7": 1789713633,
+  "ac89ecefbf0707c4": 1789943682,
   "acaad25acda4e1c2": 1789894218,
   "accda29e47d0d212": 1789627496,
   "acd06477de14d872": 1789627496,
@@ -1713,6 +1725,7 @@
   "b1b50a0c09ee51ea": 1789627496,
   "b215b4b003323e96": 1789700729,
   "b2250ad5291bce47": 1789637719,
+  "b22d1e610527fab0": 1789943682,
   "b2553b7ecfcee353": 1789707915,
   "b25cdf3e57aade5d": 1789855065,
   "b263481ea76b50dd": 1789627496,
@@ -1762,6 +1775,7 @@
   "b6acd0c917e2eca1": 1789706118,
   "b6ae7766acea8482": 1789739129,
   "b6db0a10e1b4b877": 1789731017,
+  "b6dc173c9cb2f339": 1789943682,
   "b6edc0a017de7a6e": 1789627496,
   "b726faebf5fbc07d": 1789627496,
   "b74acde9e3c18f85": 1789627496,
@@ -1928,6 +1942,7 @@
   "c89c3e08ae850c41": 1789724119,
   "c8f53c4e93d2e639": 1789727860,
   "c91206cad977cc65": 1789889765,
+  "c93361e416b1527f": 1789943682,
   "c98b4e15917e33a2": 1789710788,
   "c98ff19dd484930e": 1789627496,
   "c998ecc967a0a9ad": 1789627496,
@@ -2421,7 +2436,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789941629,
- "last_msg_poll": 1789943325,
+ "last_msg_poll": 1789943928,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2462,7 +2477,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 07:28 KST",
+  "last_run": "2026-09-21 07:38 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
