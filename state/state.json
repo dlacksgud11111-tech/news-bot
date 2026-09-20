@@ -94,6 +94,16 @@
    "t": "LG전자, AI 데이터센터용 대용량 칠러 출시…전력 부담 줄인다 - 포쓰저널",
    "ts": 1789872241,
    "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zVVJ3Qkk0Wl9RREpPc0VzMDJ5a1gxVDFBNDVZU2lOV24wRzFadTBnRU8xMHFvaGN2QTItaFcxS292a1pvV0JNYllaY3BrZE1RSHVXeHJadnB1NEVRQmRCMlh1YWI?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "경향신문",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, AI 데이터센터 ‘맞춤형’ 터보 칠러 출시 - 경향신문",
+   "ts": 1789868880,
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01ajRTUE9pTzBXbzY3RV9HZFFDTUNqMTZ1b2JiUVdrbGU3TGdJZkVJcURyNjN3b1l2Q2lUYjNabFVMR1ZUZFBsRldVbWNmY2V6bG1zcDA0MUFBZ9IBX0FVX3lxTE9JSmVwTEVod2Fqei15TkhZTE9TVjIzTXdTY3RRaGdfSTBxOGpJdWJadUVCYVpnRzNVb2xBckVRSFFIUWtRTEdleGNzX0Z5VnlTWGQ0MW1GbzZoV3NuWHBZ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1977,6 +1987,7 @@
   "e29c77b9e67eff8a": 1789695321,
   "e2b913ba1fa389ee": 1789709072,
   "e2be54b841849724": 1789794287,
+  "e2f1a2c9f5a4fbe0": 1789873253,
   "e311200e70275275": 1789784117,
   "e319b78946e2c1c3": 1789627496,
   "e33dd648f953a984": 1789627496,
@@ -2233,7 +2244,7 @@
  "companies_today": {},
  "day": "2026-09-20",
  "last_clip": 1789870630,
- "last_msg_poll": 1789873173,
+ "last_msg_poll": 1789873500,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2274,7 +2285,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-20 11:59 KST",
+  "last_run": "2026-09-20 12:05 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
