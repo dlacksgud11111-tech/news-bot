@@ -74,141 +74,11 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "지디넷코리아",
-   "sc": 10,
-   "sec": "전력기기",
-   "t": "전력기기 호황에 노조 생긴 효성重…내년 역대급 성과급 기대감↑ - 지디넷코리아",
-   "ts": 1789863476,
-   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jVVF0RlJWSmg3dFNGVkVZcE1ycGthemdyNkFGcDhzb1p5Q3VKbWNVNVVkeVJkbFpoTTkwVXlVNzF3QlVndlZkUV83YW1OWDNDS2MtVXRn?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 6,
-   "sec": "건설·플랜트",
-   "t": "현대건설, 도시정비사업 수주액 2년 연속 10조원 돌파",
-   "ts": 1789863915,
-   "u": "https://www.yna.co.kr/view/AKR20260920014400003"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 6,
-   "sec": "건설·플랜트",
-   "t": "호반건설, 서울 창동상아1차 재건축 등 도시정비 2건 수주",
-   "ts": 1789864794,
-   "u": "https://www.yna.co.kr/view/AKR20260920015100003"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "비에이에너지, 능동형 화재 진압 '리튬이온 배터리 안전 관리 컨테이너' 출시",
-   "ts": 1789864200,
-   "u": "https://www.etnews.com/20260917000520"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "아이뉴스24",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, AI 데이터센터용 칠러 출시…효율 20% 높이고 설치는 빠르게 - 아이뉴스24",
-   "ts": 1789866002,
-   "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KMjV3X1dfZzlyZFYwMWFuakV2NmVSY3FFZ3JnZ3lwbVJjZjNkWm00UWZNckxlS1dMMUcyTlU0WF8zRVk0YVd1RTZsOA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 11,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, AI 데이터센터용 터보 칠러 출시…전력소비 30%↓",
-   "ts": 1789866001,
-   "u": "https://www.yna.co.kr/view/AKR20260920014600003"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "아시아투데이",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, AI데이터센터 솔루션 신제품 출시…냉각 시장 주도권 강화 - 아시아투데이",
-   "ts": 1789866000,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HQmpncm5jS2podEYzTkphYTdUZl9zSHYycDBHNnZvbTRfMHFWWjU5ZWpfellGaXVuektWT1k3Vmh1VEpYdkl6MUlBMm5tWUQ5bkY2VnRfejd0Y1cwUVpPd20wZG5QMlhCbXlJMlFR?oc=5"
-  },
-  {
-   "co": "",
-   "n": 4,
-   "s": "ebn.co.kr",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, AI 데이터센터 최적화 공랭식 터보 칠러 출시 - ebn.co.kr",
-   "ts": 1789866000,
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tYkE3cWxnWGh2LTdVa3BsSWhMdmhpd0V5cWZRYXE3V3hJWHZGWDVHX1gwYUJ5X3dMdVNuWG1ZOHVKWXJ5ZE5vY3J1OWNsSG9pVWhkUWt5OWpyZHY5ZVo5Qm1tVHRzdmpT?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "파이낸셜뉴스",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, AI 데이터센터 '전력 다이어트'…고효율 터보 칠러 출격 - 파이낸셜뉴스",
-   "ts": 1789867479,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tSF9EMTFFOXU3OUlRRC1QTmlLUnZ4d0p0dXZlSV9EQ0dLZ0UwZTlyWkh0bzVFcE1rSl83NUNoVmlCbktKdUozRWN5cnU0Rm1wTFpDSFE1V21yZw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "데일리안",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, AI 데이터센터 냉각 시장 공략 가속…고효율 터보 칠러 출시 - 데일리안",
-   "ts": 1789868760,
-   "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ3Y5Zm5NRTNKLU1OdExrYWEyUnM0U1p2LWNiWDNwVzRzdEdOYnZKVWw5a05adnpWWXkxR3NURkhhS2hxYXJsZGNQNXpmd3BEVk0wX0RQXzhGakdtdDBqMm1vaEhiRGx0TVJXTV9zMHNxU2l0LUFVcFdCQk14Um9NNlplTkVPLUM2c2taX2gxRG9uZXR0TDRSdFdjM1dZY3VwWm9BSUdBbjZWeUpZSEhUai1Mc09fa0UxRUE5UHo2cUhDRkVGUUoxX3h0OGVnSTRsZzk2WU9QbXdfc2NsemRxbGdRbWZqYTNUOUlacA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 1,
-   "sec": "유틸리티·정책",
-   "t": "지역난방公 이세걸 감사위원, 감사체계 혁신 사례 발표",
-   "ts": 1789894271,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303289"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 11,
-   "sec": "데이터센터·AI전력",
-   "t": "수자원공사, 청정 수열로 데이터센터 구축 지원",
-   "ts": 1789893998,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303287"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 12,
-   "sec": "재생에너지·ESS",
-   "t": "그리너지, LTO 배터리로 산업 현장 공략 가속",
-   "ts": 1789832545,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303280"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "001fd9cb95168f6f": 1789868904,
+  "0030a5fb8744ff3f": 1789870630,
   "0033fde36740424f": 1789729598,
   "003700b0bc3aa10c": 1789627496,
   "0065f968ca88a37e": 1789733129,
@@ -2317,8 +2187,8 @@
  },
  "companies_today": {},
  "day": "2026-09-20",
- "last_clip": 1789863399,
- "last_msg_poll": 1789870311,
+ "last_clip": 1789870630,
+ "last_msg_poll": 1789870877,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2359,7 +2229,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-20 11:11 KST",
+  "last_run": "2026-09-20 11:21 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
