@@ -79,7 +79,18 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 0,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "토큰포스트",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "2030년 데이터센터 전력 950TWh 전망…비트코인 채굴업체, AI 전환 가능성 - 토큰포스트",
+   "ts": 1789928760,
+   "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aMmpXdlVOOFNLLWctLWF5QmtaX21JOEYySld0TGRtWUh1SkRXYUI1emZxa19OakUtejljUTI5ZC1pZ0lzVm1pTG9yNGc1dk1p?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "001fd9cb95168f6f": 1789868904,
@@ -1393,6 +1404,7 @@
   "92015a0aa1187628": 1789634416,
   "920518e23aaa8e4f": 1789627496,
   "9213a500f5f7c4e3": 1789627496,
+  "925690dfa9aefbfb": 1789929436,
   "92965c5a2118e319": 1789705221,
   "9298af22c3c21b89": 1789629088,
   "929e6d37a09c58d9": 1789893929,
@@ -2373,7 +2385,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789919867,
- "last_msg_poll": 1789929120,
+ "last_msg_poll": 1789929685,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2414,7 +2426,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 03:32 KST",
+  "last_run": "2026-09-21 03:41 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
