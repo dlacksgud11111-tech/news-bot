@@ -79,58 +79,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "토큰포스트",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "2030년 데이터센터 전력 950TWh 전망…비트코인 채굴업체, AI 전환 가능성 - 토큰포스트",
-   "ts": 1789928760,
-   "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aMmpXdlVOOFNLLWctLWF5QmtaX21JOEYySld0TGRtWUh1SkRXYUI1emZxa19OakUtejljUTI5ZC1pZ0lzVm1pTG9yNGc1dk1p?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "한국일보",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "데이터센터 200곳 몰린 美지역, 1.8조원 세수에도 \"이제 그만\" 왜? - 한국일보",
-   "ts": 1789932600,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0RlktNG1pdURJcGZmTjltWlpISS1JUEJKcGllOVo4T1JGczJJb1d1dFFuZU5LckJaakZEbk9hdkVNNkE2R1VfLWd1cGZvX09YVWpPMl8wbmN6dldSWVdPWHBZbERpVVRCNktOalVR0gFzQVVfeXFMUFFFTmVERXdQczhtR2ZwbUtzcmpidHhyXzBOUF82TUQwam9ZOURNTjBKbTh4Uk5iS2MyYlBQb0FkZ1YyVjRXVkczU0YzZHZYU0VjSXF3enplVm9WdzVMbjNxTGxTTW9NdDN2WDMyOTZtSnd4UQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "supple.kr",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "GS, AI 데이터센터 병목 스타트업으로 푼다 [상생경영] - supple.kr",
-   "ts": 1789934400,
-   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tRHdYbHhyRzlxbzRJZUdwQUJGMW81bEFNRWJ2VGNRQm81elE4UUJOVlVLdWxhUnZfcUhIYlB5cDVvUGtMSFFaVHhDS1ZlRjV0ODJoc0g3OTZWWGs1?oc=5"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "팝콘뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, AI 데이터센터 최적화 ‘공랭식 터보 칠러’ 출시 - 팝콘뉴스",
-   "ts": 1789866000,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qR19ZMmU5Z2JuMmdxel9YSlduZlNhaUtKTVljLTJwZFBzNU9CNUZ4Ukp0YlhsQnFjVzBaZGZVT2tXang1cnBGVXNwQzFFSVpDY3ZrV1V2T0J6ZFZ4ZGRZcWtadmlTTGtLV29DMXFR0gFyQVVfeXFMTU5DbHhOc3gtZDJkc2VoUUM3Y2JXY3dnMFVmYk5DTnJpdXJVWFMzZXNPMTE4X0NtekJPbnA4Tmc5QjhQcE5QTlAzMnROdDhwMTBfaW9HclBnaVcxNW1qRGJQZ2hCTEpsczVLODJlRWhYSUdR?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "건설노동자, 전자카드 한달에 15일쓰면 2만원 상품권…홍보행사",
-   "ts": 1789938008,
-   "u": "https://www.yna.co.kr/view/AKR20260918168800530"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "001fd9cb95168f6f": 1789868904,
@@ -2442,8 +2391,8 @@
  },
  "companies_today": {},
  "day": "2026-09-21",
- "last_clip": 1789919867,
- "last_msg_poll": 1789941569,
+ "last_clip": 1789941629,
+ "last_msg_poll": 1789941879,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2484,7 +2433,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 06:59 KST",
+  "last_run": "2026-09-21 07:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
