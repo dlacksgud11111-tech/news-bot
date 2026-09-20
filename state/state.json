@@ -74,58 +74,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 4,
-   "s": "대한경제",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, AI 데이터센터용 터보 칠러 출시…전력 소비 30% 절감 - 대한경제",
-   "ts": 1789869643,
-   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aMXdFUy1OUUFRcVN2OURHa29ES0lXV2lQcDdOOEVKNzlsemFzR2Z1R1FYSjVYN2VQS0x2V2FtS0NRMlRzRDk4anRLbW1nY01HekgzWnAzcUp6a2RxWE9xM3Qxcmg0REpRcEZrMDFJdERFZ1Aw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "포쓰저널",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, AI 데이터센터용 대용량 칠러 출시…전력 부담 줄인다 - 포쓰저널",
-   "ts": 1789872241,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zVVJ3Qkk0Wl9RREpPc0VzMDJ5a1gxVDFBNDVZU2lOV24wRzFadTBnRU8xMHFvaGN2QTItaFcxS292a1pvV0JNYllaY3BrZE1RSHVXeHJadnB1NEVRQmRCMlh1YWI?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "경향신문",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, AI 데이터센터 ‘맞춤형’ 터보 칠러 출시 - 경향신문",
-   "ts": 1789868880,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01ajRTUE9pTzBXbzY3RV9HZFFDTUNqMTZ1b2JiUVdrbGU3TGdJZkVJcURyNjN3b1l2Q2lUYjNabFVMR1ZUZFBsRldVbWNmY2V6bG1zcDA0MUFBZ9IBX0FVX3lxTE9JSmVwTEVod2Fqei15TkhZTE9TVjIzTXdTY3RRaGdfSTBxOGpJdWJadUVCYVpnRzNVb2xBckVRSFFIUWtRTEdleGNzX0Z5VnlTWGQ0MW1GbzZoV3NuWHBZ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "재경일보",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "LG, AI 데이터센터 전력 30%↓ '냉각 혁명' 신제품 출시 : 경제 - 재경일보",
-   "ts": 1789867320,
-   "u": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4wck5sRjd3TE5Kb0p5dGxIWjFZU2VUdTZyMHptNEw5emE2b3RNOFExSTAwd1FGWmdEUld1MzhuYU5Hd3cxV1lkRTh3?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "충북도, 대청댐 수열에너지단지에 2조3000억 규모 AI데이터센터 추진 - v.daum.net",
-   "ts": 1789798867,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1haXdNMVc2cFRsWDJCRUZzWng1Z3pBZ2FTaEY5SmZ3Y2lTWUhFYzhQVnNuekJKVWhxdFJ3T0NPT0tnSWxHUU9zTkJ3Y1VUTWc?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "001fd9cb95168f6f": 1789868904,
@@ -2188,6 +2137,7 @@
   "f11ad9cbbac50d2f": 1789866315,
   "f13de6ed59d54f0a": 1789801516,
   "f169b74c6e4864c8": 1789627496,
+  "f17ce5a152d37376": 1789878021,
   "f17ef42c64168859": 1789691349,
   "f199ae83098968f1": 1789627496,
   "f1e9453bb7a31e77": 1789629088,
@@ -2315,8 +2265,8 @@
  },
  "companies_today": {},
  "day": "2026-09-20",
- "last_clip": 1789870630,
- "last_msg_poll": 1789877975,
+ "last_clip": 1789878021,
+ "last_msg_poll": 1789878273,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2357,7 +2307,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-20 13:19 KST",
+  "last_run": "2026-09-20 13:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
