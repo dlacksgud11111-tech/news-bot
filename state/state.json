@@ -74,68 +74,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 2,
-   "s": "투데이e코노믹",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, AI 데이터센터용 공랭식 터보 칠러 출시…냉각 효율·확장성 강화 - 투데이e코노믹",
-   "ts": 1789893205,
-   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WdUVWYXVfdC1pTXlFRVZ0YjdJM2hTb2ZNUmFrZ2k2ZzItZ1RBVldzWVhQelNGRW9vZDN6TXFCUUY5ZUJhUk5nNzhGaVFrcUQxVDJRX2NJa2NyWVBjclRKckdwTjFwLTA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "edaily.co.kr",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "美 데이터센터 향하는 日자금…일본생명, 대출 두배로 늘린다 - edaily.co.kr",
-   "ts": 1789871625,
-   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV3V3N09FOHJqbXJ5aGpkSTlpUnllQnpDSk9oeEJTaTk3TmlMb1N4d2NrSTQ1Y3FXME4xLUVnc0hFR1gzaDhpQ01BdlJHOVR2cG9OOEhDa1hZZDVBNkVTVVFRSFNhaGM2a1dTb0N4YUZaZVZrRGxlZWNwMkhBMmgydQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "한국경제",
-   "sc": 0,
-   "sec": "유틸리티·정책",
-   "t": "[단독] '대미투자 1호' 텍사스 LNG 발전…\"30조 투자해 20년간 60조 회수\" - 한국경제",
-   "ts": 1789893708,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oZ1RYMU9DWEppc3pLcmc2SlUtamhxeGM3VFVpM3B4R2ppMHZWc081U3pzUXdzUkZVN3V5XzNvMFJnbVJNX25pM2QwVnlBaWNFemxySk5SaUZhQQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일경제 : 경제",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "전력망 찜해놓고 방치 … 유령사업자 80% 퇴출",
-   "ts": 1789894194,
-   "u": "https://www.mk.co.kr/news/economy/12157614"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "GS, AI 데이터센터 인프라 넘어 '기술 생태계 키운다...스타트업과 협력 확대 - 뉴뉴스",
-   "ts": 1789894179,
-   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkYlVFc2VFR1lGeUtLZXYyR3pCMWtNY29QanJZVGVYajlOcElJeG1YZ1FSQmxUYWtnQTQ3UzFwNVd4a1dkdkdIYW1EQXFrZUtEdnlpZ1BmQS1tWHllZUVPYi1VV01jdw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "충청매일",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "대청댐 물로 AI데이터센터 식힌다 - 충청매일",
-   "ts": 1789894504,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3RjhZMjBXby1pVFNWM0JlSmhiTUpidFlWTmVka0xsY0dQT3VISGJoeThFaVBxTWh2Vk1mejBib3h1T1pZTnltMlhwUVhzRmYwUG1fY0czLTdpSlQ5V1QwT1pKUnMwd3pYVXc?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "001fd9cb95168f6f": 1789868904,
@@ -2410,8 +2349,8 @@
  },
  "companies_today": {},
  "day": "2026-09-20",
- "last_clip": 1789893027,
- "last_msg_poll": 1789900468,
+ "last_clip": 1789900531,
+ "last_msg_poll": 1789900770,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2452,7 +2391,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-20 19:34 KST",
+  "last_run": "2026-09-20 19:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
