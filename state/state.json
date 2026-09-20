@@ -89,6 +89,16 @@
    "t": "2030년 데이터센터 전력 950TWh 전망…비트코인 채굴업체, AI 전환 가능성 - 토큰포스트",
    "ts": 1789928760,
    "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aMmpXdlVOOFNLLWctLWF5QmtaX21JOEYySld0TGRtWUh1SkRXYUI1emZxa19OakUtejljUTI5ZC1pZ0lzVm1pTG9yNGc1dk1p?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "한국일보",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "데이터센터 200곳 몰린 美지역, 1.8조원 세수에도 \"이제 그만\" 왜? - 한국일보",
+   "ts": 1789932600,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0RlktNG1pdURJcGZmTjltWlpISS1JUEJKcGllOVo4T1JGczJJb1d1dFFuZU5LckJaakZEbk9hdkVNNkE2R1VfLWd1cGZvX09YVWpPMl8wbmN6dldSWVdPWHBZbERpVVRCNktOalVR0gFzQVVfeXFMUFFFTmVERXdQczhtR2ZwbUtzcmpidHhyXzBOUF82TUQwam9ZOURNTjBKbTh4Uk5iS2MyYlBQb0FkZ1YyVjRXVkczU0YzZHZYU0VjSXF3enplVm9WdzVMbjNxTGxTTW9NdDN2WDMyOTZtSnd4UQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1693,6 +1703,7 @@
   "b2f86a66fe564c20": 1789629150,
   "b318816d992bddc2": 1789728460,
   "b33e42b26de2cfb1": 1789688716,
+  "b34d78b8f4826f6e": 1789933829,
   "b3640013a1aba591": 1789657219,
   "b39b383ec149733f": 1789627496,
   "b3bba58b6466c8b0": 1789706118,
@@ -2385,7 +2396,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789919867,
- "last_msg_poll": 1789933766,
+ "last_msg_poll": 1789934077,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2426,7 +2437,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 04:49 KST",
+  "last_run": "2026-09-21 04:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
