@@ -127,7 +127,7 @@
   },
   {
    "co": "",
-   "n": 6,
+   "n": 7,
    "s": "연합뉴스 경제 최신기사",
    "sc": 2,
    "sec": "데이터센터·AI전력",
@@ -164,10 +164,21 @@
    "t": "LG전자, AI 데이터센터 '전력 다이어트'…고효율 터보 칠러 출격 - 파이낸셜뉴스",
    "ts": 1789867479,
    "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tSF9EMTFFOXU3OUlRRC1QTmlLUnZ4d0p0dXZlSV9EQ0dLZ0UwZTlyWkh0bzVFcE1rSl83NUNoVmlCbktKdUozRWN5cnU0Rm1wTFpDSFE1V21yZw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "데일리안",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, AI 데이터센터 냉각 시장 공략 가속…고효율 터보 칠러 출시 - 데일리안",
+   "ts": 1789868760,
+   "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ3Y5Zm5NRTNKLU1OdExrYWEyUnM0U1p2LWNiWDNwVzRzdEdOYnZKVWw5a05adnpWWXkxR3NURkhhS2hxYXJsZGNQNXpmd3BEVk0wX0RQXzhGakdtdDBqMm1vaEhiRGx0TVJXTV9zMHNxU2l0LUFVcFdCQk14Um9NNlplTkVPLUM2c2taX2gxRG9uZXR0TDRSdFdjM1dZY3VwWm9BSUdBbjZWeUpZSEhUai1Mc09fa0UxRUE5UHo2cUhDRkVGUUoxX3h0OGVnSTRsZzk2WU9QbXdfc2NsemRxbGdRbWZqYTNUOUlacA?oc=5"
   }
  ],
  "clip_titles": [],
  "clipped": {
+  "001fd9cb95168f6f": 1789868904,
   "0033fde36740424f": 1789729598,
   "003700b0bc3aa10c": 1789627496,
   "0065f968ca88a37e": 1789733129,
@@ -921,6 +932,7 @@
   "59450169591b871b": 1789648519,
   "598ad1fc2ec8a7c8": 1789631717,
   "59b77681f7a13237": 1789689915,
+  "59b969484454a68c": 1789868904,
   "59cc4129a5998504": 1789688119,
   "59fb8e3b3566d812": 1789629088,
   "5a02b5e3acb6d19e": 1789630519,
@@ -2246,7 +2258,7 @@
  "companies_today": {},
  "day": "2026-09-20",
  "last_clip": 1789863399,
- "last_msg_poll": 1789868578,
+ "last_msg_poll": 1789869151,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2287,7 +2299,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-20 10:42 KST",
+  "last_run": "2026-09-20 10:52 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
