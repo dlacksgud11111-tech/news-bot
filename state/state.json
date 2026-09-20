@@ -127,13 +127,33 @@
   },
   {
    "co": "",
-   "n": 1,
+   "n": 2,
    "s": "연합뉴스 경제 최신기사",
    "sc": 2,
    "sec": "데이터센터·AI전력",
    "t": "LG전자, AI 데이터센터용 터보 칠러 출시…전력소비 30%↓",
    "ts": 1789866001,
    "u": "https://www.yna.co.kr/view/AKR20260920014600003"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "아시아투데이",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, AI데이터센터 솔루션 신제품 출시…냉각 시장 주도권 강화 - 아시아투데이",
+   "ts": 1789866000,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HQmpncm5jS2podEYzTkphYTdUZl9zSHYycDBHNnZvbTRfMHFWWjU5ZWpfellGaXVuektWT1k3Vmh1VEpYdkl6MUlBMm5tWUQ5bkY2VnRfejd0Y1cwUVpPd20wZG5QMlhCbXlJMlFR?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "ebn.co.kr",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, AI 데이터센터 최적화 공랭식 터보 칠러 출시 - ebn.co.kr",
+   "ts": 1789866000,
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tYkE3cWxnWGh2LTdVa3BsSWhMdmhpd0V5cWZRYXE3V3hJWHZGWDVHX1gwYUJ5X3dMdVNuWG1ZOHVKWXJ5ZE5vY3J1OWNsSG9pVWhkUWt5OWpyZHY5ZVo5Qm1tVHRzdmpT?oc=5"
   }
  ],
  "clip_titles": [],
@@ -156,6 +176,7 @@
   "023fa609b2d47d01": 1789690830,
   "0257ba6e10553e21": 1789691349,
   "025c2c5600cbfbe9": 1789629088,
+  "026e1fbf0f35f033": 1789866616,
   "029c1af8c1cec11e": 1789627496,
   "02a103e43497cc0b": 1789649116,
   "02b71e992e1d00bf": 1789719622,
@@ -603,6 +624,7 @@
   "36ac6dfa2a3e862f": 1789627496,
   "36b903210aa076e2": 1789859418,
   "36da0a929655d15e": 1789834229,
+  "36e88344535fbf60": 1789866616,
   "36f2743c21080955": 1789688419,
   "37489c547bab7174": 1789690229,
   "3749c7eb9b97674a": 1789627496,
@@ -740,6 +762,7 @@
   "4655a6a7bf664483": 1789629088,
   "4660e32af8a380f7": 1789643416,
   "46bc5faa42548420": 1789775739,
+  "46ccdac604ef44bc": 1789866616,
   "46db9cfff8baf7a3": 1789709642,
   "46f32379188a707f": 1789859128,
   "46f8fc3d37c427b9": 1789782685,
@@ -2191,7 +2214,7 @@
  "companies_today": {},
  "day": "2026-09-20",
  "last_clip": 1789863399,
- "last_msg_poll": 1789866562,
+ "last_msg_poll": 1789866864,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2232,7 +2255,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-20 10:09 KST",
+  "last_run": "2026-09-20 10:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
