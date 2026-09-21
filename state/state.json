@@ -154,6 +154,16 @@
    "t": "현대건설, 포항 AI 데이터센터 초단기 시공 본격화 - 핀포인트뉴스",
    "ts": 1789949140,
    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nT0x0WU5mbDVsR2NuSjdDVXVWSnVDaTZlRkVVaGZPRDlqT09OTXFKdE9jbzV6bWc4WmhUWkU5OTNlUDRJUWFMMjJCV2JhbzBrU1h4LUsycE9FVGc4VTEtMGdvV3lzZ1N1TTl1Y284ZDJwc1XSAXdBVV95cUxPMHA5djY0MFU5VTFkTFJEUXZ4TU10bzM4ZzNRSkR5LTAwcnFyOVBwZTdvalpHNHNTSkZtRXVoalFUT2dqMHVSdy14aDlSTUx1aUxpTFNmSWtGMlIwX1dPQXpXdVRHbTN5aGZCazBzSEVsWnBNLTRlZw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "기계설비신문",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, AI 데이터센터용 무급유 터보 칠러 출시 - 기계설비신문",
+   "ts": 1789950446,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WV0pqU0tJNXlXZm1qalRpc1ZPbTkxVmUySGZXVU5LZFB3dFZscXJJamI1RGFqMDR0Vm1hNk1fUFhwX0hqckh3dnQzaFFDZGE5aFNrRnhpN3VaQ3E5RThmUzhUc1dnUVU2QUplTA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -312,6 +322,7 @@
   "0f6222b8aa9f92af": 1789873818,
   "0f63b812803ed01d": 1789865116,
   "0f6abb831c829b0b": 1789627496,
+  "0f8151facc336329": 1789950858,
   "0f84e6d208647f9e": 1789743454,
   "0fd19f5e30aea85e": 1789691718,
   "0fffbfecfec4817f": 1789627496,
@@ -1932,6 +1943,7 @@
   "bbf7dbbe59c49807": 1789718720,
   "bbf9ac8f01b5ca5f": 1789627496,
   "bc33aa962d5f6e6a": 1789638920,
+  "bc3799a2d6808c33": 1789950858,
   "bc994ca12211ee69": 1789720223,
   "bcc05bce8f9ec134": 1789693531,
   "bcc1e6b600f2c894": 1789630519,
@@ -2129,6 +2141,7 @@
   "d154bc45fa6daf6d": 1789627496,
   "d16a4a417b646b4a": 1789946508,
   "d1798765cc8a757f": 1789627496,
+  "d19125c6a274d2cd": 1789950858,
   "d19254c70f86c888": 1789695321,
   "d19a6606ce82287a": 1789712512,
   "d1a163164a7c6144": 1789629088,
@@ -2302,6 +2315,7 @@
   "e4b2312e3e4f8177": 1789859418,
   "e4c608a6e944143b": 1789629088,
   "e4d50b5c2cd709b6": 1789707915,
+  "e5174e9d2e975099": 1789950858,
   "e51dc2e0f6ce79b4": 1789627496,
   "e5222484de72c8bc": 1789634116,
   "e52b137e1a50207a": 1789627496,
@@ -2518,6 +2532,7 @@
   "faa3ca2a82ccea2d": 1789634416,
   "faac4a3a5fdc20ab": 1789699582,
   "fab178fbbba2e096": 1789629150,
+  "fab35ecb9e48ad6c": 1789950858,
   "facdb0ffaa2494f7": 1789877422,
   "fae80569bce639a5": 1789627496,
   "fb05622e5d050cb2": 1789629088,
@@ -2566,7 +2581,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789948832,
- "last_msg_poll": 1789950525,
+ "last_msg_poll": 1789951105,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2607,7 +2622,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 09:28 KST",
+  "last_run": "2026-09-21 09:38 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
