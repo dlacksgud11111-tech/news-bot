@@ -105,6 +105,16 @@
    "t": "Kodiak Gas Services to supply 76MW of behind-the-meter gas power to West Texas data center",
    "ts": 1790003770,
    "u": "https://www.datacenterdynamics.com/en/news/kodiak-gas-services-to-supply-76mw-of-behind-the-meter-gas-power-to-west-texas-data-center/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "Federal judge restores $7B Solar for All program, says EPA illegally axed it",
+   "ts": 1790000181,
+   "u": "https://www.utilitydive.com/news/federal-judge-restores-7b-solar-for-all-program-says-epa-illegally-axed-i/830879/"
   }
  ],
  "clip_titles": [],
@@ -451,6 +461,7 @@
   "18e1e48ca81577e5": 1789632918,
   "18f0214836ede48a": 1789722621,
   "18f3383ae7124afc": 1789870063,
+  "194063f850271301": 1790005520,
   "1948206fe56d8cc6": 1789724119,
   "195d54f1d1cb50ce": 1789959919,
   "195fcf5f5f13579b": 1789696217,
@@ -2932,6 +2943,7 @@
   "d3722c2436c237f9": 1789892428,
   "d37257d4863bd24a": 1789627496,
   "d378394a9bb3fde4": 1789627496,
+  "d38d6edaaa187eae": 1790005520,
   "d3a4aa6a407d43bf": 1789870063,
   "d3a981938e2fc1a5": 1789634416,
   "d3cc84475ae93c56": 1789971751,
@@ -3507,7 +3519,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790000426,
- "last_msg_poll": 1790005463,
+ "last_msg_poll": 1790005764,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3548,7 +3560,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 00:44 KST",
+  "last_run": "2026-09-22 00:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
