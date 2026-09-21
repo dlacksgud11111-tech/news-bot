@@ -135,6 +135,26 @@
    "t": "Chinese scientists build 33.3%-efficient perovskite-silicon tandem solar cell processed in ambient air",
    "ts": 1789995160,
    "u": "https://www.pv-magazine.com/2026/09/21/chinese-scientists-build-33-3-efficient-perovskite-silicon-tandem-solar-cell-processed-in-ambient-air/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "U.S. solar module production reaches historic 100 GW landmark",
+   "ts": 1789995480,
+   "u": "https://www.pv-magazine.com/2026/09/21/u-s-solar-module-production-reaches-historic-100-gw-landmark/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 9,
+   "sec": "전력기기",
+   "t": "Malaysia sets fixed grid charge, 10-year contracts for corporate solar",
+   "ts": 1789995420,
+   "u": "https://www.pv-magazine.com/2026/09/21/malaysia-sets-fixed-grid-charge-10-year-contracts-for-corporate-solar/"
   }
  ],
  "clip_titles": [],
@@ -180,6 +200,7 @@
   "02a103e43497cc0b": 1789649116,
   "02b71e992e1d00bf": 1789719622,
   "02b9d69cc78a17c3": 1789972883,
+  "02c4766f31327deb": 1789995621,
   "02c575ca16943e54": 1789954905,
   "02cd0f9524e2dcbf": 1789725558,
   "02f65c64f70981ea": 1789959919,
@@ -3016,6 +3037,7 @@
   "db2ee9d48a7270bd": 1789698990,
   "db4126ed4f767608": 1789951430,
   "db5c56d9ab39aae8": 1789627496,
+  "db72fc66ea4771f8": 1789995621,
   "db87b07f922da4df": 1789851916,
   "db9de21f163f6baa": 1789644321,
   "dbcfd521805eed15": 1789627496,
@@ -3483,7 +3505,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789992961,
- "last_msg_poll": 1789995561,
+ "last_msg_poll": 1789995871,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3524,7 +3546,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 21:59 KST",
+  "last_run": "2026-09-21 22:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
