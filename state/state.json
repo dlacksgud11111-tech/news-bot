@@ -115,6 +115,16 @@
    "t": "AI데이터센터, 10월부터 정책금융 '별도 품목' 분리⋯냉각·전력설비도 포함 - 아이뉴스24",
    "ts": 1789977680,
    "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fOUFCNGt5cjZuamExYmlpbGkzb1U4Rlk3NUZJVHVIQ2xzRTlWRFlBZ2VDeDl6OXdpYVZleDNCUS16WmgxSnRzRzRBdw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "메트로신문",
+   "sc": 4,
+   "sec": "데이터센터·AI전력",
+   "t": "코오롱글로벌, 데이터센터 개발…전력·에너지 기업과 맞손 - 메트로신문",
+   "ts": 1789976997,
+   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mS2hkVkVneDRiWmI0bGFjbC1aLWpOcnYwNFhSZXkyYXRZZUxPXzZnT0ZpX0FNc29TMnRvMzFXTEttSW5xcHI2ZjZfVDJMdjZJaGdDaU8yR0xVUUQ3TVdkeA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2922,6 +2932,7 @@
   "e08ccfa8e4c285a3": 1789800017,
   "e0ad829b3839a141": 1789663217,
   "e0b5be5e6f041d29": 1789629088,
+  "e0d4079fac221f92": 1789979120,
   "e0ddcc12e85c861c": 1789627496,
   "e0e61eb4013ad25d": 1789627496,
   "e10dc488ce9baefc": 1789718720,
@@ -3107,6 +3118,7 @@
   "ee522c4f5043bc95": 1789693531,
   "ee5e0be9f6213802": 1789627496,
   "ee7d04d0099b25b0": 1789638920,
+  "eeb80fa7fe0ac053": 1789979120,
   "eecf97d47c193c6f": 1789969411,
   "eed13029ced1d3b0": 1789635918,
   "eefb42375dc288d2": 1789692619,
@@ -3319,7 +3331,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789978521,
- "last_msg_poll": 1789979058,
+ "last_msg_poll": 1789979371,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3360,7 +3372,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 17:24 KST",
+  "last_run": "2026-09-21 17:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
