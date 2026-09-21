@@ -165,6 +165,26 @@
    "t": "텍사스, 데이터센터 신규 허가 중단…전력망 전면 감사 - edaily.co.kr",
    "ts": 1790033535,
    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdUFKcDVrSTVKUjlHOHpHOUZkZzVfRDJuOVR6b01BeU5SMVFReUJER1BwNjM5aHBUR2dQQWItLUpZOHVhVVhQTkVEVEkyc1pXMDI4cHZxYWNBMnZBdUwyU19ySW1tREh6Ny1xcDUzTFdVM1dPWnFyV0stMmNlRHppZw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "이투뉴스 - 전체기사",
+   "sc": 5,
+   "sec": "재생에너지·ESS",
+   "t": "이온어스, 이동형ESS로 日 야외 음악 페스티벌 이틀간 전력공급",
+   "ts": 1790066446,
+   "u": "http://www.e2news.com/news/articleView.html?idxno=334478"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "글로벌이코노믹",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "LS일렉트릭, 변압기 공장에 4족 로봇…‘무인 순찰’ 시작 - 글로벌이코노믹",
+   "ts": 1790033696,
+   "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb3FZWDZMS2ZsZzBuTHFwc3VJQUNEYUlzNlZiVHRpTTBLaEF3czQwSllPN3VFaU5sLVY1eHJlSk80d05ueHdIaUN5TnItRHFkbUV2cm9XOW9Ja2Fhd2YzRmxTQW1Iald0Rm1XaTNFSGN5ZUt2OFJKRE10R0xXS0EtelZkU2NKQQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1162,6 +1182,7 @@
   "42e6621670e1ce17": 1789630256,
   "42f78a0d5c429b33": 1789785019,
   "42fb3ce64a490096": 1789974322,
+  "43135d042755b40f": 1790034282,
   "431fbc431c7a2c52": 1789959919,
   "4326786bc50832c8": 1789977328,
   "4335dbc6a7c3d683": 1789692920,
@@ -1313,6 +1334,7 @@
   "4cad9fb0f0d11b6b": 1789976119,
   "4ccd872f3f171d7a": 1789963516,
   "4cd1c25d44cf2c0d": 1789637416,
+  "4ce595d232a08a23": 1790034282,
   "4d1a2ad442906cf1": 1789715716,
   "4d23b13e301ff318": 1789720517,
   "4d25e3953a224d15": 1789720517,
@@ -1602,6 +1624,7 @@
   "63b9f6cbaa1d6e88": 1789627496,
   "63d3213219efcd36": 1790003117,
   "63d996a8e5cba507": 1789627496,
+  "63e45fb4c82e8f6c": 1790034282,
   "63e562f66e85057e": 1789731320,
   "641fe00a4d0a7f0c": 1789865116,
   "642b41d332e4a7ae": 1789916965,
@@ -1629,6 +1652,7 @@
   "66332d3cee60d674": 1790020518,
   "667cb00fd62e78c9": 1789718720,
   "667ef29e612c5903": 1789649116,
+  "669ee970cf3465e2": 1790034282,
   "66a6e0ff671e56cd": 1789627496,
   "66af11da50f66e07": 1789873818,
   "66bdfb225132aa32": 1789851916,
@@ -1877,6 +1901,7 @@
   "79e5f88d7eb74c3a": 1789630819,
   "79e760c832b2bcf2": 1789744587,
   "79ee5a0a1131f13c": 1789698990,
+  "79efc0be69a70cb2": 1790034282,
   "79f35522feda536b": 1789956616,
   "79fd6d4d7c9abf2b": 1789788917,
   "7a07c1377a973723": 1789962027,
@@ -2768,6 +2793,7 @@
   "bb05e14af612e15b": 1789733129,
   "bb0cfad5739c236d": 1789783839,
   "bb1c2567cdde1f0b": 1789974627,
+  "bb2113d95d3250d6": 1790034282,
   "bb3c70befd0316d7": 1789627496,
   "bb3fe83b53a197b4": 1789967119,
   "bb73dd5a7eee6366": 1789627496,
@@ -3697,7 +3723,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790028107,
- "last_msg_poll": 1790033955,
+ "last_msg_poll": 1790034529,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3739,7 +3765,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 08:39 KST",
+  "last_run": "2026-09-22 08:48 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
