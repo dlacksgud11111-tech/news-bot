@@ -105,6 +105,26 @@
    "t": "데이터센터 반감에 월가도 회의론…IPO 줄줄이 연기 - 마켓인",
    "ts": 1790031270,
    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSSVpKLUVCVkpsMWRtR3JMM3NzUHZPVHo4bHV1eUEwNGk3WEduSmptTDRxcVFUY0JiZ1NfcG0yREpLNERnVGV4Q1RyVk9qcHhkVTZ5Z0pER1hMcUZhWi1WRzhiWHpDVnpxS01peEJNWWk5ZG8?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "아주경제",
+   "sc": 16,
+   "sec": "전력기기",
+   "t": "LS일렉트릭, 초고압 변압기 공장에 4족 로봇 투입…스마트팩토리 고도화 - 아주경제",
+   "ts": 1790031907,
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KVUJNbUtSLXNUMzVuVnpKNkhudklsQWxmSjdiUWgyV2xkdFdmdVJNSHg0Rm1LNWhfN0xTZHl1bUs3TGd1SVljSzhFTzlIWTM0UFpGOFZEdEQtUdIBWEFVX3lxTE15bmlqN0NqTTlrY3YweXBGVEkzRVJEN1Nva0xBMHRMYnpkTkNIY2hTQVp1S3l5cnhnMi05cmRJRFZtMnpWQXhQRHFXQTBHSHphMFkxMXN2cU8?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "뉴스1",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "LS일렉트릭, 4족 로봇으로 변압기 공장 순찰…스마트팩토리 고도화 - 뉴스1",
+   "ts": 1790031842,
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xWDNQaHo3eUlzQWFpY1BUM3JHbnNYY05jNUhDd2d5LVpsX0htZUYyeFp6c1loTjRQWVpycHE5UndDUG9vbDQwUzJ1Y0VEMkRpUF9RS1JTU09aakZIeXVHYlhraHnSAWpBVV95cUxOUDctcThIcWFnNG9QQTM0ay1DMzRVanY4YnBoVVZzdVB0Njh3XzRuQ3loVGc4YjRiV0RxZkhiVGREUGRLb19zOTF4Y3Y1TFNkM0h5MVZTTnNrTGVra1ZTY256MHJBTHY1WkV3?oc=5"
   }
  ],
  "clip_titles": [],
@@ -377,6 +397,7 @@
   "12aafd7f55c89caf": 1789627496,
   "12ac389b7fb194b2": 1789627496,
   "12b9c0f4a59b3fa4": 1789979721,
+  "12c3defa55bcbb59": 1790032230,
   "12cd8775ca36aa2f": 1789965616,
   "12d93b6779bb254d": 1789866315,
   "12f374c28802161b": 1789693220,
@@ -2345,6 +2366,7 @@
   "a367751b8c6a0369": 1789629088,
   "a39cacfee9163f4a": 1789707915,
   "a3aaec2d13fcf7c2": 1789851916,
+  "a3c4d9b211d1fd58": 1790032230,
   "a3d47687aaefcc56": 1789635016,
   "a3d5bdd6021fec1f": 1789677617,
   "a3f39e4e0dba56cd": 1789956616,
@@ -2754,6 +2776,7 @@
   "bfbdb5dc2d3cef2a": 1789970013,
   "bfc37a3454781376": 1789863399,
   "c00adeab68e2f372": 1789716319,
+  "c020e8e625ee5d07": 1790032230,
   "c03a724250752735": 1789783839,
   "c0491fdd381ce1d7": 1789627496,
   "c05e9d5fb23fbab4": 1789953163,
@@ -3145,6 +3168,7 @@
   "dd41ca85f0821c92": 1789960215,
   "dd4e457a398e798a": 1789960215,
   "dd65faff5f75cd2c": 1789965314,
+  "dd6af2e1102d1db9": 1790032230,
   "dd74163ab5c41807": 1789629088,
   "dd778a1f1ae30322": 1790006722,
   "dd834a5e5b0f1791": 1789969411,
@@ -3399,6 +3423,7 @@
   "eff63fc4501319ef": 1789693220,
   "f024d61dfeceb8a7": 1789707915,
   "f03e7c9b44c32dd5": 1789692920,
+  "f04e4fcf53437a24": 1790032230,
   "f05587a73d1bbbf2": 1790006722,
   "f05752777b5cfae3": 1789629088,
   "f05de461d33ec664": 1789694131,
@@ -3509,6 +3534,7 @@
   "f7d7a12ffc488d38": 1789724119,
   "f7e00346ac42eb4e": 1790003117,
   "f7fbc61cd834fc8d": 1789953163,
+  "f811324a60c82885": 1790032230,
   "f8128766361b9925": 1789627496,
   "f82bb3f076d2fb84": 1789963516,
   "f83efdb5b88e77c7": 1789722316,
@@ -3614,7 +3640,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790028107,
- "last_msg_poll": 1790032159,
+ "last_msg_poll": 1790032476,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3656,7 +3682,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 08:09 KST",
+  "last_run": "2026-09-22 08:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
