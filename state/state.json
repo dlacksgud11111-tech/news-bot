@@ -95,7 +95,28 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 3,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 8,
+   "sec": "재생에너지·ESS",
+   "t": "Canada trade tribunal rescinds order on Chinese solar modules, laminates",
+   "ts": 1789993500,
+   "u": "https://www.pv-magazine.com/2026/09/21/canada-trade-tribunal-rescinds-order-on-chinese-solar-modules-laminates/"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "잡포스트",
+   "sc": 22,
+   "sec": "전력기기",
+   "t": "LS ELECTRIC 1.65% 하락…전력기기 수주잔고 7조원 - 잡포스트",
+   "ts": 1789970641,
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKUk15Q3FQbHMxNEJQRDlPVml2NmViVjlEeHFkcVdMRHRVaWtyQUFCVlFWWFlxV2xieHI5VFBfOHNPbzdNTnFBSnMyV2EtQ0RKLTRqeEpVbEdydUpCREtrSHZEN2YtRzNES3B4NVN5TGVIQdIBckFVX3lxTFBKUk15Q3FQbHMxNEJQRDlPVml2NmViVjlEeHFkcVdMRHRVaWtyQUFCVlFWWFlxV2xieHI5VFBfOHNPbzdNTnFBSnMyV2EtQ0RKLTRqeEpVbEdydUpCREtrSHZEN2YtRzNES3B4NVN5TGVIQQ?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00124ecf9177fec9": 1789953163,
@@ -2405,6 +2426,7 @@
   "b03d36cecddeb06a": 1789689915,
   "b04029fdc1668494": 1789627496,
   "b0477da5905c2f43": 1789691718,
+  "b05fc5be9235474d": 1789993527,
   "b0614f5c9add27be": 1789695321,
   "b0664a88f9f5c59e": 1789707317,
   "b0a0bc52060cffd1": 1789627496,
@@ -2989,6 +3011,7 @@
   "dd65faff5f75cd2c": 1789965314,
   "dd74163ab5c41807": 1789629088,
   "dd834a5e5b0f1791": 1789969411,
+  "ddaf71388e1271ea": 1789993527,
   "ddcbbefc9c397895": 1789689626,
   "ddfbfbc9e7b4121f": 1789705221,
   "de1bc27084e33277": 1789627496,
@@ -3277,6 +3300,7 @@
   "f3fa29259793e55d": 1789709642,
   "f406c76a9efe5142": 1789693531,
   "f42e6bb7ee35cb7e": 1789894218,
+  "f4454dd69784060d": 1789993527,
   "f44aceb0fa782652": 1789948516,
   "f4544d9ad533b7bd": 1789634116,
   "f4596bd2908baada": 1789782685,
@@ -3404,6 +3428,7 @@
   "fd89cb70a9f4f14f": 1789980020,
   "fd99f14454433337": 1789859418,
   "fda36b739a75af5d": 1789965922,
+  "fdc836e660cb1dd4": 1789993527,
   "fdcdb1437c1741ac": 1789684520,
   "fdeff0f150665962": 1789865116,
   "fdfde46208e73426": 1789805116,
@@ -3433,7 +3458,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789992961,
- "last_msg_poll": 1789993202,
+ "last_msg_poll": 1789993771,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3474,7 +3499,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 21:20 KST",
+  "last_run": "2026-09-21 21:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
