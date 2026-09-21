@@ -84,7 +84,38 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 1,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "ABB",
+   "n": 1,
+   "s": "전기신문 - 전체기사",
+   "sc": 14,
+   "sec": "전력기기",
+   "t": "'AC에서 하이브리드 AC/DC 전력망으로'…BCG·ABB, 차세대 전력 아키텍처 전환 제언",
+   "ts": 1789996820,
+   "u": "https://www.electimes.com/news/articleView.html?idxno=372438"
+  },
+  {
+   "co": "한국전력",
+   "n": 1,
+   "s": "전기신문 - 전체기사",
+   "sc": 11,
+   "sec": "유틸리티·정책",
+   "t": "4분기 전기요금도 동결…한전 재무구조 개선 ‘요원’",
+   "ts": 1789996763,
+   "u": "https://www.electimes.com/news/articleView.html?idxno=372670"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "디스커버리뉴스(DISCOVERYNEWS)",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "코오롱글로벌, 데이터센터 개발 ‘원스톱’ 체계 구축 - 디스커버리뉴스(DISCOVERYNEWS)",
+   "ts": 1789956597,
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4T2ZaalZRaDB6SFJGdnZYUnI4eUpKUndzaDRJUGtQYUdhMTBHbkZaalFjN2FOcktiZFAxaU04ZUE4VjB6RDBqZHdxTXJDWjIyR1NqbGhzWUYtcTVzUXhRempFRTNyX3VreVhFUDhnenhCQQ?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00124ecf9177fec9": 1789953163,
@@ -471,6 +502,7 @@
   "211b9f92b8cc8c8a": 1789627496,
   "211fb2817f777687": 1789627496,
   "21309dc8f5ae751d": 1789632334,
+  "216ed9ead218f8af": 1789965017,
   "21781c32353efcac": 1789704620,
   "217a39bca4f2e2c0": 1789946508,
   "217c306208e09d6e": 1789636827,
@@ -1904,6 +1936,7 @@
   "a5aacbc42a1bcf55": 1789638052,
   "a5bef8c64e4df41a": 1789685428,
   "a60c0e49cb633f2f": 1789627496,
+  "a618d80532a25600": 1789965017,
   "a648cce34289d9a2": 1789802414,
   "a666d79040b610bf": 1789627496,
   "a6948e01fd51c57f": 1789715119,
@@ -2124,6 +2157,7 @@
   "b842f097a5fbd69d": 1789662917,
   "b847b6e2ec86cc10": 1789954327,
   "b8647869bf31c834": 1789627496,
+  "b87cf380875cfe62": 1789965017,
   "b883121171c50158": 1789647653,
   "b89dcfa43157dfbd": 1789689915,
   "b8e63103370bfc15": 1789691718,
@@ -2906,7 +2940,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789963516,
- "last_msg_poll": 1789964958,
+ "last_msg_poll": 1789965264,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2947,7 +2981,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 13:29 KST",
+  "last_run": "2026-09-21 13:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
