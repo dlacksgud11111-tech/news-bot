@@ -95,78 +95,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 3,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 8,
-   "sec": "재생에너지·ESS",
-   "t": "Canada trade tribunal rescinds order on Chinese solar modules, laminates",
-   "ts": 1789993500,
-   "u": "https://www.pv-magazine.com/2026/09/21/canada-trade-tribunal-rescinds-order-on-chinese-solar-modules-laminates/"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "잡포스트",
-   "sc": 22,
-   "sec": "전력기기",
-   "t": "LS ELECTRIC 1.65% 하락…전력기기 수주잔고 7조원 - 잡포스트",
-   "ts": 1789970641,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKUk15Q3FQbHMxNEJQRDlPVml2NmViVjlEeHFkcVdMRHRVaWtyQUFCVlFWWFlxV2xieHI5VFBfOHNPbzdNTnFBSnMyV2EtQ0RKLTRqeEpVbEdydUpCREtrSHZEN2YtRzNES3B4NVN5TGVIQdIBckFVX3lxTFBKUk15Q3FQbHMxNEJQRDlPVml2NmViVjlEeHFkcVdMRHRVaWtyQUFCVlFWWFlxV2xieHI5VFBfOHNPbzdNTnFBSnMyV2EtQ0RKLTRqeEpVbEdydUpCREtrSHZEN2YtRzNES3B4NVN5TGVIQQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "S저널",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "현대건설, 국내 첫 AI 전용 데이터센터 착공… 핵심 인프라 시장 공략 속도 - S저널",
-   "ts": 1789986774,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Wek5sWWdwbXFaZlE0UHRQaXotV21yWW1uZjZfWVJSSnlyX2oxZzlUei1YWVRyNFJGZF9jaS04RDBfb1ktdndkVDBjX0Vrb1NxS1Q2VjBWUTB1a3U0V002VUNsQXkyc2xnUXJnYl93?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Chinese scientists build 33.3%-efficient perovskite-silicon tandem solar cell processed in ambient air",
-   "ts": 1789995160,
-   "u": "https://www.pv-magazine.com/2026/09/21/chinese-scientists-build-33-3-efficient-perovskite-silicon-tandem-solar-cell-processed-in-ambient-air/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "U.S. solar module production reaches historic 100 GW landmark",
-   "ts": 1789995480,
-   "u": "https://www.pv-magazine.com/2026/09/21/u-s-solar-module-production-reaches-historic-100-gw-landmark/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 9,
-   "sec": "전력기기",
-   "t": "Malaysia sets fixed grid charge, 10-year contracts for corporate solar",
-   "ts": 1789995420,
-   "u": "https://www.pv-magazine.com/2026/09/21/malaysia-sets-fixed-grid-charge-10-year-contracts-for-corporate-solar/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 3,
-   "sec": "재생에너지·ESS",
-   "t": "Corsica Sole switches on 150 kW electrolyzer at 12 MW solar plant",
-   "ts": 1789996350,
-   "u": "https://www.pv-magazine.com/2026/09/21/corsica-sole-switches-on-150-kw-electrolyzer-at-12-mw-solar-plant/"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00124ecf9177fec9": 1789953163,
@@ -3521,8 +3450,8 @@
  },
  "companies_today": {},
  "day": "2026-09-21",
- "last_clip": 1789992961,
- "last_msg_poll": 1790000369,
+ "last_clip": 1790000426,
+ "last_msg_poll": 1790000676,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3563,7 +3492,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 23:19 KST",
+  "last_run": "2026-09-21 23:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
