@@ -195,6 +195,16 @@
    "t": "'기술 캠퍼스'라더니 물·전력 잡아먹는 초대형 데이터센터... 뒤늦게 안 주민들 - 한국일보",
    "ts": 1790019600,
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xNTFDV1RIRVRxTmlSdnRpaTRHUjFlTXZOaFBBUk91T3FpTk5xVWV2em1xSFh6Sk5tN3QybXdaSndJSXFiUFNydkRvdTA4UHFIRHM1NFVhNDlwaUJRemFOdEJyNFVWM2JpeHJIWENn0gFzQVVfeXFMT2lfQjdWNk1oaGx6U0NseDZNRWdxSFVvQjBKVTVTUUVMQkQ4d2tmZ2hGaktIQ2tuVGpJQThZNTBMWVprNHdNVnB3VUFZUlRfV1BwcnlUbDlFcUZWdDVDdnd6XzlqdEJiSTRWdXRUNXNxWEVaMA?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "데이터뉴스",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "전력기기 3사, 매출 늘리고 수주잔고 더 쌓았다 - 데이터뉴스",
+   "ts": 1789946752,
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EdXZMQTg1a3RwTkhZZE02TVVBQ0ZDZ1FtNHc1UTlNQ0hRZHUxcFlyLWZLYkE1cmhTSGVHbXdGeExkR280eWdoUEdtY3pvbXQ2OEV2aDZMNXBzTEIxa1RJc0c1eFg?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1551,6 +1561,7 @@
   "5e7b9bc7b46e112d": 1789648519,
   "5e85a5fdf191b88a": 1789974322,
   "5e8cf81cf74810a6": 1789894218,
+  "5ec1948d7c8ee83c": 1790022328,
   "5ec4e32a732ee9a3": 1789637120,
   "5edbfff4b1148b1a": 1789629088,
   "5ee0acae28846174": 1789627496,
@@ -3654,7 +3665,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790000426,
- "last_msg_poll": 1790022268,
+ "last_msg_poll": 1790022574,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3695,7 +3706,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 05:24 KST",
+  "last_run": "2026-09-22 05:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
