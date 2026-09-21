@@ -95,138 +95,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "Kodiak Gas Services to supply 76MW of behind-the-meter gas power to West Texas data center",
-   "ts": 1790003770,
-   "u": "https://www.datacenterdynamics.com/en/news/kodiak-gas-services-to-supply-76mw-of-behind-the-meter-gas-power-to-west-texas-data-center/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Federal judge restores $7B Solar for All program, says EPA illegally axed it",
-   "ts": 1790000181,
-   "u": "https://www.utilitydive.com/news/federal-judge-restores-7b-solar-for-all-program-says-epa-illegally-axed-i/830879/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 4,
-   "sec": "전력기기",
-   "t": "Flag to deploy Ciena's Waveserver platform on Echo subsea cable",
-   "ts": 1790007504,
-   "u": "https://www.datacenterdynamics.com/en/news/flag-to-deploy-cienas-waveserver-platform-on-echo-subsea-cable/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 5,
-   "sec": "전력기기",
-   "t": "New York regulators approve 90-mile transmission line",
-   "ts": 1789995313,
-   "u": "https://www.utilitydive.com/news/new-york-psc-propel-transmission-line/830866/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "Texas PUC adopts softened rules on data center interconnection",
-   "ts": 1790002857,
-   "u": "https://www.utilitydive.com/news/texas-puc-adopts-data-center-interconnection-rules/830899/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일경제",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "\"AI 데이터센터 전력난, 수소연료전지로 해결을\" - 매일경제",
-   "ts": 1789981031,
-   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00RjNaeEgzMDNkRllLOGhnZjdCOXNoLTFXU0FUV3RLMHJILVBYQVlpQ1J1N3NJZmEzMTFmSWljSHBYb2FvVmxfVEp4MEhraHFQQng4UVZR?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "머니투데이",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "현대건설, 국내 첫 'AI 전용 데이터센터' 시공 본격화…공기 대폭 단축 - 머니투데이 - 머니투데이",
-   "ts": 1789954826,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zdWhuZXZ3c3YyWWc3VXptbFhjMlZfMXZiTXBZd2pXVGxtLW1LUlM4NV9mZng3ZTY4amR1OFNYWlNneGdhaV8zM2Y3Nm91U0ZOTFB0WVJvT0hxQ1pNVFNadVBqVzZhem1lVHfSAW9BVV95cUxQVlFnOEtYb2ZubFZVd0VPRzlCaUVpdThPY1YzbkxyNXp0YVg1M2xydUg0cE9zNlU5ZzlkOWtnU1hwUG5MR2hPSXdHcHJuNWx1alg0bUFoZWtjdExWWkRwU3hsOFZiZGtMNF9PaGRuQlk?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "머니투데이",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "코오롱글로벌, 데이터센터 개발 확대…'원스톱 솔루션' 구축 나서 - 머니투데이 - 머니투데이",
-   "ts": 1789955327,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OOW1EQkkwQnlKaXBkMzF6UExRX1ZBZW9yTFJiaVo5d1dLb19DZGpvTzkxN3JHTFpvTjcxbGlLc1gtdHZQYUl3bENnYXRsamtua0paQlNFQldZSVRoYUVRRGRnZVY4bndSakHSAW9BVV95cUxNTE9qdDJFQmFGTWdZNkNob201WHlfaEg2OEhFWm5ReUZwTzR6SGl5cFNocF9hT2IyQmRWZFMzWEN2N3JULTdpTmMzVV9FYnRweFVRSlNNS2Fmd2szTkpteDB5by1xcHpwRF9fYUZkSkk?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "시사위크",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "효성, 미국 AI 데이터센터 시장 공략 속도… 조현준 회장 ‘기술경영’ 박차 - 시사위크",
-   "ts": 1789976796,
-   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0UnFQMVl6Z1VtR1lvS2xkWGxkT0RLYl92Q1FSUGRBYXJDZFF5MlhabTktY3B4TEdDdV96alJWWThvSFFOVFhveVBKUjJTTmVZUUpMV1U1MV9nVmJmXzBlaE9OenZ2eHF1MnJZ0gFvQVVfeXFMUExCaVFlRGN4M3B6dlQ0TGJvaVZhd05Wb09WV1ZBeEstSTBoUjdQOUR4ZXFOZ21LcjAyeDBsaUF2aGR3WU1UOE5aMDFXbFlwOVVybFlNR19ucUMtejQ5TjAxWmRkZkJvX0hmbFo2M3I0?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "한국일보",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "'기술 캠퍼스'라더니 물·전력 잡아먹는 초대형 데이터센터... 뒤늦게 안 주민들 - 한국일보",
-   "ts": 1790019600,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xNTFDV1RIRVRxTmlSdnRpaTRHUjFlTXZOaFBBUk91T3FpTk5xVWV2em1xSFh6Sk5tN3QybXdaSndJSXFiUFNydkRvdTA4UHFIRHM1NFVhNDlwaUJRemFOdEJyNFVWM2JpeHJIWENn0gFzQVVfeXFMT2lfQjdWNk1oaGx6U0NseDZNRWdxSFVvQjBKVTVTUUVMQkQ4d2tmZ2hGaktIQ2tuVGpJQThZNTBMWVprNHdNVnB3VUFZUlRfV1BwcnlUbDlFcUZWdDVDdnd6XzlqdEJiSTRWdXRUNXNxWEVaMA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "데이터뉴스",
-   "sc": 18,
-   "sec": "전력기기",
-   "t": "전력기기 3사, 매출 늘리고 수주잔고 더 쌓았다 - 데이터뉴스",
-   "ts": 1789946752,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EdXZMQTg1a3RwTkhZZE02TVVBQ0ZDZ1FtNHc1UTlNQ0hRZHUxcFlyLWZLYkE1cmhTSGVHbXdGeExkR280eWdoUEdtY3pvbXQ2OEV2aDZMNXBzTEIxa1RJc0c1eFg?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "경향신문",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "[특집]GS건설, 전력·모듈러 기술 품고 데이터센터 시공 역량 키운다 - 경향신문",
-   "ts": 1789991220,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zd0hQb0JpZXBKNmlmc1kwVk1icnFzRGtGS3FxR2xpTnc5QTlSVjd1VDFXZjZYbmNKUHpQQm9yNGNSQnZNc1YzelQ4MGZOU0ZvMjU1RV9SbGNzZ9IBX0FVX3lxTFBCYVdKWEZ2bndoWHE2YVVQcDYtYXVRS1I1bkh1TGkzMG8zZDA1ZkVmTG1IdnNmVFpkMHlrenFLcVV2NzRUWnk5NDdJbEtfMXpfQ0p4SF82VFZpUVJEVE5F?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "edaily.co.kr",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "EU, 데이터센터에 친환경 등급제 도입…빅테크 압박 강화 - edaily.co.kr",
-   "ts": 1790026091,
-   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUGRLd0dHNUpILXZySFdmZlRGcW5ZQ3pMU3FndXlQdzVtLXlJYUhpNUw1WWx0QnZ5U3hoWFZ5aklFTTlwT3pXT2duUlZRSV84QXA1c0JFWVJlUkNKY21YQmdXeWpmTXhwYUl0dWtFcU1NcmFnSTVmTEJleHUzWW9VZg?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00124ecf9177fec9": 1789953163,
@@ -3704,8 +3573,8 @@
  },
  "companies_today": {},
  "day": "2026-09-22",
- "last_clip": 1790000426,
- "last_msg_poll": 1790027791,
+ "last_clip": 1790028107,
+ "last_msg_poll": 1790028348,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3746,7 +3615,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 06:56 KST",
+  "last_run": "2026-09-22 07:05 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
