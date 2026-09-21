@@ -135,6 +135,26 @@
    "t": "LS ELECTRIC 1.65% 하락…전력기기 수주잔고 7조원 - 잡포스트",
    "ts": 1789970641,
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CSkNTZTNacjA5dGpBUTRIMW81RDRYU1MzSkxldVowMmJhUEdmUTkwTGdOelNyajEyUEhPcGNyVkhwZzhTa0dySnRwOFVfMGU5M3VkakNXUGNVTzkwck5JUkpKN2ZNbTF3Zm9KX01n0gFyQVVfeXFMUEpSTXlDcVBsczE0QlBEOU9WaXY2ZWJWOUR4cWRxV0xEdFVpa3JBQUJWUVZYWXFXbGJ4cjlUUF84c09vN01OcUFKczJXYS1DREotNGp4SlVsR3J1SkJES2tIdkQ3Zi1HM0RLcHg1U3lMZUhB?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "디지털데일리",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "세미나허브, AI 에이전트·데이터센터 실무 교육 잇달아 개최 - 디지털데일리",
+   "ts": 1789971704,
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92NmhBcUtZa0lqWkRYQklqa2VOMHAyU1lvWU43SUoxcTR5SXBkX0NNTnFNM1hDcDY3d1doTEowb0xrZnhaUHpKcU1wQnBHNTBRd2t2OHpjcU1XdzZqYVpHalNVSlE?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "아이뉴스24",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터 늘자 냉각공장도 세계로…삼성, 광주에 2400억원 승부수 - 아이뉴스24",
+   "ts": 1789971392,
+   "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GZzNoUXZNamZDSndBVWxrbHVPU3ZUZnY1ZTVTenNEczNreHIxN3hqbW56djVGNDZWOXhaVUZWc1h4RlFNdmdFTTJzdw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -342,6 +362,7 @@
   "0fdb0072afc4896e": 1789953163,
   "0fffbfecfec4817f": 1789627496,
   "10187fbc87e9ed6d": 1789970013,
+  "1019ca802019568c": 1789972312,
   "101e1f4e0bd333e0": 1789958121,
   "10357d56392f1455": 1789694721,
   "1069ecb41f8ae60f": 1789627496,
@@ -1483,11 +1504,13 @@
   "6f699ea20620c9b2": 1789949420,
   "6f6e8ce42acf3992": 1789627496,
   "6f94a490ec48301a": 1789630519,
+  "6f9bcab51f4cb8af": 1789972312,
   "6fc161461ff8c687": 1789691718,
   "6ff224511bbc5819": 1789627496,
   "6ffc17490eb2e2c5": 1789630519,
   "703422a41848848f": 1789632630,
   "7059f48c1762d7d0": 1789649116,
+  "705b8e7b53b146c3": 1789972312,
   "705b903235f64bdc": 1789695321,
   "707321100f129eee": 1789953723,
   "708f4119680bfc04": 1789630519,
@@ -1961,6 +1984,7 @@
   "9a247866f612be5a": 1789697424,
   "9a3421a9689b6af5": 1789958121,
   "9a3f94e7334124c2": 1789689915,
+  "9a5c906c7991e26c": 1789972312,
   "9a5d49dec52c2919": 1789959919,
   "9acdb86561cc6027": 1789634416,
   "9af168f2b3ef862e": 1789724119,
@@ -3156,7 +3180,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789971183,
- "last_msg_poll": 1789971994,
+ "last_msg_poll": 1789972554,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3197,7 +3221,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 15:26 KST",
+  "last_run": "2026-09-21 15:35 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
