@@ -185,6 +185,26 @@
    "t": "LS일렉트릭, 변압기 공장에 4족 로봇…‘무인 순찰’ 시작 - 글로벌이코노믹",
    "ts": 1790033696,
    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb3FZWDZMS2ZsZzBuTHFwc3VJQUNEYUlzNlZiVHRpTTBLaEF3czQwSllPN3VFaU5sLVY1eHJlSk80d05ueHdIaUN5TnItRHFkbUV2cm9XOW9Ja2Fhd2YzRmxTQW1Iald0Rm1XaTNFSGN5ZUt2OFJKRE10R0xXS0EtelZkU2NKQQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "POWER Magazine",
+   "sc": 8,
+   "sec": "원전",
+   "t": "Google, Georgia Power Have Deal to Support Nuclear Power Plant Uprates",
+   "ts": 1790034584,
+   "u": "https://www.powermag.com/google-georgia-power-have-deal-to-support-nuclear-power-plant-uprates/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스 경제 최신기사",
+   "sc": 0,
+   "sec": "건설·플랜트",
+   "t": "HD건설기계, 프랑스 마니투와 소형 건설장비 시장 공략 협력",
+   "ts": 1790034389,
+   "u": "https://www.yna.co.kr/view/AKR20260922027200003"
   }
  ],
  "clip_titles": [],
@@ -683,6 +703,7 @@
   "21b0fcaa0fbf3c33": 1789627496,
   "21bf442eb97088ee": 1789966821,
   "21d2f953d287e360": 1789701321,
+  "21dc764436264b6a": 1790034858,
   "21df20f04c6c407e": 1789986323,
   "2200415f764a4406": 1789705521,
   "22103348ba1206b7": 1790024635,
@@ -1683,6 +1704,7 @@
   "6848ebea814529a8": 1789866315,
   "684e282a9963010e": 1789979427,
   "6867bb7ff113b2dc": 1789744587,
+  "686dd56a0788308d": 1790034858,
   "687cf83649a52052": 1789967119,
   "687f1c97b1257328": 1789948225,
   "68849b7d1663cd13": 1789976420,
@@ -1698,6 +1720,7 @@
   "6952b25603a38722": 1789699582,
   "6960534934e686c0": 1789718418,
   "696e429e7ddbef8d": 1789648519,
+  "6982a398dadc1f96": 1790034858,
   "699bc6528bcc31d6": 1789689915,
   "69a08335ac5774f5": 1789951988,
   "69b0ac0bdb8f92fa": 1789865116,
@@ -1918,6 +1941,7 @@
   "7aea962e0e70ef3e": 1789956616,
   "7af29c87352a1711": 1789963516,
   "7afba3c2caf58bc0": 1789736719,
+  "7b023838c7cd148a": 1790034858,
   "7b0a7b591a969f1b": 1789630519,
   "7b159e85e47afaa3": 1789956616,
   "7b3a1831aef6cda1": 1789968847,
@@ -2313,6 +2337,7 @@
   "99462ccc0519934d": 1789632918,
   "9946a3cd9778aff2": 1790030116,
   "9971f831ed5322d1": 1789721130,
+  "99837f263652699d": 1790034858,
   "99b40ecbc069fbd5": 1789954327,
   "99b500e1f20440b2": 1789947665,
   "99b978fefe23d37d": 1789971751,
@@ -3723,7 +3748,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790028107,
- "last_msg_poll": 1790034529,
+ "last_msg_poll": 1790035106,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3765,7 +3790,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 08:48 KST",
+  "last_run": "2026-09-22 08:58 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
