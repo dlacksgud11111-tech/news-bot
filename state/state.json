@@ -385,6 +385,16 @@
    "t": "코오롱글로벌, 데이터센터 개발사업 MOU…미래 성장동력 확보 - 팝콘뉴스",
    "ts": 1789982665,
    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiaXJHT25US3lHczUzRnVlYWVGdjA5SDIzRDJBWHNjOGtXNFJ0ckxrWnRSZElPQzBaOEtkUXUya1RLVkRyclA5Rmw4XzBjVGFSd1ZSa1VqX2dsd25YYmZwT3pUWjV2aFpobEpjX2o3a9IBckFVX3lxTE43MzY2T2lOeEZ5S0Jhd1h4S19lSW85RElfNEFhUFQyRFBjZ3Uya01vY2RKUGhkXzUtSmo4VXhRbjJCVG8wM205bFczc3NmbzNRSmJacHpDSGs2NmdUeTRVU05zbDVIbm1FTWZ0M2xmenlTdw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 6,
+   "sec": "재생에너지·ESS",
+   "t": "French startup repurposes EV batteries for solar energy storage",
+   "ts": 1789983695,
+   "u": "https://www.pv-magazine.com/2026/09/21/french-startup-repurposes-ev-batteries-for-solar-energy-storage/"
   }
  ],
  "clip_titles": [],
@@ -1405,6 +1415,7 @@
   "47e1abea4b022a92": 1789866315,
   "4808bb2d77ce5080": 1789691718,
   "4814e67851d645c2": 1789956049,
+  "481c8261136e807b": 1789983921,
   "4823a1eac3ce75f8": 1789954905,
   "4823c301d9d23b38": 1789870063,
   "483a25fb00978f07": 1789967119,
@@ -2016,6 +2027,7 @@
   "7bba2a30cbe5de86": 1789627496,
   "7bcfe76028d127f2": 1789974322,
   "7bd68505a113b0cc": 1789764171,
+  "7bdf487d6ab2f727": 1789983921,
   "7be6eb59a350d5de": 1789974040,
   "7bf989fee2cebdb9": 1789951430,
   "7c113b4fe4ffc470": 1789971751,
@@ -2147,6 +2159,7 @@
   "84df84f49ba6bbd5": 1789732829,
   "84ee7e592b1896df": 1789963516,
   "852223dfb55a9dcd": 1789689915,
+  "852bf2fef365baef": 1789983921,
   "852ff64543eef161": 1789693531,
   "853ea98c9c6abbce": 1789975218,
   "8545b4e976535687": 1789701321,
@@ -3692,7 +3705,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789978521,
- "last_msg_poll": 1789983863,
+ "last_msg_poll": 1789984171,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3733,7 +3746,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 18:44 KST",
+  "last_run": "2026-09-21 18:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
