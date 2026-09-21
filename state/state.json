@@ -145,6 +145,16 @@
    "t": "AI 전력수요 폭증에 흔들리는 가스 수급계획… LNG 위상 다시 오르나 - 마켓잉크",
    "ts": 1789967965,
    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJSHYwSkU5Um1STFVmTl9vd05FVG9VcW0yNUlLSWoyeVZiYUdHZUIxaHpUejBUbjd4by1lbWYxaWlXeVpZa21BOFR5M1pWSUNnSzJsOFhvZGNNOFZpbkhxOWhBdlI3emRYdV9valktYw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Investing.com 한국어",
+   "sc": 12,
+   "sec": "데이터센터·AI전력",
+   "t": "코디악 가스 서비스, 76MW 데이터센터 전력 공급 계약 체결 - Investing.com 한국어",
+   "ts": 1789988700,
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPYTRGMmZ2MERua0p5bnQ0ZG5DM1FSdkliY1lWcFVjR2dTaWdKeGN0SlgtQklhT2gxTVZ6MERaQUFvSmxNRVJqbDBpSGtYQnpOQ3VKTERqdkFpYl82RGROdlhqQVRHUFpMRm9VUWY2ZFc?oc=5"
   }
  ],
  "clip_titles": [],
@@ -210,6 +220,7 @@
   "03c4ef70a4774424": 1789971751,
   "03dc9483e0a5b187": 1789694131,
   "03dd5310e5878090": 1789978220,
+  "03f389af23d1cabb": 1789990699,
   "03fa52e1013b5ee4": 1789627496,
   "03fc6ab698e8be04": 1789721130,
   "04088d7a1c9575f1": 1789863399,
@@ -1102,6 +1113,7 @@
   "43cfd0ab2b26d661": 1789903528,
   "43d39311a912606f": 1789959919,
   "43e281f6ee90aa3e": 1789727277,
+  "440a26f547a6d57a": 1789990699,
   "440afe746afb2bd4": 1789969411,
   "440d518a299ab32c": 1789892428,
   "440ef2afac7d5ec3": 1789697424,
@@ -1330,6 +1342,7 @@
   "54a71d1ca3b80c27": 1789873818,
   "54c6b443417edae3": 1789974627,
   "5511ecd565bb6e00": 1789627496,
+  "55129e1af032345c": 1789990699,
   "551b46f2c576adb3": 1789630256,
   "553e6a09164dd525": 1789629088,
   "554143a779a471b8": 1789693531,
@@ -2987,6 +3000,7 @@
   "d8d7125fc737def0": 1789627496,
   "d8eb15f4040f648c": 1789627496,
   "d92801e4b04d1a63": 1789960215,
+  "d92a0c1d8bd4d10f": 1789990699,
   "d96e19ad8d098f93": 1789632918,
   "d97b8c5ac3de603a": 1789699582,
   "d990a8b59702e92a": 1789693531,
@@ -3474,7 +3488,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789985724,
- "last_msg_poll": 1789990357,
+ "last_msg_poll": 1789990948,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3515,7 +3529,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 20:32 KST",
+  "last_run": "2026-09-21 20:42 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
