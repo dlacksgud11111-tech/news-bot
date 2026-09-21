@@ -134,6 +134,36 @@
    "t": "코오롱글로벌, 데이터센터 개발사업 본격화…4사 협력체계 구축 - 뉴스락",
    "ts": 1789964900,
    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10ZlVvSUd1VHVSQU5PU3JRUVp6a2ZMVG14ZW9pTDEzM3VQaDVGeHozbm9VU3YxZjIyTkxwYjVwQWxEM3h2QzlYZzVEdjN0S0thY2lHa01RdU9aTUc1RFlFb2hUcTd0M0IxRXBBag?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "전기신문 - 전체기사",
+   "sc": 4,
+   "sec": "유틸리티·정책",
+   "t": "LNG 용량시장 평가기준 윤곽…‘CP 영향력’ 불변",
+   "ts": 1789998817,
+   "u": "https://www.electimes.com/news/articleView.html?idxno=372675"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "에너지신문 - 전체기사",
+   "sc": 3,
+   "sec": "재생에너지·ESS",
+   "t": "수소부터 배터리까지…'19개 TP'로 보는 에너지 지도",
+   "ts": 1789998748,
+   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228446"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "cnbnews.com",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "조현준 효성 회장, ‘기술 경영’으로 미국 AI 데이터센터 전력시장 선점 나선다 - cnbnews.com",
+   "ts": 1789965983,
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xNndFejU4OE5jQURoUlRYQzBRdzF6UGxTSlZsQ1A4bklTVWNnTDNDc2Z5NW8tWU5vRUZyU0pTS2JLbTlQZDFRVzVESUVvdXhvOU9zRUxSWHdnNFhKN0F3VldMMVhUOHp6LUxJ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -536,6 +566,7 @@
   "21a4bcc7ec864dcf": 1789679129,
   "21ac419df79f65c9": 1789627496,
   "21b0fcaa0fbf3c33": 1789627496,
+  "21bf442eb97088ee": 1789966821,
   "21d2f953d287e360": 1789701321,
   "2200415f764a4406": 1789705521,
   "221cff63dabd4f63": 1789866315,
@@ -1420,6 +1451,7 @@
   "710c87facbdd8208": 1789695321,
   "711b061aaba804fa": 1789691718,
   "7149f04dd5144bdf": 1789959919,
+  "714c3869ad36f10a": 1789966821,
   "71990700c65f7fb7": 1789736415,
   "71b2d175e645c49f": 1789693531,
   "71c7d736b77e6db4": 1789627496,
@@ -1670,6 +1702,7 @@
   "88e10b8a674c63ba": 1789708498,
   "88e24d4ff5526ec3": 1789647027,
   "89031fb515806617": 1789627496,
+  "8905d13a0ade1083": 1789966821,
   "890f086354f2e9fd": 1789627496,
   "8913a2ac379751ea": 1789962027,
   "894bbd95398eb93c": 1789655729,
@@ -2112,6 +2145,7 @@
   "b19fa840e12259ed": 1789708498,
   "b1b50a0c09ee51ea": 1789627496,
   "b1c3c1f0a214e0a1": 1789949420,
+  "b1f6098c63ec392b": 1789966821,
   "b215b4b003323e96": 1789700729,
   "b2250ad5291bce47": 1789637719,
   "b22d1e610527fab0": 1789943682,
@@ -2866,6 +2900,7 @@
   "f541e7d97c961bcf": 1789953163,
   "f5675083e3b5e1e8": 1789635618,
   "f586ff9918de0a2b": 1789957222,
+  "f587f9028ed5af8d": 1789966821,
   "f58fd803a528e4f1": 1789627496,
   "f59c9d020b4e9ed1": 1789701615,
   "f5ca33327b26d25d": 1789873818,
@@ -2986,7 +3021,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789963516,
- "last_msg_poll": 1789966752,
+ "last_msg_poll": 1789967069,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3027,7 +3062,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 13:59 KST",
+  "last_run": "2026-09-21 14:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
