@@ -405,6 +405,26 @@
    "t": "Slovakia slashes residential solar subsidy, shifts support toward heat pumps",
    "ts": 1789983900,
    "u": "https://www.pv-magazine.com/2026/09/21/slovakia-slashes-residential-solar-subsidy-shifts-support-toward-heat-pumps/"
+  },
+  {
+   "co": "Prysmian",
+   "n": 1,
+   "s": "DCD",
+   "sc": 4,
+   "sec": "데이터센터·AI전력",
+   "t": "Prysmian, Rio Tinto to supply Amazon data center in Ohio with low-carbon aluminum",
+   "ts": 1789984483,
+   "u": "https://www.datacenterdynamics.com/en/news/prysmian-rio-tinto-to-supply-amazon-data-center-in-ohio-with-low-carbon-aluminum/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "Already-operating battery storage projects are key to making the business case for the next assets bankable",
+   "ts": 1789984470,
+   "u": "https://www.energy-storage.news/already-operating-battery-storage-projects-are-key-to-making-the-business-case-for-the-next-assets-bankable/"
   }
  ],
  "clip_titles": [],
@@ -571,6 +591,7 @@
   "0b40c4a041aa1249": 1789634416,
   "0b44871fd9d9a400": 1789627496,
   "0bb507b90df46a06": 1789720817,
+  "0bb6169e6fa423f3": 1789984531,
   "0bb6d71040b9e6c5": 1789627496,
   "0bdc9589ba7704c2": 1789724119,
   "0bdeb248f6212e9f": 1789983317,
@@ -686,6 +707,7 @@
   "13fb2e602420dedd": 1789956616,
   "141a7f67bd4b09e5": 1789698990,
   "143f7958a0199122": 1789627496,
+  "14574e8d27da5af2": 1789984531,
   "1465f1f8c2839eaf": 1789958121,
   "146684eacb3be80d": 1789872360,
   "147e4b7dc573219e": 1789627496,
@@ -1076,6 +1098,7 @@
   "2f7dd365de68ee74": 1789733129,
   "2f810b94c9d325e7": 1789698990,
   "2fdbcee453ea0e65": 1789965314,
+  "2fea705ed424840f": 1789984531,
   "303d6168dee722c3": 1789824864,
   "305ff558ffb6c841": 1789652129,
   "307332ca86af7ac0": 1789868332,
@@ -1562,6 +1585,7 @@
   "53670ecf5421a027": 1789977915,
   "5370051189295e25": 1789873818,
   "5380ee503186658e": 1789695321,
+  "5384205fc2369369": 1789984531,
   "5387a88c79b04928": 1789726695,
   "538fc49c39f0bfd0": 1789955477,
   "539e6a5d22344cd0": 1789972883,
@@ -3718,7 +3742,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789978521,
- "last_msg_poll": 1789984475,
+ "last_msg_poll": 1789984778,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3759,7 +3783,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 18:54 KST",
+  "last_run": "2026-09-21 18:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
