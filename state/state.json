@@ -245,6 +245,16 @@
    "t": "차량 넘어 AI 전력·산업원료로…수소경제, 국가 차원 재설계 시급 - 에너지경제신문",
    "ts": 1789974138,
    "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kRVhrb1JoOUV6bXBlcV9XZFVpdlF1YXRKRkJIdFp2dkI2UHJCZnNCTHR2WE1oLVRXdG04MnBZbG0ycmhhSEFEM3RRRVNQc1hFN2tyeHlaSjl0Z2c?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴시스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "전주시, 모듈형 AI 데이터센터 구축·실증…산단 AX 지원 - 뉴시스",
+   "ts": 1789980314,
+   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNdkQ5cTdFdnFkZVd0RUtoa216c2dzWUtmd1NOMW5nZkhDQldMMkRSRnJDM1l5eVdyZmF2MHkybndUaHRqRW0tc1l6ampjV2pxVVpxY2dORmh0M3lySTZsRtIBeEFVX3lxTE8wT3VPRmVJOGNpNnI4Q3QyTkptMEttMDgwNFQyQkNEd0R6WVNwX2lKTkV3bFNaRlhtalN4TVVaa0ZwempsWnY2QnBTZkYtQ2xZck1VdlExQ1UzMjBfUWdDMF8ybXdNcmctRGFfNDZMWTVpUDBxbkhmTw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -898,6 +908,7 @@
   "2ef7481a81fbd6f1": 1789693814,
   "2f0c4d6eb6b60aa6": 1789951988,
   "2f164159ae25cced": 1789719316,
+  "2f186f44185aec54": 1789980916,
   "2f2bc9a5b29bfe7f": 1789873818,
   "2f375aea9f00a87e": 1789734020,
   "2f4b2e8afc3b0092": 1789967119,
@@ -1004,6 +1015,7 @@
   "377a1a6c4ceafd87": 1789955477,
   "37b4c100ebcf252a": 1789794287,
   "37b76453dd7c5d1f": 1789859418,
+  "37ba4f8f29c036ad": 1789980916,
   "37f686803ed72e35": 1789974920,
   "380f2482d82f7a2e": 1789978815,
   "38197b352afdc405": 1789882215,
@@ -1073,6 +1085,7 @@
   "3c0807664acebada": 1789630819,
   "3c0e40c3787ceb9f": 1789958121,
   "3c1c0db85afa82e7": 1789778078,
+  "3c328955f17f1e76": 1789980916,
   "3c36c0c2881cc538": 1789977915,
   "3c4186d6ce68ed94": 1789957222,
   "3c500e24184b1c84": 1789787129,
@@ -1861,6 +1874,7 @@
   "7c9ce484532d632e": 1789627496,
   "7cc34ce63721b462": 1789627496,
   "7cc8203a8e96c931": 1789702817,
+  "7cc8425a2f5fd910": 1789980916,
   "7cde8bd364cbc931": 1789744015,
   "7cf61cc40c780900": 1789959919,
   "7d0320b51f518dff": 1789635327,
@@ -3059,6 +3073,7 @@
   "dceded5164757263": 1789629088,
   "dcf1ef035a8b2666": 1789954905,
   "dcfbed57d29b43c9": 1789967119,
+  "dd1a60bb0ad07e25": 1789980916,
   "dd1c78e61a340814": 1789627496,
   "dd41ca85f0821c92": 1789960215,
   "dd4e457a398e798a": 1789960215,
@@ -3503,7 +3518,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789978521,
- "last_msg_poll": 1789980872,
+ "last_msg_poll": 1789981155,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3544,7 +3559,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 17:54 KST",
+  "last_run": "2026-09-21 17:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
