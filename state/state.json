@@ -115,6 +115,16 @@
    "t": "LS ELECTRIC 1.65% 하락…전력기기 수주잔고 7조원 - 잡포스트",
    "ts": 1789970641,
    "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKUk15Q3FQbHMxNEJQRDlPVml2NmViVjlEeHFkcVdMRHRVaWtyQUFCVlFWWFlxV2xieHI5VFBfOHNPbzdNTnFBSnMyV2EtQ0RKLTRqeEpVbEdydUpCREtrSHZEN2YtRzNES3B4NVN5TGVIQdIBckFVX3lxTFBKUk15Q3FQbHMxNEJQRDlPVml2NmViVjlEeHFkcVdMRHRVaWtyQUFCVlFWWFlxV2xieHI5VFBfOHNPbzdNTnFBSnMyV2EtQ0RKLTRqeEpVbEdydUpCREtrSHZEN2YtRzNES3B4NVN5TGVIQQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "S저널",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "현대건설, 국내 첫 AI 전용 데이터센터 착공… 핵심 인프라 시장 공략 속도 - S저널",
+   "ts": 1789986774,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Wek5sWWdwbXFaZlE0UHRQaXotV21yWW1uZjZfWVJSSnlyX2oxZzlUei1YWVRyNFJGZF9jaS04RDBfb1ktdndkVDBjX0Vrb1NxS1Q2VjBWUTB1a3U0V002VUNsQXkyc2xnUXJnYl93?oc=5"
   }
  ],
  "clip_titles": [],
@@ -407,6 +417,7 @@
   "14d3e00c39f03abf": 1789953163,
   "153d8aaa013b8e10": 1789965314,
   "153fa7f5af5b5c2d": 1789873818,
+  "154f7ee7e0dc3dbe": 1789994120,
   "155e403f63942a77": 1789871791,
   "157ca15a73fffcf2": 1789724119,
   "15b4bc21f3585af7": 1789728460,
@@ -1668,6 +1679,7 @@
   "748d8acbade754ee": 1789977915,
   "74904b67ef56d664": 1789629088,
   "74a3b1457f0c3a38": 1789627496,
+  "74accf68c005a5d4": 1789994120,
   "74b608a0c5bf8452": 1789716319,
   "74b856865b84afc2": 1789627496,
   "74b9e3c289d28c49": 1789627496,
@@ -2857,6 +2869,7 @@
   "d13d122b09597a8e": 1789647317,
   "d14f4a2c0ca28067": 1789958422,
   "d154bc45fa6daf6d": 1789627496,
+  "d15aad23160a60ae": 1789994120,
   "d16116e0295a2f34": 1789953163,
   "d16a4a417b646b4a": 1789946508,
   "d1798765cc8a757f": 1789627496,
@@ -3458,7 +3471,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789992961,
- "last_msg_poll": 1789994065,
+ "last_msg_poll": 1789994360,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3499,7 +3512,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 21:34 KST",
+  "last_run": "2026-09-21 21:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
