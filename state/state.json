@@ -274,6 +274,16 @@
    "t": "랙 하나에 135kW…AI가 데이터센터를 바꿨다 - 자본시장뉴스",
    "ts": 1789959600,
    "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaYmdIa2oyUkxxWC1uZHZENHBvdktfalN1dVBXMEdhSHFsbk5NMnJSNlR0TENXVWxSeFFhN0FGMU1veTQzOHBWVmdNODlYUU5hS1p0eUpsdmpkaFdvS2dGdUU0OEd5dHc?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "조세금융신문",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "전동흔 율촌고문 \"AI 데이터센터 지방세 감면, ‘직접사용’ 기준부터 손질해야\" - 조세금융신문",
+   "ts": 1789960020,
+   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIdHZIaGt3WnUxU1lJeU9zWkZMM1o1MHVCQl81NU5UaEZzenVjQ2pWUGpxeFRXODFaVDFaWXJXOUVlSmpHT2NRMHNqYV9ENGRlMWZWNHBoYk5MQng0Y1dHR1Utbw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2115,6 +2125,7 @@
   "aa34d7556d47ef54": 1789709642,
   "aa5667e3d60ce67a": 1789627496,
   "aa56778d99b372fa": 1789627496,
+  "aa777d863240960d": 1789960531,
   "aa7a4e13f8d181fa": 1789635016,
   "aa928a6c35f2a9ae": 1789629088,
   "aac1eef22967601a": 1789692619,
@@ -3062,7 +3073,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789956049,
- "last_msg_poll": 1789960463,
+ "last_msg_poll": 1789960779,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3103,7 +3114,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 12:14 KST",
+  "last_run": "2026-09-21 12:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
