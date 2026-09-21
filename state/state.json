@@ -194,6 +194,26 @@
    "t": "욜그룹 “데이터센터 반도체 시장 2031년 2000조원…칩서 랙으로 경쟁 이동”",
    "ts": 1789965408,
    "u": "https://www.etnews.com/20260921000264"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "코오롱글로벌, 삼성파워텍 등과 데이터센터 개발사업 협력 - 연합뉴스",
+   "ts": 1789957765,
+   "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FVTJBcWI1cXk0bGVjNkpFcXp3R1p1TFNWY21hQkc2Um1nOVlwaE9fX21JRVdCWGpCcUF3cThlM2NZb1k1TmhfQVRvRE5oeW11eGQwWklpRWxUSm_SAWBBVV95cUxPTTlpQmNISVlyblVmZnZFRE5UWEtoVkcyYTVMOHMtWndxaUJ3X1Npa3hwR1JST1RyNkZkckp3czBzRWtDMVRxTW11RDdtLVFjZ2E5bzlCQWJKWVNDSEdHeDk?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "파이낸셜뉴스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "트럼프 일가, AI·데이터센터 투자 확대…'이해충돌' 논란 재가열 - 파이낸셜뉴스",
+   "ts": 1789956159,
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10bVZPbXVYYWNCanlocEFQT2J3bW1BYk9mSFhrazFiMThyZzVrRkFwbTBfTzNuU0tGcnZ2R0ROQ0JVd1FnUnp4Qkd0Zy1aLThmczY1OG1pUEYyUQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -662,6 +682,7 @@
   "27415e4354967cb5": 1789785019,
   "2771066da7361655": 1789711357,
   "278256465ae52858": 1789689317,
+  "27906faf3b798322": 1789967690,
   "2798757f18619f0b": 1789627496,
   "279a4185f1d389eb": 1789796557,
   "279e1d6e463db006": 1789695321,
@@ -928,6 +949,7 @@
   "3c500e24184b1c84": 1789787129,
   "3c584012bc013353": 1789736719,
   "3c751f5936119bb8": 1789627496,
+  "3c831ad8d054ccbc": 1789967690,
   "3c9220388b2596b7": 1789707915,
   "3c9892e6fcd3fbac": 1789715428,
   "3c996221f649f37e": 1789700729,
@@ -992,6 +1014,7 @@
   "40ed4783b0cb22f1": 1789715119,
   "410d6522983ce820": 1789956049,
   "416f82629d2e2a85": 1789627496,
+  "417e1cc1be23428e": 1789967690,
   "41b87285ce06599d": 1789693531,
   "41ccb6636c9115ec": 1789632918,
   "41d27270ffadc249": 1789698990,
@@ -1368,6 +1391,7 @@
   "64547a37529c0449": 1789957530,
   "6482b487850dce7d": 1789719936,
   "6490060aa45353db": 1789681826,
+  "64b0bf45a3cb93d4": 1789967690,
   "64cf0eb79b4fc198": 1789627496,
   "64d15219cf9450dc": 1789637719,
   "65058b78b70993cc": 1789710788,
@@ -3089,7 +3113,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789963516,
- "last_msg_poll": 1789967366,
+ "last_msg_poll": 1789967937,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3130,7 +3154,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 14:09 KST",
+  "last_run": "2026-09-21 14:18 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
