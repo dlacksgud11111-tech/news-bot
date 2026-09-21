@@ -118,7 +118,7 @@
   },
   {
    "co": "",
-   "n": 1,
+   "n": 2,
    "s": "메트로신문",
    "sc": 4,
    "sec": "데이터센터·AI전력",
@@ -375,6 +375,16 @@
    "t": "Nabiax breaks ground on 100MW data center in Madrid, Spain",
    "ts": 1789982931,
    "u": "https://www.datacenterdynamics.com/en/news/nabiax-breaks-ground-on-100mw-data-center-in-madrid-spain/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "팝콘뉴스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "코오롱글로벌, 데이터센터 개발사업 MOU…미래 성장동력 확보 - 팝콘뉴스",
+   "ts": 1789982665,
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiaXJHT25US3lHczUzRnVlYWVGdjA5SDIzRDJBWHNjOGtXNFJ0ckxrWnRSZElPQzBaOEtkUXUya1RLVkRyclA5Rmw4XzBjVGFSd1ZSa1VqX2dsd25YYmZwT3pUWjV2aFpobEpjX2o3a9IBckFVX3lxTE43MzY2T2lOeEZ5S0Jhd1h4S19lSW85RElfNEFhUFQyRFBjZ3Uya01vY2RKUGhkXzUtSmo4VXhRbjJCVG8wM205bFczc3NmbzNRSmJacHpDSGs2NmdUeTRVU05zbDVIbm1FTWZ0M2xmenlTdw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1943,6 +1953,7 @@
   "770bf96c4597292b": 1789627496,
   "77226f6ffba015ee": 1789627496,
   "77336ab76abd6f75": 1789859418,
+  "774072b015b22669": 1789983621,
   "7749f0e0397b31a4": 1789852221,
   "7757c48544594cdf": 1789967119,
   "7777ee3386ce2985": 1789884315,
@@ -2666,6 +2677,7 @@
   "b0a0bc52060cffd1": 1789627496,
   "b0b82eabc308d625": 1789695321,
   "b0b8c0138ee731d9": 1789701321,
+  "b0b9a69ffb6ebf83": 1789983621,
   "b0d5c4f8c6b323e0": 1789634416,
   "b0e838b6ccc45c1f": 1789647027,
   "b0ef03c406061dfa": 1789712512,
@@ -3680,7 +3692,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789978521,
- "last_msg_poll": 1789983559,
+ "last_msg_poll": 1789983863,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3721,7 +3733,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 18:39 KST",
+  "last_run": "2026-09-21 18:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
