@@ -215,6 +215,16 @@
    "t": "AI 데이터센터가 불러온 중후장대 ‘굴뚝 호황’ - 이투데이",
    "ts": 1789979700,
    "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lYWFCZ0pfbHFIOFRrTFg3aWJ0cFVpdUh3MkpZTlV0MEtUWmZTSHhJa1RPdmZITUNrMS1pcjZsVUZrZDRRQ1B1OFdWSVRGd0EzNGt0aQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 5,
+   "sec": "재생에너지·ESS",
+   "t": "Poland to subsidise renewable energy projects for farmers",
+   "ts": 1789980252,
+   "u": "https://www.pv-magazine.com/2026/09/21/poland-to-subsidise-renewable-energy-projects-for-farmers/"
   }
  ],
  "clip_titles": [],
@@ -1806,6 +1816,7 @@
   "7b42839fbe8aed84": 1789627496,
   "7b53666aac921e63": 1789627496,
   "7b6fa4ff83cf0217": 1789629088,
+  "7b743f01b60d4b7c": 1789980318,
   "7b929aaca65a359a": 1789629088,
   "7b9c77b55961c369": 1789969411,
   "7ba1201268e7d404": 1789891217,
@@ -2768,6 +2779,7 @@
   "c7a50f6aca6093fb": 1789792532,
   "c7d3725f65af0873": 1789627496,
   "c802d0653d1255f3": 1789697120,
+  "c8149dd394369d0b": 1789980318,
   "c833b11b998ee2ef": 1789627496,
   "c878b5d30b45dc8a": 1789693531,
   "c89c3e08ae850c41": 1789724119,
@@ -3457,7 +3469,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789978521,
- "last_msg_poll": 1789980263,
+ "last_msg_poll": 1789980566,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3498,7 +3510,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 17:44 KST",
+  "last_run": "2026-09-21 17:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
