@@ -155,6 +155,16 @@
    "t": "Malaysia sets fixed grid charge, 10-year contracts for corporate solar",
    "ts": 1789995420,
    "u": "https://www.pv-magazine.com/2026/09/21/malaysia-sets-fixed-grid-charge-10-year-contracts-for-corporate-solar/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 3,
+   "sec": "재생에너지·ESS",
+   "t": "Corsica Sole switches on 150 kW electrolyzer at 12 MW solar plant",
+   "ts": 1789996350,
+   "u": "https://www.pv-magazine.com/2026/09/21/corsica-sole-switches-on-150-kw-electrolyzer-at-12-mw-solar-plant/"
   }
  ],
  "clip_titles": [],
@@ -747,6 +757,7 @@
   "2989f199ffcd62f6": 1789775168,
   "29920d2e2a1aae43": 1789627496,
   "29b6460cd4e1469c": 1789870063,
+  "29e225db3b6ee616": 1789996533,
   "2a00f24685c463b8": 1789951430,
   "2a030a86064d1774": 1789738532,
   "2a928ff9e0ffbda3": 1789783260,
@@ -3506,7 +3517,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789992961,
- "last_msg_poll": 1789996464,
+ "last_msg_poll": 1789996783,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3547,7 +3558,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 22:14 KST",
+  "last_run": "2026-09-21 22:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
