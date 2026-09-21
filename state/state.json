@@ -95,318 +95,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 3,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 2,
-   "s": "에너지신문 - 전체기사",
-   "sc": 11,
-   "sec": "전력기기",
-   "t": "AI 데이터센터 18.4GW 청사진…성패 가를 ‘전력망 접속’",
-   "ts": 1790003937,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228455"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 5,
-   "sec": "재생에너지·ESS",
-   "t": "한화큐셀·포스코, 영농형태양광 시장 공략 협력",
-   "ts": 1790003879,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303351"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "스페셜경제",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, AI 데이터센터용 터보 칠러 출시 - 스페셜경제",
-   "ts": 1789970820,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FbFdhS2pSQUxaQlBTUWJZaDhheklfd0YtNFFrdzN0eTgxUWFWOUg5VkxFQXB4aWduamdmMElIWUVwMEpsYVhJeVZLeGhGUlpuazUxTmZmalRBR1QtejJjYzZfelNzVkxhN01yaQ?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "잡포스트",
-   "sc": 22,
-   "sec": "전력기기",
-   "t": "LS ELECTRIC 1.65% 하락…전력기기 수주잔고 7조원 - 잡포스트",
-   "ts": 1789970641,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CSkNTZTNacjA5dGpBUTRIMW81RDRYU1MzSkxldVowMmJhUEdmUTkwTGdOelNyajEyUEhPcGNyVkhwZzhTa0dySnRwOFVfMGU5M3VkakNXUGNVTzkwck5JUkpKN2ZNbTF3Zm9KX01n0gFyQVVfeXFMUEpSTXlDcVBsczE0QlBEOU9WaXY2ZWJWOUR4cWRxV0xEdFVpa3JBQUJWUVZYWXFXbGJ4cjlUUF84c09vN01OcUFKczJXYS1DREotNGp4SlVsR3J1SkJES2tIdkQ3Zi1HM0RLcHg1U3lMZUhB?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "디지털데일리",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "세미나허브, AI 에이전트·데이터센터 실무 교육 잇달아 개최 - 디지털데일리",
-   "ts": 1789971704,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92NmhBcUtZa0lqWkRYQklqa2VOMHAyU1lvWU43SUoxcTR5SXBkX0NNTnFNM1hDcDY3d1doTEowb0xrZnhaUHpKcU1wQnBHNTBRd2t2OHpjcU1XdzZqYVpHalNVSlE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "아이뉴스24",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터 늘자 냉각공장도 세계로…삼성, 광주에 2400억원 승부수 - 아이뉴스24",
-   "ts": 1789971392,
-   "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GZzNoUXZNamZDSndBVWxrbHVPU3ZUZnY1ZTVTenNEczNreHIxN3hqbW56djVGNDZWOXhaVUZWc1h4RlFNdmdFTTJzdw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "재생에너지·ESS",
-   "t": "전북도, 호남 최초 수소모빌리티 검사센터 구축 본격화",
-   "ts": 1789972200,
-   "u": "https://www.etnews.com/20260921000114"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "데일리한국",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "전력망부터 서버까지…삼성SDI, AI 배터리 시장 정조준 - 데일리한국",
-   "ts": 1789971083,
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RcHF0WW95OW8yS1ZZNjA1XzVvN1FwZDJJeDE2UDRCUWJjT1J2dXpJN25ZNl9ObGg2RjhENVo4UlUyb0wtV1ktU1g5OXVYeGlSTzU2UDdzWUNtYy1wNGU4cnRwWDIyRzNiV281blM0UdIBc0FVX3lxTFBRY2QwVk9ZUURrZjlMUVAwUkp0UjVLVWxaT0Q1bkFBWUxET3IxbnA2d25ibWd2VS01M1dDME1SMWJkVzFSN0xMNVpwRmRPM1JZdjhLd3ZoVWxYTC0wcDVVc2pTZlB2Z3hZOWNyMFA3WERNQkk?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "네이버 프리미엄콘텐츠",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "AI 전력수요와 \"발전·전력망·전선\" 슈퍼사이클 관련주. - 네이버 프리미엄콘텐츠",
-   "ts": 1789972500,
-   "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORXE0cWg5NTgtb0FrNWdZTFJQQXdoTW5ncEpKY0VHd2N2R1hkT0UwRGpkNU9CLS0yOVUyc045UUFSNmxLWEozQXRHRjh0TnZsS1h4SEJaRHVHaDRpVUxER05CQXozSlJkSWtJYTVHTTVDeThWYVBSMzlTaWo0N2VYQUJhZw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "춘천시, 건설경기 살리기 나선다…지역업체 일감 확대",
-   "ts": 1789973711,
-   "u": "https://www.yna.co.kr/view/AKR20260921138100062"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "스포츠동아",
-   "sc": 4,
-   "sec": "전력기기",
-   "t": "조현준 효성 회장, ‘전기의 고속도로’ HVDC에 승부 걸었다 [PS] - 스포츠동아",
-   "ts": 1789973692,
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mTmpGd09oRDVWekt4NXpxcm15eHZWVGh3cjRPU0JiX0RZZll3Tm5HN3FsUF9aZXZYcWdCN1p4V0d2OTJSUE9pUkpJd2Vnd3RrRGpJX2R3aWF0eERxTDk5aVpnRU5GOF9kYlZ6Yi01ampyVm8?oc=5"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "열린뉴스통신",
-   "sc": 4,
-   "sec": "데이터센터·AI전력",
-   "t": "코오롱글로벌, 전력·에너지사 협력 체계 구축해 첨단 데이터센터 시공 역량 강화 - 열린뉴스통신",
-   "ts": 1789973591,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14RXZXTmdrTHFONC1QZV8wX1BIWGQ1LXdzSVZEaFNyUWw3YVMweEw1djVKMXl5Q3UtQk1FRTd3V2pCYkJBTnFCLUU4TndweE1ueXhrY0dFcnUzV21Zanh5ZnlxSVM?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "S&P \"韓 데이터센터 1200조 투자…기업 자본 부담 키울 것\"",
-   "ts": 1789973328,
-   "u": "https://www.yna.co.kr/view/AKR20260921130600008"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "K-Life TV",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "대청댐 수열에너지 이용해 2조 3000억 규모 AI 데이터센터 들어선다 - K-Life TV",
-   "ts": 1789972627,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRUzhobHNaUC1WR3piNkYyUVpYS2dJdnlXamVaLS1yZFVpYnVLX2RFT2tJOTd2ZTF5VFZ6VVItSFpKQk5la2VQUS1DdjZpclhtQWRTblp4dkFHeWItWGlGYTBfdUNjNk42empFMg?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "스포츠서울",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터, 건물만 지어선 안 된다…코오롱글로벌, 전력·운영까지 ‘원스톱’ - 스포츠서울",
-   "ts": 1789968361,
-   "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FeG9LaEFlUTV0ZWxDMGNWblJ1di1ET2x1OHVWdjhGX2xEMklOTmFGWEwwb1hTXzZTUmdnTGV5R3JzMFFmZnVtaTVYQ3VJcm9BR0pXZkxBcEc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 1,
-   "sec": "데이터센터·AI전력",
-   "t": "[ET시론] AI 시대의 데이터센터 구축 전략",
-   "ts": 1789974000,
-   "u": "https://www.etnews.com/20260921000145"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "[인터뷰]김용주 건설연 본부장 “중남미와 첨단 기술 기반 인프라 건설 협력 모색...국내 기업 도울 것”",
-   "ts": 1789974000,
-   "u": "https://www.etnews.com/20260921000088"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "에너지경제신문",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "차량 넘어 AI 전력·산업원료로…수소경제, 국가 차원 재설계 시급 - 에너지경제신문",
-   "ts": 1789974138,
-   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81bFVGVWJxNEtGR25zbjB6N003MEYzTDFsOVk3S0psN1J5WHAyRXgyLWFyUjFsSnhOSUc2SHhBT1hMSWY5RFV0WTkzQ1N5ekU0NVJQNTNxRzJsa2lyU296cVJB?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "energyprosumer.info",
-   "sc": 2,
-   "sec": "유틸리티·정책",
-   "t": "기록적 폭염에도 전력수급 ‘이상무’…95.3GW 고수요 견뎠다 - energyprosumer.info",
-   "ts": 1789944540,
-   "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE02aXFsbzlYMllpd0QyUUoydEw1enZzdkJXYk1GN1h0NXV0Z2x2a2JQN1lWRDZkUTBZQkRKNTNrZzFlaWdSN0hfRVFzcVA?oc=5"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "매일경제 : 경제",
-   "sc": 9,
-   "sec": "유틸리티·정책",
-   "t": "4분기 전기료 사실상 동결 … 한전, 재무부담 커질듯",
-   "ts": 1789975145,
-   "u": "https://www.mk.co.kr/news/economy/12158348"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "잡포스트",
-   "sc": 14,
-   "sec": "전력기기",
-   "t": "효성중공업 강보합…전력기기 호황 속 291만7000원 - 잡포스트",
-   "ts": 1789973690,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PNmJfY3Q5RFhzWU5FaEFBN0d6WER1SjBRMjlEUnBrUXowV3RwS0tDRXBIdkYyN1QtelVYQ2MtUng4RE9ENVI5bnl4Q2lZY3JGNnNfU3IzemRudl84OTczVHlZR01nODM5X0lRUHVn0gFyQVVfeXFMUDZQU3JNQlRLbHBoUmlwakRJUXZQRXhXcm5Kb09zU0IyeUhfZDNsOFhEWkhGVEZqLXZBa1Zfd1NLOUtmQjFhUzhpSXVmRENjNkxkXzFzRmxqMGxEaXlFejZfQnJQWHlXbjFGZ182Rmlrbzhn?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 3,
-   "sec": "유틸리티·정책",
-   "t": "美 발전소 탄소 규제 후퇴…韓 기업에 미칠 영향은",
-   "ts": 1790007546,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372690"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "shinailbo.co.kr",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "코오롱글로벌, 데이터센터 사업 확대…전력·시공·운영 연계 - shinailbo.co.kr",
-   "ts": 1789974745,
-   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Nd0pmb3MyWDh0dmUtZlhqWjZNdTl0LU1uYVZZQkFmNGpwcTRPWldMWER5b2N3ckloTGdOWVhianJxUlJ2Wko5NVVrRDlkTjBIVGx2elJQN3Bsdi1ZekVhdmlVZUFGb0pmTDRVNDRld1M?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "코리아리포트",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "현대건설, 포항 AI 데이터센터 본격 시공…골조공사 2개월로 단축 - 코리아리포트",
-   "ts": 1789957769,
-   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YSGR0S3BXRmtaYWM0Mzl1Z2FieXVmdnZZYWlNX052LWpCS2RGdzlFZkdsOENLSmpqeVJwZENJZ1FBYWxycmUtZ1VtdkFQcmkyQUhYOWdVWmxSWHoxdUN3Wm1aV1d3WEh0UjV2LXlhY1c?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "대기업 손잡고 영농형태양광 ‘사업화 문턱’ 낮춘다",
-   "ts": 1790007927,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228456"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 5,
-   "sec": "유틸리티·정책",
-   "t": "조남기 한전MCS 본부장, 동국대 학생 대상 특별강연 실시",
-   "ts": 1790008609,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372698"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "오늘경제",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "[기획] DL이앤씨, 발전에서 데이터센터로… 김포 증액에 당진 프리콘 - 오늘경제",
-   "ts": 1789975651,
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1TU56N2E5eW0yY2JtUGxKeG02cTY3SnBiT2FIVE1uRDhFeXRJdWwwXzllaWVGa3hDNUtGQWZXaUU4OEJGcXJPd1J3amNEbmlWX1piQ0hMX3l6Y2F1NGRZMkQyejNsemZweVFaVUhUTWpINGM?oc=5"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "지디넷코리아",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "수소, AI 데이터센터 전력 대안 될까…생산·저장·발전 해법 논의 - 지디넷코리아",
-   "ts": 1789976814,
-   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5aXdQNDBKbGR1MjIwRGZzSlA1Z2VaQm5fRTFFQXpKWnZBWVZST2ZqVHZfcU12anBMcjJJa1BHem1YdFNzdEY5bUR2Y2JuOWtpMjA3LVdn?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "비즈니스포스트",
-   "sc": 10,
-   "sec": "데이터센터·AI전력",
-   "t": "LS일렉트릭-SB글로벌, 전남 동부권 AI 데이터센터용 전력 인프라 개발 협력 - 비즈니스포스트",
-   "ts": 1789976707,
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04TnB3Y2k2aktGbWFiNEd3dWZ4REJOdHBkMFRlaXh0LWdhYkhxdkM2S2RrSGdKWHdITzRsUktsNmdvN0lRNkdoMmVxUmVjQWdxRnI1dy00ZzJpUEpLVTBZZ044VXBNa3p2WXpuVThBVEpxVEk?oc=5"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "아이뉴스24",
-   "sc": 4,
-   "sec": "전력기기",
-   "t": "우태희의 효성, HVDC 핵심설비 선점…LS는 ‘원팀’ 맞불 - 아이뉴스24",
-   "ts": 1789976605,
-   "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB0Z0dRazNVcHc2Ri1uQmMtTmVsaHh0YUg2djdEcWFfUDhXc19FbmM2RFN5Nk9tY1BVaHRfakJTVzd5b2JMOFE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "Solar-powered aeroponic system for off-grid vertical farming",
-   "ts": 1789977230,
-   "u": "https://www.pv-magazine.com/2026/09/21/solar-powered-aeroponic-system-for-off-grid-vertical-farming/"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00124ecf9177fec9": 1789953163,
@@ -615,6 +304,7 @@
   "0f8151facc336329": 1789950858,
   "0f84653a4caac338": 1789951988,
   "0f84e6d208647f9e": 1789743454,
+  "0f86a1da8a58988c": 1789978521,
   "0fd19f5e30aea85e": 1789691718,
   "0fd6c68d5c5838d6": 1789968847,
   "0fdb0072afc4896e": 1789953163,
@@ -816,6 +506,7 @@
   "1f17a0ff4095069b": 1789965314,
   "1f1a3576641ac6a0": 1789627496,
   "1f6568ad1fca59e1": 1789635918,
+  "1f7154e704120eed": 1789978521,
   "1f7ae3aba027129e": 1789956616,
   "1f9f986a098f7467": 1789969411,
   "1fa092a467998a42": 1789956616,
@@ -1868,6 +1559,7 @@
   "72716e16c64de19e": 1789865116,
   "728373255f86f6ee": 1789969411,
   "7290d5a923a35067": 1789967119,
+  "72cf9f635229eb73": 1789978521,
   "72e549d448b4953e": 1789707018,
   "72ebc5c7d86876bd": 1789956616,
   "72f48a0fe3d7b83b": 1789956616,
@@ -3600,8 +3292,8 @@
  },
  "companies_today": {},
  "day": "2026-09-21",
- "last_clip": 1789971183,
- "last_msg_poll": 1789978468,
+ "last_clip": 1789978521,
+ "last_msg_poll": 1789978762,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3642,7 +3334,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 17:14 KST",
+  "last_run": "2026-09-21 17:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
