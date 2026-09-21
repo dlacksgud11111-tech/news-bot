@@ -115,6 +115,16 @@
    "t": "Federal judge restores $7B Solar for All program, says EPA illegally axed it",
    "ts": 1790000181,
    "u": "https://www.utilitydive.com/news/federal-judge-restores-7b-solar-for-all-program-says-epa-illegally-axed-i/830879/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 4,
+   "sec": "전력기기",
+   "t": "Flag to deploy Ciena's Waveserver platform on Echo subsea cable",
+   "ts": 1790007504,
+   "u": "https://www.datacenterdynamics.com/en/news/flag-to-deploy-cienas-waveserver-platform-on-echo-subsea-cable/"
   }
  ],
  "clip_titles": [],
@@ -2949,6 +2959,7 @@
   "d32866566f2faa66": 1789977915,
   "d334a7665a19766b": 1789872360,
   "d33873a9e53b9f27": 1789988389,
+  "d3449bd34fa06d30": 1790007626,
   "d352be7351e7315a": 1789954905,
   "d3577106bc244097": 1789958121,
   "d3722c2436c237f9": 1789892428,
@@ -3535,7 +3546,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790000426,
- "last_msg_poll": 1790007563,
+ "last_msg_poll": 1790007867,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3576,7 +3587,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 01:19 KST",
+  "last_run": "2026-09-22 01:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
