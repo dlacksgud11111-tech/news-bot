@@ -95,7 +95,18 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 3,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 3,
+   "sec": "재생에너지·ESS",
+   "t": "Google-backed battery storage pilot in Texas demonstrates how BESS can improve hourly carbon-free matching for data centers",
+   "ts": 1789985969,
+   "u": "https://www.datacenterdynamics.com/en/news/google-backed-battery-storage-pilot-in-texas-demonstrates-how-bess-can-improve-hourly-carbon-free-matching-for-data-centers/"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00124ecf9177fec9": 1789953163,
@@ -566,6 +577,7 @@
   "21b0fcaa0fbf3c33": 1789627496,
   "21bf442eb97088ee": 1789966821,
   "21d2f953d287e360": 1789701321,
+  "21df20f04c6c407e": 1789986323,
   "2200415f764a4406": 1789705521,
   "221680cae2090e75": 1789968847,
   "221cff63dabd4f63": 1789866315,
@@ -2241,6 +2253,7 @@
   "a52dea358121f9c4": 1789713633,
   "a54a2fc34cea2240": 1789967119,
   "a558d886642d6606": 1789719021,
+  "a569a8ca4fa6b9ad": 1789986323,
   "a57e5208c5a009c0": 1789912816,
   "a5836a2f18014b7d": 1789727860,
   "a58ed729c1625337": 1789698990,
@@ -3411,7 +3424,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789985724,
- "last_msg_poll": 1789986258,
+ "last_msg_poll": 1789986571,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3452,7 +3465,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 19:24 KST",
+  "last_run": "2026-09-21 19:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
