@@ -95,7 +95,28 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 3,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 5,
+   "sec": "재생에너지·ESS",
+   "t": "Belize gets $23.75 million for solar and battery minigrids",
+   "ts": 1789978558,
+   "u": "https://www.pv-magazine.com/2026/09/21/belize-gets-23-75-million-for-solar-and-battery-minigrids/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "아이뉴스24",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "AI데이터센터, 10월부터 정책금융 '별도 품목' 분리⋯냉각·전력설비도 포함 - 아이뉴스24",
+   "ts": 1789977680,
+   "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fOUFCNGt5cjZuamExYmlpbGkzb1U4Rlk3NUZJVHVIQ2xzRTlWRFlBZ2VDeDl6OXdpYVZleDNCUS16WmgxSnRzRzRBdw?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00124ecf9177fec9": 1789953163,
@@ -503,6 +524,7 @@
   "1eb8b511ef4caeac": 1789727277,
   "1ef076fa0bae0aa2": 1789706415,
   "1f0104ce24478c59": 1789831819,
+  "1f147666ff05203c": 1789978815,
   "1f17a0ff4095069b": 1789965314,
   "1f1a3576641ac6a0": 1789627496,
   "1f6568ad1fca59e1": 1789635918,
@@ -616,6 +638,7 @@
   "2720ff30a6f84491": 1789642528,
   "273ca7c5a4e4e9a2": 1789783839,
   "27415e4354967cb5": 1789785019,
+  "2762229d1f3aa56e": 1789978815,
   "2771066da7361655": 1789711357,
   "278256465ae52858": 1789689317,
   "27906faf3b798322": 1789967690,
@@ -840,6 +863,7 @@
   "37b4c100ebcf252a": 1789794287,
   "37b76453dd7c5d1f": 1789859418,
   "37f686803ed72e35": 1789974920,
+  "380f2482d82f7a2e": 1789978815,
   "38197b352afdc405": 1789882215,
   "38237f0379b211a1": 1789967119,
   "3832ac28b8d541da": 1789695321,
@@ -1544,6 +1568,7 @@
   "711b061aaba804fa": 1789691718,
   "7149f04dd5144bdf": 1789959919,
   "714c3869ad36f10a": 1789966821,
+  "715c1c4c46cf8e59": 1789978815,
   "717236b19c1c6f0a": 1789967119,
   "71990700c65f7fb7": 1789736415,
   "71b2d175e645c49f": 1789693531,
@@ -3025,6 +3050,7 @@
   "e9e5227444201b9c": 1789629088,
   "ea28303f44ee7b00": 1789748116,
   "ea4f55dec1dc5ffe": 1789977915,
+  "ea88df914829da66": 1789978815,
   "ea936d63b315add6": 1789967119,
   "ea9a3a2336468efa": 1789632918,
   "eaaf13f171e04308": 1789708498,
@@ -3293,7 +3319,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789978521,
- "last_msg_poll": 1789978762,
+ "last_msg_poll": 1789979058,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3334,7 +3360,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 17:19 KST",
+  "last_run": "2026-09-21 17:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
