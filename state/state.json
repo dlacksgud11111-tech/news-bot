@@ -125,6 +125,16 @@
    "t": "코오롱글로벌, 데이터센터 개발사업 확대…4개사 협력체계 구축 - 이투데이",
    "ts": 1789965960,
    "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1raDZ4RUxZRFFtNUVOY1o5dTdyTUFNY2FUR2FHZjRXcXVvZjFVckdnNVlVQjluNlZCLUFoaV9MOVF2UzN3Yk00NzVJQTU3cDNOWng3NQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "Finland proposes priority system for grid connections",
+   "ts": 1789988101,
+   "u": "https://www.pv-magazine.com/2026/09/21/finland-proposes-priority-system-for-grid-connections/"
   }
  ],
  "clip_titles": [],
@@ -1098,6 +1108,7 @@
   "44dfa28f9324baa0": 1789981516,
   "44e312b16ab43dc2": 1789692619,
   "44f28a21e0f76c84": 1789765932,
+  "452a139c46c74889": 1789988389,
   "453041b41e015244": 1789867182,
   "4530bfcf6dc4fba0": 1789950278,
   "4537c5b2387fc6a2": 1789817715,
@@ -1451,6 +1462,7 @@
   "61a49aef480dad29": 1789954905,
   "61e8205d627a47a7": 1789974627,
   "6200e38cc5023724": 1789729598,
+  "6218160b4e350e6b": 1789988389,
   "62243665bb182604": 1789851315,
   "622dd754da381bdb": 1789627496,
   "62348606cc5611b2": 1789947108,
@@ -2883,6 +2895,7 @@
   "d3246835ab4626e7": 1789870063,
   "d32866566f2faa66": 1789977915,
   "d334a7665a19766b": 1789872360,
+  "d33873a9e53b9f27": 1789988389,
   "d352be7351e7315a": 1789954905,
   "d3577106bc244097": 1789958121,
   "d3722c2436c237f9": 1789892428,
@@ -3448,7 +3461,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789985724,
- "last_msg_poll": 1789988038,
+ "last_msg_poll": 1789988630,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3489,7 +3502,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 19:53 KST",
+  "last_run": "2026-09-21 20:03 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
