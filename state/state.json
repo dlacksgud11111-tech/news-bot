@@ -175,6 +175,16 @@
    "t": "코오롱글로벌, 데이터센터 개발 확대…'원스톱 솔루션' 구축 나서 - 머니투데이 - 머니투데이",
    "ts": 1789955327,
    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OOW1EQkkwQnlKaXBkMzF6UExRX1ZBZW9yTFJiaVo5d1dLb19DZGpvTzkxN3JHTFpvTjcxbGlLc1gtdHZQYUl3bENnYXRsamtua0paQlNFQldZSVRoYUVRRGRnZVY4bndSakHSAW9BVV95cUxNTE9qdDJFQmFGTWdZNkNob201WHlfaEg2OEhFWm5ReUZwTzR6SGl5cFNocF9hT2IyQmRWZFMzWEN2N3JULTdpTmMzVV9FYnRweFVRSlNNS2Fmd2szTkpteDB5by1xcHpwRF9fYUZkSkk?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "시사위크",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "효성, 미국 AI 데이터센터 시장 공략 속도… 조현준 회장 ‘기술경영’ 박차 - 시사위크",
+   "ts": 1789976796,
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0UnFQMVl6Z1VtR1lvS2xkWGxkT0RLYl92Q1FSUGRBYXJDZFF5MlhabTktY3B4TEdDdV96alJWWThvSFFOVFhveVBKUjJTTmVZUUpMV1U1MV9nVmJmXzBlaE9OenZ2eHF1MnJZ0gFvQVVfeXFMUExCaVFlRGN4M3B6dlQ0TGJvaVZhd05Wb09WV1ZBeEstSTBoUjdQOUR4ZXFOZ21LcjAyeDBsaUF2aGR3WU1UOE5aMDFXbFlwOVVybFlNR19ucUMtejQ5TjAxWmRkZkJvX0hmbFo2M3I0?oc=5"
   }
  ],
  "clip_titles": [],
@@ -423,6 +433,7 @@
   "10e643f74ceec2b0": 1789729598,
   "10eae82163d6b266": 1789627496,
   "10f0ce45db3d6071": 1789714524,
+  "10fbcc725c4236dc": 1790019030,
   "1100ef677bdd2271": 1789629088,
   "1133e637f5896802": 1789863399,
   "113dbaeff516602f": 1789954327,
@@ -3627,7 +3638,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790000426,
- "last_msg_poll": 1790018978,
+ "last_msg_poll": 1790019280,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3668,7 +3679,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 04:29 KST",
+  "last_run": "2026-09-22 04:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
