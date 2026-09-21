@@ -125,6 +125,16 @@
    "t": "현대건설, 국내 첫 AI 전용 데이터센터 착공… 핵심 인프라 시장 공략 속도 - S저널",
    "ts": 1789986774,
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Wek5sWWdwbXFaZlE0UHRQaXotV21yWW1uZjZfWVJSSnlyX2oxZzlUei1YWVRyNFJGZF9jaS04RDBfb1ktdndkVDBjX0Vrb1NxS1Q2VjBWUTB1a3U0V002VUNsQXkyc2xnUXJnYl93?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "Chinese scientists build 33.3%-efficient perovskite-silicon tandem solar cell processed in ambient air",
+   "ts": 1789995160,
+   "u": "https://www.pv-magazine.com/2026/09/21/chinese-scientists-build-33-3-efficient-perovskite-silicon-tandem-solar-cell-processed-in-ambient-air/"
   }
  ],
  "clip_titles": [],
@@ -486,6 +496,7 @@
   "1a7a1907640992b4": 1789627496,
   "1a7cfef5fb0e0138": 1789691116,
   "1a843e403963a913": 1789627496,
+  "1a8a622fc34fa1bb": 1789995321,
   "1a94b87433597e75": 1789855639,
   "1a972142933576dd": 1789692920,
   "1a98731e0e707d54": 1789691718,
@@ -3472,7 +3483,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789992961,
- "last_msg_poll": 1789995259,
+ "last_msg_poll": 1789995561,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3513,7 +3524,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 21:54 KST",
+  "last_run": "2026-09-21 21:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
