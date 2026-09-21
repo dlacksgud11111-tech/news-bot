@@ -185,6 +185,16 @@
    "t": "효성, 미국 AI 데이터센터 시장 공략 속도… 조현준 회장 ‘기술경영’ 박차 - 시사위크",
    "ts": 1789976796,
    "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0UnFQMVl6Z1VtR1lvS2xkWGxkT0RLYl92Q1FSUGRBYXJDZFF5MlhabTktY3B4TEdDdV96alJWWThvSFFOVFhveVBKUjJTTmVZUUpMV1U1MV9nVmJmXzBlaE9OenZ2eHF1MnJZ0gFvQVVfeXFMUExCaVFlRGN4M3B6dlQ0TGJvaVZhd05Wb09WV1ZBeEstSTBoUjdQOUR4ZXFOZ21LcjAyeDBsaUF2aGR3WU1UOE5aMDFXbFlwOVVybFlNR19ucUMtejQ5TjAxWmRkZkJvX0hmbFo2M3I0?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "한국일보",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "'기술 캠퍼스'라더니 물·전력 잡아먹는 초대형 데이터센터... 뒤늦게 안 주민들 - 한국일보",
+   "ts": 1790019600,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xNTFDV1RIRVRxTmlSdnRpaTRHUjFlTXZOaFBBUk91T3FpTk5xVWV2em1xSFh6Sk5tN3QybXdaSndJSXFiUFNydkRvdTA4UHFIRHM1NFVhNDlwaUJRemFOdEJyNFVWM2JpeHJIWENn0gFzQVVfeXFMT2lfQjdWNk1oaGx6U0NseDZNRWdxSFVvQjBKVTVTUUVMQkQ4d2tmZ2hGaktIQ2tuVGpJQThZNTBMWVprNHdNVnB3VUFZUlRfV1BwcnlUbDlFcUZWdDVDdnd6XzlqdEJiSTRWdXRUNXNxWEVaMA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2293,6 +2303,7 @@
   "9b63c189a413dcb5": 1789637719,
   "9b9f0d40bc6a4fc7": 1789693531,
   "9ba68a37a570c8cd": 1789862827,
+  "9bdf04166f18f429": 1790020216,
   "9be45cd410d5a212": 1789772849,
   "9c0a676672b590f2": 1789740571,
   "9c1a4212cc215872": 1789956616,
@@ -3332,6 +3343,7 @@
   "e8ae0b1722f46128": 1790017534,
   "e8b374abcea3bd52": 1789977032,
   "e8b5c5c1c9554e74": 1789630819,
+  "e8ba0764c454d5ff": 1790020216,
   "e8ba9fbbb1ba5efa": 1789736415,
   "e8c7f8366e505232": 1789872360,
   "e8d3c073903cf501": 1789782122,
@@ -3639,7 +3651,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790000426,
- "last_msg_poll": 1790020163,
+ "last_msg_poll": 1790020463,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3680,7 +3692,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 04:49 KST",
+  "last_run": "2026-09-22 04:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
