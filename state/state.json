@@ -2,7 +2,7 @@
  "alert_cooldown": {
   "HD현대일렉트릭|수주·계약": 1789901120,
   "LS전선|수주·계약": 1789713632,
-  "효성중공업|수주·계약": 1789720222
+  "효성중공업|수주·계약": 1789968267
  },
  "alert_titles": [
   [
@@ -64,6 +64,10 @@
   [
    1789950278,
    "삼성물산, 1.8조원 규모 성수3지구 재개발 시공사 선정"
+  ],
+  [
+   1789968267,
+   "효성중공업, 美 AI 데이터센터 전력망 공략…세계 최대 1Gvar급 스태콤 수주"
   ]
  ],
  "alerted": {
@@ -75,6 +79,7 @@
   "5cce5601b739fc06": 1789643729,
   "674fed9742c4697e": 1789901120,
   "67f931ba5c829b33": 1789694720,
+  "81adef0c372cdae1": 1789968267,
   "8b6589b0156277f4": 1789627490,
   "912a395478af1774": 1789713632,
   "99e9e19b28cb6dd8": 1789694435,
@@ -83,7 +88,7 @@
   "bc994ca12211ee69": 1789720222,
   "cdaa54f68b0563fa": 1789658129
  },
- "alerted_today": 1,
+ "alerted_today": 2,
  "clip_buffer": [
   {
    "co": "ABB",
@@ -127,7 +132,7 @@
   },
   {
    "co": "",
-   "n": 1,
+   "n": 2,
    "s": "뉴스락",
    "sc": 0,
    "sec": "데이터센터·AI전력",
@@ -214,6 +219,16 @@
    "t": "트럼프 일가, AI·데이터센터 투자 확대…'이해충돌' 논란 재가열 - 파이낸셜뉴스",
    "ts": 1789956159,
    "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10bVZPbXVYYWNCanlocEFQT2J3bW1BYk9mSFhrazFiMThyZzVrRkFwbTBfTzNuU0tGcnZ2R0ROQ0JVd1FnUnp4Qkd0Zy1aLThmczY1OG1pUEYyUQ?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "폴리뉴스 Polinews",
+   "sc": 24,
+   "sec": "전력기기",
+   "t": "효성중공업, 美 AI 데이터센터 전력망 공략…세계 최대 1Gvar급 스태콤 수주 - 폴리뉴스 Polinews",
+   "ts": 1789967176,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJa3NDM0tMSFZTU0tiSDNvUTlrS0ZxR1hDcmVtLXhhUjZqRnRTNER4eTJ4NW9xcmRiVlRVWkcyVk9jaThsTWFDQy1vMGRlOGxFYWxMbGt6ZFhrRXEwOWpVVlNkekY3cjkzb09CVnlB0gFyQVVfeXFMTmR2ckVpeVM5ZDk3YkxmdGRBZktzdHltdU1SUDJYQTFYRFMzTXNGM3lLWUFucDhhcGpnTmJMZk9uYVBpM01lMHhvR1RiMTdBTXA3d29LODJmTTNaS05BMXZZRHhhU0dKQXh1aVh1bGt2dGZR?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1707,6 +1722,7 @@
   "818c32dc1d8e646d": 1789951988,
   "81a439f5c7a25e2d": 1789784418,
   "81a5558807b4d8c8": 1789712512,
+  "81adef0c372cdae1": 1789968268,
   "81b70b582a0ef24c": 1789866315,
   "81ba59584b055329": 1789873818,
   "820b4cc1ed9920ff": 1789710788,
@@ -2183,6 +2199,7 @@
   "aee3cbcc87d98d26": 1789949125,
   "aef8f2e0333462b7": 1789784719,
   "aefc8553fdc96d31": 1789891518,
+  "af22e43fb0ad69fb": 1789968268,
   "af2564298b909d12": 1789726134,
   "af284089984fedf1": 1789627496,
   "af2d9d911432ec89": 1789629088,
@@ -2260,6 +2277,7 @@
   "b43b75bdfdc572b3": 1789713065,
   "b45bb2e8eb2efe99": 1789951430,
   "b461fff6a117643f": 1789695618,
+  "b4641ed965e195de": 1789968268,
   "b485281e4604f5d0": 1789629088,
   "b49b9d8b0c9f94b7": 1789627496,
   "b49c91527334ef51": 1789775739,
@@ -2311,6 +2329,7 @@
   "b87cf380875cfe62": 1789965017,
   "b883121171c50158": 1789647653,
   "b89dcfa43157dfbd": 1789689915,
+  "b8ba4552a6fb3282": 1789968268,
   "b8e63103370bfc15": 1789691718,
   "b8e9e9337df89435": 1789627496,
   "b902cf32f808d90d": 1789627496,
@@ -3113,7 +3132,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789963516,
- "last_msg_poll": 1789967937,
+ "last_msg_poll": 1789968518,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3154,7 +3173,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 14:18 KST",
+  "last_run": "2026-09-21 14:28 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
