@@ -395,6 +395,16 @@
    "t": "French startup repurposes EV batteries for solar energy storage",
    "ts": 1789983695,
    "u": "https://www.pv-magazine.com/2026/09/21/french-startup-repurposes-ev-batteries-for-solar-energy-storage/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "Slovakia slashes residential solar subsidy, shifts support toward heat pumps",
+   "ts": 1789983900,
+   "u": "https://www.pv-magazine.com/2026/09/21/slovakia-slashes-residential-solar-subsidy-shifts-support-toward-heat-pumps/"
   }
  ],
  "clip_titles": [],
@@ -587,6 +597,7 @@
   "0d84a253673b8ae9": 1789977915,
   "0d9be9754588d2b6": 1789963516,
   "0dbb3e9c3038dbf9": 1789948516,
+  "0dbd5d8730a9a4c2": 1789984228,
   "0dc3b29e1c312b81": 1789634416,
   "0dc599ef09de51b7": 1789649116,
   "0dd57eb63e50a5bb": 1789982415,
@@ -2590,6 +2601,7 @@
   "a9ae868adfe9dda1": 1789692619,
   "a9b54e79893fe727": 1789707915,
   "a9c54a6bc8d58807": 1789973468,
+  "a9c56ef1e17dfb5c": 1789984228,
   "a9d1e4864fab0fba": 1789708498,
   "a9d5b0abc045571d": 1789977915,
   "a9d645c9355ae498": 1789693531,
@@ -2977,6 +2989,7 @@
   "c62efbca1220101d": 1789963516,
   "c698c1319c66137d": 1789629088,
   "c69be58112badbeb": 1789974040,
+  "c69fb7f8ef5a5417": 1789984228,
   "c6a92dd3ae33ecfd": 1789983317,
   "c6c05df94258b080": 1789627496,
   "c6e50df25f355857": 1789629088,
@@ -3705,7 +3718,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789978521,
- "last_msg_poll": 1789984171,
+ "last_msg_poll": 1789984475,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3746,7 +3759,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 18:49 KST",
+  "last_run": "2026-09-21 18:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
