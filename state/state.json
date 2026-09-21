@@ -215,6 +215,16 @@
    "t": "[특집]GS건설, 전력·모듈러 기술 품고 데이터센터 시공 역량 키운다 - 경향신문",
    "ts": 1789991220,
    "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zd0hQb0JpZXBKNmlmc1kwVk1icnFzRGtGS3FxR2xpTnc5QTlSVjd1VDFXZjZYbmNKUHpQQm9yNGNSQnZNc1YzelQ4MGZOU0ZvMjU1RV9SbGNzZ9IBX0FVX3lxTFBCYVdKWEZ2bndoWHE2YVVQcDYtYXVRS1I1bkh1TGkzMG8zZDA1ZkVmTG1IdnNmVFpkMHlrenFLcVV2NzRUWnk5NDdJbEtfMXpfQ0p4SF82VFZpUVJEVE5F?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "edaily.co.kr",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "EU, 데이터센터에 친환경 등급제 도입…빅테크 압박 강화 - edaily.co.kr",
+   "ts": 1790026091,
+   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUGRLd0dHNUpILXZySFdmZlRGcW5ZQ3pMU3FndXlQdzVtLXlJYUhpNUw1WWx0QnZ5U3hoWFZ5aklFTTlwT3pXT2duUlZRSV84QXA1c0JFWVJlUkNKY21YQmdXeWpmTXhwYUl0dWtFcU1NcmFnSTVmTEJleHUzWW9VZg?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2750,6 +2760,7 @@
   "b8e9e9337df89435": 1789627496,
   "b902cf32f808d90d": 1789627496,
   "b90eb218866dd33d": 1789981516,
+  "b91ce56ec80dcfc8": 1790026389,
   "b92905b756986747": 1789709072,
   "b92dade745d6dcba": 1789977032,
   "b93e06514e04c1b4": 1789696217,
@@ -3689,7 +3700,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790000426,
- "last_msg_poll": 1790026039,
+ "last_msg_poll": 1790026640,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3730,7 +3741,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 06:27 KST",
+  "last_run": "2026-09-22 06:37 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
