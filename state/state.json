@@ -268,7 +268,7 @@
   },
   {
    "co": "",
-   "n": 1,
+   "n": 2,
    "s": "에너지경제신문",
    "sc": 4,
    "sec": "재생에너지·ESS",
@@ -285,6 +285,26 @@
    "t": "기록적 폭염에도 전력수급 ‘이상무’…95.3GW 고수요 견뎠다 - energyprosumer.info",
    "ts": 1789944540,
    "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE02aXFsbzlYMllpd0QyUUoydEw1enZzdkJXYk1GN1h0NXV0Z2x2a2JQN1lWRDZkUTBZQkRKNTNrZzFlaWdSN0hfRVFzcVA?oc=5"
+  },
+  {
+   "co": "한국전력",
+   "n": 1,
+   "s": "매일경제 : 경제",
+   "sc": 9,
+   "sec": "유틸리티·정책",
+   "t": "4분기 전기료 사실상 동결 … 한전, 재무부담 커질듯",
+   "ts": 1789975145,
+   "u": "https://www.mk.co.kr/news/economy/12158348"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "잡포스트",
+   "sc": 14,
+   "sec": "전력기기",
+   "t": "효성중공업 강보합…전력기기 호황 속 291만7000원 - 잡포스트",
+   "ts": 1789973690,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PNmJfY3Q5RFhzWU5FaEFBN0d6WER1SjBRMjlEUnBrUXowV3RwS0tDRXBIdkYyN1QtelVYQ2MtUng4RE9ENVI5bnl4Q2lZY3JGNnNfU3IzemRudl84OTczVHlZR01nODM5X0lRUHVn0gFyQVVfeXFMUDZQU3JNQlRLbHBoUmlwakRJUXZQRXhXcm5Kb09zU0IyeUhfZDNsOFhEWkhGVEZqLXZBa1Zfd1NLOUtmQjFhUzhpSXVmRENjNkxkXzFzRmxqMGxEaXlFejZfQnJQWHlXbjFGZ182Rmlrbzhn?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1769,6 +1789,7 @@
   "7812710f6512eb9f": 1789731320,
   "782c892dba060c2a": 1789646718,
   "78736a03269deb77": 1789863399,
+  "7879b57c809449bc": 1789975218,
   "789f3ece8ceab191": 1789731320,
   "78b1a7c118dbe5ef": 1789634116,
   "78cff529641e1520": 1789969411,
@@ -1917,6 +1938,7 @@
   "836ee5459873d80e": 1789969411,
   "83df1ffb82cac3ff": 1789953163,
   "83e2ce7fa720dd08": 1789967119,
+  "83e45c10f0529e90": 1789975218,
   "83f53abb27d63df4": 1789892428,
   "83fdb2a6e64aeeb8": 1789720817,
   "83ff03911f50edff": 1789967119,
@@ -1938,6 +1960,7 @@
   "84ee7e592b1896df": 1789963516,
   "852223dfb55a9dcd": 1789689915,
   "852ff64543eef161": 1789693531,
+  "853ea98c9c6abbce": 1789975218,
   "8545b4e976535687": 1789701321,
   "85705eac9beb6711": 1789715428,
   "858bb64f74e1110b": 1789695017,
@@ -3264,6 +3287,7 @@
   "f51e87afc6eedda4": 1789969411,
   "f541e7d97c961bcf": 1789953163,
   "f5675083e3b5e1e8": 1789635618,
+  "f586b9aeb240ec76": 1789975218,
   "f586ff9918de0a2b": 1789957222,
   "f587f9028ed5af8d": 1789966821,
   "f58fd803a528e4f1": 1789627496,
@@ -3393,7 +3417,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789971183,
- "last_msg_poll": 1789975170,
+ "last_msg_poll": 1789975469,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3434,7 +3458,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 16:19 KST",
+  "last_run": "2026-09-21 16:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
