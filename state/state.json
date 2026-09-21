@@ -114,6 +114,26 @@
    "t": "코오롱글로벌, 데이터센터 개발 ‘원스톱’ 체계 구축 - 디스커버리뉴스(DISCOVERYNEWS)",
    "ts": 1789956597,
    "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4T2ZaalZRaDB6SFJGdnZYUnI4eUpKUndzaDRJUGtQYUdhMTBHbkZaalFjN2FOcktiZFAxaU04ZUE4VjB6RDBqZHdxTXJDWjIyR1NqbGhzWUYtcTVzUXhRempFRTNyX3VreVhFUDhnenhCQQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "파이낸셜포스트",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "해치텍, AI 반도체 서버 발열·전력난 동시에 잡는다… 메모리·SSD 이어 데이터센터 정조준 - 파이낸셜포스트",
+   "ts": 1789965474,
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtY0N3UXgxOFlkVFAyZDdjdTVsYi1zQmNvRFlhdDdHaW1mTlV2bWM1NWxmSDBOb1VON1BTVzVDRTJxWWRuQTFXNlhuaFVaUUtNNHVuRmtYcGUxNlV1c0R3aWpyc2JLbFl2aEF6LXd0aVJ0cTlu?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴스락",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "코오롱글로벌, 데이터센터 개발사업 본격화…4사 협력체계 구축 - 뉴스락",
+   "ts": 1789964900,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10ZlVvSUd1VHVSQU5PU3JRUVp6a2ZMVG14ZW9pTDEzM3VQaDVGeHozbm9VU3YxZjIyTkxwYjVwQWxEM3h2QzlYZzVEdjN0S0thY2lHa01RdU9aTUc1RFlFb2hUcTd0M0IxRXBBag?oc=5"
   }
  ],
  "clip_titles": [],
@@ -525,6 +545,7 @@
   "2256e3dcffa2f8fd": 1789954905,
   "22a445ceaa33b0de": 1789783839,
   "22e59683e7802657": 1789700144,
+  "2324b62eea02a70b": 1789965922,
   "232b964f21f0b9ee": 1789641317,
   "2332ca9a00a07eea": 1789870063,
   "234aa7d44236e25f": 1789634116,
@@ -1362,6 +1383,7 @@
   "6d977cca7075792b": 1789648519,
   "6dd3143ec459edb5": 1789696816,
   "6de9d8423f5cb2a8": 1789637719,
+  "6decc3ce99a9e7c2": 1789965922,
   "6dfb717bc4630a44": 1789962027,
   "6dfe2ff2aa5aeb7a": 1789627496,
   "6e1aedebd3ca6d7e": 1789693531,
@@ -2058,6 +2080,7 @@
   "af97f59ba031b3a7": 1789953163,
   "afa0426b93df6bfd": 1789888052,
   "afab90c7551ef0d0": 1789963516,
+  "afbe0d48530fa5d6": 1789965922,
   "afcdd4248bfe5dee": 1789735230,
   "afd545e62e80e213": 1789722018,
   "afe203169f62e517": 1789953723,
@@ -2935,6 +2958,7 @@
   "fd658513d9b1c3a0": 1789951430,
   "fd703034725ef549": 1789960215,
   "fd99f14454433337": 1789859418,
+  "fda36b739a75af5d": 1789965922,
   "fdcdb1437c1741ac": 1789684520,
   "fdeff0f150665962": 1789865116,
   "fdfde46208e73426": 1789805116,
@@ -2961,7 +2985,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789963516,
- "last_msg_poll": 1789965863,
+ "last_msg_poll": 1789966170,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3002,7 +3026,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 13:44 KST",
+  "last_run": "2026-09-21 13:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
