@@ -265,6 +265,26 @@
    "t": "[인터뷰]김용주 건설연 본부장 “중남미와 첨단 기술 기반 인프라 건설 협력 모색...국내 기업 도울 것”",
    "ts": 1789974000,
    "u": "https://www.etnews.com/20260921000088"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "에너지경제신문",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "차량 넘어 AI 전력·산업원료로…수소경제, 국가 차원 재설계 시급 - 에너지경제신문",
+   "ts": 1789974138,
+   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81bFVGVWJxNEtGR25zbjB6N003MEYzTDFsOVk3S0psN1J5WHAyRXgyLWFyUjFsSnhOSUc2SHhBT1hMSWY5RFV0WTkzQ1N5ekU0NVJQNTNxRzJsa2lyU296cVJB?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "energyprosumer.info",
+   "sc": 2,
+   "sec": "유틸리티·정책",
+   "t": "기록적 폭염에도 전력수급 ‘이상무’…95.3GW 고수요 견뎠다 - energyprosumer.info",
+   "ts": 1789944540,
+   "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE02aXFsbzlYMllpd0QyUUoydEw1enZzdkJXYk1GN1h0NXV0Z2x2a2JQN1lWRDZkUTBZQkRKNTNrZzFlaWdSN0hfRVFzcVA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -573,6 +593,7 @@
   "186faee333c8e0c0": 1789627496,
   "189452040de2110a": 1789664118,
   "18a99299c2859c20": 1789705521,
+  "18b10481d41a60f0": 1789974920,
   "18b5a50a19c35d74": 1789629315,
   "18c1332f598b432d": 1789969411,
   "18c652cf93963d01": 1789851916,
@@ -985,6 +1006,7 @@
   "377a1a6c4ceafd87": 1789955477,
   "37b4c100ebcf252a": 1789794287,
   "37b76453dd7c5d1f": 1789859418,
+  "37f686803ed72e35": 1789974920,
   "38197b352afdc405": 1789882215,
   "38237f0379b211a1": 1789967119,
   "3832ac28b8d541da": 1789695321,
@@ -2187,6 +2209,7 @@
   "9eb2b5dc655aab93": 1789951430,
   "9ed9f87391f3f49a": 1789721730,
   "9ef1ffdae874eab1": 1789790714,
+  "9ef60bf3c1097b82": 1789974920,
   "9ef9434f46ed9d49": 1789627496,
   "9f1144c75d2c6b1f": 1789866315,
   "9f24a5f5b9920f25": 1789710209,
@@ -3370,7 +3393,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789971183,
- "last_msg_poll": 1789974875,
+ "last_msg_poll": 1789975170,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3411,7 +3434,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 16:14 KST",
+  "last_run": "2026-09-21 16:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
