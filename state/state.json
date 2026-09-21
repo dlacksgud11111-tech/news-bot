@@ -79,68 +79,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "ABB",
-   "n": 1,
-   "s": "에너지데일리",
-   "sc": 8,
-   "sec": "데이터센터·AI전력",
-   "t": "[이슈] ABB, ‘더 스마트한’ 전력… AI가 바꾸는 데이터센터의 미래 - 에너지데일리",
-   "ts": 1789941900,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PUUVianRqRXpsYnRwdEczWUY0SUlrOE42WHJVTEtpVTNteUZmeWpTOFZwUGpYMzIydi01cU5tWEZjeld3WHVvc05wWTVTcDFLUFRsQnBUeU8yVWRYOU51VEVfQVZmdmJlWWtZb0g0UkZqUQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 11,
-   "sec": "전력기기",
-   "t": "'우물에서 숭늉찾기' 기후부 전력망 대책 뒷말",
-   "ts": 1789970400,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334429"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "edaily.co.kr",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "\"데이터센터 어디 지을까?\"…이제는 '전기·임차인' 싸움 - edaily.co.kr",
-   "ts": 1789943524,
-   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb092UVhvaXFkbDg1alhxdktqaHlodGR5VmhKeVdXb3pKTDdXQzUwUTZYZDl6enRUbmNwcXk1NVBUQlRjNmFwXzBndUZZRmdMeXkzSDk5dGdtRnJYSWF3RmNmTDhBSDZmZjlBVmJVeWZ1ME9yVVFnVlJjUS1yN3FEUA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "데이터뉴스",
-   "sc": 18,
-   "sec": "전력기기",
-   "t": "전력기기 3사, 매출 늘리고 수주잔고 더 쌓았다 - 데이터뉴스",
-   "ts": 1789946752,
-   "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvbXpUdFhLRjd6bXJHSURjRXZkQkpJYXNPMjZwVExWWnZwLWxEZHZzelFVQnJaVmFDWXdXbzVzUS1UUVdTUTZCMVQxdXkzdkRtbFRIeDd6eVkyZkhRU0sw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴스1",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "트럼프 일가, AI·데이터센터 투자 확대…'이해충돌' 재가열 - 뉴스1",
-   "ts": 1789946322,
-   "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RWTNBeS13eUlxVFEtRnV3Q0IyajY5SVhhMjgzRHN1NkdrWFZ3MmtsNFN3Yzk0MlVqbHM2S05hLTAyLTIwd3c0QWhERGh3WmphMm1Bd0JOTEvSAV5BVV95cUxPVkc2TkRmcVNYRFNDdFlGRl9zNTJjMklfYnRJSldQX1MwX3FnS1ExZ2UwOVFyeUEzNXlvV3VpQWQxNWVNYXY4cEsxY3dxX18zTm10c09vS3pEY0RmRDBR?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "한미글로벌, SK하이닉스 미국 인디애나 HBM 공장 건설사업관리",
-   "ts": 1789948003,
-   "u": "https://www.yna.co.kr/view/AKR20260921024800003"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "001fd9cb95168f6f": 1789868904,
@@ -1585,6 +1524,7 @@
   "9e037fe94de4a19f": 1789785019,
   "9e088260698a60f8": 1789710209,
   "9e0be620ffcf9e48": 1789689915,
+  "9e5589733756bb19": 1789948832,
   "9e5e87177a164ecb": 1789872927,
   "9e76c901b6161168": 1789724119,
   "9ed9f87391f3f49a": 1789721730,
@@ -2509,8 +2449,8 @@
  },
  "companies_today": {},
  "day": "2026-09-21",
- "last_clip": 1789941629,
- "last_msg_poll": 1789948764,
+ "last_clip": 1789948832,
+ "last_msg_poll": 1789949083,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -2551,7 +2491,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 08:59 KST",
+  "last_run": "2026-09-21 09:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
