@@ -125,6 +125,16 @@
    "t": "Flag to deploy Ciena's Waveserver platform on Echo subsea cable",
    "ts": 1790007504,
    "u": "https://www.datacenterdynamics.com/en/news/flag-to-deploy-cienas-waveserver-platform-on-echo-subsea-cable/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 5,
+   "sec": "전력기기",
+   "t": "New York regulators approve 90-mile transmission line",
+   "ts": 1789995313,
+   "u": "https://www.utilitydive.com/news/new-york-psc-propel-transmission-line/830866/"
   }
  ],
  "clip_titles": [],
@@ -2007,6 +2017,7 @@
   "89ad053daf192384": 1789783839,
   "89da6c31ba3eb32e": 1789697424,
   "89e52c12d647f6a0": 1789695321,
+  "89e8f0298d866fd1": 1790008218,
   "8a0c2578dc01b23f": 1789977032,
   "8a61317f1738ac01": 1789720817,
   "8a6645e56ea0e8f6": 1789707915,
@@ -2042,6 +2053,7 @@
   "8cd023f1fa7079db": 1789953163,
   "8cee74fd566c5b64": 1789627496,
   "8cf5b045e2e78161": 1789851916,
+  "8d133d50abbe6f44": 1790008218,
   "8d14fcaca7b354be": 1789886351,
   "8d30a0f4c341ce7f": 1789627496,
   "8d321e7a0e01b0a0": 1789732531,
@@ -3548,7 +3560,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790000426,
- "last_msg_poll": 1790008170,
+ "last_msg_poll": 1790008468,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3589,7 +3601,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 01:29 KST",
+  "last_run": "2026-09-22 01:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
