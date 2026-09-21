@@ -335,6 +335,36 @@
    "t": "'AC에서 하이브리드 AC/DC 전력망으로'…BCG·ABB, 차세대 전력 아키텍처 전환 제언 - 전기신문",
    "ts": 1789964420,
    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qR2VuelF4VU1qMjdmRUtqeFBoRUcyRWROWEdJM1BTTFRXbFhiNVlrRGFXbVNhVHRBRjJOQm8tMFJuNkVMUDFNV0pWTnlVWjJhNjJORTBvYzZZeUhLck9iVHhLTHgtTk1aQVY4cdIBcEFVX3lxTFA2ZDYzNl9ad1RpVHhGWVlKejFrS2JaTngxVTRfOTdyS205N0VJVWhNUGprTzV4SFk3eWVta0FsUmE3SVl4LXNzaUI0MGt6U3NfbjN2b2x5U1ZPX2xmMDRWNjNIajlyM1U1SzBzc2ZmaWg?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "전기신문 - 전체기사",
+   "sc": 9,
+   "sec": "유틸리티·정책",
+   "t": "(수요광장)12차 전기본, 탄소중립·에너지안보·전기요금 모두 잡을 수 있는가",
+   "ts": 1790014747,
+   "u": "https://www.electimes.com/news/articleView.html?idxno=372653"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 3,
+   "sec": "재생에너지·ESS",
+   "t": "Predictive control cuts costs in buildings combining PV, heat pumps, EVs, thermal storage",
+   "ts": 1789982912,
+   "u": "https://www.pv-magazine.com/2026/09/21/predictive-control-cuts-costs-in-buildings-combining-pv-heat-pumps-evs-thermal-storage/"
+  },
+  {
+   "co": "ABB",
+   "n": 1,
+   "s": "인공지능신문",
+   "sc": 10,
+   "sec": "데이터센터·AI전력",
+   "t": "ABB, AI 데이터센터 전력 인프라 재편…800V 직류 솔루션 공개 - 인공지능신문",
+   "ts": 1789981209,
+   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tbjl1cmVYNWwxM3FyLXhmTENsNjdmNzNBWndkZFFfbGZ3V3dqUFV4QVdvNnF1T29YY1VudEw4STZXQXk3LWNCWDQ2bmFjUXJuWHhMQ1BERWlFUlJEUGZYSzFybm81REE?oc=5"
   }
  ],
  "clip_titles": [],
@@ -385,6 +415,7 @@
   "02f65c64f70981ea": 1789959919,
   "02fa75d6c7747074": 1789686930,
   "030534865f3acd04": 1789627496,
+  "03056a5fee11d598": 1789983017,
   "032242def30b9da0": 1789872360,
   "0323b38c3eb9b849": 1789729598,
   "0336ca586314a4ce": 1789630819,
@@ -702,6 +733,7 @@
   "1b0d23a8b235adb1": 1789632918,
   "1b214c1cc4b63e6c": 1789710209,
   "1b2e7266e4566b1a": 1789629088,
+  "1b37acf7aba9eeb8": 1789983017,
   "1b41cd56806e4c19": 1789627496,
   "1b5b13f9bfa8fa97": 1789951430,
   "1b5ed4f2f2a13fd1": 1789951430,
@@ -1610,6 +1642,7 @@
   "5d3b0d76feb31657": 1789627496,
   "5d3d334b020cae13": 1789958422,
   "5d630d10f27063d0": 1789953723,
+  "5d6371d0c99fd50a": 1789983017,
   "5d7506da81dc2765": 1789963516,
   "5db8280acb625b2e": 1789627496,
   "5df3e864df1e190c": 1789954905,
@@ -1689,6 +1722,7 @@
   "6573f9e0a0fda72f": 1789627496,
   "65950502eef87527": 1789679129,
   "65a44fe579d6b93b": 1789716922,
+  "65b063949811db4b": 1789983017,
   "65deccbf3c605db6": 1789888052,
   "65f4170f5e98e03d": 1789629088,
   "6605d79eee87eef7": 1789851916,
@@ -2056,6 +2090,7 @@
   "82e276a5f8b3ec61": 1789971183,
   "82f406bc354675db": 1789627496,
   "830e675698904445": 1789629088,
+  "833e91333d9fc29f": 1789983017,
   "83478c076fcd3165": 1789960215,
   "8350dde44babcd72": 1789667118,
   "836345adaac270eb": 1789689915,
@@ -3627,7 +3662,7 @@
  "companies_today": {},
  "day": "2026-09-21",
  "last_clip": 1789978521,
- "last_msg_poll": 1789982972,
+ "last_msg_poll": 1789983266,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -3668,7 +3703,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-21 18:29 KST",
+  "last_run": "2026-09-21 18:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065791,
