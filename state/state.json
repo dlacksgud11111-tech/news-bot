@@ -182,6 +182,46 @@
    "t": "\"AI 투자 꺾이면 전력기기도 끝?\"…수주잔고 43조원 쌓였다 - 데일리안",
    "ts": 1790069580,
    "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zOGxzaGJTYjZJZ0FGM280QTlRTkQ4UTBUZ000bGdtSWpCd25NbVZxR1BRZUpzN3ZrdUhJM05oazBnWThvVDdpS2NsbmdLclI5YjBPRA?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 2,
+   "sec": "건설·플랜트",
+   "t": "RWE and Giga Storage move to construction on gigawatt-hour Netherlands and Belgium batteries",
+   "ts": 1790074345,
+   "u": "https://www.energy-storage.news/rwe-and-giga-storage-move-to-construction-on-gigawatt-hour-netherlands-and-belgium-batteries/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 6,
+   "sec": "원전",
+   "t": "Google inks deal to support nuclear uprates at Georgia Power's Vogtle and Hatch plants",
+   "ts": 1790074238,
+   "u": "https://www.datacenterdynamics.com/en/news/google-inks-deal-to-support-nuclear-uprates-at-georgia-powers-vogtle-and-hatch-plants/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "2026 guide to navigating data center supply chain complexity",
+   "ts": 1790074110,
+   "u": "https://www.datacenterdynamics.com/en/whitepapers/guide-to-navigating-data-center-supply-chain-complexity/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "마켓인",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "“수도권 데이터센터, 크게 짓기 어렵다”…하남 물류센터의 ‘작은 변신’ - 마켓인",
+   "ts": 1790072944,
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xbVJ6ZkdQZFF4NUY1RTI3VXlWeXRyN1UtdzdxRFM0bGQ3LWFtYWJOb0pvNnVVSkE0bk41NUhEQVpHUXkybFpIWVlTUjMyQ1VZZUhkWFU1VzBNSTl4Unp2elZsTEdtREltSTZVeWlDaGpfU1E?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2217,6 +2257,7 @@
   "6e1aedebd3ca6d7e": 1789693531,
   "6e1e893d86f999af": 1789627496,
   "6e22d8640b555904": 1790040917,
+  "6e3876d7a92b982f": 1790074519,
   "6e57a481baa5e673": 1789629088,
   "6e5cb1b84176d101": 1789627496,
   "6e608463d9af3b71": 1789831819,
@@ -3442,6 +3483,7 @@
   "b5046afe43c0ef3a": 1789629088,
   "b51d00bb87d24964": 1789627496,
   "b51ded7e9c0fcec0": 1789695321,
+  "b532857cd3587522": 1790074519,
   "b545208a69cd97bd": 1789698403,
   "b54fde8503965694": 1789979721,
   "b55c53c72ddda82a": 1789704919,
@@ -4200,6 +4242,7 @@
   "e10ce7d6edf1ff0c": 1790047038,
   "e10dc488ce9baefc": 1789718720,
   "e1197afb396aa3c4": 1789967119,
+  "e1496cea4ffc64ab": 1790074519,
   "e16207f5fbbe35e7": 1789949125,
   "e1689c027cebf02d": 1789689626,
   "e16a653b627d278d": 1789698990,
@@ -4336,6 +4379,7 @@
   "e87195b5f255958b": 1789630519,
   "e884e48149b40f53": 1790040051,
   "e885e14b8d7019b0": 1789972883,
+  "e88cea667d2f2817": 1790074519,
   "e89506da32872952": 1789977915,
   "e8ae0b1722f46128": 1790017534,
   "e8b374abcea3bd52": 1789977032,
@@ -4650,6 +4694,7 @@
   "f9c283d279ce9403": 1790005215,
   "f9c4176364575821": 1790057120,
   "f9d069647a6477c2": 1789627496,
+  "f9d268a33265f45e": 1790074519,
   "f9eb9a6f94a1e986": 1790067655,
   "f9ec0b07c2bfc8bf": 1790041833,
   "fa09d9dde3608e7e": 1789862827,
@@ -4754,7 +4799,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790072126,
- "last_msg_poll": 1790074469,
+ "last_msg_poll": 1790074764,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4796,7 +4841,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 19:54 KST",
+  "last_run": "2026-09-22 19:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
