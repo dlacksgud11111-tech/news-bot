@@ -422,6 +422,16 @@
    "t": "[AI 고속도로] 2년 걸리던 AI 데이터센터, 수개월로…'모듈형' 구축 경쟁 뜬다 - v.daum.net",
    "ts": 1790041020,
    "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04V0VpR2JnZHNfVDJ6VFZ3V3hJNkQtYThXTFdlZ1RUbkI4bURNZmVpeWl5UTJiX3VvX3hyQWZhTlRBU2NJaVhkbmNoVG1uaGc?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "intn.co.kr",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "법무법인(유) 세종, ‘AIDC 인프라센터’ 출범…AI·반도체·데이터센터 3대 메가프로젝트 통합 대응 - intn.co.kr",
+   "ts": 1790039070,
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JdnUtb0doTHFZMVZlM2trLXJjekRaY3dCUzZwS3ZsdlNRWGo5TnhpdEcyTDkyVnNvd2tKOE4zTzltTjdfY1pxcDZMbHItQ1dhMGp6aGtHN1VubzJzYlJNZTNRVTlDVUdx?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2370,6 +2380,7 @@
   "693603de75a83686": 1789870063,
   "694e98f31500bf15": 1789971183,
   "6952b25603a38722": 1789699582,
+  "695c6749b6cdd263": 1790071521,
   "6960534934e686c0": 1789718418,
   "696e429e7ddbef8d": 1789648519,
   "6982a398dadc1f96": 1790034858,
@@ -3612,6 +3623,7 @@
   "b2f2f3fd32ea4a9d": 1789689915,
   "b2f86a66fe564c20": 1789629150,
   "b2fb7b62c80a6523": 1789977915,
+  "b30ded1bd98496e5": 1790071521,
   "b312d39fb1a70019": 1790042395,
   "b318816d992bddc2": 1789728460,
   "b33d5dfff9c137e1": 1789953163,
@@ -4224,6 +4236,7 @@
   "d5ace792ef461192": 1789637719,
   "d5bcc04fec2f8450": 1790035999,
   "d5bdafbef7509cf4": 1789957222,
+  "d5cc02f44259ba13": 1790071521,
   "d5def1892f6ef073": 1789951430,
   "d5ea45ff7a3cc1a0": 1789654217,
   "d5ee14838ca8c26c": 1789782685,
@@ -4964,7 +4977,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790064758,
- "last_msg_poll": 1790071462,
+ "last_msg_poll": 1790071768,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5006,7 +5019,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 19:04 KST",
+  "last_run": "2026-09-22 19:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
