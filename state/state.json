@@ -117,338 +117,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 4,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일경제 : 경제",
-   "sc": 0,
-   "sec": "유틸리티·정책",
-   "t": "[단독] 텍사스 발전소 최대 454억弗 회수 전망 … 연료비·변동 운영비는 수요자 부담키로",
-   "ts": 1790050491,
-   "u": "https://www.mk.co.kr/news/economy/12159219"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일경제 : 경제",
-   "sc": 4,
-   "sec": "원전",
-   "t": "[단독] 대미투자펀드로 美원전 최소 8기 건설 ... 美 “더 지으려면, 1기당 로열티 20억弗 내야”",
-   "ts": 1790050310,
-   "u": "https://www.mk.co.kr/news/economy/12159218"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "BBS불교방송",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "카카오, 임차 데이터센터 냉방 전력 23% 절감 - BBS불교방송",
-   "ts": 1790049770,
-   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91cHVsVERJaklzTTBSZmJyQjM4U2pqMmpFSEEtNmxTWmVZdFBXbm9mSjlpUm5YMmt6MUJuOU9uSHFtS0tPT3hISlQ0d2hqLWpneVZGZWttQnV6aFJlWkdDR1dlaHpEUkM3dzJV?oc=5"
-  },
-  {
-   "co": "",
-   "n": 3,
-   "s": "뷰어스",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "LG엔솔, 엔비디아 DSX 레디 합류…AI 데이터센터 ESS 공략 - 뷰어스",
-   "ts": 1790050536,
-   "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NX1hlWFVWd0pGZ2xFMmIyR2ZRSHZZRWJBZmM2YXdEbElCSHRQeng4a0dNcHQ2WmZqZzVqbG1pSEhINTZnQXJ0aUZaSFpNZmNYZldiQU94R3E?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "엠투데이",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, 엔비디아 DSX 승인…AI 데이터센터 냉각 시장 정조준 - 엠투데이",
-   "ts": 1790049890,
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tSGt4a2VhaVNNSlIzT1c2ZUZOdEdJV1hfS0RXV2VLQVRHOW9RcC13OENSOTdRSDdYYmVPTFZtYWhVUlYxdnBUbUxjMjZ0VFFmX3NYMUdwSFpWWExiRGFtX0tySGRTZjdlNTdzYXN3QQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "재생에너지·ESS",
-   "t": "“하이니켈 고집 꺾고 나트륨·전고체로 반격”…K-배터리, 8.4조 투입해 판 뒤집는다",
-   "ts": 1790050243,
-   "u": "https://www.etnews.com/20260922000280"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "유틸리티·정책",
-   "t": "대미투자 1호 '텍사스 발전소' 결정…野 “상업적 합리성 우려”",
-   "ts": 1790050143,
-   "u": "https://www.etnews.com/20260922000279"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "서울파이낸스",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "EU, 데이터센터 친환경 등급제 도입…AI 전력 폭증에 빅테크 압박 강화 - 서울파이낸스",
-   "ts": 1790051567,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwSzNRempLTlZUbXlpeGU5NVhwRWtDLTVFMXhkWXlQT0p5ckJaZnVoSjU5OUE3SlFiQlotZDdyalpTUDNJNkpWb0l1bTZma0VvaGNFeG5DMnpHUGw2Wk1ZSUFpTEU0S2lOWkE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 4,
-   "sec": "원전",
-   "t": "대미투자 첫발 ‘텍사스 가스발전’…원전·알래스카 LNG는 후속 논의",
-   "ts": 1790084872,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372735"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Australian state opens consultation on mandatory solar panel recycling scheme",
-   "ts": 1790052769,
-   "u": "https://www.pv-magazine.com/2026/09/22/nsw-opens-consultation-on-mandatory-solar-panel-recycling-scheme/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 6,
-   "sec": "재생에너지·ESS",
-   "t": "U.S. solar capacity nears 300 GW, enough to power 50 million homes",
-   "ts": 1790052684,
-   "u": "https://www.pv-magazine.com/2026/09/22/u-s-solar-capacity-nears-300-gw-enough-to-power-50-million-homes/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 0,
-   "sec": "재생에너지·ESS",
-   "t": "가스안전公 부산본부, 수소복합충전소 대도하이젠 실태점검",
-   "ts": 1790084729,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334508"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "kangso.co.kr",
-   "sc": 8,
-   "sec": "재생에너지·ESS",
-   "t": "LG엔솔, 엔비디아 AI 팩토리 생태계 합류…북미 ESS 수주 확대 '시동' - kangso.co.kr",
-   "ts": 1790052853,
-   "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16Qksyd0lhWGdKR01pT1VMakpaSlhpdTNzTF9LMDRnUGVBRjFnSlBMYVFxdzBXbjVCaHhwWjBtM3Z1RkdJMG00SjdiaGI3UVBENlFv?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "글로벌이코노믹",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "텍사스, 데이터센터 신규 허가 전면 중단…AI 붐에 전력 비상 - 글로벌이코노믹",
-   "ts": 1790052658,
-   "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLTVCOVd3N3FmVmQ5UldiN0FVZ3BOZDBLOThGNnVQVVp2azlFenBic0dqVzRQSXl3Tm9WNFNFR3Rfd2E0LVpVd3lXQ2NEcHhlclVoNFZfT2VhemQ3TkR1UnQ2UDJKWVdpMFd3a1BRZXRHSTNTemdTLWFPQWdTTFF5NXJyQQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Benzinga",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "구글, AI 데이터센터 전력 확보 나선다···조지아 파워와 협력해 9억 달러 혜택 - Benzinga",
-   "ts": 1790051774,
-   "u": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQcW03UHNfckJxelVFZ0pmX0NTeFZUOXNabDdjd0tQUG4zYmNTQlRoa3dONHFZQ2tkSDZrRExralYwREM4b2M0MXptdFpXcFZfMHZidmVCTVYxd1dfa2dRVE9KWU1XNkU2UmdIOVItOVdseDJSOXR1NFNUWFVIU2UwS051NXEyTEdVenR0OGRQTExwRkdZZWIxYVBrblN6Y0h1S1ZRVlU5QVZfTzR2NGxSbmM1bzBHWDFzSVM1UWhmS1VhQmVTYzc2bFJ4ZExzOS1XQmRXWVEyR2MyVXZTeVlLOTB0Ukp6T2xNVE1PNzE3Y200Z2xMakgtaURvSmtrMTJNRG5nYW1laU5WTVY0NlRrdDIzYmhpRzBLaHM1TFpQeHQ3YUpwQ2ttY182YkhtbnBHZElvTUF2cWVZSVlRUTJ0MXFnUklvUk5wT1E?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "HD건설기계, 프랑스 마니투와 소형 건설장비 시장 공략 협력",
-   "ts": 1790052913,
-   "u": "https://www.etnews.com/20260922000319"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 9,
-   "sec": "원전",
-   "t": "원전, 국민 숙의로 역할 정한다…정부, 3개월간 원전 공론화",
-   "ts": 1790085624,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372740"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일경제 : 경제",
-   "sc": 0,
-   "sec": "재생에너지·ESS",
-   "t": "차세대 배터리로 승부수 건다 … 정부 4천억·민간 8조 투입하기로",
-   "ts": 1790054021,
-   "u": "https://www.mk.co.kr/news/economy/12159286"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "이병선 안산도시공사 사장 취임…\"개발이익 시민들에게 환원\"",
-   "ts": 1790053770,
-   "u": "https://www.yna.co.kr/view/AKR20260922119500061"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "비즈니스플러스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "구광모-나델라 만났다…LG·MS, AI 데이터센터부터 피지컬 AI까지 동맹 - 비즈니스플러스",
-   "ts": 1790053673,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDZzFZeko5a2N1Zy1PelcwaTlmT3ZqcFJlWmc1cEZUQkJ4a1VfQ2wzSHZpb19NTE5ZQzdMU182UXk1bFE4ZUNDSW9xX3dWaERfOTE0NXhrZ1JnQXJ2eXlrSDVyYWRwbzQwdFZEbGRn?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "chosun.com",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "텍사스, AI 데이터센터 허가 전면 중단 - chosun.com",
-   "ts": 1790053440,
-   "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa0Y3WEI5Wm5BeGZUaXlqRkF1VFp6aUJZWTFLWVVDa25zcjQ2ZE5KNnlPcXpFRk93RXpYSWkwZl9KMGFLZGcyNkJPRzNRaDhZTEtreU52N1hYYXpDb0ZNaHRlaG1RMXgyY2ljVlZEUXlFX1VDN2U1NTNvVkR6bjdsbkk0aw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "ESG경제",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터 ‘규제 사각지대’ 끝나나…EU·캘리포니아 관리망 강화 - ESG경제",
-   "ts": 1790043590,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FM2pWcGQ1YzRPU202UmtkXy1QOHFKWFJnR3JfZi1rdDhjVzJhRzZQWVBrQlN6eW5pRjJHMzFrWFJHVlRMeXFld3M2RGIzbl9DaXl6ZWZSb0t1MjZnMEpaNTZ2QUM0ZmkyODkyUQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Chosunbiz",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "IPO 연기 잇따라… 월가서 AI 데이터센터 회의론 ‘부상’ - 조선비즈 - Chosunbiz",
-   "ts": 1790054100,
-   "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNE00U1Z0UXdDVUJTejFVQjY5T1FScDl2bGlhdjZJR3MybXNweF9PRWJ1MUFCQUxEbmpfMXNtTFExWFRka1o3YnFETjNsUnViSWxGd3paNlVLdGJ0bGlfZU9vc2NCQnJSbzEwdVdUTU9wSUI3LXByNi16WVhrOGJqc3lkTWlWckVaWlc4c0FRMzlhSjkwLWlDbmZmaGF1d9IBsgFBVV95cUxNZjB4S1ptUXY2ZGRUZktaR3ZYNkRKWG5zM0gxbkJpMFVRVVJjbWVSVE9tNmlvRnlTdU1CaFNtWlItSHozZ0ZweTZSdmhwa3AtenppV2VxNkNYYUNEZnlYT19EcmFJWWpoU2c3Z2h4ckV3ZGt0cTd1dlk2QzByTkFFeGlIMlU2czdJM0tJRW9rMTgxMjFIdnNKeFlEWnMxNndIZklHUFJpWFgtNmhmYUFxSjhn?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "newstree.kr",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "EU '데이터센터' 등급제 도입...에너지·물 사용량 공개 - newstree.kr",
-   "ts": 1790054962,
-   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YYnhiMGxYOVQ4Mk5HTm1mREFWWG41d08zQ283NGZUdUlxZmRzeEFfOU5rNE03ZTNCbEd3Vmo5MS1zb1h5LUc0Wk1Ja0p1ZC1ESmhlcHVjaXV4S08t?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "job-post.co.kr",
-   "sc": 16,
-   "sec": "건설·플랜트",
-   "t": "수주잔고 7조원 LS ELECTRIC, 21만원선 강보합 - job-post.co.kr",
-   "ts": 1790055461,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nT2Z3QXI1Z2thSTVLSjV4LXp0RVFfaXVGem52QjA5Q1RlU29hdFNsUGZ3U3kxRzNmcjZYRUxqeEVReW1WR284RnhHT2VNZzFWV1d5RXlWNW1ONU1zUEJ3VXM5al9fNkdfSVB4WnBn0gFyQVVfeXFMTWs1RllGdE02M0dGem5PVmdaR0VzY3lpd2pxT1Y4ZlZBWkV3TFV1OUJyWjlqc2g0MzdEaXB6clJPeWVLWjUyM0Vka3ZxSGhOV2hEQ2hwWEtjU0JDRmhQbGxTYms3TEF4SkFQQXBvaXVRZEN3?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 3,
-   "sec": "원전",
-   "t": "원안위 ‘고리·새울 원자력안전정보공유센터’ 개소",
-   "ts": 1790085967,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303414"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 12,
-   "sec": "원전",
-   "t": "기후부, 3개월간 원전 공론화 추진",
-   "ts": 1790084443,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303411"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 9,
-   "sec": "원전",
-   "t": "고동진 의원 “AI 시대 전력난 해법은 원자력”",
-   "ts": 1790082842,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303409"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "임팩트온",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "EU, AI 데이터센터 에너지효율ㆍ물효율 A~G등급 매긴다 - 임팩트온",
-   "ts": 1790055882,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12SG44c3lRQkZjVkNrUUZPQWJqQUgxbVZCYlBZcGE5UnU1OXJ0dFNGaV9nQ3RlUi1ncXdNZ2pRcGszNGNqTWRhX0R5SU5ReHY5R3k3UXZvN2NmQUJBYjFlZ2dxN2NMSEZYc0E?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "IT비즈뉴스",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "카카오 “운영 데이터 기반 열관리로 데이터센터 에너지 효율 개선” - IT비즈뉴스",
-   "ts": 1790049600,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJR1ZuNHBObUZ5Z0c1RlEwLWMzTEU3WThVUTBfcS1Sb2xkVmZINzN3dEdDV3VBVnhyaVVlXzFlenFXdnp2QW1wdDBDeHpacFFhX1FpLWZRUlRWYmtFS1ZoQ0t3c2Z1MW8ySkhvMA?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "ER 이코노믹리뷰",
-   "sc": 16,
-   "sec": "전력기기",
-   "t": "LS일렉트릭, '로봇개' 투입해 초고압 변압기 공장 지킨다…스마트팩토리 고도화 - ER 이코노믹리뷰",
-   "ts": 1790056504,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15WnNJaUpaelJXaC1YbkZ2a0F5dmhDREpmaVlLQUZkQjhJRFRQVWEzV1g2czcxMzFjSnVFMmF4THQ1c2cyZFhUQTNPdlVmTFNrSW1EUlNmMTJ6WkFOOFptWlVibEdsUktwYjVZag?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 11,
-   "sec": "원전",
-   "t": "원전 역할 3개월 공론화…12차 전기본 '신규 기수'는 정부가 결정",
-   "ts": 1790056222,
-   "u": "https://www.etnews.com/20260922000370"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "디지털데일리",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "캐터필러, 빅테크 AI 데이터센터 자체 발전 수요 확대로 전력 공급 확대 - 디지털데일리",
-   "ts": 1789966800,
-   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93OWE1dHJPR1EwaTAxa0UzUUg2azBxdll3NnBROTJqckN3TGp6b2JUNG40WHdFRWlZVWoxbUJIc1k0Tl83VWlMdzc1T1FVQklDM2pFaW5QRTV4NzdRZkdSVnBn?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00124ecf9177fec9": 1789953163,
@@ -1347,6 +1016,7 @@
   "32ec7be5da2f2abd": 1789732531,
   "32ee8d001b8a32c8": 1789627496,
   "32f4cd3aa1b087d5": 1789891518,
+  "333c48ab1fc09217": 1790057417,
   "333dea560c916932": 1789715119,
   "334564087764f215": 1789695321,
   "33491f6fee499971": 1789857952,
@@ -2160,6 +1830,7 @@
   "6287b9a40b97e03c": 1789691718,
   "6293ab54764aa97f": 1789893929,
   "62a34eda4fe670ee": 1789896916,
+  "62a3f5dec14b4219": 1790057417,
   "62aa07a3ab378c98": 1789981516,
   "62ad113d64289aa9": 1790037737,
   "62d709ec347107c4": 1789627496,
@@ -2364,6 +2035,7 @@
   "6f6e8ce42acf3992": 1789627496,
   "6f94a490ec48301a": 1789630519,
   "6f9bcab51f4cb8af": 1789972312,
+  "6fb37fdd1b9c52f3": 1790057417,
   "6fc161461ff8c687": 1789691718,
   "6fc3c44c17c54b6a": 1789977032,
   "6fde0ddea5003881": 1790043540,
@@ -3176,6 +2848,7 @@
   "a39cacfee9163f4a": 1789707915,
   "a3aaec2d13fcf7c2": 1789851916,
   "a3c4d9b211d1fd58": 1790032230,
+  "a3d25ceb72309517": 1790057417,
   "a3d47687aaefcc56": 1789635016,
   "a3d5bdd6021fec1f": 1789677617,
   "a3f39e4e0dba56cd": 1789956616,
@@ -4691,8 +4364,8 @@
  },
  "companies_today": {},
  "day": "2026-09-22",
- "last_clip": 1790050216,
- "last_msg_poll": 1790057367,
+ "last_clip": 1790057417,
+ "last_msg_poll": 1790057666,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4734,7 +4407,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 15:09 KST",
+  "last_run": "2026-09-22 15:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
