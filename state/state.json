@@ -138,6 +138,16 @@
    "t": "LS일렉트릭, 변압기 증설 다음은 ‘로봇 공장’…계열사 스마트 제조 퍼즐 맞춘다 - 포춘코리아",
    "ts": 1790042141,
    "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IbDNwMkxVemlQS1pyQVpTRWRrcUd4SnVSSGVWdWsxLTVzLUphb3JvUjFyN1BLcTVON1l4WmZqVmtXbjFnZ0lGRU9CbzVxbUwwV1M0aHVKVmE3UkFNNGNUcXBDX0ZjeTdKMV9TVjdMeXFmQdIBdkFVX3lxTE1DT3FpUTNtemlXUWxkN2hveGFQQnVlTW1uUERNWGNaRTRheXlaQkJiN3B3RGxKQVNVZlZtRTB4SDh1Q05yam1FaEEybGdOUUE5RFdfeVpldjhhSFRSclE5c1RxZ3pkYktGRHM2SEtqYmRVeExCN1E?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "서울타임즈뉴스",
+   "sc": 4,
+   "sec": "데이터센터·AI전력",
+   "t": "LG에너지솔루션, 엔비디아 ‘DSX 레디’ 합류…AI 데이터센터 ESS 공략 - 서울타임즈뉴스",
+   "ts": 1790037268,
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qak1UbU41R3VZcHBQcEtGQzJZTGljWlVzTXkxYUlscWZpNVJQQ0FlMUJLUF9pM3VmNFJZUUl1TS1JZUp4QS1QbkdiX2RqWmlUTmtTX2dTSGE2UEY0NUdldDRXNG1MT01ZNU5r?oc=5"
   }
  ],
  "clip_titles": [],
@@ -4324,6 +4334,7 @@
   "e8f49d58e18f7697": 1790067063,
   "e91342b1266e0e11": 1790044716,
   "e916331142de24bc": 1789710209,
+  "e9237280a0e2faee": 1790080823,
   "e9336a1c3a98fa67": 1789635327,
   "e9385450329586f7": 1789684520,
   "e946772fc63a0ad5": 1790003117,
@@ -4732,7 +4743,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790079331,
- "last_msg_poll": 1790080766,
+ "last_msg_poll": 1790081068,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4774,7 +4785,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 21:39 KST",
+  "last_run": "2026-09-22 21:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
