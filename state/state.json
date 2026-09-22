@@ -318,6 +318,16 @@
    "t": "줄여봤자 도루묵?… 데이터센터가 뿜는 온실가스 연간 1,225만톤 - 한국일보",
    "ts": 1790105400,
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IdnFPUzBGNGIyRVhFSlR5NTFtWF9WVGVDRW90RWtSY3ZvN3dEWFdKR21YTk1hWVhYTGRRSmVCdTlPX3BBU1R1eEh1eEl2QllPcEJ5cllwc0lMR0pHelBhYnp0a1FFcHdXallaVDFn0gFzQVVfeXFMTnRfWVY0Y3RGTUN4MXdPNzhIOW5Od2twaG8zSjNWYmpQbkdvNVh2X2ExUklEMUhZa1QtMXhKai1fOXliSk42SzFtMFpjYmYxNmRJbmxMdkxPTDdCTkRXNzhVakNCQWYzMHJJc3hyOF9abFdGNA?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "한국일보",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "물 덜 쓰고 소음 막고... 데이터센터 기업들 주민 우려 달래기 - 한국일보",
+   "ts": 1790105400,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxQTNJUW9vd0xZaUoyY1NMQXdGVE1wLXdHSGVUd2pCVlFWR2R0YThPVWdwSElSamRwdjg2eWVXY3ozcFllUTNoZTlWNHVDNUNSWEdIRmM2NmlCMTZOcFg2SHFxRDNwZW1ab01KSEN30gFzQVVfeXFMTUd1dFdqd09CSjJQSzY2allVc0haUUp0bWpQY2syMThxal9NMVpTVVBHX0RWTU92SGo0M09RQktnc2E1MllEajQ0bHliUVBUQ0dBV1pDMjBDZ0xkdERWYXIyS0daX2YzSHNweU9QVnNiTE9LMA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3894,6 +3904,7 @@
   "c3a2821dd0f9df40": 1789635918,
   "c3d4d5259312f26d": 1790055618,
   "c3e73a951f75bcdf": 1789634416,
+  "c3e8103671d7caf6": 1790106317,
   "c3f3cd1357a69000": 1790037737,
   "c3f5dcd90fabe768": 1789950278,
   "c3f6a26e4de9e873": 1789693531,
@@ -4987,7 +4998,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790086574,
- "last_msg_poll": 1790106262,
+ "last_msg_poll": 1790106568,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5029,7 +5040,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 04:44 KST",
+  "last_run": "2026-09-23 04:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
