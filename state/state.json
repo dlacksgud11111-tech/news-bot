@@ -1,7 +1,7 @@
 {
  "alert_cooldown": {
   "HD현대일렉트릭|수주·계약": 1789901120,
-  "LS일렉트릭|수주·계약": 1789971750,
+  "LS일렉트릭|수주·계약": 1790055920,
   "LS전선|수주·계약": 1789713632,
   "대한전선|수주·계약": 1790044106,
   "한국전력|수주·계약": 1790035428,
@@ -87,6 +87,10 @@
   [
    1790044106,
    "미국 전력 인프라 싹쓸이… 대한전선, 초고압 케이블 수주 잔고 대폭 늘렸다"
+  ],
+  [
+   1790055920,
+   "수주잔고 7조원 LS ELECTRIC, 21만원선 강보합"
   ]
  ],
  "alerted": {
@@ -101,6 +105,7 @@
   "5d8e9360d011a22e": 1790042974,
   "674fed9742c4697e": 1789901120,
   "67f931ba5c829b33": 1789694720,
+  "71ac5f734948ed61": 1790055920,
   "81adef0c372cdae1": 1789968267,
   "8b6589b0156277f4": 1789627490,
   "912a395478af1774": 1789713632,
@@ -111,7 +116,7 @@
   "bc994ca12211ee69": 1789720222,
   "cdaa54f68b0563fa": 1789658129
  },
- "alerted_today": 3,
+ "alerted_today": 4,
  "clip_buffer": [
   {
    "co": "",
@@ -352,6 +357,16 @@
    "t": "EU '데이터센터' 등급제 도입...에너지·물 사용량 공개 - newstree.kr",
    "ts": 1790054962,
    "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YYnhiMGxYOVQ4Mk5HTm1mREFWWG41d08zQ283NGZUdUlxZmRzeEFfOU5rNE03ZTNCbEd3Vmo5MS1zb1h5LUc0Wk1Ja0p1ZC1ESmhlcHVjaXV4S08t?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "job-post.co.kr",
+   "sc": 16,
+   "sec": "건설·플랜트",
+   "t": "수주잔고 7조원 LS ELECTRIC, 21만원선 강보합 - job-post.co.kr",
+   "ts": 1790055461,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nT2Z3QXI1Z2thSTVLSjV4LXp0RVFfaXVGem52QjA5Q1RlU29hdFNsUGZ3U3kxRzNmcjZYRUxqeEVReW1WR284RnhHT2VNZzFWV1d5RXlWNW1ONU1zUEJ3VXM5al9fNkdfSVB4WnBn0gFyQVVfeXFMTWs1RllGdE02M0dGem5PVmdaR0VzY3lpd2pxT1Y4ZlZBWkV3TFV1OUJyWjlqc2g0MzdEaXB6clJPeWVLWjUyM0Vka3ZxSGhOV2hEQ2hwWEtjU0JDRmhQbGxTYms3TEF4SkFQQXBvaXVRZEN3?oc=5"
   }
  ],
  "clip_titles": [],
@@ -868,6 +883,7 @@
   "1e24a8660cfe18c0": 1789627496,
   "1e3501f748eaec1e": 1789627496,
   "1e380141d99c5af4": 1790035428,
+  "1e38fcefa205da38": 1790055920,
   "1e41544205dec1c4": 1790047038,
   "1e4a3f0a24e6f385": 1789735230,
   "1e67abeaa877335d": 1789691718,
@@ -2284,6 +2300,7 @@
   "71671022b61769a9": 1790040051,
   "717236b19c1c6f0a": 1789967119,
   "71990700c65f7fb7": 1789736415,
+  "71ac5f734948ed61": 1790055920,
   "71b2d175e645c49f": 1789693531,
   "71c7d736b77e6db4": 1789627496,
   "71cd01aa93e63f78": 1789627496,
@@ -4549,7 +4566,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790050216,
- "last_msg_poll": 1790055865,
+ "last_msg_poll": 1790056167,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4591,7 +4608,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 14:44 KST",
+  "last_run": "2026-09-22 14:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
