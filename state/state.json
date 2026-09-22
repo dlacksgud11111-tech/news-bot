@@ -127,6 +127,66 @@
    "t": "발전소 옆 AI 데이터센터…친환경 에너지기업 ‘온사이트’ 승부수 - v.daum.net",
    "ts": 1790057520,
    "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12TEprRzU2Sjl6S0JVVXpaSUpnRm56MGluY2hjY2tEX0Q4NW1QbDdDX1ZNTzB5YlVnckNNeW5Id2JhMGdacGZxUHR6VXdQYmc?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스 경제 최신기사",
+   "sc": 0,
+   "sec": "건설·플랜트",
+   "t": "동부건설, 남양주 퇴계원 4구역 재개발 시공사로 선정",
+   "ts": 1790058218,
+   "u": "https://www.yna.co.kr/view/AKR20260922141500003"
+  },
+  {
+   "co": "한국전력",
+   "n": 1,
+   "s": "NSP통신",
+   "sc": 10,
+   "sec": "데이터센터·AI전력",
+   "t": "한국전력기술·트러스톤, 재생에너지 및 AI 데이터센터 PPA 사업 맞손 - NSP통신",
+   "ts": 1790057898,
+   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nejMzZHJ4YnRidFhvZnBGMnM1c1dlYWlHNEMyTklrVTAwOUpTZHBEajkwM2l3R05jQUQ3M1RjRlNQZ1ZiZVhDQzFjWlcyanlSejBvWnpkVktBRXFzbE1IUA?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "디일렉",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "카카오, 하남 데이터센터 냉방비 23%↓…설비 교체 없이 운영으로 - 디일렉",
+   "ts": 1790057589,
+   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VMW5WN25EaGd4OUlNNVdSaExhamdhUGlzOE5vWVdCa2VBV2FfYUllamVJalpqdGdqLVRmUnJZQi1wQUpCWHQ4THpBLXBjVVBrcEt3YW1OLVFXekhhM2Z3ampQOWJIdw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "edaily.co.kr",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "법무법인 세종, 'AIDC 인프라센터' 출범…AI·반도체·데이터센터 통합 대응 - edaily.co.kr",
+   "ts": 1790052783,
+   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYnNjbUhGNXlKSk92ZXVkZzRIYU1tNDlRdWl2SXgyNXdteUZyd0d1MjJ0SG5KT3VvSnFqZi1sUG1uazRTVkVhU2VhWHVJbm8ycGpiVldDcm5xeUZqMnVUM0R4QUpMYTR2RHc5a1dkdkRMWWhHeXpLV1FQN01GX3hZVQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "digitalfocus.news",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "EU, 500kW 이상 데이터센터에 에너지·물 사용 공개 의무화 - digitalfocus.news",
+   "ts": 1790043907,
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Na0NJQzY1QkRGRTM1NThHcFRtVllMMWtXNGdhWnh2dGQ1ODZIZzN2VnJfOFdmSHpxOWxpb3F1Mlp2N3Q5bVhYMWtnZXlqVTYzZmNweDBvOEdfTzRGN2JuV0tiWHpkMnFxb0JqeGFMRzI?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "월요신문",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, 엔비디아 ‘DSX 레디’ 2.5㎿ CDU 승인…AI 데이터센터 냉각시장 정조준 - 월요신문",
+   "ts": 1790036454,
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DMjlHN2E1aG1sNjNCT0hFN29oMWdydU1yQlZOOEs4bHNfci1rSk9neG9tWFdmcll2VEJwMDRlOGJHQXNkbWZRYTBBUEwyX2dOSzlwQzE0TWM3ZG9POU92eWhnOHBfODMtVXc?oc=5"
   }
  ],
  "clip_titles": [],
@@ -627,6 +687,7 @@
   "1d0bf3f05c80dac7": 1789956616,
   "1d129d2891ce53cc": 1789695321,
   "1d1b5183e1fdaff9": 1789873818,
+  "1d367363973913d9": 1790058619,
   "1d376bd1b372e671": 1790037737,
   "1d37c98bc35cf561": 1789979721,
   "1d3873fb75376759": 1789970613,
@@ -1176,6 +1237,7 @@
   "3b15027d179c1289": 1789971183,
   "3b1dd863d0bba9bc": 1789646417,
   "3b2498047d673659": 1789939270,
+  "3b2ca26d2177d5b2": 1790058619,
   "3b369d86c40fd91e": 1789627496,
   "3b37e6b0add0e64b": 1790035428,
   "3b4f0e3d8bbe2d23": 1789959919,
@@ -1395,6 +1457,7 @@
   "4650d9ec8c1e1ce7": 1789629088,
   "4655a6a7bf664483": 1789629088,
   "4655d075de2c5591": 1790055317,
+  "465b602d39cb3594": 1790058619,
   "465baba821fce29d": 1789956616,
   "4660e32af8a380f7": 1789643416,
   "4683227d5cec24a3": 1790030116,
@@ -2420,6 +2483,7 @@
   "85c71b2beac17b48": 1789693531,
   "85ccbda9f026f726": 1789969411,
   "85eb3eaca19edda7": 1789954905,
+  "85ebb3a3ea4f6047": 1790058619,
   "860c99e317601fa3": 1789629923,
   "86393f8ccb4aa3fd": 1789627496,
   "865e6bdbcd404fc8": 1789705521,
@@ -3446,6 +3510,7 @@
   "c68410c0b1b6c1de": 1790005215,
   "c698c1319c66137d": 1789629088,
   "c69be58112badbeb": 1789974040,
+  "c69c64b4dca2c915": 1790058619,
   "c69fb7f8ef5a5417": 1789984228,
   "c6a92dd3ae33ecfd": 1789983317,
   "c6ba4dc4c0d04981": 1790043540,
@@ -4081,6 +4146,7 @@
   "ed02b80c690f3a8c": 1790058015,
   "ed052ab9327e5b13": 1789954905,
   "ed1a5bc1c313f360": 1790042395,
+  "ed1bb3092871145f": 1790058619,
   "ed24ed7db56c5766": 1790040917,
   "ed32b88d68cfdb83": 1790042395,
   "ed3b0c77ffb59b2e": 1789971183,
@@ -4383,7 +4449,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790057417,
- "last_msg_poll": 1790058559,
+ "last_msg_poll": 1790058859,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4425,7 +4491,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 15:29 KST",
+  "last_run": "2026-09-22 15:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
