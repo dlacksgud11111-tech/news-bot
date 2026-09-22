@@ -128,7 +128,18 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 6,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "POWER Magazine",
+   "sc": 7,
+   "sec": "재생에너지·ESS",
+   "t": "Investment Grows for Storage, Renewable Energy Projects in Chile",
+   "ts": 1790136000,
+   "u": "https://www.powermag.com/investment-grows-for-storage-renewable-energy-projects-in-chile/"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00124ecf9177fec9": 1789953163,
@@ -4372,6 +4383,7 @@
   "ea28303f44ee7b00": 1789748116,
   "ea4f55dec1dc5ffe": 1789977915,
   "ea6194fec8ecbb0b": 1790054715,
+  "ea748cb69e4782fe": 1790087657,
   "ea88df914829da66": 1789978815,
   "ea936d63b315add6": 1789967119,
   "ea9a3a2336468efa": 1789632918,
@@ -4487,6 +4499,7 @@
   "f05752777b5cfae3": 1789629088,
   "f05de461d33ec664": 1789694131,
   "f06a9be50df28947": 1789627496,
+  "f0854f7cd1ca6056": 1790087657,
   "f0945aaa3f88dc52": 1790039473,
   "f09cd73698fb79ef": 1789627496,
   "f0a85939abddec1f": 1789974322,
@@ -4762,7 +4775,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790086574,
- "last_msg_poll": 1790087388,
+ "last_msg_poll": 1790087905,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4804,7 +4817,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 23:29 KST",
+  "last_run": "2026-09-22 23:38 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
