@@ -322,6 +322,16 @@
    "t": "LS일렉트릭, 부산사업장에 4족 로봇 '스팟’ 도입…변압기 생산라인 예지보전 - IT타임스",
    "ts": 1790065056,
    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XY01aTEZ6cEt2NGQ5MTljenlJRHFQSDVWSFZUbW9VemY5QnQzdWZaLUxCX1NqalJoQmtjQ1pucUh5bVFWZlh4Zm9XS2RSYllWSXhCMEM1UlowVzdNNlpyTlJvb0lBUWJm?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "Sri Lanka replaces net metering with feed-in tariffs for rooftop solar",
+   "ts": 1790069285,
+   "u": "https://www.pv-magazine.com/2026/09/22/sri-lanka-replaces-net-metering-with-feed-in-tariffs-for-rooftop-solar/"
   }
  ],
  "clip_titles": [],
@@ -2441,6 +2451,7 @@
   "73f6560f726ae26e": 1789731017,
   "743286f33899f949": 1789629088,
   "744a0722e51cf16f": 1789693531,
+  "745ab7da63c48157": 1790069431,
   "748d8acbade754ee": 1789977915,
   "74904b67ef56d664": 1789629088,
   "74a3b1457f0c3a38": 1789627496,
@@ -2897,6 +2908,7 @@
   "8f9eac6a5965d738": 1789974040,
   "8fab80bd178f34e9": 1789682714,
   "8fac77b1813e5791": 1789707915,
+  "8fb032906939eeaa": 1790069431,
   "8fb277102ef0e00b": 1789641915,
   "8fe55276562cf174": 1789693531,
   "8fe6598b0c08e39d": 1789698990,
@@ -4849,7 +4861,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790064758,
- "last_msg_poll": 1790069357,
+ "last_msg_poll": 1790069680,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4891,7 +4903,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 18:29 KST",
+  "last_run": "2026-09-22 18:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
