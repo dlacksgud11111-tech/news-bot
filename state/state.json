@@ -412,6 +412,16 @@
    "t": "밀양나노산단 분양률 50％ 돌파…나노·수소 첨단산업 육성 속도",
    "ts": 1790062858,
    "u": "https://www.yna.co.kr/view/AKR20260922151300052"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "전력수요 급증에 원전 역할 다시 고민…정부, 3개월 공론화 착수 - v.daum.net",
+   "ts": 1790039213,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EaUxPTDREQUx2bEI5dmhTVW5WVlZ0UEJUMFZ0RldNMGFlZlpGZjRySUhGMmNjMzJObXh3ZkZVTTlQdlp3WmVSNjltT0xPTnM?oc=5"
   }
  ],
  "clip_titles": [],
@@ -661,6 +671,7 @@
   "0df6f3a80a6d56ed": 1789781561,
   "0df9dc0f3e478692": 1790042975,
   "0e2ee03183462525": 1789692619,
+  "0e340fdb5498d2f3": 1790064199,
   "0e3980375ec20a27": 1789785019,
   "0e47fd4df2a2ccb2": 1790035999,
   "0e48f484eefbe9b2": 1789707915,
@@ -710,6 +721,7 @@
   "1090fabe75dee7b5": 1790001429,
   "10a023d2985b3f60": 1790040051,
   "10bcc96f6c5628ef": 1789693531,
+  "10cd1b689d6f44f2": 1790064199,
   "10e4cb9272248b3f": 1790035428,
   "10e643f74ceec2b0": 1789729598,
   "10eae82163d6b266": 1789627496,
@@ -4824,7 +4836,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790057417,
- "last_msg_poll": 1790063861,
+ "last_msg_poll": 1790064439,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4866,7 +4878,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 16:57 KST",
+  "last_run": "2026-09-22 17:07 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
