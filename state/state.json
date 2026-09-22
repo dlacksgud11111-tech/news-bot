@@ -232,6 +232,16 @@
    "t": "Sunrun and Tesla deliver record 580MW to California grid amid heatwave",
    "ts": 1790074678,
    "u": "https://www.energy-storage.news/sunrun-and-tesla-deliver-record-580mw-to-california-grid-amid-heatwave/"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "헬로티",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "LS일렉트릭, 부산 변압기 공장에 보행로봇 도입…설비 점검·안전관리 자동화 - 헬로티",
+   "ts": 1790054314,
+   "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mQnV2WXc5VDVrckhLUFZTcDVnVWt0aVFOYnB3S1RMdjlzQ1QxWF9Bell4ZGhRWVdlSGdUUXF2TmdFVWJXemlfS2VLNUc3bllZY1pFNXBiZk5oWmhSamtJ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2364,6 +2374,7 @@
   "73528d1a3936506f": 1789627496,
   "736127247873650d": 1789695321,
   "7377d6269541ab7e": 1790051717,
+  "738f59acec20f3ba": 1790076340,
   "7397ddd3b81bf36a": 1789627496,
   "73a863abc900d61e": 1790038311,
   "73c392dc6a1d9834": 1789977915,
@@ -4815,7 +4826,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790072126,
- "last_msg_poll": 1790076267,
+ "last_msg_poll": 1790076588,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4857,7 +4868,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 20:24 KST",
+  "last_run": "2026-09-22 20:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
