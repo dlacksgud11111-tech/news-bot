@@ -122,7 +122,18 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 5,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 5,
+   "sec": "재생에너지·ESS",
+   "t": "Nova Scotia Power switches on Atlantic Canada’s biggest battery storage projects",
+   "ts": 1790073252,
+   "u": "https://www.energy-storage.news/nova-scotia-power-switches-on-atlantic-canadas-biggest-battery-storage-projects/"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00124ecf9177fec9": 1789953163,
@@ -2658,6 +2669,7 @@
   "8c87403c6b6779bb": 1789627496,
   "8c9728332ff0ef04": 1789977915,
   "8c9b6e2d8d40b157": 1790052923,
+  "8cb5f6f1164b089c": 1790073331,
   "8cbfa8a032e31208": 1789894218,
   "8cd023f1fa7079db": 1789953163,
   "8cee74fd566c5b64": 1789627496,
@@ -2999,6 +3011,7 @@
   "a22bd1b3213e2d8d": 1789627496,
   "a2514317cad22616": 1789720817,
   "a25352ca26ce70f2": 1789969411,
+  "a2568b1d779ff4a4": 1790073331,
   "a2681db9ac3bfe52": 1789627496,
   "a26abb0a7aa5f6b6": 1789797679,
   "a26ded7561d39ac1": 1789692317,
@@ -3568,6 +3581,7 @@
   "c137c75696f75a25": 1789959919,
   "c13a32a8c022cfea": 1790051717,
   "c157eae4f8d80a53": 1790051717,
+  "c159e568e1fccf7f": 1790073331,
   "c16552a334bdc776": 1789744015,
   "c165fdf1195f64d3": 1789634116,
   "c17a076220d104f3": 1790053518,
@@ -4671,7 +4685,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790072126,
- "last_msg_poll": 1790073273,
+ "last_msg_poll": 1790073581,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4713,7 +4727,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 19:34 KST",
+  "last_run": "2026-09-22 19:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
