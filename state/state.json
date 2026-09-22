@@ -312,6 +312,16 @@
    "t": "AI 데이터센터가 바꾼 기후테크 투자지도…ESS·전력망·산불 대응 부상 - impacton.net",
    "ts": 1790046968,
    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NTE1xWGp3QzVFMlE1eXdKaFpyN241eVpqTFd3UXFlTzltWHpyWnFrWFFFeUZXYTNTcV9YY3BjU0JsMjZELW9NWVFQMXlUc3JGM2pxRU5zd3h2WlpCc2VLZ01Na19NQ0dnYWc?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "국제신문",
+   "sc": 8,
+   "sec": "전력기기",
+   "t": "초고압 변압기 생산시설에 4족 보행로봇...`AI 눈`으로 데이터 수집 - 국제신문",
+   "ts": 1790048280,
+   "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb25uWDEybzdRUE5Eci1ORUpPZTYxb05nVUl3SlRhckJEMlNaQ2tCcTA1MURXUWMyNVlNX1N5eDc2akVJSXlGLTdPZW1IT0NpWU4xamZxNVJxNWZVTDdpSVBDczBweGk5Mjh5djloVWhNa0o2WTlOZ3EwU0UxM2pOMDBLRC11YXVxdy1ISmRsdDVLSTJX?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1200,6 +1210,7 @@
   "347d8789998bb71a": 1789627496,
   "348956f958859b4c": 1789972883,
   "34b178d0ba327c30": 1789962614,
+  "34bbc10657f682fa": 1790048746,
   "34d7ff38321cfafd": 1789727277,
   "34d84760f5dcc286": 1790035999,
   "34ddbfa06e22c989": 1789627496,
@@ -1783,6 +1794,7 @@
   "57302aad7b8b7a83": 1789648519,
   "5744e6d764fe2cd8": 1789715119,
   "57468c64e8396229": 1789627496,
+  "577555a1b30ab4b9": 1790048746,
   "577b1d602bb2cdf1": 1789653315,
   "577b5e90ee05eff9": 1789956616,
   "57c00ba25583c0d5": 1790039473,
@@ -4340,7 +4352,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790042975,
- "last_msg_poll": 1790048419,
+ "last_msg_poll": 1790048997,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4382,7 +4394,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 12:40 KST",
+  "last_run": "2026-09-22 12:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
