@@ -342,6 +342,26 @@
    "t": "[단독]데이터센터 전력공급 심사 지연…37%가 반년 이상 기다려 - donga.com",
    "ts": 1790056500,
    "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XcXhjN09YS240VVctTlh2X2dkUklhYk9VUzJDQ21IWGRIVFVQODhJZlRwNEMzTGV4c3hMeW1YeG1CaDIwWTZBSmR3TWNQaGxDa0U2WmZIWHFtNkpFWFNOeERfNHI1Z9IBZkFVX3lxTE9XcXhjN09YS240VVctTlh2X2dkUklhYk9VUzJDQ21IWGRIVFVQODhJZlRwNEMzTGV4c3hMeW1YeG1CaDIwWTZBSmR3TWNQaGxDa0U2WmZIWHFtNkpFWFNOeERfNHI1Zw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "전기신문 - 전체기사",
+   "sc": 0,
+   "sec": "재생에너지·ESS",
+   "t": "환경공단, 사용후 배터리 우수기업 5개사 선정",
+   "ts": 1790093698,
+   "u": "https://www.electimes.com/news/articleView.html?idxno=372752"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스 경제 최신기사",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "새만금개발청, 현대차 'AI 데이터센터' 건축 심의 착수",
+   "ts": 1790061439,
+   "u": "https://www.yna.co.kr/view/AKR20260922158500055"
   }
  ],
  "clip_titles": [],
@@ -1072,6 +1092,7 @@
   "28ccf6a76d5e6ac2": 1790060726,
   "290d92e4a2fb1573": 1789627496,
   "29232cece1c83e25": 1789972883,
+  "292583c7e1f4f14d": 1790061882,
   "2935e67cc2eafc52": 1789726134,
   "2937d1553872748b": 1789720517,
   "294a79fd37cdb1b0": 1789873818,
@@ -2057,6 +2078,7 @@
   "5ec4e32a732ee9a3": 1789637120,
   "5edbfff4b1148b1a": 1789629088,
   "5ee0acae28846174": 1789627496,
+  "5eff431bd98a8c24": 1790061882,
   "5f1cb1010c5bdc9d": 1789967119,
   "5f244853f9351b92": 1790040917,
   "5f254e5bfb37e576": 1789957222,
@@ -2295,6 +2317,7 @@
   "6e608463d9af3b71": 1789831819,
   "6e62b09f3c157b9c": 1789697120,
   "6e634c9c8791a5ce": 1790042395,
+  "6e6f72c894735893": 1790061882,
   "6e73a20d9584a28e": 1789632918,
   "6e7aa01c709a30d4": 1789639528,
   "6e8aa9e37e8f5c17": 1789695321,
@@ -3225,6 +3248,7 @@
   "a87308fe1d6eb5a0": 1789630819,
   "a876780de402c109": 1789627496,
   "a89753e98400824a": 1789866315,
+  "a89c69095e315a04": 1790061882,
   "a8a7652b4b1cbeae": 1790039473,
   "a8a7b5dff5e6719d": 1789974322,
   "a8b47164dce99a7e": 1789952592,
@@ -4228,6 +4252,7 @@
   "e3c6f6554ee9a958": 1789627496,
   "e3e14019554ade4d": 1789704620,
   "e3fa7c46afbe4af1": 1789627496,
+  "e3fe4197099702bc": 1790061882,
   "e42ac597744608c4": 1789692619,
   "e430c05f7a507881": 1789627496,
   "e450cbcf7b61e6a9": 1789958121,
@@ -4401,6 +4426,7 @@
   "ed24ed7db56c5766": 1790040917,
   "ed32b88d68cfdb83": 1790042395,
   "ed3b0c77ffb59b2e": 1789971183,
+  "ed4109a7b266d8ef": 1790061882,
   "ed68a54fe09a38ea": 1789629088,
   "ed728d6791e9c9dc": 1789629088,
   "ed7c4493f1732424": 1789629923,
@@ -4710,7 +4736,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790057417,
- "last_msg_poll": 1790061557,
+ "last_msg_poll": 1790062131,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4752,7 +4778,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 16:19 KST",
+  "last_run": "2026-09-22 16:28 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
