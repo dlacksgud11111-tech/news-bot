@@ -238,6 +238,16 @@
    "t": "ESS 중앙계약시장 개설…육지 1100MW·제주 80MW",
    "ts": 1790130676,
    "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228515"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "더글로벌기빙뉴스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, 엔비디아 2.5MW CDU 승인 …AI 데이터센터 냉각 '풀라인업' 완성 - 더글로벌기빙뉴스",
+   "ts": 1790079300,
+   "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByWEozeEpQX1pGU3Q5WU1xMFRoSjl6Sm5lWVV5eTgtQ3RNRmt1Q3pQU2prY1VNQUhuUFNGR0t5UGdBSy1JUmo4bWVtRk8xV2JMaGQxRA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1939,6 +1949,7 @@
   "587b6ab9ea05fca2": 1789956616,
   "587db9beaf644423": 1789627496,
   "5887cf6e67128ae1": 1789661418,
+  "589866cb7a628506": 1790101885,
   "589b011d3aeb333d": 1789627496,
   "589f76d885dcf667": 1789692317,
   "58b32eac40d398c5": 1790025209,
@@ -4898,7 +4909,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790086574,
- "last_msg_poll": 1790101568,
+ "last_msg_poll": 1790102134,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4940,7 +4951,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 03:26 KST",
+  "last_run": "2026-09-23 03:35 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
