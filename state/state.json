@@ -182,6 +182,16 @@
    "t": "대미투자 1호 '텍사스 발전소' 결정…野 “상업적 합리성 우려”",
    "ts": 1790050143,
    "u": "https://www.etnews.com/20260922000279"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "서울파이낸스",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "EU, 데이터센터 친환경 등급제 도입…AI 전력 폭증에 빅테크 압박 강화 - 서울파이낸스",
+   "ts": 1790051567,
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwSzNRempLTlZUbXlpeGU5NVhwRWtDLTVFMXhkWXlQT0p5ckJaZnVoSjU5OUE3SlFiQlotZDdyalpTUDNJNkpWb0l1bTZma0VvaGNFeG5DMnpHUGw2Wk1ZSUFpTEU0S2lOWkE?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1343,6 +1353,7 @@
   "435f626e50fd7c5c": 1789805116,
   "4366b4a295198fb3": 1789629315,
   "43738d9af76acfa5": 1790045289,
+  "4382bc651b2a179a": 1790052019,
   "4385ca3fbb940582": 1789627496,
   "43932a57564931a4": 1789707915,
   "4396a15ea67117da": 1790042975,
@@ -3644,6 +3655,7 @@
   "d88a09fb0c6bdce7": 1790006722,
   "d88b8967362c2567": 1789720817,
   "d892af60ec58073d": 1790040917,
+  "d8986b80b5b42c03": 1790052019,
   "d89aabe2e8f9282b": 1789886351,
   "d8a7ff212759b42e": 1789868332,
   "d8bc8e757763d94d": 1789627496,
@@ -4255,7 +4267,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790050216,
- "last_msg_poll": 1790051964,
+ "last_msg_poll": 1790052260,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4297,7 +4309,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 13:39 KST",
+  "last_run": "2026-09-22 13:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
