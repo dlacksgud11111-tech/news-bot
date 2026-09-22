@@ -282,6 +282,46 @@
    "t": "원전, 국민 숙의로 역할 정한다…정부, 3개월간 원전 공론화",
    "ts": 1790085624,
    "u": "https://www.electimes.com/news/articleView.html?idxno=372740"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "매일경제 : 경제",
+   "sc": 0,
+   "sec": "재생에너지·ESS",
+   "t": "차세대 배터리로 승부수 건다 … 정부 4천억·민간 8조 투입하기로",
+   "ts": 1790054021,
+   "u": "https://www.mk.co.kr/news/economy/12159286"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스 경제 최신기사",
+   "sc": 0,
+   "sec": "건설·플랜트",
+   "t": "이병선 안산도시공사 사장 취임…\"개발이익 시민들에게 환원\"",
+   "ts": 1790053770,
+   "u": "https://www.yna.co.kr/view/AKR20260922119500061"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "비즈니스플러스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "구광모-나델라 만났다…LG·MS, AI 데이터센터부터 피지컬 AI까지 동맹 - 비즈니스플러스",
+   "ts": 1790053673,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDZzFZeko5a2N1Zy1PelcwaTlmT3ZqcFJlWmc1cEZUQkJ4a1VfQ2wzSHZpb19NTE5ZQzdMU182UXk1bFE4ZUNDSW9xX3dWaERfOTE0NXhrZ1JnQXJ2eXlrSDVyYWRwbzQwdFZEbGRn?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "chosun.com",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "텍사스, AI 데이터센터 허가 전면 중단 - chosun.com",
+   "ts": 1790053440,
+   "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa0Y3WEI5Wm5BeGZUaXlqRkF1VFp6aUJZWTFLWVVDa25zcjQ2ZE5KNnlPcXpFRk93RXpYSWkwZl9KMGFLZGcyNkJPRzNRaDhZTEtreU52N1hYYXpDb0ZNaHRlaG1RMXgyY2ljVlZEUXlFX1VDN2U1NTNvVkR6bjdsbkk0aw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1602,6 +1642,7 @@
   "49e4bffe31cfda60": 1789976119,
   "49f84c773b02cf48": 1789868332,
   "4a480efe53975965": 1789941916,
+  "4a491d2397fd104b": 1790054122,
   "4a61fdc3c8bb8cbc": 1790040620,
   "4a689b13e0d2de37": 1790053220,
   "4a72fefeb8d9d2b7": 1789980020,
@@ -2638,6 +2679,7 @@
   "8eb5d9517ff14596": 1789775739,
   "8ec1a202f81d5fc5": 1789692619,
   "8ec95ce968f2769b": 1789969411,
+  "8edbec4adfa429b4": 1790054122,
   "8ef9694814807ae0": 1790039473,
   "8f02ec02ad138ec7": 1789977915,
   "8f170aa53f51ae7d": 1789788917,
@@ -2877,6 +2919,7 @@
   "9f22df2ba90f7b22": 1790041217,
   "9f24a5f5b9920f25": 1789710209,
   "9f42cb54fc950f63": 1789949125,
+  "9f522c8a40d65091": 1790054122,
   "9f6999355459a63a": 1789947108,
   "9f8cc9c7ec851720": 1790053820,
   "9f98dc58a07d3d8a": 1789726695,
@@ -3011,6 +3054,7 @@
   "a776c99517f53b50": 1789633213,
   "a78288c798dc271b": 1789627496,
   "a7c6811dc0688baa": 1789720817,
+  "a7e2662917324a75": 1790054122,
   "a7f1b194ee39238b": 1789991265,
   "a7f8abf6478a3f2e": 1789629088,
   "a80993b66e71f0e8": 1789968847,
@@ -3907,6 +3951,7 @@
   "e042f47f06bf0f04": 1789862827,
   "e04a5da8c7708e40": 1789704620,
   "e0602df327c186d4": 1789969411,
+  "e064f74ceaa36075": 1790054122,
   "e0823a2f3f9aa4de": 1789701321,
   "e0827a2b69061cd2": 1789639528,
   "e088d2ca19e5e683": 1789697120,
@@ -4097,6 +4142,7 @@
   "eb56378c3706b22b": 1789679416,
   "eb585fd7e83e1873": 1789627496,
   "eb62ef3c21e9e18c": 1789648519,
+  "eba44caae034d579": 1790054122,
   "ebc6de317b8763ab": 1789870063,
   "ebd671892b792a09": 1790053518,
   "ebdb3d1d14edfffa": 1789950278,
@@ -4421,7 +4467,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790050216,
- "last_msg_poll": 1790054067,
+ "last_msg_poll": 1790054372,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4463,7 +4509,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 14:14 KST",
+  "last_run": "2026-09-22 14:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
