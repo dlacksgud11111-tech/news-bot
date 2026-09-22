@@ -432,6 +432,16 @@
    "t": "법무법인(유) 세종, ‘AIDC 인프라센터’ 출범…AI·반도체·데이터센터 3대 메가프로젝트 통합 대응 - intn.co.kr",
    "ts": 1790039070,
    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JdnUtb0doTHFZMVZlM2trLXJjekRaY3dCUzZwS3ZsdlNRWGo5TnhpdEcyTDkyVnNvd2tKOE4zTzltTjdfY1pxcDZMbHItQ1dhMGp6aGtHN1VubzJzYlJNZTNRVTlDVUdx?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "Segen, Zopa Bank launch UK residential solar financing",
+   "ts": 1790071513,
+   "u": "https://www.pv-magazine.com/2026/09/22/segen-zopa-bank-launch-uk-residential-solar-financing/"
   }
  ],
  "clip_titles": [],
@@ -641,6 +651,7 @@
   "0bb6169e6fa423f3": 1789984531,
   "0bb6d71040b9e6c5": 1789627496,
   "0bd2731868b5acb2": 1790039473,
+  "0bd5c4087e8dc668": 1790071827,
   "0bdc9589ba7704c2": 1789724119,
   "0bdeb248f6212e9f": 1789983317,
   "0be16e6f45bd8231": 1790042395,
@@ -4977,7 +4988,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790064758,
- "last_msg_poll": 1790071768,
+ "last_msg_poll": 1790072077,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5019,7 +5030,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 19:09 KST",
+  "last_run": "2026-09-22 19:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
