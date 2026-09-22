@@ -322,6 +322,16 @@
    "t": "텍사스, AI 데이터센터 허가 전면 중단 - chosun.com",
    "ts": 1790053440,
    "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa0Y3WEI5Wm5BeGZUaXlqRkF1VFp6aUJZWTFLWVVDa25zcjQ2ZE5KNnlPcXpFRk93RXpYSWkwZl9KMGFLZGcyNkJPRzNRaDhZTEtreU52N1hYYXpDb0ZNaHRlaG1RMXgyY2ljVlZEUXlFX1VDN2U1NTNvVkR6bjdsbkk0aw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "ESG경제",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터 ‘규제 사각지대’ 끝나나…EU·캘리포니아 관리망 강화 - ESG경제",
+   "ts": 1790043590,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FM2pWcGQ1YzRPU202UmtkXy1QOHFKWFJnR3JfZi1rdDhjVzJhRzZQWVBrQlN6eW5pRjJHMzFrWFJHVlRMeXFld3M2RGIzbl9DaXl6ZWZSb0t1MjZnMEpaNTZ2QUM0ZmkyODkyUQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -719,6 +729,7 @@
   "17be97b057287dea": 1789971183,
   "17c3c2ca1a12b8bd": 1789726695,
   "17d4fb9f29c20279": 1790038892,
+  "17e29a7d0a91a22f": 1790054430,
   "17ea2019185c4ad5": 1789627496,
   "18008097985fd526": 1789713633,
   "1807bcf4a9cfe970": 1789627496,
@@ -1309,6 +1320,7 @@
   "3919c122d368e69a": 1789938697,
   "3929f27bdab86028": 1790039473,
   "393251dec2d24f59": 1789891814,
+  "393eddfa4839eae0": 1790054430,
   "39460d368d4944ca": 1789627496,
   "394618ed4a6a7cf5": 1790037737,
   "3951c9cdce512e31": 1789693531,
@@ -3809,6 +3821,7 @@
   "d66264225736b76c": 1790037737,
   "d66c29ba31c459c2": 1790026960,
   "d67dd8c8dabda641": 1790021125,
+  "d68a6a4028c133d7": 1790054430,
   "d6932c0edb766ec6": 1789971751,
   "d69cd4008da9156f": 1790001429,
   "d6a646ddc2abc41f": 1789950278,
@@ -4467,7 +4480,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790050216,
- "last_msg_poll": 1790054372,
+ "last_msg_poll": 1790054678,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4509,7 +4522,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 14:19 KST",
+  "last_run": "2026-09-22 14:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
