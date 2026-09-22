@@ -142,6 +142,16 @@
    "t": "카카오, 임차 데이터센터 냉방 전력 23% 절감 - BBS불교방송",
    "ts": 1790049770,
    "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91cHVsVERJaklzTTBSZmJyQjM4U2pqMmpFSEEtNmxTWmVZdFBXbm9mSjlpUm5YMmt6MUJuOU9uSHFtS0tPT3hISlQ0d2hqLWpneVZGZWttQnV6aFJlWkdDR1dlaHpEUkM3dzJV?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뷰어스",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "LG엔솔, 엔비디아 DSX 레디 합류…AI 데이터센터 ESS 공략 - 뷰어스",
+   "ts": 1790050536,
+   "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NX1hlWFVWd0pGZ2xFMmIyR2ZRSHZZRWJBZmM2YXdEbElCSHRQeng4a0dNcHQ2WmZqZzVqbG1pSEhINTZnQXJ0aUZaSFpNZmNYZldiQU94R3E?oc=5"
   }
  ],
  "clip_titles": [],
@@ -632,6 +642,7 @@
   "1d6d56f739e296c7": 1789630519,
   "1d81c38c80213098": 1790039473,
   "1d8a06451f1999c9": 1789884315,
+  "1d9219f685e97265": 1790050819,
   "1d948f1807e81272": 1789870063,
   "1da77014cf06b7f7": 1789951430,
   "1dad3831c07ba13a": 1789974322,
@@ -4191,7 +4202,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790050216,
- "last_msg_poll": 1790050770,
+ "last_msg_poll": 1790051068,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4233,7 +4244,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 13:19 KST",
+  "last_run": "2026-09-22 13:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
