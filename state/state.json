@@ -332,6 +332,36 @@
    "t": "Sri Lanka replaces net metering with feed-in tariffs for rooftop solar",
    "ts": 1790069285,
    "u": "https://www.pv-magazine.com/2026/09/22/sri-lanka-replaces-net-metering-with-feed-in-tariffs-for-rooftop-solar/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 3,
+   "sec": "재생에너지·ESS",
+   "t": "Vietnam pushes provinces to accelerate rooftop solar rollout",
+   "ts": 1790069400,
+   "u": "https://www.pv-magazine.com/2026/09/22/vietnam-pushes-provinces-to-accelerate-rooftop-solar-rollout/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "속보 - 이티뉴스",
+   "sc": 0,
+   "sec": "재생에너지·ESS",
+   "t": "KAIST, 전기차 배터리 더 작고 가볍게 할 기반 기술 개발",
+   "ts": 1790069326,
+   "u": "https://www.etnews.com/20260922000497"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "매일일보",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG, MS와 AI 데이터센터 냉각 협력…피지컬 AI까지 확대 - 매일일보",
+   "ts": 1790068904,
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OTFFvdmhscXFTMHlBeEhqYkpXMjBmU2wwc3EyZkNlekxzdll0eEhPOU9MNTdSYjk5TjlnQlVNME5Fd3VpRWRFVEJ4MVViR1A5TFJsVnNxQ3ZCMjlaSGwxRjE1WUbSAWhBVV95cUxPVUh2R1BBZE9xWUt1ZC1WWG1rTzlia1h5RXNFSE5hT3doRlB3SDh6MDhTNlBUVlVEcUthNmdibDJ0Ukx6cnh0d0RCUDdtWjVMWjA3VnIzaWJma3RyRU1hcW8wM0xVc3dKLQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -725,6 +755,7 @@
   "15b977db07a31b97": 1790040051,
   "15bdb774ba0c99a0": 1790065913,
   "15c6332685b85fb4": 1789859418,
+  "15d35d32192f6838": 1790069722,
   "15e4c228e946ae6e": 1789695017,
   "15fca67551644586": 1789949125,
   "15ffa7aad0b13556": 1789735819,
@@ -1523,6 +1554,7 @@
   "3e3ae8aafb98782f": 1789627496,
   "3e3fec5f884ab6f2": 1789790714,
   "3e514261ef2adf1e": 1790045289,
+  "3e576a15b087257e": 1790069722,
   "3e5b3732621b3a4c": 1789892428,
   "3e63ad459d571c4e": 1790037737,
   "3e73616ff01de6ea": 1789738816,
@@ -1727,6 +1759,7 @@
   "485a4ad30fa100de": 1790042975,
   "487decabfea19da9": 1789954327,
   "48839f0d430433ad": 1789627496,
+  "4883a38edcbb600d": 1790069722,
   "48875e506f5c94ac": 1789719316,
   "4887e4942ab607db": 1789952592,
   "4890c038a1fe8c21": 1789954905,
@@ -4404,6 +4437,7 @@
   "e62d2ca5f994f168": 1789629088,
   "e64bc996b4be6033": 1789973468,
   "e68cdb6984023e26": 1790046448,
+  "e691346d8384906a": 1790069722,
   "e691374042cf75fb": 1789627496,
   "e697c619ec9f9fdd": 1789676118,
   "e69b9a60ef0263c1": 1789691116,
@@ -4861,7 +4895,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790064758,
- "last_msg_poll": 1790069680,
+ "last_msg_poll": 1790069971,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4903,7 +4937,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 18:34 KST",
+  "last_run": "2026-09-22 18:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
