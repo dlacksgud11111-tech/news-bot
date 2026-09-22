@@ -228,6 +228,16 @@
    "t": "원전 공론화위원회 구성···신규 원전 국민이 정한다",
    "ts": 1790129455,
    "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228514"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "에너지신문 - 전체기사",
+   "sc": 15,
+   "sec": "재생에너지·ESS",
+   "t": "ESS 중앙계약시장 개설…육지 1100MW·제주 80MW",
+   "ts": 1790130676,
+   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228515"
   }
  ],
  "clip_titles": [],
@@ -2126,6 +2136,7 @@
   "63d996a8e5cba507": 1789627496,
   "63e45fb4c82e8f6c": 1790034282,
   "63e562f66e85057e": 1789731320,
+  "63e7c6a9e3bb57ed": 1790098469,
   "640c4a6d3f951e53": 1790052923,
   "641fe00a4d0a7f0c": 1789865116,
   "642b41d332e4a7ae": 1789916965,
@@ -4886,7 +4897,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790086574,
- "last_msg_poll": 1790098139,
+ "last_msg_poll": 1790098712,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4928,7 +4939,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 02:28 KST",
+  "last_run": "2026-09-23 02:38 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
