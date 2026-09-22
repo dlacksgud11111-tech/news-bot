@@ -122,138 +122,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 5,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 5,
-   "sec": "재생에너지·ESS",
-   "t": "Nova Scotia Power switches on Atlantic Canada’s biggest battery storage projects",
-   "ts": 1790073252,
-   "u": "https://www.energy-storage.news/nova-scotia-power-switches-on-atlantic-canadas-biggest-battery-storage-projects/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "SK에코플랜트, 전문성 갖춘 실무형 인재 양성…반도체·AI 경쟁력 강화",
-   "ts": 1790105458,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334542"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 8,
-   "sec": "재생에너지·ESS",
-   "t": "한-스웨덴 해상풍력 공급망 협력…문무바람 핵심 분야 MOU 체결",
-   "ts": 1790096400,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334532"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "Chile tests grid-forming tech at 48 MW/275 MWh BESS",
-   "ts": 1790073329,
-   "u": "https://www.pv-magazine.com/2026/09/22/chile-tests-grid-forming-tech-at-48-mw-275-mwh-bess/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "알리바바, 10조 파라미터 AI 개발 추진…데이터센터 20GW로 확대",
-   "ts": 1790072588,
-   "u": "https://www.etnews.com/20260922000504"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "데일리안",
-   "sc": 18,
-   "sec": "전력기기",
-   "t": "\"AI 투자 꺾이면 전력기기도 끝?\"…수주잔고 43조원 쌓였다 - 데일리안",
-   "ts": 1790069580,
-   "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zOGxzaGJTYjZJZ0FGM280QTlRTkQ4UTBUZ000bGdtSWpCd25NbVZxR1BRZUpzN3ZrdUhJM05oazBnWThvVDdpS2NsbmdLclI5YjBPRA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 2,
-   "sec": "건설·플랜트",
-   "t": "RWE and Giga Storage move to construction on gigawatt-hour Netherlands and Belgium batteries",
-   "ts": 1790074345,
-   "u": "https://www.energy-storage.news/rwe-and-giga-storage-move-to-construction-on-gigawatt-hour-netherlands-and-belgium-batteries/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 6,
-   "sec": "원전",
-   "t": "Google inks deal to support nuclear uprates at Georgia Power's Vogtle and Hatch plants",
-   "ts": 1790074238,
-   "u": "https://www.datacenterdynamics.com/en/news/google-inks-deal-to-support-nuclear-uprates-at-georgia-powers-vogtle-and-hatch-plants/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "2026 guide to navigating data center supply chain complexity",
-   "ts": 1790074110,
-   "u": "https://www.datacenterdynamics.com/en/whitepapers/guide-to-navigating-data-center-supply-chain-complexity/"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "마켓인",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "“수도권 데이터센터, 크게 짓기 어렵다”…하남 물류센터의 ‘작은 변신’ - 마켓인",
-   "ts": 1790072944,
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xbVJ6ZkdQZFF4NUY1RTI3VXlWeXRyN1UtdzdxRFM0bGQ3LWFtYWJOb0pvNnVVSkE0bk41NUhEQVpHUXkybFpIWVlTUjMyQ1VZZUhkWFU1VzBNSTl4Unp2elZsTEdtREltSTZVeWlDaGpfU1E?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 7,
-   "sec": "전력기기",
-   "t": "Sunrun and Tesla deliver record 580MW to California grid amid heatwave",
-   "ts": 1790074678,
-   "u": "https://www.energy-storage.news/sunrun-and-tesla-deliver-record-580mw-to-california-grid-amid-heatwave/"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "헬로티",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "LS일렉트릭, 부산 변압기 공장에 보행로봇 도입…설비 점검·안전관리 자동화 - 헬로티",
-   "ts": 1790054314,
-   "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mQnV2WXc5VDVrckhLUFZTcDVnVWt0aVFOYnB3S1RMdjlzQ1QxWF9Bell4ZGhRWVdlSGdUUXF2TmdFVWJXemlfS2VLNUc3bllZY1pFNXBiZk5oWmhSamtJ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "[단독]데이터센터 전력공급 심사 지연…37%가 반년 이상 기다려 - v.daum.net",
-   "ts": 1790056670,
-   "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAxUno3bzNUVDB5bTJtVXdwbzBBNkktQnV2U2FXV2hUUUVXejBUdERuUWY1U1pFM0lnLW1qSV9YV0hhaWpLd2c?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00124ecf9177fec9": 1789953163,
@@ -4402,6 +4271,7 @@
   "e7aa3d056ab99071": 1789963516,
   "e7ad4a01c0eede5c": 1789859418,
   "e7b2ea7c8c6dcf09": 1790042395,
+  "e7b34deae1d0b898": 1790079331,
   "e7b3952552d94bc5": 1789916965,
   "e7c61868f3409521": 1789982415,
   "e7c6d843e50e0021": 1789689020,
@@ -4841,8 +4711,8 @@
  },
  "companies_today": {},
  "day": "2026-09-22",
- "last_clip": 1790072126,
- "last_msg_poll": 1790079266,
+ "last_clip": 1790079331,
+ "last_msg_poll": 1790079582,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4884,7 +4754,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 21:14 KST",
+  "last_run": "2026-09-22 21:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
