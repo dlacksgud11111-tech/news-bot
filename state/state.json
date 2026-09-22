@@ -198,6 +198,16 @@
    "t": "“수도권 데이터센터, 크게 짓기 어렵다”…하남 물류센터의 ‘작은 변신’ - 마켓인",
    "ts": 1790065739,
    "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JcmcwMFlnLUxPdEgyT2RMcjJDYzM4RXpSTVRYU2s4aEp0TTZLdHVKX0FxRnJDbXNmQWF2bVRSMVI1a0FVUkE5a1A1NGh0d1Y5RGVibnJOSEpKR3lYUjRvVm9sMUNveTY0WlBjM2xzWjVOdw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "chosun.com",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG, MS와 데이터센터 중심 AI 파트너십 강화 - chosun.com",
+   "ts": 1790091180,
+   "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdkRGT2Z2WFJTZWM1Z191WEZuTW1kbHU2a1hxa1RSWXdIT3MxUkZwZ3E2Z2MxZGdXQTJxYjBCOTZaSEtzTE80TTdSdE5NdE1vOFEzMkNzTmt3NjNtbmoyMktaZWJ6TlBmYUJDcnNsM25tTUJibGlWdWpCRHlyNHVLNkVIaWFEbnBrSURLYmJGOA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1483,6 +1493,7 @@
   "4294b48a59dc526f": 1790060726,
   "429a3ee6d9bc0d7f": 1789631127,
   "429c35d9566ee8a6": 1790062459,
+  "42a4e525d35ecb59": 1790094620,
   "42b288c905b7872d": 1789977032,
   "42e6621670e1ce17": 1789630256,
   "42f78a0d5c429b33": 1789785019,
@@ -2051,6 +2062,7 @@
   "6218160b4e350e6b": 1789988389,
   "62243665bb182604": 1789851315,
   "6228cdab8bba5377": 1790058917,
+  "622afcba01b383ea": 1790094620,
   "622dd754da381bdb": 1789627496,
   "62348606cc5611b2": 1789947108,
   "6248583c43c9accf": 1789866315,
@@ -4848,7 +4860,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790086574,
- "last_msg_poll": 1790094299,
+ "last_msg_poll": 1790094868,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4890,7 +4902,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 01:24 KST",
+  "last_run": "2026-09-23 01:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
