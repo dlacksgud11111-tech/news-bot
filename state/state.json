@@ -208,6 +208,16 @@
    "t": "LG, MS와 데이터센터 중심 AI 파트너십 강화 - chosun.com",
    "ts": 1790091180,
    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdkRGT2Z2WFJTZWM1Z191WEZuTW1kbHU2a1hxa1RSWXdIT3MxUkZwZ3E2Z2MxZGdXQTJxYjBCOTZaSEtzTE80TTdSdE5NdE1vOFEzMkNzTmt3NjNtbmoyMktaZWJ6TlBmYUJDcnNsM25tTUJibGlWdWpCRHlyNHVLNkVIaWFEbnBrSURLYmJGOA?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "California tightens oversight of data center energy use, grid costs",
+   "ts": 1790088820,
+   "u": "https://www.utilitydive.com/news/california-tightens-oversight-of-data-center-energy-use-grid-costs/831037/"
   }
  ],
  "clip_titles": [],
@@ -277,6 +287,7 @@
   "0336ca586314a4ce": 1789630819,
   "0342d148f5d1357b": 1790008517,
   "0347c98e5f3ecdf3": 1789693814,
+  "034accffa5bc32e2": 1790095831,
   "0353d7cf89aaf18a": 1789627496,
   "036cecaae2ae9298": 1790088876,
   "0386d7ff1318592b": 1789855065,
@@ -4862,7 +4873,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790086574,
- "last_msg_poll": 1790095765,
+ "last_msg_poll": 1790096081,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4904,7 +4915,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 01:49 KST",
+  "last_run": "2026-09-23 01:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
