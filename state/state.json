@@ -268,6 +268,36 @@
    "t": "LS일렉트릭, 4족 로봇에 변압기 공장 순찰 맡긴다 - newsphere.kr",
    "ts": 1790066041,
    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NSlRoNFBPbVVjRGxlMVAzLWdXZEliYzlGMC1SMEdzMUVwMDVHM3J2emhXeVcyTFJhaVh4aVBhNnpDcExLc29OU2tEWTNNdXpUZGNlMlJ5dElxT2VpSEVLc2dYT01BdkND?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "이투뉴스 - 전체기사",
+   "sc": 9,
+   "sec": "원전",
+   "t": "3개월 원전 공론화 거쳐 12차 전기본 수립키로",
+   "ts": 1790137822,
+   "u": "http://www.e2news.com/news/articleView.html?idxno=334546"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "이투뉴스 - 전체기사",
+   "sc": 11,
+   "sec": "재생에너지·ESS",
+   "t": "1.18GW 3차 ESS 중앙계약시장 사업자 11월 윤곽",
+   "ts": 1790136000,
+   "u": "http://www.e2news.com/news/articleView.html?idxno=334545"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "donga.com",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터 수도권 쏠림에, 전력공급 심사도 ‘과부하’로 지연 - donga.com",
+   "ts": 1790105400,
+   "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81ZnBjRW05clZ6R3Z3NWkyZzB0dm1Ib3lhTGVIMm9WN0QxY09aSnVpUEtLc19Lc0hFdUZKN1BLYS0wZXhvZndTWUo0TWJ6S0VoOGN2VmdzZUZBSHNiWkhHU2lOX0pibTI5RURaQUVrd2w4WUhVR3fSAWZBVV95cUxNMF9yZmNrNVE3QjZaMVNpaWNBc2xwV3Q5aldBZF93dUFwcEZJNXBkaTUxaGFfbW9PZHlzX2JwcklGQUFxZld0cE5LazUzeXJMTlN6X0ZfSEh6MFhlWm44Q01ua19RaWc?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1025,6 +1055,7 @@
   "281a64f70a6c2d36": 1789692619,
   "2821b12599fbd811": 1789634416,
   "282882c9ed820e49": 1789951988,
+  "2857eb661e757033": 1790105718,
   "285c94aaaad1af46": 1789971183,
   "2862862ed04d9acb": 1789742325,
   "2880f7cf25827b48": 1789627496,
@@ -2760,6 +2791,7 @@
   "85bb7debed80693b": 1789969411,
   "85c71b2beac17b48": 1789693531,
   "85ccbda9f026f726": 1789969411,
+  "85dbe0ac7d7dba05": 1790105718,
   "85e2c73304d08686": 1790065327,
   "85eb3eaca19edda7": 1789954905,
   "85ebb3a3ea4f6047": 1790058619,
@@ -4103,6 +4135,7 @@
   "d25fb65f87fdaac5": 1789954905,
   "d2646241f0a40634": 1789627496,
   "d26fc7fc6eaace3b": 1789689915,
+  "d27622aacbe85cb4": 1790105718,
   "d2788056c6a892c3": 1789627496,
   "d2a6ef13c5771c66": 1789953163,
   "d2a71e09489448cb": 1790061315,
@@ -4932,7 +4965,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790086574,
- "last_msg_poll": 1790105669,
+ "last_msg_poll": 1790105969,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4974,7 +5007,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 04:34 KST",
+  "last_run": "2026-09-23 04:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
