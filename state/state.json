@@ -148,6 +148,36 @@
    "t": "LG에너지솔루션, 엔비디아 ‘DSX 레디’ 합류…AI 데이터센터 ESS 공략 - 서울타임즈뉴스",
    "ts": 1790037268,
    "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qak1UbU41R3VZcHBQcEtGQzJZTGljWlVzTXkxYUlscWZpNVJQQ0FlMUJLUF9pM3VmNFJZUUl1TS1JZUp4QS1QbkdiX2RqWmlUTmtTX2dTSGE2UEY0NUdldDRXNG1MT01ZNU5r?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "New Era signs 20-year gas PPA with Vistra subsidiary to power 250MW data center in Ector County, Texas",
+   "ts": 1790082491,
+   "u": "https://www.datacenterdynamics.com/en/news/new-era-signs-20-year-gas-ppa-with-vistra-subsidiary-to-power-250mw-data-center-in-ector-county-texas/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 10,
+   "sec": "원전",
+   "t": "Kairos Power selects Samsung C&T to help build 50MW SMR for Google in Tennessee",
+   "ts": 1790082247,
+   "u": "https://www.datacenterdynamics.com/en/news/kairos-power-selects-samsung-ct-to-help-build-50mw-smr-for-google-in-tennessee/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Lithography firm Morphotonics targets data center optical component market after raising €40m",
+   "ts": 1790081996,
+   "u": "https://www.datacenterdynamics.com/en/news/lithography-firm-morphotonics-targets-data-center-optical-component-market-after-raising-40m/"
   }
  ],
  "clip_titles": [],
@@ -818,6 +848,7 @@
   "2456542f8bf8c9a3": 1790042975,
   "24675eed3f3ffe99": 1789629088,
   "24706f6d6df0311f": 1789901121,
+  "248688817f45b485": 1790082587,
   "2491e5d8e0d3f48e": 1789950278,
   "24ab22f1feadb9a4": 1789629088,
   "24afe8ebbf9718eb": 1789948225,
@@ -2906,6 +2937,7 @@
   "98e56dbcc7a522f0": 1789868332,
   "98f44908be4e1fae": 1789974322,
   "99160298832d1178": 1789724997,
+  "992f8bc868c511c5": 1790082587,
   "99462ccc0519934d": 1789632918,
   "9946a3cd9778aff2": 1790030116,
   "9946a72ccda21921": 1790070017,
@@ -3764,6 +3796,7 @@
   "c913b35c7788a63d": 1790042975,
   "c9263af0ac5f714c": 1790042975,
   "c93361e416b1527f": 1789943682,
+  "c93931a78ae37d14": 1790082587,
   "c957f6af49eb8c16": 1789954905,
   "c97791d7e6952982": 1790064758,
   "c98b4e15917e33a2": 1789710788,
@@ -4092,6 +4125,7 @@
   "db72fc66ea4771f8": 1789995621,
   "db79d37b718d6d23": 1790032518,
   "db87b07f922da4df": 1789851916,
+  "db9b75f04e23306e": 1790082587,
   "db9de21f163f6baa": 1789644321,
   "dbb2a7e0d3912d0c": 1790053518,
   "dbb2b1d66902ff76": 1790027543,
@@ -4510,6 +4544,7 @@
   "f269695d3b21e87e": 1789694436,
   "f269c0aaea1c1a24": 1789691349,
   "f278f2e18f01e5df": 1789629088,
+  "f27e0d1c014cf43d": 1790082587,
   "f286c378e6bcf2d6": 1789958121,
   "f2924a6ca55f548d": 1790035428,
   "f292df78002ba557": 1789706118,
@@ -4745,7 +4780,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790079331,
- "last_msg_poll": 1790082250,
+ "last_msg_poll": 1790082828,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4787,7 +4822,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 22:04 KST",
+  "last_run": "2026-09-22 22:13 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
