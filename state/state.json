@@ -122,7 +122,48 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 5,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 2,
+   "sec": "건설·플랜트",
+   "t": "Covenergo and Delta Capacity begin construction on 300MWh AKKU One BESS in Finland",
+   "ts": 1790064892,
+   "u": "https://www.energy-storage.news/covenergo-and-delta-capacity-begin-construction-on-300mwh-akku-one-bess-in-finland/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "M이코노미뉴스",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "AI 전력수요 폭증에 전력기기 ‘슈퍼사이클’...수주·증설·인력 확보 속도 - M이코노미뉴스",
+   "ts": 1790064661,
+   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2cS13WlA5cU50dFhrUllaN1FHV29VTVQzT29BQTIzSXlZN2hESmlYd3EydW5uTkJRZW1vMExHN2w1UnJrOHpnZF9NY0xicXNtdlFLMXlGUUZaRUFwaFgwQWx4WFdLbjA?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "[단독]AI는 속도전인데…데이터센터 전력 검토받는 데 2년 이상 걸리기도 - v.daum.net",
+   "ts": 1790056620,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmOHBOTXAzdXdySFZ2dDY2YVRPNzZMcU5va1Zrd0w1c0FrREJkeUdPWk1pN1p1bUxBRTAwYkJ1MmRpR0JKaTVsdmFtSklOUEE?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "LS일렉트릭, 4족 보행로봇으로 변압기 공장 24시간 살핀다 - v.daum.net",
+   "ts": 1790034660,
+   "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvU2VqRjc2MDlMY015bzd1ZThYbkU3eDZWRFZVbjJzdHJRbGZVc3lfREZya2J4QldGZmRFSm9DZzZtR2hpYVpnU1Bkbw?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00124ecf9177fec9": 1789953163,
@@ -2388,6 +2429,7 @@
   "7ed8c896f463b518": 1789693220,
   "7eff145f70157469": 1789968847,
   "7f16559f1c80e50f": 1789627496,
+  "7f37c84122d31df4": 1790065327,
   "7f3ff552354d9871": 1789786216,
   "7f4261bf6d6bea9d": 1789886931,
   "7f65a2dbce1f6a8c": 1789718720,
@@ -2510,6 +2552,7 @@
   "85bb7debed80693b": 1789969411,
   "85c71b2beac17b48": 1789693531,
   "85ccbda9f026f726": 1789969411,
+  "85e2c73304d08686": 1790065327,
   "85eb3eaca19edda7": 1789954905,
   "85ebb3a3ea4f6047": 1790058619,
   "860c99e317601fa3": 1789629923,
@@ -2626,6 +2669,7 @@
   "8def32ba7df72cf4": 1789720517,
   "8e3f6ef256aa94f1": 1789679720,
   "8e464bd01fe104b1": 1789630519,
+  "8e4db77014df0594": 1790065327,
   "8e55f2b06dded70f": 1789652129,
   "8e6c2cd2691568d1": 1789627496,
   "8e782f7a21f06937": 1789698990,
@@ -3658,6 +3702,7 @@
   "cb16fb458e978e55": 1789866315,
   "cb396effa877ac8a": 1789661117,
   "cb469a0e7c4f8c1a": 1789627496,
+  "cb5ae1bb7a6edfc1": 1790065327,
   "cb6f6cdd919f01da": 1789774587,
   "cb72932a25b23939": 1790035999,
   "cb72b6c3a74c1de6": 1789693531,
@@ -3743,6 +3788,7 @@
   "d08cbff51224152e": 1790040917,
   "d0956e72214dc9d4": 1789718720,
   "d0999c7208d67a7f": 1789951430,
+  "d09b1e7726ee4251": 1790065327,
   "d09ef47e8fa53950": 1789859418,
   "d0a73f988cbc2e87": 1789634116,
   "d0cdeae21c804e66": 1789955477,
@@ -4569,7 +4615,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790064758,
- "last_msg_poll": 1790064999,
+ "last_msg_poll": 1790065574,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4611,7 +4657,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 17:16 KST",
+  "last_run": "2026-09-22 17:26 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
