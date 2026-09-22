@@ -362,6 +362,36 @@
    "t": "LG, MS와 AI 데이터센터 냉각 협력…피지컬 AI까지 확대 - 매일일보",
    "ts": 1790068904,
    "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OTFFvdmhscXFTMHlBeEhqYkpXMjBmU2wwc3EyZkNlekxzdll0eEhPOU9MNTdSYjk5TjlnQlVNME5Fd3VpRWRFVEJ4MVViR1A5TFJsVnNxQ3ZCMjlaSGwxRjE1WUbSAWhBVV95cUxPVUh2R1BBZE9xWUt1ZC1WWG1rTzlia1h5RXNFSE5hT3doRlB3SDh6MDhTNlBUVlVEcUthNmdibDJ0Ukx6cnh0d0RCUDdtWjVMWjA3VnIzaWJma3RyRU1hcW8wM0xVc3dKLQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "데일리안",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "\"AI 투자 꺾이면 전력기기도 끝?\"…수주잔고 43조원 쌓였다 - 데일리안",
+   "ts": 1790069580,
+   "u": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPU3JuUktYakpycmI0YURYUUs3aWhlNGg1a0ZKb1lyb2FrbjB2UVJsc1FoemZNN3NYVnFnVFlNWVBaX2hDcXhJcFR2OUdsVnFIWnk0VmFrZ1d2SFBEQ21qLUZVNUdiazU5RXJHcDl3b2F2NVJIc0JCdUJvX1JEU0Q0SWJhRTc5dlpmTDIwYW5NeHFMcmV0TWFudDRoZEZWVTdVUlBOUXRHcjFoVzNyWlZjSU9pTUZXNEoyVHFndFUwMVpOdDd6Q1I5UzRJVWlURGdmbWVyY05RalRDXzFCd1JjSjgzZm5PUzJORFZieHZ4MElIS2FaVDVMekNHRUYwR3dOSnNqWG9Pd21pUm84Mnc?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "국민일보",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "‘전력은 LG엔솔, 냉각은 LG전자’… 엔비디아·MS AI 데이터센터 생태계 입성 - 국민일보",
+   "ts": 1790069520,
+   "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbG9DSzkxYzBUeF9uYURUNEZ1NWZLaDBSMmZaQ1p4c0J6dWZqU2V3TWNFUmlpM1JEWXI0RkZDdGZ2VXAtMGdQdmZtYXE0Yzlxc2owOTc5UTB1R1F6eFJ5NURud0FpenRVMExKS2JTNlp6YnpEbllCZmdKNEtUbGFKOHZtU0VDZ9IBbEFVX3lxTE9SNkVZTHdBY01yMVRZeXlYNTk4a3g0U2ItUHZYbnJWUENoUy01dThPdUQ1SzdMZURPY1FTZHp3c29YbUNUN1dmM29FcXJRbkVJU0psUlNGWE5nQnZNRzl6N2hQZkg3SC1aclJUdg?oc=5"
+  },
+  {
+   "co": "한국전력",
+   "n": 1,
+   "s": "이뉴스투데이",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "한전기술·트러스톤, AI 데이터센터 연계 전력사업 발굴 나선다 - 이뉴스투데이",
+   "ts": 1790068800,
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lVjVhbXdQWnZRejRrT2RWR3hFQXBxTm9iZzN0SWZWSDNQSklXdnd1QWIzTVppT1lwcGNLR2ZLYUFmWmpaWjNZOWhKM2RrdWZGTEN1LW5XZEpsRTVzZHo1a1ZIaEZmMmtqZEtuVGxNcVnSAXRBVV95cUxNZEFqendKUGFscktITDFXcGpoVGVNc3R4MjFWenh5TnVVajdxR3JKX3htU0E4cDBJVXAzb3RVdWY1MTZ6YzZpRUJWcThvTVBURE1GODVKSDBQMHlPNHBMMTd0Z3pyVG90bXVxWVZsbml5RnRPbA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1860,6 +1890,7 @@
   "4eae94f6a9354eff": 1789967119,
   "4eb9a5c95edb2684": 1789958121,
   "4ebb978c856026e0": 1789975519,
+  "4ebe2247ac84a7e9": 1790070017,
   "4ec5423a57c99a9b": 1789731320,
   "4ecd0c005ec6b5aa": 1789709642,
   "4ed3f8a04a63049c": 1789689020,
@@ -3090,6 +3121,7 @@
   "99160298832d1178": 1789724997,
   "99462ccc0519934d": 1789632918,
   "9946a3cd9778aff2": 1790030116,
+  "9946a72ccda21921": 1790070017,
   "994d6181d6c228d5": 1790036576,
   "9971f831ed5322d1": 1789721130,
   "99837f263652699d": 1790034858,
@@ -4670,6 +4702,7 @@
   "f292df78002ba557": 1789706118,
   "f2967c4748d7d6fe": 1789877422,
   "f29cd925462a6865": 1789627496,
+  "f29e3cce9dbaa752": 1790070017,
   "f2ce077b142224a2": 1789951988,
   "f2e7a22438287d5b": 1789627496,
   "f32ef9435088ca33": 1789627496,
@@ -4895,7 +4928,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790064758,
- "last_msg_poll": 1790069971,
+ "last_msg_poll": 1790070266,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4937,7 +4970,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 18:39 KST",
+  "last_run": "2026-09-22 18:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
