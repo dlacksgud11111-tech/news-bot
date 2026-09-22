@@ -145,7 +145,7 @@
   },
   {
    "co": "",
-   "n": 2,
+   "n": 3,
    "s": "뷰어스",
    "sc": 2,
    "sec": "데이터센터·AI전력",
@@ -332,6 +332,16 @@
    "t": "AI 데이터센터 ‘규제 사각지대’ 끝나나…EU·캘리포니아 관리망 강화 - ESG경제",
    "ts": 1790043590,
    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FM2pWcGQ1YzRPU202UmtkXy1QOHFKWFJnR3JfZi1rdDhjVzJhRzZQWVBrQlN6eW5pRjJHMzFrWFJHVlRMeXFld3M2RGIzbl9DaXl6ZWZSb0t1MjZnMEpaNTZ2QUM0ZmkyODkyUQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Chosunbiz",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "IPO 연기 잇따라… 월가서 AI 데이터센터 회의론 ‘부상’ - 조선비즈 - Chosunbiz",
+   "ts": 1790054100,
+   "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNE00U1Z0UXdDVUJTejFVQjY5T1FScDl2bGlhdjZJR3MybXNweF9PRWJ1MUFCQUxEbmpfMXNtTFExWFRka1o3YnFETjNsUnViSWxGd3paNlVLdGJ0bGlfZU9vc2NCQnJSbzEwdVdUTU9wSUI3LXByNi16WVhrOGJqc3lkTWlWckVaWlc4c0FRMzlhSjkwLWlDbmZmaGF1d9IBsgFBVV95cUxNZjB4S1ptUXY2ZGRUZktaR3ZYNkRKWG5zM0gxbkJpMFVRVVJjbWVSVE9tNmlvRnlTdU1CaFNtWlItSHozZ0ZweTZSdmhwa3AtenppV2VxNkNYYUNEZnlYT19EcmFJWWpoU2c3Z2h4ckV3ZGt0cTd1dlk2QzByTkFFeGlIMlU2czdJM0tJRW9rMTgxMjFIdnNKeFlEWnMxNndIZklHUFJpWFgtNmhmYUFxSjhn?oc=5"
   }
  ],
  "clip_titles": [],
@@ -600,6 +610,7 @@
   "0fd19f5e30aea85e": 1789691718,
   "0fd6c68d5c5838d6": 1789968847,
   "0fdb0072afc4896e": 1789953163,
+  "0fe64b74d30248c5": 1790054715,
   "0fffbfecfec4817f": 1789627496,
   "10187fbc87e9ed6d": 1789970013,
   "1019ca802019568c": 1789972312,
@@ -879,6 +890,7 @@
   "206e4c01a22d423c": 1789627496,
   "207a8bfdb9a7988f": 1789738816,
   "2085c7d58b1a247c": 1789627496,
+  "208d2758c30075c1": 1790054715,
   "208f92199846384c": 1790052923,
   "209823f3b697965d": 1789873818,
   "20aa0052587b909f": 1789693531,
@@ -1275,6 +1287,7 @@
   "363c19de78193cf4": 1789896615,
   "3643544ab3b5af90": 1789635918,
   "36558f5fa032c5b3": 1789646718,
+  "365b4e1cbce8b6fc": 1790054715,
   "367979b5dea8d110": 1789629088,
   "368287274232ff4a": 1789953163,
   "36aa139c291695eb": 1789693531,
@@ -2557,6 +2570,7 @@
   "84df84f49ba6bbd5": 1789732829,
   "84ea2223bcce97a5": 1790048174,
   "84ee7e592b1896df": 1789963516,
+  "8506886a01088b71": 1790054715,
   "852223dfb55a9dcd": 1789689915,
   "852bf2fef365baef": 1789983921,
   "852ff64543eef161": 1789693531,
@@ -4136,6 +4150,7 @@
   "ea1b697f845100bd": 1790001429,
   "ea28303f44ee7b00": 1789748116,
   "ea4f55dec1dc5ffe": 1789977915,
+  "ea6194fec8ecbb0b": 1790054715,
   "ea88df914829da66": 1789978815,
   "ea936d63b315add6": 1789967119,
   "ea9a3a2336468efa": 1789632918,
@@ -4480,7 +4495,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790050216,
- "last_msg_poll": 1790054678,
+ "last_msg_poll": 1790054960,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4522,7 +4537,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 14:24 KST",
+  "last_run": "2026-09-22 14:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
