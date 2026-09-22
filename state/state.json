@@ -138,6 +138,36 @@
    "t": "Investment Grows for Storage, Renewable Energy Projects in Chile",
    "ts": 1790136000,
    "u": "https://www.powermag.com/investment-grows-for-storage-renewable-energy-projects-in-chile/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 8,
+   "sec": "재생에너지·ESS",
+   "t": "IRA-stimulated U.S. solar manufacturing capex to reach $12.2 billion by end 2026",
+   "ts": 1790087734,
+   "u": "https://www.pv-magazine.com/2026/09/22/ira-stimulated-u-s-solar-manufacturing-capex-to-reach-12-2-billion-by-end-2026/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "미주중앙일보",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "법무법인 세종, AI·데이터센터 통합자문 ‘AIDC 인프라센터’ 출범 - 미주중앙일보",
+   "ts": 1790066700,
+   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qUVlvdlFSLXhjc0xFYXNrc2tYWWhvSkl6QlVRdUdXcVZXZWJMM3UxNUx0Rk9raWtnWVNfdmFoVUtGaUs3ZVJmeUhDTGpON0d0YkNVSUlFUVhNR09qTzRHd2xB?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "인더스트리뉴스",
+   "sc": 4,
+   "sec": "데이터센터·AI전력",
+   "t": "LG에너지솔루션, 엔비디아 ‘DSX 레디’ 합류…AI 데이터센터 ESS 공략 - 인더스트리뉴스",
+   "ts": 1790066392,
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5R3V0bUhHT09RR0Q2TzdDQVcyNVpCTkIzREJwRFJrSGpFWUZBbUNTVTZrODBNbkN6RmRZdmJ6d3N2OXFvdjNLSmYyWno0dDVnbFVXSm1EZXFRNXlqMzBQRnVUZ3dfTGpNZ2gwRWUzdHBtQQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -586,6 +616,7 @@
   "18af3c8c371400b4": 1790008517,
   "18b10481d41a60f0": 1789974920,
   "18b5a50a19c35d74": 1789629315,
+  "18bf0107d5ef09e1": 1790088308,
   "18c1332f598b432d": 1789969411,
   "18c652cf93963d01": 1789851916,
   "18cd75d38be6f27b": 1789627496,
@@ -3028,6 +3059,7 @@
   "a0165e9b499c7fe2": 1789701615,
   "a0211b1f0655a4e5": 1789627496,
   "a02cb89e58dc697d": 1789629088,
+  "a03534e237fe1162": 1790088308,
   "a03a7c0d3db9c1ea": 1790038311,
   "a0432e4ebf28ae66": 1789867182,
   "a0481967cf1a0b30": 1790032819,
@@ -3922,6 +3954,7 @@
   "d14f4a2c0ca28067": 1789958422,
   "d154bc45fa6daf6d": 1789627496,
   "d15aad23160a60ae": 1789994120,
+  "d15c20a1d253a9c9": 1790088308,
   "d16116e0295a2f34": 1789953163,
   "d16a4a417b646b4a": 1789946508,
   "d178b68891774db9": 1790035999,
@@ -4185,6 +4218,7 @@
   "df85707cb05498ba": 1789627496,
   "dfaf9adbf17a738b": 1790060726,
   "dfcdefd4ad4c0a95": 1790037737,
+  "dfdefce2ca46e29a": 1790088308,
   "dfe932b0af50ec5e": 1789694131,
   "dfec63ff359de269": 1789705521,
   "dff61ddcf7bbbed7": 1789951430,
@@ -4442,6 +4476,7 @@
   "ed1bb3092871145f": 1790058619,
   "ed24ed7db56c5766": 1790040917,
   "ed32b88d68cfdb83": 1790042395,
+  "ed3acc405357d293": 1790088308,
   "ed3b0c77ffb59b2e": 1789971183,
   "ed4109a7b266d8ef": 1790061882,
   "ed4c2d13f6e82d4b": 1790062459,
@@ -4775,7 +4810,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790086574,
- "last_msg_poll": 1790087905,
+ "last_msg_poll": 1790088560,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4817,7 +4852,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 23:38 KST",
+  "last_run": "2026-09-22 23:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
