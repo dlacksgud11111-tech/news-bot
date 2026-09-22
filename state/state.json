@@ -302,6 +302,16 @@
    "t": "LG에너지솔루션, 엔비디아 ‘DSX 레디’ 합류… AI 데이터센터 ESS 사업 확대 - Korea IT Times",
    "ts": 1790046125,
    "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FZFFjc3gxMzAwSHZUNlgtSXpadUtTdlMwektNa29RQzd2VTg3LWcxdV9WSmRUQWZSV2FXNjF1cV9jdGRlY2xna1ZLamp1eDdReU5wcHpvWElaSGlYRlhsckJuLWJPZ1Jkel9ucWZwM1M?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "impacton.net",
+   "sc": 8,
+   "sec": "전력기기",
+   "t": "AI 데이터센터가 바꾼 기후테크 투자지도…ESS·전력망·산불 대응 부상 - impacton.net",
+   "ts": 1790046968,
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NTE1xWGp3QzVFMlE1eXdKaFpyN241eVpqTFd3UXFlTzltWHpyWnFrWFFFeUZXYTNTcV9YY3BjU0JsMjZELW9NWVFQMXlUc3JGM2pxRU5zd3h2WlpCc2VLZ01Na19NQ0dnYWc?oc=5"
   }
  ],
  "clip_titles": [],
@@ -471,6 +481,7 @@
   "09e4e1924aa5244d": 1789728460,
   "09ef967379a51795": 1789863399,
   "09fcdf52c41de82e": 1789644018,
+  "0a06be682c20c443": 1790047604,
   "0a13f0038a478570": 1789629088,
   "0a23eeeb34a7c328": 1789707915,
   "0a43c9f5fb7b3650": 1789648519,
@@ -757,6 +768,7 @@
   "1b41cd56806e4c19": 1789627496,
   "1b5b13f9bfa8fa97": 1789951430,
   "1b5ed4f2f2a13fd1": 1789951430,
+  "1b7a27878aff8ef8": 1790047604,
   "1b8cc2892e4eb0f5": 1789891518,
   "1b91666e408d21d8": 1789627496,
   "1b9fb307498e461e": 1789724997,
@@ -2633,6 +2645,7 @@
   "9157d9fbbc259ad9": 1790001429,
   "915e6a69f5ab14c0": 1789946508,
   "918baf0e182a99c3": 1789956616,
+  "9192c2df03d7db39": 1790047604,
   "91a945daddc5ed96": 1789967119,
   "91ae1cfff4ce54db": 1789688716,
   "91aef7bf82663690": 1789948516,
@@ -2816,6 +2829,7 @@
   "9ef60bf3c1097b82": 1789974920,
   "9ef9434f46ed9d49": 1789627496,
   "9f1144c75d2c6b1f": 1789866315,
+  "9f199fc674f75e74": 1790047604,
   "9f22df2ba90f7b22": 1790041217,
   "9f24a5f5b9920f25": 1789710209,
   "9f42cb54fc950f63": 1789949125,
@@ -4321,7 +4335,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790042975,
- "last_msg_poll": 1790047279,
+ "last_msg_poll": 1790047852,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4363,7 +4377,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 12:21 KST",
+  "last_run": "2026-09-22 12:30 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
