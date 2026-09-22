@@ -222,6 +222,16 @@
    "t": "“수도권 데이터센터, 크게 짓기 어렵다”…하남 물류센터의 ‘작은 변신’ - 마켓인",
    "ts": 1790072944,
    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xbVJ6ZkdQZFF4NUY1RTI3VXlWeXRyN1UtdzdxRFM0bGQ3LWFtYWJOb0pvNnVVSkE0bk41NUhEQVpHUXkybFpIWVlTUjMyQ1VZZUhkWFU1VzBNSTl4Unp2elZsTEdtREltSTZVeWlDaGpfU1E?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 7,
+   "sec": "전력기기",
+   "t": "Sunrun and Tesla deliver record 580MW to California grid amid heatwave",
+   "ts": 1790074678,
+   "u": "https://www.energy-storage.news/sunrun-and-tesla-deliver-record-580mw-to-california-grid-amid-heatwave/"
   }
  ],
  "clip_titles": [],
@@ -483,6 +493,7 @@
   "0e48f484eefbe9b2": 1789707915,
   "0e6659701376773a": 1789709642,
   "0e66ccfa003b81df": 1790035999,
+  "0e90765107486833": 1790074823,
   "0ea0d5abef807d24": 1789712512,
   "0ebf027534387b05": 1789877422,
   "0ebf7b6407f212e3": 1789648519,
@@ -2278,6 +2289,7 @@
   "6f5331acb38661e5": 1789636217,
   "6f5e130f0674b2d5": 1789971751,
   "6f602ee512261342": 1789634416,
+  "6f68ac62eaad927c": 1790074823,
   "6f699ea20620c9b2": 1789949420,
   "6f6e8ce42acf3992": 1789627496,
   "6f94a490ec48301a": 1789630519,
@@ -4799,7 +4811,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790072126,
- "last_msg_poll": 1790074764,
+ "last_msg_poll": 1790075073,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4841,7 +4853,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 19:59 KST",
+  "last_run": "2026-09-22 20:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
