@@ -128,248 +128,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "POWER Magazine",
-   "sc": 7,
-   "sec": "재생에너지·ESS",
-   "t": "Investment Grows for Storage, Renewable Energy Projects in Chile",
-   "ts": 1790136000,
-   "u": "https://www.powermag.com/investment-grows-for-storage-renewable-energy-projects-in-chile/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 8,
-   "sec": "재생에너지·ESS",
-   "t": "IRA-stimulated U.S. solar manufacturing capex to reach $12.2 billion by end 2026",
-   "ts": 1790087734,
-   "u": "https://www.pv-magazine.com/2026/09/22/ira-stimulated-u-s-solar-manufacturing-capex-to-reach-12-2-billion-by-end-2026/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "미주중앙일보",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "법무법인 세종, AI·데이터센터 통합자문 ‘AIDC 인프라센터’ 출범 - 미주중앙일보",
-   "ts": 1790066700,
-   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qUVlvdlFSLXhjc0xFYXNrc2tYWWhvSkl6QlVRdUdXcVZXZWJMM3UxNUx0Rk9raWtnWVNfdmFoVUtGaUs3ZVJmeUhDTGpON0d0YkNVSUlFUVhNR09qTzRHd2xB?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "인더스트리뉴스",
-   "sc": 4,
-   "sec": "데이터센터·AI전력",
-   "t": "LG에너지솔루션, 엔비디아 ‘DSX 레디’ 합류…AI 데이터센터 ESS 공략 - 인더스트리뉴스",
-   "ts": 1790066392,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5R3V0bUhHT09RR0Q2TzdDQVcyNVpCTkIzREJwRFJrSGpFWUZBbUNTVTZrODBNbkN6RmRZdmJ6d3N2OXFvdjNLSmYyWno0dDVnbFVXSm1EZXFRNXlqMzBQRnVUZ3dfTGpNZ2gwRWUzdHBtQQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 3,
-   "sec": "재생에너지·ESS",
-   "t": "Kenya backdates solar export charges by over a year",
-   "ts": 1790091000,
-   "u": "https://www.pv-magazine.com/2026/09/22/kenya-backdates-solar-export-charges-by-over-a-year/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 5,
-   "sec": "유틸리티·정책",
-   "t": "It’s time for utility bill reform",
-   "ts": 1790089200,
-   "u": "https://www.utilitydive.com/news/its-time-for-utility-bill-reform/829674/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "마켓인",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "“수도권 데이터센터, 크게 짓기 어렵다”…하남 물류센터의 ‘작은 변신’ - 마켓인",
-   "ts": 1790065739,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JcmcwMFlnLUxPdEgyT2RMcjJDYzM4RXpSTVRYU2s4aEp0TTZLdHVKX0FxRnJDbXNmQWF2bVRSMVI1a0FVUkE5a1A1NGh0d1Y5RGVibnJOSEpKR3lYUjRvVm9sMUNveTY0WlBjM2xzWjVOdw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "chosun.com",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG, MS와 데이터센터 중심 AI 파트너십 강화 - chosun.com",
-   "ts": 1790091180,
-   "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdkRGT2Z2WFJTZWM1Z191WEZuTW1kbHU2a1hxa1RSWXdIT3MxUkZwZ3E2Z2MxZGdXQTJxYjBCOTZaSEtzTE80TTdSdE5NdE1vOFEzMkNzTmt3NjNtbmoyMktaZWJ6TlBmYUJDcnNsM25tTUJibGlWdWpCRHlyNHVLNkVIaWFEbnBrSURLYmJGOA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "California tightens oversight of data center energy use, grid costs",
-   "ts": 1790088820,
-   "u": "https://www.utilitydive.com/news/california-tightens-oversight-of-data-center-energy-use-grid-costs/831037/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 9,
-   "sec": "원전",
-   "t": "원전 공론화위원회 구성···신규 원전 국민이 정한다",
-   "ts": 1790129455,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228514"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 15,
-   "sec": "재생에너지·ESS",
-   "t": "ESS 중앙계약시장 개설…육지 1100MW·제주 80MW",
-   "ts": 1790130676,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228515"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "더글로벌기빙뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, 엔비디아 2.5MW CDU 승인 …AI 데이터센터 냉각 '풀라인업' 완성 - 더글로벌기빙뉴스",
-   "ts": 1790079300,
-   "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByWEozeEpQX1pGU3Q5WU1xMFRoSjl6Sm5lWVV5eTgtQ3RNRmt1Q3pQU2prY1VNQUhuUFNGR0t5UGdBSy1JUmo4bWVtRk8xV2JMaGQxRA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "데일리스포츠한국",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "AI발 전력수요에 전력기기 수주 호조…빅테크 투자 수익화가 변수 - 데일리스포츠한국",
-   "ts": 1790076705,
-   "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiUm9reGllN0NTQ1JkcG1uRUFyR1BuZzduc0dUdWV3cXh5ZDZxaURjZnBsRUY4VjBUQVVKb1RnMHFRbFZIZ2R5TG96ZGxFOUt1bG0zVk1RTDF2V21CaDRxUzJ0S1Vpcmp0aTBGcmFDTVdhYW1ubm1CSjhSZ9IBf0FVX3lxTE90Qjh1NVRPVjFaMDh0MW12V1piMU40Z3pxdEZOTmdJRTIxbHYxUGpkeUJkMnRWQXk3UjdjT0VCMDI3aDlJaDNoWllOVURUWTItVlNrSEIyVUlXbXFmenMyVzIxaE56STdOdmM4czFhOUxmaU5ZdWN5dWhGODdhUk0?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "newsphere.kr",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "LS일렉트릭, 4족 로봇에 변압기 공장 순찰 맡긴다 - newsphere.kr",
-   "ts": 1790066041,
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NSlRoNFBPbVVjRGxlMVAzLWdXZEliYzlGMC1SMEdzMUVwMDVHM3J2emhXeVcyTFJhaVh4aVBhNnpDcExLc29OU2tEWTNNdXpUZGNlMlJ5dElxT2VpSEVLc2dYT01BdkND?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 9,
-   "sec": "원전",
-   "t": "3개월 원전 공론화 거쳐 12차 전기본 수립키로",
-   "ts": 1790137822,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334546"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 11,
-   "sec": "재생에너지·ESS",
-   "t": "1.18GW 3차 ESS 중앙계약시장 사업자 11월 윤곽",
-   "ts": 1790136000,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334545"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "donga.com",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터 수도권 쏠림에, 전력공급 심사도 ‘과부하’로 지연 - donga.com",
-   "ts": 1790105400,
-   "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81ZnBjRW05clZ6R3Z3NWkyZzB0dm1Ib3lhTGVIMm9WN0QxY09aSnVpUEtLc19Lc0hFdUZKN1BLYS0wZXhvZndTWUo0TWJ6S0VoOGN2VmdzZUZBSHNiWkhHU2lOX0pibTI5RURaQUVrd2w4WUhVR3fSAWZBVV95cUxNMF9yZmNrNVE3QjZaMVNpaWNBc2xwV3Q5aldBZF93dUFwcEZJNXBkaTUxaGFfbW9PZHlzX2JwcklGQUFxZld0cE5LazUzeXJMTlN6X0ZfSEh6MFhlWm44Q01ua19RaWc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "한국일보",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "지금도 127곳 '고객 준비 중'인데… 이 많은 데이터센터, 지을 수 있을까 - 한국일보",
-   "ts": 1790105400,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BOWhEeDFmZnhyMlRIVUpHNXV5V1hLejNaeWVYVXhpRUpVS2JqUU5ZclZiTW1QTDhCVmk4NkJmeWRlZFlqTHhjakU5b0pnS3VwV1gxNlFmME1lLVZJOE1XY2VfTl90Q1hwQ0FwYjB30gFzQVVfeXFMTm1zb005X1pEY0dZbjJTbndPdmp1LUVQQVJiVXdfa1dfaFZwY3YzLVZDNnFnMUZZc2tZS1RYSjZJYkh1VFRCWE1naFFZXzJrZUN5UXpfSXNSVF9yWVh5djN4cGkxYy13TDNpM3kzZjVSTzBfZw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "한국일보",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "줄여봤자 도루묵?… 데이터센터가 뿜는 온실가스 연간 1,225만톤 - 한국일보",
-   "ts": 1790105400,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IdnFPUzBGNGIyRVhFSlR5NTFtWF9WVGVDRW90RWtSY3ZvN3dEWFdKR21YTk1hWVhYTGRRSmVCdTlPX3BBU1R1eEh1eEl2QllPcEJ5cllwc0lMR0pHelBhYnp0a1FFcHdXallaVDFn0gFzQVVfeXFMTnRfWVY0Y3RGTUN4MXdPNzhIOW5Od2twaG8zSjNWYmpQbkdvNVh2X2ExUklEMUhZa1QtMXhKai1fOXliSk42SzFtMFpjYmYxNmRJbmxMdkxPTDdCTkRXNzhVakNCQWYzMHJJc3hyOF9abFdGNA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "한국일보",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "물 덜 쓰고 소음 막고... 데이터센터 기업들 주민 우려 달래기 - 한국일보",
-   "ts": 1790105400,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxQTNJUW9vd0xZaUoyY1NMQXdGVE1wLXdHSGVUd2pCVlFWR2R0YThPVWdwSElSamRwdjg2eWVXY3ozcFllUTNoZTlWNHVDNUNSWEdIRmM2NmlCMTZOcFg2SHFxRDNwZW1ab01KSEN30gFzQVVfeXFMTUd1dFdqd09CSjJQSzY2allVc0haUUp0bWpQY2syMThxal9NMVpTVVBHX0RWTU92SGo0M09RQktnc2E1MllEajQ0bHliUVBUQ0dBV1pDMjBDZ0xkdERWYXIyS0daX2YzSHNweU9QVnNiTE9LMA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 0,
-   "sec": "재생에너지·ESS",
-   "t": "전기화·수소·AI 총집결…이노트랜스 2026, 미래 철도기술 공개",
-   "ts": 1790143647,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372737"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 5,
-   "sec": "재생에너지·ESS",
-   "t": "이온어스, 日 대형 야외 페스티벌서 이동형 ESS 전력공급 실증",
-   "ts": 1790130749,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372769"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 11,
-   "sec": "데이터센터·AI전력",
-   "t": "한전기술, 트러스톤과 손잡았다…AI 데이터센터 PPA 공략",
-   "ts": 1790116978,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372764"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "경향신문",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "[논설위원의 단도직입]“데이터센터 계획, 절반이 허수일 듯…AI용 전력, 재생에너지로 한정을” - 경향신문",
-   "ts": 1790110800,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfWHo2d2M0VTFabTlKTWRpd2t0aHpOSnZFVEFOZTF4SzQ1TzdJX0EwNXdwNGI2QmlLLWdwaV92ZTV1YkwzaTJDN1phOElSWnk4bVVkS1kzU0VBUdIBX0FVX3lxTE10S245ODhpZzlITGdvbnRiY0dJcFF6aHBqZ0Fua3JRN09uWjlPZzRHNnY1LVV6TDhhOGk2WlNwSFhBQzcwRHVZbDFUSy1mLXBfRDZ4cmhFVVFfZUJybWw4?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00124ecf9177fec9": 1789953163,
@@ -2113,6 +1872,7 @@
   "5a75141261900410": 1790055317,
   "5a7f6a9aae565dca": 1790064758,
   "5a80b8a5da725af9": 1790038892,
+  "5a81037881be0ef0": 1790114467,
   "5a8a360652f1699f": 1789963516,
   "5a8cfa6b6198ef37": 1789716922,
   "5a9311bc43a688a5": 1789627496,
@@ -5060,8 +4820,8 @@
  },
  "companies_today": {},
  "day": "2026-09-23",
- "last_clip": 1790086574,
- "last_msg_poll": 1790114135,
+ "last_clip": 1790114467,
+ "last_msg_poll": 1790114719,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5103,7 +4863,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 06:55 KST",
+  "last_run": "2026-09-23 07:05 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
