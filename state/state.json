@@ -152,6 +152,16 @@
    "t": "LG엔솔, 엔비디아 DSX 레디 합류…AI 데이터센터 ESS 공략 - 뷰어스",
    "ts": 1790050536,
    "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NX1hlWFVWd0pGZ2xFMmIyR2ZRSHZZRWJBZmM2YXdEbElCSHRQeng4a0dNcHQ2WmZqZzVqbG1pSEhINTZnQXJ0aUZaSFpNZmNYZldiQU94R3E?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "엠투데이",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, 엔비디아 DSX 승인…AI 데이터센터 냉각 시장 정조준 - 엠투데이",
+   "ts": 1790049890,
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tSGt4a2VhaVNNSlIzT1c2ZUZOdEdJV1hfS0RXV2VLQVRHOW9RcC13OENSOTdRSDdYYmVPTFZtYWhVUlYxdnBUbUxjMjZ0VFFmX3NYMUdwSFpWWExiRGFtX0tySGRTZjdlNTdzYXN3QQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -433,6 +443,7 @@
   "1073060c113fb962": 1789627496,
   "107c21f6706bad5e": 1789959919,
   "10804c3f5e931a90": 1790041217,
+  "1083d3dbc1db59b4": 1790051416,
   "1090fabe75dee7b5": 1790001429,
   "10a023d2985b3f60": 1790040051,
   "10bcc96f6c5628ef": 1789693531,
@@ -658,6 +669,7 @@
   "1e41544205dec1c4": 1790047038,
   "1e4a3f0a24e6f385": 1789735230,
   "1e67abeaa877335d": 1789691718,
+  "1e78f46eb5880ed1": 1790051416,
   "1e818aa35c78f50e": 1790040620,
   "1e88f01a3809795f": 1789688716,
   "1e9e66d5358936d4": 1789873818,
@@ -4202,7 +4214,7 @@
  "companies_today": {},
  "day": "2026-09-22",
  "last_clip": 1790050216,
- "last_msg_poll": 1790051369,
+ "last_msg_poll": 1790051667,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -4244,7 +4256,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-22 13:29 KST",
+  "last_run": "2026-09-22 13:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
