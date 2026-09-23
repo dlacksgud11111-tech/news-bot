@@ -113,6 +113,14 @@
   [
    1790146150,
    "한전KPS, 인니 수력발전 지분 인수...해외 첫 재생에너지 투자"
+  ],
+  [
+   1790174131,
+   "FERC has options for modernizing PJM’s governance"
+  ],
+  [
+   1790174132,
+   "FERC has options for modernizing PJM’s governance"
   ]
  ],
  "alerted": {
@@ -120,6 +128,7 @@
   "0cfb56c86751e9ef": 1790035428,
   "1073060c113fb962": 1789629087,
   "12ac389b7fb194b2": 1789627494,
+  "283b50fd635c110a": 1790174131,
   "2a3c3b712db1cc14": 1790126759,
   "35913bf4ca2349fd": 1790079928,
   "3a7d7b5b8245dde0": 1789682430,
@@ -141,10 +150,22 @@
   "bc994ca12211ee69": 1789720222,
   "c949ac5c8aa7ae59": 1790131216,
   "ca425dae1bd2590b": 1790059817,
-  "cdaa54f68b0563fa": 1789658129
+  "cdaa54f68b0563fa": 1789658129,
+  "d09dd25c4f4edf8d": 1790174132
  },
- "alerted_today": 3,
- "clip_buffer": [],
+ "alerted_today": 5,
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 2,
+   "s": "utilitydive.com",
+   "sc": 0,
+   "sec": "유틸리티·정책",
+   "t": "FERC has options for modernizing PJM’s governance - utilitydive.com",
+   "ts": 1790174005,
+   "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcjRBNmlRZW4yOEotVGFiNzBJdkFQUFZ6QnYydTU0ZGRScDNpM0VhenFqa3NyTnBHd05QVF9UcTQtZFlJdG1aYXlFU1RnZ2Y2UGI4RTVSamszZlZYdVluVFhsNGRIcHpIakdfbFctZ0Zjcjh5cXctUFNyY25ubkFnRW91Q0cyNFJrbmdKWkN4NTI?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -993,6 +1014,7 @@
   "281a64f70a6c2d36": 1789692619,
   "2821b12599fbd811": 1789634416,
   "282882c9ed820e49": 1789951988,
+  "283b50fd635c110a": 1790174133,
   "2857eb661e757033": 1790105718,
   "285c94aaaad1af46": 1789971183,
   "2862862ed04d9acb": 1789742325,
@@ -4460,6 +4482,7 @@
   "d0956e72214dc9d4": 1789718720,
   "d0999c7208d67a7f": 1789951430,
   "d09b1e7726ee4251": 1790065327,
+  "d09dd25c4f4edf8d": 1790174133,
   "d09ef47e8fa53950": 1789859418,
   "d0a73f988cbc2e87": 1789634116,
   "d0b2df3b48808993": 1790145582,
@@ -5435,7 +5458,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790173519,
- "last_msg_poll": 1790174065,
+ "last_msg_poll": 1790174372,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5477,7 +5500,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 23:34 KST",
+  "last_run": "2026-09-23 23:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
