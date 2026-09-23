@@ -204,6 +204,16 @@
    "t": "기후⑦ \"우리 마을엔 안 돼\" 신흥국으로 향하는 데이터센터…또 기후 불평등 - v.daum.net",
    "ts": 1790161241,
    "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11R09IeDJVU3E5TVZqT0dYM3kyNTFieS1Pejc5RFNQSFp1N3JqMXg4TmhLX0FzMXgwZC0zOWNZV3ZKMVpCaWdOSWFtM29NT2M?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 3,
+   "sec": "재생에너지·ESS",
+   "t": "Ukraine adds 1.1 GW of solar in H1",
+   "ts": 1790163551,
+   "u": "https://www.pv-magazine.com/2026/09/23/ukraine-adds-1-1-gw-of-solar-in-h1/"
   }
  ],
  "clip_titles": [],
@@ -421,6 +431,7 @@
   "0ae9086349ab7475": 1789951430,
   "0aeab31aa481fbbe": 1789953163,
   "0aec1983a7dcee06": 1789715428,
+  "0afa2a625ca2f47f": 1790163629,
   "0b0f2bb392a6c38e": 1789948225,
   "0b1452b2c059ec6a": 1789627496,
   "0b31c912a2c39e87": 1789648519,
@@ -2203,6 +2214,7 @@
   "5d11f73125fce4da": 1790123718,
   "5d16537d74f17597": 1789630519,
   "5d1ca60d2b344587": 1789787432,
+  "5d2a57bbab2c4fe4": 1790163629,
   "5d31a3bb3fc1e0b3": 1789714220,
   "5d3596165d47a56d": 1789959919,
   "5d3b0d76feb31657": 1789627496,
@@ -4409,6 +4421,7 @@
   "cbb1a67640909415": 1789693814,
   "cbbc590d663a5a1e": 1789710788,
   "cbe57ef3a6cfbad8": 1789873818,
+  "cc0d3ccfb73cd155": 1790163629,
   "cc198df9c46aa33a": 1790147295,
   "cc248a56d1c6fb2c": 1789627496,
   "cc30132a7c50ad38": 1789784719,
@@ -5477,7 +5490,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790158556,
- "last_msg_poll": 1790163574,
+ "last_msg_poll": 1790163877,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5519,7 +5532,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 20:39 KST",
+  "last_run": "2026-09-23 20:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
