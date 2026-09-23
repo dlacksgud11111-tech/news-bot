@@ -229,6 +229,26 @@
    "t": "\"AI 전력난에 가속화되는 中SMR·핵융합 기술\" - edaily.co.kr",
    "ts": 1790134704,
    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcm9KUGdLeVNvTzFwNzUyZEl4V01FdzB1ek03Y19FWV91RmljeHlqWS1OVG5uOVNkMWh0MzBUX0RnVkxjUzAyWE85WVpHdFZjSGJDUkZUcTh1bkFhNmZ0ZHJoTHdFS1g4SW1QVldiaThWRE5OdlkyYzNnN0I4d2Q2MA?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "에너지경제신문",
+   "sc": 8,
+   "sec": "데이터센터·AI전력",
+   "t": "[LS 구자은의 AI 승부] AI데이터센터 전력 팔고, 공장에는 로봇 투입 - 에너지경제신문",
+   "ts": 1790127675,
+   "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PRFNrWXpsT3NjeVowWlJqNVMyaUc1Q0xvU01HUWVjRmtrVUhVaHRON2tibFB4TzBZMmJmNXZrbU1jVVhsRmxHV1Q1NDhJMkJNZ0JKSmtQNjlPWms?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "[단독]데이터센터 전력공급 심사 지연…37%가 반년 이상 기다려 - v.daum.net",
+   "ts": 1790056670,
+   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KRzhia3Y0dThRX19TUVFGX21MaWVqT3pSMWtreDloQ05DUXliTE5VN0htdVRZR2VjV19rTWlZSUFNTW1YS1ctZ3RQaGxkUHdwaGhkVkJ3b09LUjFr?oc=5"
   }
  ],
  "clip_titles": [],
@@ -800,6 +820,7 @@
   "1c68f85fc8ecce65": 1789627496,
   "1c6ad39bc0ce4c60": 1789976420,
   "1c6b3c88974ba30a": 1789691116,
+  "1c709d1faa406df2": 1790135717,
   "1c9b7e9a0e928fbe": 1790124315,
   "1c9d8400f2df8dc6": 1789973468,
   "1cf7c4897eecc333": 1789713633,
@@ -1599,6 +1620,7 @@
   "41ccb6636c9115ec": 1789632918,
   "41d27270ffadc249": 1789698990,
   "41d5043f20a440a7": 1789627496,
+  "41e24803ebf30f3c": 1790135717,
   "4202c0ed6300d2aa": 1790053820,
   "420bc8105dfe0280": 1789951988,
   "42129bd7b56cb5b9": 1789954905,
@@ -2909,6 +2931,7 @@
   "8506886a01088b71": 1790054715,
   "852223dfb55a9dcd": 1789689915,
   "852a8fab3871585c": 1790125530,
+  "852ae50fc5851c38": 1790135717,
   "852bf2fef365baef": 1789983921,
   "852ff64543eef161": 1789693531,
   "853a9702d14a9c77": 1790120847,
@@ -4215,6 +4238,7 @@
   "ca285d5945db3a8e": 1790123718,
   "ca2acc7f7325e8f9": 1790038892,
   "ca2fbca2aabd8c3a": 1789867182,
+  "ca352a022cd6b733": 1790135717,
   "ca35bb91d3eff77b": 1790040051,
   "ca37f2c43906957b": 1789871205,
   "ca425dae1bd2590b": 1790059817,
@@ -5271,7 +5295,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790129427,
- "last_msg_poll": 1790135678,
+ "last_msg_poll": 1790135960,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5313,7 +5337,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 12:54 KST",
+  "last_run": "2026-09-23 12:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
