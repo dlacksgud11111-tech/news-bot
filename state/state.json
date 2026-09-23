@@ -164,6 +164,16 @@
    "t": "FERC has options for modernizing PJM’s governance - utilitydive.com",
    "ts": 1790174005,
    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcjRBNmlRZW4yOEotVGFiNzBJdkFQUFZ6QnYydTU0ZGRScDNpM0VhenFqa3NyTnBHd05QVF9UcTQtZFlJdG1aYXlFU1RnZ2Y2UGI4RTVSamszZlZYdVluVFhsNGRIcHpIakdfbFctZ0Zjcjh5cXctUFNyY25ubkFnRW91Q0cyNFJrbmdKWkN4NTI?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "더구루",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "EU, 데이터센터 전력·물 사용량 공개 의무화 추진 - 더구루",
+   "ts": 1790175657,
+   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yM2kySUNJUzA5U2lXN251czBvZk50ZExCS0lqc0dHVTJuM3VtVjlYNzc5bkkxZEpQVDVaNW1qdkNjcUViTUM3ZmtYRkhwNXBzRjlzUURXUlE5SUppclVsMQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2776,6 +2786,7 @@
   "7c5e48b949d27df3": 1790136320,
   "7c5f542b01dbe4a1": 1790006722,
   "7c6a5f86c5672d60": 1790147295,
+  "7c6c0dec74e9f188": 1790175921,
   "7c7397e54407dd2d": 1789709642,
   "7c77e8c4ce07e34a": 1790125822,
   "7c7c44e75c3e3b28": 1789954905,
@@ -3244,6 +3255,7 @@
   "93b1856a8108daa6": 1789627496,
   "93ca8224e0343239": 1790166328,
   "93d37fb98b836859": 1789627496,
+  "93d91077f282aaae": 1790175921,
   "93dcc87ee0b723f0": 1790062459,
   "93f05ec3e69aa8cd": 1789942522,
   "93fcac4a3c35969a": 1790003117,
@@ -3705,6 +3717,7 @@
   "aacfbcca8338f14f": 1789868332,
   "aacfcd18a0450cb2": 1789713065,
   "aad19edb2c66099f": 1790166328,
+  "aaf0709fe976619a": 1790175921,
   "ab01a24932f063ed": 1790111621,
   "ab0f79888468ebc2": 1789769417,
   "ab1f185b91bfd2db": 1790150725,
@@ -4383,6 +4396,7 @@
   "cb8aa82329390b1e": 1789956616,
   "cb91179d86bf4929": 1790122002,
   "cba8f41c7e3a3526": 1789851916,
+  "cba90ab8907f9e09": 1790175921,
   "cbb1a67640909415": 1789693814,
   "cbbc590d663a5a1e": 1789710788,
   "cbe57ef3a6cfbad8": 1789873818,
@@ -4756,6 +4770,7 @@
   "ddeaa3880fec78a1": 1790070922,
   "ddf15cb71fc3bf2c": 1790038311,
   "ddfbfbc9e7b4121f": 1789705221,
+  "de096ddc424ffcbb": 1790175921,
   "de1bc27084e33277": 1789627496,
   "de2a1a0750ce14d1": 1790031917,
   "de2a9ab649f8db17": 1789959919,
@@ -5459,7 +5474,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790173519,
- "last_msg_poll": 1790175868,
+ "last_msg_poll": 1790176168,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5501,7 +5516,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 00:04 KST",
+  "last_run": "2026-09-24 00:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
