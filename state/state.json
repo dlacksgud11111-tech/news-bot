@@ -319,6 +319,16 @@
    "t": "美 데이터센터 발주 폭주에 日 미쓰비시중공업 가스터빈 수주 '사상 최고치' - 글로벌이코노믹",
    "ts": 1790198100,
    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZkpUQUg5X3hwU0hrdU5NODVZYU5BVFFWWHNkOWFCLVROb3hyclFYN1BpWVg4SlhhNGtfTmxEVldQWnJTSktWcVBRckZmRHNKTXBHejJFNVh4bEJFTE50TlpSV3pDaHhUd25ONGx5S1I1NGxzRjF1bFR2NW1YRktuVC14RjZOQVZG?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "IndexBox",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "2035년 데이터센터 변압기 시장: AI 전력 밀도가 성장 견인 - 뉴스 및 통계 - IndexBox",
+   "ts": 1790196665,
+   "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeU5pRFJkQ0xkVkRDdkZWbkhOc0VybW1WdzRpLWU0dzdYT0JMMFFkRlluaGlKNkg3RGNoMjFEQXA2VFVTZHFQUjVjMGpWbUZlbHlyYTlSaXg1bUowWGx3VnR0N2pHdE9WcEtFMDJtOUtZTWJlSUgwX3FkWGt6azRtbUJtY2RXVndOaWFkTFNkaHdZUDFUT0U4NzhqeTFHbFZNU1RBdXp5T3l5NGkxNGNoTQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3373,6 +3383,7 @@
   "908d4edd5530afb1": 1789627496,
   "909e500fc6754beb": 1789634116,
   "90a652356173bdc3": 1790142019,
+  "90aa32951667fb78": 1790199690,
   "90bb9ccc29dc8a00": 1789945362,
   "90c2b72335984006": 1789695321,
   "90c58901417e0140": 1789627496,
@@ -5648,6 +5659,7 @@
   "ff36fda73c996eb6": 1789872360,
   "ff42fff2cf9857d9": 1789683319,
   "ff4a45035276b435": 1789969411,
+  "ff5eedbde781bb37": 1790199690,
   "ff5f179a6ff527c6": 1789627496,
   "ff642c0a652b30aa": 1790124028,
   "ff68f917e952cf9e": 1789627496,
@@ -5663,7 +5675,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790173519,
- "last_msg_poll": 1790199355,
+ "last_msg_poll": 1790199940,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5705,7 +5717,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 06:35 KST",
+  "last_run": "2026-09-24 06:45 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
