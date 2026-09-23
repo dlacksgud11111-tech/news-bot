@@ -144,38 +144,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 3,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 0,
-   "sec": "재생에너지·ESS",
-   "t": "김홍철 가스안전公 기술이사, 포항 수소충전소 특별점검",
-   "ts": 1790198291,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334582"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Blue wafers are fundamentally undermining U.S. solar manufacturing",
-   "ts": 1790166908,
-   "u": "https://www.pv-magazine.com/2026/09/23/blue-wafers-are-fundamentally-undermining-u-s-solar-manufacturing/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Sahi",
-   "sc": 16,
-   "sec": "전력기기",
-   "t": "Accord Transformer & Switchgear Secures ₹20.02 Crore Wind Transformer Order For Bhuj Project - Sahi",
-   "ts": 1790171338,
-   "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEJtb3FaVG1UeHFlT1NnOTY5dUxCekFXR0otTTd6WjV0OGZmSVFaalg4THpvNkZKOUlnN1Jac1kxTHlBa0x2Wm5LSFBreUpIT1I4MU83MlBydENCUkdYRGNnZzVqUTNnU0hpZlg5N3ZvX0I5dmdPblE4SWg3cWZid05lcXllRDdmLVNPWnZLbDZVY2ZhZFNYeGZKbUhWUU9hMERxZmtGSmNYS0VHRHpHa2RkNjYxQQ?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -5464,8 +5433,8 @@
  },
  "companies_today": {},
  "day": "2026-09-23",
- "last_clip": 1790166018,
- "last_msg_poll": 1790173463,
+ "last_clip": 1790173519,
+ "last_msg_poll": 1790173770,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5507,7 +5476,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 23:24 KST",
+  "last_run": "2026-09-23 23:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
