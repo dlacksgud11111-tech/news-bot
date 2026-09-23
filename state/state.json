@@ -229,6 +229,26 @@
    "t": "단독 지금도 127곳 '고객 준비 중'인데… 이 많은 데이터센터, 지을 수 있을까 - 한국일보",
    "ts": 1790105400,
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BOWhEeDFmZnhyMlRIVUpHNXV5V1hLejNaeWVYVXhpRUpVS2JqUU5ZclZiTW1QTDhCVmk4NkJmeWRlZFlqTHhjakU5b0pnS3VwV1gxNlFmME1lLVZJOE1XY2VfTl90Q1hwQ0FwYjB3?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 5,
+   "sec": "재생에너지·ESS",
+   "t": "Solex Energy confirms plans to build 5.2 GW solar cell factory in India",
+   "ts": 1790140324,
+   "u": "https://www.pv-magazine.com/2026/09/23/solex-energy-plans-5-2-gw-solar-cell-5-gwh-bess-capacity-by-fy29/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "ajunews.com",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "[핫타임] LS에코에너지, 데이터센터 확산으로 수혜 기대…7%대 강세 - ajunews.com",
+   "ts": 1790140034,
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ySDFJaXpjVm9hN3FZRTMyOVRxQmE0Vm9PX2VtZTRSendtRkxfQy1mTmZPNHFyeXIwMEVxbHR2UzBydGI4dnFPWVAwXzZZTFc2bVljVjJhV0ZEd9IBWEFVX3lxTE94Y291WVJlQzM0Q0V4cElRVXZTZnBKR3NNWTlDTjRVTU00bzdPV0FEenRRaVNpYzZ4MUFIUE96SXd2a2Z1cHdWTVprckJ0UHYxc0dYandWSUw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -4513,6 +4533,7 @@
   "d6932c0edb766ec6": 1789971751,
   "d69cd4008da9156f": 1790001429,
   "d6a646ddc2abc41f": 1789950278,
+  "d6aaeea53d7bd179": 1790140529,
   "d6ad35236fb8348d": 1789699582,
   "d6ae15ca1e80a423": 1789718720,
   "d6c10c1a44e48f14": 1790006722,
@@ -4661,6 +4682,7 @@
   "dea208043c1c7819": 1789635327,
   "dea4ac114188807e": 1789627496,
   "deaffe85e1810d9d": 1790044106,
+  "debebc1172b0174e": 1790140529,
   "dece5565e6773f0e": 1790060129,
   "ded38c69e30dd788": 1790042975,
   "dedc89d338c0837d": 1789635327,
@@ -5151,6 +5173,7 @@
   "f71318736637fc73": 1789700729,
   "f71bcbcf390ec37a": 1790039473,
   "f7208d4f263d547c": 1789629088,
+  "f721e98419ac3827": 1790140529,
   "f72ee919c4e9292a": 1790073620,
   "f7341d5e7e784ac6": 1789977915,
   "f73d1e17e9e6d0ce": 1789958121,
@@ -5324,7 +5347,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790136631,
- "last_msg_poll": 1790140462,
+ "last_msg_poll": 1790140778,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5366,7 +5389,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 14:14 KST",
+  "last_run": "2026-09-23 14:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
