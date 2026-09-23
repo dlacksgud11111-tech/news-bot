@@ -184,6 +184,16 @@
    "t": "Modified consumer camera can measure solar cell open-circuit voltage",
    "ts": 1790159417,
    "u": "https://www.pv-magazine.com/2026/09/23/modified-consumer-camera-can-measure-solar-cell-open-circuit-voltage/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 4,
+   "sec": "전력기기",
+   "t": "Meta plans Petal, the first transoceanic subsea cable at petabit capacity",
+   "ts": 1790159712,
+   "u": "https://www.datacenterdynamics.com/en/news/meta-plans-petal-the-first-transoceanic-subsea-cable-at-petabit-capacity/"
   }
  ],
  "clip_titles": [],
@@ -968,6 +978,7 @@
   "258a4efa5b8ac6e0": 1789718720,
   "259a2da7441ff646": 1789629088,
   "259b43167d931dec": 1789954327,
+  "25a6ebc1abe54193": 1790160017,
   "25abb1641d367150": 1789723222,
   "25bd326cbce6f1f1": 1790030116,
   "25d2783dddb19c3d": 1789724997,
@@ -5452,7 +5463,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790158556,
- "last_msg_poll": 1790159962,
+ "last_msg_poll": 1790160262,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5494,7 +5505,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 19:39 KST",
+  "last_run": "2026-09-23 19:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
