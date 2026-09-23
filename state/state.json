@@ -121,6 +121,10 @@
   [
    1790174132,
    "FERC has options for modernizing PJM’s governance"
+  ],
+  [
+   1790178324,
+   "FERC rejects ComEd’s cancellation of PowerHouse Hillwood data center contract"
   ]
  ],
  "alerted": {
@@ -146,6 +150,7 @@
   "99e9e19b28cb6dd8": 1789694435,
   "a1ef802b6a371af0": 1790044106,
   "a35a79d408f8ec9f": 1789627493,
+  "ac3bc53c08c10704": 1790178324,
   "accda29e47d0d212": 1789627489,
   "bc994ca12211ee69": 1789720222,
   "c949ac5c8aa7ae59": 1790131216,
@@ -153,7 +158,7 @@
   "cdaa54f68b0563fa": 1789658129,
   "d09dd25c4f4edf8d": 1790174132
  },
- "alerted_today": 0,
+ "alerted_today": 1,
  "clip_buffer": [
   {
    "co": "",
@@ -184,6 +189,16 @@
    "t": "California governor signs seven-bill package targeting data center energy and water use",
    "ts": 1790177558,
    "u": "https://www.datacenterdynamics.com/en/news/california-governor-signs-seven-bill-package-targeting-data-center-energy-and-water-use/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "FERC rejects ComEd’s cancellation of PowerHouse Hillwood data center contract",
+   "ts": 1790171155,
+   "u": "https://www.utilitydive.com/news/ferc-exelon-comed-powerhouse-hillwood-data-center/831127/"
   }
  ],
  "clip_titles": [],
@@ -3754,6 +3769,7 @@
   "ac03d52123dff67f": 1789627496,
   "ac204d9989416a46": 1789965314,
   "ac37df33236657d2": 1789629088,
+  "ac3bc53c08c10704": 1790178324,
   "ac481f21c0f1f1f7": 1789713633,
   "ac5a70589a969a14": 1790123718,
   "ac796b5352c44073": 1789958121,
@@ -5488,7 +5504,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790173519,
- "last_msg_poll": 1790178260,
+ "last_msg_poll": 1790178568,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5530,7 +5546,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 00:44 KST",
+  "last_run": "2026-09-24 00:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
