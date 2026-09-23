@@ -139,238 +139,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 2,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 5,
-   "sec": "재생에너지·ESS",
-   "t": "문무바람, 국내 7개사와 공급망 협력...韓-스웨덴 해상풍력 협력 확대",
-   "ts": 1790164781,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372782"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴스핌",
-   "sc": 0,
-   "sec": "전력기기",
-   "t": "[GAM]굴뚝 기업 허벨 AI 기대주 변신 ① 데이터센터-그리드 현대화 주축 - 뉴스핌",
-   "ts": 1790136613,
-   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iSWZ0R3FYejNjY1ZkNFhCcjhxalpBQzJOS0dOMlg0UFlrclVQaEJUeVNrdExMSG9SckNBOFhCRTNtbEt4WlRrOW9qaVFuZ3Y4NGdWZ1doX0x0MU96?oc=5"
-  },
-  {
-   "co": "ABB",
-   "n": 1,
-   "s": "기계신문",
-   "sc": 10,
-   "sec": "데이터센터·AI전력",
-   "t": "ABB, AI 데이터센터 전력 수요 대응 직류 솔루션 ‘인피니투스’ 출시 - 기계신문",
-   "ts": 1790124476,
-   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3VVRLdlptY2ZFOXhjajV6bnpDbmFRblB4dWdkbklkcExORU5FODM0TmlEcUEyNUt1VjZXV3Y4c1F5Q3R5bzZGNUZ3c0FKMnV3T3hrZXRBWnBIbEtGUFg1Z0JwY3NDVmc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "[단독]데이터센터 전력공급 심사 지연…37%가 반년 이상 기다려 - v.daum.net",
-   "ts": 1790056620,
-   "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fNW9LeW92QzZNc1U4MWdKTS1jeWJvMG9sSEI3Z2ZNbHQ2LVItVWVBSlVjbmdqZmpXZEQ2c05EcHc2dUxfZ2E5MGZ1dEtucm9aTjJsMQ?oc=5"
-  },
-  {
-   "co": "한전KPS",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 15,
-   "sec": "유틸리티·정책",
-   "t": "한전KPS, 인니 수력발전 지분 40% 인수…해외 재생e 첫 투자",
-   "ts": 1790137379,
-   "u": "https://www.etnews.com/20260923000155"
-  },
-  {
-   "co": "ABB",
-   "n": 1,
-   "s": "에너지데일리",
-   "sc": 16,
-   "sec": "전력기기",
-   "t": "AI 랙 전력 1MW 시대 대비…ABB, 800V DC 데이터센터 전력망 승부 - 에너지데일리",
-   "ts": 1790138590,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPV2NwRm45X0FrcUhWNEtVNnoxV05HVWtBM0psQnRfTjhTU09yRldINWZFN1YtYm9LcU1fWEUwYndnZWJxNUVJYXZoYmVsRWxpbDBCZUZTX3RtbmRJNVd6dUtZX1hFdjRNc0ZsdjlTZDZLZw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "서울파이낸스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "구글, 오스트리아 크론스토르프 데이터센터 건설…주민들 “물 사용·투명성 우려” 반발 - 서울파이낸스",
-   "ts": 1790138215,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6QUc2WHkyMFVmczNFNmR3M3lKelJ1RlY4WkNuazVBRkxDQnlqd3RyaG9sYUJ6OVY5TUZTXzBLOE9kUXNqM3Z5TFRndUVqMUZ2UzhVODhOaGRlSUo5NVc3T3gyYXU4bTFzLXc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일신문",
-   "sc": 8,
-   "sec": "데이터센터·AI전력",
-   "t": "--AI 데이터센터가 키운 ESS 시장…대구경북 양극재 기업 LFP 수주 확대 - 매일신문",
-   "ts": 1790139901,
-   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PeUVwNkxLLWNoRGNRbm9aYlVDNzdydTFidGgwN3l6Q1MxNzRPU1MwbzdGYnpZWEVQem9zQmZQMVVIdi1Ya2MzOEJzRVVVZDlVanUwRTdORjZOLTJISGJHWi13?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "한국일보",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "단독 지금도 127곳 '고객 준비 중'인데… 이 많은 데이터센터, 지을 수 있을까 - 한국일보",
-   "ts": 1790105400,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BOWhEeDFmZnhyMlRIVUpHNXV5V1hLejNaeWVYVXhpRUpVS2JqUU5ZclZiTW1QTDhCVmk4NkJmeWRlZFlqTHhjakU5b0pnS3VwV1gxNlFmME1lLVZJOE1XY2VfTl90Q1hwQ0FwYjB3?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 5,
-   "sec": "재생에너지·ESS",
-   "t": "Solex Energy confirms plans to build 5.2 GW solar cell factory in India",
-   "ts": 1790140324,
-   "u": "https://www.pv-magazine.com/2026/09/23/solex-energy-plans-5-2-gw-solar-cell-5-gwh-bess-capacity-by-fy29/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "ajunews.com",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "[핫타임] LS에코에너지, 데이터센터 확산으로 수혜 기대…7%대 강세 - ajunews.com",
-   "ts": 1790140034,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ySDFJaXpjVm9hN3FZRTMyOVRxQmE0Vm9PX2VtZTRSendtRkxfQy1mTmZPNHFyeXIwMEVxbHR2UzBydGI4dnFPWVAwXzZZTFc2bVljVjJhV0ZEd9IBWEFVX3lxTE94Y291WVJlQzM0Q0V4cElRVXZTZnBKR3NNWTlDTjRVTU00bzdPV0FEenRRaVNpYzZ4MUFIUE96SXd2a2Z1cHdWTVprckJ0UHYxc0dYandWSUw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "한국일보",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "AI 데이터센터 경쟁, 칩 다음은 전력망… \"2028년부터 전력 병목\" - 한국일보",
-   "ts": 1790139600,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MMXYxTGFOOHF0Um45Sk9OMkhUSlR5ZzdDWThWZFRTaFlFQXZZSWZZaEptSV93cVRzVjkwZ0dzR1JfYWkxMzJHRlNvRURvQnFkTnNQQjgzYlk0VG9BN1VteXJMYkY4RXp0d2RvWS1B0gFzQVVfeXFMT3AzLWdHNGlvMHV2Z3VBdl9ZTFV2M2daVEF2OHotYlR0bDh3a215WFZTQzh5VmxBbm5pcWtIWHpBRks0cFlBZEdoWVpyZV8tbEd2dWt5dVd5UVlKOVVlLXBoTURESy1EeEdOd0VzazRYVDNEWQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 5,
-   "sec": "재생에너지·ESS",
-   "t": "충남TP, ‘대한민국 에너지대전’서 신재생에너지 홍보",
-   "ts": 1790173422,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228546"
-  },
-  {
-   "co": "한전KPS",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 20,
-   "sec": "유틸리티·정책",
-   "t": "한전KPS, 인니 수력발전 지분 인수...해외 첫 재생에너지 투자",
-   "ts": 1790165067,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303470"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 5,
-   "sec": "재생에너지·ESS",
-   "t": "금강수계위, 재생에너지 보급 등 특별지원사업 선정",
-   "ts": 1790163331,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303469"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 1,
-   "sec": "유틸리티·정책",
-   "t": "지역난방公, 자회사와 상생협력… 공동 경영가치 실현",
-   "ts": 1790161127,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303462"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "Greece awards €8.15 million for 49.3 MWh of storage linked to C&I solar",
-   "ts": 1790141455,
-   "u": "https://www.pv-magazine.com/2026/09/23/greece-awards-e8-15-million-for-49-3-mwh-of-storage-linked-to-ci-solar/"
-  },
-  {
-   "co": "ABB",
-   "n": 2,
-   "s": "에너지신문 - 전체기사",
-   "sc": 7,
-   "sec": "전력기기",
-   "t": "AI서버 전력밀도 높아지자...ABB, 데이터센터 직류배전 공략",
-   "ts": 1790173981,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228547"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "톱데일리",
-   "sc": 14,
-   "sec": "전력기기",
-   "t": "조현준의 '전력기기 베팅' 결실…효성중공업, 매출·이익 '퀀텀점프' - 톱데일리",
-   "ts": 1790141700,
-   "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uaDZmbGJNQnJTQU41bDJnYUNJeGZYc3ZjdDlUQkJzT0lOYkdBRGR1LVNSaXZ1UzJzVFlfSWFVMUpDX2R5TkFCVUJfOU9wM0Vy?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "데이터투자",
-   "sc": 12,
-   "sec": "데이터센터·AI전력",
-   "t": "HT로보틱스, 수주잔고 1조 넘어서나··글로벌 빅테크 AI데이터센터 공급망 올라탔다 - 데이터투자",
-   "ts": 1790138022,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TNHZrcEhGQlZGTmlTOUVYX0dyYS10QndGQXEtazdBRjRQMU5KTmo1R1ZyR2M3N1Q2NXBWcTFNeGM4YnU1aFVUQ1hYOEFpeTRETmdyVm9fUmZxS01kWHhRdHhjcE5QWGtiOGtrejFPem5pdw?oc=5"
-  },
-  {
-   "co": "한전KPS",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 14,
-   "sec": "유틸리티·정책",
-   "t": "한전KPS, 인니 수력 주주된다...해외 재생E 첫 지분투자",
-   "ts": 1790174991,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228550"
-  },
-  {
-   "co": "ABB",
-   "n": 1,
-   "s": "elec4",
-   "sc": 10,
-   "sec": "데이터센터·AI전력",
-   "t": "ABB, AI 데이터센터 전력 인프라 재편 이끄는 통합 DC 솔루션 발표 - elec4",
-   "ts": 1790142602,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SejZQa3gySjFXRmh4d3I3VlJ2WVRabmxSbWdDVGZNXzZRRTduYlFGdmpKTENYYnFKcFhQUGIwbVJFQ0tnOE9nYmxmZ3lUNXZka01idmtoaXA4QnpfV0FfRVFvajNvNk11ajhNSmtR?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "더구루",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "美 텍사스, 전력망 감사 완료까지 신규 데이터센터 인허가 전면 중단 - 더구루",
-   "ts": 1790121841,
-   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55ZWxBaXkwdUlSRVc5WnJFcUV4UmdJeGhCcnE2d1JsMGFJYVVQb1JnbFZxRmUzb0xLNjJLSjcwU1NnR1lhNmYwbWlUT0hVLXVJRklMUlI5ZllHd2JnVWcyMlp1MA?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -3851,6 +3620,7 @@
   "ac90b967d8205ca9": 1790008517,
   "acaad25acda4e1c2": 1789894218,
   "acb103dae7115fab": 1789980020,
+  "acb5d914d8588370": 1790144115,
   "acc74a7c1cd118a6": 1789958121,
   "acc8a7ab84ecd7ca": 1790037737,
   "accda29e47d0d212": 1789627496,
@@ -4304,6 +4074,7 @@
   "c265d7aada754dec": 1789720817,
   "c273cfe7ba4af81b": 1789686930,
   "c28bc5fa945b32ed": 1790065913,
+  "c297d249a683569f": 1790144115,
   "c29c948ef1a999e3": 1789627496,
   "c2a60a92e62e0bef": 1789638316,
   "c2c0e0e1cb6ab97d": 1789792532,
@@ -5521,8 +5292,8 @@
  },
  "companies_today": {},
  "day": "2026-09-23",
- "last_clip": 1790136631,
- "last_msg_poll": 1790144077,
+ "last_clip": 1790144115,
+ "last_msg_poll": 1790144365,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5564,7 +5335,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 15:14 KST",
+  "last_run": "2026-09-23 15:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
