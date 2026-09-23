@@ -194,6 +194,16 @@
    "t": "Abbott halts new Texas data center permits pending ERCOT audit",
    "ts": 1790153368,
    "u": "https://www.datacenterdynamics.com/en/news/abbott-halts-new-texas-data-center-permits-pending-ercot-audit/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "Negative electricity prices could favor thermal storage over industrial heat pumps",
+   "ts": 1790154969,
+   "u": "https://www.pv-magazine.com/2026/09/23/negative-electricity-prices-could-favor-thermal-storage-over-industrial-heat-pumps/"
   }
  ],
  "clip_titles": [],
@@ -3081,6 +3091,7 @@
   "8ab25c7a15b1e233": 1789949716,
   "8ad9f7a9e5b00545": 1789692920,
   "8aefed61b4b46ca3": 1790056218,
+  "8b0a5098bf01fa21": 1790155228,
   "8b22245b76182e37": 1789967119,
   "8b24301336e2ec18": 1789693531,
   "8b6589b0156277f4": 1789627496,
@@ -3532,6 +3543,7 @@
   "a28dc36ed77d8c31": 1789715119,
   "a2900f8786760a75": 1789951430,
   "a2b4658f28a75652": 1789863399,
+  "a2b70046e649301a": 1790155228,
   "a2bc00eea001c4c4": 1790037157,
   "a2c9f9fab03cdfb8": 1790055317,
   "a2d2911229ef9812": 1789956616,
@@ -5442,7 +5454,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790151317,
- "last_msg_poll": 1790155165,
+ "last_msg_poll": 1790155469,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5484,7 +5496,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 18:19 KST",
+  "last_run": "2026-09-23 18:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
