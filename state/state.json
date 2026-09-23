@@ -234,6 +234,16 @@
    "t": "[ESS로 옮겨간 배터리 전쟁④] 563MW 시험대…K-ESS 승부처는 ‘통합 운영’ - 산업종합저널",
    "ts": 1790136993,
    "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4eDRNd19xc1RTc2RBNkdZZlBIdlhfVWNacmJ5dExFUEg1SkJRTmlVSDhXZ1NlbVZtLWFaLTNpX2NzaHZHY3RDTDEyZTBSOFlvRG5r?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터 전력 대란…모건스탠리가 짚은 수혜주는? - v.daum.net",
+   "ts": 1790064362,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1taW1UMmJzeXdrb2xYdEdyREFWSkJZNkVGUVc4NGdsZnN6VE1rWUF3Z0xWbkQwYVBza0tRVHIxRUZmekhzSE9Fb05QZkZVLWc?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2249,6 +2259,7 @@
   "5e98605deee3b909": 1790124922,
   "5ec1948d7c8ee83c": 1790022328,
   "5ec4e32a732ee9a3": 1789637120,
+  "5ed05f6cd99199c1": 1790150165,
   "5edbfff4b1148b1a": 1789629088,
   "5ee0acae28846174": 1789627496,
   "5eff431bd98a8c24": 1790061882,
@@ -2696,6 +2707,7 @@
   "76aa2d8a91196097": 1789627496,
   "76aabc2c0e3ec1ce": 1789627496,
   "76d2a70bd7a268c1": 1789974322,
+  "76d513953bc5c1ac": 1790150165,
   "76e2e0902ad2e332": 1790037737,
   "76ebec183f5c50c5": 1790067063,
   "76ec54200edb8f3c": 1789629088,
@@ -2822,6 +2834,7 @@
   "7cc34ce63721b462": 1789627496,
   "7cc8203a8e96c931": 1789702817,
   "7cc8425a2f5fd910": 1789980916,
+  "7cd0cfab18e6ef17": 1790150165,
   "7cde8bd364cbc931": 1789744015,
   "7cf61cc40c780900": 1789959919,
   "7d028cc99b36df19": 1790037737,
@@ -3002,6 +3015,7 @@
   "853ea98c9c6abbce": 1789975218,
   "8542bc404b8ab268": 1790055317,
   "8545b4e976535687": 1789701321,
+  "855436a9e6ff1f73": 1790150165,
   "85705eac9beb6711": 1789715428,
   "857121103c354f68": 1790147295,
   "858bb64f74e1110b": 1789695017,
@@ -4254,6 +4268,7 @@
   "c464221921743bd0": 1789947665,
   "c4648a36b01e1ef6": 1789692619,
   "c48b47eb5d124d06": 1790067063,
+  "c48b7d1b7be60b82": 1790150165,
   "c4a7ae5e715ffe81": 1789981516,
   "c4bd5d764718d20d": 1789639528,
   "c4c3450500dd5b88": 1789851916,
@@ -5256,6 +5271,7 @@
   "f648f981e552a0dd": 1789977915,
   "f650fce28ae4ecb8": 1789627496,
   "f65777b4585734bc": 1789776316,
+  "f65dbc37266ddac8": 1790150165,
   "f664eeda57eaef53": 1789729598,
   "f66c9fc3ec6fad61": 1790146721,
   "f6807e8fa6cd8ded": 1789783260,
@@ -5452,7 +5468,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790144115,
- "last_msg_poll": 1790149822,
+ "last_msg_poll": 1790150410,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5494,7 +5510,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 16:50 KST",
+  "last_run": "2026-09-23 17:00 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
