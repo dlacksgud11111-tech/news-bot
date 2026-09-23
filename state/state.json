@@ -309,6 +309,16 @@
    "t": "남동발전 사장에 이현빈 전 한전 부사장 내정",
    "ts": 1790185441,
    "u": "https://www.electimes.com/news/articleView.html?idxno=372788"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "글로벌이코노믹",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "美 데이터센터 발주 폭주에 日 미쓰비시중공업 가스터빈 수주 '사상 최고치' - 글로벌이코노믹",
+   "ts": 1790198100,
+   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZkpUQUg5X3hwU0hrdU5NODVZYU5BVFFWWHNkOWFCLVROb3hyclFYN1BpWVg4SlhhNGtfTmxEVldQWnJTSktWcVBRckZmRHNKTXBHejJFNVh4bEJFTE50TlpSV3pDaHhUd25ONGx5S1I1NGxzRjF1bFR2NW1YRktuVC14RjZOQVZG?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2579,6 +2589,7 @@
   "698e543f758a00c8": 1790068256,
   "699bc6528bcc31d6": 1789689915,
   "69a08335ac5774f5": 1789951988,
+  "69a8bd2c527b9a94": 1790198529,
   "69b0ac0bdb8f92fa": 1789865116,
   "69b341e880c8284a": 1790130336,
   "69c94ad024ae4c2a": 1789957222,
@@ -5652,7 +5663,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790173519,
- "last_msg_poll": 1790198203,
+ "last_msg_poll": 1790198775,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5694,7 +5705,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 06:16 KST",
+  "last_run": "2026-09-24 06:26 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
