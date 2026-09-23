@@ -164,6 +164,16 @@
    "t": "Blue wafers are fundamentally undermining U.S. solar manufacturing",
    "ts": 1790166908,
    "u": "https://www.pv-magazine.com/2026/09/23/blue-wafers-are-fundamentally-undermining-u-s-solar-manufacturing/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Sahi",
+   "sc": 16,
+   "sec": "전력기기",
+   "t": "Accord Transformer & Switchgear Secures ₹20.02 Crore Wind Transformer Order For Bhuj Project - Sahi",
+   "ts": 1790171338,
+   "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEJtb3FaVG1UeHFlT1NnOTY5dUxCekFXR0otTTd6WjV0OGZmSVFaalg4THpvNkZKOUlnN1Jac1kxTHlBa0x2Wm5LSFBreUpIT1I4MU83MlBydENCUkdYRGNnZzVqUTNnU0hpZlg5N3ZvX0I5dmdPblE4SWg3cWZid05lcXllRDdmLVNPWnZLbDZVY2ZhZFNYeGZKbUhWUU9hMERxZmtGSmNYS0VHRHpHa2RkNjYxQQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3858,6 +3868,7 @@
   "b1b50a0c09ee51ea": 1789627496,
   "b1c3c1f0a214e0a1": 1789949420,
   "b1c4755e21b7616a": 1790035428,
+  "b1f1523612f5d303": 1790171418,
   "b1f47af133a600af": 1790039473,
   "b1f6098c63ec392b": 1789966821,
   "b215b4b003323e96": 1789700729,
@@ -5454,7 +5465,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790166018,
- "last_msg_poll": 1790171366,
+ "last_msg_poll": 1790171669,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5496,7 +5507,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 22:49 KST",
+  "last_run": "2026-09-23 22:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
