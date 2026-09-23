@@ -144,108 +144,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 3,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 5,
-   "sec": "전력기기",
-   "t": "Siltrax launches 2–6 kW air-cooled fuel cell system for off-grid applications",
-   "ts": 1790151762,
-   "u": "https://www.pv-magazine.com/2026/09/23/siltrax-launches-2-6-kw-air-cooled-fuel-cell-system-for-off-grid-applications/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 6,
-   "sec": "재생에너지·ESS",
-   "t": "Australia’s Victoria requires new data centres to bring their own renewable energy and storage",
-   "ts": 1790151708,
-   "u": "https://www.energy-storage.news/australias-victoria-requires-new-data-centres-to-bring-their-own-renewable-energy-and-storage/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "텍사스, AI 데이터센터 허가 전면 중단 - v.daum.net",
-   "ts": 1790053629,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IWGZiTUNFdTNOMmdTX3c4ZU9xd01yY1c2cjFjSmtneTRsWWFrUFRha25zZ0RvUUsxVG1md0Z6c3pIMl9icVBDejhYcWc3bjg?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 7,
-   "sec": "전력기기",
-   "t": "Australia’s first grid-connected sodium-sulfur battery goes online",
-   "ts": 1790152303,
-   "u": "https://www.pv-magazine.com/2026/09/23/australias-first-grid-connected-sodium-sulfur-battery-goes-online/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Abbott halts new Texas data center permits pending ERCOT audit",
-   "ts": 1790153368,
-   "u": "https://www.datacenterdynamics.com/en/news/abbott-halts-new-texas-data-center-permits-pending-ercot-audit/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "Negative electricity prices could favor thermal storage over industrial heat pumps",
-   "ts": 1790154969,
-   "u": "https://www.pv-magazine.com/2026/09/23/negative-electricity-prices-could-favor-thermal-storage-over-industrial-heat-pumps/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 8,
-   "sec": "전력기기",
-   "t": "Zeo Energy and Ewyze partner on off-grid power solutions for US data center sector",
-   "ts": 1790155557,
-   "u": "https://www.datacenterdynamics.com/en/news/zeo-energy-and-ewyze-partner-on-off-grid-power-solutions-for-us-data-center-sector/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "ACEN relinquishes Philippine solar projects over land, access issues",
-   "ts": 1790155800,
-   "u": "https://www.pv-magazine.com/2026/09/23/acen-relinquishes-philippine-solar-projects-over-land-access-issues/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "비즈트리뷴",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자·SK엔무브, AI 데이터센터 냉각 동맹… 냉매·액침냉각 공동개발 - 비즈트리뷴",
-   "ts": 1790136000,
-   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04R01MTWJDTU8weTViOFRNQzVjckZjZS1TVXQ5b0pzSXFFT2pfT3RpdVMtbFZQM0szZzI2RU1wWU9kZlZ5Q3hXOTRhc0NFNm1Od1puckpjSUdOdGdEZmtwY3NSaHRveGExcDllZV9lMXo?oc=5"
-  },
-  {
-   "co": "ABB",
-   "n": 1,
-   "s": "헬로티",
-   "sc": 4,
-   "sec": "데이터센터·AI전력",
-   "t": "ABB, 통합 DC 솔루션 ‘인피니투스’로 AI 데이터센터 공략 - 헬로티",
-   "ts": 1790130877,
-   "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FbzY2cy00U1M1WlE3RGY0YUZzdEtUWTgycTVhQnBYb0U4ZGNFalg0bTFvUGxmbGJ6UVR1NkFjdHZUcThYNnBia2pJTG1WeXRlcS1MMHJxX2lSd3Q3ZTZz?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -2342,6 +2241,7 @@
   "62dfa23b8ac5f42b": 1789701321,
   "62f249844b6d536a": 1790051717,
   "62ff975da9272c5b": 1790006722,
+  "6306a845cf1acebd": 1790158556,
   "630979971bab98e5": 1789954905,
   "6315b1858ebc19d1": 1790041833,
   "631efbcb9aa307e7": 1789972883,
@@ -5504,8 +5404,8 @@
  },
  "companies_today": {},
  "day": "2026-09-23",
- "last_clip": 1790151317,
- "last_msg_poll": 1790158480,
+ "last_clip": 1790158556,
+ "last_msg_poll": 1790158807,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5547,7 +5447,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 19:14 KST",
+  "last_run": "2026-09-23 19:20 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
