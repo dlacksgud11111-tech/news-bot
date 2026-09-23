@@ -224,6 +224,26 @@
    "t": "ACEN relinquishes Philippine solar projects over land, access issues",
    "ts": 1790155800,
    "u": "https://www.pv-magazine.com/2026/09/23/acen-relinquishes-philippine-solar-projects-over-land-access-issues/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "비즈트리뷴",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자·SK엔무브, AI 데이터센터 냉각 동맹… 냉매·액침냉각 공동개발 - 비즈트리뷴",
+   "ts": 1790136000,
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04R01MTWJDTU8weTViOFRNQzVjckZjZS1TVXQ5b0pzSXFFT2pfT3RpdVMtbFZQM0szZzI2RU1wWU9kZlZ5Q3hXOTRhc0NFNm1Od1puckpjSUdOdGdEZmtwY3NSaHRveGExcDllZV9lMXo?oc=5"
+  },
+  {
+   "co": "ABB",
+   "n": 1,
+   "s": "헬로티",
+   "sc": 4,
+   "sec": "데이터센터·AI전력",
+   "t": "ABB, 통합 DC 솔루션 ‘인피니투스’로 AI 데이터센터 공략 - 헬로티",
+   "ts": 1790130877,
+   "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FbzY2cy00U1M1WlE3RGY0YUZzdEtUWTgycTVhQnBYb0U4ZGNFalg0bTFvUGxmbGJ6UVR1NkFjdHZUcThYNnBia2pJTG1WeXRlcS1MMHJxX2lSd3Q3ZTZz?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3138,6 +3158,7 @@
   "8bfb820c83597c8e": 1789810766,
   "8c0308b5734bd8cc": 1789627496,
   "8c146ae3182d10b3": 1789691718,
+  "8c5b8055779d7030": 1790158229,
   "8c5da1469c4d6899": 1790125822,
   "8c654041da5a483e": 1789960215,
   "8c65b018b395e533": 1790073620,
@@ -4270,6 +4291,7 @@
   "c43675216320e417": 1790130924,
   "c44a001c51cd60d3": 1789725558,
   "c453f6263546df22": 1790058917,
+  "c45a1e883371f4ac": 1790158229,
   "c464221921743bd0": 1789947665,
   "c4648a36b01e1ef6": 1789692619,
   "c48b47eb5d124d06": 1790067063,
@@ -5483,7 +5505,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790151317,
- "last_msg_poll": 1790158159,
+ "last_msg_poll": 1790158480,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5525,7 +5547,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 19:09 KST",
+  "last_run": "2026-09-23 19:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
