@@ -169,6 +169,16 @@
    "t": "LS일렉트릭, 캐나다 데이터센터 시장 정조준…'GDCC 2026' 출격 - 더구루",
    "ts": 1790202601,
    "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wUWNOaG04dzV3Q1RkODZ2THAyMUJlbm1KRjlybTI4SHpXTEF1dmJzeWNJQnJOMGJ5ay1taUN1RUVHUnc0NGlhUHYxYW1qVTNMZFdJQ1Vya3VjclZLVzI4b1JrNA?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "속보 - 이티뉴스",
+   "sc": 4,
+   "sec": "데이터센터·AI전력",
+   "t": "새만금개발청, 현대차그룹  'AI 데이터센터' 건축심의 본격 착수",
+   "ts": 1790204400,
+   "u": "https://www.etnews.com/20260922000449"
   }
  ],
  "clip_titles": [],
@@ -384,6 +394,7 @@
   "0aaeebde5e90f8be": 1789704327,
   "0ac1890892e9da87": 1789708498,
   "0ac5c65f4c50dcbe": 1789976119,
+  "0ac886fe44c887cd": 1790205547,
   "0ae284dee6e285e3": 1789627496,
   "0ae429d127177900": 1789957530,
   "0ae9086349ab7475": 1789951430,
@@ -1252,6 +1263,7 @@
   "3229cd6bd03e9097": 1789872360,
   "322a46031402f561": 1789953163,
   "323cddc3cbc3ccc8": 1789705521,
+  "324ce3829fd7bd04": 1790205547,
   "32531b3b0fe101ba": 1790041217,
   "3255a8793e37c33a": 1789709642,
   "32581712cf6eaa9a": 1789629088,
@@ -3572,6 +3584,7 @@
   "a26abb0a7aa5f6b6": 1789797679,
   "a26ded7561d39ac1": 1789692317,
   "a2701e53098720ad": 1789943682,
+  "a2874236b530603c": 1790205547,
   "a28dc36ed77d8c31": 1789715119,
   "a2900f8786760a75": 1789951430,
   "a2b4658f28a75652": 1789863399,
@@ -5529,7 +5542,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790200878,
- "last_msg_poll": 1790205214,
+ "last_msg_poll": 1790205791,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5571,7 +5584,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 08:13 KST",
+  "last_run": "2026-09-24 08:23 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
