@@ -239,6 +239,16 @@
    "t": "Efforts to curb data center speculation gain ground across the US",
    "ts": 1790164224,
    "u": "https://www.utilitydive.com/news/efforts-to-curb-data-center-speculation-gain-ground-across-the-us/830495/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "POWER Magazine",
+   "sc": 5,
+   "sec": "원전",
+   "t": "What Does Fleetwide AI Actually Mean for the U.S. Nuclear Industry?",
+   "ts": 1790186084,
+   "u": "https://www.powermag.com/what-does-fleetwide-ai-actually-mean-for-the-u-s-nuclear-industry/"
   }
  ],
  "clip_titles": [],
@@ -2077,6 +2087,7 @@
   "54170b063fba0982": 1790037737,
   "543bb61aef37ba2b": 1789627496,
   "54677b86ac53b13c": 1789954327,
+  "546cab1a79d8845f": 1790186286,
   "5485f67b43e60d3a": 1789891518,
   "54863963cdccb321": 1789733129,
   "548c2d1fd9aa7a87": 1789965616,
@@ -5558,7 +5569,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790173519,
- "last_msg_poll": 1790185954,
+ "last_msg_poll": 1790186537,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5600,7 +5611,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 02:52 KST",
+  "last_run": "2026-09-24 03:02 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
