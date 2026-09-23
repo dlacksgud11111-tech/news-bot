@@ -204,6 +204,16 @@
    "t": "Negative electricity prices could favor thermal storage over industrial heat pumps",
    "ts": 1790154969,
    "u": "https://www.pv-magazine.com/2026/09/23/negative-electricity-prices-could-favor-thermal-storage-over-industrial-heat-pumps/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 8,
+   "sec": "전력기기",
+   "t": "Zeo Energy and Ewyze partner on off-grid power solutions for US data center sector",
+   "ts": 1790155557,
+   "u": "https://www.datacenterdynamics.com/en/news/zeo-energy-and-ewyze-partner-on-off-grid-power-solutions-for-us-data-center-sector/"
   }
  ],
  "clip_titles": [],
@@ -2575,6 +2585,7 @@
   "70ce402f85b56673": 1789945939,
   "70d378e8792a42cb": 1789705521,
   "70f05861cfeddc34": 1790037737,
+  "70f7a4848d22da7d": 1790155818,
   "70fbf2d0f4c52bd1": 1789707317,
   "710c87facbdd8208": 1789695321,
   "711b061aaba804fa": 1789691718,
@@ -5051,6 +5062,7 @@
   "ebf004ca5a255570": 1789627496,
   "ebfc9c94f04dd730": 1789627496,
   "ec0ca2cfda4a96c1": 1789635918,
+  "ec1ec3e15a4f8180": 1790155818,
   "ec246aee3cf472f8": 1789720817,
   "ec28efd45cefad34": 1790129120,
   "ec32ee25e89ed25f": 1789731618,
@@ -5455,7 +5467,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790151317,
- "last_msg_poll": 1790155766,
+ "last_msg_poll": 1790156062,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5497,7 +5509,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 18:29 KST",
+  "last_run": "2026-09-23 18:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
