@@ -139,7 +139,38 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 2,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "전기신문 - 전체기사",
+   "sc": 5,
+   "sec": "재생에너지·ESS",
+   "t": "문무바람, 국내 7개사와 공급망 협력...韓-스웨덴 해상풍력 협력 확대",
+   "ts": 1790164781,
+   "u": "https://www.electimes.com/news/articleView.html?idxno=372782"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴스핌",
+   "sc": 0,
+   "sec": "전력기기",
+   "t": "[GAM]굴뚝 기업 허벨 AI 기대주 변신 ① 데이터센터-그리드 현대화 주축 - 뉴스핌",
+   "ts": 1790136613,
+   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iSWZ0R3FYejNjY1ZkNFhCcjhxalpBQzJOS0dOMlg0UFlrclVQaEJUeVNrdExMSG9SckNBOFhCRTNtbEt4WlRrOW9qaVFuZ3Y4NGdWZ1doX0x0MU96?oc=5"
+  },
+  {
+   "co": "ABB",
+   "n": 1,
+   "s": "기계신문",
+   "sc": 10,
+   "sec": "데이터센터·AI전력",
+   "t": "ABB, AI 데이터센터 전력 수요 대응 직류 솔루션 ‘인피니투스’ 출시 - 기계신문",
+   "ts": 1790124476,
+   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3VVRLdlptY2ZFOXhjajV6bnpDbmFRblB4dWdkbklkcExORU5FODM0TmlEcUEyNUt1VjZXV3Y4c1F5Q3R5bzZGNUZ3c0FKMnV3T3hrZXRBWnBIbEtGUFg1Z0JwY3NDVmc?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00124ecf9177fec9": 1789953163,
@@ -1588,6 +1619,7 @@
   "44f9efba58a7aab1": 1790039473,
   "4506d2b6a4bdd533": 1790041833,
   "450d66790f52bd59": 1790049916,
+  "450e411af1dad782": 1790136915,
   "4514b08f4a5ab8b9": 1790037737,
   "452a139c46c74889": 1789988389,
   "453041b41e015244": 1789867182,
@@ -1908,6 +1940,7 @@
   "54a71d1ca3b80c27": 1789873818,
   "54ae914d32d31d7b": 1790040620,
   "54c6b443417edae3": 1789974627,
+  "54d74c2de5cd5ea6": 1790136915,
   "54d9609d9c04137f": 1790068256,
   "5511ecd565bb6e00": 1789627496,
   "5511eec85617b096": 1790053220,
@@ -2780,6 +2813,7 @@
   "82b40fcc3c65b459": 1789627496,
   "82c93b73004baab2": 1789953163,
   "82d1bb4c1ecb49a6": 1790113330,
+  "82d49e1cf4b583b3": 1790136915,
   "82e276a5f8b3ec61": 1789971183,
   "82f406bc354675db": 1789627496,
   "830e675698904445": 1789629088,
@@ -3032,6 +3066,7 @@
   "902d603daf10555a": 1790072717,
   "9038e29a9efc066e": 1790047038,
   "903b4e7231231dff": 1790042975,
+  "903d1e8f26a5b242": 1790136915,
   "9040cb742ad29993": 1790127320,
   "904a360c744ba7be": 1790057120,
   "904a528587886dc6": 1789693531,
@@ -3538,6 +3573,7 @@
   "abc96428dc9dc7b7": 1790005215,
   "abd079df30cc7dbe": 1789651818,
   "abd4cdda332ca1fe": 1789720817,
+  "abe2bd92ceec0968": 1790136915,
   "abe56225eb7574a0": 1789787432,
   "abf00e95502b923e": 1790125822,
   "abfa3aa361ab0efb": 1790035428,
@@ -3863,6 +3899,7 @@
   "bb0e500c1c8aa95d": 1790042975,
   "bb1c2567cdde1f0b": 1789974627,
   "bb2113d95d3250d6": 1790034282,
+  "bb35315bcd556735": 1790136915,
   "bb3c70befd0316d7": 1789627496,
   "bb3fe83b53a197b4": 1789967119,
   "bb5532e95b488f0b": 1790060726,
@@ -5194,7 +5231,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790136631,
- "last_msg_poll": 1790136880,
+ "last_msg_poll": 1790137156,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5236,7 +5273,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 13:14 KST",
+  "last_run": "2026-09-23 13:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
