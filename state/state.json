@@ -204,6 +204,26 @@
    "t": "고리원자력안전정보공유센터 개소...“불편한 정보도 신속히 공개해야”",
    "ts": 1790176244,
    "u": "https://www.electimes.com/news/articleView.html?idxno=372785"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "매일경제 : 경제",
+   "sc": 4,
+   "sec": "원전",
+   "t": "\"K원전 안 짓겠다면 없던 일로\"… 美에 '배수의 진'을 쳤다",
+   "ts": 1790146779,
+   "u": "https://www.mk.co.kr/news/columnists/12160453"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Chosunbiz",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "대미투자 1호 텍사스 가스발전소… 걸림돌은 ‘최대 수요처’ 데이터센터 반대론 - 조선비즈 - Chosunbiz",
+   "ts": 1790146680,
+   "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0dROUVDT0k5cmxWUktrUHE0SXBvUmFQTGFaX0IzLUtRb3RHdjBhc2o3ZU9TZFA4S0lmVUppTzIzVDRiQXNjOEFhUWk1ekRoQ0ZZX3pvcXRzRlBsemlYbldjUWlVMWJqZDhKaUc3R1BzQjNZY21uc1RBd2oxWGNsdkgtSULSAZgBQVVfeXFMTjdhNDg5cUNmX0p1d0JrdTQxR2lHVThuTDlKZ3JuMU0xdTBPcC1WM3BpOXVpNzNVUU1IUE1Ca0VGa1V3YTZlQXBSQ1l2dno1eThJOFlmSDUwZV95aVFmX052b3ozRjBDWl9CZ29Wd09yMjlzdHV1QXJzbVRaaGFRQW5EcVE2Y0xUbmdUY1owOGRyOFNMZUtpa1o?oc=5"
   }
  ],
  "clip_titles": [],
@@ -511,6 +531,7 @@
   "0f6abb831c829b0b": 1789627496,
   "0f6f96b02e922b9c": 1789971183,
   "0f70d653817972b3": 1790042975,
+  "0f70df4dd8c37862": 1790147846,
   "0f7665d6c9882d69": 1790065913,
   "0f8151facc336329": 1789950858,
   "0f84653a4caac338": 1789951988,
@@ -2085,6 +2106,7 @@
   "589866cb7a628506": 1790101885,
   "589b011d3aeb333d": 1789627496,
   "589f76d885dcf667": 1789692317,
+  "58a1f7963a48e0b3": 1790147846,
   "58b32eac40d398c5": 1790025209,
   "58c43decee384067": 1789706118,
   "58ce22d8e27c7720": 1789650916,
@@ -2532,6 +2554,7 @@
   "6fc3c44c17c54b6a": 1789977032,
   "6fde0ddea5003881": 1790043540,
   "6fe3dcb6b07e181b": 1790036576,
+  "6fef1a17de48b114": 1790147846,
   "6ff224511bbc5819": 1789627496,
   "6ffc17490eb2e2c5": 1789630519,
   "7012f58305794de8": 1790138131,
@@ -3849,6 +3872,7 @@
   "b26ac48da697cc8a": 1790064758,
   "b276185a2c50981b": 1790141730,
   "b27728e59b1f6752": 1790053518,
+  "b285314552afffcb": 1790147846,
   "b28c7203f05d10f1": 1790058917,
   "b28f7162950a8c8c": 1790062459,
   "b29666fa2b57c1ee": 1789925117,
@@ -3888,6 +3912,7 @@
   "b4178d1d3a5f090e": 1790042395,
   "b41bfe380e03889d": 1790042975,
   "b41e47f7aad86bec": 1789969411,
+  "b424c1870e564829": 1790147846,
   "b425c91651b9989e": 1789635918,
   "b42a1c03a86945de": 1789729598,
   "b43b75bdfdc572b3": 1789713065,
@@ -4923,6 +4948,7 @@
   "e81319572d1dde0c": 1789633820,
   "e8397a5dabb9a804": 1790052923,
   "e84a2ba2249e6abc": 1789955477,
+  "e84ce45b7d37decd": 1790147846,
   "e8694d639ed0d569": 1790037737,
   "e87195b5f255958b": 1789630519,
   "e884e48149b40f53": 1790040051,
@@ -5400,7 +5426,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790144115,
- "last_msg_poll": 1790147536,
+ "last_msg_poll": 1790148095,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5442,7 +5468,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 16:12 KST",
+  "last_run": "2026-09-23 16:21 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
