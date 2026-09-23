@@ -189,6 +189,16 @@
    "t": "퇴직공직자 취업심사 공개…김영록 前지사, 한전사장 '불승인'",
    "ts": 1790132400,
    "u": "https://www.yna.co.kr/view/AKR20260923070700001"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "초이스스탁US",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "알리바바, 차세대 AI 프로세서 공개하며 \"2032년 20GW 데이터센터 구축\" 선언 - 초이스스탁US",
+   "ts": 1790111100,
+   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yb1o3OWQydjUyN3A5Q1JOelFzckxiTFVKOWtLOWJNbklOS1dwQ1MzeHh3djdhVzUyeWZtRXFpVHBsY1A5UzJBWmlIQUxYLWVmbDZYTVlPcjU4clBOTGtMUXRUWTlEUXc?oc=5"
   }
  ],
  "clip_titles": [],
@@ -440,6 +450,7 @@
   "0cb2b85bbfe8c923": 1789629088,
   "0ce96672c3522e61": 1789627496,
   "0cefc1878c83ef6c": 1790128524,
+  "0cf990af153b50f9": 1790133023,
   "0cfb56c86751e9ef": 1790035428,
   "0d0e5918f95e7472": 1790042975,
   "0d22ffe0d4a2b38a": 1789627496,
@@ -5205,7 +5216,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790129427,
- "last_msg_poll": 1790132961,
+ "last_msg_poll": 1790133273,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5247,7 +5258,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 12:09 KST",
+  "last_run": "2026-09-23 12:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
