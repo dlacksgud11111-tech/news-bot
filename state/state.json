@@ -199,6 +199,16 @@
    "t": "FERC rejects ComEd’s cancellation of PowerHouse Hillwood data center contract",
    "ts": 1790171155,
    "u": "https://www.utilitydive.com/news/ferc-exelon-comed-powerhouse-hillwood-data-center/831127/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 5,
+   "sec": "재생에너지·ESS",
+   "t": "The renewable energy deal that looks cheap on paper can leave data centers most exposed",
+   "ts": 1790179536,
+   "u": "https://www.datacenterdynamics.com/en/opinions/the-renewable-energy-deal-that-looks-cheap-on-paper-can-leave-data-centers-most-exposed/"
   }
  ],
  "clip_titles": [],
@@ -4451,6 +4461,7 @@
   "ccbd90d7da34a9c9": 1789735230,
   "ccccfd5c57828991": 1789709642,
   "cccd5d04982ce98f": 1790081400,
+  "ccd4ce630eb10794": 1790179822,
   "cce62e4bf077cb34": 1790122002,
   "cd016f81c4b301ab": 1789865116,
   "cd05a37249faa4c7": 1789877422,
@@ -5507,7 +5518,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790173519,
- "last_msg_poll": 1790179767,
+ "last_msg_poll": 1790180064,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5549,7 +5560,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 01:09 KST",
+  "last_run": "2026-09-24 01:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
