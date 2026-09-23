@@ -224,6 +224,16 @@
    "t": "대미투자 1호 텍사스 가스발전소… 걸림돌은 ‘최대 수요처’ 데이터센터 반대론 - 조선비즈 - Chosunbiz",
    "ts": 1790146680,
    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0dROUVDT0k5cmxWUktrUHE0SXBvUmFQTGFaX0IzLUtRb3RHdjBhc2o3ZU9TZFA4S0lmVUppTzIzVDRiQXNjOEFhUWk1ekRoQ0ZZX3pvcXRzRlBsemlYbldjUWlVMWJqZDhKaUc3R1BzQjNZY21uc1RBd2oxWGNsdkgtSULSAZgBQVVfeXFMTjdhNDg5cUNmX0p1d0JrdTQxR2lHVThuTDlKZ3JuMU0xdTBPcC1WM3BpOXVpNzNVUU1IUE1Ca0VGa1V3YTZlQXBSQ1l2dno1eThJOFlmSDUwZV95aVFmX052b3ozRjBDWl9CZ29Wd09yMjlzdHV1QXJzbVRaaGFRQW5EcVE2Y0xUbmdUY1owOGRyOFNMZUtpa1o?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "산업종합저널",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "[ESS로 옮겨간 배터리 전쟁④] 563MW 시험대…K-ESS 승부처는 ‘통합 운영’ - 산업종합저널",
+   "ts": 1790136993,
+   "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4eDRNd19xc1RTc2RBNkdZZlBIdlhfVWNacmJ5dExFUEg1SkJRTmlVSDhXZ1NlbVZtLWFaLTNpX2NzaHZHY3RDTDEyZTBSOFlvRG5r?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3091,6 +3101,7 @@
   "8b22245b76182e37": 1789967119,
   "8b24301336e2ec18": 1789693531,
   "8b6589b0156277f4": 1789627496,
+  "8b73f753598e58e6": 1790148407,
   "8b7b0f156eed15bc": 1789648519,
   "8b7b342012e6d286": 1789627496,
   "8b7bd4f609783cba": 1789979721,
@@ -5426,7 +5437,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790144115,
- "last_msg_poll": 1790148095,
+ "last_msg_poll": 1790148654,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5468,7 +5479,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 16:21 KST",
+  "last_run": "2026-09-23 16:30 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
