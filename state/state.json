@@ -159,178 +159,7 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 1,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 2,
-   "s": "utilitydive.com",
-   "sc": 0,
-   "sec": "유틸리티·정책",
-   "t": "FERC has options for modernizing PJM’s governance - utilitydive.com",
-   "ts": 1790174005,
-   "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcjRBNmlRZW4yOEotVGFiNzBJdkFQUFZ6QnYydTU0ZGRScDNpM0VhenFqa3NyTnBHd05QVF9UcTQtZFlJdG1aYXlFU1RnZ2Y2UGI4RTVSamszZlZYdVluVFhsNGRIcHpIakdfbFctZ0Zjcjh5cXctUFNyY25ubkFnRW91Q0cyNFJrbmdKWkN4NTI?oc=5"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "더구루",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "EU, 데이터센터 전력·물 사용량 공개 의무화 추진 - 더구루",
-   "ts": 1790175657,
-   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yM2kySUNJUzA5U2lXN251czBvZk50ZExCS0lqc0dHVTJuM3VtVjlYNzc5bkkxZEpQVDVaNW1qdkNjcUViTUM3ZmtYRkhwNXBzRjlzUURXUlE5SUppclVsMQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "California governor signs seven-bill package targeting data center energy and water use",
-   "ts": 1790177558,
-   "u": "https://www.datacenterdynamics.com/en/news/california-governor-signs-seven-bill-package-targeting-data-center-energy-and-water-use/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "FERC rejects ComEd’s cancellation of PowerHouse Hillwood data center contract",
-   "ts": 1790171155,
-   "u": "https://www.utilitydive.com/news/ferc-exelon-comed-powerhouse-hillwood-data-center/831127/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 5,
-   "sec": "재생에너지·ESS",
-   "t": "The renewable energy deal that looks cheap on paper can leave data centers most exposed",
-   "ts": 1790179536,
-   "u": "https://www.datacenterdynamics.com/en/opinions/the-renewable-energy-deal-that-looks-cheap-on-paper-can-leave-data-centers-most-exposed/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 5,
-   "sec": "전력기기",
-   "t": "Microgrid panel highlights push to move beyond pilots and into everyday grid operations",
-   "ts": 1790177599,
-   "u": "https://www.utilitydive.com/news/microgrid-pnm-epri-data-center/831153/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "POWER Magazine",
-   "sc": 6,
-   "sec": "원전",
-   "t": "Purdue Nuclear Reactor Test Demonstrates Remote, Automated Power Control",
-   "ts": 1790180835,
-   "u": "https://www.powermag.com/purdue-nuclear-reactor-test-demonstrates-remote-automated-power-control/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "Efforts to curb data center speculation gain ground across the US",
-   "ts": 1790164224,
-   "u": "https://www.utilitydive.com/news/efforts-to-curb-data-center-speculation-gain-ground-across-the-us/830495/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "POWER Magazine",
-   "sc": 5,
-   "sec": "원전",
-   "t": "What Does Fleetwide AI Actually Mean for the U.S. Nuclear Industry?",
-   "ts": 1790186084,
-   "u": "https://www.powermag.com/what-does-fleetwide-ai-actually-mean-for-the-u-s-nuclear-industry/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "chosundaily.com",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "[이슈 탐구] 라스베가스에 데이터센터를 유치하는 것에 대한 득과 실 - chosundaily.com",
-   "ts": 1790187484,
-   "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPOS1mbVBEQlV3dUtRdDF2Rk91cHZUTENfQ2ZQUHpSYkdZeGNQa3drXzl1LTZ4dllwbXgwRHU2aFRHSXJlNEpoLVFTWmcxeG11MWVNbm1jRDBsUHUwVGdUdlkxaWw2dGtEQ3ltXzc0UEllcHRHMFE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "블록미디어",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터 역풍…680억달러 프로젝트 차질 - 블록미디어",
-   "ts": 1790187995,
-   "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jQ1pXUmRhS3FvalZRLXUzdzhZc0lPdE5lUDBuSVJKdGV1SERVYnR6V0hNZzhoT1pXT0hyQ0lQYkZKOWJaV2otRi1Heldadi05YTQ2VUxIWks?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "POWER Magazine",
-   "sc": 6,
-   "sec": "원전",
-   "t": "Bechtel-Westinghouse Group, PEJ Agree on Terms for Poland’s First Nuclear Power Plant",
-   "ts": 1790189825,
-   "u": "https://www.powermag.com/bechtel-westinghouse-group-pej-agree-on-terms-for-polands-first-nuclear-power-plant/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "산재신청 4년새 30% 늘었는데…건설업 불승인율은 3배로",
-   "ts": 1790197500,
-   "u": "https://www.yna.co.kr/view/AKR20260923099700530"
-  },
-  {
-   "co": "Schneider Electric",
-   "n": 1,
-   "s": "kr.investing.com",
-   "sc": 10,
-   "sec": "데이터센터·AI전력",
-   "t": "슈나이더 일렉트릭, 데이터센터 전력 솔루션 최초 UL 인증 획득 - kr.investing.com",
-   "ts": 1790195340,
-   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81V2J1amdZYlBIRXh5ZVFPcDFKWXRMZWJCM3BLWEZxOTU4WWd0MFQtM2dFeVBsTXFsOVItai1MVDZDbXdadzRxUVg3SWN6M2dMWm5RSjZtX0JzalFiUmVWUERHcjVHTjlrM01Ob0VhWno?oc=5"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 8,
-   "sec": "유틸리티·정책",
-   "t": "남동발전 사장에 이현빈 전 한전 부사장 내정",
-   "ts": 1790185441,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372788"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "글로벌이코노믹",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "美 데이터센터 발주 폭주에 日 미쓰비시중공업 가스터빈 수주 '사상 최고치' - 글로벌이코노믹",
-   "ts": 1790198100,
-   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZkpUQUg5X3hwU0hrdU5NODVZYU5BVFFWWHNkOWFCLVROb3hyclFYN1BpWVg4SlhhNGtfTmxEVldQWnJTSktWcVBRckZmRHNKTXBHejJFNVh4bEJFTE50TlpSV3pDaHhUd25ONGx5S1I1NGxzRjF1bFR2NW1YRktuVC14RjZOQVZG?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "IndexBox",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "2035년 데이터센터 변압기 시장: AI 전력 밀도가 성장 견인 - 뉴스 및 통계 - IndexBox",
-   "ts": 1790196665,
-   "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeU5pRFJkQ0xkVkRDdkZWbkhOc0VybW1WdzRpLWU0dzdYT0JMMFFkRlluaGlKNkg3RGNoMjFEQXA2VFVTZHFQUjVjMGpWbUZlbHlyYTlSaXg1bUowWGx3VnR0N2pHdE9WcEtFMDJtOUtZTWJlSUgwX3FkWGt6azRtbUJtY2RXVndOaWFkTFNkaHdZUDFUT0U4NzhqeTFHbFZNU1RBdXp5T3l5NGkxNGNoTQ?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -5675,8 +5504,8 @@
  },
  "companies_today": {},
  "day": "2026-09-24",
- "last_clip": 1790173519,
- "last_msg_poll": 1790200539,
+ "last_clip": 1790200878,
+ "last_msg_poll": 1790201120,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5718,7 +5547,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 06:55 KST",
+  "last_run": "2026-09-24 07:05 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
