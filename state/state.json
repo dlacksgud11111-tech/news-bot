@@ -144,88 +144,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 3,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "Compressed air energy storage (CAES): yet to deliver on promises, can A-CAES go one step further?",
-   "ts": 1790158989,
-   "u": "https://www.energy-storage.news/compressed-air-energy-storage-caes-yet-to-deliver-on-promises-can-a-caes-go-one-step-further/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "데일리안",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "‘전력 블랙홀’ 데이터센터, 속도·용량·수용성 ‘종합 전략’ 필요 [전환의 그늘③] - 데일리안",
-   "ts": 1790154000,
-   "u": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNenV5alhrcEVXUjBPWDB6bklveUNINU0yTnBYbmJ2SU5jWGpodWRhakU3M2M4OVhMeTlxcDhUOGdMaFhyVlV2OTJsV0kxdGtmcGVNbjRKSFBqck0wek5PYTNtREZ3U3F1N1pkZmwyV3dLbWp4QUVPMHA5Y08yQm5ldXQ0N2Y4ZjJWSlNpcnVXaU9QT1VRVVE3YXAzQURTbFBEUlE2d29FSks1UU8wNEtKQy13NUwtVDkycWVSY0QwekN1WWJfTXl5RzhjQ0M2bkE5a2c5TlBIM2dDSDI5SUNYTVk0OVhRNmx4eTVmQlNoWWJJMTJBVWhzNmZyZHpLRXpJZDVRM251UGpnNktWSHoxdEFZTHVUckx2TDEwZnRqN0hhVGpGbl8xdk9LTF9Ddw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 9,
-   "sec": "재생에너지·ESS",
-   "t": "South Korea tenders 6.6 GWh of six-hour storage under 15-year contracts",
-   "ts": 1790159667,
-   "u": "https://www.pv-magazine.com/2026/09/23/south-korea-tenders-6-6-gwh-of-six-hour-storage-under-15-year-contracts/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Modified consumer camera can measure solar cell open-circuit voltage",
-   "ts": 1790159417,
-   "u": "https://www.pv-magazine.com/2026/09/23/modified-consumer-camera-can-measure-solar-cell-open-circuit-voltage/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 4,
-   "sec": "전력기기",
-   "t": "Meta plans Petal, the first transoceanic subsea cable at petabit capacity",
-   "ts": 1790159712,
-   "u": "https://www.datacenterdynamics.com/en/news/meta-plans-petal-the-first-transoceanic-subsea-cable-at-petabit-capacity/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "기후⑦ \"우리 마을엔 안 돼\" 신흥국으로 향하는 데이터센터…또 기후 불평등 - v.daum.net",
-   "ts": 1790161241,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11R09IeDJVU3E5TVZqT0dYM3kyNTFieS1Pejc5RFNQSFp1N3JqMXg4TmhLX0FzMXgwZC0zOWNZV3ZKMVpCaWdOSWFtM29NT2M?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 3,
-   "sec": "재생에너지·ESS",
-   "t": "Ukraine adds 1.1 GW of solar in H1",
-   "ts": 1790163551,
-   "u": "https://www.pv-magazine.com/2026/09/23/ukraine-adds-1-1-gw-of-solar-in-h1/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Meta signs 144MW solar PPA with Apex in Texas",
-   "ts": 1790163771,
-   "u": "https://www.datacenterdynamics.com/en/news/meta-signs-144mw-solar-ppa-with-apex-in-texas/"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -1002,6 +921,7 @@
   "251cbbf9702a0f1c": 1790040051,
   "25398e6dc15b1224": 1789627496,
   "2549f2647e1b2e86": 1789627496,
+  "2550e5ff23a357b0": 1790166018,
   "255610db86a897ea": 1790003117,
   "2565d8b524d7853c": 1790134817,
   "2578e70452f431a6": 1789980020,
@@ -5505,8 +5425,8 @@
  },
  "companies_today": {},
  "day": "2026-09-23",
- "last_clip": 1790158556,
- "last_msg_poll": 1790165968,
+ "last_clip": 1790166018,
+ "last_msg_poll": 1790166268,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5548,7 +5468,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 21:19 KST",
+  "last_run": "2026-09-23 21:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
