@@ -244,6 +244,46 @@
    "t": "AI 데이터센터 전력 대란…모건스탠리가 짚은 수혜주는? - v.daum.net",
    "ts": 1790064362,
    "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1taW1UMmJzeXdrb2xYdEdyREFWSkJZNkVGUVc4NGdsZnN6VE1rWUF3Z0xWbkQwYVBza0tRVHIxRUZmekhzSE9Fb05QZkZVLWc?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 7,
+   "sec": "재생에너지·ESS",
+   "t": "Abu Dhabi lifts 2035 solar target to 35 GW, sets 15 GW storage goal",
+   "ts": 1790150866,
+   "u": "https://www.pv-magazine.com/2026/09/23/abu-dhabi-lifts-2035-solar-target-to-35-gw-sets-15-gw-storage-goal/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "한국일보",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "AI 데이터센터 경쟁, 칩 다음은 전력망… \"2028년부터 전력 병목\" - 한국일보",
+   "ts": 1790139600,
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wMy1nRzRpbzB1dmd1QXZfWUxVdjNnWlRBdjh6LWJUdGw4d2tteVhWU0M4eVZsQW5uaXFrSFh6QUZLNHBZQWRHaFlacmVfLWxHdnVreXVXeVFZSjlVZS1waE1EREstRHhHTndFc2s0WFQzRFnSAXNBVV95cUxPcDMtZ0c0aW8wdXZndUF2X1lMVXYzZ1pUQXY4ei1iVHRsOHdrbXlYVlNDOHlWbEFubmlxa0hYekFGSzRwWUFkR2hZWnJlXy1sR3Z1a3l1V3lRWUo5VWUtcGhNRERLLUR4R053RXNrNFhUM0RZ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "기계신문",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, SK엔무브와 차세대 열관리 기술 선행 개발 협력… AI 데이터센터 등 고효율 냉각 시장 조준 - 기계신문",
+   "ts": 1790129024,
+   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oRWFsWk1uVW1HMlZRMC15ODAzcEpyZTlCbmlCakN5ZHZCU3dMLXVROEl5eFlxa2plcFRfQV92TTFMV2RKamk2ZVdncThtLXhtbTBjSU1SMjViU3pSOGE1d1hnLUhVdw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "[단독]데이터센터 전력공급 심사 지연…37%가 반년 이상 기다려 - v.daum.net",
+   "ts": 1790056670,
+   "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mWThPNWlpLXdoSExNa0k0ZkhWanVMWEttX0VZcEMzaHUzbWlYS2NZaGdwYUFoUFFqOGUxVUdNQjRRb0V6V2FBSGNFZw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1344,6 +1384,7 @@
   "33adb801b976ae33": 1789983317,
   "33b15d5cbc5fb70c": 1789627496,
   "33b1c745db921ae9": 1790001429,
+  "33c62320ebb8ab57": 1790151015,
   "33e99adbc8227d57": 1789959919,
   "3408b5baeca03260": 1789627496,
   "34105b134f5f662b": 1790035428,
@@ -2336,6 +2377,7 @@
   "630979971bab98e5": 1789954905,
   "6315b1858ebc19d1": 1790041833,
   "631efbcb9aa307e7": 1789972883,
+  "63487b3b2a6cb90a": 1790151015,
   "6364034e942c89e0": 1790127320,
   "636afee42b083f15": 1790026960,
   "636ddc9b83f9dc4d": 1789693531,
@@ -2908,6 +2950,7 @@
   "80465b209c74292f": 1789951430,
   "804fb7c2785bb102": 1789641317,
   "805fff8861021598": 1789627496,
+  "8072e831c07311a4": 1790151015,
   "8077844e14aad228": 1789702817,
   "80788a8eec95954a": 1790005820,
   "80808272d1b06557": 1790039473,
@@ -3276,6 +3319,7 @@
   "92a7b5f279ce6f51": 1790035428,
   "92affc00fa2fdd1f": 1789852221,
   "92df3c0aa4930746": 1789634116,
+  "92e783d7eaa51b76": 1790151015,
   "93263d683a3b263f": 1790041833,
   "9329a727c5089023": 1790041833,
   "933196531f311b16": 1790129120,
@@ -4985,6 +5029,7 @@
   "e7db5a6c60a1871b": 1790040620,
   "e7e1900d1af88f61": 1790042975,
   "e7f3cab0bcabe5fb": 1789894552,
+  "e7f499a1e145caaa": 1790151015,
   "e7f89dd2e40cf34b": 1790122002,
   "e7ff821d9be49bfe": 1789690229,
   "e81319572d1dde0c": 1789633820,
@@ -5473,7 +5518,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790144115,
- "last_msg_poll": 1790150972,
+ "last_msg_poll": 1790151263,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5515,7 +5560,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 17:09 KST",
+  "last_run": "2026-09-23 17:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
