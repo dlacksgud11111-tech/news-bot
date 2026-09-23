@@ -359,6 +359,16 @@
    "t": "ABB, AI 데이터센터 전력 인프라 재편 이끄는 통합 DC 솔루션 발표 - elec4",
    "ts": 1790142602,
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SejZQa3gySjFXRmh4d3I3VlJ2WVRabmxSbWdDVGZNXzZRRTduYlFGdmpKTENYYnFKcFhQUGIwbVJFQ0tnOE9nYmxmZ3lUNXZka01idmtoaXA4QnpfV0FfRVFvajNvNk11ajhNSmtR?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "더구루",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "美 텍사스, 전력망 감사 완료까지 신규 데이터센터 인허가 전면 중단 - 더구루",
+   "ts": 1790121841,
+   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55ZWxBaXkwdUlSRVc5WnJFcUV4UmdJeGhCcnE2d1JsMGFJYVVQb1JnbFZxRmUzb0xLNjJLSjcwU1NnR1lhNmYwbWlUT0hVLXVJRklMUlI5ZllHd2JnVWcyMlp1MA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1568,6 +1578,7 @@
   "3951c0d9ea913ae4": 1790112748,
   "3951c9cdce512e31": 1789693531,
   "39527b1bbb17d8a7": 1790041217,
+  "39549ee3a1173cdf": 1790143827,
   "39689fe7a5ab5fab": 1789629088,
   "396efdd4d7467a76": 1789979721,
   "396fb9e45de85009": 1789951430,
@@ -3619,6 +3630,7 @@
   "a1895af9dea863e8": 1789627496,
   "a19173ad1a2a65ed": 1790046448,
   "a1926243febbc8ad": 1790057120,
+  "a19a9fce370f922b": 1790143827,
   "a1a4a4d4aaa7c575": 1790134817,
   "a1c510daab446862": 1789971183,
   "a1d00b143551c19c": 1790031917,
@@ -5510,7 +5522,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790136631,
- "last_msg_poll": 1790143764,
+ "last_msg_poll": 1790144077,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5552,7 +5564,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 15:09 KST",
+  "last_run": "2026-09-23 15:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
