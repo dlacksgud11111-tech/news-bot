@@ -159,7 +159,18 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 1,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "더구루",
+   "sc": 8,
+   "sec": "데이터센터·AI전력",
+   "t": "LS일렉트릭, 캐나다 데이터센터 시장 정조준…'GDCC 2026' 출격 - 더구루",
+   "ts": 1790202601,
+   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wUWNOaG04dzV3Q1RkODZ2THAyMUJlbm1KRjlybTI4SHpXTEF1dmJzeWNJQnJOMGJ5ay1taUN1RUVHUnc0NGlhUHYxYW1qVTNMZFdJQ1Vya3VjclZLVzI4b1JrNA?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -1847,6 +1858,7 @@
   "4ca100dfb0d08c7c": 1790041522,
   "4ca809598c7a0d30": 1789691718,
   "4cad9fb0f0d11b6b": 1789976119,
+  "4cb5962615a2deae": 1790204390,
   "4ccd872f3f171d7a": 1789963516,
   "4cd1c25d44cf2c0d": 1789637416,
   "4ce595d232a08a23": 1790034282,
@@ -3642,6 +3654,7 @@
   "a60c0e49cb633f2f": 1789627496,
   "a618d80532a25600": 1789965017,
   "a624064b05ae275e": 1790147295,
+  "a63dce4d771331aa": 1790204390,
   "a646e52beccc0675": 1790055317,
   "a648cce34289d9a2": 1789802414,
   "a6658fdf16de9dd6": 1789969411,
@@ -5514,7 +5527,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790200878,
- "last_msg_poll": 1790204067,
+ "last_msg_poll": 1790204636,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5556,7 +5569,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 07:54 KST",
+  "last_run": "2026-09-24 08:03 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
