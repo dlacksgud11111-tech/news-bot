@@ -229,6 +229,16 @@
    "t": "Purdue Nuclear Reactor Test Demonstrates Remote, Automated Power Control",
    "ts": 1790180835,
    "u": "https://www.powermag.com/purdue-nuclear-reactor-test-demonstrates-remote-automated-power-control/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "Efforts to curb data center speculation gain ground across the US",
+   "ts": 1790164224,
+   "u": "https://www.utilitydive.com/news/efforts-to-curb-data-center-speculation-gain-ground-across-the-us/830495/"
   }
  ],
  "clip_titles": [],
@@ -3665,6 +3675,7 @@
   "a51fc94a3cc5eea4": 1790146721,
   "a52855960b68cb6f": 1790122002,
   "a52dea358121f9c4": 1789713633,
+  "a53387072c82ade9": 1790185133,
   "a54a2fc34cea2240": 1789967119,
   "a558d886642d6606": 1789719021,
   "a569a8ca4fa6b9ad": 1789986323,
@@ -5545,7 +5556,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790173519,
- "last_msg_poll": 1790184806,
+ "last_msg_poll": 1790185383,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5587,7 +5598,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 02:33 KST",
+  "last_run": "2026-09-24 02:43 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
