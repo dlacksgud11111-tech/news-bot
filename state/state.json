@@ -174,6 +174,16 @@
    "t": "텍사스, AI 데이터센터 허가 전면 중단 - v.daum.net",
    "ts": 1790053629,
    "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IWGZiTUNFdTNOMmdTX3c4ZU9xd01yY1c2cjFjSmtneTRsWWFrUFRha25zZ0RvUUsxVG1md0Z6c3pIMl9icVBDejhYcWc3bjg?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 7,
+   "sec": "전력기기",
+   "t": "Australia’s first grid-connected sodium-sulfur battery goes online",
+   "ts": 1790152303,
+   "u": "https://www.pv-magazine.com/2026/09/23/australias-first-grid-connected-sodium-sulfur-battery-goes-online/"
   }
  ],
  "clip_titles": [],
@@ -1499,6 +1509,7 @@
   "3cb81f54fb442671": 1790042395,
   "3cbf1b327a056ca8": 1789735230,
   "3cc15ddf36f579c9": 1790040051,
+  "3cd1f075868efcea": 1790152520,
   "3cd96b249b18f26a": 1789627496,
   "3ce73ca4da2f0ec4": 1789635618,
   "3d02df0628ccef2b": 1789690229,
@@ -3876,6 +3887,7 @@
   "b3818888a6139389": 1789954905,
   "b39b383ec149733f": 1789627496,
   "b39cb787518db206": 1790132720,
+  "b39f7876e33270fc": 1790152520,
   "b3b4382c3d24bd6e": 1790142332,
   "b3bba58b6466c8b0": 1789706118,
   "b3c027e617a786b4": 1789954327,
@@ -4359,6 +4371,7 @@
   "cc30132a7c50ad38": 1789784719,
   "cc3af78109dd531a": 1789707915,
   "cc3ce47e22fb4fe3": 1789969411,
+  "cc49134b5d1f19a5": 1790152520,
   "cc5719f69b20d0df": 1790125530,
   "cc575decbb322ec8": 1790122002,
   "cc5a0b8598e18147": 1789967119,
@@ -5414,7 +5427,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790151317,
- "last_msg_poll": 1790152477,
+ "last_msg_poll": 1790152762,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5456,7 +5469,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 17:34 KST",
+  "last_run": "2026-09-23 17:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
