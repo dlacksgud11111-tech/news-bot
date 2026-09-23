@@ -339,6 +339,26 @@
    "t": "HT로보틱스, 수주잔고 1조 넘어서나··글로벌 빅테크 AI데이터센터 공급망 올라탔다 - 데이터투자",
    "ts": 1790138022,
    "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TNHZrcEhGQlZGTmlTOUVYX0dyYS10QndGQXEtazdBRjRQMU5KTmo1R1ZyR2M3N1Q2NXBWcTFNeGM4YnU1aFVUQ1hYOEFpeTRETmdyVm9fUmZxS01kWHhRdHhjcE5QWGtiOGtrejFPem5pdw?oc=5"
+  },
+  {
+   "co": "한전KPS",
+   "n": 1,
+   "s": "에너지신문 - 전체기사",
+   "sc": 14,
+   "sec": "유틸리티·정책",
+   "t": "한전KPS, 인니 수력 주주된다...해외 재생E 첫 지분투자",
+   "ts": 1790174991,
+   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228550"
+  },
+  {
+   "co": "ABB",
+   "n": 1,
+   "s": "elec4",
+   "sc": 10,
+   "sec": "데이터센터·AI전력",
+   "t": "ABB, AI 데이터센터 전력 인프라 재편 이끄는 통합 DC 솔루션 발표 - elec4",
+   "ts": 1790142602,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SejZQa3gySjFXRmh4d3I3VlJ2WVRabmxSbWdDVGZNXzZRRTduYlFGdmpKTENYYnFKcFhQUGIwbVJFQ0tnOE9nYmxmZ3lUNXZka01idmtoaXA4QnpfV0FfRVFvajNvNk11ajhNSmtR?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1803,6 +1823,7 @@
   "44917cbcca3dffad": 1790119712,
   "44a73dfe47551271": 1789629088,
   "44a8da2395532ec1": 1790045289,
+  "44b838cb706140ed": 1790142919,
   "44cef94357192bc6": 1790067063,
   "44d599167c19567c": 1789971751,
   "44dfa28f9324baa0": 1789981516,
@@ -2089,6 +2110,7 @@
   "52972258e185d06f": 1790135428,
   "529e2d4bf1ca4744": 1789627496,
   "52a49367ab5df97b": 1790041833,
+  "52b3e67174850a8b": 1790142919,
   "52bda5d95bb8c7b6": 1789971183,
   "52de288ec30a9374": 1790053518,
   "52ed6460fae07652": 1790068256,
@@ -2339,6 +2361,7 @@
   "5f9cb496f5607ce4": 1789958121,
   "5fb30be164120cc6": 1790055317,
   "5fecf06d5f4200dd": 1790123718,
+  "5ffbff7d5b05977c": 1790142919,
   "5ffe0b115c35c823": 1789761901,
   "6001e9f6de74aa96": 1790003117,
   "6023e27af2b8e843": 1790057120,
@@ -5476,7 +5499,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790136631,
- "last_msg_poll": 1790142864,
+ "last_msg_poll": 1790143160,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5518,7 +5541,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 14:54 KST",
+  "last_run": "2026-09-23 14:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
