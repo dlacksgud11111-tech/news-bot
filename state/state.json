@@ -154,6 +154,16 @@
    "t": "김홍철 가스안전公 기술이사, 포항 수소충전소 특별점검",
    "ts": 1790198291,
    "u": "http://www.e2news.com/news/articleView.html?idxno=334582"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "Blue wafers are fundamentally undermining U.S. solar manufacturing",
+   "ts": 1790166908,
+   "u": "https://www.pv-magazine.com/2026/09/23/blue-wafers-are-fundamentally-undermining-u-s-solar-manufacturing/"
   }
  ],
  "clip_titles": [],
@@ -4859,6 +4869,7 @@
   "e3e14019554ade4d": 1789704620,
   "e3fa7c46afbe4af1": 1789627496,
   "e3fe4197099702bc": 1790061882,
+  "e4207b5fa75f7f59": 1790166922,
   "e42ac597744608c4": 1789692619,
   "e430c05f7a507881": 1789627496,
   "e450cbcf7b61e6a9": 1789958121,
@@ -5441,7 +5452,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790166018,
- "last_msg_poll": 1790166862,
+ "last_msg_poll": 1790167172,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5483,7 +5494,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 21:34 KST",
+  "last_run": "2026-09-23 21:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
