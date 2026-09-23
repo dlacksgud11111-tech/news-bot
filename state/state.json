@@ -299,6 +299,16 @@
    "t": "지역난방公, 자회사와 상생협력… 공동 경영가치 실현",
    "ts": 1790161127,
    "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303462"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "Greece awards €8.15 million for 49.3 MWh of storage linked to C&I solar",
+   "ts": 1790141455,
+   "u": "https://www.pv-magazine.com/2026/09/23/greece-awards-e8-15-million-for-49-3-mwh-of-storage-linked-to-ci-solar/"
   }
  ],
  "clip_titles": [],
@@ -3106,6 +3116,7 @@
   "89ad053daf192384": 1789783839,
   "89da6c31ba3eb32e": 1789697424,
   "89e52c12d647f6a0": 1789695321,
+  "89e7a3399178f20c": 1790141730,
   "89e8f0298d866fd1": 1790008218,
   "8a0c2578dc01b23f": 1789977032,
   "8a47289d6acb3092": 1790127933,
@@ -3823,6 +3834,7 @@
   "af97f59ba031b3a7": 1789953163,
   "afa0426b93df6bfd": 1789888052,
   "afab90c7551ef0d0": 1789963516,
+  "afad7be316946b3c": 1790141730,
   "afbe0d48530fa5d6": 1789965922,
   "afcdd4248bfe5dee": 1789735230,
   "afd545e62e80e213": 1789722018,
@@ -3884,6 +3896,7 @@
   "b263481ea76b50dd": 1789627496,
   "b267b569081d21c7": 1789952592,
   "b26ac48da697cc8a": 1790064758,
+  "b276185a2c50981b": 1790141730,
   "b27728e59b1f6752": 1790053518,
   "b28c7203f05d10f1": 1790058917,
   "b28f7162950a8c8c": 1790062459,
@@ -5412,7 +5425,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790136631,
- "last_msg_poll": 1790141672,
+ "last_msg_poll": 1790141979,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5454,7 +5467,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 14:34 KST",
+  "last_run": "2026-09-23 14:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
