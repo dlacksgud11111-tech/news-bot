@@ -139,118 +139,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 2,
- "clip_buffer": [
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 11,
-   "sec": "전력기기",
-   "t": "전력망 공사비 기준, 한전-업계 함께 손본다",
-   "ts": 1790161610,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228530"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "쌍문한양1차 재건축조합, 도봉구 첫 신통기획 통합심의 신청",
-   "ts": 1790128933,
-   "u": "https://www.yna.co.kr/view/AKR20260923084200004"
-  },
-  {
-   "co": "한전KPS",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 14,
-   "sec": "유틸리티·정책",
-   "t": "한전KPS, 첫 해외 재생E 투자…인니 수력발전 40% 인수",
-   "ts": 1790162856,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372779"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 9,
-   "sec": "유틸리티·정책",
-   "t": "한전-전기업계, 공사원가 갈등 줄인다…산정 협의체 상시화",
-   "ts": 1790160699,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372777"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 4,
-   "sec": "유틸리티·정책",
-   "t": "퇴직공직자 취업심사 공개…김영록 前지사, 한전사장 '불승인'",
-   "ts": 1790132400,
-   "u": "https://www.yna.co.kr/view/AKR20260923070700001"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "초이스스탁US",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "알리바바, 차세대 AI 프로세서 공개하며 \"2032년 20GW 데이터센터 구축\" 선언 - 초이스스탁US",
-   "ts": 1790111100,
-   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yb1o3OWQydjUyN3A5Q1JOelFzckxiTFVKOWtLOWJNbklOS1dwQ1MzeHh3djdhVzUyeWZtRXFpVHBsY1A5UzJBWmlIQUxYLWVmbDZYTVlPcjU4clBOTGtMUXRUWTlEUXc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 1,
-   "sec": "건설·플랜트",
-   "t": "李대통령, UN총회서 '건설적 기여국 연대' 제안…“글로벌 AI허브 조성”",
-   "ts": 1790133519,
-   "u": "https://www.etnews.com/20260923000133"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "헬로티",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "EU, 500kW 초과 데이터센터에 의무적 지속가능성 라벨 도입 - 헬로티",
-   "ts": 1790134813,
-   "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jTmxBZDJoejc1Z0ZTckhpQkIxZ1VHdUNKaHdSNm1rOVJrWTRtWVRaUUdEdVpENExtd1FpNktQQ1VBeXRJaUltb1RqRzFtSzJPSGthTWNWV2dQTzlsQ3Fn?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "edaily.co.kr",
-   "sc": 10,
-   "sec": "원전",
-   "t": "\"AI 전력난에 가속화되는 中SMR·핵융합 기술\" - edaily.co.kr",
-   "ts": 1790134704,
-   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcm9KUGdLeVNvTzFwNzUyZEl4V01FdzB1ek03Y19FWV91RmljeHlqWS1OVG5uOVNkMWh0MzBUX0RnVkxjUzAyWE85WVpHdFZjSGJDUkZUcTh1bkFhNmZ0ZHJoTHdFS1g4SW1QVldiaThWRE5OdlkyYzNnN0I4d2Q2MA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지경제신문",
-   "sc": 8,
-   "sec": "데이터센터·AI전력",
-   "t": "[LS 구자은의 AI 승부] AI데이터센터 전력 팔고, 공장에는 로봇 투입 - 에너지경제신문",
-   "ts": 1790127675,
-   "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PRFNrWXpsT3NjeVowWlJqNVMyaUc1Q0xvU01HUWVjRmtrVUhVaHRON2tibFB4TzBZMmJmNXZrbU1jVVhsRmxHV1Q1NDhJMkJNZ0JKSmtQNjlPWms?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "[단독]데이터센터 전력공급 심사 지연…37%가 반년 이상 기다려 - v.daum.net",
-   "ts": 1790056670,
-   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KRzhia3Y0dThRX19TUVFGX21MaWVqT3pSMWtreDloQ05DUXliTE5VN0htdVRZR2VjV19rTWlZSUFNTW1YS1ctZ3RQaGxkUHdwaGhkVkJ3b09LUjFr?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00124ecf9177fec9": 1789953163,
@@ -5211,6 +5100,7 @@
   "fb05622e5d050cb2": 1789629088,
   "fb0e5e5e0a68493a": 1789977328,
   "fb1149dd2fc96a3a": 1790038311,
+  "fb246439504b971c": 1790136631,
   "fb323a665430d51c": 1789866315,
   "fb408b09acdc6727": 1789696217,
   "fb568e56c8cabfd4": 1789959318,
@@ -5303,8 +5193,8 @@
  },
  "companies_today": {},
  "day": "2026-09-23",
- "last_clip": 1790129427,
- "last_msg_poll": 1790136570,
+ "last_clip": 1790136631,
+ "last_msg_poll": 1790136880,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5346,7 +5236,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 13:09 KST",
+  "last_run": "2026-09-23 13:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
