@@ -184,6 +184,16 @@
    "t": "Australia’s first grid-connected sodium-sulfur battery goes online",
    "ts": 1790152303,
    "u": "https://www.pv-magazine.com/2026/09/23/australias-first-grid-connected-sodium-sulfur-battery-goes-online/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Abbott halts new Texas data center permits pending ERCOT audit",
+   "ts": 1790153368,
+   "u": "https://www.datacenterdynamics.com/en/news/abbott-halts-new-texas-data-center-permits-pending-ercot-audit/"
   }
  ],
  "clip_titles": [],
@@ -5167,6 +5177,7 @@
   "f29e3cce9dbaa752": 1790070017,
   "f2ce077b142224a2": 1789951988,
   "f2e7a22438287d5b": 1789627496,
+  "f30cc617302802c4": 1790153718,
   "f32ef9435088ca33": 1789627496,
   "f333858b0f311f86": 1789688119,
   "f3377d7ef4df9754": 1790116521,
@@ -5428,7 +5439,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790151317,
- "last_msg_poll": 1790153668,
+ "last_msg_poll": 1790153963,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5470,7 +5481,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 17:54 KST",
+  "last_run": "2026-09-23 17:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
