@@ -164,6 +164,26 @@
    "t": "‘전력 블랙홀’ 데이터센터, 속도·용량·수용성 ‘종합 전략’ 필요 [전환의 그늘③] - 데일리안",
    "ts": 1790154000,
    "u": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNenV5alhrcEVXUjBPWDB6bklveUNINU0yTnBYbmJ2SU5jWGpodWRhakU3M2M4OVhMeTlxcDhUOGdMaFhyVlV2OTJsV0kxdGtmcGVNbjRKSFBqck0wek5PYTNtREZ3U3F1N1pkZmwyV3dLbWp4QUVPMHA5Y08yQm5ldXQ0N2Y4ZjJWSlNpcnVXaU9QT1VRVVE3YXAzQURTbFBEUlE2d29FSks1UU8wNEtKQy13NUwtVDkycWVSY0QwekN1WWJfTXl5RzhjQ0M2bkE5a2c5TlBIM2dDSDI5SUNYTVk0OVhRNmx4eTVmQlNoWWJJMTJBVWhzNmZyZHpLRXpJZDVRM251UGpnNktWSHoxdEFZTHVUckx2TDEwZnRqN0hhVGpGbl8xdk9LTF9Ddw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 9,
+   "sec": "재생에너지·ESS",
+   "t": "South Korea tenders 6.6 GWh of six-hour storage under 15-year contracts",
+   "ts": 1790159667,
+   "u": "https://www.pv-magazine.com/2026/09/23/south-korea-tenders-6-6-gwh-of-six-hour-storage-under-15-year-contracts/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "Modified consumer camera can measure solar cell open-circuit voltage",
+   "ts": 1790159417,
+   "u": "https://www.pv-magazine.com/2026/09/23/modified-consumer-camera-can-measure-solar-cell-open-circuit-voltage/"
   }
  ],
  "clip_titles": [],
@@ -628,6 +648,7 @@
   "16ba59c3a5e2ea85": 1789627496,
   "16c01fb11a7f2184": 1790053518,
   "16c961d7dc44c182": 1789693531,
+  "16d2c6406bbaf1ed": 1790159715,
   "16e853e066b58a98": 1789954327,
   "16ee2e8f72274064": 1790139915,
   "16ef4c852d459dc1": 1789787432,
@@ -1242,6 +1263,7 @@
   "329566101c9f4704": 1789982722,
   "32ab301fd7502803": 1789629088,
   "32ab991c3d2a1f2e": 1789689626,
+  "32abd8b877767531": 1790159715,
   "32b13bc1251d98dd": 1789629088,
   "32bc76cb57e40cfe": 1789871791,
   "32db5ec74322fab5": 1790084279,
@@ -4006,6 +4028,7 @@
   "b96cdab838814cbc": 1789627496,
   "b972ca977c1abe42": 1789629612,
   "b97b11c5778ed255": 1789856259,
+  "b994efb0ed0f7c19": 1790159715,
   "b99a389ad3334e54": 1789710788,
   "b99c8db3a1abaf98": 1789713633,
   "b9b099f865693f6e": 1789629088,
@@ -5429,7 +5452,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790158556,
- "last_msg_poll": 1790159672,
+ "last_msg_poll": 1790159962,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5471,7 +5494,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 19:34 KST",
+  "last_run": "2026-09-23 19:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
