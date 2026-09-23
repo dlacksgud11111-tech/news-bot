@@ -194,6 +194,16 @@
    "t": "Meta plans Petal, the first transoceanic subsea cable at petabit capacity",
    "ts": 1790159712,
    "u": "https://www.datacenterdynamics.com/en/news/meta-plans-petal-the-first-transoceanic-subsea-cable-at-petabit-capacity/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "기후⑦ \"우리 마을엔 안 돼\" 신흥국으로 향하는 데이터센터…또 기후 불평등 - v.daum.net",
+   "ts": 1790161241,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11R09IeDJVU3E5TVZqT0dYM3kyNTFieS1Pejc5RFNQSFp1N3JqMXg4TmhLX0FzMXgwZC0zOWNZV3ZKMVpCaWdOSWFtM29NT2M?oc=5"
   }
  ],
  "clip_titles": [],
@@ -910,6 +920,7 @@
   "21f7040d73c4003c": 1790037737,
   "21ff2b837abf874c": 1790062459,
   "2200415f764a4406": 1789705521,
+  "220f29132597e201": 1790161818,
   "22103348ba1206b7": 1790024635,
   "221680cae2090e75": 1789968847,
   "221cff63dabd4f63": 1789866315,
@@ -2952,6 +2963,7 @@
   "83ff03911f50edff": 1789967119,
   "8400f499ce151224": 1789695321,
   "840454380e1ee136": 1790084279,
+  "8407d3ed1aff4cca": 1790161818,
   "8417081e7e4b50d5": 1789969411,
   "841f4a08699536e6": 1789709642,
   "842257693d2f11e7": 1790123718,
@@ -5463,7 +5475,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790158556,
- "last_msg_poll": 1790161780,
+ "last_msg_poll": 1790162065,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5505,7 +5517,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 20:09 KST",
+  "last_run": "2026-09-23 20:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
