@@ -133,288 +133,7 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 1,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "지디넷코리아",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "[AI 고속도로] AI 데이터센터 투자 열기 식나…SB에너지, 500억 달러 IPO 속도조절 - 지디넷코리아",
-   "ts": 1790124485,
-   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44WXZTZU5rUXE2RzdVa2VKaE5aZW5TRHVfekhwMkVuVGRNMS1DZ2VjOWVtbFJxX1E5aW1ucjBlV1Z0Tm1DZjdpWHVOZmt4NHloeTFTTVRB?oc=5"
-  },
-  {
-   "co": "ABB",
-   "n": 1,
-   "s": "기계신문",
-   "sc": 10,
-   "sec": "데이터센터·AI전력",
-   "t": "ABB, AI 데이터센터 전력 수요 대응 직류 솔루션 ‘인피니투스’ 출시 - 기계신문",
-   "ts": 1790124476,
-   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6ZW9WMnBzSEQ5V2V2eVh1OElfbjhISW03R3J3cGoyWURmRTlRbHl5d3V5M1J1cnh5MU5QTE83Y0tYcDEzZFJkWkV2LS04TjJFbll1U0F2cHY4RGpkbU1LNEdkMC1pUQ?oc=5"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 10,
-   "sec": "유틸리티·정책",
-   "t": "한전, 공사원가 산정기준 신뢰성 향상 나서",
-   "ts": 1790156541,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303455"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 1,
-   "sec": "재생에너지·ESS",
-   "t": "기후부, 수소 연료 보조금 1000원 한시적 인상",
-   "ts": 1790156281,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303451"
-  },
-  {
-   "co": "LS전선",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 16,
-   "sec": "전력기기",
-   "t": "LS전선 ‘윈드에너지 함부르크 2026’ 참가",
-   "ts": 1790155806,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303453"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 5,
-   "sec": "유틸리티·정책",
-   "t": "남부발전, 여름철 전력수급 대책기간 발전설비 안정 운영",
-   "ts": 1790155222,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303450"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "지디넷코리아",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG CNS, 데이터센터 업계 첫 '공간안전인증' 획득…재난 대응 체계 공인 - 지디넷코리아",
-   "ts": 1790120260,
-   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JQWpQZzJHRms2MTkzR2ZQQWxhZUpuVlpxSXI0NjV0aUg2akFYTjJJRS1mRHFYdHJFbVR3SzZqdWlxVkVyNXlWQzVjZTFCR3hQakVvcE1R?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "우리금융, 6000억원 규모 포항 AI 데이터센터 PF 약정 체결…그룹 역량 결집",
-   "ts": 1790125391,
-   "u": "https://www.etnews.com/20260923000070"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "전남정보문화산업진흥원, '신재생에너지 × AI' 무료 실무교육생 모집",
-   "ts": 1790125273,
-   "u": "https://www.etnews.com/20260923000068"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자-SK엔무브, AI 데이터센터용 열 관리 기술 공동 개발한다",
-   "ts": 1790125200,
-   "u": "https://www.etnews.com/20260923000039"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "신아일보",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "삼척블루파워, 유휴부지에 AI 데이터센터 추진…2만5000평 규모 검토 - 신아일보",
-   "ts": 1790125213,
-   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZTBMU0c5S0NmR2J6aDQ1XzNEbXNTZ3RYOU9DNmpKOTF6ZWRuaUJvTGtVOWZBUDJTM0Zwdmt2RnRPZ3NBZW5LT2ZwWm1BTE11dDFVRlRLdGpEVGJkWEdsN3AtaEQzbE5XRGlSZW9jaTE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "[게시판] 전문건설공제조합 '타운홀 미팅'…혁신과제 수행 아이디어 수렴",
-   "ts": 1790125914,
-   "u": "https://www.yna.co.kr/view/AKR20260923063100003"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "비즈트리뷴",
-   "sc": 18,
-   "sec": "전력기기",
-   "t": "LS일렉트릭, 변압기 증설 다음은 '로봇'…생산현장 고도화 속도 - 비즈트리뷴",
-   "ts": 1790126311,
-   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qOTdLbVRLZW51RjBxQUdoWl84amh3ckVpT1kxTU42WHNjd1VRVlp3YmRsODRWQmhEdHpYdW5FRFhHM3R0R2RaV0VWMlo3MzFtT2xNZ083NGs0TzNWNzRfcWNza1Bqcmp6VTJqRktIVHY?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "허프포스트코리아",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "LS일렉트릭 변압기 공장에 보스턴 다이내믹스 보행로봇 '스팟' 도입 : 제조 경쟁력 강화하고 디지털 전환 가속화한다 - 허프포스트코리아",
-   "ts": 1790051375,
-   "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxcHlsOXpEZzF2emVBYTA2dFhGRC1VaUxqOU9CdkdsMXhNazFhQ1ExeWs5bDI1c0dsVkhQcmF6SnJzNkVnOW9GaUJlZmpoTUFUbW9ZSzR6SQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "아주경제",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "삼척블루파워, 발전소 유휴부지에 AI 데이터센터 유치 시동 - 아주경제",
-   "ts": 1790126784,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1taDZDUHpoU21EV1VlYWZRVklmZ09GVjRQcHU2N2NGemNTMTZMSWdXTG9TUVZPb1NaXzFPVlhpRUduRWFZcDRrVGI3VnlCRi1TUTZNaWE3S1hVQdIBWEFVX3lxTE1tdmt4djI1QkktRW43SlhLVjY5M1pRRmNzenVJSTRtVzhhbnZkdG5weWxha2hFOS1ZME9aTDlVaTNqcjhJR3lFY0IyVE5ZQlh6czhOUGc1dWk?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 5,
-   "sec": "원전",
-   "t": "원전 폐수지, 탄화해 굳혔더니...처분 기준 ‘충족’",
-   "ts": 1790159635,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228524"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "공감신문",
-   "sc": 0,
-   "sec": "재생에너지·ESS",
-   "t": "LG엔솔 배터리저장장치 엔비디아 인증 획득 - 공감신문",
-   "ts": 1790127071,
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MWnpuX05LdGo0bGFOa3NuVjNmVFR4RHdQRWNMZHBsNHE5U2R1RnowdDRiQ2pXOHlyM2ZVS2gwVjdjUkgtV3N1TWo5WXI0bzF5YXVaRHBkeG9lOGgxYVVIbU1jWjJGMHJz?oc=5"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 11,
-   "sec": "유틸리티·정책",
-   "t": "한전 사장 선임 연말까지 가나…원점서 재검토",
-   "ts": 1790160125,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372775"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "thecommoditiesnews.com",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자-SK엔무브, AI 데이터센터용 액침냉각기술·소재 공동 개발 - thecommoditiesnews.com",
-   "ts": 1790121900,
-   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YSEI0RHRVbWtEcnA5NzRERkhGdldiVmtvUGxaN01meTVCSlpnSWUxNm5XWDFtd1FKT2pDQnpkSkdCaGx2VnpuMkpRV1FRNG84SGxaWmJhT2dFM1JOVHJoOUQtQzdQMlFrMkFGVFd3ZDRJZ29Yb0Q0?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "마켓인",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "EU, 데이터센터에 친환경 등급제 도입…빅테크 압박 강화 - 마켓인",
-   "ts": 1790026091,
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRT1RSbTFrY2JKQ2VEUzBPRkhCUTNDekRCUWZTandCeXMzaVFfTE93V004TnVZOEZ3eTVqbVVQZ01BUDZjNWMtQi1DSkgyU3otR2V0azhFV3ZKODBMc3RBQUthbnJfTENlMmdjdGRmR3Zab3M?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "우리금융 \"포항 AI 데이터센터에 생산적 금융 공급\"",
-   "ts": 1790127888,
-   "u": "https://www.yna.co.kr/view/AKR20260923071800002"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 7,
-   "sec": "원전",
-   "t": "삼성물산, 해외기업과 유럽 소형모듈원전 사업 파트너십",
-   "ts": 1790127546,
-   "u": "https://www.yna.co.kr/view/AKR20260923072800003"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "홍지선 국토교통부 장관 취임…기계설비건설協 “실효적 정책 기대”",
-   "ts": 1790160554,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334558"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "SK온, 1.1조원 LFP 양극재 확보…美 ESS 공급망 강화",
-   "ts": 1790160513,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303443"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 5,
-   "sec": "원전",
-   "t": "원전 폐이온교환수지 안전한 처분 길 열어",
-   "ts": 1790159460,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303457"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이코노미톡뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "[진단] LG CNS, 데이터센터 ‘안전’도 관리한다… 상암·부산 공간안전인증 - 이코노미톡뉴스",
-   "ts": 1790128731,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HTXJyMjlSVTk0WDZ4cEl3Z3lON21KWF9Gd09Jcl95R3JwZDlLUGVCdGJxZnN6eERjZVZFckZFWDVaV1BQLWJRYTlwNWNBYlVuSVBIWC0tSzhhUE8zT0xWcDN5NWNKOEpwNFBUaA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "임팩트온",
-   "sc": 4,
-   "sec": "데이터센터·AI전력",
-   "t": "호주 빅토리아주, 신규 데이터센터에 '재생에너지 자급' 의무화 - 임팩트온",
-   "ts": 1790128491,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUYlVwbzFRUEduNEhuLXdYbi1KXzBydlo2SHQ3N1RkNDVSM1gtaFFETThrM2NuZGhHcHY2Tmk2YnlzUVZxNERCdWo1MXE0N3FGWkVVMUlTTlV4eXB2UXkyaG9kLTN0Q1N6MHc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "GS건설, 노후 상수관 공사비 30% 절감…비굴착 갱생기술 '펠릭스' 본격 상용화",
-   "ts": 1790127214,
-   "u": "https://www.etnews.com/20260923000094"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00124ecf9177fec9": 1789953163,
@@ -1708,6 +1427,7 @@
   "3e7f96ad035ab29f": 1790042975,
   "3e88078ef72e1f17": 1789629088,
   "3e96c3523da4f16d": 1789972883,
+  "3ea13c050a4881fd": 1790129427,
   "3eb7a5a7ee77bdb7": 1789629088,
   "3ebb13936c39b990": 1789627496,
   "3ec5b8cd2fcc9bf3": 1789748719,
@@ -2058,6 +1778,7 @@
   "502570413dd7405f": 1789875319,
   "50289f8af6a2009f": 1790062459,
   "502bf28b62e08f52": 1789715428,
+  "503329f6d8408896": 1790129427,
   "504711b319cb03ed": 1789956616,
   "504d23dd725db9fa": 1789783260,
   "505669e9238ab204": 1789627496,
@@ -4440,6 +4161,7 @@
   "d0237a0c0e912e8a": 1790058917,
   "d04fee64bcc04ab0": 1790064758,
   "d0613f37161425ac": 1789627496,
+  "d06fc62b623ec780": 1790129427,
   "d0755dbbaa08c775": 1789784117,
   "d07b2a7884ebb6e2": 1789634416,
   "d08cbff51224152e": 1790040917,
@@ -5370,8 +5092,8 @@
  },
  "companies_today": {},
  "day": "2026-09-23",
- "last_clip": 1790122002,
- "last_msg_poll": 1790129370,
+ "last_clip": 1790129427,
+ "last_msg_poll": 1790129677,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5413,7 +5135,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 11:09 KST",
+  "last_run": "2026-09-23 11:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
