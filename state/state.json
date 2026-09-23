@@ -169,6 +169,16 @@
    "t": "ABB, AI 데이터센터 전력 수요 대응 직류 솔루션 ‘인피니투스’ 출시 - 기계신문",
    "ts": 1790124476,
    "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3VVRLdlptY2ZFOXhjajV6bnpDbmFRblB4dWdkbklkcExORU5FODM0TmlEcUEyNUt1VjZXV3Y4c1F5Q3R5bzZGNUZ3c0FKMnV3T3hrZXRBWnBIbEtGUFg1Z0JwY3NDVmc?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "[단독]데이터센터 전력공급 심사 지연…37%가 반년 이상 기다려 - v.daum.net",
+   "ts": 1790056620,
+   "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fNW9LeW92QzZNc1U4MWdKTS1jeWJvMG9sSEI3Z2ZNbHQ2LVItVWVBSlVjbmdqZmpXZEQ2c05EcHc2dUxfZ2E5MGZ1dEtucm9aTjJsMQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2447,6 +2457,7 @@
   "6fe3dcb6b07e181b": 1790036576,
   "6ff224511bbc5819": 1789627496,
   "6ffc17490eb2e2c5": 1789630519,
+  "7012f58305794de8": 1790138131,
   "701ad1930dff912c": 1790041522,
   "703422a41848848f": 1789632630,
   "70365077e683d1b0": 1790046448,
@@ -5231,7 +5242,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790136631,
- "last_msg_poll": 1790138063,
+ "last_msg_poll": 1790138371,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5273,7 +5284,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 13:34 KST",
+  "last_run": "2026-09-23 13:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
