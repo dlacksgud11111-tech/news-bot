@@ -209,6 +209,16 @@
    "t": "The renewable energy deal that looks cheap on paper can leave data centers most exposed",
    "ts": 1790179536,
    "u": "https://www.datacenterdynamics.com/en/opinions/the-renewable-energy-deal-that-looks-cheap-on-paper-can-leave-data-centers-most-exposed/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 5,
+   "sec": "전력기기",
+   "t": "Microgrid panel highlights push to move beyond pilots and into everyday grid operations",
+   "ts": 1790177599,
+   "u": "https://www.utilitydive.com/news/microgrid-pnm-epri-data-center/831153/"
   }
  ],
  "clip_titles": [],
@@ -1136,6 +1146,7 @@
   "2b81f5e541064da0": 1790127320,
   "2b9b4829423e97b1": 1789738816,
   "2ba8622213e8c246": 1789647914,
+  "2bbb48658ea2a5f0": 1790180421,
   "2bbbba0a15913f25": 1790040917,
   "2bda6d38346b119d": 1789627496,
   "2be2f49d0550fd9a": 1790060726,
@@ -4190,6 +4201,7 @@
   "bed14a10033e669c": 1789627496,
   "bee7fa11435f5bb7": 1790065913,
   "bf1803ebbfdde8bd": 1789873818,
+  "bf19f2b6ba9fb488": 1790180421,
   "bf31ca7d6c81b3fd": 1790178019,
   "bf34c04d618072e3": 1789714817,
   "bf47e5b67bfab222": 1790060726,
@@ -5519,7 +5531,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790173519,
- "last_msg_poll": 1790180369,
+ "last_msg_poll": 1790180671,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5561,7 +5573,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 01:19 KST",
+  "last_run": "2026-09-24 01:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
