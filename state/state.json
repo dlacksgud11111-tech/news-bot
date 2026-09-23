@@ -139,7 +139,18 @@
   "cdaa54f68b0563fa": 1789658129
  },
  "alerted_today": 2,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 6,
+   "sec": "재생에너지·ESS",
+   "t": "Portugal postpones renewables-plus-storage auctions",
+   "ts": 1790144511,
+   "u": "https://www.pv-magazine.com/2026/09/23/portugal-postpones-renewables-plus-storage-auctions/"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -2993,6 +3004,7 @@
   "8ba06b1360862403": 1789877422,
   "8ba5a9088bfdda1d": 1790130924,
   "8be1678b31fd0982": 1789695321,
+  "8be1a3ea8cd13f99": 1790144739,
   "8be951b02d77f673": 1790132132,
   "8bede87feb2dc64e": 1789872360,
   "8bef601897af6d47": 1790053220,
@@ -5294,7 +5306,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790144115,
- "last_msg_poll": 1790144668,
+ "last_msg_poll": 1790144989,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5336,7 +5348,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 15:24 KST",
+  "last_run": "2026-09-23 15:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
