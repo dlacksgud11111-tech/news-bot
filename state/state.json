@@ -219,6 +219,16 @@
    "t": "Microgrid panel highlights push to move beyond pilots and into everyday grid operations",
    "ts": 1790177599,
    "u": "https://www.utilitydive.com/news/microgrid-pnm-epri-data-center/831153/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "POWER Magazine",
+   "sc": 6,
+   "sec": "원전",
+   "t": "Purdue Nuclear Reactor Test Demonstrates Remote, Automated Power Control",
+   "ts": 1790180835,
+   "u": "https://www.powermag.com/purdue-nuclear-reactor-test-demonstrates-remote-automated-power-control/"
   }
  ],
  "clip_titles": [],
@@ -1646,6 +1656,7 @@
   "41340328adaf2567": 1790066475,
   "413a58bd2cae9c15": 1790111621,
   "41450000e19fad43": 1789979721,
+  "414a62ee5fe58c6b": 1790181333,
   "416f82629d2e2a85": 1789627496,
   "417e1cc1be23428e": 1789967690,
   "418faaccaa355848": 1790051717,
@@ -1912,6 +1923,7 @@
   "4d4e59ce52cfa8d1": 1789627496,
   "4d68ef0513499f18": 1790059817,
   "4d795190d8080597": 1789630519,
+  "4d7d2be9d021822b": 1790181333,
   "4d80fcfabd436fe0": 1790055317,
   "4d8af35b1c3829a6": 1790035428,
   "4d9bdc3fdf3b73eb": 1790060726,
@@ -5531,7 +5543,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790173519,
- "last_msg_poll": 1790180999,
+ "last_msg_poll": 1790181582,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5573,7 +5585,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 01:29 KST",
+  "last_run": "2026-09-24 01:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
