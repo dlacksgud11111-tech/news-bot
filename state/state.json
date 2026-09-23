@@ -303,6 +303,36 @@
    "t": "LG엔솔 배터리저장장치 엔비디아 인증 획득 - 공감신문",
    "ts": 1790127071,
    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MWnpuX05LdGo0bGFOa3NuVjNmVFR4RHdQRWNMZHBsNHE5U2R1RnowdDRiQ2pXOHlyM2ZVS2gwVjdjUkgtV3N1TWo5WXI0bzF5YXVaRHBkeG9lOGgxYVVIbU1jWjJGMHJz?oc=5"
+  },
+  {
+   "co": "한국전력",
+   "n": 1,
+   "s": "전기신문 - 전체기사",
+   "sc": 11,
+   "sec": "유틸리티·정책",
+   "t": "한전 사장 선임 연말까지 가나…원점서 재검토",
+   "ts": 1790160125,
+   "u": "https://www.electimes.com/news/articleView.html?idxno=372775"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "thecommoditiesnews.com",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자-SK엔무브, AI 데이터센터용 액침냉각기술·소재 공동 개발 - thecommoditiesnews.com",
+   "ts": 1790121900,
+   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YSEI0RHRVbWtEcnA5NzRERkhGdldiVmtvUGxaN01meTVCSlpnSWUxNm5XWDFtd1FKT2pDQnpkSkdCaGx2VnpuMkpRV1FRNG84SGxaWmJhT2dFM1JOVHJoOUQtQzdQMlFrMkFGVFd3ZDRJZ29Yb0Q0?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "마켓인",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "EU, 데이터센터에 친환경 등급제 도입…빅테크 압박 강화 - 마켓인",
+   "ts": 1790026091,
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRT1RSbTFrY2JKQ2VEUzBPRkhCUTNDekRCUWZTandCeXMzaVFfTE93V004TnVZOEZ3eTVqbVVQZ01BUDZjNWMtQi1DSkgyU3otR2V0azhFV3ZKODBMc3RBQUthbnJfTENlMmdjdGRmR3Zab3M?oc=5"
   }
  ],
  "clip_titles": [],
@@ -646,6 +676,7 @@
   "11ce46e1f73f08dd": 1789627496,
   "11d8776d4d5ff22a": 1790125530,
   "11ff33b69839685a": 1789973468,
+  "1208868d137d2970": 1790127933,
   "12313bca94393c9e": 1790037737,
   "12355ffd7dab6200": 1789680028,
   "123beed015291104": 1790045289,
@@ -3007,6 +3038,7 @@
   "89e52c12d647f6a0": 1789695321,
   "89e8f0298d866fd1": 1790008218,
   "8a0c2578dc01b23f": 1789977032,
+  "8a47289d6acb3092": 1790127933,
   "8a5dba0eb7a94e86": 1790118021,
   "8a61317f1738ac01": 1789720817,
   "8a6645e56ea0e8f6": 1789707915,
@@ -3556,6 +3588,7 @@
   "a8b47164dce99a7e": 1789952592,
   "a8b9235b4b828405": 1790123718,
   "a8caf58458ceeac5": 1790045289,
+  "a8cd23efc4c31718": 1790127933,
   "a8d112f782e85470": 1790075118,
   "a8f28eac9ed812ad": 1789627496,
   "a8fe29aa3e1eb2fc": 1789948516,
@@ -4574,6 +4607,7 @@
   "de1bc27084e33277": 1789627496,
   "de2a1a0750ce14d1": 1790031917,
   "de2a9ab649f8db17": 1789959919,
+  "de38e53ea5221070": 1790127933,
   "de3e91eaed68723c": 1790116822,
   "de64183841aac300": 1789706118,
   "de64fb8748bcafef": 1790068832,
@@ -4642,6 +4676,7 @@
   "e2124e0bc09d0647": 1789745154,
   "e219c43b80528d63": 1789627496,
   "e21c2a90824b1bde": 1789715716,
+  "e2269111005797c2": 1790127933,
   "e230191e9ef3f52f": 1789642232,
   "e235977c7407cb17": 1790057120,
   "e236c2c4e5c0f748": 1789627496,
@@ -5226,7 +5261,7 @@
  "companies_today": {},
  "day": "2026-09-23",
  "last_clip": 1790122002,
- "last_msg_poll": 1790127871,
+ "last_msg_poll": 1790128182,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5268,7 +5303,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-23 10:44 KST",
+  "last_run": "2026-09-23 10:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
