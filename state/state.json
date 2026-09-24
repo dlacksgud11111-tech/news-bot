@@ -159,98 +159,7 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 1,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 9,
-   "sec": "유틸리티·정책",
-   "t": "Turkish utility tenders solar project",
-   "ts": 1790241128,
-   "u": "https://www.pv-magazine.com/2026/09/24/turkish-utility-tenders-solar-project/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 3,
-   "sec": "재생에너지·ESS",
-   "t": "Longi sets 28.29% world record for single-junction silicon solar cell efficiency",
-   "ts": 1790241580,
-   "u": "https://www.pv-magazine.com/2026/09/24/longi-sets-28-29-world-record-for-single-junction-silicon-solar-cell-efficiency/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 11,
-   "sec": "전력기기",
-   "t": "Spain plans to allocated 11 GW of grid capacity for renewables, storage",
-   "ts": 1790243164,
-   "u": "https://www.pv-magazine.com/2026/09/24/spain-plans-to-allocated-11-gw-of-grid-capacity-for-renewables-storage/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 5,
-   "sec": "재생에너지·ESS",
-   "t": "Pylontech starts mass production of 588 Ah, 601 Ah storage cells",
-   "ts": 1790242929,
-   "u": "https://www.pv-magazine.com/2026/09/24/pylontech-starts-mass-production-of-588-ah-601-ah-storage-cells/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 6,
-   "sec": "재생에너지·ESS",
-   "t": "Zambia commissions 100 MW solar project",
-   "ts": 1790246654,
-   "u": "https://www.pv-magazine.com/2026/09/24/zambia-commissions-100-mw-solar-project/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "Victoria, Australia, proposes rules requiring data centers to secure own renewable energy supply",
-   "ts": 1790246779,
-   "u": "https://www.datacenterdynamics.com/en/news/victoria-australia-proposes-rules-requiring-data-centers-to-secure-own-renewable-energy-supply/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Second-life PV modules turned into solar balconies in Germany",
-   "ts": 1790247042,
-   "u": "https://www.pv-magazine.com/2026/09/24/second-life-pv-modules-turned-into-solar-balconies-in-germany/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 8,
-   "sec": "유틸리티·정책",
-   "t": "NYSERDA picks eight projects for New York utility-scale energy storage programme",
-   "ts": 1790247393,
-   "u": "https://www.energy-storage.news/nyserda-picks-eight-projects-for-new-york-utility-scale-energy-storage-programme/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 3,
-   "sec": "재생에너지·ESS",
-   "t": "Websol secures land for 4 GW solar cell and module factory in India",
-   "ts": 1790247700,
-   "u": "https://www.pv-magazine.com/2026/09/24/websol-allotted-land-for-4-gw-solar-cell-and-module-facility-in-west-bengal/"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -1741,6 +1650,7 @@
   "42e6621670e1ce17": 1789630256,
   "42f78a0d5c429b33": 1789785019,
   "42fb3ce64a490096": 1789974322,
+  "43076837c8120962": 1790248226,
   "43135d042755b40f": 1790034282,
   "431fbc431c7a2c52": 1789959919,
   "4326786bc50832c8": 1789977328,
@@ -5729,8 +5639,8 @@
  },
  "companies_today": {},
  "day": "2026-09-24",
- "last_clip": 1790241016,
- "last_msg_poll": 1790248165,
+ "last_clip": 1790248226,
+ "last_msg_poll": 1790248469,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5772,7 +5682,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 20:09 KST",
+  "last_run": "2026-09-24 20:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
