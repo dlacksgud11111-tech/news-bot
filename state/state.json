@@ -229,6 +229,16 @@
    "t": "[미국 특징주] 오라클 3%대 하락…AI 데이터센터 전력 확보 지연에 '불가항력' 통보 - 뉴스핌",
    "ts": 1790277660,
    "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuZ2RPU1RvQlFmbFJHSXhiNnczWlpReDRuZVlPcEVQdTc3ZndFMEIxSmdkenNqeWN3NW5lcHNqaHNRZlU2QWVObG9ZdmFNMktoV1N4cFpGTjBaMEd0?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "중앙이코노미뉴스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "구글, 다음 주 AI칩 실은 위성 쏜다…‘우주 데이터센터’ 첫 궤도 실증 - 중앙이코노미뉴스",
+   "ts": 1790263800,
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NNkRaZzJaWWJHbzdLV1ItTW5mamxrUkJ5ZzZyV25sWkF0S1lsODd1R1JLampJNVFXZVFKMzJrWkNMSDdtNG1Zby1BYjJIWWlCdkloV3J5Y25aMERSZnU1a3NuTjV6YXlWeXVmZUdvdnZrdw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -520,6 +530,7 @@
   "0def7789a8e68486": 1789948516,
   "0df6f3a80a6d56ed": 1789781561,
   "0df9dc0f3e478692": 1790042975,
+  "0e08bb7aad5fea63": 1790278829,
   "0e2ee03183462525": 1789692619,
   "0e340fdb5498d2f3": 1790064199,
   "0e3980375ec20a27": 1789785019,
@@ -5751,7 +5762,7 @@
  "companies_today": {},
  "day": "2026-09-25",
  "last_clip": 1790262927,
- "last_msg_poll": 1790278777,
+ "last_msg_poll": 1790279078,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5793,7 +5804,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-25 04:39 KST",
+  "last_run": "2026-09-25 04:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
