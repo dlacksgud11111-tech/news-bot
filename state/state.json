@@ -159,7 +159,28 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 1,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Woodway to build 22-mile gas pipeline for undisclosed data center in US",
+   "ts": 1790253389,
+   "u": "https://www.datacenterdynamics.com/en/news/woodway-to-build-22-mile-gas-pipeline-for-undisclosed-data-center-in-us/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 6,
+   "sec": "유틸리티·정책",
+   "t": "U.S. solar system pricing rises for utility, C&I projects as residential costs decline",
+   "ts": 1790253157,
+   "u": "https://www.pv-magazine.com/2026/09/24/u-s-solar-system-pricing-rises-for-utility-and-commercial-projects-as-residential-costs-decline/"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -1796,6 +1817,7 @@
   "4814e67851d645c2": 1789956049,
   "481c8261136e807b": 1789983921,
   "48204be00b06448d": 1790039473,
+  "4823a12758aa3b0c": 1790253748,
   "4823a1eac3ce75f8": 1789954905,
   "4823c301d9d23b38": 1789870063,
   "4829f5c44bbbac41": 1790068256,
@@ -2173,6 +2195,7 @@
   "5a9ba13e347c4f1b": 1790053220,
   "5aa822ed0daa3de8": 1790042975,
   "5aa88a23311af04c": 1790147295,
+  "5ab2f00c6bb22277": 1790253748,
   "5abfb9578f396d70": 1790005215,
   "5aceda32965e23a1": 1790111621,
   "5acfa63123024f0d": 1790060726,
@@ -2537,6 +2560,7 @@
   "6c91adf2e6d52e26": 1789797679,
   "6ca9a15a54a17d61": 1789627496,
   "6cab3341df43fcd2": 1789631127,
+  "6cab7bf3ae0edcfe": 1790253748,
   "6cc084ff265e3ac5": 1789693531,
   "6cc1d5585c12cb6c": 1789938697,
   "6cc85047f4493022": 1790053820,
@@ -5645,7 +5669,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790248226,
- "last_msg_poll": 1790253417,
+ "last_msg_poll": 1790253988,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5687,7 +5711,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 21:36 KST",
+  "last_run": "2026-09-24 21:46 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
