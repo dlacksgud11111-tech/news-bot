@@ -159,48 +159,7 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 1,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Solar parks provide refuge and hunting grounds for birds of prey",
-   "ts": 1790235584,
-   "u": "https://www.pv-magazine.com/2026/09/24/solar-parks-provide-refuge-and-hunting-grounds-for-birds-of-prey/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Vietnam.vn",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "데이터센터 전기 요금 문제에 대한 해결책은 무엇일까요? - Vietnam.vn",
-   "ts": 1790236349,
-   "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MOTl0YzBlc2FtZ0hURHBnZlNsTnpoYTJvVFptRTVKMTZmRi1Gd0Z2ZXFCZkJrX3YzZGRwMzg3NkZCMUFhYllob1pWUV9GNG1Sc2hIeWlDSkVWYkRNbW5VTTJleFR1ajM0U1UtcXhqZzZNcDV4U2dqalY0TWNLQQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "재생에너지·ESS",
-   "t": "스마트폰 밤새 충전하면…폭발 위험 없지만 '완충 강박'이 배터리 수명 줄인다",
-   "ts": 1790236565,
-   "u": "https://www.etnews.com/20260924000047"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 7,
-   "sec": "재생에너지·ESS",
-   "t": "Midea Energy debuts broad storage portfolio at Solar & Storage Live UK",
-   "ts": 1790240400,
-   "u": "https://www.pv-magazine.com/2026/09/24/midea-energy-debuts-broad-storage-portfolio-at-solar-storage-live-uk/"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -5660,8 +5619,8 @@
  },
  "companies_today": {},
  "day": "2026-09-24",
- "last_clip": 1790233628,
- "last_msg_poll": 1790240968,
+ "last_clip": 1790241016,
+ "last_msg_poll": 1790241266,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5703,7 +5662,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 18:09 KST",
+  "last_run": "2026-09-24 18:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
