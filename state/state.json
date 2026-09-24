@@ -219,6 +219,16 @@
    "t": "Victoria, Australia, proposes rules requiring data centers to secure own renewable energy supply",
    "ts": 1790246779,
    "u": "https://www.datacenterdynamics.com/en/news/victoria-australia-proposes-rules-requiring-data-centers-to-secure-own-renewable-energy-supply/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "Second-life PV modules turned into solar balconies in Germany",
+   "ts": 1790247042,
+   "u": "https://www.pv-magazine.com/2026/09/24/second-life-pv-modules-turned-into-solar-balconies-in-germany/"
   }
  ],
  "clip_titles": [],
@@ -678,6 +688,7 @@
   "15b4bc21f3585af7": 1789728460,
   "15b977db07a31b97": 1790040051,
   "15bdb774ba0c99a0": 1790065913,
+  "15c4cec3167c8238": 1790247317,
   "15c6332685b85fb4": 1789859418,
   "15cfa7b189a8cf1c": 1790132720,
   "15d35d32192f6838": 1790069722,
@@ -5697,7 +5708,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790241016,
- "last_msg_poll": 1790247264,
+ "last_msg_poll": 1790247566,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5739,7 +5750,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 19:54 KST",
+  "last_run": "2026-09-24 19:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
