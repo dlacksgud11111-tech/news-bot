@@ -179,6 +179,16 @@
    "t": "FERC rejects ComEd’s cancellation of PowerHouse Hillwood data center contract - Utility Dive",
    "ts": 1790176706,
    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbzNCUGNOMkNuNFJDVk43eV9nckRpYkdZbkF0akREYmt6cHc0eDgxUk1oelc0dTF3aFZtMUZmSFAzTXdyS19ESVl2ZklvUzEwa2RHSTdLX0lOWlFEeEhCbGxMU09CYk8tZXR6NkRhZ0FSS256WHJRX29lb1hYNDd0Qm5vbkZfTGN2THNtV19MNGFGOGs0?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 4,
+   "sec": "유틸리티·정책",
+   "t": "New York audits utility AI use, cites risk in ‘growing dependency’",
+   "ts": 1790253418,
+   "u": "https://www.utilitydive.com/news/new-york-audits-utility-ai-use-cites-risk-in-growing-dependency/831242/"
   }
  ],
  "clip_titles": [],
@@ -557,6 +567,7 @@
   "11d8776d4d5ff22a": 1790125530,
   "11ef4b001dce8ef1": 1790146721,
   "11ff33b69839685a": 1789973468,
+  "1200469aff3dc3e4": 1790261116,
   "1208868d137d2970": 1790127933,
   "12313bca94393c9e": 1790037737,
   "12355ffd7dab6200": 1789680028,
@@ -2523,6 +2534,7 @@
   "6a4ff15e749989d6": 1790058917,
   "6a6731219e7acff6": 1790125530,
   "6a73e901c3610ca6": 1789702817,
+  "6a8096c907364675": 1790261116,
   "6a840724fc11ce5e": 1790057120,
   "6a982a4d221c8033": 1789695920,
   "6aa1466e425f88f2": 1789712512,
@@ -5680,7 +5692,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790255484,
- "last_msg_poll": 1790261080,
+ "last_msg_poll": 1790261365,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5722,7 +5734,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 23:44 KST",
+  "last_run": "2026-09-24 23:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
