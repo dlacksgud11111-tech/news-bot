@@ -169,6 +169,16 @@
    "t": "리튬이온 UPS 배터리 캐비닛 시장 2035년 전망: 데이터센터 수요가 성장 견인 - 뉴스 및 통계 - IndexBox",
    "ts": 1790247064,
    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY0JNaXJnNFFqQWxqcFdjTUZ3andjTUtRWHR2MWdRTENrcURvN1lQb0hjOGoyek5jXzNzTVpoMVdhRkhsTjhTYVlfVFNCQXhmMzVDb19xNDZDX2x5Z1hpOVcyeDFZbDVmSTRKU0lKdDhvMHYzUm5tTjZIckQ1T0FWVG5uTlJwbnNaVjcyRXpfZDZON04yN05HVFladDdwMDR2bTFDN2lTVnk3Rm9OSWp6TEVUN01FczJuSF9adkNHdHZncFFkQ01vNkR3?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive",
+   "sc": 4,
+   "sec": "데이터센터·AI전력",
+   "t": "FERC rejects ComEd’s cancellation of PowerHouse Hillwood data center contract - Utility Dive",
+   "ts": 1790176706,
+   "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbzNCUGNOMkNuNFJDVk43eV9nckRpYkdZbkF0akREYmt6cHc0eDgxUk1oelc0dTF3aFZtMUZmSFAzTXdyS19ESVl2ZklvUzEwa2RHSTdLX0lOWlFEeEhCbGxMU09CYk8tZXR6NkRhZ0FSS256WHJRX29lb1hYNDd0Qm5vbkZfTGN2THNtV19MNGFGOGs0?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3773,6 +3783,7 @@
   "a81911d413223c66": 1789629088,
   "a8248e91b85092a6": 1789875319,
   "a83b1a2120142a4d": 1790136320,
+  "a83da74c12026d8c": 1790259020,
   "a844f56881b68de5": 1790038311,
   "a8499a4433b0c65b": 1789872360,
   "a849d9d5c3d76808": 1789634116,
@@ -4887,6 +4898,7 @@
   "dbb2a7e0d3912d0c": 1790053518,
   "dbb2b1d66902ff76": 1790027543,
   "dbcfd521805eed15": 1789627496,
+  "dbd3df39b062ee3e": 1790259020,
   "dbfaf5afebdfa899": 1790127320,
   "dc0104fce3a0c7e6": 1789655729,
   "dc06a253062b0ae4": 1790050530,
@@ -5665,7 +5677,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790255484,
- "last_msg_poll": 1790258970,
+ "last_msg_poll": 1790259271,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5707,7 +5719,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 23:09 KST",
+  "last_run": "2026-09-24 23:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
