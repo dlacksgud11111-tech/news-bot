@@ -169,6 +169,16 @@
    "t": "Turkish utility tenders solar project",
    "ts": 1790241128,
    "u": "https://www.pv-magazine.com/2026/09/24/turkish-utility-tenders-solar-project/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 3,
+   "sec": "재생에너지·ESS",
+   "t": "Longi sets 28.29% world record for single-junction silicon solar cell efficiency",
+   "ts": 1790241580,
+   "u": "https://www.pv-magazine.com/2026/09/24/longi-sets-28-29-world-record-for-single-junction-silicon-solar-cell-efficiency/"
   }
  ],
  "clip_titles": [],
@@ -2366,6 +2376,7 @@
   "641fe00a4d0a7f0c": 1789865116,
   "642b41d332e4a7ae": 1789916965,
   "642c64c7798204bb": 1790206113,
+  "6439db99312a4d99": 1790241621,
   "644564b0a0d0e634": 1790126420,
   "644ae17fd717d25f": 1789974322,
   "64547a37529c0449": 1789957530,
@@ -5338,6 +5349,7 @@
   "f1ea2f9be689ba23": 1789707915,
   "f2012dd5c7141dc5": 1789639528,
   "f205fa879755cd35": 1789870063,
+  "f210720431c6b312": 1790241621,
   "f223a1b108219c2c": 1789722018,
   "f22861830ced419d": 1790064758,
   "f22fe24586bb5c9b": 1789683939,
@@ -5632,7 +5644,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790241016,
- "last_msg_poll": 1790241580,
+ "last_msg_poll": 1790241866,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5674,7 +5686,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 18:19 KST",
+  "last_run": "2026-09-24 18:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
