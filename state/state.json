@@ -229,6 +229,16 @@
    "t": "Second-life PV modules turned into solar balconies in Germany",
    "ts": 1790247042,
    "u": "https://www.pv-magazine.com/2026/09/24/second-life-pv-modules-turned-into-solar-balconies-in-germany/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 8,
+   "sec": "유틸리티·정책",
+   "t": "NYSERDA picks eight projects for New York utility-scale energy storage programme",
+   "ts": 1790247393,
+   "u": "https://www.energy-storage.news/nyserda-picks-eight-projects-for-new-york-utility-scale-energy-storage-programme/"
   }
  ],
  "clip_titles": [],
@@ -4596,6 +4606,7 @@
   "cc3af78109dd531a": 1789707915,
   "cc3ce47e22fb4fe3": 1789969411,
   "cc49134b5d1f19a5": 1790152520,
+  "cc4ead1aa386cd5c": 1790247617,
   "cc5719f69b20d0df": 1790125530,
   "cc575decbb322ec8": 1790122002,
   "cc5a0b8598e18147": 1789967119,
@@ -5708,7 +5719,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790241016,
- "last_msg_poll": 1790247566,
+ "last_msg_poll": 1790247864,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5750,7 +5761,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 19:59 KST",
+  "last_run": "2026-09-24 20:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
