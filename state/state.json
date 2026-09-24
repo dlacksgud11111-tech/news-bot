@@ -159,28 +159,7 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 1,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Woodway to build 22-mile gas pipeline for undisclosed data center in US",
-   "ts": 1790253389,
-   "u": "https://www.datacenterdynamics.com/en/news/woodway-to-build-22-mile-gas-pipeline-for-undisclosed-data-center-in-us/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 6,
-   "sec": "유틸리티·정책",
-   "t": "U.S. solar system pricing rises for utility, C&I projects as residential costs decline",
-   "ts": 1790253157,
-   "u": "https://www.pv-magazine.com/2026/09/24/u-s-solar-system-pricing-rises-for-utility-and-commercial-projects-as-residential-costs-decline/"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -3169,6 +3148,7 @@
   "89e52c12d647f6a0": 1789695321,
   "89e7a3399178f20c": 1790141730,
   "89e8f0298d866fd1": 1790008218,
+  "89eebcbcfcd266e6": 1790255484,
   "8a0c2578dc01b23f": 1789977032,
   "8a47289d6acb3092": 1790127933,
   "8a5dba0eb7a94e86": 1790118021,
@@ -5669,8 +5649,8 @@
  },
  "companies_today": {},
  "day": "2026-09-24",
- "last_clip": 1790248226,
- "last_msg_poll": 1790255144,
+ "last_clip": 1790255484,
+ "last_msg_poll": 1790255729,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5712,7 +5692,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 22:05 KST",
+  "last_run": "2026-09-24 22:15 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
