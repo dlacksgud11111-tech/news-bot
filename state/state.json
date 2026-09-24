@@ -158,7 +158,7 @@
   "cdaa54f68b0563fa": 1789658129,
   "d09dd25c4f4edf8d": 1790174132
  },
- "alerted_today": 1,
+ "alerted_today": 0,
  "clip_buffer": [
   {
    "co": "",
@@ -3735,6 +3735,7 @@
   "a4923cfb34ba6b7f": 1790070922,
   "a49c9c73492b120b": 1790228121,
   "a4a1bfa6327beb7a": 1789724119,
+  "a4a492308a6ee15f": 1790262018,
   "a4ac8fbfd96388f2": 1789629088,
   "a4b7bc872c0b37c1": 1789971183,
   "a4c6168d8e8eca1c": 1789947108,
@@ -5701,9 +5702,9 @@
   "fff2f5dcb775e439": 1790073620
  },
  "companies_today": {},
- "day": "2026-09-24",
+ "day": "2026-09-25",
  "last_clip": 1790255484,
- "last_msg_poll": 1790261969,
+ "last_msg_poll": 1790262269,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5745,7 +5746,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 23:59 KST",
+  "last_run": "2026-09-25 00:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
