@@ -159,7 +159,18 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 0,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Oracle issues force majeure notice to Blue Owl following series of setbacks at Project Jupiter data center campus – report",
+   "ts": 1790264133,
+   "u": "https://www.datacenterdynamics.com/en/news/oracle-issues-force-majeure-notice-to-blue-owl-following-series-of-setbacks-at-project-jupiter-data-center-campus-report/"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -625,6 +636,7 @@
   "15d35d32192f6838": 1790069722,
   "15e4c228e946ae6e": 1789695017,
   "15e585cf05a84056": 1790128524,
+  "15eea328cb78c71f": 1790264745,
   "15fca67551644586": 1789949125,
   "15ffa7aad0b13556": 1789735819,
   "15fff8e61da22ae1": 1790260520,
@@ -5667,7 +5679,7 @@
  "companies_today": {},
  "day": "2026-09-25",
  "last_clip": 1790262927,
- "last_msg_poll": 1790264417,
+ "last_msg_poll": 1790264986,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5709,7 +5721,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-25 00:40 KST",
+  "last_run": "2026-09-25 00:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
