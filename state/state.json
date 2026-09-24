@@ -199,6 +199,16 @@
    "t": "'불가항력 통지' 오라클 5% 급락…AI 데이터센터에 무슨 일이 - 마켓인",
    "ts": 1790261013,
    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yTFFJaC1iUjlTajVIOHEzajduNXdCVmFJMlNJMGN5VG5UcGprZ1lKcVBNVXJ4ZDQ1bHJTSmlLeXAwLWhPSDV3Ul9oNEdueWUwY194czZLVFUtU0gtQXhNbVB6X0Z2R2NnZkdZZldXTnduMXM?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "theguru.co.kr",
+   "sc": 4,
+   "sec": "데이터센터·AI전력",
+   "t": "[AI發 해외건설 체질 개선](上) 플랜트서 원전·데이터센터로…건설사 포트폴리오 바뀐다 - theguru.co.kr",
+   "ts": 1790262035,
+   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wcEJwRG1VZ2pndlFldjdrR2k5clJ0Q2ZDa1hmbGh0TmJORFlyZHg2Z2xWSEZNcXNzZ1R6OXZjdlRjSVhZQkMtcG9qSTY5X0xRZjd3UjNydkFfYThUUHhNSlB4cw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3498,6 +3508,7 @@
   "98e56dbcc7a522f0": 1789868332,
   "98e94c7d01ed5068": 1790120847,
   "98f44908be4e1fae": 1789974322,
+  "9901f6fdbb2a2077": 1790262336,
   "99160298832d1178": 1789724997,
   "992f8bc868c511c5": 1790082587,
   "99462ccc0519934d": 1789632918,
@@ -4489,6 +4500,7 @@
   "c71183c35ff0e05b": 1790031917,
   "c71ae0ccc1cea14d": 1790035428,
   "c72596ae7e9d8621": 1789954905,
+  "c7285b2c7fd2db36": 1790262336,
   "c72c8f73724de7f2": 1789949125,
   "c72f25ea451fd99e": 1789744015,
   "c73914913451a932": 1789629088,
@@ -5704,7 +5716,7 @@
  "companies_today": {},
  "day": "2026-09-25",
  "last_clip": 1790255484,
- "last_msg_poll": 1790262269,
+ "last_msg_poll": 1790262580,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5746,7 +5758,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-25 00:04 KST",
+  "last_run": "2026-09-25 00:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
