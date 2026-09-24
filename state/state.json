@@ -199,6 +199,16 @@
    "t": "Pylontech starts mass production of 588 Ah, 601 Ah storage cells",
    "ts": 1790242929,
    "u": "https://www.pv-magazine.com/2026/09/24/pylontech-starts-mass-production-of-588-ah-601-ah-storage-cells/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 6,
+   "sec": "재생에너지·ESS",
+   "t": "Zambia commissions 100 MW solar project",
+   "ts": 1790246654,
+   "u": "https://www.pv-magazine.com/2026/09/24/zambia-commissions-100-mw-solar-project/"
   }
  ],
  "clip_titles": [],
@@ -2133,6 +2143,7 @@
   "5744e6d764fe2cd8": 1789715119,
   "57468c64e8396229": 1789627496,
   "576080c18664160e": 1790061315,
+  "5771608c45fbf9a1": 1790246731,
   "577555a1b30ab4b9": 1790048746,
   "577b1d602bb2cdf1": 1789653315,
   "577b5e90ee05eff9": 1789956616,
@@ -3320,6 +3331,7 @@
   "90bb9ccc29dc8a00": 1789945362,
   "90c2b72335984006": 1789695321,
   "90c58901417e0140": 1789627496,
+  "90d7080654f2e3ff": 1790246731,
   "9121352be8da3fec": 1790125530,
   "912417c26070be48": 1790044106,
   "9129166b88871f3c": 1789627496,
@@ -4373,6 +4385,7 @@
   "c2c681b76796e17b": 1789627496,
   "c2d0f59f8f6f082f": 1789710788,
   "c2db56675bc0a3e6": 1789965314,
+  "c2dc73af047bb9e6": 1790246731,
   "c2df159f81659aef": 1789629612,
   "c2f3b8c10cb337b2": 1790127320,
   "c31033891c17d50f": 1790053518,
@@ -5672,7 +5685,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790241016,
- "last_msg_poll": 1790246678,
+ "last_msg_poll": 1790246980,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5714,7 +5727,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 19:44 KST",
+  "last_run": "2026-09-24 19:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
