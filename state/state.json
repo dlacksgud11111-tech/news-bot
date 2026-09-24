@@ -199,6 +199,16 @@
    "t": "'불가항력 통지' 오라클 5% 급락…AI 데이터센터에 무슨 일이 - edaily.co.kr",
    "ts": 1790261013,
    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZUpnaDRNeC1fRVA2eGxRVTFqS2pDX2ZpTU9tVzNwdVdLbGthQnFhVDFHV0U2T2VINDd0Y19RVFkyTWw2S0xLTkxmS0xfa2JKU0NNNFBRUkxIVGF3dllqQlVNWUhfZzRjbXhPTTd5cFJ6M1RLZjdYVjdKaUktczl2Nw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "토큰포스트",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "오라클($ORCL), 뉴멕시코 데이터센터 비용 지급 연기 추진 - 토큰포스트",
+   "ts": 1790253786,
+   "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1heDlycjdLejhIbG52a3ZuczMzN2RuMlBFa3BDeXlqcXZ6Qkl0ZGZuWHUwNUtMbFp3M05QMDVHa3NHa2d2WjNfOGI5TmxobVlUb2l2UWZZV20?oc=5"
   }
  ],
  "clip_titles": [],
@@ -5436,6 +5446,7 @@
   "f29e3cce9dbaa752": 1790070017,
   "f2bbce3c3c47e0b9": 1790226321,
   "f2ce077b142224a2": 1789951988,
+  "f2da9a5888aa3dbb": 1790267598,
   "f2e7a22438287d5b": 1789627496,
   "f30cc617302802c4": 1790153718,
   "f32ef9435088ca33": 1789627496,
@@ -5714,7 +5725,7 @@
  "companies_today": {},
  "day": "2026-09-25",
  "last_clip": 1790262927,
- "last_msg_poll": 1790267281,
+ "last_msg_poll": 1790267843,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5756,7 +5767,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-25 01:28 KST",
+  "last_run": "2026-09-25 01:37 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
