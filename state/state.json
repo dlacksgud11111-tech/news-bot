@@ -159,7 +159,18 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 1,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 9,
+   "sec": "유틸리티·정책",
+   "t": "Turkish utility tenders solar project",
+   "ts": 1790241128,
+   "u": "https://www.pv-magazine.com/2026/09/24/turkish-utility-tenders-solar-project/"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -2215,6 +2226,7 @@
   "5cf48a5ab5edffdd": 1790008517,
   "5cf732cda9fe2085": 1790040917,
   "5cf923d37bf08936": 1789632334,
+  "5cffef3f68a11fb2": 1790241331,
   "5d0581b5e5d01677": 1790208393,
   "5d0968d162f63173": 1789627496,
   "5d11f73125fce4da": 1790123718,
@@ -5620,7 +5632,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790241016,
- "last_msg_poll": 1790241266,
+ "last_msg_poll": 1790241580,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5662,7 +5674,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 18:14 KST",
+  "last_run": "2026-09-24 18:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
