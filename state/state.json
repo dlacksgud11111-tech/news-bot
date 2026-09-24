@@ -159,18 +159,7 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 1,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 2,
-   "s": "지디넷코리아",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "[AI 고속도로] 서버만 바꾸면 AIDC?…기존 데이터센터와 뭐가 다를까 - 지디넷코리아",
-   "ts": 1790209490,
-   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aUEZxVFNaNW8wM2M1NDFUTkZkSWx1aGJvMnhZQ1A2X1VwRDNINFVjeGNob0VqUHlnLTBHcXV2RFdtMzVUZUN6c0FSTFhvdjRuOEtWaGZ3?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -602,6 +591,7 @@
   "149bae1e1cfb97db": 1789653625,
   "14a2dbf91ae44dc5": 1789971183,
   "14a4d7265cbab556": 1790060726,
+  "14c7fb297e383193": 1790226321,
   "14d3e00c39f03abf": 1789953163,
   "14ea56ae9eb8779f": 1790068256,
   "14fd0d6cf59ac560": 1790084279,
@@ -3525,6 +3515,7 @@
   "9e5589733756bb19": 1789948832,
   "9e5702091dfd5e92": 1789959919,
   "9e5e87177a164ecb": 1789872927,
+  "9e603ccd4b978eda": 1790226321,
   "9e76c901b6161168": 1789724119,
   "9e8ab2be34f0f794": 1789967119,
   "9e92c661bc05e65a": 1790156134,
@@ -5210,6 +5201,7 @@
   "ed1bb3092871145f": 1790058619,
   "ed24ed7db56c5766": 1790040917,
   "ed32b88d68cfdb83": 1790042395,
+  "ed38e561a91d6681": 1790226321,
   "ed3acc405357d293": 1790088308,
   "ed3b0c77ffb59b2e": 1789971183,
   "ed4109a7b266d8ef": 1790061882,
@@ -5321,6 +5313,7 @@
   "f2967c4748d7d6fe": 1789877422,
   "f29cd925462a6865": 1789627496,
   "f29e3cce9dbaa752": 1790070017,
+  "f2bbce3c3c47e0b9": 1790226321,
   "f2ce077b142224a2": 1789951988,
   "f2e7a22438287d5b": 1789627496,
   "f30cc617302802c4": 1790153718,
@@ -5595,8 +5588,8 @@
  },
  "companies_today": {},
  "day": "2026-09-24",
- "last_clip": 1790208393,
- "last_msg_poll": 1790225995,
+ "last_clip": 1790226321,
+ "last_msg_poll": 1790226569,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5638,7 +5631,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 13:59 KST",
+  "last_run": "2026-09-24 14:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
