@@ -189,6 +189,16 @@
    "t": "스마트폰 밤새 충전하면…폭발 위험 없지만 '완충 강박'이 배터리 수명 줄인다",
    "ts": 1790236565,
    "u": "https://www.etnews.com/20260924000047"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 7,
+   "sec": "재생에너지·ESS",
+   "t": "Midea Energy debuts broad storage portfolio at Solar & Storage Live UK",
+   "ts": 1790240400,
+   "u": "https://www.pv-magazine.com/2026/09/24/midea-energy-debuts-broad-storage-portfolio-at-solar-storage-live-uk/"
   }
  ],
  "clip_titles": [],
@@ -642,6 +652,7 @@
   "155e403f63942a77": 1789871791,
   "157ca15a73fffcf2": 1789724119,
   "15a4fd7171771c6a": 1790040051,
+  "15a5f561afc2f954": 1790240717,
   "15ae74dd138f8065": 1790061315,
   "15b4bc21f3585af7": 1789728460,
   "15b977db07a31b97": 1790040051,
@@ -5650,7 +5661,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790233628,
- "last_msg_poll": 1790240665,
+ "last_msg_poll": 1790240968,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5692,7 +5703,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 18:04 KST",
+  "last_run": "2026-09-24 18:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
