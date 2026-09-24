@@ -169,6 +169,16 @@
    "t": "Solar parks provide refuge and hunting grounds for birds of prey",
    "ts": 1790235584,
    "u": "https://www.pv-magazine.com/2026/09/24/solar-parks-provide-refuge-and-hunting-grounds-for-birds-of-prey/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Vietnam.vn",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "데이터센터 전기 요금 문제에 대한 해결책은 무엇일까요? - Vietnam.vn",
+   "ts": 1790236349,
+   "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MOTl0YzBlc2FtZ0hURHBnZlNsTnpoYTJvVFptRTVKMTZmRi1Gd0Z2ZXFCZkJrX3YzZGRwMzg3NkZCMUFhYllob1pWUV9GNG1Sc2hIeWlDSkVWYkRNbW5VTTJleFR1ajM0U1UtcXhqZzZNcDV4U2dqalY0TWNLQQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -5229,6 +5239,7 @@
   "ecfee84b1f3453be": 1789683319,
   "ed02b80c690f3a8c": 1790058015,
   "ed052ab9327e5b13": 1789954905,
+  "ed0ba3ecc372d302": 1790236522,
   "ed1a5bc1c313f360": 1790042395,
   "ed1bb3092871145f": 1790058619,
   "ed24ed7db56c5766": 1790040917,
@@ -5624,7 +5635,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790233628,
- "last_msg_poll": 1790236455,
+ "last_msg_poll": 1790236768,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5666,7 +5677,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 16:54 KST",
+  "last_run": "2026-09-24 16:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
