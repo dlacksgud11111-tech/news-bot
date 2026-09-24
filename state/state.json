@@ -209,6 +209,16 @@
    "t": "오라클($ORCL), 뉴멕시코 데이터센터 비용 지급 연기 추진 - 토큰포스트",
    "ts": 1790253786,
    "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1heDlycjdLejhIbG52a3ZuczMzN2RuMlBFa3BDeXlqcXZ6Qkl0ZGZuWHUwNUtMbFp3M05QMDVHa3NHa2d2WjNfOGI5TmxobVlUb2l2UWZZV20?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "토큰포스트",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "오라클, 프로젝트 주피터 데이터센터 건설 계속 - 토큰포스트",
+   "ts": 1790253689,
+   "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5waUVVREtLdWhSb3d2WEhBcm54SkQxOFNCWnBNQUtQVVJIczhYT3RSSlVyUVk4T2pZTGp0S0wtNVdQaTBObGZWMjVaLU1LQnNmZXNJR0I2dXU?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2567,6 +2577,7 @@
   "6adb69e624e497e1": 1790037737,
   "6aef674a1c128c46": 1789627496,
   "6af88f13c585a2b3": 1789636515,
+  "6b20bfa75f1483ae": 1790275823,
   "6b25da4cfaffc78b": 1789873818,
   "6b2cc0a049264504": 1789702817,
   "6b39f03affe623ca": 1790044106,
@@ -5728,7 +5739,7 @@
  "companies_today": {},
  "day": "2026-09-25",
  "last_clip": 1790262927,
- "last_msg_poll": 1790275773,
+ "last_msg_poll": 1790276065,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5770,7 +5781,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-25 03:49 KST",
+  "last_run": "2026-09-25 03:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
