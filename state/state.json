@@ -199,6 +199,16 @@
    "t": "데이터센터가 불붙인 발전 엔진 시장… HD현대중공업 증설 나섰다 - 핀포인트뉴스",
    "ts": 1790227230,
    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ab3FnaHp4V0pqQlZLV1RaOUEzZWF5eVUzTTNtWnBMazByX1p2RUVZS3RvRUhrVjZ0TndqLWZsdkZaTVFkNmdJT0V1U0hmZEgtQ2Q4Y0RWaG8tMEFjU0NZZDJna0w3VEdyX215cnhXX0d4Z0HSAXdBVV95cUxQcW1nbGZ0Q1F6YjBrOFVBd1ItRlNlUjU4WlI4cEVGWi1VQVZiMWFyNVZkYUdIWVNISmtXYVZtUUd0TmhfMGlDQmlUeHZqX3VWdGdVcndqMGllYVV4RTN5cUtIQVU3b0hKcmtzSWcwbjVJalBOWm5VUQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "토큰포스트",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "MS 배출 25%·구글 전력수요 37% 증가, AI 기후 공약 압박 - 토큰포스트",
+   "ts": 1790189400,
+   "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12OEhndGwxSVNtRC1SZW8wMzlyU0ZyaGc4SVhKU1d2dklFa2xVdkh2UElkSERkbHNfLWd1aVhjS2FMS0tjQnc3QXdiMDVUcDc3?oc=5"
   }
  ],
  "clip_titles": [],
@@ -4117,6 +4127,7 @@
   "b770762cbe687a62": 1789627496,
   "b77d8262e9a2c30d": 1789656318,
   "b780de54d9b9231a": 1789953163,
+  "b784fe1f8bdbfef3": 1790230178,
   "b7855d60af34d90c": 1789627496,
   "b78f9a27b13b58d2": 1789716319,
   "b7a9c656eade8d5c": 1790106934,
@@ -5565,6 +5576,7 @@
   "fc3fa91ec09e292c": 1789706718,
   "fc41824c479f6c1c": 1789979721,
   "fc4890e88debc1da": 1790208393,
+  "fc4c1178001dcb47": 1790230178,
   "fc7f470bcb1c3715": 1789627496,
   "fc875109ac2280c9": 1789798257,
   "fc93521f510d2d93": 1790130924,
@@ -5640,7 +5652,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790226321,
- "last_msg_poll": 1790229859,
+ "last_msg_poll": 1790230426,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5682,7 +5694,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 15:04 KST",
+  "last_run": "2026-09-24 15:13 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
