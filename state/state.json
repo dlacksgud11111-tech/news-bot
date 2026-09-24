@@ -159,108 +159,7 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Oracle issues force majeure notice to Blue Owl following series of setbacks at Project Jupiter data center campus – report",
-   "ts": 1790264133,
-   "u": "https://www.datacenterdynamics.com/en/news/oracle-issues-force-majeure-notice-to-blue-owl-following-series-of-setbacks-at-project-jupiter-data-center-campus-report/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "Exelon’s climate arm backs grid-planning firm Continuum",
-   "ts": 1790266350,
-   "u": "https://www.utilitydive.com/news/utility-giant-exelons-climate-arm-backs-grid-planning-firm-continuum/831276/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "Advanced transmission projects get $1.9B in DOE funding",
-   "ts": 1790262417,
-   "u": "https://www.utilitydive.com/news/doe-advanced-transmission-projects-spark-funding/831259/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "edaily.co.kr",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "'불가항력 통지' 오라클 5% 급락…AI 데이터센터에 무슨 일이 - edaily.co.kr",
-   "ts": 1790261013,
-   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZUpnaDRNeC1fRVA2eGxRVTFqS2pDX2ZpTU9tVzNwdVdLbGthQnFhVDFHV0U2T2VINDd0Y19RVFkyTWw2S0xLTkxmS0xfa2JKU0NNNFBRUkxIVGF3dllqQlVNWUhfZzRjbXhPTTd5cFJ6M1RLZjdYVjdKaUktczl2Nw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "토큰포스트",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "오라클($ORCL), 뉴멕시코 데이터센터 비용 지급 연기 추진 - 토큰포스트",
-   "ts": 1790253786,
-   "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1heDlycjdLejhIbG52a3ZuczMzN2RuMlBFa3BDeXlqcXZ6Qkl0ZGZuWHUwNUtMbFp3M05QMDVHa3NHa2d2WjNfOGI5TmxobVlUb2l2UWZZV20?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "토큰포스트",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "오라클, 프로젝트 주피터 데이터센터 건설 계속 - 토큰포스트",
-   "ts": 1790253689,
-   "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5waUVVREtLdWhSb3d2WEhBcm54SkQxOFNCWnBNQUtQVVJIczhYT3RSSlVyUVk4T2pZTGp0S0wtNVdQaTBObGZWMjVaLU1LQnNmZXNJR0I2dXU?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴스핌",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "[미국 특징주] 오라클 3%대 하락…AI 데이터센터 전력 확보 지연에 '불가항력' 통보 - 뉴스핌",
-   "ts": 1790277660,
-   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuZ2RPU1RvQlFmbFJHSXhiNnczWlpReDRuZVlPcEVQdTc3ZndFMEIxSmdkenNqeWN3NW5lcHNqaHNRZlU2QWVObG9ZdmFNMktoV1N4cFpGTjBaMEd0?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "중앙이코노미뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "구글, 다음 주 AI칩 실은 위성 쏜다…‘우주 데이터센터’ 첫 궤도 실증 - 중앙이코노미뉴스",
-   "ts": 1790263800,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NNkRaZzJaWWJHbzdLV1ItTW5mamxrUkJ5ZzZyV25sWkF0S1lsODd1R1JLampJNVFXZVFKMzJrWkNMSDdtNG1Zby1BYjJIWWlCdkloV3J5Y25aMERSZnU1a3NuTjV6YXlWeXVmZUdvdnZrdw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Investing.com 한국어",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "UL 솔루션스, AI 데이터센터 전력 장치 인증 프로그램 출시 - Investing.com 한국어",
-   "ts": 1790280600,
-   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sS1J2OGExRGhhLVl1RVZkOUNpRWNEdmY1RzBPOEpjU3NYb0NpeFIxRzlNbjRqY2lBcWdWT1d3NmVaclRHcU1FQ1VFZGxOeXlGbWdDNGp3SjF2bEtUbnJ0MS1tb1ZacW9yM2RSejZBX2U?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "파이낸셜포스트",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "바다 제패한 HD현대 '힘센엔진'…AI 데이터센터 심장으로 뛴다 - 파이낸셜포스트",
-   "ts": 1790281800,
-   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11Mkg3b3l2ODc2UkVId2ZYRTFwRWJNazk0Ynl6TjRNZ2FaZ09PblFMRGRqV25icktrTFFlYndJa3pwd2RIWDR2Z2VLTmZsSm9KVV9oN0kwc0FFSURNaWVnN0lna1RWZFNEdTBkLU1LVVpGLWd2?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -403,6 +302,7 @@
   "06cb0784323607ea": 1790055317,
   "06f6a713a294ff15": 1790040917,
   "070a7ccafc15520b": 1789954905,
+  "070ad59a0b778300": 1790287591,
   "07267789ee608886": 1789627496,
   "072e454b51f9191b": 1790039473,
   "073416c7b89db4b0": 1789691718,
@@ -474,6 +374,7 @@
   "0a5b83ac5a426648": 1790008517,
   "0a6a1e62ab2025d6": 1790060129,
   "0a828ec3943e7338": 1789629088,
+  "0a86ac393cdf3397": 1790287591,
   "0a9459198c98e08c": 1790165421,
   "0a97b654cd19a55b": 1790042395,
   "0aa7e761994eea5a": 1789872360,
@@ -2889,6 +2790,7 @@
   "77e61f5d743e564c": 1789958121,
   "77f26b5e24220226": 1790006722,
   "77f637810112b2bc": 1790003117,
+  "78103a1b80d2ffa5": 1790287591,
   "7812710f6512eb9f": 1789731320,
   "782bcb957f4186f4": 1790053518,
   "782c892dba060c2a": 1789646718,
@@ -3603,6 +3505,7 @@
   "9a5c906c7991e26c": 1789972312,
   "9a5d49dec52c2919": 1789959919,
   "9abd7e0e2953ff57": 1790079022,
+  "9abea227947c3e9e": 1790287591,
   "9ac036bfcdff03f5": 1790142019,
   "9acdb86561cc6027": 1789634416,
   "9ae23e20ed403e8f": 1790123718,
@@ -3997,6 +3900,7 @@
   "acfae5aefd8b9d41": 1790057120,
   "acfbe97d3cefa67e": 1790055317,
   "ad0e1cbcd7385186": 1789693531,
+  "ad132720c08399d0": 1790287591,
   "ad1445843e5f5b64": 1790122002,
   "ad1e0d5473266979": 1790040917,
   "ad5477c6b41f3994": 1789959318,
@@ -4740,6 +4644,7 @@
   "cf20b4004f2479a0": 1789967119,
   "cf356e533f5942b5": 1789629088,
   "cf3feb0c06959da1": 1789708498,
+  "cf706ec2a591a385": 1790287591,
   "cf72c1cf82e438c0": 1790075118,
   "cf99a72392bef528": 1790024635,
   "cf9e95fc4e7a6b73": 1789647653,
@@ -4814,6 +4719,7 @@
   "d2a6ef13c5771c66": 1789953163,
   "d2a71e09489448cb": 1790061315,
   "d2adfd64f87273cc": 1790064758,
+  "d2b152aed9104616": 1790287591,
   "d2b163160a93ffb0": 1789958121,
   "d2cbd4c444dfdd43": 1790060726,
   "d2cf7a8d9b226be0": 1789981516,
@@ -5792,8 +5698,8 @@
  },
  "companies_today": {},
  "day": "2026-09-25",
- "last_clip": 1790262927,
- "last_msg_poll": 1790287264,
+ "last_clip": 1790287591,
+ "last_msg_poll": 1790287832,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5835,7 +5741,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-25 07:01 KST",
+  "last_run": "2026-09-25 07:10 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
