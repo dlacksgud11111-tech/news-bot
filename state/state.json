@@ -159,7 +159,18 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 1,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴스핌",
+   "sc": 0,
+   "sec": "전력기기",
+   "t": "[GAM]굴뚝 기업 허벨 AI 기대주 변신 ① 데이터센터-그리드 현대화 주축 - 뉴스핌",
+   "ts": 1790136000,
+   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zMlZBbkhtZXZpU1pYN0RaaERDTm1DWW1teFVOd3NILXlpOF95QzE4RUlrWDk4YjVLYW9kbUF0QlJJNTJiRGk1T21sLWtPS29MdXcyS1hxa0EtX2N2?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -1771,6 +1782,7 @@
   "4769ef2dcd6a5445": 1790197952,
   "47a576d3fe07396f": 1789979721,
   "47a5b5f032af6982": 1789866315,
+  "47ad49752e692060": 1790226628,
   "47b09620ddc4d93e": 1789888052,
   "47b96de5eb5e6b9b": 1789859418,
   "47bd276ea7cc615b": 1790067063,
@@ -1901,6 +1913,7 @@
   "4e23888217cc671e": 1789651818,
   "4e2504ff8dd17936": 1789851315,
   "4e452a837eccbc35": 1790076625,
+  "4e4a1c1cf368c314": 1790226628,
   "4e542cc5daa30b24": 1789627496,
   "4e7af4c25ceebfa5": 1790001429,
   "4e7ce12a7af7a0f7": 1789951430,
@@ -2855,6 +2868,7 @@
   "7d5323cdea5915ab": 1789786216,
   "7d5c072ca52681e2": 1790132720,
   "7d7237c972328721": 1790051717,
+  "7d7d76c16e80a6ee": 1790226628,
   "7d81a2d8f3015367": 1789962027,
   "7d8452f22da305fa": 1790063611,
   "7d8669a3b5c67c31": 1789635327,
@@ -5589,7 +5603,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790226321,
- "last_msg_poll": 1790226569,
+ "last_msg_poll": 1790226878,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5631,7 +5645,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 14:09 KST",
+  "last_run": "2026-09-24 14:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
