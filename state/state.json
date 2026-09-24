@@ -179,6 +179,16 @@
    "t": "데이터센터 전기 요금 문제에 대한 해결책은 무엇일까요? - Vietnam.vn",
    "ts": 1790236349,
    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MOTl0YzBlc2FtZ0hURHBnZlNsTnpoYTJvVFptRTVKMTZmRi1Gd0Z2ZXFCZkJrX3YzZGRwMzg3NkZCMUFhYllob1pWUV9GNG1Sc2hIeWlDSkVWYkRNbW5VTTJleFR1ajM0U1UtcXhqZzZNcDV4U2dqalY0TWNLQQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "속보 - 이티뉴스",
+   "sc": 0,
+   "sec": "재생에너지·ESS",
+   "t": "스마트폰 밤새 충전하면…폭발 위험 없지만 '완충 강박'이 배터리 수명 줄인다",
+   "ts": 1790236565,
+   "u": "https://www.etnews.com/20260924000047"
   }
  ],
  "clip_titles": [],
@@ -3192,6 +3202,7 @@
   "8bfb820c83597c8e": 1789810766,
   "8c0308b5734bd8cc": 1789627496,
   "8c146ae3182d10b3": 1789691718,
+  "8c3f13b0dd00c645": 1790237121,
   "8c5b8055779d7030": 1790158229,
   "8c5da1469c4d6899": 1790125822,
   "8c654041da5a483e": 1789960215,
@@ -3690,6 +3701,7 @@
   "a4b7bc872c0b37c1": 1789971183,
   "a4c6168d8e8eca1c": 1789947108,
   "a4c7befbd24ec614": 1789776616,
+  "a4ce6aac370f4f74": 1790237121,
   "a4de1d15edbfd6d5": 1789691718,
   "a4e54ce2ffcedc41": 1789895115,
   "a5020cdbd2652266": 1790057722,
@@ -5635,7 +5647,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790233628,
- "last_msg_poll": 1790237057,
+ "last_msg_poll": 1790237371,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5677,7 +5689,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 17:04 KST",
+  "last_run": "2026-09-24 17:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
