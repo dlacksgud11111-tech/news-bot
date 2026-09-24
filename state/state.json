@@ -169,6 +169,26 @@
    "t": "[GAM]굴뚝 기업 허벨 AI 기대주 변신 ① 데이터센터-그리드 현대화 주축 - 뉴스핌",
    "ts": 1790136000,
    "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zMlZBbkhtZXZpU1pYN0RaaERDTm1DWW1teFVOd3NILXlpOF95QzE4RUlrWDk4YjVLYW9kbUF0QlJJNTJiRGk1T21sLWtPS29MdXcyS1hxa0EtX2N2?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "핀포인트뉴스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터가 반도체 기판까지 끌어올렸다…해성디에스 실적 반전 - 핀포인트뉴스",
+   "ts": 1790225490,
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tMy0tclFBSWRmTm85TU9EQnVoeWxBX0prRGVDMWhEV2J2WTAzcjRWaTZXaDRydE5oNFRKZm01Yk53R2FTUEt2SzBST3Z1elJhX1BhSmVTRTgyM2hXajhXYloxdnlqQUdqTWZpUnp2Wl8xTjDSAXdBVV95cUxNM0JEQmNGU2V6NTZLMndKdnVncGFiaUpQX3BwNmhWaTdHT19PLTdoMFJZSllNX0tLNVJpUUxQWXpXUjZOck9wUENrUlpZQWF1amF2bDBPMTQ0YkRXckdQWnROMVI0Z2NtdUNkcmt6RUNOZmROa0ZFWQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "코리아포스트 한글판",
+   "sc": 4,
+   "sec": "전력기기",
+   "t": "[급변하는 외교시장: 프랑스 전선시장] 노후 송전망 교체에 AI 데이터센터까지…프랑스 고압 케이블 수요 확대 - 코리아포스트 한글판",
+   "ts": 1790208000,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zRFBabkZRb09QRTd2OEJXY1JSSHRXdDhaQjYyNGVUdEx6YmRtTjhkdWxDUURFWnQ1VURST0lRZWppYmJMZmdsVmJSa3luS0pZQkt1bUM3MFpHMXh2WDhlQzN0dk5mN2JkZkMxdmhn?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1813,6 +1833,7 @@
   "48dc0388457c9fd9": 1789976119,
   "48f5eece04f7f5e0": 1790125822,
   "48f6183f6765067e": 1790089467,
+  "48fae17acdc67903": 1790226919,
   "48ff96c29421ff4d": 1789782685,
   "48ffbf53e7464ca8": 1789865116,
   "4908489b0349055f": 1790003117,
@@ -4704,6 +4725,7 @@
   "d4cd7c66a6a646bf": 1790039473,
   "d4d17026577e76cc": 1789951430,
   "d4e5a1f262e4aa20": 1789627496,
+  "d4f256ab183e24e8": 1790226919,
   "d4fc3fe6275bd37a": 1789788917,
   "d51481e7fdfe80c1": 1789627496,
   "d5161dea3b2d0f54": 1789869501,
@@ -5134,6 +5156,7 @@
   "e9b091f8bc67ed07": 1789949125,
   "e9c84ef084deae6f": 1789957222,
   "e9c86fb8001dc801": 1790212515,
+  "e9ca18b4d7a57653": 1790226919,
   "e9cb3e75b8938206": 1790053518,
   "e9d5c4eabd8274f5": 1790091770,
   "e9d860e78e57de86": 1789717533,
@@ -5603,7 +5626,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790226321,
- "last_msg_poll": 1790226878,
+ "last_msg_poll": 1790227161,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5645,7 +5668,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 14:14 KST",
+  "last_run": "2026-09-24 14:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
