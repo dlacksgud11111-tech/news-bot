@@ -189,6 +189,16 @@
    "t": "[급변하는 외교시장: 프랑스 전선시장] 노후 송전망 교체에 AI 데이터센터까지…프랑스 고압 케이블 수요 확대 - 코리아포스트 한글판",
    "ts": 1790208000,
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zRFBabkZRb09QRTd2OEJXY1JSSHRXdDhaQjYyNGVUdEx6YmRtTjhkdWxDUURFWnQ1VURST0lRZWppYmJMZmdsVmJSa3luS0pZQkt1bUM3MFpHMXh2WDhlQzN0dk5mN2JkZkMxdmhn?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "핀포인트뉴스",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "데이터센터가 불붙인 발전 엔진 시장… HD현대중공업 증설 나섰다 - 핀포인트뉴스",
+   "ts": 1790227230,
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ab3FnaHp4V0pqQlZLV1RaOUEzZWF5eVUzTTNtWnBMazByX1p2RUVZS3RvRUhrVjZ0TndqLWZsdkZaTVFkNmdJT0V1U0hmZEgtQ2Q4Y0RWaG8tMEFjU0NZZDJna0w3VEdyX215cnhXX0d4Z0HSAXdBVV95cUxQcW1nbGZ0Q1F6YjBrOFVBd1ItRlNlUjU4WlI4cEVGWi1VQVZiMWFyNVZkYUdIWVNISmtXYVZtUUd0TmhfMGlDQmlUeHZqX3VWdGdVcndqMGllYVV4RTN5cUtIQVU3b0hKcmtzSWcwbjVJalBOWm5VUQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -5116,6 +5126,7 @@
   "e7da2196903a2f2c": 1789659315,
   "e7dadad3432aee89": 1790040051,
   "e7db5a6c60a1871b": 1790040620,
+  "e7df57a26c03f712": 1790228718,
   "e7e1900d1af88f61": 1790042975,
   "e7f3cab0bcabe5fb": 1789894552,
   "e7f499a1e145caaa": 1790151015,
@@ -5628,7 +5639,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790226321,
- "last_msg_poll": 1790228671,
+ "last_msg_poll": 1790228969,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5670,7 +5681,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 14:44 KST",
+  "last_run": "2026-09-24 14:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
