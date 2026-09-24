@@ -239,6 +239,16 @@
    "t": "구글, 다음 주 AI칩 실은 위성 쏜다…‘우주 데이터센터’ 첫 궤도 실증 - 중앙이코노미뉴스",
    "ts": 1790263800,
    "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NNkRaZzJaWWJHbzdLV1ItTW5mamxrUkJ5ZzZyV25sWkF0S1lsODd1R1JLampJNVFXZVFKMzJrWkNMSDdtNG1Zby1BYjJIWWlCdkloV3J5Y25aMERSZnU1a3NuTjV6YXlWeXVmZUdvdnZrdw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Investing.com 한국어",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "UL 솔루션스, AI 데이터센터 전력 장치 인증 프로그램 출시 - Investing.com 한국어",
+   "ts": 1790280600,
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sS1J2OGExRGhhLVl1RVZkOUNpRWNEdmY1RzBPOEpjU3NYb0NpeFIxRzlNbjRqY2lBcWdWT1d3NmVaclRHcU1FQ1VFZGxOeXlGbWdDNGp3SjF2bEtUbnJ0MS1tb1ZacW9yM2RSejZBX2U?oc=5"
   }
  ],
  "clip_titles": [],
@@ -412,6 +422,7 @@
   "084e7582d96eeec9": 1789627496,
   "084e9a24214c4e36": 1789957222,
   "08a54259ab255960": 1789862827,
+  "08b0e5203a9a3667": 1790281171,
   "08b7979d73d2bb03": 1789713065,
   "08c07dcd890a63ef": 1789965314,
   "08c755d7ec571ffe": 1789627496,
@@ -5762,7 +5773,7 @@
  "companies_today": {},
  "day": "2026-09-25",
  "last_clip": 1790262927,
- "last_msg_poll": 1790280807,
+ "last_msg_poll": 1790281421,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5804,7 +5815,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-25 05:13 KST",
+  "last_run": "2026-09-25 05:23 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
