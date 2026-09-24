@@ -159,58 +159,7 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 1,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴스핌",
-   "sc": 0,
-   "sec": "전력기기",
-   "t": "[GAM]굴뚝 기업 허벨 AI 기대주 변신 ① 데이터센터-그리드 현대화 주축 - 뉴스핌",
-   "ts": 1790136000,
-   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zMlZBbkhtZXZpU1pYN0RaaERDTm1DWW1teFVOd3NILXlpOF95QzE4RUlrWDk4YjVLYW9kbUF0QlJJNTJiRGk1T21sLWtPS29MdXcyS1hxa0EtX2N2?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "핀포인트뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터가 반도체 기판까지 끌어올렸다…해성디에스 실적 반전 - 핀포인트뉴스",
-   "ts": 1790225490,
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tMy0tclFBSWRmTm85TU9EQnVoeWxBX0prRGVDMWhEV2J2WTAzcjRWaTZXaDRydE5oNFRKZm01Yk53R2FTUEt2SzBST3Z1elJhX1BhSmVTRTgyM2hXajhXYloxdnlqQUdqTWZpUnp2Wl8xTjDSAXdBVV95cUxNM0JEQmNGU2V6NTZLMndKdnVncGFiaUpQX3BwNmhWaTdHT19PLTdoMFJZSllNX0tLNVJpUUxQWXpXUjZOck9wUENrUlpZQWF1amF2bDBPMTQ0YkRXckdQWnROMVI0Z2NtdUNkcmt6RUNOZmROa0ZFWQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "코리아포스트 한글판",
-   "sc": 4,
-   "sec": "전력기기",
-   "t": "[급변하는 외교시장: 프랑스 전선시장] 노후 송전망 교체에 AI 데이터센터까지…프랑스 고압 케이블 수요 확대 - 코리아포스트 한글판",
-   "ts": 1790208000,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zRFBabkZRb09QRTd2OEJXY1JSSHRXdDhaQjYyNGVUdEx6YmRtTjhkdWxDUURFWnQ1VURST0lRZWppYmJMZmdsVmJSa3luS0pZQkt1bUM3MFpHMXh2WDhlQzN0dk5mN2JkZkMxdmhn?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "핀포인트뉴스",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "데이터센터가 불붙인 발전 엔진 시장… HD현대중공업 증설 나섰다 - 핀포인트뉴스",
-   "ts": 1790227230,
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ab3FnaHp4V0pqQlZLV1RaOUEzZWF5eVUzTTNtWnBMazByX1p2RUVZS3RvRUhrVjZ0TndqLWZsdkZaTVFkNmdJT0V1U0hmZEgtQ2Q4Y0RWaG8tMEFjU0NZZDJna0w3VEdyX215cnhXX0d4Z0HSAXdBVV95cUxQcW1nbGZ0Q1F6YjBrOFVBd1ItRlNlUjU4WlI4cEVGWi1VQVZiMWFyNVZkYUdIWVNISmtXYVZtUUd0TmhfMGlDQmlUeHZqX3VWdGdVcndqMGllYVV4RTN5cUtIQVU3b0hKcmtzSWcwbjVJalBOWm5VUQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "토큰포스트",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "MS 배출 25%·구글 전력수요 37% 증가, AI 기후 공약 압박 - 토큰포스트",
-   "ts": 1790189400,
-   "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12OEhndGwxSVNtRC1SZW8wMzlyU0ZyaGc4SVhKU1d2dklFa2xVdkh2UElkSERkbHNfLWd1aVhjS2FMS0tjQnc3QXdiMDVUcDc3?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -625,6 +574,7 @@
   "13c1c22408759f25": 1790119712,
   "13cf78ca87798eee": 1789633820,
   "13dcbd746b665f70": 1789782685,
+  "13e042ea4c9b60cd": 1790233628,
   "13e2c1f714708888": 1789627496,
   "13f54a342653e041": 1789894218,
   "13fb2e602420dedd": 1789956616,
@@ -5173,6 +5123,7 @@
   "e91758bee9fd9fda": 1790127320,
   "e9237280a0e2faee": 1790080823,
   "e9336a1c3a98fa67": 1789635327,
+  "e9380021f196ad1d": 1790233628,
   "e9385450329586f7": 1789684520,
   "e946772fc63a0ad5": 1790003117,
   "e95b37d8b8eae3e1": 1789691718,
@@ -5656,8 +5607,8 @@
  },
  "companies_today": {},
  "day": "2026-09-24",
- "last_clip": 1790226321,
- "last_msg_poll": 1790233302,
+ "last_clip": 1790233628,
+ "last_msg_poll": 1790233872,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5699,7 +5650,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 16:01 KST",
+  "last_run": "2026-09-24 16:11 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
