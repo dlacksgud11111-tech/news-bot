@@ -169,6 +169,36 @@
    "t": "Oracle issues force majeure notice to Blue Owl following series of setbacks at Project Jupiter data center campus – report",
    "ts": 1790264133,
    "u": "https://www.datacenterdynamics.com/en/news/oracle-issues-force-majeure-notice-to-blue-owl-following-series-of-setbacks-at-project-jupiter-data-center-campus-report/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "Exelon’s climate arm backs grid-planning firm Continuum",
+   "ts": 1790266350,
+   "u": "https://www.utilitydive.com/news/utility-giant-exelons-climate-arm-backs-grid-planning-firm-continuum/831276/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "Advanced transmission projects get $1.9B in DOE funding",
+   "ts": 1790262417,
+   "u": "https://www.utilitydive.com/news/doe-advanced-transmission-projects-spark-funding/831259/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "edaily.co.kr",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "'불가항력 통지' 오라클 5% 급락…AI 데이터센터에 무슨 일이 - edaily.co.kr",
+   "ts": 1790261013,
+   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZUpnaDRNeC1fRVA2eGxRVTFqS2pDX2ZpTU9tVzNwdVdLbGthQnFhVDFHV0U2T2VINDd0Y19RVFkyTWw2S0xLTkxmS0xfa2JKU0NNNFBRUkxIVGF3dllqQlVNWUhfZzRjbXhPTTd5cFJ6M1RLZjdYVjdKaUktczl2Nw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2838,6 +2868,7 @@
   "7ad4b2cd42206909": 1790037737,
   "7ad513f617fe16eb": 1789704620,
   "7ad61663e3f86563": 1789627496,
+  "7ad98d2a2dde4771": 1790266474,
   "7aea962e0e70ef3e": 1789956616,
   "7af0d824d264ff8a": 1790120847,
   "7af29c87352a1711": 1789963516,
@@ -2925,6 +2956,7 @@
   "7e603264df14a062": 1789895115,
   "7e6702806ee071e1": 1790129720,
   "7e6a7ecfd2dd3652": 1789971183,
+  "7e6d0a0937cdc8c5": 1790266474,
   "7e765b6e97107928": 1790073620,
   "7ecccc2b09b2c51d": 1789702529,
   "7ed477394efe8acb": 1789953723,
@@ -4612,6 +4644,7 @@
   "ce1f0f28fe94406c": 1790084279,
   "ce31e53d0df5c039": 1789649116,
   "ce49105a906614ef": 1790006722,
+  "ce4d5eb1510e862f": 1790266474,
   "ce5cb00f3028956e": 1790060726,
   "ce73ca3e8656b914": 1789967119,
   "ce8a81a8886eefd2": 1790065913,
@@ -5538,6 +5571,7 @@
   "f900243481d5f6bf": 1790057120,
   "f90410b246efaca3": 1789954905,
   "f90da18f5373de1e": 1789630819,
+  "f91167f0a916dffa": 1790266474,
   "f912a618d3cc5b2e": 1790201443,
   "f92690e8821fbfe8": 1790129120,
   "f948adf9ca94bf5a": 1790055013,
@@ -5680,7 +5714,7 @@
  "companies_today": {},
  "day": "2026-09-25",
  "last_clip": 1790262927,
- "last_msg_poll": 1790266141,
+ "last_msg_poll": 1790266723,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5722,7 +5756,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-25 01:09 KST",
+  "last_run": "2026-09-25 01:18 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
