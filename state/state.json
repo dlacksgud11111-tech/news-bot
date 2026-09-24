@@ -179,6 +179,26 @@
    "t": "Longi sets 28.29% world record for single-junction silicon solar cell efficiency",
    "ts": 1790241580,
    "u": "https://www.pv-magazine.com/2026/09/24/longi-sets-28-29-world-record-for-single-junction-silicon-solar-cell-efficiency/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 11,
+   "sec": "전력기기",
+   "t": "Spain plans to allocated 11 GW of grid capacity for renewables, storage",
+   "ts": 1790243164,
+   "u": "https://www.pv-magazine.com/2026/09/24/spain-plans-to-allocated-11-gw-of-grid-capacity-for-renewables-storage/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 5,
+   "sec": "재생에너지·ESS",
+   "t": "Pylontech starts mass production of 588 Ah, 601 Ah storage cells",
+   "ts": 1790242929,
+   "u": "https://www.pv-magazine.com/2026/09/24/pylontech-starts-mass-production-of-588-ah-601-ah-storage-cells/"
   }
  ],
  "clip_titles": [],
@@ -1569,6 +1589,7 @@
   "3dbcafd4fc16edd5": 1789774587,
   "3dccb4edbbff71ad": 1789851916,
   "3dcee15a06a653ca": 1789658129,
+  "3ddb3dfd1bf3d34d": 1790243423,
   "3debc42401f12e65": 1789936425,
   "3e03cd19635dc357": 1789888052,
   "3e088ca595b3b8d4": 1790060726,
@@ -4292,6 +4313,7 @@
   "c05ebd31ba9b6368": 1790037737,
   "c085b52ae4b71a81": 1789634116,
   "c094140fab0e036b": 1789627496,
+  "c0a2af0cbbe02487": 1790243423,
   "c0b608a56e783baa": 1789863975,
   "c0b6121f8e8215cd": 1789956616,
   "c0cd0199abb4956f": 1789728460,
@@ -4840,6 +4862,7 @@
   "da069d1f452c03c5": 1789627496,
   "da147923327943c6": 1790148975,
   "da16c05920528003": 1789627496,
+  "da227de3828f8835": 1790243423,
   "da2b4ce1d21c1747": 1790065913,
   "da370dd793722218": 1790056218,
   "da3d91049038aef5": 1789764171,
@@ -5644,7 +5667,7 @@
  "companies_today": {},
  "day": "2026-09-24",
  "last_clip": 1790241016,
- "last_msg_poll": 1790243091,
+ "last_msg_poll": 1790243664,
  "last_weekly": 1789686000.0,
  "paused": false,
  "posted_today": 0,
@@ -5686,7 +5709,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-24 18:44 KST",
+  "last_run": "2026-09-24 18:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
