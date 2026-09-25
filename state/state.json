@@ -270,6 +270,16 @@
    "t": "AI 인프라 전력 대안 연료전지 시장 커진다 - 동행미디어 시대",
    "ts": 1790370000,
    "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aOURuQVBPcjVteG1QUXFTWHJDTlVsdjlraEowd0k0OXRSV3lsWWxoRmF1dmZodTZjYk5FRVY5SlNFdklsWENzOUg4LUNnSExlbEd5Q1I1aFNMMzE0X1E?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스 경제 최신기사",
+   "sc": 0,
+   "sec": "건설·플랜트",
+   "t": "건설 기술 좋아졌다는데 아파트 하자판정은 3년 새 2.4배로",
+   "ts": 1790370661,
+   "u": "https://www.yna.co.kr/view/AKR20260923084100003"
   }
  ],
  "clip_titles": [],
@@ -5149,6 +5159,7 @@
   "d93326ce73b71a38": 1790240120,
   "d9451eef225324a1": 1790122580,
   "d95593cc279a256b": 1790208969,
+  "d95702a4c700d756": 1790371245,
   "d96242b681f0e242": 1790148975,
   "d96e19ad8d098f93": 1789632918,
   "d97b8c5ac3de603a": 1789699582,
@@ -5799,6 +5810,7 @@
   "f6caf6929a73c447": 1789782685,
   "f6df3f5e547954f2": 1789893329,
   "f6e8db16f44a6251": 1789627496,
+  "f6ea44b6a52738d2": 1790371245,
   "f6ec9e98a71b0934": 1790035999,
   "f706c26ab75d2dd9": 1789974322,
   "f710e639d372adfb": 1789765932,
@@ -6008,7 +6020,7 @@
  "companies_today": {},
  "day": "2026-09-26",
  "last_clip": 1790344824,
- "last_msg_poll": 1790370932,
+ "last_msg_poll": 1790371494,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6050,7 +6062,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-26 06:15 KST",
+  "last_run": "2026-09-26 06:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
