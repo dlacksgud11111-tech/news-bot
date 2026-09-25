@@ -169,6 +169,26 @@
    "t": "미국 주식 시황(9월 25일): Oracle 데이터센터 전력 공급 지연으로 3.3% 하락, 10년물 미국 국채 수익률 5.2% 근접 - 深潮TechFlow",
    "ts": 1790300559,
    "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIbkJLVk92OExwbXJTMEsxU1IwRnJLQkRuWW9HZWRmdDNuYkpXb2xmT1l2Qlc1aVlSV29JMllaSEVPMHlaakZYM1ZjVV9HSmNzWFk3ZEVGeGxVNnpQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "ESR to acquire Aquila Clean Energy APAC in Asia-Pacific renewables and energy storage consolidation",
+   "ts": 1790306536,
+   "u": "https://www.energy-storage.news/esr-to-acquire-aquila-clean-energy-apac-in-asia-pacific-renewables-and-energy-storage-consolidation/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 5,
+   "sec": "재생에너지·ESS",
+   "t": "AEMO connects record 9.1GW of renewables and storage to Australia’s NEM in FY26, warns reliability depends on timely investment",
+   "ts": 1790306434,
+   "u": "https://www.energy-storage.news/aemo-connects-record-9-1gw-of-renewables-and-storage-to-australias-nem-in-fy26-warns-reliability-depends-on-timely-investment/"
   }
  ],
  "clip_titles": [],
@@ -531,6 +551,7 @@
   "1083d3dbc1db59b4": 1790051416,
   "1090fabe75dee7b5": 1790001429,
   "10a023d2985b3f60": 1790040051,
+  "10b246359bf5937f": 1790306720,
   "10bcc96f6c5628ef": 1789693531,
   "10cd1b689d6f44f2": 1790064199,
   "10de004fd72539eb": 1790142019,
@@ -1296,6 +1317,7 @@
   "31f56816e07f148a": 1789872927,
   "31f5e1305bebdb9c": 1790037157,
   "32019415e87e4b61": 1789627496,
+  "32074110eb6bba5a": 1790306720,
   "320afeef9c705c54": 1789627496,
   "3210bcb08d351efc": 1789697424,
   "3229cd6bd03e9097": 1789872360,
@@ -5782,7 +5804,7 @@
  "companies_today": {},
  "day": "2026-09-25",
  "last_clip": 1790300325,
- "last_msg_poll": 1790306661,
+ "last_msg_poll": 1790306961,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -5824,7 +5846,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-25 12:24 KST",
+  "last_run": "2026-09-25 12:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
