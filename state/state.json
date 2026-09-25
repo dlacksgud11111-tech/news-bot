@@ -215,6 +215,46 @@
    "t": "아틀라스 에너지 솔루션스, AI 데이터센터 전력 공급 계약 체결로 주가 급등 - kr.investing.com",
    "ts": 1790340300,
    "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92RG5yWmpLU2ZLN2doNXNSaUN1RUJDQXZTRWVxbDNVZHRZY1MtdHBqMWU0MDkxOGdHZzZuRjZReHQzcTF5TGVWWTNKQVM2MF84SUpkdWN2azZpOXI1Vklia19zX3NrajF5YzlwMzhZT1M?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "POWER Magazine",
+   "sc": 6,
+   "sec": "원전",
+   "t": "Nuclear Plant Restarts Show What Government Can Do With a Clear Mandate",
+   "ts": 1790342086,
+   "u": "https://www.powermag.com/nuclear-plant-restarts-show-what-government-can-do-with-a-clear-mandate/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "POWER Magazine",
+   "sc": 5,
+   "sec": "전력기기",
+   "t": "Retired and Retiring Coal Plants Offer the Grid’s Fastest Path to New Capacity",
+   "ts": 1790341948,
+   "u": "https://www.powermag.com/retired-and-retiring-coal-plants-offer-the-grids-fastest-path-to-new-capacity/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Northern Virginia's Prince William County puts controls on new data center projects",
+   "ts": 1790341921,
+   "u": "https://www.datacenterdynamics.com/en/news/northern-virginias-prince-william-county-puts-controls-on-new-data-center-projects/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Thailand set to finalize new data center regulations by mid-October - report",
+   "ts": 1790341608,
+   "u": "https://www.datacenterdynamics.com/en/news/thailand-set-to-finalize-new-data-center-regulations-by-mid-october-report/"
   }
  ],
  "clip_titles": [],
@@ -1189,6 +1229,7 @@
   "2b28e65f30b433f6": 1789644931,
   "2b300e051ad69307": 1790037737,
   "2b3659228c7d6e70": 1789946508,
+  "2b38398156588c0e": 1790342212,
   "2b3c33262d07a67a": 1789873818,
   "2b43335189ef09fa": 1789691718,
   "2b45aa77adaf8ae1": 1789627496,
@@ -1752,6 +1793,7 @@
   "429fef6d63d1b698": 1790111024,
   "42a4e525d35ecb59": 1790094620,
   "42b288c905b7872d": 1789977032,
+  "42b43762cd3e3247": 1790342212,
   "42c3fc30b4d9b870": 1790134817,
   "42e6621670e1ce17": 1789630256,
   "42f78a0d5c429b33": 1789785019,
@@ -3256,6 +3298,7 @@
   "869b2561922c80d6": 1789784117,
   "86abcbfc807fdaea": 1790038311,
   "86bbba728eaa2b7d": 1789953163,
+  "86cf27327ac243c7": 1790342212,
   "86d1ea6bf7ff95f1": 1789952592,
   "86e112f89ed4e560": 1790045289,
   "86ecd9178612d1c0": 1789956616,
@@ -4336,6 +4379,7 @@
   "b87bbaf4fcfa8dce": 1790045289,
   "b87cf380875cfe62": 1789965017,
   "b883121171c50158": 1789647653,
+  "b89178c355d8ea30": 1790342212,
   "b89472a8e56b09c7": 1790062459,
   "b89bb1469888c816": 1790008517,
   "b89dcfa43157dfbd": 1789689915,
@@ -4401,6 +4445,7 @@
   "bb3c70befd0316d7": 1789627496,
   "bb3fe83b53a197b4": 1789967119,
   "bb5532e95b488f0b": 1790060726,
+  "bb5b27a72f228fac": 1790342212,
   "bb73dd5a7eee6366": 1789627496,
   "bb76ea6b513595f8": 1790045289,
   "bb7ce8aba353e40b": 1789973468,
@@ -4551,6 +4596,7 @@
   "c297d249a683569f": 1790144115,
   "c29c948ef1a999e3": 1789627496,
   "c2a60a92e62e0bef": 1789638316,
+  "c2ab3d188e576062": 1790342212,
   "c2acf3d9b596592e": 1790164231,
   "c2c0e0e1cb6ab97d": 1789792532,
   "c2c3a6b8ac5cd52e": 1790051717,
@@ -5909,7 +5955,7 @@
  "companies_today": {},
  "day": "2026-09-25",
  "last_clip": 1790337586,
- "last_msg_poll": 1790341892,
+ "last_msg_poll": 1790342463,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -5951,7 +5997,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-25 22:11 KST",
+  "last_run": "2026-09-25 22:21 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
