@@ -185,6 +185,16 @@
    "t": "India adds 50.6 GW of solar module and 9.7 GW of cell manufacturing capacity in 1H",
    "ts": 1790335497,
    "u": "https://www.pv-magazine.com/2026/09/25/india-added-50-6-gw-of-solar-module-and-9-7-gw-of-cell-manufacturing-capacity-in-1h-2026-says-mercom/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 0,
+   "sec": "재생에너지·ESS",
+   "t": "The Hydrogen Stream: Germany, Austria and Luxembourg launch €2.12 billion program for sustainable aviation fuel",
+   "ts": 1790336412,
+   "u": "https://www.pv-magazine.com/2026/09/25/the-hydrogen-stream-germany-austria-and-luxembourg-launch-e2-12-billion-program-for-sustainable-aviation-fuel/"
   }
  ],
  "clip_titles": [],
@@ -2205,6 +2215,7 @@
   "58137078aa7ad181": 1789958121,
   "581942d108eb051c": 1789979721,
   "581b588048ceb54c": 1789782685,
+  "582c5a43ef6b1e38": 1790336714,
   "58351d7687f2c816": 1789699582,
   "5837e8b87a458d3a": 1790041833,
   "583ecfb5244eb52d": 1789948516,
@@ -4139,6 +4150,7 @@
   "b19380116a553932": 1790005215,
   "b19fa840e12259ed": 1789708498,
   "b1b50a0c09ee51ea": 1789627496,
+  "b1c0cea776e80e2a": 1790336714,
   "b1c3c1f0a214e0a1": 1789949420,
   "b1c4755e21b7616a": 1790035428,
   "b1f1523612f5d303": 1790171418,
@@ -5864,7 +5876,7 @@
  "companies_today": {},
  "day": "2026-09-25",
  "last_clip": 1790330117,
- "last_msg_poll": 1790336666,
+ "last_msg_poll": 1790336955,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -5906,7 +5918,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-25 20:44 KST",
+  "last_run": "2026-09-25 20:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
