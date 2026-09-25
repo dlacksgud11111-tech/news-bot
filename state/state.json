@@ -169,6 +169,16 @@
    "t": "US team claims stability record for 16.19%-efficient 2D/3D tin perovskite solar cell",
    "ts": 1790323200,
    "u": "https://www.pv-magazine.com/2026/09/25/us-team-claims-stability-record-for-16-19-efficient-2d-3d-tin-perovskite-solar-cell/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "지디넷코리아",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "전력 이어 물까지…美 텍사스, 수백개 데이터센터 용수 조사 - 지디넷코리아",
+   "ts": 1790325001,
+   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wQkVPcDZfS05ENzJheEwwSjFBQ3FaZ0p2X0wwR0lyZnpyRkwxSjdySlZNeGhhcEJBN3FqeWFORWV1aEx3YTRwdUlPOWRwSlVnZEhmOWtB?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1194,6 +1204,7 @@
   "2d406d7a95b55d8a": 1789977032,
   "2d455fb6850661e0": 1789965314,
   "2d4975ee8ee544cd": 1789716922,
+  "2d510b48e3702f1c": 1790325320,
   "2d53b166b567850b": 1789679129,
   "2d58bc6fcd230d76": 1789698990,
   "2d592136e45dd873": 1789705521,
@@ -3910,6 +3921,7 @@
   "a928b526fdfd0edb": 1789724119,
   "a92eb54759f2f17c": 1790066475,
   "a93ddbf2889070f7": 1790060726,
+  "a943b86805cb23dc": 1790325320,
   "a949bf820613509f": 1789941916,
   "a94bd41ca0e56302": 1789627496,
   "a94d27363698f8a1": 1789862827,
@@ -5823,7 +5835,7 @@
  "companies_today": {},
  "day": "2026-09-25",
  "last_clip": 1790322621,
- "last_msg_poll": 1790325282,
+ "last_msg_poll": 1790325569,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -5865,7 +5877,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-25 17:34 KST",
+  "last_run": "2026-09-25 17:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
