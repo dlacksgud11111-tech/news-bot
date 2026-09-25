@@ -159,38 +159,7 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "深潮TechFlow",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "미국 주식 시황(9월 25일): Oracle 데이터센터 전력 공급 지연으로 3.3% 하락, 10년물 미국 국채 수익률 5.2% 근접 - 深潮TechFlow",
-   "ts": 1790300559,
-   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIbkJLVk92OExwbXJTMEsxU1IwRnJLQkRuWW9HZWRmdDNuYkpXb2xmT1l2Qlc1aVlSV29JMllaSEVPMHlaakZYM1ZjVV9HSmNzWFk3ZEVGeGxVNnpQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "ESR to acquire Aquila Clean Energy APAC in Asia-Pacific renewables and energy storage consolidation",
-   "ts": 1790306536,
-   "u": "https://www.energy-storage.news/esr-to-acquire-aquila-clean-energy-apac-in-asia-pacific-renewables-and-energy-storage-consolidation/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 5,
-   "sec": "재생에너지·ESS",
-   "t": "AEMO connects record 9.1GW of renewables and storage to Australia’s NEM in FY26, warns reliability depends on timely investment",
-   "ts": 1790306434,
-   "u": "https://www.energy-storage.news/aemo-connects-record-9-1gw-of-renewables-and-storage-to-australias-nem-in-fy26-warns-reliability-depends-on-timely-investment/"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -5806,8 +5775,8 @@
  },
  "companies_today": {},
  "day": "2026-09-25",
- "last_clip": 1790300325,
- "last_msg_poll": 1790307570,
+ "last_clip": 1790307628,
+ "last_msg_poll": 1790307869,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -5849,7 +5818,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-25 12:39 KST",
+  "last_run": "2026-09-25 12:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
