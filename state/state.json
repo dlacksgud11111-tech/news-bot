@@ -159,7 +159,18 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 0,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "US team claims stability record for 16.19%-efficient 2D/3D tin perovskite solar cell",
+   "ts": 1790323200,
+   "u": "https://www.pv-magazine.com/2026/09/25/us-team-claims-stability-record-for-16-19-efficient-2d-3d-tin-perovskite-solar-cell/"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -2305,6 +2316,7 @@
   "5d8d82be08ebca65": 1790059516,
   "5d8e9360d011a22e": 1790042975,
   "5d9a8cf3ac8e4856": 1790084844,
+  "5dafd1b7f8ba546f": 1790323520,
   "5db2fb19e0e17c20": 1790037157,
   "5db8280acb625b2e": 1789627496,
   "5dbe9ae79a1084f5": 1790311217,
@@ -5810,7 +5822,7 @@
  "companies_today": {},
  "day": "2026-09-25",
  "last_clip": 1790322621,
- "last_msg_poll": 1790323455,
+ "last_msg_poll": 1790323770,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -5852,7 +5864,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-25 17:04 KST",
+  "last_run": "2026-09-25 17:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
