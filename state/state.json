@@ -190,6 +190,16 @@
    "t": "Second federal judge overturns $7B Solar for All cancellation by Trump administration",
    "ts": 1790345638,
    "u": "https://www.utilitydive.com/news/second-federal-judge-overturns-7b-solar-for-all-cancellation-by-trump-admi/831371/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AI cloud and data center firm Nscale raises $3.36bn ahead of its IPO",
+   "ts": 1790350488,
+   "u": "https://www.datacenterdynamics.com/en/news/ai-cloud-and-data-center-firm-nscale-raises-336bn-ahead-of-its-ipo/"
   }
  ],
  "clip_titles": [],
@@ -3589,6 +3599,7 @@
   "980d7f1eee9cddbb": 1790120279,
   "981655fe710af6a8": 1790036576,
   "982188f1294f88e6": 1789633820,
+  "98314ec69c0f8677": 1790350826,
   "984833176e35d975": 1789627496,
   "9851e6b3c83d847c": 1790127320,
   "985ebfb2c2fbc60f": 1790147295,
@@ -5899,7 +5910,7 @@
  "companies_today": {},
  "day": "2026-09-26",
  "last_clip": 1790344824,
- "last_msg_poll": 1790350758,
+ "last_msg_poll": 1790351068,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -5941,7 +5952,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-26 00:39 KST",
+  "last_run": "2026-09-26 00:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
