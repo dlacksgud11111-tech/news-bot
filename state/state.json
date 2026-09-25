@@ -165,38 +165,7 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 1,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 3,
-   "sec": "재생에너지·ESS",
-   "t": "Spain awards €265 million for 49.9 GWh of pumped hydro storage",
-   "ts": 1790331508,
-   "u": "https://www.pv-magazine.com/2026/09/25/spain-awards-e265-million-for-49-9-gwh-of-pumped-hydro-storage/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "India adds 50.6 GW of solar module and 9.7 GW of cell manufacturing capacity in 1H",
-   "ts": 1790335497,
-   "u": "https://www.pv-magazine.com/2026/09/25/india-added-50-6-gw-of-solar-module-and-9-7-gw-of-cell-manufacturing-capacity-in-1h-2026-says-mercom/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 0,
-   "sec": "재생에너지·ESS",
-   "t": "The Hydrogen Stream: Germany, Austria and Luxembourg launch €2.12 billion program for sustainable aviation fuel",
-   "ts": 1790336412,
-   "u": "https://www.pv-magazine.com/2026/09/25/the-hydrogen-stream-germany-austria-and-luxembourg-launch-e2-12-billion-program-for-sustainable-aviation-fuel/"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -5875,8 +5844,8 @@
  },
  "companies_today": {},
  "day": "2026-09-25",
- "last_clip": 1790330117,
- "last_msg_poll": 1790337261,
+ "last_clip": 1790337586,
+ "last_msg_poll": 1790337836,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -5918,7 +5887,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-25 20:54 KST",
+  "last_run": "2026-09-25 21:03 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
