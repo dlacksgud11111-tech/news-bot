@@ -215,6 +215,16 @@
    "t": "Applied Digital reveals $3.2bn Delta Forge 2 AI data center will be built in Alabama",
    "ts": 1790328294,
    "u": "https://www.datacenterdynamics.com/en/news/applied-digital-reveals-32bn-delta-forge-2-ai-data-center-will-be-built-in-alabama/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 4,
+   "sec": "전력기기",
+   "t": "DOE unveils $1.9bn in funding for 31 grid upgrade projects to speed data center connections",
+   "ts": 1790328919,
+   "u": "https://www.datacenterdynamics.com/en/news/doe-unveils-19bn-in-funding-for-31-grid-upgrade-projects-to-speed-data-center-connections/"
   }
  ],
  "clip_titles": [],
@@ -2476,6 +2486,7 @@
   "6375c7ae7f0af4f2": 1789627496,
   "637a1ec6b3b782c2": 1789640415,
   "637bbe4395b4ad01": 1789976119,
+  "638d79aa80ec495f": 1790329233,
   "63999d676064d0bf": 1789629088,
   "63a54ff2eb612894": 1789954905,
   "63b21c16da6c6268": 1789870063,
@@ -3559,6 +3570,7 @@
   "966444f27708d305": 1790125822,
   "96754c220039d906": 1789959919,
   "968b23c07c9d4d9b": 1789956616,
+  "9692f0c41a60986e": 1790329233,
   "969b2b825a0ab228": 1789960215,
   "969c7f5f016b3867": 1789695321,
   "96b4a53ed9d5f732": 1789784719,
@@ -5879,7 +5891,7 @@
  "companies_today": {},
  "day": "2026-09-25",
  "last_clip": 1790322621,
- "last_msg_poll": 1790329169,
+ "last_msg_poll": 1790329474,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -5921,7 +5933,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-25 18:39 KST",
+  "last_run": "2026-09-25 18:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
