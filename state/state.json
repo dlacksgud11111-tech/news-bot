@@ -169,6 +169,16 @@
    "t": "美 AI·데이터센터 투자 10조 달러 전망…GDP 연평균 3.6% 규모 - 지디넷코리아",
    "ts": 1790294744,
    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsclVvNFRYRWRNdlFlSUMybExxQm5UM0ZBd3prdEJUYV9Xa0RDZW12dEp3TzhEYkdLZ01xcHFkMGpqNG1DczhfWTliY3BIcm1qeXl5RDBR?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "데이터센터부터 원전까지…현대제철, AI 전력 인프라 선점 - v.daum.net",
+   "ts": 1790298904,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CMGl1d3BkWEdNUGlEb0Qwc2FvSldYZjVpVEh0UmlyLVRJVHdiSW5MeWtuc2x3MTFEOUV5VmRoOENXVTFxQTYwMFduTURvZ00?oc=5"
   }
  ],
  "clip_titles": [],
@@ -5512,6 +5522,7 @@
   "f48aee4e765b6699": 1789627496,
   "f48dd74b68e21614": 1790244620,
   "f4989e6d3315c3df": 1789981516,
+  "f4a26e99bcf55940": 1790299764,
   "f4a4a05b4ad6e44e": 1790040620,
   "f4b1ae877ec0d7fe": 1790056218,
   "f4bb81b74e866da5": 1789713633,
@@ -5760,7 +5771,7 @@
  "companies_today": {},
  "day": "2026-09-25",
  "last_clip": 1790287591,
- "last_msg_poll": 1790299437,
+ "last_msg_poll": 1790300003,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -5802,7 +5813,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-25 10:23 KST",
+  "last_run": "2026-09-25 10:33 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
