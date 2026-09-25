@@ -180,6 +180,16 @@
    "t": "FERC rejects Oklo complaint seeking to reinstate project to PJM’s interconnection study cycle",
    "ts": 1790343989,
    "u": "https://www.utilitydive.com/news/ferc-rejects-oklo-complaint-pjm-interconnection/831357/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 3,
+   "sec": "재생에너지·ESS",
+   "t": "Second federal judge overturns $7B Solar for All cancellation by Trump administration",
+   "ts": 1790345638,
+   "u": "https://www.utilitydive.com/news/second-federal-judge-overturns-7b-solar-for-all-cancellation-by-trump-admi/831371/"
   }
  ],
  "clip_titles": [],
@@ -5737,6 +5747,7 @@
   "f8e70d446467686e": 1789714524,
   "f8ed5fc615818d67": 1789634416,
   "f900243481d5f6bf": 1790057120,
+  "f9014c1a780b32a5": 1790350217,
   "f90410b246efaca3": 1789954905,
   "f90da18f5373de1e": 1789630819,
   "f91167f0a916dffa": 1790266474,
@@ -5888,7 +5899,7 @@
  "companies_today": {},
  "day": "2026-09-26",
  "last_clip": 1790344824,
- "last_msg_poll": 1790350166,
+ "last_msg_poll": 1790350461,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -5930,7 +5941,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-26 00:29 KST",
+  "last_run": "2026-09-26 00:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
