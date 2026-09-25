@@ -230,6 +230,16 @@
    "t": "AI 데이터센터 IPO 옥석가리기 - 블록미디어",
    "ts": 1790364469,
    "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sVFlxZEdFU2wwLXV3UThHd2psaGtrQjdLaldYbFc0bllvWGN3LXowRG1mTTBRdXFvbEE4eDBsU2VxUkUzSjZRRkVpZk1ZOXFoSTFpSXZOM2M?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "데이터투자",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "마라 홀딩스 자회사, 텍사스 데이터센터 전력 확보 위해 1억 달러 보증금 예치 - 데이터투자",
+   "ts": 1790368404,
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DVG9WZWZ6NjBPLVhBbHJ3TTZ3N0EzNTNKd0dYZm5zN1VjOG1SVTgtdTg3SGMxZ0JWS05wTTJyYXA4dmhVclJHbW1oYWo1YnFNcEV4LWxvWHA4cVNIV1VWcHJiNXBLbXFISTVyd0FybmNuME0?oc=5"
   }
  ],
  "clip_titles": [],
@@ -432,6 +442,7 @@
   "095eb281545ec410": 1789971751,
   "096d8da32df61f27": 1789783839,
   "097936ff5bdbbdf8": 1789627496,
+  "0982663bea8ea5ca": 1790368995,
   "098b262ff7987721": 1789951430,
   "09918dcf712a321f": 1790142019,
   "09a1c06da3ee22fb": 1790062459,
@@ -5952,7 +5963,7 @@
  "companies_today": {},
  "day": "2026-09-26",
  "last_clip": 1790344824,
- "last_msg_poll": 1790368666,
+ "last_msg_poll": 1790369237,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -5994,7 +6005,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-26 05:37 KST",
+  "last_run": "2026-09-26 05:47 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
