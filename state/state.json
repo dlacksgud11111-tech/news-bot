@@ -170,7 +170,18 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 1,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "데이터센터 '새 먹거리' 키우는 코오롱글로벌…개발부터 운영까지 영토 확장 - v.daum.net",
+   "ts": 1790373609,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ocmxXQmhVQ3VTOWM0ZWp1S2hTM1ByVGtqVjlYMGlCMUNCMEtkaW05Rm0wNzR2c1hNUERkaFpCOXFVQ19SQkZ0b3l4eXdQRDA?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -5751,6 +5762,7 @@
   "f88d0f6cbe039329": 1790128821,
   "f896586c1ed7e6f5": 1789965314,
   "f89ccd4ece8a815c": 1789967119,
+  "f8a3bd5257ffa870": 1790374821,
   "f8b470bbaeecd0a3": 1789956616,
   "f8bf97fab2a739de": 1789691718,
   "f8c5ee3251ae600c": 1789783839,
@@ -5913,7 +5925,7 @@
  "companies_today": {},
  "day": "2026-09-26",
  "last_clip": 1790373617,
- "last_msg_poll": 1790374781,
+ "last_msg_poll": 1790375065,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -5955,7 +5967,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-26 07:19 KST",
+  "last_run": "2026-09-26 07:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
