@@ -220,6 +220,16 @@
    "t": "전력·수자원·공공요금 흔드는 AI 데이터센터, 미국 성인 69% '우려'…한국의 선택은 - 얼리어답터뉴스",
    "ts": 1790320387,
    "u": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1qc2IzQWlyWTVxdEQwQnBZbmdVTkd1dkEwcUhjWnV1TF9leEdkc3c0NHJxWmpfeUNacXFqanFKVE1fdmJBRFlkOEdB?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "블록미디어",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터 IPO 옥석가리기 - 블록미디어",
+   "ts": 1790364469,
+   "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sVFlxZEdFU2wwLXV3UThHd2psaGtrQjdLaldYbFc0bllvWGN3LXowRG1mTTBRdXFvbEE4eDBsU2VxUkUzSjZRRkVpZk1ZOXFoSTFpSXZOM2M?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3831,6 +3841,7 @@
   "a2235dd9cec21293": 1790033117,
   "a22737406f2e7caf": 1789709642,
   "a22bd1b3213e2d8d": 1789627496,
+  "a2341cee1e5501d9": 1790367856,
   "a2514317cad22616": 1789720817,
   "a25352ca26ce70f2": 1789969411,
   "a2568b1d779ff4a4": 1790073331,
@@ -5940,7 +5951,7 @@
  "companies_today": {},
  "day": "2026-09-26",
  "last_clip": 1790344824,
- "last_msg_poll": 1790367539,
+ "last_msg_poll": 1790368097,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -5982,7 +5993,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-26 05:18 KST",
+  "last_run": "2026-09-26 05:28 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
