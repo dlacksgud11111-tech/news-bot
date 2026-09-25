@@ -159,7 +159,18 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 0,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "웹이코노미",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, AI 데이터센터 냉각사업 확장…2.5MW CDU 엔비디아 'DSX 레디' 승인 - 웹이코노미",
+   "ts": 1790317072,
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iU0tmai00ZkpGdkl4UGtqT0VSNkhnNHdjYjc1QXFDRHZpTHZzM01JZk5NTE5XRkpvV3gxZjdxbkhGbXlNRm1pekt5elZ6S1k5bmVRbUVyaG5aN3hEd0xmejFPMGhMYTc3ZUtpUWtPdDhiUQ?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -3022,6 +3033,7 @@
   "8077844e14aad228": 1789702817,
   "80788a8eec95954a": 1790005820,
   "80808272d1b06557": 1790039473,
+  "80831e626186025f": 1790318366,
   "8089472d5b7c2f49": 1790125822,
   "808b2bee119d75ff": 1789741740,
   "808f47b7d9b0aed9": 1789637719,
@@ -3136,6 +3148,7 @@
   "853ea98c9c6abbce": 1789975218,
   "8542bc404b8ab268": 1790055317,
   "8545b4e976535687": 1789701321,
+  "8547aebcc37a729b": 1790318366,
   "855436a9e6ff1f73": 1790150165,
   "85602ec0a9beb626": 1790178617,
   "85630688f93d9d64": 1790164231,
@@ -4346,6 +4359,7 @@
   "bd6d579c7943a62f": 1790055317,
   "bd77034d8885ff31": 1790208393,
   "bd83b0ee3ad7fb7a": 1789629315,
+  "bd87f1733321dd4b": 1790318366,
   "bd89189599585666": 1790040051,
   "bdcb6a5d293a3216": 1790284148,
   "bdd5a5a90e560649": 1790068256,
@@ -5795,7 +5809,7 @@
  "companies_today": {},
  "day": "2026-09-25",
  "last_clip": 1790315417,
- "last_msg_poll": 1790318040,
+ "last_msg_poll": 1790318615,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -5837,7 +5851,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-25 15:34 KST",
+  "last_run": "2026-09-25 15:43 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
