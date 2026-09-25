@@ -179,6 +179,16 @@
    "t": "전력·수자원·공공요금 흔드는 AI 데이터센터, 미국 성인 69% '우려'…한국의 선택은 - 유스연합",
    "ts": 1790320387,
    "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ORTJqOHZSb1lBRTZuUl9oSl9yTXJEWTZKcWYyZHJjYU5GZXBhN0F1Qno1OVVXc1Y3WDZnT21sMGVVcFJ5TlppOVF6eldlZkljekdN?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "자본시장뉴스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "[미국증시] AI 데이터센터 역풍…미국 유권자 61%가 반대 - 자본시장뉴스",
+   "ts": 1790299844,
+   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pOTEydnRFT3V2X2dKQjZLNXRSSl9CdkVYQjBLM3dhXy1tY0FPTHFzVmtZZEV1RnU5WkhoY3dMUHlBVU5Nb2JSMzNHY3JKV2RQZ25CdUZjWThTbDVobVlUcmxIeWVBSjA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1102,6 +1112,7 @@
   "290d92e4a2fb1573": 1789627496,
   "29232cece1c83e25": 1789972883,
   "292583c7e1f4f14d": 1790061882,
+  "292680a6d719b44c": 1790321776,
   "2928e42714084404": 1790136320,
   "2935e67cc2eafc52": 1789726134,
   "2937d1553872748b": 1789720517,
@@ -1507,6 +1518,7 @@
   "3a1ee04bbdea742c": 1790148975,
   "3a20b0ecb4c8c28c": 1789638316,
   "3a2891de92118c02": 1789956049,
+  "3a2a0dd3817795d4": 1790321776,
   "3a2bddc429ed874a": 1790118587,
   "3a442db54b6a3214": 1790040051,
   "3a469cf2a6802e94": 1790315417,
@@ -2456,6 +2468,7 @@
   "6482b487850dce7d": 1789719936,
   "6490060aa45353db": 1789681826,
   "64b0bf45a3cb93d4": 1789967690,
+  "64b7f040dcc10d7c": 1790321776,
   "64cf0eb79b4fc198": 1789627496,
   "64d15219cf9450dc": 1789637719,
   "64ec2c202fd10eec": 1790124922,
@@ -5827,7 +5840,7 @@
  "companies_today": {},
  "day": "2026-09-25",
  "last_clip": 1790315417,
- "last_msg_poll": 1790321452,
+ "last_msg_poll": 1790322017,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -5869,7 +5882,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-25 16:30 KST",
+  "last_run": "2026-09-25 16:40 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
