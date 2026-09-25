@@ -130,6 +130,10 @@
   [
    1790328618,
    "Vertiv to acquire data center fluid management firm King Environmental Services"
+  ],
+  [
+   1790348724,
+   "FERC rejects Oklo complaint seeking to reinstate project to PJM’s interconnection study cycle"
   ]
  ],
  "alerted": {
@@ -137,6 +141,7 @@
   "0cfb56c86751e9ef": 1790035428,
   "1073060c113fb962": 1789629087,
   "12ac389b7fb194b2": 1789627494,
+  "27f359c111c909f2": 1790348724,
   "283b50fd635c110a": 1790174131,
   "2a3c3b712db1cc14": 1790126759,
   "35913bf4ca2349fd": 1790079928,
@@ -164,8 +169,19 @@
   "cdaa54f68b0563fa": 1789658129,
   "d09dd25c4f4edf8d": 1790174132
  },
- "alerted_today": 0,
- "clip_buffer": [],
+ "alerted_today": 1,
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 0,
+   "sec": "유틸리티·정책",
+   "t": "FERC rejects Oklo complaint seeking to reinstate project to PJM’s interconnection study cycle",
+   "ts": 1790343989,
+   "u": "https://www.utilitydive.com/news/ferc-rejects-oklo-complaint-pjm-interconnection/831357/"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -943,6 +959,7 @@
   "224ec139610f743e": 1790036576,
   "2256e3dcffa2f8fd": 1789954905,
   "22664f44d91cebf8": 1790008517,
+  "2268ebc955167f48": 1790348724,
   "227f02a16ec38337": 1790128217,
   "22a445ceaa33b0de": 1789783839,
   "22a5fe6b1911b131": 1790127320,
@@ -1063,6 +1080,7 @@
   "27e827f8084203d1": 1789629088,
   "27eabcc63e90d6d3": 1790121418,
   "27f3214c0e31ea2d": 1789967119,
+  "27f359c111c909f2": 1790348724,
   "28051a9f7197ac0f": 1789873818,
   "281a64f70a6c2d36": 1789692619,
   "2821b12599fbd811": 1789634416,
@@ -2785,6 +2803,7 @@
   "7398878ae6844fd8": 1790124028,
   "739a874be9d14136": 1790128821,
   "73a863abc900d61e": 1790038311,
+  "73c273e8e971d5dd": 1790348724,
   "73c392dc6a1d9834": 1789977915,
   "73c50b4dbd2bbd6f": 1789702817,
   "73d08871b817473f": 1790053820,
@@ -3647,6 +3666,7 @@
   "9c5abbecb1522ec5": 1789627496,
   "9c75118114a6b972": 1790126118,
   "9c8b4a88b3b880a1": 1790064758,
+  "9c9f8f48534eaf3b": 1790348724,
   "9ca85470f031ff2a": 1789972883,
   "9cbe3a42e1d8da73": 1789629088,
   "9ce9ec8f52e1b933": 1789627496,
@@ -4688,6 +4708,7 @@
   "cb26f6b345d20f9d": 1790128524,
   "cb396effa877ac8a": 1789661117,
   "cb469a0e7c4f8c1a": 1789627496,
+  "cb470b2d11b01aaf": 1790348724,
   "cb5ae1bb7a6edfc1": 1790065327,
   "cb6f6cdd919f01da": 1789774587,
   "cb72932a25b23939": 1790035999,
@@ -5867,7 +5888,7 @@
  "companies_today": {},
  "day": "2026-09-26",
  "last_clip": 1790344824,
- "last_msg_poll": 1790348401,
+ "last_msg_poll": 1790348968,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -5909,7 +5930,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-26 00:00 KST",
+  "last_run": "2026-09-26 00:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
