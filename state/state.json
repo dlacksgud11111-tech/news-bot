@@ -180,6 +180,16 @@
    "t": "데이터센터 '새 먹거리' 키우는 코오롱글로벌…개발부터 운영까지 영토 확장 - v.daum.net",
    "ts": 1790373609,
    "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ocmxXQmhVQ3VTOWM0ZWp1S2hTM1ByVGtqVjlYMGlCMUNCMEtkaW05Rm0wNzR2c1hNUERkaFpCOXFVQ19SQkZ0b3l4eXdQRDA?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Vietnam.vn",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "데이터센터의 높은 전력 소비 문제를 어떻게 해결할 수 있을까요? - Vietnam.vn",
+   "ts": 1790380205,
+   "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOUZoQ29USjFwbVQ0RkZWLVd4WU9mRVdWQXBCMXpZSkVmdnl1ckpONzJRWlllWDlmYU5kUzJiakFvVXY3amdEWjctOEJ1VURzdU0yNTR5blEyRHVzeWxDTHF5UWVua3VETEdmbGN2Q0RnVzVtWGZPV1dLQnlCWHhNWFJQYkRWZw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -5749,6 +5759,7 @@
   "f7c1a21fe168fe0f": 1789888052,
   "f7c79a5a813aad87": 1789974322,
   "f7cca3e1753aee6b": 1789627496,
+  "f7ce88f4fec8aca3": 1790380408,
   "f7d7a12ffc488d38": 1789724119,
   "f7dfc882c201386f": 1790304025,
   "f7e00346ac42eb4e": 1790003117,
@@ -5933,7 +5944,7 @@
  "companies_today": {},
  "day": "2026-09-26",
  "last_clip": 1790373617,
- "last_msg_poll": 1790380072,
+ "last_msg_poll": 1790380657,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -5975,7 +5986,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-26 08:47 KST",
+  "last_run": "2026-09-26 08:57 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
