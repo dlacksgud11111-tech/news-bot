@@ -200,6 +200,16 @@
    "t": "AI cloud and data center firm Nscale raises $3.36bn ahead of its IPO",
    "ts": 1790350488,
    "u": "https://www.datacenterdynamics.com/en/news/ai-cloud-and-data-center-firm-nscale-raises-336bn-ahead-of-its-ipo/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "States sue Trump administration, developers over offshore wind lease buyouts",
+   "ts": 1790264702,
+   "u": "https://www.utilitydive.com/news/states-sue-trump-administration-developers-over-offshore-wind-lease-buyout/831279/"
   }
  ],
  "clip_titles": [],
@@ -1886,6 +1896,7 @@
   "47b96de5eb5e6b9b": 1789859418,
   "47bd276ea7cc615b": 1790067063,
   "47c17166bc1c44d4": 1790035999,
+  "47c39126c3d30919": 1790353221,
   "47c90ebe1a22a529": 1789957530,
   "47d5dadec43e8a9e": 1789709642,
   "47e1abea4b022a92": 1789866315,
@@ -5915,7 +5926,7 @@
  "companies_today": {},
  "day": "2026-09-26",
  "last_clip": 1790344824,
- "last_msg_poll": 1790353166,
+ "last_msg_poll": 1790353468,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -5957,7 +5968,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-26 01:19 KST",
+  "last_run": "2026-09-26 01:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
