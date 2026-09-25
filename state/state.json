@@ -175,6 +175,16 @@
    "t": "Spain awards €265 million for 49.9 GWh of pumped hydro storage",
    "ts": 1790331508,
    "u": "https://www.pv-magazine.com/2026/09/25/spain-awards-e265-million-for-49-9-gwh-of-pumped-hydro-storage/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "India adds 50.6 GW of solar module and 9.7 GW of cell manufacturing capacity in 1H",
+   "ts": 1790335497,
+   "u": "https://www.pv-magazine.com/2026/09/25/india-added-50-6-gw-of-solar-module-and-9-7-gw-of-cell-manufacturing-capacity-in-1h-2026-says-mercom/"
   }
  ],
  "clip_titles": [],
@@ -2383,6 +2393,7 @@
   "60a9b2d5d849984f": 1790048174,
   "60af3c074e277a11": 1789705521,
   "60bab34d3e507a70": 1790201443,
+  "60c10475116754ae": 1790335517,
   "60e1e3746111ef8b": 1789627496,
   "612e11a02b1f3bef": 1790060416,
   "6137ca44fc539a6f": 1789692015,
@@ -3941,6 +3952,7 @@
   "a98d75f457bfe3bb": 1789724420,
   "a98ebecb1df07e25": 1789716922,
   "a993f5479c7e0075": 1789958121,
+  "a9a85b95a892d7ff": 1790335517,
   "a9aa4b1ea769d6be": 1789974322,
   "a9ae868adfe9dda1": 1789692619,
   "a9b54e79893fe727": 1789707915,
@@ -5852,7 +5864,7 @@
  "companies_today": {},
  "day": "2026-09-25",
  "last_clip": 1790330117,
- "last_msg_poll": 1790335465,
+ "last_msg_poll": 1790335767,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -5894,7 +5906,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-25 20:24 KST",
+  "last_run": "2026-09-25 20:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
