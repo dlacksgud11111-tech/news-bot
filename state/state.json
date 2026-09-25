@@ -195,6 +195,26 @@
    "t": "아카마이 116억달러 계약…오라클 데이터센터 전력 지연 - tokenpost.kr",
    "ts": 1790337465,
    "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DN1pVUXhUeHpzcFVUWXAzdk5PVjN2RWdNQjBRNzNOVTlrLUN3OWM5UFdSNWRWRmxfUEQyRy1ONkQ3NUNvcHI5ZHltWlNSdmtSRVNfVy1PQ08?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "Anza expects at least a 40% spike in U.S. solar module prices after Section 232",
+   "ts": 1790341049,
+   "u": "https://www.pv-magazine.com/2026/09/25/anza-expects-at-least-a-40-spike-in-solar-module-prices-after-section-232/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "kr.investing.com",
+   "sc": 14,
+   "sec": "데이터센터·AI전력",
+   "t": "아틀라스 에너지 솔루션스, AI 데이터센터 전력 공급 계약 체결로 주가 급등 - kr.investing.com",
+   "ts": 1790340300,
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92RG5yWmpLU2ZLN2doNXNSaUN1RUJDQXZTRWVxbDNVZHRZY1MtdHBqMWU0MDkxOGdHZzZuRjZReHQzcTF5TGVWWTNKQVM2MF84SUpkdWN2azZpOXI1Vklia19zX3NrajF5YzlwMzhZT1M?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1679,6 +1699,7 @@
   "3f5eb02d2f60a79c": 1789714524,
   "3f7ad0ce3bb17e87": 1789718720,
   "3f9b7d18124de3ab": 1789794287,
+  "3f9cdf4e4749459b": 1790341084,
   "3fcb2ecc80e8d4f7": 1790053518,
   "3fdd7157a4c729c4": 1789679129,
   "40164707e5b4b486": 1789627496,
@@ -2617,6 +2638,7 @@
   "6a3722d1ecdc09e2": 1789713633,
   "6a4a178c6286bfef": 1789969411,
   "6a4ff15e749989d6": 1790058917,
+  "6a56ffb37faf7dc5": 1790341084,
   "6a6731219e7acff6": 1790125530,
   "6a73e901c3610ca6": 1789702817,
   "6a8096c907364675": 1790261116,
@@ -3304,6 +3326,7 @@
   "8a5dba0eb7a94e86": 1790118021,
   "8a61317f1738ac01": 1789720817,
   "8a6645e56ea0e8f6": 1789707915,
+  "8a686a83819b7e8f": 1790341084,
   "8a759c8938d9bebb": 1789971183,
   "8a82ddd715075f04": 1789953163,
   "8a8931b9dd291647": 1789802714,
@@ -5883,7 +5906,7 @@
  "companies_today": {},
  "day": "2026-09-25",
  "last_clip": 1790337586,
- "last_msg_poll": 1790340742,
+ "last_msg_poll": 1790341329,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -5925,7 +5948,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-25 21:52 KST",
+  "last_run": "2026-09-25 22:02 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
