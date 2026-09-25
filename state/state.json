@@ -169,6 +169,16 @@
    "t": "연휴 첫 날 228명 탄 다낭행 에어서울 여객기 화재…보조 배터리 발화 추정",
    "ts": 1790308297,
    "u": "https://www.etnews.com/20260925000023"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "이코노미트리뷴",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "구글, AI 데이터센터 우주로 띄운다…내달 TPU 첫 궤도 실증 - 이코노미트리뷴",
+   "ts": 1790311921,
+   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qT3gyZGJYWVVkN2dDVWpQaHQwUmhjU2NyWlpjVnM3R0wyMmQ4eW1xTFlOYnh2bTZOdjRtLUkycV9qclNRMWc2bU5KNzMweUF2QlJoQlptdzY5QTJwcmRRUUI3TXR5Qm5taWxWZUhrT0lFZW9QcUIw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2484,6 +2494,7 @@
   "66c01c4e552b0fa3": 1789954905,
   "66ce5664e4edb536": 1789803330,
   "66ddfbf4a49e826b": 1790142019,
+  "66e7deeefa4f5236": 1790315120,
   "66ed6cf92e560aad": 1790040620,
   "66f3cbfc5f79224d": 1789979427,
   "6700d19e99b83421": 1789745736,
@@ -5800,7 +5811,7 @@
  "companies_today": {},
  "day": "2026-09-25",
  "last_clip": 1790307628,
- "last_msg_poll": 1790315067,
+ "last_msg_poll": 1790315368,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -5842,7 +5853,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-25 14:44 KST",
+  "last_run": "2026-09-25 14:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
