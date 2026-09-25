@@ -165,7 +165,18 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 1,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 3,
+   "sec": "재생에너지·ESS",
+   "t": "Spain awards €265 million for 49.9 GWh of pumped hydro storage",
+   "ts": 1790331508,
+   "u": "https://www.pv-magazine.com/2026/09/25/spain-awards-e265-million-for-49-9-gwh-of-pumped-hydro-storage/"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -2834,6 +2845,7 @@
   "76ec54200edb8f3c": 1789629088,
   "7708c3a1c4879ffe": 1789866315,
   "770bf96c4597292b": 1789627496,
+  "771fa108e9f00282": 1790331630,
   "772041d49c646886": 1790127320,
   "77226f6ffba015ee": 1789627496,
   "77336ab76abd6f75": 1789859418,
@@ -5833,7 +5845,7 @@
  "companies_today": {},
  "day": "2026-09-25",
  "last_clip": 1790330117,
- "last_msg_poll": 1790331566,
+ "last_msg_poll": 1790331870,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -5875,7 +5887,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-25 19:19 KST",
+  "last_run": "2026-09-25 19:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
