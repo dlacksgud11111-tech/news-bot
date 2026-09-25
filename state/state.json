@@ -240,6 +240,16 @@
    "t": "마라 홀딩스 자회사, 텍사스 데이터센터 전력 확보 위해 1억 달러 보증금 예치 - 데이터투자",
    "ts": 1790368404,
    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DVG9WZWZ6NjBPLVhBbHJ3TTZ3N0EzNTNKd0dYZm5zN1VjOG1SVTgtdTg3SGMxZ0JWS05wTTJyYXA4dmhVclJHbW1oYWo1YnFNcEV4LWxvWHA4cVNIV1VWcHJiNXBLbXFISTVyd0FybmNuME0?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "에너지경제신문",
+   "sc": 8,
+   "sec": "전력기기",
+   "t": "“로봇이 만들고 AI가 관리”…K-전력기기, 스마트팩토리 고도화 - 에너지경제신문",
+   "ts": 1790370000,
+   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RWmE4YTUxZ1l2d0h2cE1hblNyMUdUOU15ZlhSWi1mdWVuejRZUi1MUFpTSzFzeDhWUzlQcUlVNXdXTGxkZFR5NHF6MDdhWVFqd2VoUU9OV0VjNG1qNnVreTBR?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2154,6 +2164,7 @@
   "523c44a7c5a54d7d": 1790042395,
   "5265a3bb8a107197": 1790084279,
   "527d3c1b1b8792d2": 1790042975,
+  "527e4e95ba8700af": 1790370130,
   "52972258e185d06f": 1790135428,
   "529e2d4bf1ca4744": 1789627496,
   "52a49367ab5df97b": 1790041833,
@@ -4930,6 +4941,7 @@
   "d184dd1423faec4c": 1790042975,
   "d18ce4e955d741fb": 1789969411,
   "d19125c6a274d2cd": 1789950858,
+  "d191f1ef9ab24374": 1790370130,
   "d19254c70f86c888": 1789695321,
   "d19a6606ce82287a": 1789712512,
   "d1a163164a7c6144": 1789629088,
@@ -5946,6 +5958,7 @@
   "ff36fda73c996eb6": 1789872360,
   "ff42fff2cf9857d9": 1789683319,
   "ff4a45035276b435": 1789969411,
+  "ff5c17145158c05c": 1790370130,
   "ff5ca509a2a23994": 1790296518,
   "ff5eedbde781bb37": 1790199690,
   "ff5f179a6ff527c6": 1789627496,
@@ -5963,7 +5976,7 @@
  "companies_today": {},
  "day": "2026-09-26",
  "last_clip": 1790344824,
- "last_msg_poll": 1790369795,
+ "last_msg_poll": 1790370379,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6005,7 +6018,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-26 05:56 KST",
+  "last_run": "2026-09-26 06:06 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
