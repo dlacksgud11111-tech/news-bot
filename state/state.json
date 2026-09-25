@@ -159,7 +159,18 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 0,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "深潮TechFlow",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "미국 주식 시황(9월 25일): Oracle 데이터센터 전력 공급 지연으로 3.3% 하락, 10년물 미국 국채 수익률 5.2% 근접 - 深潮TechFlow",
+   "ts": 1790300559,
+   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIbkJLVk92OExwbXJTMEsxU1IwRnJLQkRuWW9HZWRmdDNuYkpXb2xmT1l2Qlc1aVlSV29JMllaSEVPMHlaakZYM1ZjVV9HSmNzWFk3ZEVGeGxVNnpQ?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -2643,6 +2654,7 @@
   "6f13746dda3d382a": 1790173820,
   "6f2827de13b06df8": 1790006722,
   "6f5331acb38661e5": 1789636217,
+  "6f5d21ba57167559": 1790300885,
   "6f5e130f0674b2d5": 1789971751,
   "6f602ee512261342": 1789634416,
   "6f68ac62eaad927c": 1790074823,
@@ -3922,6 +3934,7 @@
   "ac3bc53c08c10704": 1790178324,
   "ac481f21c0f1f1f7": 1789713633,
   "ac5a70589a969a14": 1790123718,
+  "ac78dc59ea43f207": 1790300885,
   "ac796b5352c44073": 1789958121,
   "ac89ecefbf0707c4": 1789943682,
   "ac90b967d8205ca9": 1790008517,
@@ -4256,6 +4269,7 @@
   "ba8760f22e7209df": 1789976730,
   "ba8dfd2f5bb1d4b6": 1790052313,
   "baa50dacc6af9fea": 1790060726,
+  "baab65a44c286127": 1790300885,
   "bab4f71d1a8276d3": 1790075421,
   "babc4a167395765f": 1789970013,
   "bac6e88ff9c66105": 1789891518,
@@ -5054,6 +5068,7 @@
   "e0602df327c186d4": 1789969411,
   "e064f74ceaa36075": 1790054122,
   "e065a3cd5cf11ece": 1790056218,
+  "e071746ab2b67f66": 1790300885,
   "e0823a2f3f9aa4de": 1789701321,
   "e0827a2b69061cd2": 1789639528,
   "e088d2ca19e5e683": 1789697120,
@@ -5752,7 +5767,7 @@
  "companies_today": {},
  "day": "2026-09-25",
  "last_clip": 1790300325,
- "last_msg_poll": 1790300567,
+ "last_msg_poll": 1790301130,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -5794,7 +5809,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-25 10:42 KST",
+  "last_run": "2026-09-25 10:52 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
