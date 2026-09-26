@@ -170,7 +170,18 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 1,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 5,
+   "sec": "전력기기",
+   "t": "Chinese province moves grid-side batteries into spot market",
+   "ts": 1790413200,
+   "u": "https://www.pv-magazine.com/2026/09/26/chinese-province-moves-grid-side-batteries-into-spot-market/"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -4052,6 +4063,7 @@
   "aa1dcc80843bdf0f": 1790352626,
   "aa2580a0962f5e38": 1789630519,
   "aa34d7556d47ef54": 1789709642,
+  "aa4f0d18e2e53704": 1790413219,
   "aa5667e3d60ce67a": 1789627496,
   "aa56778d99b372fa": 1789627496,
   "aa777d863240960d": 1789960531,
@@ -5011,6 +5023,7 @@
   "d3a981938e2fc1a5": 1789634416,
   "d3bc2f025055949d": 1790057120,
   "d3cc84475ae93c56": 1789971751,
+  "d3cfeddcdaecd405": 1790413219,
   "d3d6a6393c42df4e": 1790064758,
   "d3d76dae497154c8": 1790037157,
   "d3e65bc85bdc8c25": 1789634116,
@@ -6013,7 +6026,7 @@
  "companies_today": {},
  "day": "2026-09-26",
  "last_clip": 1790412917,
- "last_msg_poll": 1790413167,
+ "last_msg_poll": 1790413461,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6055,7 +6068,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-26 17:59 KST",
+  "last_run": "2026-09-26 18:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
