@@ -170,38 +170,7 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 1,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Free software calculates how many solar modules fit on a rooftop from a photo",
-   "ts": 1790406000,
-   "u": "https://www.pv-magazine.com/2026/09/26/free-software-calculates-how-many-solar-modules-fit-on-a-rooftop-from-a-photo/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "소셜밸류",
-   "sc": 18,
-   "sec": "전력기기",
-   "t": "K-전력기기 3사, 美 AIDC 뚫고 성장 가속…수주잔고 50조 넘나 - 소셜밸류",
-   "ts": 1790373600,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aNm5sUXNNSnlOMlVNZmx6QkFUT0poNGE5bkg3OUtUUjNFNzFvQlg4bEZIVjVCZ0FxUm1pZmRCalI2NkpXVVVIUFN6dmJ3UzJkRXRvVTNUUTBGeVl2X0c1dGNXYUZBN3pZRXdsY9IBbEFVX3lxTE9aNm5sUXNNSnlOMlVNZmx6QkFUT0poNGE5bkg3OUtUUjNFNzFvQlg4bEZIVjVCZ0FxUm1pZmRCalI2NkpXVVVIUFN6dmJ3UzJkRXRvVTNUUTBGeVl2X0c1dGNXYUZBN3pZRXdsYw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Anza expects at least a 40% spike in U.S. solar module prices after Section 232",
-   "ts": 1790409600,
-   "u": "https://www.pv-magazine.com/2026/09/26/anza-expects-at-least-a-40-spike-in-solar-module-prices-after-section-232/"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -6043,8 +6012,8 @@
  },
  "companies_today": {},
  "day": "2026-09-26",
- "last_clip": 1790405432,
- "last_msg_poll": 1790412866,
+ "last_clip": 1790412917,
+ "last_msg_poll": 1790413167,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6086,7 +6055,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-26 17:54 KST",
+  "last_run": "2026-09-26 17:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
