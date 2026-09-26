@@ -180,6 +180,16 @@
    "t": "Chinese province moves grid-side batteries into spot market",
    "ts": 1790413200,
    "u": "https://www.pv-magazine.com/2026/09/26/chinese-province-moves-grid-side-batteries-into-spot-market/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "아주경제",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "[NNA] 태국 대형 데이터센터, 수도권 밖으로 분산 진행될 전망 - 아주경제",
+   "ts": 1790398032,
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aVnk2ZDVLT1RiRVhWclVOQnBLX2pzZ2JPMVhqRzVXWHk2SEp4TkgxRlB6STA2bTZaMzNhTFRoUTVzLXFRd3dYR055N1NNNjBTOHFRamdTOGZmZ9IBWEFVX3lxTFB0UG5CWk8xRlV1U1VoYmx4Nnl4Q3I4NThDSU9FMnJzTGZWU3hLNEp6dUhXalR6TWQ4UVpZX1hOdG1VNEM5eWRMT0pfRnJFaVdNXzZmd1Rzc0w?oc=5"
   }
  ],
  "clip_titles": [],
@@ -5860,6 +5870,7 @@
   "f844d53c0e3fc0c4": 1789627496,
   "f84a6e89d4cad722": 1790060726,
   "f853f22d8def34bf": 1790159130,
+  "f85964846fb9b220": 1790425392,
   "f86a9871a3712810": 1790058917,
   "f87e6daab56b1a1d": 1790028666,
   "f882d0f2fb36f200": 1790125530,
@@ -6035,7 +6046,7 @@
  "companies_today": {},
  "day": "2026-09-26",
  "last_clip": 1790412917,
- "last_msg_poll": 1790425082,
+ "last_msg_poll": 1790425633,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6077,7 +6088,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-26 21:18 KST",
+  "last_run": "2026-09-26 21:27 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
