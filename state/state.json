@@ -180,6 +180,16 @@
    "t": "Free software calculates how many solar modules fit on a rooftop from a photo",
    "ts": 1790406000,
    "u": "https://www.pv-magazine.com/2026/09/26/free-software-calculates-how-many-solar-modules-fit-on-a-rooftop-from-a-photo/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "소셜밸류",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "K-전력기기 3사, 美 AIDC 뚫고 성장 가속…수주잔고 50조 넘나 - 소셜밸류",
+   "ts": 1790373600,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aNm5sUXNNSnlOMlVNZmx6QkFUT0poNGE5bkg3OUtUUjNFNzFvQlg4bEZIVjVCZ0FxUm1pZmRCalI2NkpXVVVIUFN6dmJ3UzJkRXRvVTNUUTBGeVl2X0c1dGNXYUZBN3pZRXdsY9IBbEFVX3lxTE9aNm5sUXNNSnlOMlVNZmx6QkFUT0poNGE5bkg3OUtUUjNFNzFvQlg4bEZIVjVCZ0FxUm1pZmRCalI2NkpXVVVIUFN6dmJ3UzJkRXRvVTNUUTBGeVl2X0c1dGNXYUZBN3pZRXdsYw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1277,6 +1287,7 @@
   "2ec48a865e4f9b19": 1789776316,
   "2ec5f74446bace85": 1789946508,
   "2ed7879766ef884b": 1790125822,
+  "2ed829696b20973b": 1790406619,
   "2ed9388d3ae0c127": 1789715119,
   "2ee4e2cb2ef4c862": 1789627496,
   "2eecc9fe54ec6759": 1790377518,
@@ -6010,7 +6021,7 @@
  "companies_today": {},
  "day": "2026-09-26",
  "last_clip": 1790405432,
- "last_msg_poll": 1790406558,
+ "last_msg_poll": 1790406867,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6052,7 +6063,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-26 16:09 KST",
+  "last_run": "2026-09-26 16:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
