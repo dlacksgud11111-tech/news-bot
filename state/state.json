@@ -190,6 +190,16 @@
    "t": "\"땅 없으면 바다로\"…K조선이 띄우는 '발전소·데이터센터' - 뉴시스",
    "ts": 1790400600,
    "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Bd2tDeTFxcmxnSTZsWC1SMkE4Z2VFMEx3S3VzeVpjYk1KczVYWTB5VTRKVFVPcDBaTjhTdmlzX2o5TkQ5RGhVQTVFVjZhQ1hXOHRua3lvYjRhVGNtTlZzVNIBeEFVX3lxTE9tY2s2a1NDRTNybVFpWW0yLUVXNlR4NG9sd3NIaHJYNUhsdTBhUkdvVnFHdUtldG5tNENwTWVxOThVSTZDYm1UOHltdG1JTnhnV1RYZHlSaWNxTGk0aXF2NENLelV0U0tmckdXem9JaTNVeVo4TE5UTw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "IT타임스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자·SK엔무브, 차세대 냉매·액침냉각 공동 개발…AI 데이터센터 공략 - IT타임스",
+   "ts": 1790400232,
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uYUZnMmgyTnExMlBoaDdJVi01ZU8yclBsX1pSUm1JZXM2M3B4cjlqNXgwNTh5bjhFWTNyMTFMMGdzbFlHbVp1bXlKVzZjd0ZHLXg4cHItS0lxWlNFTlFMMjFkNHRuR3R4?oc=5"
   }
  ],
  "clip_titles": [],
@@ -4330,6 +4340,7 @@
   "b4fbffde1dac14ab": 1789627496,
   "b5046afe43c0ef3a": 1789629088,
   "b517a2a20de2e3a3": 1790282376,
+  "b518c0e91e81c2e3": 1790404519,
   "b51bf03d747f463b": 1790127320,
   "b51d00bb87d24964": 1789627496,
   "b51ded7e9c0fcec0": 1789695321,
@@ -6015,7 +6026,7 @@
  "companies_today": {},
  "day": "2026-09-26",
  "last_clip": 1790398221,
- "last_msg_poll": 1790404469,
+ "last_msg_poll": 1790404765,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6057,7 +6068,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-26 15:34 KST",
+  "last_run": "2026-09-26 15:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
