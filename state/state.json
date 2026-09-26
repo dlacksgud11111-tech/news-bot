@@ -190,6 +190,16 @@
    "t": "K-전력기기 3사, 美 AIDC 뚫고 성장 가속…수주잔고 50조 넘나 - 소셜밸류",
    "ts": 1790373600,
    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aNm5sUXNNSnlOMlVNZmx6QkFUT0poNGE5bkg3OUtUUjNFNzFvQlg4bEZIVjVCZ0FxUm1pZmRCalI2NkpXVVVIUFN6dmJ3UzJkRXRvVTNUUTBGeVl2X0c1dGNXYUZBN3pZRXdsY9IBbEFVX3lxTE9aNm5sUXNNSnlOMlVNZmx6QkFUT0poNGE5bkg3OUtUUjNFNzFvQlg4bEZIVjVCZ0FxUm1pZmRCalI2NkpXVVVIUFN6dmJ3UzJkRXRvVTNUUTBGeVl2X0c1dGNXYUZBN3pZRXdsYw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "Anza expects at least a 40% spike in U.S. solar module prices after Section 232",
+   "ts": 1790409600,
+   "u": "https://www.pv-magazine.com/2026/09/26/anza-expects-at-least-a-40-spike-in-solar-module-prices-after-section-232/"
   }
  ],
  "clip_titles": [],
@@ -4136,6 +4146,7 @@
   "ad5477c6b41f3994": 1789959318,
   "ad5c438c3ef7ed4c": 1789954327,
   "ad7c2363f62302af": 1789697120,
+  "ad7f597f459e0ef3": 1790409916,
   "ad9bce7b69d42275": 1789629088,
   "ad9dd0fa0131f13a": 1790084279,
   "adba974dee71693f": 1790047038,
@@ -4351,6 +4362,7 @@
   "b58b5fdc3cf7aa09": 1790315417,
   "b58b76261e7b9757": 1790060416,
   "b59607f730e0bf03": 1790055317,
+  "b5a251cca854c331": 1790409916,
   "b5b78b556e16ab44": 1789955477,
   "b5bd0d9902c53c2f": 1789650029,
   "b5deaf4ade76db7a": 1790032819,
@@ -6027,7 +6039,7 @@
  "companies_today": {},
  "day": "2026-09-26",
  "last_clip": 1790405432,
- "last_msg_poll": 1790409854,
+ "last_msg_poll": 1790410166,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6069,7 +6081,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-26 17:04 KST",
+  "last_run": "2026-09-26 17:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
