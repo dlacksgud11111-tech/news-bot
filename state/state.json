@@ -170,7 +170,18 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 1,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "Free software calculates how many solar modules fit on a rooftop from a photo",
+   "ts": 1790406000,
+   "u": "https://www.pv-magazine.com/2026/09/26/free-software-calculates-how-many-solar-modules-fit-on-a-rooftop-from-a-photo/"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -1179,6 +1190,7 @@
   "2b81f5e541064da0": 1790127320,
   "2b9b4829423e97b1": 1789738816,
   "2ba8622213e8c246": 1789647914,
+  "2bb1d0c3a777927f": 1790406317,
   "2bbb48658ea2a5f0": 1790180421,
   "2bbbba0a15913f25": 1790040917,
   "2bda6d38346b119d": 1789627496,
@@ -1518,6 +1530,7 @@
   "396fb9e45de85009": 1789951430,
   "3971119e750ce435": 1789710788,
   "39804b8abe4205f3": 1789635327,
+  "39831f85d81a57fc": 1790406317,
   "39a6b7efebceb4ee": 1790125822,
   "39bac45d9481a758": 1790125822,
   "39c56556d1fc1121": 1790212515,
@@ -3993,6 +4006,7 @@
   "a856e41b5895a2f6": 1790381556,
   "a85bd9426c27add3": 1789954327,
   "a85d4d2753ddddbb": 1789648519,
+  "a85f3c08959ec25d": 1790406317,
   "a862c7a1b9bba48b": 1790008517,
   "a87308fe1d6eb5a0": 1789630819,
   "a876780de402c109": 1789627496,
@@ -5996,7 +6010,7 @@
  "companies_today": {},
  "day": "2026-09-26",
  "last_clip": 1790405432,
- "last_msg_poll": 1790406274,
+ "last_msg_poll": 1790406558,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6038,7 +6052,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-26 16:04 KST",
+  "last_run": "2026-09-26 16:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
