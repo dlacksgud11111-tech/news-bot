@@ -180,6 +180,16 @@
    "t": "전력 부족·주민 반발 부딪힌 AI 데이터센터…육지 떠나 북극·바다·우주 향한다 - 서울신문",
    "ts": 1790391838,
    "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HVGhVSGVfMGFqX1hER2RjekdVVFM5UlpWZGhJWjFnZ0VkTmlSOGdNQ0wtR0tJMmhKRWpkbng5ZDJZM3VCaUVoVFBTWXBFZGNGSUhjWWpPamVtcHFETU1ySVNMZy1NdGJFWE5qZmpNOXdCRFpFVWFySzJ6Zw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "소셜밸류",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "K-전력기기 3사, 美 AIDC 뚫고 성장 가속…수주잔고 50조 넘나 - 소셜밸류",
+   "ts": 1790373600,
+   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUUFZYTTY0ZGc2aHI5bllyZ2FlUG5NMDNPOWhqa29VaDBpdmVQbnAzeHVNVFZZVXBRMzhHallqaGJ3TmtHSEFRNkE2aEptX1ZLTzlINDE1X0VZV1R1dFFVRzVjUdIBbEFVX3lxTE9aNm5sUXNNSnlOMlVNZmx6QkFUT0poNGE5bkg3OUtUUjNFNzFvQlg4bEZIVjVCZ0FxUm1pZmRCalI2NkpXVVVIUFN6dmJ3UzJkRXRvVTNUUTBGeVl2X0c1dGNXYUZBN3pZRXdsYw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3961,6 +3971,7 @@
   "a6fdbfb4d893ddf6": 1789695321,
   "a7021185d2a9c2de": 1789974040,
   "a70a7feb3c85a7d9": 1790008517,
+  "a71877886d847c23": 1790396718,
   "a72758e6b9007bb5": 1789878920,
   "a748d16f152755de": 1790392020,
   "a74a0cb215c625b9": 1790058015,
@@ -5989,7 +6000,7 @@
  "companies_today": {},
  "day": "2026-09-26",
  "last_clip": 1790388562,
- "last_msg_poll": 1790396659,
+ "last_msg_poll": 1790396961,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6031,7 +6042,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-26 13:24 KST",
+  "last_run": "2026-09-26 13:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
