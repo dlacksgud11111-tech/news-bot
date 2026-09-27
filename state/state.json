@@ -205,6 +205,16 @@
    "t": "LS ELECTRIC, 데이터센터 패키지 솔루션으로 아세안 시장 정조준 - 인포스탁데일리",
    "ts": 1790549539,
    "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qaVhRT2RxelBURExTcVdJaWtGZlQtb2hhbkNmbWJSTFp6Vk9hS09CYlhkRmtQS1V6dUZJNmdQa1lRb3MtQzdEQkdqTWhlTEhhVnF5OXl6Ri0wR0RuTldtVGhzZmM3dF9tdFk0Y2ZJb3RxemVW?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "한스경제",
+   "sc": 14,
+   "sec": "데이터센터·AI전력",
+   "t": "LS일렉트릭, 싱가포르서 데이터센터 전력 패키지 공개 - 한스경제",
+   "ts": 1790549701,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEV25EbVUyVmN5X0Y4TlRvNkM2WHNSMmUxUjZvdXJ0YVlqSTZyV0ExNzZ6bmFIX2JfR21abG5xQnNxaWR5UDVqd1NiM0kzSy1PMllMMDFLdlBsakZURFVRVm1aUVNBakVOLVVxbdIBb0FVX3lxTFBnclpKWXdyWWNINGxJN1JxRDZtYXJ5eW9KSFFQNGF3cWxMRkVncVVEYTRpNjBfYVpwTDJ3c3NON0Eya0xPUVVRWHZHZ0diMzZ5ME9OUlRnYzlvbkpJS2xMWlpvQXh5anBCMzNlZGtZNA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3197,6 +3207,7 @@
   "797d699e578a8f46": 1790125822,
   "79a4d3978bffdc5a": 1790283581,
   "79b7595eafefa82b": 1789729035,
+  "79cd5b560e491bf8": 1790550317,
   "79d0699eb28f950a": 1789971751,
   "79e5f88d7eb74c3a": 1789630819,
   "79e760c832b2bcf2": 1789744587,
@@ -3349,6 +3360,7 @@
   "7fee454cb98b958f": 1790039473,
   "7ff88c70b104a116": 1789629088,
   "7ffacbbb98c8526c": 1789780383,
+  "80016e73d9560028": 1790550317,
   "80156503d4fdbafe": 1789627496,
   "801590d04607ec72": 1789953163,
   "803dc3abf693b36a": 1789627496,
@@ -3681,6 +3693,7 @@
   "8e9cb99563c50e0c": 1790041217,
   "8ea3539e61691b3f": 1789720517,
   "8ea7f24a19973f8a": 1789979721,
+  "8eaa5555016e9fc8": 1790550317,
   "8eb5d9517ff14596": 1789775739,
   "8ebbb41fc6970b27": 1790210120,
   "8ec1a202f81d5fc5": 1789692619,
@@ -4310,6 +4323,7 @@
   "a94bd41ca0e56302": 1789627496,
   "a94d27363698f8a1": 1789862827,
   "a94eed982b465002": 1789669819,
+  "a96d656f2162a9af": 1790550317,
   "a9762acd39debfea": 1789975519,
   "a979f3fc8676a948": 1789972883,
   "a985e87b85329ee7": 1790031917,
@@ -5230,6 +5244,7 @@
   "cf3feb0c06959da1": 1789708498,
   "cf42862b904e9440": 1790340495,
   "cf706ec2a591a385": 1790287591,
+  "cf717f2d4da2bb81": 1790550317,
   "cf72c1cf82e438c0": 1790075118,
   "cf99a72392bef528": 1790024635,
   "cf9e95fc4e7a6b73": 1789647653,
@@ -5768,6 +5783,7 @@
   "e621ebeffb1c335c": 1790127622,
   "e62bccc8ee33d75a": 1790408416,
   "e62d2ca5f994f168": 1789629088,
+  "e62fc7d22e0bb2ee": 1790550317,
   "e644d85f6958c548": 1790121418,
   "e64a904fb6a4325d": 1790491831,
   "e64bc996b4be6033": 1789973468,
@@ -6404,7 +6420,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790546762,
- "last_msg_poll": 1790550261,
+ "last_msg_poll": 1790550566,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6446,7 +6462,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 08:04 KST",
+  "last_run": "2026-09-28 08:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
