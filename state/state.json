@@ -195,6 +195,16 @@
    "t": "데이터센터 전력 위기, 클라우드·AI 산업 비용 구조와 투자 리스크를 바꾼다 - 유스연합",
    "ts": 1790507216,
    "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnYnBOdnc4T01qS0tQbWtNbkdjek1uYWdwUjRSLVNSZ1NlRGM3aG5oR3o1YklYcl9KVmc3Z0hyY2JGbDdhVkZXYmZZa0JTZjE1ZFBn?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "유스연합",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 패권전쟁, 이제는 반도체가 아니다…전력·데이터센터·안전이 승부를 가른다 - 유스연합",
+   "ts": 1790508124,
+   "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yTVVpX2hXcl96MmlqcjFac0owSEJIaW54amhkbUNoMUxpdEc4YkR0eEEyMlBLZWU4ODA1ODItX1hxaWg0Z0NyLU1iVHR0emlhMnFJ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2188,6 +2198,7 @@
   "4f8fb1c688708227": 1789706718,
   "4f96be8e7ea5f1dd": 1789968847,
   "4f9939048261bc10": 1789959919,
+  "4fb8b4dc01f615b8": 1790508329,
   "4fb900dbd596744e": 1789627496,
   "4fbaeba3f2ced170": 1789895115,
   "4fd2f5cadef16a4a": 1790053518,
@@ -6331,7 +6342,7 @@
  "companies_today": {},
  "day": "2026-09-27",
  "last_clip": 1790504801,
- "last_msg_poll": 1790508267,
+ "last_msg_poll": 1790508578,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6373,7 +6384,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-27 20:24 KST",
+  "last_run": "2026-09-27 20:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
