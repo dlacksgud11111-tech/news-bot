@@ -200,6 +200,16 @@
    "t": "LG전자, 엔비디아 전력·냉각분야 파트너 등재…AI 데이터센터 냉각시장 공략 - MTN 머니투데이방송",
    "ts": 1790485858,
    "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WamhaYjhXR1N0eUE5MDVxeWVfNEFIaXNWMFhlelgtNHJIQlYxWm9GdGpGbHZXdVRoVmFzS1ZBUy1ud0RJNUdWQWFoWmpHVGUyV09FeHZNMHlJX3llWkJWTWlMWEo?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "마켓인",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "\"신규 전력망 기다릴 시간 없다\"…‘전력 병목’ 해결에 글로벌 자본 몰려 - 마켓인",
+   "ts": 1790478182,
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKSF9Vd1RhajVLOGhEUHQtQUhnWWxUcnZRSlB1V3dGRjVkbmRJV1Bkc01ZVHE0a0JENXluekF3QzlOR05lcDg4NlczaVVKZXNTak43YVJMczBVWEZnbDhPa0l0b09aRlhGOHp0Tkh4RTltZw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2790,6 +2800,7 @@
   "6b25da4cfaffc78b": 1789873818,
   "6b2cc0a049264504": 1789702817,
   "6b39f03affe623ca": 1790044106,
+  "6b5fb58c10e49135": 1790487375,
   "6b6039ba6d4ed578": 1789691718,
   "6b7f45dc08269a95": 1789815944,
   "6b8820b13578a474": 1789726134,
@@ -2873,6 +2884,7 @@
   "6e995821bff479b8": 1790135116,
   "6e9efb902436062c": 1790042395,
   "6ea6411b3a07ea77": 1789734932,
+  "6eb5f0a38778add2": 1790487375,
   "6ebcc7d5c856f37e": 1789957222,
   "6ed3c74a819121ed": 1790042975,
   "6eed9d0c68a25971": 1790057120,
@@ -6246,7 +6258,7 @@
  "companies_today": {},
  "day": "2026-09-27",
  "last_clip": 1790482756,
- "last_msg_poll": 1790487051,
+ "last_msg_poll": 1790487621,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6288,7 +6300,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-27 14:30 KST",
+  "last_run": "2026-09-27 14:40 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
