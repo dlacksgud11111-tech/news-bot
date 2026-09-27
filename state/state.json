@@ -205,6 +205,16 @@
    "t": "[ET단상] 액체냉각 AI 데이터센터 구축을 가로막는 5가지 장벽 - 전자신문",
    "ts": 1790492400,
    "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9US181NjB6ajV1aFhzbjZra2xseVVHdmtYS1dVbGk4TW1KRlpTLTlBVEt1elZQbEx2aXNWVkhMN0dLUVd2WE90MjhTTmpBdw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Chosunbiz",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "구글, AI 칩 실은 위성 발사 임박… 우주 데이터센터 실험 본격화 - 조선비즈 - Chosunbiz",
+   "ts": 1790498340,
+   "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOWJ0R2RCTUU5ZVVoNU9fTHdFbWpUV2J2TWt4VTVHUkpmNXowMFAzWU9XYWhZdlh0WC1yT29RRnBzWnhILVoyQldQWUIzTFBIeHgtaThrcXNrZU1uY25sdENjSGxtLWR5RGNLcWNsRy1PdFk5YkVYTFdheHRvVFhEbkpR0gGWAUFVX3lxTE1GUUtrTlBrU3d4R1ljbndxZFlzRkc1Y2xYUTJXUFdWUllJZ2NqZm9nTHNjRHdRcDVLRE5fcXYxUkI5RXVjMHhxa3RmU0UxYlJkNWdLNnN4LVBuYWdJa2xxZFhHZHV2TzRndy1tbHQzSVAtMDBoZTZQMVlhZ05hd3ZvdFBic3g1dlVWeHhkb1V3NkdZd1ZmZw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1873,6 +1883,7 @@
   "430b4b4f6535e3a0": 1790330117,
   "43135d042755b40f": 1790034282,
   "431fbc431c7a2c52": 1789959919,
+  "4324e76f2bc8ab95": 1790499015,
   "4326786bc50832c8": 1789977328,
   "4335dbc6a7c3d683": 1789692920,
   "43429e5e46bce350": 1789873818,
@@ -6331,7 +6342,7 @@
  "companies_today": {},
  "day": "2026-09-27",
  "last_clip": 1790497518,
- "last_msg_poll": 1790498978,
+ "last_msg_poll": 1790499264,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6373,7 +6384,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-27 17:49 KST",
+  "last_run": "2026-09-27 17:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
