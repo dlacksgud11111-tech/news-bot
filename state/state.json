@@ -235,6 +235,16 @@
    "t": "시작 단계부터 공존 모색…美데이터센터 ‘지역사회 혜택 협약’ - 한국일보",
    "ts": 1790550000,
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TblpxNVF4STd1R255Nktfanl5TEE1WWwxMTRyWmRkZnhqTmE0MTBkeGEtbjJySlpBOFI2WnJjTGJWVm1qN21RbDhVdU9qRUc4RUk5UWpDVzZsRGRLS0JFUzhqN2dNY29qQ25vREZB0gFzQVVfeXFMTURYNTNwZ0QwRXV6cUp0SjRITFM0OGxNd1haUFNMeFVoTC11WVVBcnd3Y1RQNUdaYmFOMkpyQk5yVnhoazk2ZUJMbkdDVHlqQTNaLXJock9RQjllbGdzY0Q3VFFXSkktQzNLV0tIR3VpWGZhYw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "한국보험신문",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "인도 데이터센터 시장, 전력·건설·사이버·용수 위험 집중 - 한국보험신문",
+   "ts": 1790521200,
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rbWQwcDIyY3NOQTVPXzBOLXRZcTB5Uk1JMC1FejFvVlluM3A2T3NWOG9EWUZoOC0xbzZldVZ2dXVXUHM0RjdHTWxVMG5VaUhManNMb2h2ZmNyZm9EMkYtTEpQNGl6bGR3Y0lV0gFvQVVfeXFMTkhzMFh5WlpHdlM1M2lESFR0Vjg4anVwbHlzM0pyMGl2NHpZWjNfd3Y2QVhWTEkwaGwwS2JCaUtXQ0diVERoV0RwaTdHS1hXMkZ3REM2MWN1NExuRTJaa0hiMTNubVp0MDlTQmRuczVz?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1099,6 +1109,7 @@
   "22e8549b0bf9656c": 1790008517,
   "22f6028e60e77f69": 1790042975,
   "22f6de25b804ecc2": 1790036576,
+  "230acfe9c0ae19fd": 1790551214,
   "231311ea7662a91b": 1790384441,
   "2324b62eea02a70b": 1789965922,
   "232b964f21f0b9ee": 1789641317,
@@ -2497,6 +2508,7 @@
   "5a2e4a1ce75660cc": 1789963516,
   "5a34ab11fb136d36": 1790146721,
   "5a420f5c2586e6f9": 1789895115,
+  "5a4d2c55d926768a": 1790551214,
   "5a500e4e5df7bf1c": 1789955477,
   "5a50c1935fa723b9": 1790056218,
   "5a5479a0691df1e2": 1789888052,
@@ -3621,6 +3633,7 @@
   "89da6c31ba3eb32e": 1789697424,
   "89e52c12d647f6a0": 1789695321,
   "89e7a3399178f20c": 1790141730,
+  "89e8dd1282e2ae62": 1790551214,
   "89e8f0298d866fd1": 1790008218,
   "89eebcbcfcd266e6": 1790255484,
   "8a0c2578dc01b23f": 1789977032,
@@ -4951,6 +4964,7 @@
   "c1e7567a98b245c7": 1789885788,
   "c1f453983919db92": 1789791917,
   "c1f7db158c66006b": 1789627496,
+  "c1ff86d935abf31a": 1790551214,
   "c202f3b817559067": 1789711937,
   "c215522639def1b6": 1790139915,
   "c2155f5aab48ac42": 1790067655,
@@ -6448,7 +6462,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790546762,
- "last_msg_poll": 1790551167,
+ "last_msg_poll": 1790551464,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6490,7 +6504,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 08:19 KST",
+  "last_run": "2026-09-28 08:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
