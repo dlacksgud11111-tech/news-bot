@@ -208,7 +208,7 @@
   },
   {
    "co": "LS일렉트릭",
-   "n": 2,
+   "n": 6,
    "s": "한스경제",
    "sc": 14,
    "sec": "데이터센터·AI전력",
@@ -245,6 +245,16 @@
    "t": "인도 데이터센터 시장, 전력·건설·사이버·용수 위험 집중 - 한국보험신문",
    "ts": 1790521200,
    "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rbWQwcDIyY3NOQTVPXzBOLXRZcTB5Uk1JMC1FejFvVlluM3A2T3NWOG9EWUZoOC0xbzZldVZ2dXVXUHM0RjdHTWxVMG5VaUhManNMb2h2ZmNyZm9EMkYtTEpQNGl6bGR3Y0lV0gFvQVVfeXFMTkhzMFh5WlpHdlM1M2lESFR0Vjg4anVwbHlzM0pyMGl2NHpZWjNfd3Y2QVhWTEkwaGwwS2JCaUtXQ0diVERoV0RwaTdHS1hXMkZ3REM2MWN1NExuRTJaa0hiMTNubVp0MDlTQmRuczVz?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "newsis.com",
+   "sc": 8,
+   "sec": "데이터센터·AI전력",
+   "t": "LS일렉트릭, 아시아 최대 데이터센터 전시회서 '풀 패키지' 솔루션 소개 - newsis.com",
+   "ts": 1790552435,
+   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VQUtGeWdOcTBkY29lVjhnS2V4dHNkOFNUdDhvdUxJOEdzTFFQbTRZbnJwRFQ3TE82cXNOUjFOOTlRa0V2WXZXQW5wa2wta0ZQMmlDbkdlNllFQXdDdG9ZWg?oc=5"
   }
  ],
  "clip_titles": [],
@@ -393,6 +403,7 @@
   "068b4accbf2a31dd": 1789691718,
   "068d195675f8f7f0": 1790073620,
   "068db865ddabf8a7": 1789872360,
+  "069a32e9c1f7b9ed": 1790553024,
   "06a977a6937891f3": 1789976119,
   "06b30bed4c1b1d02": 1789648519,
   "06ba7fedc5817537": 1789783839,
@@ -939,6 +950,7 @@
   "1c49de959097a37e": 1789886931,
   "1c4ce2cc02a26ac9": 1790057120,
   "1c536ce1bfdc3fde": 1789688119,
+  "1c5ac6154e6be5f5": 1790553024,
   "1c6170e020a711c1": 1790111621,
   "1c68101694e74c9d": 1789710788,
   "1c68f85fc8ecce65": 1789627496,
@@ -2356,6 +2368,7 @@
   "53670ecf5421a027": 1789977915,
   "5370051189295e25": 1789873818,
   "53713c90a3a0aaa2": 1790042395,
+  "537a2a3519924e0f": 1790553024,
   "5380ee503186658e": 1789695321,
   "5384205fc2369369": 1789984531,
   "5387a88c79b04928": 1789726695,
@@ -3892,6 +3905,7 @@
   "95220804f826ad2c": 1789981516,
   "952de807bc014c54": 1789716319,
   "9540be86bb85ad58": 1790031917,
+  "9540f0781df092d9": 1790553024,
   "95473a75ba4d0cb5": 1789634116,
   "955ece5a3d8530ef": 1790139915,
   "9561c90e7a909a65": 1790148975,
@@ -4023,6 +4037,7 @@
   "9b739d4378dabd36": 1790473215,
   "9b859ba8bac12d41": 1790044716,
   "9b86c531d8aaea49": 1790060726,
+  "9b9070ed263752c1": 1790553024,
   "9b9294a7d7081dff": 1790042395,
   "9b9f0d40bc6a4fc7": 1789693531,
   "9ba5404869cef673": 1790125822,
@@ -6474,7 +6489,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790546762,
- "last_msg_poll": 1790552703,
+ "last_msg_poll": 1790553269,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6516,7 +6531,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 08:45 KST",
+  "last_run": "2026-09-28 08:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
