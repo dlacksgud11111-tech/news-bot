@@ -170,58 +170,7 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "신아일보",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, 엔비디아와 맞손…AI 데이터센터 냉각 공략 - 신아일보",
-   "ts": 1790491359,
-   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VbHZNVWdLdXRpQlNLRUZIc1dZdWJoS09IckJ0QUZMcXBtU1pWQjhUWm53eTQ2aHE3US1XVWh4VVZVSjBuQWtsSWVSWVdDZHkyVFVTUWRfbkd6cTJfRjBid0gyUjNXZEhEOVVnYTgtSlQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 10,
-   "sec": "원전",
-   "t": "[ESG 칼럼] 원전 감발의 보이지 않는 청구서",
-   "ts": 1790492400,
-   "u": "https://www.etnews.com/20260927000047"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "[ET단상] 액체냉각 AI 데이터센터 구축을 가로막는 5가지 장벽",
-   "ts": 1790492400,
-   "u": "https://www.etnews.com/20260927000043"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "뉴스밸류",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "[심층분석] LG전자, 엔비디아 공식 파트너 선정…AI 데이터센터 냉각 시장 공략 본격화 - 뉴스밸류",
-   "ts": 1790484092,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tRHdqU3ZJdjhJdk40bHVSNXdZUjhUNzdRSUE1TUlWR1VWLW9UTFhNX3VYVFBWa2VSM09Ya1dOTkRVVjJ0WUhsRGh3dWdKcDBVSE5YSmlIbkh6VDlCdlhVRzI0eXhDVmpqLVE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일경제 : 경제",
-   "sc": 3,
-   "sec": "건설·플랜트",
-   "t": "기후부, 타지키스탄에 대규모 태양광발전 건설",
-   "ts": 1790495402,
-   "u": "https://www.mk.co.kr/news/economy/12162008"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -6325,8 +6274,8 @@
  },
  "companies_today": {},
  "day": "2026-09-27",
- "last_clip": 1790490028,
- "last_msg_poll": 1790497470,
+ "last_clip": 1790497518,
+ "last_msg_poll": 1790497760,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6368,7 +6317,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-27 17:24 KST",
+  "last_run": "2026-09-27 17:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
