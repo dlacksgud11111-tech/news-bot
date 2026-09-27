@@ -185,6 +185,16 @@
    "t": "한전기술 참여 인니 발전소 2곳, 현지서 ‘올해의 발전소’ 등극",
    "ts": 1790553600,
    "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228561"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "이즈보험",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "인도 데이터센터 급성장, 전력·건설·사이버·용수 위험 한꺼번에 커진다 - 이즈보험",
+   "ts": 1790525000,
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByNTdoNTlBT252b3k3bjZrU2xUdnREWEpCUV9mdF9Qa0xVdjh5NmVLTVpGX3Zidl9kRElGRWpiNktqUXdrLUI4ZnQ4ZGdWbW1wSFN6TndvdjdmUUNKWTk3dk56V3NzUUpEb3c?oc=5"
   }
  ],
  "clip_titles": [],
@@ -6161,6 +6171,7 @@
   "f853f22d8def34bf": 1790159130,
   "f85964846fb9b220": 1790425392,
   "f86a9871a3712810": 1790058917,
+  "f877f09f28c37f08": 1790525413,
   "f87e6daab56b1a1d": 1790028666,
   "f882d0f2fb36f200": 1790125530,
   "f8881f950824efb0": 1790060726,
@@ -6342,7 +6353,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790519718,
- "last_msg_poll": 1790525365,
+ "last_msg_poll": 1790525660,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6384,7 +6395,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 01:09 KST",
+  "last_run": "2026-09-28 01:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
