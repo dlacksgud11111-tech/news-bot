@@ -170,7 +170,18 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 0,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "전자신문",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "전북도, 현대차 투자 연계 '피지컬AI·청정수소·AI데이터센터' 3대 축 육성 - 전자신문",
+   "ts": 1790467776,
+   "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nLWMzU2tackplZHRMX1k3NGZpT1g0cHBWbkhnX25fQUd3b01yb0plbW43ZmE3SFU5VUVhZy1MZy1JNDZrMXdNOGkxV3dWZw?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -1344,6 +1355,7 @@
   "314cc5268361c624": 1789698990,
   "314cd8989c151157": 1790030116,
   "31529b383eebe10c": 1789957530,
+  "3157fd6f1b42a378": 1790468917,
   "315911a1ef310c0f": 1790210120,
   "3161652c5f0ce14d": 1789959919,
   "3166608b349a0f22": 1789627496,
@@ -1470,6 +1482,7 @@
   "362b186cd392325f": 1790003117,
   "362c9920decbc5d8": 1789627496,
   "362d8c3ad6728699": 1790064758,
+  "363320f74dd662eb": 1790468917,
   "3635d9c52e835e27": 1790008517,
   "363c19de78193cf4": 1789896615,
   "3643544ab3b5af90": 1789635918,
@@ -6099,7 +6112,7 @@
  "companies_today": {},
  "day": "2026-09-27",
  "last_clip": 1790467770,
- "last_msg_poll": 1790468606,
+ "last_msg_poll": 1790469166,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6141,7 +6154,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-27 09:23 KST",
+  "last_run": "2026-09-27 09:32 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
