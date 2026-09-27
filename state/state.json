@@ -195,6 +195,16 @@
    "t": "인도 데이터센터 급성장, 전력·건설·사이버·용수 위험 한꺼번에 커진다 - 이즈보험",
    "ts": 1790525000,
    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByNTdoNTlBT252b3k3bjZrU2xUdnREWEpCUV9mdF9Qa0xVdjh5NmVLTVpGX3Zidl9kRElGRWpiNktqUXdrLUI4ZnQ4ZGdWbW1wSFN6TndvdjdmUUNKWTk3dk56V3NzUUpEb3c?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "supple.kr",
+   "sc": 4,
+   "sec": "유틸리티·정책",
+   "t": "에너지전환 시대의 전기요금[투데이窓/임진] - supple.kr",
+   "ts": 1790528400,
+   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KLVUwa2c1QXFsRmlyODAyT2tjbkdHSTFwRlhvYkJDMnlXTnhRcW9qR09TcmFsTmVqMHlrLVUwM1NPZDNVTld5eHF2YkVoZ01XYUZzZUJhbDg0dzdZ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1579,6 +1589,7 @@
   "376f8076d2883560": 1789956616,
   "3776f13ec3dc28dd": 1789708498,
   "377a1a6c4ceafd87": 1789955477,
+  "37b17bde12a900e5": 1790529034,
   "37b23273b2008d4b": 1790040051,
   "37b4c100ebcf252a": 1789794287,
   "37b76453dd7c5d1f": 1789859418,
@@ -6353,7 +6364,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790519718,
- "last_msg_poll": 1790528980,
+ "last_msg_poll": 1790529282,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6395,7 +6406,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 02:09 KST",
+  "last_run": "2026-09-28 02:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
