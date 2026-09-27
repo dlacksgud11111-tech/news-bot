@@ -215,6 +215,16 @@
    "t": "구글, AI 칩 실은 위성 발사 임박… 우주 데이터센터 실험 본격화 - 조선비즈 - Chosunbiz",
    "ts": 1790498340,
    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOWJ0R2RCTUU5ZVVoNU9fTHdFbWpUV2J2TWt4VTVHUkpmNXowMFAzWU9XYWhZdlh0WC1yT29RRnBzWnhILVoyQldQWUIzTFBIeHgtaThrcXNrZU1uY25sdENjSGxtLWR5RGNLcWNsRy1PdFk5YkVYTFdheHRvVFhEbkpR0gGWAUFVX3lxTE1GUUtrTlBrU3d4R1ljbndxZFlzRkc1Y2xYUTJXUFdWUllJZ2NqZm9nTHNjRHdRcDVLRE5fcXYxUkI5RXVjMHhxa3RmU0UxYlJkNWdLNnN4LVBuYWdJa2xxZFhHZHV2TzRndy1tbHQzSVAtMDBoZTZQMVlhZ05hd3ZvdFBic3g1dlVWeHhkb1V3NkdZd1ZmZw?oc=5"
+  },
+  {
+   "co": "한국전력",
+   "n": 1,
+   "s": "이투뉴스 - 전체기사",
+   "sc": 5,
+   "sec": "유틸리티·정책",
+   "t": "남동발전 사장에 이현빈 前 한전 경영지원부사장 내정",
+   "ts": 1790535834,
+   "u": "http://www.e2news.com/news/articleView.html?idxno=334592"
   }
  ],
  "clip_titles": [],
@@ -242,6 +252,7 @@
   "00ddec731e02b468": 1789631127,
   "00df172dffaa1fdc": 1789629088,
   "00e361f182886fa7": 1790354382,
+  "00ea4ad4438528ba": 1790503653,
   "00ec1749e038820e": 1790040917,
   "00f9e988a064c0ac": 1789770019,
   "00fe052553b5105e": 1790128524,
@@ -293,6 +304,7 @@
   "02cd1df8c07e3b6c": 1790136320,
   "02f65c64f70981ea": 1789959919,
   "02fa75d6c7747074": 1789686930,
+  "0303c85959b3c2d1": 1790503653,
   "030534865f3acd04": 1789627496,
   "03056a5fee11d598": 1789983017,
   "0306895401018d05": 1790063611,
@@ -2177,6 +2189,7 @@
   "4e7af4c25ceebfa5": 1790001429,
   "4e7ce12a7af7a0f7": 1789951430,
   "4ea6140a7d831fae": 1789949716,
+  "4ead437c916fcff8": 1790503653,
   "4eae94f6a9354eff": 1789967119,
   "4eb9a5c95edb2684": 1789958121,
   "4ebb978c856026e0": 1789975519,
@@ -6342,7 +6355,7 @@
  "companies_today": {},
  "day": "2026-09-27",
  "last_clip": 1790497518,
- "last_msg_poll": 1790503332,
+ "last_msg_poll": 1790503894,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6384,7 +6397,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-27 19:02 KST",
+  "last_run": "2026-09-27 19:11 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
