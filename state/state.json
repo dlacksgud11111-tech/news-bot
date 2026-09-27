@@ -170,58 +170,7 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 2,
-   "s": "전자신문",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "전북도, 현대차 투자 연계 '피지컬AI·청정수소·AI데이터센터' 3대 축 육성 - 전자신문",
-   "ts": 1790467776,
-   "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nLWMzU2tackplZHRMX1k3NGZpT1g0cHBWbkhnX25fQUd3b01yb0plbW43ZmE3SFU5VUVhZy1MZy1JNDZrMXdNOGkxV3dWZw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "Chosunbiz",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, 엔비디아 AI 데이터센터 냉각 공식 파트너 선정 - Chosunbiz",
-   "ts": 1790470989,
-   "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdW5GemFYaUFLc0t2Y1NwaWFBSnU2NDBXMkw2TEE2Q0ptejQwdU9jRFFJbEY2VGpiZ0tWS19WZUhCaWp4NkFLNzM4bE9wX1dHZk5BZ0Q4N1NvR3gxTjZVd1lxcVA3R0Z6TzZlSFlndFdKQTJ1YmRlRFRzbjJ5MHlfZHV3?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 10,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, 엔비디아 '냉각 파트너' 됐다…MW급 AI 데이터센터 수주전 탄력",
-   "ts": 1790470800,
-   "u": "https://www.etnews.com/20260927000014"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "메가충청뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "충남환경운동연합 “무분별한 AI데이터센터 유치 중단해야” - 메가충청뉴스",
-   "ts": 1790473199,
-   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBaEoxRGxHbFJHdl9RYkUyc0cwUWpYcjM3TUVjZ21IOVh3ellvRVVpLVhCbmxmMG9vb2R6NVVaczNXQ2RYTTd5VHM1WTM1aUhSQVdiTmVMaWV3eTJoY2RLUFNYN0tCM2xPX05R?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "해수부, 항만·어항 등 해양수산 건설공사 현장 점검",
-   "ts": 1790474404,
-   "u": "https://www.yna.co.kr/view/AKR20260923142500051"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -5925,6 +5874,7 @@
   "f48aee4e765b6699": 1789627496,
   "f48dd74b68e21614": 1790244620,
   "f4989e6d3315c3df": 1789981516,
+  "f49c46c148337cc4": 1790475017,
   "f4a26e99bcf55940": 1790299764,
   "f4a4a05b4ad6e44e": 1790040620,
   "f4b1ae877ec0d7fe": 1790056218,
@@ -6195,8 +6145,8 @@
  },
  "companies_today": {},
  "day": "2026-09-27",
- "last_clip": 1790467770,
- "last_msg_poll": 1790474955,
+ "last_clip": 1790475017,
+ "last_msg_poll": 1790475267,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6238,7 +6188,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-27 11:09 KST",
+  "last_run": "2026-09-27 11:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
