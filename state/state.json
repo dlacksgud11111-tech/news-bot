@@ -245,6 +245,16 @@
    "t": "[모듈러 데이터센터 시대] (2) 건물에 서버·전력·냉각 설비 통합제작…공기단축·리스크 최소화 - 대한경제",
    "ts": 1790527191,
    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOTdqRDB6R3RXelZ3ekkyazhJNmFjdjdBcXIxTEY3QmVxSF8wMDh3aVBIUVZfZ3RYTkM1bWJFRHp4bFdEUU1pSEI5eloxbFUzM251NDE2d3VnRjVtSUs5OG96YkhUV0x6LW40cVBMYVBwMWQ1MmRLYnNZOFUzbnJUV3JlYWlNUQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "에너지안전신문",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "“AI 데이터센터는 안전한가? …보안은 원전처럼 지켜야 한다 - 에너지안전신문",
+   "ts": 1790543339,
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Hc3dzMmo1Ui1MYkVtQmRIcDRQdDhzQ2E3UGJuNUszMWdJTzh5cU5mdVZIVlp0d3RnSDdVaHAyOTFadkVQWHhTd3lQSmNmNF9BSlpuU0tEeWRkM0Z2aUNNaVZUYms?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1530,6 +1540,7 @@
   "3349d9314f58dd38": 1789873818,
   "33529e23370d1338": 1790045289,
   "3362d7fe92787e72": 1790321210,
+  "3368382ba7974857": 1790544329,
   "33697ab6fd89feee": 1790085997,
   "336f341577a75149": 1790140828,
   "338c63838e210faf": 1790141423,
@@ -6432,7 +6443,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790519718,
- "last_msg_poll": 1790544264,
+ "last_msg_poll": 1790544579,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6474,7 +6485,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 06:24 KST",
+  "last_run": "2026-09-28 06:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
