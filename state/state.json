@@ -205,6 +205,26 @@
    "t": "미 10년물 5.17%…AI 데이터센터 차입 부담 커져 - 토큰포스트",
    "ts": 1790508131,
    "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BTWVMSThYc2tqSkd3VzBvRGtZbnBSQ2ZLRmJtUFZ0Y2s4X3k2ZUVGYUYxU205M1RyTDJyVDZ5OVdVVWlSRXcxUEtGRTNLT1Z4?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴스N연합",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "데이터센터 전력 위기, 클라우드·AI 산업 비용 구조와 투자 리스크를 바꾼다 - 뉴스N연합",
+   "ts": 1790518500,
+   "u": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RaWtWZXJuWUpSWUVxM19xY2x3OWxhNTg2SjhJNS12ZnlzZE93VWFBSlIwWm5XUzBqWlF0ZUdneGlnUkpIUDJJVkpn?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴스N연합",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 패권전쟁, 이제는 반도체가 아니다…전력·데이터센터·안전이 승부를 가른다 - 뉴스N연합",
+   "ts": 1790518500,
+   "u": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE90TTZZVzByV0tSRG1qSFM1bzJSdFBYUXdraTFwdXJMYUJ6QUNwRDZQaVhBcVZ2TlJ5UTllbWF2bmk2RTJYTTA5S0ln?oc=5"
   }
  ],
  "clip_titles": [],
@@ -459,6 +479,7 @@
   "0aec1983a7dcee06": 1789715428,
   "0afa2a625ca2f47f": 1790163629,
   "0b0f2bb392a6c38e": 1789948225,
+  "0b134cdb3e517d99": 1790519116,
   "0b13fafe703f5211": 1790220321,
   "0b1452b2c059ec6a": 1789627496,
   "0b31c912a2c39e87": 1789648519,
@@ -1478,6 +1499,7 @@
   "33353401eba6c932": 1790060416,
   "333c48ab1fc09217": 1790057417,
   "333dea560c916932": 1789715119,
+  "33453d3d6e356c1e": 1790519116,
   "334564087764f215": 1789695321,
   "33491f6fee499971": 1789857952,
   "3349d9314f58dd38": 1789873818,
@@ -6357,7 +6379,7 @@
  "companies_today": {},
  "day": "2026-09-27",
  "last_clip": 1790512234,
- "last_msg_poll": 1790519068,
+ "last_msg_poll": 1790519366,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6399,7 +6421,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-27 23:24 KST",
+  "last_run": "2026-09-27 23:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
