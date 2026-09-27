@@ -195,6 +195,16 @@
    "t": "MARA, 텍사스 데이터센터 보증금 1억달러…인수가는 최대 6억달러 - 토큰포스트",
    "ts": 1790515345,
    "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5WGZKY25QdkRLVDA1bExwZXVPY3dJNVRVX25wSGJKbkFpSko2Z0hTSEc4bGp2MEIxcklVVnVXMTJvc2JVQmVxdVlfdEZKWi1BcUVsLU5ISVg?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "토큰포스트",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "미 10년물 5.17%…AI 데이터센터 차입 부담 커져 - 토큰포스트",
+   "ts": 1790508131,
+   "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BTWVMSThYc2tqSkd3VzBvRGtZbnBSQ2ZLRmJtUFZ0Y2s4X3k2ZUVGYUYxU205M1RyTDJyVDZ5OVdVVWlSRXcxUEtGRTNLT1Z4?oc=5"
   }
  ],
  "clip_titles": [],
@@ -899,6 +909,7 @@
   "1d376bd1b372e671": 1790037737,
   "1d37c98bc35cf561": 1789979721,
   "1d3873fb75376759": 1789970613,
+  "1d3e3cc79d7188e1": 1790516157,
   "1d40ef32f2e496b6": 1789693531,
   "1d427dffffa3a001": 1789971183,
   "1d54753b6862c19e": 1789695321,
@@ -4142,6 +4153,7 @@
   "a4923cfb34ba6b7f": 1790070922,
   "a49c9c73492b120b": 1790228121,
   "a4a1bfa6327beb7a": 1789724119,
+  "a4a3fcc1dfdda87f": 1790516157,
   "a4a492308a6ee15f": 1790262018,
   "a4ac8fbfd96388f2": 1789629088,
   "a4b7bc872c0b37c1": 1789971183,
@@ -6343,7 +6355,7 @@
  "companies_today": {},
  "day": "2026-09-27",
  "last_clip": 1790512234,
- "last_msg_poll": 1790516065,
+ "last_msg_poll": 1790516397,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6385,7 +6397,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-27 22:34 KST",
+  "last_run": "2026-09-27 22:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
