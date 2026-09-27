@@ -195,6 +195,16 @@
    "t": "[기후환경 리포트] AI 데이터센터발 전기 충격‥RE100 \"한국에 두 가지 당부\" - v.daum.net",
    "ts": 1790548815,
    "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WcUxDZjM0aDE4YTNiUWF1ampHc2kxOXpqUTZ0TmFCY1ktRjUzMlFTaDdDeE5OOWNCbGt5bFg2cTRGcnV0ZFZiSDFpMWQyRnM?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "인포스탁데일리",
+   "sc": 4,
+   "sec": "데이터센터·AI전력",
+   "t": "LS ELECTRIC, 데이터센터 패키지 솔루션으로 아세안 시장 정조준 - 인포스탁데일리",
+   "ts": 1790549539,
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qaVhRT2RxelBURExTcVdJaWtGZlQtb2hhbkNmbWJSTFp6Vk9hS09CYlhkRmtQS1V6dUZJNmdQa1lRb3MtQzdEQkdqTWhlTEhhVnF5OXl6Ri0wR0RuTldtVGhzZmM3dF9tdFk0Y2ZJb3RxemVW?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1291,6 +1301,7 @@
   "2c86f05c7d0d614e": 1790257223,
   "2c87a1de6aa1eb5c": 1789638316,
   "2c8a04fc4d5f9820": 1790042975,
+  "2c8b56327ba1eb3c": 1790549719,
   "2c8f55f8f0d5acfd": 1790480362,
   "2c9ce9e991c5c8f2": 1790039473,
   "2c9e078441ebfe59": 1789877422,
@@ -6393,7 +6404,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790546762,
- "last_msg_poll": 1790549655,
+ "last_msg_poll": 1790549959,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6435,7 +6446,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 07:54 KST",
+  "last_run": "2026-09-28 07:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
