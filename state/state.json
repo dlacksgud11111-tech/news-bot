@@ -3973,6 +3973,7 @@
   "9c44debf3bd29370": 1789629088,
   "9c5abbecb1522ec5": 1789627496,
   "9c75118114a6b972": 1790126118,
+  "9c864b21eecf5aff": 1790542228,
   "9c8b4a88b3b880a1": 1790064758,
   "9c9f8f48534eaf3b": 1790348724,
   "9ca85470f031ff2a": 1789972883,
@@ -6378,7 +6379,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790519718,
- "last_msg_poll": 1790542160,
+ "last_msg_poll": 1790542479,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6420,7 +6421,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 05:49 KST",
+  "last_run": "2026-09-28 05:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
