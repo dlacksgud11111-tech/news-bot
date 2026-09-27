@@ -180,6 +180,16 @@
    "t": "원자력연, '폐이온교환수지' 안전하게 굳히는 길 열어...기업에 기술이전",
    "ts": 1790482104,
    "u": "https://www.etnews.com/20260927000095"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "매일경제 마켓",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "대미투자 1호 가스발전 추진에 ESS 기대감…K-배터리 신시장 - 매일경제 마켓",
+   "ts": 1790484493,
+   "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VaDk2WE0tZUxXLUFPejZCalR3RnNTR1B0TlZ2SjFhcE5hbndLa25pS1VQNzJ4ZFdXdjVDMXlYZmYtWFoyUDdnVmhWRHd3T2dsc1E?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1988,6 +1998,7 @@
   "4890c038a1fe8c21": 1789954905,
   "489d973405bb1fde": 1789873818,
   "48ad3a2b4f947157": 1790042975,
+  "48ba591e89cc8c40": 1790485086,
   "48d84ba71ead4c75": 1789652129,
   "48dc0388457c9fd9": 1789976119,
   "48e11ba29054ffa4": 1790295093,
@@ -6217,7 +6228,7 @@
  "companies_today": {},
  "day": "2026-09-27",
  "last_clip": 1790482756,
- "last_msg_poll": 1790484766,
+ "last_msg_poll": 1790485327,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6259,7 +6270,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-27 13:52 KST",
+  "last_run": "2026-09-27 14:02 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
