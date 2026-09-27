@@ -190,6 +190,16 @@
    "t": "대미투자 1호 가스발전 추진에 ESS 기대감…K-배터리 신시장 - 매일경제 마켓",
    "ts": 1790484493,
    "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VaDk2WE0tZUxXLUFPejZCalR3RnNTR1B0TlZ2SjFhcE5hbndLa25pS1VQNzJ4ZFdXdjVDMXlYZmYtWFoyUDdnVmhWRHd3T2dsc1E?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "MTN 머니투데이방송",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, 엔비디아 전력·냉각분야 파트너 등재…AI 데이터센터 냉각시장 공략 - MTN 머니투데이방송",
+   "ts": 1790485858,
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WamhaYjhXR1N0eUE5MDVxeWVfNEFIaXNWMFhlelgtNHJIQlYxWm9GdGpGbHZXdVRoVmFzS1ZBUy1ud0RJNUdWQWFoWmpHVGUyV09FeHZNMHlJX3llWkJWTWlMWEo?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1345,6 +1355,7 @@
   "2f4b2e8afc3b0092": 1789967119,
   "2f5dc1d724c4cb6d": 1790478323,
   "2f672ba4b67d391d": 1790003117,
+  "2f6b5322af3154f3": 1790486208,
   "2f75bb1a8e6d167b": 1789880723,
   "2f778682ae977afc": 1790469496,
   "2f7dd365de68ee74": 1789733129,
@@ -6235,7 +6246,7 @@
  "companies_today": {},
  "day": "2026-09-27",
  "last_clip": 1790482756,
- "last_msg_poll": 1790485893,
+ "last_msg_poll": 1790486452,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6277,7 +6288,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-27 14:11 KST",
+  "last_run": "2026-09-27 14:20 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
