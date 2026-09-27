@@ -170,98 +170,7 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 2,
-   "s": "파이낸셜포스트",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, 엔비디아 공식 파트너로…AI 데이터센터 냉각시장 공략 - 파이낸셜포스트",
-   "ts": 1790476219,
-   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05RnZVSlF6YVR1aEFvcmNzOWpBMFIwZ0VROXNkUWstV1JHcElfQTcyMzhjR3BLSmk2U1IwNmtWaUh1aHM2Tnk3TW1GR0wzcExDR1AyQ19fZFlQeU5rbFRFMURLWGRIcjRWUkFnVDR0c1VzdmlR?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 9,
-   "sec": "전력기기",
-   "t": "\"전력망 유연성 높이는 에너지저장장치 특허 한국이 주도\"",
-   "ts": 1790478007,
-   "u": "https://www.yna.co.kr/view/AKR20260923088200063"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 5,
-   "sec": "재생에너지·ESS",
-   "t": "韓, 타지키스탄에 169억 규모 'K-태양광' 심었다…중앙亞 교두보",
-   "ts": 1790478000,
-   "u": "https://www.etnews.com/20260927000044"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 10,
-   "sec": "전력기기",
-   "t": "지식재산처, K-배터리 전력망용 ESS 특허 '세계 제패'… 글로벌 기술 패권 쥐었다",
-   "ts": 1790478000,
-   "u": "https://www.etnews.com/20260923000058"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 7,
-   "sec": "유틸리티·정책",
-   "t": "한전기술, '엔릿 아시아 2026'에서 '올해의 발전소'부문 본상 수상",
-   "ts": 1790477145,
-   "u": "https://www.etnews.com/20260927000078"
-  },
-  {
-   "co": "",
-   "n": 3,
-   "s": "유스연합",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "AI와 전기차가 중국의 전력 지도를 바꾼다…데이터센터 전력사용 37.9% 증가 - 유스연합",
-   "ts": 1790478629,
-   "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Qcm9hZjRLdmN0bXdCeTZTTy1yaFBmdjJCU2Nham9ZSERiUVJtOFhsb2xfM1Z1OHlxZFg4clRneEgxZEM3UWhGS1Y3OF9GM0xncjdJ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "파이낸셜뉴스",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "\"데이터센터 이어 전력까지…\" ESR, 1.6GW 아퀼라 품는다 [fn마켓워치] - 파이낸셜뉴스",
-   "ts": 1790478879,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vUXgyRG9DeFZ5by01WGVtVl9QSU5BWnRFeWttTFJxVHdyWEJMSjlRUnJZUTRId1hTMmdWekU3Tk42MVFVclVJaExqNm11a2JIZWJ4XzVDbWk1UQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴스저널리즘",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, 엔비디아 '전력·냉각' 파트너 등재…AI 데이터센터 사업 확대 - 뉴스저널리즘",
-   "ts": 1790480729,
-   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Jdlg1RXJmdU54aE50TTdkYTRLbnFMbmVvRHlKWnIwdV9tQ2JtdGpXMS1KejVCdHhWaVpuQjB0VXEwZ3QwM0djanQ1Sy1zVDdvTmF5WHVwVnBhbzdRWjBuZDB4Yjk3UzhIck9n?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DongA Science",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "'제미나이'에 한 질문, 우주서 처리…구글, 우주데이터센터 첫 테스트 - DongA Science",
-   "ts": 1790479800,
-   "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BV0R3TTBUSFcyVUdxSUxHU0FyNm04YVdGbmV2bUxfSEVHU3dwWlVLcDAwckZHSWhYZERhd0FHczk4Y0wyNXl4cmV3V3IzV3F5b0pNcg?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -2624,6 +2533,7 @@
   "61e18f5c908c14b5": 1790295654,
   "61e8205d627a47a7": 1789974627,
   "6200e38cc5023724": 1789729598,
+  "62060904489e1a22": 1790482756,
   "6218160b4e350e6b": 1789988389,
   "62243665bb182604": 1789851315,
   "6228cdab8bba5377": 1790058917,
@@ -5165,6 +5075,7 @@
   "d01d780b4376bfbe": 1789968847,
   "d0237a0c0e912e8a": 1790058917,
   "d04fee64bcc04ab0": 1790064758,
+  "d0538ad668d23766": 1790482756,
   "d0613f37161425ac": 1789627496,
   "d06fc62b623ec780": 1790129427,
   "d070f05189983201": 1790389741,
@@ -5344,6 +5255,7 @@
   "d7540dbbecbf83a7": 1790031917,
   "d782a8af8f826683": 1789697120,
   "d799ada0bb2705ba": 1789967119,
+  "d7a0ffcf94350801": 1790482756,
   "d7a48d23a75b1f4f": 1789730727,
   "d7aa1008e177e9ed": 1790044716,
   "d7b411bead2d5c5c": 1789951988,
@@ -6289,8 +6201,8 @@
  },
  "companies_today": {},
  "day": "2026-09-27",
- "last_clip": 1790475017,
- "last_msg_poll": 1790482339,
+ "last_clip": 1790482756,
+ "last_msg_poll": 1790483005,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6332,7 +6244,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-27 13:12 KST",
+  "last_run": "2026-09-27 13:23 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
