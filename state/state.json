@@ -170,58 +170,7 @@
   "d09dd25c4f4edf8d": 1790174132
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 2,
-   "sec": "원전",
-   "t": "원자력연, '폐이온교환수지' 안전하게 굳히는 길 열어...기업에 기술이전",
-   "ts": 1790482104,
-   "u": "https://www.etnews.com/20260927000095"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일경제 마켓",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "대미투자 1호 가스발전 추진에 ESS 기대감…K-배터리 신시장 - 매일경제 마켓",
-   "ts": 1790484493,
-   "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VaDk2WE0tZUxXLUFPejZCalR3RnNTR1B0TlZ2SjFhcE5hbndLa25pS1VQNzJ4ZFdXdjVDMXlYZmYtWFoyUDdnVmhWRHd3T2dsc1E?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "MTN 머니투데이방송",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, 엔비디아 전력·냉각분야 파트너 등재…AI 데이터센터 냉각시장 공략 - MTN 머니투데이방송",
-   "ts": 1790485858,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WamhaYjhXR1N0eUE5MDVxeWVfNEFIaXNWMFhlelgtNHJIQlYxWm9GdGpGbHZXdVRoVmFzS1ZBUy1ud0RJNUdWQWFoWmpHVGUyV09FeHZNMHlJX3llWkJWTWlMWEo?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "마켓인",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "\"신규 전력망 기다릴 시간 없다\"…‘전력 병목’ 해결에 글로벌 자본 몰려 - 마켓인",
-   "ts": 1790478182,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKSF9Vd1RhajVLOGhEUHQtQUhnWWxUcnZRSlB1V3dGRjVkbmRJV1Bkc01ZVHE0a0JENXluekF3QzlOR05lcDg4NlczaVVKZXNTak43YVJMczBVWEZnbDhPa0l0b09aRlhGOHp0Tkh4RTltZw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "아이뉴스24",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, 엔비디아 AI 데이터센터 냉각 공식 파트너 선정 - 아이뉴스24",
-   "ts": 1790485415,
-   "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iZjRQYW1jUjJJV1VLdkFKUmJ1RWlBUWVRUTBCZ2IyMHhpQnVLNFpmSklQVU16VjJtOW0za1RfQVJ2VnNiVmh5dUU3RQ?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -6276,8 +6225,8 @@
  },
  "companies_today": {},
  "day": "2026-09-27",
- "last_clip": 1790482756,
- "last_msg_poll": 1790489978,
+ "last_clip": 1790490028,
+ "last_msg_poll": 1790490277,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6319,7 +6268,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-27 15:19 KST",
+  "last_run": "2026-09-27 15:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
