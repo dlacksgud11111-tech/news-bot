@@ -193,7 +193,7 @@
   },
   {
    "co": "LS일렉트릭",
-   "n": 6,
+   "n": 7,
    "s": "Korea IT Times",
    "sc": 14,
    "sec": "데이터센터·AI전력",
@@ -233,7 +233,7 @@
   },
   {
    "co": "",
-   "n": 7,
+   "n": 8,
    "s": "뉴스락",
    "sc": 6,
    "sec": "데이터센터·AI전력",
@@ -333,7 +333,7 @@
   },
   {
    "co": "LS일렉트릭",
-   "n": 2,
+   "n": 3,
    "s": "datanews.co.kr",
    "sc": 8,
    "sec": "데이터센터·AI전력",
@@ -413,7 +413,7 @@
   },
   {
    "co": "",
-   "n": 1,
+   "n": 2,
    "s": "정보통신신문",
    "sc": 6,
    "sec": "데이터센터·AI전력",
@@ -493,7 +493,7 @@
   },
   {
    "co": "LS일렉트릭",
-   "n": 1,
+   "n": 2,
    "s": "paxetv.com",
    "sc": 10,
    "sec": "데이터센터·AI전력",
@@ -553,7 +553,7 @@
   },
   {
    "co": "LS일렉트릭",
-   "n": 1,
+   "n": 2,
    "s": "테크월드",
    "sc": 8,
    "sec": "데이터센터·AI전력",
@@ -600,6 +600,16 @@
    "t": "AI 데이터센터·전력 설비에 1조원…한투PE, 인프라 투자 확대 - SR타임스",
    "ts": 1790559216,
    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zVDdKOGxOQ2pUYkVad29SU3FSTVU4SHR0WEtaYnB5d1JqdVlhLTBHaTUwbWpPOHhLc1N5d2I3RHZWZ3pXOGlCeVJXU1lTRmIwRVB3U0tIYjR6R2JDZndkdUhLeXQ0ZUZT0gFrQVVfeXFMTTFnNkdPSUpxZ0dMU2l1ZkRGVUdkMEx1UG1MR2prNzJ4VFZhVUJQTG9tWmdZNkdlRWtJX2g4LUpqWmwxRDFfdjQyc3o0N0tvd1RBU3ZtLWljV0ZDOUlGdFBLQnBWM01rTFNuTmM?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "fetv.co.kr",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "현대엔지니어링, 엔비디아 '베라루빈' 들어갈 군산 AI 데이터센터 짓는다 - fetv.co.kr",
+   "ts": 1790558705,
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81RUNDaFlBRDRzcE0xWnBJWXpreDZLZUFOZlZ1QjVrU3FXc1JBUmFZbjJ6SXVzYmltOV9yNmFLQVctOERfeklLWjlJWHdCYl84VGVwU3ZPM29CckdRd2RvODI1TXMwMnJZ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1303,6 +1313,7 @@
   "1b5ed4f2f2a13fd1": 1789951430,
   "1b619689b81986b7": 1790128217,
   "1b7a27878aff8ef8": 1790047604,
+  "1b83caffee922966": 1790560518,
   "1b8441e45077b4ab": 1790060726,
   "1b8a0a23a284eb0a": 1790197952,
   "1b8cc2892e4eb0f5": 1789891518,
@@ -2158,6 +2169,7 @@
   "3a91615eb3b0aac6": 1790553879,
   "3a9d3982428ddcc4": 1789916965,
   "3aa1d98388fa0b2c": 1789893929,
+  "3aa21880c1c2ac21": 1790560518,
   "3aa27fedc30db148": 1789970613,
   "3aa8f3d5fde36c18": 1790037157,
   "3abfc9de9912d356": 1790129720,
@@ -2338,6 +2350,7 @@
   "414a62ee5fe58c6b": 1790181333,
   "416f82629d2e2a85": 1789627496,
   "417e1cc1be23428e": 1789967690,
+  "418e849ce727609b": 1790560518,
   "418faaccaa355848": 1790051717,
   "41aef5ff758c23da": 1790024635,
   "41b87285ce06599d": 1789693531,
@@ -2623,6 +2636,7 @@
   "4ba47d93a71f54df": 1789785019,
   "4bd17651360881f2": 1790140218,
   "4bd5b6df9a618704": 1789689915,
+  "4bf72ece45d59fe1": 1790560518,
   "4c0085421e63fd51": 1789744015,
   "4c079bb12e9f4211": 1789630519,
   "4c0c0057485e73ed": 1790508916,
@@ -3673,6 +3687,7 @@
   "76ec54200edb8f3c": 1789629088,
   "7708c3a1c4879ffe": 1789866315,
   "770bf96c4597292b": 1789627496,
+  "770f648e54e29382": 1790560518,
   "771fa108e9f00282": 1790331630,
   "772041d49c646886": 1790127320,
   "77226f6ffba015ee": 1789627496,
@@ -5416,6 +5431,7 @@
   "bbcd7fdcf1f08c21": 1790111621,
   "bbd39d2cf97b560f": 1789948225,
   "bbdf25864c135ab2": 1790284148,
+  "bbe29afb58755aad": 1790560518,
   "bbe9158c3b85b48f": 1789693531,
   "bbf7dbbe59c49807": 1789718720,
   "bbf9ac8f01b5ca5f": 1789627496,
@@ -6243,6 +6259,7 @@
   "dd4a2bacaf2b5560": 1790388562,
   "dd4e457a398e798a": 1789960215,
   "dd5a14e7ff25d17f": 1790039473,
+  "dd5dba36eae4b361": 1790560518,
   "dd65faff5f75cd2c": 1789965314,
   "dd6af2e1102d1db9": 1790032230,
   "dd70e44fa2dcf11e": 1790373918,
@@ -6862,6 +6879,7 @@
   "f614c541a5cbd8e3": 1790215520,
   "f62a81baed673630": 1790408416,
   "f648f981e552a0dd": 1789977915,
+  "f64a7ce17ed4d980": 1790560518,
   "f650fce28ae4ecb8": 1789627496,
   "f65777b4585734bc": 1789776316,
   "f65dbc37266ddac8": 1790150165,
@@ -7123,7 +7141,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790554448,
- "last_msg_poll": 1790560471,
+ "last_msg_poll": 1790560765,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7165,7 +7183,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 10:54 KST",
+  "last_run": "2026-09-28 10:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
