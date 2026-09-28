@@ -246,6 +246,16 @@
    "t": "‘전력설비 간 소통 언어’ 정비...디지털 전력망 KS 6종 검토",
    "ts": 1790641364,
    "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228596"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "건설·플랜트",
+   "t": "Re-engineering silicon and system design for AI-era workloads",
+   "ts": 1790609444,
+   "u": "https://www.datacenterdynamics.com/en/opinions/re-engineering-silicon-and-system-design-for-ai-era-workloads/"
   }
  ],
  "clip_titles": [],
@@ -784,6 +794,7 @@
   "13279082b1a42807": 1789954905,
   "132ce01b6e6e4ede": 1789627496,
   "132d98e794cc4534": 1789701615,
+  "132ebb69dd618e0d": 1790609717,
   "13379d57f5c6d449": 1789693814,
   "133f69f7b8ec5746": 1790570118,
   "1340856aef4411a5": 1790577994,
@@ -7440,7 +7451,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790606428,
- "last_msg_poll": 1790609670,
+ "last_msg_poll": 1790609958,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7482,7 +7493,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 00:34 KST",
+  "last_run": "2026-09-29 00:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
