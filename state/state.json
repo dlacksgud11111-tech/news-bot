@@ -193,7 +193,7 @@
   },
   {
    "co": "LS일렉트릭",
-   "n": 8,
+   "n": 9,
    "s": "Korea IT Times",
    "sc": 14,
    "sec": "데이터센터·AI전력",
@@ -630,6 +630,16 @@
    "t": "LS일렉트릭, 북미 찍고 아세안으로…글로벌 AI 데이터센터 공략 - 아시아타임즈",
    "ts": 1790560800,
    "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2MjgwY0l3eHRVV1Nsc1lLMGZlb3dscTdoYU9GdUJYd3puY0F0alBUX29OaVlQY1ZXOE5COU1SN0liTjR2R2lkYTUyVXUzUDFqUTYwM3g0NGU4YXctd3c?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "국제신문",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "\"데이터센터 설립 신청 80%는 수도권 집중…지방 지원 시급\" - 국제신문",
+   "ts": 1790560920,
+   "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOUVvVXREYUdZMzFNTEpRa01peVY5RkVYZjI1eDNCNzRHcVg0ZUt6WGxaQkF6WDJCMGdsR2tKRTl3RlZfTjMyX1BSem9XWWpWRFhhSm5Yc090a05wNm9oazEtamk1SmRMS1hCMTV6R21OdThKMzlnYXh3WHlkOGxaLVhBci00ZEdTNUZCVGp3?oc=5"
   }
  ],
  "clip_titles": [],
@@ -5722,6 +5732,7 @@
   "c62efbca1220101d": 1789963516,
   "c631a051547ac66a": 1790556223,
   "c66548e706d5f5cc": 1790143227,
+  "c666db231de847ab": 1790561427,
   "c68410c0b1b6c1de": 1790005215,
   "c698c1319c66137d": 1789629088,
   "c69be58112badbeb": 1789974040,
@@ -6487,6 +6498,7 @@
   "e55940a258193735": 1790464236,
   "e568b2b69d6e3ca4": 1789720817,
   "e56d8c0cfcd257ce": 1789966221,
+  "e5740a26babdf383": 1790561427,
   "e5774319bb4a0d0f": 1790497819,
   "e58c31962720510a": 1789627496,
   "e5986de7f3dfb995": 1790032819,
@@ -7175,7 +7187,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790554448,
- "last_msg_poll": 1790561380,
+ "last_msg_poll": 1790561676,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7217,7 +7229,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 11:09 KST",
+  "last_run": "2026-09-28 11:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
