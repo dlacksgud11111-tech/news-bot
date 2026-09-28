@@ -216,6 +216,46 @@
    "t": "AI 데이터센터, 전력만큼 ‘냉각’도 관건…30일 AIDC 개발·투자 세미나 - 한국경제",
    "ts": 1790558761,
    "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqczZhQXJCQnhsSm5ZSDhkVXpGcDNvSWFZX201dXFGX3dmRHpmZXVzbXVHbVNkOVAtcHRxNGZCdGZWdU9Zcjdzb3ItQ3dxY3RCeHlRbEpBNXpuUQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "ICYMI: Last week’s biggest energy storage industry stories in our new Monday recap",
+   "ts": 1790601574,
+   "u": "https://www.energy-storage.news/icymi-last-weeks-biggest-energy-storage-industry-stories-in-our-new-monday-recap/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "LG Energy Solution partners with B2U Storage for second life US BESS projects",
+   "ts": 1790595732,
+   "u": "https://www.energy-storage.news/lg-energy-solution-partners-with-b2u-storage-for-second-life-us-bess-projects/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 6,
+   "sec": "재생에너지·ESS",
+   "t": "EnerVenue opens factory, secures first multi-MWh order for 30,000-cycle nickel-hydrogen batteries at Chinese oilfield",
+   "ts": 1790587265,
+   "u": "https://www.energy-storage.news/enervenue-opens-factory-secures-first-multi-mwh-order-for-30000-cycle-nickel-hydrogen-batteries-at-chinese-oilfield/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "Urgent need for cybersecurity overhaul as BESS deployment accelerates, Energy Storage Europe says",
+   "ts": 1790586180,
+   "u": "https://www.energy-storage.news/urgent-need-for-cybersecurity-overhaul-as-bess-deployment-accelerates-energy-storage-europe-says/"
   }
  ],
  "clip_titles": [],
@@ -709,6 +749,7 @@
   "11a41450b4b087b5": 1790579195,
   "11aa5dd63b7b97b0": 1789627496,
   "11aad1943feb3cd2": 1789669222,
+  "11b1bf9f4b4f6360": 1790604320,
   "11b74bd19a15e997": 1790040917,
   "11ce46e1f73f08dd": 1789627496,
   "11d8776d4d5ff22a": 1790125530,
@@ -1659,6 +1700,7 @@
   "3199132922226870": 1790045289,
   "319b3d6063ca5a0c": 1789974322,
   "319b5d474e006be4": 1789630519,
+  "31a2361703e020cb": 1790604320,
   "31a5ce8d17f2d159": 1789782685,
   "31ae6d5c408d27e6": 1790045289,
   "31b090e5149e1728": 1790127320,
@@ -1868,6 +1910,7 @@
   "38c812dca595b85c": 1790064758,
   "38c83792964eed47": 1790105418,
   "38c85e9fff305a13": 1789691718,
+  "38d462376a0d82b4": 1790604320,
   "38dadcb44bfc887a": 1790136320,
   "38e1be8dd41fa7b8": 1790557358,
   "38e3982db07a19f5": 1789959919,
@@ -3718,6 +3761,7 @@
   "7a07c1377a973723": 1789962027,
   "7a0ba38bf523294a": 1789970013,
   "7a102e5c6075553d": 1789951430,
+  "7a1137c6aed22d41": 1790604320,
   "7a20ceb70d325049": 1789691718,
   "7a2a798ffcb6cce6": 1790542815,
   "7a45cffab917df34": 1790591147,
@@ -5391,6 +5435,7 @@
   "b7d0bd130de7e4da": 1790147295,
   "b7d1bbd2c69bbc34": 1790070922,
   "b7d88ad9053850e1": 1789990110,
+  "b7e61642ec9d35f0": 1790604320,
   "b7e81de5ee7e966a": 1790469496,
   "b7ea81f2c8cac8f8": 1790060726,
   "b7eacc3e15ae20d4": 1790556791,
@@ -7381,7 +7426,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790599052,
- "last_msg_poll": 1790604263,
+ "last_msg_poll": 1790604565,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7423,7 +7468,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 23:04 KST",
+  "last_run": "2026-09-28 23:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
