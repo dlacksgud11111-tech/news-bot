@@ -236,6 +236,16 @@
    "t": "데이터센터 전력 검토 37%가 반년 이상…AI 인프라 투자 발목 - 뉴스홈(newshome)",
    "ts": 1790586170,
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDcjczMGk0OEswTTg4NWYzM1VJRWRrWkJReWU2MmZDTEFRYXV4OFdRU3k0RERPR0Z3bXRSai1lTnRqMzduQlRmblFrajk1RWg1NEhXN01HVkx1X3l6RTRBSUJlb3B0RGJVdDZNcnhB?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "에너지신문 - 전체기사",
+   "sc": 11,
+   "sec": "전력기기",
+   "t": "‘전력설비 간 소통 언어’ 정비...디지털 전력망 KS 6종 검토",
+   "ts": 1790641364,
+   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228596"
   }
  ],
  "clip_titles": [],
@@ -2745,6 +2755,7 @@
   "5546c3b4557a9547": 1789713633,
   "554bff7436e15ae2": 1790019318,
   "554eebb63153e01c": 1790278228,
+  "5553d6887237b25c": 1790609420,
   "5557962de115b233": 1790563529,
   "555e80b3d1bbfcfc": 1790037157,
   "555f091237616e54": 1789707915,
@@ -7429,7 +7440,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790606428,
- "last_msg_poll": 1790609371,
+ "last_msg_poll": 1790609670,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7471,7 +7482,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 00:29 KST",
+  "last_run": "2026-09-29 00:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
