@@ -243,7 +243,7 @@
   },
   {
    "co": "LS일렉트릭",
-   "n": 2,
+   "n": 3,
    "s": "이지경제",
    "sc": 14,
    "sec": "데이터센터·AI전력",
@@ -283,7 +283,7 @@
   },
   {
    "co": "",
-   "n": 2,
+   "n": 3,
    "s": "글로벌이코노믹",
    "sc": 6,
    "sec": "데이터센터·AI전력",
@@ -303,13 +303,23 @@
   },
   {
    "co": "",
-   "n": 1,
+   "n": 2,
    "s": "daejonilbo.com",
    "sc": 2,
    "sec": "데이터센터·AI전력",
    "t": "어기구 \"데이터센터 63% 수도권 집중…전력 검토 지연 해소해야\" - daejonilbo.com",
    "ts": 1790564089,
    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13UFVfTU5yRVZxTm5QWHpaM0tmQTFJbzdlTWZwTjZXcVd4VEVpTnpaZmV1TVZkM1NfNkt4bEhxRm15Y3RxY2t4X0MxX1BUMC1YU1ZxRnhXU1ZWXzlzNkd3TnRfZjh5REhfa3NNZXozdw?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 2,
+   "s": "헤럴드경제",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "[르포]“사막처럼 철저히 통제”…효성重, 2540억 투입 HVDC 변압기 신공장에 ‘국산화’도 속도 - 헤럴드경제",
+   "ts": 1790564400,
+   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QSG9wS09DdC1IQXNQQ1NwVWo5SjR5ZjZsMW5PWnFSVF9pU2VJeTc3VnV3YTF6aEZUeDhrc3duMi1oRTZ5QWJEeHJaME8zX0ZBWDdleGF3?oc=5"
   }
  ],
  "clip_titles": [],
@@ -4237,6 +4247,7 @@
   "9719178d57f58110": 1789942522,
   "972c14d2a8017867": 1789691718,
   "97312f2386370fdc": 1790556791,
+  "9731f7100dcfbff7": 1790565022,
   "9735e0132cdea234": 1790556791,
   "973d7cffe2cec907": 1790066475,
   "97496b481ecb7a84": 1789686930,
@@ -4982,6 +4993,7 @@
   "b355e27738c842dc": 1790558489,
   "b35d06b19ae1a5dd": 1789954905,
   "b3640013a1aba591": 1789657219,
+  "b37a57678dd95734": 1790565022,
   "b3818888a6139389": 1789954905,
   "b39b383ec149733f": 1789627496,
   "b39cb787518db206": 1790132720,
@@ -5915,6 +5927,7 @@
   "d74d626ecc9b349f": 1789956616,
   "d7540dbbecbf83a7": 1790031917,
   "d782a8af8f826683": 1789697120,
+  "d7887ea58379ab23": 1790565022,
   "d799ada0bb2705ba": 1789967119,
   "d7a0ffcf94350801": 1790482756,
   "d7a48d23a75b1f4f": 1789730727,
@@ -5993,6 +6006,7 @@
   "da58bf947a9d5083": 1789688119,
   "da5cfa6c5a08ab7a": 1790060726,
   "da8a1bb396b311a4": 1790553316,
+  "da8f50cf13813d34": 1790565022,
   "da92a32496074664": 1790008517,
   "da997d7432827ed0": 1790494816,
   "da9a5fb516e97686": 1789698990,
@@ -6516,6 +6530,7 @@
   "ef4b49e429409980": 1789627496,
   "ef51329657cfc470": 1789953163,
   "ef51c4e7b0a493ab": 1790039473,
+  "ef63739c96fcb7e9": 1790565022,
   "ef6d15391ad97561": 1789627496,
   "ef73b26a2393dba5": 1790557916,
   "ef800e490f5c5ad8": 1789873818,
@@ -6951,7 +6966,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790561723,
- "last_msg_poll": 1790564957,
+ "last_msg_poll": 1790565271,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6993,7 +7008,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 12:09 KST",
+  "last_run": "2026-09-28 12:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
