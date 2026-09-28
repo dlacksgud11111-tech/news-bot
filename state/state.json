@@ -283,13 +283,23 @@
   },
   {
    "co": "",
-   "n": 1,
+   "n": 2,
    "s": "글로벌이코노믹",
    "sc": 6,
    "sec": "데이터센터·AI전력",
    "t": "현대엔지니어링, 8700억 군산 AI 데이터센터 수주…연내 1.9조원 정조준 - 글로벌이코노믹",
    "ts": 1790561860,
    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV1lkVDBfY2dNd0VWT1d3S0lwYVN1aHlVa2pueGNxT2E0aHZ5TlpjZUVRU1VIODc2Q3M4ZXZPNlpqUFF2Q254cVhKa2h0VERfZThweUFrRTNjdlhhZF9YR0phTXhDVGZCZDExbWdGbGdtaW85dDZvaUk0YVlUM0FfTEkyVEJGRnpFS1E?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "글로벌이코노믹",
+   "sc": 14,
+   "sec": "데이터센터·AI전력",
+   "t": "LS일렉트릭, AI 데이터센터 전력 솔루션으로 아세안 공략 - 글로벌이코노믹",
+   "ts": 1790563629,
+   "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZEVRN185NGdVYzNqaXdiZjJFajhEU013dnZfSlhsUjZ5Z0JDTGxLUklxdTRvck5ablkwMUJXLVRFdHJDNk8tNVFUZmhaYkhuRER0d2RDSElEYmVvZ3publYtanBYNE9oZVgyOXg1NTktb0F4bDFzMkhObVBLdlhZQ000OVdGdw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -5430,6 +5440,7 @@
   "c5ef45467dbecb61": 1789629088,
   "c5fade9561587968": 1789707915,
   "c60d05bac706bafe": 1790485644,
+  "c619480884055322": 1790563820,
   "c61aac85513e5a3f": 1789627496,
   "c62506e34294c58e": 1790065913,
   "c62be5de08ceae14": 1789824864,
@@ -6671,6 +6682,7 @@
   "f721e98419ac3827": 1790140529,
   "f72ee919c4e9292a": 1790073620,
   "f7341d5e7e784ac6": 1789977915,
+  "f73ae7a2a60d002f": 1790563820,
   "f73d1e17e9e6d0ce": 1789958121,
   "f74b83508a176758": 1789713633,
   "f7507e382befd2e9": 1789974322,
@@ -6908,7 +6920,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790561723,
- "last_msg_poll": 1790563777,
+ "last_msg_poll": 1790564069,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6950,7 +6962,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 11:49 KST",
+  "last_run": "2026-09-28 11:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
