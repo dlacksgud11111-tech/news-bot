@@ -196,118 +196,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 4,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Russian drones hit Kyivstar HQ, Vodafone data center in Ukraine",
-   "ts": 1790592355,
-   "u": "https://www.datacenterdynamics.com/en/news/russian-drones-hit-kyivstar-hq-vodafone-data-center-in-ukraine/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "Italy raises Macse energy storage auction premium cap from €22,000 to €27,000/MWh",
-   "ts": 1790592099,
-   "u": "https://www.pv-magazine.com/2026/09/28/italy-raises-macse-energy-storage-auction-premium-cap-from-e22000-to-e27000-mwh/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "서울경제",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "[만화경] 데이터센터의 전기요금 청구서 - 서울경제",
-   "ts": 1790585230,
-   "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wcUxRNUJ1bW1jOVZTYmNiT2M4RDVvNHB4T213ejBvamVRVFV5eU9HSFlkX25BYjdYNFR5S0VCcnFPcVZNRnBIZkxGNFZ6c3FoOHfSAVNBVV95cUxOQTJZMWg0dVJjWGRBXzFqOEEtb1FnMEZRYnRnWXVjM1VtS0RKY2pBUF9QS29xNjdZQUVUY2RueTVmMHlWWTBldTJaZl9ZRnZaX3hUTQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "ebn.co.kr",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "현대엔지니어링, 8700억 군산 AI 데이터센터 수주…'2조 클럽' 정조준 - ebn.co.kr",
-   "ts": 1790561757,
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DdndqOXVDRHNSZ1VHc3g2YXVheWR6MC1ic1AxQ3IwNG9sZzBqN0lmYlVuVGJnVUY2YXJFVGdVRlctMXhQckRHd3Bhcmt0bDktTlpCMkdfSWJpTHJUZTB3MmZwdEwtWTdi?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "Rising air injection rates boost compressed air energy storage efficiency",
-   "ts": 1790592966,
-   "u": "https://www.pv-magazine.com/2026/09/28/rising-air-injection-rates-boost-compressed-air-energy-storage-efficiency/"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "[르포]“사막처럼 철저히 통제”…효성重, 2540억 투입 HVDC 변압기 신공장에 ‘국산화’도 속도 - v.daum.net",
-   "ts": 1790564546,
-   "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5UNVRZdlpnM1lOdmhsWGJFaGt0Z252ano1TEU1RHVxN2RuYndHTmlJRkZIUTNfckVSMnRZZHZQTlVoNU9iTlE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "성남시, 내년 분당재건축 2만5천호 선정…'예비구역' 첫 도입",
-   "ts": 1790593111,
-   "u": "https://www.yna.co.kr/view/AKR20260928159900061"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "원전",
-   "t": "NST, 전기연·원자력연 신임 원장 선임",
-   "ts": 1790594376,
-   "u": "https://www.etnews.com/20260928000393"
-  },
-  {
-   "co": "일진전기",
-   "n": 1,
-   "s": "job-post.co.kr",
-   "sc": 22,
-   "sec": "전력기기",
-   "t": "일진전기 8만1600원 보합권…전력기기 수주잔고 주목 - job-post.co.kr",
-   "ts": 1790574421,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE56YUJVWk1Zdnk0bDhHUnBWbW0zVHBYdFVlNWdFYi1NQm1uOHBMR2N5SG1kMElHTUkwZHV4M0xmamRxUGdaNjRzMFV0SVZQUHRBcndMZ2ExbmFRdG1SWlFoVG5BVktxMkt6Si1yUTFlOTVjQdIBckFVX3lxTE56YUJVWk1Zdnk0bDhHUnBWbW0zVHBYdFVlNWdFYi1NQm1uOHBMR2N5SG1kMElHTUkwZHV4M0xmamRxUGdaNjRzMFV0SVZQUHRBcndMZ2ExbmFRdG1SWlFoVG5BVktxMkt6Si1yUTFlOTVjQQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "[단독] 2026년 데이터센터 신청 88건 ‘역대 최대’ - v.daum.net",
-   "ts": 1790596833,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HN2xDU2pVYVM2RVJyNVY0SG1XTUZiR21vQ0I2TUNFWlZqanplR0FjV2JrZXhZeElldnE5Y3NJYzNPMVg2SHZhVVYzemRYUUk?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "\"전력 수요 매년 30% 폭증\"… K전력기기 '빅3' 일감 43조 쌓여 - v.daum.net",
-   "ts": 1790584740,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wUVFXdkEtQmsyNkJtWm5rQjdFdVIwU0RyMnJERjZqUEk1dFN4X2Q4dGV3UHFoYkw2bklhYzUtRDhSQjl5RGhTMkF1UW9Vbm8?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "0003f98f6034d59c": 1790586316,
@@ -6440,6 +6329,7 @@
   "daeeea20f1836229": 1789633522,
   "daf41f25c1544bd5": 1790044106,
   "db0bdf3ca5cff369": 1790561130,
+  "db0d6e6158050d4e": 1790599052,
   "db11e1c35f8e5bcc": 1790597331,
   "db12618d361cd462": 1790127320,
   "db17dd11d187c630": 1789975827,
@@ -7461,8 +7351,8 @@
  },
  "companies_today": {},
  "day": "2026-09-28",
- "last_clip": 1790591719,
- "last_msg_poll": 1790598731,
+ "last_clip": 1790599052,
+ "last_msg_poll": 1790599297,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7504,7 +7394,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 21:32 KST",
+  "last_run": "2026-09-28 21:41 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
