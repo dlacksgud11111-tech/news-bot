@@ -196,118 +196,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 4,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "세계일보",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "[단독] 2026년 데이터센터 신청 88건 ‘역대 최대’ - 세계일보",
-   "ts": 1790596718,
-   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IdUxnaWJxT1Z1aGhBMG9sQ1REMHoyclVQX2NpOER1LTd5czZPSjBSTGdJdFJvZ3pOZWtrc0FBX3RjSDhMQmtpbGNJRUk5RUlleHVjdlpOclpmNXBuLUFQXzFMRjMxSkRDbUs40gFUQVVfeXFMTnVuWWxkNEtOOU1aNlUxSDhiMFB6djd5eTJVLXFwNWcwRW8zOUgtVU9tMk1QUnZFMkVDb3YxU2E3ZVljdDBxbEQ1bHZjYnFSVnJnYjFq?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "한국경제",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터, 전력만큼 ‘냉각’도 관건…30일 AIDC 개발·투자 세미나 - 한국경제",
-   "ts": 1790558761,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqczZhQXJCQnhsSm5ZSDhkVXpGcDNvSWFZX201dXFGX3dmRHpmZXVzbXVHbVNkOVAtcHRxNGZCdGZWdU9Zcjdzb3ItQ3dxY3RCeHlRbEpBNXpuUQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "ICYMI: Last week’s biggest energy storage industry stories in our new Monday recap",
-   "ts": 1790601574,
-   "u": "https://www.energy-storage.news/icymi-last-weeks-biggest-energy-storage-industry-stories-in-our-new-monday-recap/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "LG Energy Solution partners with B2U Storage for second life US BESS projects",
-   "ts": 1790595732,
-   "u": "https://www.energy-storage.news/lg-energy-solution-partners-with-b2u-storage-for-second-life-us-bess-projects/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 6,
-   "sec": "재생에너지·ESS",
-   "t": "EnerVenue opens factory, secures first multi-MWh order for 30,000-cycle nickel-hydrogen batteries at Chinese oilfield",
-   "ts": 1790587265,
-   "u": "https://www.energy-storage.news/enervenue-opens-factory-secures-first-multi-mwh-order-for-30000-cycle-nickel-hydrogen-batteries-at-chinese-oilfield/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "Urgent need for cybersecurity overhaul as BESS deployment accelerates, Energy Storage Europe says",
-   "ts": 1790586180,
-   "u": "https://www.energy-storage.news/urgent-need-for-cybersecurity-overhaul-as-bess-deployment-accelerates-energy-storage-europe-says/"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "인사이트N파워",
-   "sc": 16,
-   "sec": "전력기기",
-   "t": "LS일렉트릭 초고압 변압기 공장에 ‘로봇개’ 투입 “설비 이상 미리 잡는다” - 인사이트N파워",
-   "ts": 1790604227,
-   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XREYwQ3FDanotNVRtTDYzQTdVcDVBUXlpd20wRV9KMnM5WFlLOGNFMGozVnNBVkF3Q1I2ZldSdXl0cEFfQXJTbjRYbkdGdXlJTDdzRmlxZTZscHh6VDJURlJtaGM3Zw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "온라인가스저널",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "두산퓨얼셀, 미국 AI 데이터센터 전력시장 진출 - 온라인가스저널",
-   "ts": 1790602656,
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rZEh1QW9SVDllOWowYUZ4TkxoVzFZZGlZRVNDanBzNVFmcVdEbndXXzlENWVJeDEzV28xYndjMkdZOFh5bm5CbjNVbTRjQ2lWSGtLTnhFTTRZdjlWMjd3a1Q2cFpUUWdG?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Virtus secures £2.45bn in financing for data center build-out",
-   "ts": 1790604880,
-   "u": "https://www.datacenterdynamics.com/en/news/virtus-secures-245bn-in-financing-for-data-center-build-out/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 4,
-   "sec": "전력기기",
-   "t": "Digital Realty to develop cable landing station in Los Angeles, California",
-   "ts": 1790604704,
-   "u": "https://www.datacenterdynamics.com/en/news/digital-realty-to-develop-cable-landing-station-in-los-angeles-california/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 2,
-   "sec": "유틸리티·정책",
-   "t": "세종 하수처리장 열, 지역난방으로...‘버려진 에너지’ 활용",
-   "ts": 1790637380,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228595"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "0003f98f6034d59c": 1790586316,
@@ -1591,6 +1480,7 @@
   "2c87a1de6aa1eb5c": 1789638316,
   "2c8a04fc4d5f9820": 1790042975,
   "2c8b56327ba1eb3c": 1790549719,
+  "2c8b5940cdc8c46b": 1790606428,
   "2c8f55f8f0d5acfd": 1790480362,
   "2c997d92443942f7": 1790557916,
   "2c9ce9e991c5c8f2": 1790039473,
@@ -3128,6 +3018,7 @@
   "60a40eb0f746b10b": 1790580923,
   "60a9b2d5d849984f": 1790048174,
   "60af3c074e277a11": 1789705521,
+  "60b4afaca2d5ffef": 1790606428,
   "60bab34d3e507a70": 1790201443,
   "60c10475116754ae": 1790335517,
   "60cf6fd151c5590a": 1790560231,
@@ -3495,6 +3386,7 @@
   "6e1aedebd3ca6d7e": 1789693531,
   "6e1e893d86f999af": 1789627496,
   "6e22d8640b555904": 1790040917,
+  "6e2c3806d81cf1aa": 1790606428,
   "6e3876d7a92b982f": 1790074519,
   "6e57a481baa5e673": 1789629088,
   "6e5cb1b84176d101": 1789627496,
@@ -3643,6 +3535,7 @@
   "73c50b4dbd2bbd6f": 1789702817,
   "73d08871b817473f": 1790053820,
   "73da610b56e0926f": 1790571928,
+  "73e31592b9ebc5d5": 1790606428,
   "73e3dbe487e87c51": 1789629088,
   "73f6560f726ae26e": 1789731017,
   "741853ca4b80b94d": 1790555020,
@@ -7481,8 +7374,8 @@
  },
  "companies_today": {},
  "day": "2026-09-28",
- "last_clip": 1790599052,
- "last_msg_poll": 1790606364,
+ "last_clip": 1790606428,
+ "last_msg_poll": 1790606671,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7524,7 +7417,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 23:39 KST",
+  "last_run": "2026-09-28 23:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
