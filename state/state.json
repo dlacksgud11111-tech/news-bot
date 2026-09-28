@@ -286,6 +286,16 @@
    "t": "일진전기 8만1600원 보합권…전력기기 수주잔고 주목 - job-post.co.kr",
    "ts": 1790574421,
    "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE56YUJVWk1Zdnk0bDhHUnBWbW0zVHBYdFVlNWdFYi1NQm1uOHBMR2N5SG1kMElHTUkwZHV4M0xmamRxUGdaNjRzMFV0SVZQUHRBcndMZ2ExbmFRdG1SWlFoVG5BVktxMkt6Si1yUTFlOTVjQdIBckFVX3lxTE56YUJVWk1Zdnk0bDhHUnBWbW0zVHBYdFVlNWdFYi1NQm1uOHBMR2N5SG1kMElHTUkwZHV4M0xmamRxUGdaNjRzMFV0SVZQUHRBcndMZ2ExbmFRdG1SWlFoVG5BVktxMkt6Si1yUTFlOTVjQQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "[단독] 2026년 데이터센터 신청 88건 ‘역대 최대’ - v.daum.net",
+   "ts": 1790596833,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HN2xDU2pVYVM2RVJyNVY0SG1XTUZiR21vQ0I2TUNFWlZqanplR0FjV2JrZXhZeElldnE5Y3NJYzNPMVg2SHZhVVYzemRYUUk?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1886,6 +1896,7 @@
   "36e88344535fbf60": 1789866616,
   "36ecb7a611bc1093": 1790031917,
   "36f2743c21080955": 1789688419,
+  "36f4a6fd738b5626": 1790597331,
   "371c5b43ec9ade30": 1790462519,
   "3723edbbc6cc51fd": 1789951430,
   "37343f3a3712c2cb": 1790564716,
@@ -4176,6 +4187,7 @@
   "88e10b8a674c63ba": 1789708498,
   "88e1c8bca480c2bb": 1790562951,
   "88e24d4ff5526ec3": 1789647027,
+  "88e2bd4d3b57090c": 1790597331,
   "88feee4cf62ccc72": 1790046448,
   "89031fb515806617": 1789627496,
   "8905d13a0ade1083": 1789966821,
@@ -6415,6 +6427,7 @@
   "daeeea20f1836229": 1789633522,
   "daf41f25c1544bd5": 1790044106,
   "db0bdf3ca5cff369": 1790561130,
+  "db11e1c35f8e5bcc": 1790597331,
   "db12618d361cd462": 1790127320,
   "db17dd11d187c630": 1789975827,
   "db1fb6ba33d53dfe": 1789888052,
@@ -7435,7 +7448,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790591719,
- "last_msg_poll": 1790597020,
+ "last_msg_poll": 1790597579,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7477,7 +7490,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 21:03 KST",
+  "last_run": "2026-09-28 21:12 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
