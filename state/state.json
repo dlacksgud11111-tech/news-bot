@@ -196,198 +196,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "조선일보",
-   "sc": 4,
-   "sec": "원전",
-   "t": "[태평로] 원전·AI·반도체 결합한 ‘FNDC 시대’ 온다 - 조선일보",
-   "ts": 1790606400,
-   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYmc2cnJhakNSdDJDSm1obVVBU2ZuUEdJZXczd1NsaGludjYyY2hXYTU5enhNOUNZUGNZM2puSW1ldklvV2QteGRFb3FYNTJFVXpCdDdsb2F6VExpR2RJY0JpcC1KUHNGTU94NDBndVJQUDVGX0NnNnZDeFhnc21RMlpTR2x6bFF5?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 14,
-   "sec": "데이터센터·AI전력",
-   "t": "LS일렉트릭, 싱가포르서 AI 데이터센터 전력 솔루션 공개…아세안 공략 - v.daum.net",
-   "ts": 1790553723,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jMHl3MVBwVWFFQjU5c2Nra3EtR0E5MU1zUTlrcmJySVRRU2RZZDFfYUIxQVI0Q2V5VnJ5LXBnMWVKbXVEQXpBRmNPc2dpRTQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "MBC 뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "[기후환경 리포트] AI 데이터센터발 전기 충격‥RE100 \"한국에 두 가지 당부\" - MBC 뉴스",
-   "ts": 1790548389,
-   "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JN3ZIVDFkRzhBVEQzWXJSUDEzRWg1VlVVeFY2bXNLVEJENkJ0dzdmTVluSzdhRE9PY3VrZFZFYlN4Nk1QekpCMGtHSk95V0NMd1FVU0t6Q29NMEdjbWhfWlFYUjFxWENpclNacndVQkRzVlc2VGZnU1pB0gF6QVVfeXFMT0k3dkhUMWRHOEFURDNZclJQMTNFaDVWVVV4VjZtc0tUQkQ2QnR3N2ZNWW5LN2FET09jdWtkVkViU3g2TVB6SkIwa0dKT3lXQ0x3UVVTS3pDb00wR2NtaF9aUVhSMXFYQ2lyU1pyd1VCRHNWVzZUZmdTWkE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴스홈(newshome)",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "데이터센터 전력 검토 37%가 반년 이상…AI 인프라 투자 발목 - 뉴스홈(newshome)",
-   "ts": 1790586170,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDcjczMGk0OEswTTg4NWYzM1VJRWRrWkJReWU2MmZDTEFRYXV4OFdRU3k0RERPR0Z3bXRSai1lTnRqMzduQlRmblFrajk1RWg1NEhXN01HVkx1X3l6RTRBSUJlb3B0RGJVdDZNcnhB?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 11,
-   "sec": "전력기기",
-   "t": "‘전력설비 간 소통 언어’ 정비...디지털 전력망 KS 6종 검토",
-   "ts": 1790641364,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228596"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "Re-engineering silicon and system design for AI-era workloads",
-   "ts": 1790609444,
-   "u": "https://www.datacenterdynamics.com/en/opinions/re-engineering-silicon-and-system-design-for-ai-era-workloads/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "Data center backup power contributes to health risks: report",
-   "ts": 1790610474,
-   "u": "https://www.utilitydive.com/news/data-centers-backup-power-contributing-to-health-risks-report-says/831507/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Goodman withdraws application for 90MW data center campus in Sydney, Australia",
-   "ts": 1790610154,
-   "u": "https://www.datacenterdynamics.com/en/news/goodman-withdraws-application-for-90mw-data-center-campus-in-sydney-australia/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "아이티데일리",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "[위크픽 클라우드] 데이터센터 ‘전력 사전 검토’만 수년 소요…구글, 우주 TPU 실증 - 아이티데일리",
-   "ts": 1790584520,
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOeTJTSUNsZEV0MUVvdl9ybWpqVExyUjFRWWo4Z2VEMXZZTDV6bE5FQ0ZjMFVOdTRwNE5MT25OVzF1TlNMQ0wzdXBMMTlRZ2ZnV2MyaVRxMFJQYUoxVjFSYVlyaVlUSmxV?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Europe's data center efficiency labeling scheme needs nuance, industry leaders warn",
-   "ts": 1790611235,
-   "u": "https://www.datacenterdynamics.com/en/analysis/europes-data-center-efficiency-labeling-scheme-needs-nuance-industry-leaders-warn/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 2,
-   "sec": "유틸리티·정책",
-   "t": "SPP’s ‘stop-gap’ resource adequacy plan for Western balancing area panned at FERC",
-   "ts": 1790605442,
-   "u": "https://www.utilitydive.com/news/spp-resource-adequacy-western-balancing-area-baa-ferc/831482/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "급증하는 AI 데이터센터… ‘전력망 병목’ 변수 급부상 - v.daum.net",
-   "ts": 1790624006,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00MDBWSUhHRTBLUzNYaDliTFlvMURxa3pNczV3UGlIUmV3T2s2NUdPamUyU0xzazBvX0ZyaFVzYW1tRHpFd0JVNDB0dURkdVU?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "동아일보",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "주민 전력난 우려에 美데이터센터 인허가 지연… AI 속도전 ‘발목’ - 동아일보",
-   "ts": 1790623800,
-   "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqVHloQ1hYVGNWdlg0Qzc0Z2xYVDJwNHFRbVFIOTdYMUppQk1kWHh5Z1UtdHA5ZUxiX0ZKWGVtZ2NSSHRpNG5FZmNPeGN0c0hzcjhUaVQwV3E4WTBwT2ZMb2xCdEZMN0x5bFRBVmdFNFA0UVA0UlHSAWZBVV95cUxQdE4yb3ROeGJkb2c2WW8zcnJpZUVLckNBU0lfbDhmLW5RLWl3UmZNN0VTb0FtVXRtS2pmbU8tc2dmY1A2UEdxWDU4aUFFZ2tKV1Ruc1BHN0ltVU1iRnc0dWJ6Y0dIZHc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "hankookilbo.com",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "초원에서 해저까지 넓어진 中 데이터센터 지도...전기 따라 옮겨다니는 '산전협동' - hankookilbo.com",
-   "ts": 1790623800,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91WEJvT2NsZTk3SHU3MGNtVlRvZUxubGlVUmlFSlJ0cXl0aE5VZnprbU1rMXFLbG1SeDNVcVJibVgwb3hTNTBKVmU4YnR2WVhRU2FYNGJORUNqTFhCaWZBSEgxdXAtc0I1LXJkQXBn0gFzQVVfeXFMTjg3XzNuRnFSelR4cTdzUURnXzZZS2RRbmc0ZDVMbDQ3OWhaZVB5azgyRkU2SmI2MVIyelkwLUV4NFNyRXhPZGJpRlBFRVY2aDJPUWV5VXFySmZPeTBQS1c3UWJtc1VLanY0Tk1ZTjZLd0VFRQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "hankookilbo.com",
-   "sc": 4,
-   "sec": "데이터센터·AI전력",
-   "t": "'에너지 사용' 보고하고 '전력 총량' 묶고… 데이터센터 규제 나선 유럽·싱가포르 - hankookilbo.com",
-   "ts": 1790623800,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LdjhNXy1UQnFodmhmQTdCbWU5RlVKN3ZXN2pKNlBMSFg5QnYwbmxXNDJJNzd2dVNhVkRWMjFsNVgxaDhKOHZIZHB1R3pJaGRwWVlSSko4N1BmQmxGanlKSzJtU0pVN2NKNThJZVB30gFzQVVfeXFMUDd4cFlRc21TUnM5SmRUUWhyOWh0MExtNnBSSlE2cHZ3SDZhYXV3ZUZSRS1oTGlUaUtNajBOWmZnMFZBSkZRc0pwaGozY2JmOGY4ZU5CbTdQM2g0aUozdkppT0JTR2dZak92ZDNBT0lhOE9PRQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "조선일보",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "[윤희영의 News English] 데이터센터 어디에 지을까… AI도 대답 못하네 - 조선일보",
-   "ts": 1790606100,
-   "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcWd4YWpISUZFUmhDM1pyN2VsN3FkR3hLcm1hZnU3cnpqVWtjaDVjbTRlMExkenRpQWpfZ0c0dTdneFA5MHRUS2lhd0xOTUJicGFkako4ZGVpS1BLcHQ1ZTZTZzZrNlVua2FORUV1YmFJZEVWQU43ZTg5eUVhaWlad1BOeFVrd0VETTNISG4zMTk?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "ppss.kr",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "충남 AI데이터센터 620MW 추진…환경단체 “유치 경쟁 멈춰야” - ppss.kr",
-   "ts": 1790583797,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XbDR0bXNkdVpOWFZYQ1QwOGdnOEE4dExacUFfdjZrUXBfUWZ4Q0NCekxEUlgtOEF2MktpSEtra2JuODhhalBjUUtFYmlUWlpCd3JOd25UUHRtbzRqZ2ZNMVZTVUI?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이코노미톡뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "한화오션, ‘육지 밖’ 데이터센터 띄운다…계열사 간 연계 가능성은? - 이코노미톡뉴스",
-   "ts": 1790627400,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZaC1ia2x4NzlOTHVuMnZKajJYQmF4R1h6OExPeE1BUlNlQlBmZEhtME1NeTJvM3VEWjB3Q2x2STBzWC15WklqcV9HamdkZVMtUVRVSHpLWTBXS3J1SzBBV01TSDJzdEdWWDA1RQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "터널도 인생도 \"뚫어!\"…건설인 홍보영상 유튜브서 인기몰이",
-   "ts": 1790629506,
-   "u": "https://www.yna.co.kr/view/AKR20260928118400003"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "0003f98f6034d59c": 1790586316,
@@ -4531,6 +4340,7 @@
   "90c2b72335984006": 1789695321,
   "90c58901417e0140": 1789627496,
   "90d0c7d6d352eb97": 1790607918,
+  "90d633e20e95cf7d": 1790632831,
   "90d7080654f2e3ff": 1790246731,
   "90daf74084f33fb6": 1790612731,
   "90ea457f3a85d9db": 1790398221,
@@ -7612,8 +7422,8 @@
  },
  "companies_today": {},
  "day": "2026-09-29",
- "last_clip": 1790606428,
- "last_msg_poll": 1790632759,
+ "last_clip": 1790632831,
+ "last_msg_poll": 1790633074,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7630,6 +7440,7 @@
   "3ff75ee6c8c3be04": 1789523153,
   "548ed758c0d7bf16": 1789696070,
   "5b5615bb8c32941e": 1789541523,
+  "73179d318a7f3e1e": 1790633049,
   "767f1a2b22130fb8": 1789448532,
   "76aa2d8a91196097": 1789589359,
   "7b7e2b1311cdf59f": 1789589372,
@@ -7655,10 +7466,10 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 06:59 KST",
+  "last_run": "2026-09-29 07:04 KST",
   "total_posted": 7
  },
- "tg_offset": 371065792,
+ "tg_offset": 371065795,
  "titles": [
   [
    1789448532,
