@@ -273,7 +273,7 @@
   },
   {
    "co": "LS일렉트릭",
-   "n": 1,
+   "n": 2,
    "s": "디일렉",
    "sc": 14,
    "sec": "데이터센터·AI전력",
@@ -283,7 +283,7 @@
   },
   {
    "co": "",
-   "n": 3,
+   "n": 4,
    "s": "글로벌이코노믹",
    "sc": 6,
    "sec": "데이터센터·AI전력",
@@ -320,6 +320,26 @@
    "t": "[르포]“사막처럼 철저히 통제”…효성重, 2540억 투입 HVDC 변압기 신공장에 ‘국산화’도 속도 - 헤럴드경제",
    "ts": 1790564400,
    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QSG9wS09DdC1IQXNQQ1NwVWo5SjR5ZjZsMW5PWnFSVF9pU2VJeTc3VnV3YTF6aEZUeDhrc3duMi1oRTZ5QWJEeHJaME8zX0ZBWDdleGF3?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "스트레이트뉴스",
+   "sc": 14,
+   "sec": "데이터센터·AI전력",
+   "t": "LS일렉트릭, 국내·북미 이어 아세안으로…데이터센터 전력시장 공략 - 스트레이트뉴스",
+   "ts": 1790556806,
+   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10ZHN1UFktQmt5NHRya1E1cFhVeXFfVFhQN21HR1d4ZlgxUXhKbHJMOUx1MVNFb2NUdUtkc3FfSFBaLWpZczBBVmF2VFUwOG9fNFdWSXo4RmJONjZLYTRneEdrUFN2d0tjSzItRGNRRkkwbUFzUU530gF3QVVfeXFMTXRkc3VQWS1Ca3k0dHJrUTVwWFV5cV9UWFA3bUdHV3hmWDFReEpsckw5THUxU0VvY1R1S2RzcV9IUFotallzMEFWYXZUVTA4b180V1ZJejhGYk42NkthNGd4R2tQU3Z3S2NLMi1EY1FGSTBtQXNRTnc?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "연합뉴스TV",
+   "sc": 8,
+   "sec": "데이터센터·AI전력",
+   "t": "LS일렉트릭, ’데이터센터월드 아시아 2026’ 참가…아세안 공략 강화 - 연합뉴스TV",
+   "ts": 1790556420,
+   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1idkphZHdEcnM3S29Ebmx6UHowNDM5TVpnOGpxUlR3QWxQUTUycFQtcFhNaENlb1puQW1QZmQ4NUJTdlRhS0NfRHE5YlJuYXA4elhnNUdqLV85N05fVUNiYW9xNHQ0N3M?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1553,6 +1573,7 @@
   "2dc47b6bc2925ad1": 1790495418,
   "2dc5f25397e329dd": 1790556791,
   "2dc7bc23ec248d9e": 1790050530,
+  "2dd8afae0c0f170c": 1790565330,
   "2de2193da31e3282": 1789710209,
   "2df6defbaca4a353": 1790557916,
   "2e07ff6722d20109": 1790557916,
@@ -3642,6 +3663,7 @@
   "7d8c02d39aaf1744": 1789942522,
   "7d8dfbf805690e09": 1790143522,
   "7d8f3a0d5d5272c6": 1789954327,
+  "7d9c83c83c45ed08": 1790565330,
   "7da64be0b50376a6": 1789886351,
   "7dc98c49386ed6f4": 1790064758,
   "7dcfb818a258ba99": 1789630519,
@@ -3758,6 +3780,7 @@
   "823e226ed25bd595": 1789942215,
   "824a9350c40afac5": 1789684816,
   "825287866f9b4e90": 1790005215,
+  "825a9284dfa2a99d": 1790565330,
   "825de8cc277d72a2": 1790124315,
   "8262fbcbfa91e115": 1789687812,
   "826de60993533c6d": 1790130924,
@@ -5300,6 +5323,7 @@
   "bf41c5814ac4c10f": 1790467770,
   "bf47e5b67bfab222": 1790060726,
   "bf4aea1fd5d2f47e": 1789627496,
+  "bf4d5cdbeb0a531f": 1790565330,
   "bf57a7b28961584d": 1790177723,
   "bf5d533c3f6cc9ed": 1790122002,
   "bf66f4897450ec8c": 1790327116,
@@ -5339,6 +5363,7 @@
   "c0edc1276b1be838": 1790556223,
   "c10474e18e80034e": 1789691718,
   "c11937e79275d01f": 1789627496,
+  "c11bfde7984b9469": 1790565330,
   "c1284cf8822608f0": 1790556791,
   "c1289d7300c453ee": 1790559622,
   "c12edb1961b72f90": 1789635016,
@@ -5520,6 +5545,7 @@
   "c7525c1bcbba8835": 1789627496,
   "c75cc08d325ecfd2": 1789992384,
   "c763a65ec1ca4008": 1789888052,
+  "c766f91e75927a6a": 1790565330,
   "c76a1f6cbabf80fe": 1790357225,
   "c76c1c6c9f17dd71": 1789951430,
   "c76dde4feb2072d4": 1789852801,
@@ -6966,7 +6992,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790561723,
- "last_msg_poll": 1790565271,
+ "last_msg_poll": 1790565581,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7008,7 +7034,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 12:14 KST",
+  "last_run": "2026-09-28 12:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
