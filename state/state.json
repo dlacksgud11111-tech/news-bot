@@ -270,6 +270,16 @@
    "t": "Australia’s NSW grants development consent for 200MWh battery storage system",
    "ts": 1790571118,
    "u": "https://www.energy-storage.news/australias-nsw-grants-development-consent-for-200mwh-battery-storage-system/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 3,
+   "sec": "재생에너지·ESS",
+   "t": "Australia’s NSW trials property-level and community battery models to extend solar benefits",
+   "ts": 1790571396,
+   "u": "https://www.energy-storage.news/australias-nsw-trials-property-level-and-community-battery-models-to-extend-solar-benefits/"
   }
  ],
  "clip_titles": [],
@@ -2401,6 +2411,7 @@
   "4d23b13e301ff318": 1789720517,
   "4d25e3953a224d15": 1789720517,
   "4d2f3fff4e759e9f": 1789676423,
+  "4d3464bbd233464a": 1790571616,
   "4d3f1cb961f8185c": 1790126420,
   "4d42cad4bb136f3f": 1790542530,
   "4d44397616fcc099": 1790475926,
@@ -2997,6 +3008,7 @@
   "642c64c7798204bb": 1790206113,
   "642d710ba55ad428": 1790554448,
   "6439db99312a4d99": 1790241621,
+  "64432b3f922b8551": 1790571616,
   "644564b0a0d0e634": 1790126420,
   "644ae17fd717d25f": 1789974322,
   "64547a37529c0449": 1789957530,
@@ -3942,6 +3954,7 @@
   "89726900b48be2ad": 1790127622,
   "8977d254721689b5": 1789631127,
   "8978d7ed2e62bac2": 1790039473,
+  "897b672ac96e5c23": 1790571616,
   "8987be7490af89f3": 1789889765,
   "898b5342c8baa974": 1789872360,
   "89916f683d94e5d2": 1790124922,
@@ -4719,6 +4732,7 @@
   "a8fe29aa3e1eb2fc": 1789948516,
   "a9156a4899e29585": 1789728460,
   "a915a4943b7ddd88": 1790559622,
+  "a91902e93b568629": 1790571616,
   "a928b526fdfd0edb": 1789724119,
   "a92eb54759f2f17c": 1790066475,
   "a935dcb6b080a64e": 1790478323,
@@ -7015,7 +7029,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790569235,
- "last_msg_poll": 1790571571,
+ "last_msg_poll": 1790571867,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7057,7 +7071,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 13:59 KST",
+  "last_run": "2026-09-28 14:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
