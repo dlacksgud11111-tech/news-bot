@@ -481,6 +481,26 @@
    "t": "Power Electronics starts construction on 40 GW U.S. factory",
    "ts": 1790582314,
    "u": "https://www.pv-magazine.com/2026/09/28/power-electronics-starts-construction-on-40-gw-u-s-factory/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "이투뉴스 - 전체기사",
+   "sc": 3,
+   "sec": "원전",
+   "t": "전기연구원장에 강상희 교수·원자력연구원장에 정우식 교수",
+   "ts": 1790614947,
+   "u": "http://www.e2news.com/news/articleView.html?idxno=334625"
+  },
+  {
+   "co": "Vertiv",
+   "n": 1,
+   "s": "DCD",
+   "sc": 5,
+   "sec": "데이터센터·AI전력",
+   "t": "Vertiv expands data center kit manufacturing capacity in Slovakia",
+   "ts": 1790582435,
+   "u": "https://www.datacenterdynamics.com/en/news/vertiv-expands-data-center-kit-manufacturing-capacity-in-slovakia/"
   }
  ],
  "clip_titles": [],
@@ -1725,6 +1745,7 @@
   "2bda6d38346b119d": 1789627496,
   "2be2f49d0550fd9a": 1790060726,
   "2becae53f825595a": 1789970013,
+  "2bef46d848b61ae7": 1790582728,
   "2c027e55e9fecb05": 1789951430,
   "2c0796269b2c2357": 1789633820,
   "2c0dfa0cdc738a86": 1789649116,
@@ -2539,6 +2560,7 @@
   "46db9cfff8baf7a3": 1789709642,
   "46de0d360b904d09": 1789955477,
   "46e13b58d1ea6e93": 1789953163,
+  "46e2d6efce42590e": 1790582728,
   "46e8f25a95c72fda": 1790070922,
   "46f30eedb6a0c0e0": 1790045289,
   "46f32379188a707f": 1789859128,
@@ -3059,6 +3081,7 @@
   "5a2c297f36f35131": 1790570118,
   "5a2e4a1ce75660cc": 1789963516,
   "5a34ab11fb136d36": 1790146721,
+  "5a390e8910c55197": 1790582728,
   "5a420f5c2586e6f9": 1789895115,
   "5a4d2c55d926768a": 1790551214,
   "5a500e4e5df7bf1c": 1789955477,
@@ -3332,6 +3355,7 @@
   "63e45fb4c82e8f6c": 1790034282,
   "63e562f66e85057e": 1789731320,
   "63e7c6a9e3bb57ed": 1790098469,
+  "63ecfe891e79ac2a": 1790582728,
   "63f6fa409ae285bf": 1790577419,
   "640c4a6d3f951e53": 1790052923,
   "641fe00a4d0a7f0c": 1789865116,
@@ -3708,6 +3732,7 @@
   "7241068ddbf29855": 1790001429,
   "724158eef3176b6a": 1790111621,
   "725bdd188e7c2869": 1789701615,
+  "725ff815f4b97e38": 1790582728,
   "7261dd09835cdda4": 1790562951,
   "726cbc9ad20f6132": 1790581516,
   "72716e16c64de19e": 1789865116,
@@ -7494,7 +7519,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790576844,
- "last_msg_poll": 1790582671,
+ "last_msg_poll": 1790582974,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7536,7 +7561,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 17:04 KST",
+  "last_run": "2026-09-28 17:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
