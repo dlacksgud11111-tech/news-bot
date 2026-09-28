@@ -276,6 +276,26 @@
    "t": "두산퓨얼셀, 미국 AI 데이터센터 전력시장 진출 - 온라인가스저널",
    "ts": 1790602656,
    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rZEh1QW9SVDllOWowYUZ4TkxoVzFZZGlZRVNDanBzNVFmcVdEbndXXzlENWVJeDEzV28xYndjMkdZOFh5bm5CbjNVbTRjQ2lWSGtLTnhFTTRZdjlWMjd3a1Q2cFpUUWdG?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Virtus secures £2.45bn in financing for data center build-out",
+   "ts": 1790604880,
+   "u": "https://www.datacenterdynamics.com/en/news/virtus-secures-245bn-in-financing-for-data-center-build-out/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 4,
+   "sec": "전력기기",
+   "t": "Digital Realty to develop cable landing station in Los Angeles, California",
+   "ts": 1790604704,
+   "u": "https://www.datacenterdynamics.com/en/news/digital-realty-to-develop-cable-landing-station-in-los-angeles-california/"
   }
  ],
  "clip_titles": [],
@@ -2754,6 +2774,7 @@
   "545106ca9ad27280": 1790381556,
   "54677b86ac53b13c": 1789954327,
   "546cab1a79d8845f": 1790186286,
+  "5482d882427d49c0": 1790604930,
   "5485f67b43e60d3a": 1789891518,
   "54863963cdccb321": 1789733129,
   "5486f10f389bd693": 1790579195,
@@ -6994,6 +7015,7 @@
   "efb3c86e4d396c6d": 1790047038,
   "efb4db81298d8227": 1790055013,
   "efb77bd11468ba70": 1790480362,
+  "efee2e6c05d183f4": 1790604930,
   "eff63fc4501319ef": 1789693220,
   "effa974021a52e03": 1790577419,
   "f00d3991a925cf23": 1790556791,
@@ -7448,7 +7470,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790599052,
- "last_msg_poll": 1790604858,
+ "last_msg_poll": 1790605179,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7490,7 +7512,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 23:14 KST",
+  "last_run": "2026-09-28 23:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
