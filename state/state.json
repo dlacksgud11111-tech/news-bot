@@ -250,6 +250,26 @@
    "t": "충남환경운동연합, AI데이터센터 유치 제동…\"전면 재검토해야\" - 더팩트",
    "ts": 1790570443,
    "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UWThrbElDRzdOU1U1OHdtSV9WeVpEWkh3MjY4aXk4RUhhVXJXUkJUaEhJZFBKYXlpVGxDaktfaVVoTk83UUVPdEQtSS1FWTRfVV9vVjZyd3JJOGPSAVZBVV95cUxPVEUwSzg2Y0czTXpRUUFjSGJJQ1k0QjlKZDQxeV82eWhpN29kclJ0NG82Z2ZpLXFpRkFmQlhiRV94UEJhaFM1SnFFajBMdW5OSjNxX25qZw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 3,
+   "sec": "재생에너지·ESS",
+   "t": "Australia’s most powerful battery storage system officially completed",
+   "ts": 1790571297,
+   "u": "https://www.energy-storage.news/australias-most-powerful-battery-storage-system-officially-completed/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 3,
+   "sec": "재생에너지·ESS",
+   "t": "Australia’s NSW grants development consent for 200MWh battery storage system",
+   "ts": 1790571118,
+   "u": "https://www.energy-storage.news/australias-nsw-grants-development-consent-for-200mwh-battery-storage-system/"
   }
  ],
  "clip_titles": [],
@@ -1878,6 +1898,7 @@
   "3ac73f680eb089e1": 1790038892,
   "3ad5f78eb8e323a4": 1789809020,
   "3ad9ee9daf768c6c": 1789783839,
+  "3afde60a65d5b1a0": 1790571320,
   "3b069a1a704e2dfc": 1790055317,
   "3b0a1c0fd0ac8fae": 1789960215,
   "3b0c3e4ebdfd127f": 1790559622,
@@ -2613,6 +2634,7 @@
   "55e6d4b50800ec10": 1790060726,
   "5624251de8e3dd87": 1789627496,
   "5633b9d5c57b4b50": 1790044106,
+  "5637eeda4eeb5580": 1790571320,
   "5646736a2d51e5d4": 1790411416,
   "564b76a091ad3a7f": 1789627496,
   "564c30177f968b7a": 1790130924,
@@ -3214,6 +3236,7 @@
   "6dd3143ec459edb5": 1789696816,
   "6dd78816279deb41": 1790042975,
   "6dde5b4dc67a2a6f": 1789971183,
+  "6ddef1e300ba2d21": 1790571320,
   "6de9d8423f5cb2a8": 1789637719,
   "6decc3ce99a9e7c2": 1789965922,
   "6dee3c0c796dba3b": 1790247019,
@@ -4772,6 +4795,7 @@
   "ac204d9989416a46": 1789965314,
   "ac37df33236657d2": 1789629088,
   "ac3bc53c08c10704": 1790178324,
+  "ac3d3a86ab419b65": 1790571320,
   "ac481f21c0f1f1f7": 1789713633,
   "ac5162623f5827b4": 1790564716,
   "ac5a70589a969a14": 1790123718,
@@ -4780,6 +4804,7 @@
   "ac89ecefbf0707c4": 1789943682,
   "ac90b967d8205ca9": 1790008517,
   "acaad25acda4e1c2": 1789894218,
+  "acb09c206653eb6f": 1790571320,
   "acb103dae7115fab": 1789980020,
   "acb5d914d8588370": 1790144115,
   "acc74a7c1cd118a6": 1789958121,
@@ -6990,7 +7015,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790569235,
- "last_msg_poll": 1790571274,
+ "last_msg_poll": 1790571571,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7032,7 +7057,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 13:54 KST",
+  "last_run": "2026-09-28 13:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
