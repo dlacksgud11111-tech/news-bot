@@ -226,6 +226,16 @@
    "t": "[기후환경 리포트] AI 데이터센터발 전기 충격‥RE100 \"한국에 두 가지 당부\" - MBC 뉴스",
    "ts": 1790548389,
    "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JN3ZIVDFkRzhBVEQzWXJSUDEzRWg1VlVVeFY2bXNLVEJENkJ0dzdmTVluSzdhRE9PY3VrZFZFYlN4Nk1QekpCMGtHSk95V0NMd1FVU0t6Q29NMEdjbWhfWlFYUjFxWENpclNacndVQkRzVlc2VGZnU1pB0gF6QVVfeXFMT0k3dkhUMWRHOEFURDNZclJQMTNFaDVWVVV4VjZtc0tUQkQ2QnR3N2ZNWW5LN2FET09jdWtkVkViU3g2TVB6SkIwa0dKT3lXQ0x3UVVTS3pDb00wR2NtaF9aUVhSMXFYQ2lyU1pyd1VCRHNWVzZUZmdTWkE?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴스홈(newshome)",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "데이터센터 전력 검토 37%가 반년 이상…AI 인프라 투자 발목 - 뉴스홈(newshome)",
+   "ts": 1790586170,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDcjczMGk0OEswTTg4NWYzM1VJRWRrWkJReWU2MmZDTEFRYXV4OFdRU3k0RERPR0Z3bXRSai1lTnRqMzduQlRmblFrajk1RWg1NEhXN01HVkx1X3l6RTRBSUJlb3B0RGJVdDZNcnhB?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1518,6 +1528,7 @@
   "2c9e078441ebfe59": 1789877422,
   "2ca5fbdb2e5f635c": 1789629150,
   "2ca8cc54b452df5d": 1790058917,
+  "2cab7ba6de33a5f4": 1790608522,
   "2cb038ee822e2884": 1789977618,
   "2cb14ae500887713": 1789951988,
   "2cb94a72f8981d42": 1789720817,
@@ -7418,7 +7429,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790606428,
- "last_msg_poll": 1790608469,
+ "last_msg_poll": 1790608772,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7460,7 +7471,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 00:14 KST",
+  "last_run": "2026-09-29 00:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
