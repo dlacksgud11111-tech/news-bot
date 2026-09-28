@@ -356,6 +356,26 @@
    "t": "[위크픽 클라우드] 데이터센터 ‘전력 사전 검토’만 수년 소요…구글, 우주 TPU 실증 - 아이티데일리",
    "ts": 1790584520,
    "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPX041MVVXaV9LZ2VSbzBLTHdLeXA3N1hpaVZlRHhQSnE5cDBqaDdNel9pYmQzNF9FQk1yVUdydjlwUXZCZGZWaWZfaGxQelJ4ak00bnRGSEI5TENyNU0wLTBUWTd5ZUE?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "POWER Magazine",
+   "sc": 2,
+   "sec": "건설·플랜트",
+   "t": "From Underground Heat to Reliable Power: Engineering Geothermal for the Field",
+   "ts": 1790589870,
+   "u": "https://www.powermag.com/from-underground-heat-to-reliable-power-engineering-geothermal-for-the-field/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "한국경제",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "포항, AI 데이터센터 투자 거점으로 뜬다 - 한국경제",
+   "ts": 1790589475,
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50X200NjZZRXBncVowSGY5N1diSEdlemt6R2RVcTBWa3BWbm93ME5TUzY0Y081V25EemhqVGlYNTN0dy1fUi1od1Qzd0oxQVl4WkpBMzFHR2piZw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2882,6 +2902,7 @@
   "56ee9ac94bf964ec": 1789784418,
   "56f67544e7c353f6": 1790395516,
   "56f87f9f74641ff8": 1790197378,
+  "570206389a17d640": 1790589919,
   "57098a42ce876c19": 1789627496,
   "570c6e3b0255b6d9": 1790553879,
   "570e9784814399be": 1790178916,
@@ -6701,6 +6722,7 @@
   "e4744615536a6e1d": 1789873818,
   "e4834de6a58ec48f": 1790557916,
   "e48c3c94e865a48c": 1789627496,
+  "e493b1c388130d65": 1790589919,
   "e4a1bab32050ce3f": 1790127320,
   "e4a25e9cf233965d": 1790556791,
   "e4a7ede6f5bccc48": 1789627496,
@@ -7108,6 +7130,7 @@
   "f2bbce3c3c47e0b9": 1790226321,
   "f2c4ddead1a86ebc": 1790555020,
   "f2ce077b142224a2": 1789951988,
+  "f2d92cf076f8dd0c": 1790589919,
   "f2da9a5888aa3dbb": 1790267598,
   "f2e7a22438287d5b": 1789627496,
   "f2ecbae9e3f43831": 1790384721,
@@ -7476,7 +7499,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790584233,
- "last_msg_poll": 1790589862,
+ "last_msg_poll": 1790590169,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7518,7 +7541,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 19:04 KST",
+  "last_run": "2026-09-28 19:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
