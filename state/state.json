@@ -471,6 +471,16 @@
    "t": "[이슈&트렌드] AI 시대 왜 배터리가 주목받나 - v.daum.net",
    "ts": 1790581740,
    "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmZEo2WF9SQXlRaGlZOEh4cEQ2Ujh4bXFTTVJBNzMxaU5JMy0wRGlaZEppUTN1dHJ4bmhCaVBtVG9ka2M0QmlyZGd5MG1pVVE?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 5,
+   "sec": "건설·플랜트",
+   "t": "Power Electronics starts construction on 40 GW U.S. factory",
+   "ts": 1790582314,
+   "u": "https://www.pv-magazine.com/2026/09/28/power-electronics-starts-construction-on-40-gw-u-s-factory/"
   }
  ],
  "clip_titles": [],
@@ -3121,6 +3131,7 @@
   "5c9ffb6222bb1a79": 1790556223,
   "5ca0e5854ae7bae4": 1789705521,
   "5cab1f4744ae285c": 1789627496,
+  "5cac8755e6e8ffac": 1790582421,
   "5cb2f607b0cd5ec7": 1789627496,
   "5cb66a164bdbc7a2": 1789627496,
   "5cc0d3c38a5e4d77": 1790284148,
@@ -7483,7 +7494,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790576844,
- "last_msg_poll": 1790582369,
+ "last_msg_poll": 1790582671,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7525,7 +7536,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 16:59 KST",
+  "last_run": "2026-09-28 17:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
