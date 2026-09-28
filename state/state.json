@@ -155,6 +155,10 @@
   [
    1790588718,
    "수주잔고 ‘4조 시대’ 연 대한전선...초고압"
+  ],
+  [
+   1790635520,
+   "SPP’s ‘stop-gap’ resource adequacy plan for Western balancing area panned at FERC"
   ]
  ],
  "alerted": {
@@ -193,9 +197,10 @@
   "ca425dae1bd2590b": 1790059817,
   "cdaa54f68b0563fa": 1789658129,
   "d09dd25c4f4edf8d": 1790174132,
+  "deb2e9eb313eef4a": 1790635520,
   "fe7b17c162f91919": 1790498127
  },
- "alerted_today": 0,
+ "alerted_today": 1,
  "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
@@ -2518,6 +2523,7 @@
   "4e452a837eccbc35": 1790076625,
   "4e4a1c1cf368c314": 1790226628,
   "4e542cc5daa30b24": 1789627496,
+  "4e65a7cd258991c1": 1790635521,
   "4e7af4c25ceebfa5": 1790001429,
   "4e7ce12a7af7a0f7": 1789951430,
   "4e9e9f86a8f7ec30": 1790571928,
@@ -7435,7 +7441,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790632831,
- "last_msg_poll": 1790635454,
+ "last_msg_poll": 1790635766,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7479,7 +7485,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 07:44 KST",
+  "last_run": "2026-09-29 07:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
