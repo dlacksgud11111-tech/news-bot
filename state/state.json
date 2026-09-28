@@ -281,6 +281,26 @@
    "t": "현대엔지니어링, 군산 SGC AI 데이터센터 수주… 전담조직 신설 6개월 만 - 솔루션뉴스",
    "ts": 1790578013,
    "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CVEhScWhLaHA5WUlDbklHWURsMzVtZkV0RzJULVYwXy1BYnhHZHJ1REFtYTBRdnNDWDd4dGJZd0VubWdrUkpFX01KVDNQbnF4TzJFdy14MkRwdUhtWDIwS3FjeEtuTFdRd3Nj?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 3,
+   "sec": "재생에너지·ESS",
+   "t": "TCL Solar launches new back-contact, double-glass module line",
+   "ts": 1790579420,
+   "u": "https://www.pv-magazine.com/2026/09/28/tcl-solar-launches-new-back-contact-double-glass-module-line/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "한국NGO신문",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "충남 AI데이터센터 ‘유치 경쟁’에 반발…환경단체 “전력·물부터 따져야” - 한국NGO신문",
+   "ts": 1790578799,
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qUnQtX01EQlptUktZd2FweFczMG1WR3ZvVEtQenlMVDY0TkI0SWJSNjFrNnhVMEZNbkIyVnE3X244TGNzYkZKdWtaX2lIclphZ3QtTjRxSEdSeGU1dWxEVHZEemRaNWhH?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3998,6 +4018,7 @@
   "85ec5d041543ff78": 1790559622,
   "85f34e243ad34824": 1790134817,
   "860c99e317601fa3": 1789629923,
+  "8616b2a9ecd9ce5a": 1790579781,
   "86393f8ccb4aa3fd": 1789627496,
   "865e6bdbcd404fc8": 1789705521,
   "865ec0fa44175624": 1789971751,
@@ -4623,6 +4644,7 @@
   "a0727d45f1c9c3eb": 1790042395,
   "a077e318bcd7913b": 1790042395,
   "a08439b140ecc01a": 1790485644,
+  "a086806ade0ef4f1": 1790579781,
   "a087e691e607f6a3": 1790122580,
   "a08b648f74f3a466": 1789637719,
   "a097e572bcd183ff": 1789859418,
@@ -6079,6 +6101,7 @@
   "d47110f4bb098246": 1789698990,
   "d47a659c22841e40": 1790042975,
   "d47db4ccae7a1b49": 1789699582,
+  "d48593e800333d08": 1790579781,
   "d48631caa7a7927d": 1790341651,
   "d4879c40a437b808": 1790145582,
   "d48cba00f4965c2d": 1789629088,
@@ -6557,6 +6580,7 @@
   "e742d172bcc961b5": 1789629923,
   "e7503289e4424890": 1789627496,
   "e7529abd89e207b7": 1790473831,
+  "e7531ad595537db2": 1790579781,
   "e7793003ffca0063": 1789627496,
   "e77ab89e19913aca": 1789980020,
   "e78775ba21b54947": 1789951430,
@@ -7234,7 +7258,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790576844,
- "last_msg_poll": 1790579444,
+ "last_msg_poll": 1790580023,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7276,7 +7300,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 16:10 KST",
+  "last_run": "2026-09-28 16:20 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
