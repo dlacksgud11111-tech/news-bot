@@ -356,6 +356,16 @@
    "t": "[윤희영의 News English] 데이터센터 어디에 지을까… AI도 대답 못하네 - 조선일보",
    "ts": 1790606100,
    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcWd4YWpISUZFUmhDM1pyN2VsN3FkR3hLcm1hZnU3cnpqVWtjaDVjbTRlMExkenRpQWpfZ0c0dTdneFA5MHRUS2lhd0xOTUJicGFkako4ZGVpS1BLcHQ1ZTZTZzZrNlVua2FORUV1YmFJZEVWQU43ZTg5eUVhaWlad1BOeFVrd0VETTNISG4zMTk?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "ppss.kr",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "충남 AI데이터센터 620MW 추진…환경단체 “유치 경쟁 멈춰야” - ppss.kr",
+   "ts": 1790583797,
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XbDR0bXNkdVpOWFZYQ1QwOGdnOEE4dExacUFfdjZrUXBfUWZ4Q0NCekxEUlgtOEF2MktpSEtra2JuODhhalBjUUtFYmlUWlpCd3JOd25UUHRtbzRqZ2ZNMVZTVUI?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3650,6 +3660,7 @@
   "71990700c65f7fb7": 1789736415,
   "71ac5f734948ed61": 1790055920,
   "71b2d175e645c49f": 1789693531,
+  "71c1362ada62134c": 1790628021,
   "71c7d736b77e6db4": 1789627496,
   "71cd01aa93e63f78": 1789627496,
   "71dc3fdde8830e34": 1790031917,
@@ -3957,6 +3968,7 @@
   "7ca41eaf506f8b34": 1790580923,
   "7ca965c2f67ae703": 1790056218,
   "7cb002d8d86ef101": 1790057120,
+  "7cbe8c2aac072252": 1790628021,
   "7cbe9a3f886ed5a7": 1790037157,
   "7cc34ce63721b462": 1789627496,
   "7cc8203a8e96c931": 1789702817,
@@ -7567,7 +7579,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790606428,
- "last_msg_poll": 1790627695,
+ "last_msg_poll": 1790628261,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7609,7 +7621,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 05:34 KST",
+  "last_run": "2026-09-29 05:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
