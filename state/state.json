@@ -256,6 +256,26 @@
    "t": "Urgent need for cybersecurity overhaul as BESS deployment accelerates, Energy Storage Europe says",
    "ts": 1790586180,
    "u": "https://www.energy-storage.news/urgent-need-for-cybersecurity-overhaul-as-bess-deployment-accelerates-energy-storage-europe-says/"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "인사이트N파워",
+   "sc": 16,
+   "sec": "전력기기",
+   "t": "LS일렉트릭 초고압 변압기 공장에 ‘로봇개’ 투입 “설비 이상 미리 잡는다” - 인사이트N파워",
+   "ts": 1790604227,
+   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XREYwQ3FDanotNVRtTDYzQTdVcDVBUXlpd20wRV9KMnM5WFlLOGNFMGozVnNBVkF3Q1I2ZldSdXl0cEFfQXJTbjRYbkdGdXlJTDdzRmlxZTZscHh6VDJURlJtaGM3Zw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "온라인가스저널",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "두산퓨얼셀, 미국 AI 데이터센터 전력시장 진출 - 온라인가스저널",
+   "ts": 1790602656,
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rZEh1QW9SVDllOWowYUZ4TkxoVzFZZGlZRVNDanBzNVFmcVdEbndXXzlENWVJeDEzV28xYndjMkdZOFh5bm5CbjNVbTRjQ2lWSGtLTnhFTTRZdjlWMjd3a1Q2cFpUUWdG?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2190,6 +2210,7 @@
   "4202c0ed6300d2aa": 1790053820,
   "420bc8105dfe0280": 1789951988,
   "42129bd7b56cb5b9": 1789954905,
+  "42258f47e118d598": 1790604618,
   "4235f9c27e1472e6": 1789981231,
   "423dd262fb2385ca": 1790134817,
   "423e4e81bffcc4b2": 1790197952,
@@ -6488,6 +6509,7 @@
   "de91e5cc43120f0d": 1790132720,
   "dea208043c1c7819": 1789635327,
   "dea4ac114188807e": 1789627496,
+  "deab30d2989a1bcc": 1790604618,
   "deaffe85e1810d9d": 1790044106,
   "debebc1172b0174e": 1790140529,
   "dece5565e6773f0e": 1790060129,
@@ -7426,7 +7448,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790599052,
- "last_msg_poll": 1790604565,
+ "last_msg_poll": 1790604858,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7468,7 +7490,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 23:09 KST",
+  "last_run": "2026-09-28 23:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
