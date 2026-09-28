@@ -376,6 +376,26 @@
    "t": "포항, AI 데이터센터 투자 거점으로 뜬다 - 한국경제",
    "ts": 1790589475,
    "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50X200NjZZRXBncVowSGY5N1diSEdlemt6R2RVcTBWa3BWbm93ME5TUzY0Y081V25EemhqVGlYNTN0dy1fUi1od1Qzd0oxQVl4WkpBMzFHR2piZw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 5,
+   "sec": "재생에너지·ESS",
+   "t": "Key takeaways from Solar & Storage Live UK, Birmingham",
+   "ts": 1790590807,
+   "u": "https://www.pv-magazine.com/2026/09/28/key-takeaways-from-solar-storage-live-uk-birmingham/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "데이터센터 18.4GW 짓는다는 정부… “수요 절반은 뻥튀기” [심층기획-수도권 AI데이터센터 난립 논란] - v.daum.net",
+   "ts": 1790590394,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYV204eTNRX01VUVZlWS1hV2p1NGRPTmJjTEVJNTljWS1fWTMwelpjdkxmcGJwUFhZM3U2OWpmc0ZxNkJzUUNoTnRhVldzZDA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3541,6 +3561,7 @@
   "6dfc58aaea0f9173": 1790581516,
   "6dfe2ff2aa5aeb7a": 1789627496,
   "6e07fb55b0e7e772": 1790386516,
+  "6e0b0c7a11de9a28": 1790590818,
   "6e1aedebd3ca6d7e": 1789693531,
   "6e1e893d86f999af": 1789627496,
   "6e22d8640b555904": 1790040917,
@@ -3765,6 +3786,7 @@
   "76e2e0902ad2e332": 1790037737,
   "76ebec183f5c50c5": 1790067063,
   "76ec54200edb8f3c": 1789629088,
+  "7702db6990028935": 1790590818,
   "7708c3a1c4879ffe": 1789866315,
   "770bf96c4597292b": 1789627496,
   "770f648e54e29382": 1790560518,
@@ -5047,6 +5069,7 @@
   "a817d08bae454aad": 1789892428,
   "a81911d413223c66": 1789629088,
   "a8248e91b85092a6": 1789875319,
+  "a8282b98aa58a14b": 1790590818,
   "a836ba5215dc8dcb": 1790307321,
   "a83b1a2120142a4d": 1790136320,
   "a83da74c12026d8c": 1790259020,
@@ -7500,7 +7523,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790584233,
- "last_msg_poll": 1790590774,
+ "last_msg_poll": 1790591067,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7542,7 +7565,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 19:19 KST",
+  "last_run": "2026-09-28 19:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
