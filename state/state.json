@@ -281,6 +281,16 @@
    "t": "KT, 글로벌 해저 케이블 수주 6배 '껑충'…全공간 네트워크 기업 도약 가속",
    "ts": 1790585553,
    "u": "https://www.etnews.com/20260928000384"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 10,
+   "sec": "데이터센터·AI전력",
+   "t": "Energy storage strategies for the data center power chain",
+   "ts": 1790587662,
+   "u": "https://www.datacenterdynamics.com/en/whitepapers/energy-storage-strategies-for-the-data-center-power-chain/"
   }
  ],
  "clip_titles": [],
@@ -5021,6 +5031,7 @@
   "aa606d4e360cf56e": 1790473215,
   "aa777d863240960d": 1789960531,
   "aa7a4e13f8d181fa": 1789635016,
+  "aa80424852d002c3": 1790587832,
   "aa928a6c35f2a9ae": 1789629088,
   "aa9db6ce04662113": 1790065913,
   "aac193ad6419e79d": 1790475926,
@@ -7392,7 +7403,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790584233,
- "last_msg_poll": 1790587765,
+ "last_msg_poll": 1790588073,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7434,7 +7445,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 18:29 KST",
+  "last_run": "2026-09-28 18:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
