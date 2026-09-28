@@ -301,6 +301,16 @@
    "t": "반세기 노하우로 ‘HVDC 국산화’… 효성重, 창원서 ‘글로벌 톱3’ 길 연다 - v.daum.net",
    "ts": 1790587723,
    "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GZTgxMWlwc25DVENIb1dNRWFMb3psWFNDWWhZVlYzSjZUZ2E0MEp0bXdCd2xwejgtQ3VCOFZXYnYwQndQdkxwMXVtcjl1bmM?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "기계설비신문",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "어기구 의원, “데이터센터 63% 수도권 집중…전력공급 검토만 2년” - 기계설비신문",
+   "ts": 1790588122,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXWV9HUTVSYW9iMVREUzNWbTltWFVyTUNGbUdPVkw5eHlfU1FHVldocDJiZk9lT2RJeUFlaW96QkR2cjJMRFpmdFBxNEdXUkhEUndCUUdtUndJZGxITDV5OUtHWVRqYzFISWRtZg?oc=5"
   }
  ],
  "clip_titles": [],
@@ -6123,6 +6133,7 @@
   "d0dbd93034712a1f": 1789862827,
   "d10348fe2508df29": 1789705521,
   "d10c660d40206840": 1790476519,
+  "d11dbec961d11639": 1790588419,
   "d12a0b987f697385": 1789708498,
   "d13b11be28685acd": 1790559053,
   "d13d122b09597a8e": 1789647317,
@@ -7416,7 +7427,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790584233,
- "last_msg_poll": 1790588367,
+ "last_msg_poll": 1790588669,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7458,7 +7469,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 18:39 KST",
+  "last_run": "2026-09-28 18:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
