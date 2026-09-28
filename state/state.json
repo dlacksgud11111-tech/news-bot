@@ -296,6 +296,16 @@
    "t": "[단독] 2026년 데이터센터 신청 88건 ‘역대 최대’ - v.daum.net",
    "ts": 1790596833,
    "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HN2xDU2pVYVM2RVJyNVY0SG1XTUZiR21vQ0I2TUNFWlZqanplR0FjV2JrZXhZeElldnE5Y3NJYzNPMVg2SHZhVVYzemRYUUk?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "\"전력 수요 매년 30% 폭증\"… K전력기기 '빅3' 일감 43조 쌓여 - v.daum.net",
+   "ts": 1790584740,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wUVFXdkEtQmsyNkJtWm5rQjdFdVIwU0RyMnJERjZqUEk1dFN4X2Q4dGV3UHFoYkw2bklhYzUtRDhSQjl5RGhTMkF1UW9Vbm8?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1829,6 +1839,7 @@
   "34bbc10657f682fa": 1790048746,
   "34d7ff38321cfafd": 1789727277,
   "34d84760f5dcc286": 1790035999,
+  "34d9c6bc4296be85": 1790597913,
   "34ddbfa06e22c989": 1789627496,
   "34e4aee058dcc3ca": 1789953163,
   "34e874e5a971494e": 1789629088,
@@ -2301,6 +2312,7 @@
   "445db6b4a14ab527": 1790123718,
   "44654c08646342e7": 1790035428,
   "4470cab42cdf2d7c": 1789630519,
+  "44720456d1e500f8": 1790597913,
   "447ad5a88e27e116": 1790047038,
   "44840ced1f1ca80e": 1789693531,
   "448f18bfd53a7f84": 1790025209,
@@ -6177,6 +6189,7 @@
   "d1c82ad93b3be218": 1789979721,
   "d1cb57cf2e672898": 1790154617,
   "d1d0cd2ac6d40e5e": 1790560231,
+  "d1dd7010a773804b": 1790597913,
   "d1dd944d53a27a20": 1789627496,
   "d1fadea4d8432806": 1789949125,
   "d1fc0a6e0595b6c0": 1789967119,
@@ -7155,6 +7168,7 @@
   "f5c34338e8521a25": 1790045289,
   "f5ca33327b26d25d": 1789873818,
   "f5e176b4e2f52283": 1790044716,
+  "f5e34fe6ae6b22f4": 1790597913,
   "f5e940c3daa4b00d": 1789950278,
   "f5f2c4b8cd92de0b": 1789731934,
   "f5f959cf197f62bf": 1790457028,
@@ -7448,7 +7462,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790591719,
- "last_msg_poll": 1790597579,
+ "last_msg_poll": 1790598163,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7490,7 +7504,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 21:12 KST",
+  "last_run": "2026-09-28 21:22 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
