@@ -196,218 +196,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 4,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "smartbizn.com",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "현대엔지니어링, 6개월 만에 1.9조 '데이터센터 수주'···AI 인프라 정조준 - smartbizn.com",
-   "ts": 1790581718,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XZGpoSlU5azJYYnVBa0h5SlFTYVFlbnV1bldHR1RVa2FSYi1zTGhqeGVQenViQXBDYkZaTE4tTlRjX1dMcGdmR0FsYk80dzQ2Wnl6R1d1dE8xR0hBaEkxOHUwaHU1Z0szUFdjRg?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 2,
-   "s": "뉴스와이어",
-   "sc": 8,
-   "sec": "데이터센터·AI전력",
-   "t": "LS일렉트릭, 데이터센터 패키지 솔루션으로 아세안 시장 정조준 - 뉴스와이어",
-   "ts": 1790562931,
-   "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JaHdXakdpOTJUUzJkRm4weHZaQ2ZzRm9xcmtoV1lrNUNMazJJbHVyTjRBYTk5WXYzUUlIWTZVVUpSN1ZZSGJpZWtZbVBvaDVRZ3NIR0FhWElKdE5oNExz?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "알파경제",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "현대엔지니어링, 군산 AI 데이터센터 신축 수주…8700억원 규모 - 알파경제",
-   "ts": 1790562451,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByNXVFZUlNV0VJWEJ6RVVLMzdQMC1PZzdnZHZaTUJQbG9RbTVGOHdPSV9DTUhvMWtHbWFwcklyQnRzVHRMX3VKQlFabU1zcWFCbGlHOFRGbm5YTUsyNlBid0VVdTZ3QkdaYWF2RHJ3?oc=5"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "매일경제 : 경제",
-   "sc": 9,
-   "sec": "유틸리티·정책",
-   "t": "한전 전봇대 절반이 '무단설치'… 4년간 156억 물어줬다",
-   "ts": 1790585135,
-   "u": "https://www.mk.co.kr/news/economy/12162965"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 3,
-   "sec": "유틸리티·정책",
-   "t": "지역난방公, 세종시 재생열 활용 사업 모델 구축 추진",
-   "ts": 1790614460,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303563"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "충남 인공지능 데이터센터 잇단 추진… 전력·용수 부담 따져야 - v.daum.net",
-   "ts": 1790585039,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSY1pYb09RRnA3X2FYOWxaVm1mT2g2X1pIbHNIRGl4NXNEMmxJN3Q3ZVI3aHZpanZpa2NicGVDR01MOExqYXJ5dkZ2REJabTg?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 3,
-   "sec": "재생에너지·ESS",
-   "t": "Global solar additions hit 690 GW in 2025",
-   "ts": 1790586138,
-   "u": "https://www.pv-magazine.com/2026/09/28/global-solar-additions-hit-690-gw-in-2025/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 5,
-   "sec": "재생에너지·ESS",
-   "t": "Tongwei launches TNC 2.0 FULLX G12R-48 rooftop solar module with 24.5% efficiency",
-   "ts": 1790586000,
-   "u": "https://www.pv-magazine.com/2026/09/28/tongwei-launches-tnc-2-0-fullx-g12r-48-rooftop-solar-module-with-24-5-efficiency/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 10,
-   "sec": "전력기기",
-   "t": "KT, 글로벌 해저 케이블 수주 6배 '껑충'…全공간 네트워크 기업 도약 가속",
-   "ts": 1790585553,
-   "u": "https://www.etnews.com/20260928000384"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 10,
-   "sec": "데이터센터·AI전력",
-   "t": "Energy storage strategies for the data center power chain",
-   "ts": 1790587662,
-   "u": "https://www.datacenterdynamics.com/en/whitepapers/energy-storage-strategies-for-the-data-center-power-chain/"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 8,
-   "sec": "전력기기",
-   "t": "반세기 노하우로 ‘HVDC 국산화’… 효성重, 창원서 ‘글로벌 톱3’ 길 연다 - v.daum.net",
-   "ts": 1790587723,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GZTgxMWlwc25DVENIb1dNRWFMb3psWFNDWWhZVlYzSjZUZ2E0MEp0bXdCd2xwejgtQ3VCOFZXYnYwQndQdkxwMXVtcjl1bmM?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "기계설비신문",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "어기구 의원, “데이터센터 63% 수도권 집중…전력공급 검토만 2년” - 기계설비신문",
-   "ts": 1790588122,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXWV9HUTVSYW9iMVREUzNWbTltWFVyTUNGbUdPVkw5eHlfU1FHVldocDJiZk9lT2RJeUFlaW96QkR2cjJMRFpmdFBxNEdXUkhEUndCUUdtUndJZGxITDV5OUtHWVRqYzFISWRtZg?oc=5"
-  },
-  {
-   "co": "대한전선",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 34,
-   "sec": "전력기기",
-   "t": "수주잔고 ‘4조 시대’ 연 대한전선...초고압·해저케이블 ‘쌍끌이’",
-   "ts": 1790620741,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228593"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "hellodd.com",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "'물'로 식힌 데이터센터···바로AI, 열·소음 줄였다별도 서버실 없이 AI 활용 '손 안에' - hellodd.com",
-   "ts": 1790586000,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80bV9HY243bzN0YXB6c0ptQXF5TnlnOXlvb0dRUU8zUHJNWXJqVEJkZ0VicDdEUDdPcW5BdHZkRFlXU3IxVlYtRnF1YTNNSWdzYzhhUWNscU11YlJtS3ZXckN6b1hTN0lzUmc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "금강일보",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터 몰리는 충청…반대 목소리 ‘왜?’ - 금강일보",
-   "ts": 1790588621,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yVm9uRnAwdFVmRVRCUkpPdDd3THBfUmtmd0c0eWtoYVQ1a0VYSzRkUlZ4LW1HOWxITFVWQVhBbHYycjRUYXptcGt1MVpyTlIzNENMeTNraURpMXVqTHBUVi16aGp6STBHVXc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "아이티데일리",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "[위크픽 클라우드] 데이터센터 ‘전력 사전 검토’만 수년 소요…구글, 우주 TPU 실증 - 아이티데일리",
-   "ts": 1790584520,
-   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPX041MVVXaV9LZ2VSbzBLTHdLeXA3N1hpaVZlRHhQSnE5cDBqaDdNel9pYmQzNF9FQk1yVUdydjlwUXZCZGZWaWZfaGxQelJ4ak00bnRGSEI5TENyNU0wLTBUWTd5ZUE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "POWER Magazine",
-   "sc": 2,
-   "sec": "건설·플랜트",
-   "t": "From Underground Heat to Reliable Power: Engineering Geothermal for the Field",
-   "ts": 1790589870,
-   "u": "https://www.powermag.com/from-underground-heat-to-reliable-power-engineering-geothermal-for-the-field/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "한국경제",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "포항, AI 데이터센터 투자 거점으로 뜬다 - 한국경제",
-   "ts": 1790589475,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50X200NjZZRXBncVowSGY5N1diSEdlemt6R2RVcTBWa3BWbm93ME5TUzY0Y081V25EemhqVGlYNTN0dy1fUi1od1Qzd0oxQVl4WkpBMzFHR2piZw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 5,
-   "sec": "재생에너지·ESS",
-   "t": "Key takeaways from Solar & Storage Live UK, Birmingham",
-   "ts": 1790590807,
-   "u": "https://www.pv-magazine.com/2026/09/28/key-takeaways-from-solar-storage-live-uk-birmingham/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "데이터센터 18.4GW 짓는다는 정부… “수요 절반은 뻥튀기” [심층기획-수도권 AI데이터센터 난립 논란] - v.daum.net",
-   "ts": 1790590394,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYV204eTNRX01VUVZlWS1hV2p1NGRPTmJjTEVJNTljWS1fWTMwelpjdkxmcGJwUFhZM3U2OWpmc0ZxNkJzUUNoTnRhVldzZDA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "금강일보",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "충남환경단체 “AI 데이터센터 건립 재검토해야” - 금강일보",
-   "ts": 1790589438,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFMW02eVN3VzJvYWJtYVA4a2daVEYxSTNiX29lYXRmbkpWMWkzcE1rYnlFaFcwQ21pdzBaQUg5MlM4VGE5LUhBQ29TaUtMV1B6SFZNVmIxZ1V2MFF5YWU5NlQxTkxScU1uc0E?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "0003f98f6034d59c": 1790586316,
@@ -2910,6 +2699,7 @@
   "55cb0c44876670a4": 1790201443,
   "55dfdc15e14c4259": 1790550621,
   "55e6d4b50800ec10": 1790060726,
+  "561771e68458c8be": 1790591719,
   "5624251de8e3dd87": 1789627496,
   "5633b9d5c57b4b50": 1790044106,
   "5637eeda4eeb5580": 1790571320,
@@ -5111,6 +4901,7 @@
   "a8caf58458ceeac5": 1790045289,
   "a8cd23efc4c31718": 1790127933,
   "a8cda79e58903460": 1790141423,
+  "a8cf9d3c564eb79b": 1790591719,
   "a8d112f782e85470": 1790075118,
   "a8e9db93fcb68b54": 1790197952,
   "a8f28eac9ed812ad": 1789627496,
@@ -5510,6 +5301,7 @@
   "b6262c277889f6cb": 1790572796,
   "b62654bcdd9f41df": 1789974040,
   "b62903ef666035ad": 1790140218,
+  "b62fa75add6b3b5e": 1790591719,
   "b63f18f6c9d1df31": 1790265318,
   "b653d6160b637b11": 1790067063,
   "b65468ff76738486": 1790553316,
@@ -7533,8 +7325,8 @@
  },
  "companies_today": {},
  "day": "2026-09-28",
- "last_clip": 1790584233,
- "last_msg_poll": 1790591389,
+ "last_clip": 1790591719,
+ "last_msg_poll": 1790591964,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7576,7 +7368,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 19:29 KST",
+  "last_run": "2026-09-28 19:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
