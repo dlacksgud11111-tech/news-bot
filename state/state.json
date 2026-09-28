@@ -336,6 +336,16 @@
    "t": "'물'로 식힌 데이터센터···바로AI, 열·소음 줄였다별도 서버실 없이 AI 활용 '손 안에' - hellodd.com",
    "ts": 1790586000,
    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80bV9HY243bzN0YXB6c0ptQXF5TnlnOXlvb0dRUU8zUHJNWXJqVEJkZ0VicDdEUDdPcW5BdHZkRFlXU3IxVlYtRnF1YTNNSWdzYzhhUWNscU11YlJtS3ZXckN6b1hTN0lzUmc?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "금강일보",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터 몰리는 충청…반대 목소리 ‘왜?’ - 금강일보",
+   "ts": 1790588621,
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yVm9uRnAwdFVmRVRCUkpPdDd3THBfUmtmd0c0eWtoYVQ1a0VYSzRkUlZ4LW1HOWxITFVWQVhBbHYycjRUYXptcGt1MVpyTlIzNENMeTNraURpMXVqTHBUVi16aGp6STBHVXc?oc=5"
   }
  ],
  "clip_titles": [],
@@ -4040,6 +4050,7 @@
   "8224666e3837ddcb": 1789627496,
   "8229628b4499a1ee": 1790055013,
   "822de6d632f8e0eb": 1789701029,
+  "823395dc88673826": 1790589017,
   "823411ff4a74d392": 1789786534,
   "823cd91dc2e1c34c": 1790495120,
   "823e226ed25bd595": 1789942215,
@@ -7454,7 +7465,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790584233,
- "last_msg_poll": 1790588959,
+ "last_msg_poll": 1790589266,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7496,7 +7507,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 18:49 KST",
+  "last_run": "2026-09-28 18:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
