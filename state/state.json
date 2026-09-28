@@ -236,6 +236,26 @@
    "t": "현대엔지니어링, 8700억 군산 AI 데이터센터 수주…'2조 클럽' 정조준 - ebn.co.kr",
    "ts": 1790561757,
    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DdndqOXVDRHNSZ1VHc3g2YXVheWR6MC1ic1AxQ3IwNG9sZzBqN0lmYlVuVGJnVUY2YXJFVGdVRlctMXhQckRHd3Bhcmt0bDktTlpCMkdfSWJpTHJUZTB3MmZwdEwtWTdi?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "Rising air injection rates boost compressed air energy storage efficiency",
+   "ts": 1790592966,
+   "u": "https://www.pv-magazine.com/2026/09/28/rising-air-injection-rates-boost-compressed-air-energy-storage-efficiency/"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "[르포]“사막처럼 철저히 통제”…효성重, 2540억 투입 HVDC 변압기 신공장에 ‘국산화’도 속도 - v.daum.net",
+   "ts": 1790564546,
+   "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5UNVRZdlpnM1lOdmhsWGJFaGt0Z252ano1TEU1RHVxN2RuYndHTmlJRkZIUTNfckVSMnRZZHZQTlVoNU9iTlE?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2040,6 +2060,7 @@
   "3d31a7da293a307d": 1790047038,
   "3d3bcc9444569e39": 1789694436,
   "3d44c3c57a669fe3": 1789951430,
+  "3d4b444d4a80fa83": 1790593223,
   "3d5793ec2c8a8b48": 1790580923,
   "3d57dba129198893": 1789629088,
   "3d665cab57455c59": 1790557916,
@@ -3140,6 +3161,7 @@
   "63f6fa409ae285bf": 1790577419,
   "640c4a6d3f951e53": 1790052923,
   "641fe00a4d0a7f0c": 1789865116,
+  "642a12eb3cea7c9e": 1790593223,
   "642b41d332e4a7ae": 1789916965,
   "642c64c7798204bb": 1790206113,
   "642d710ba55ad428": 1790554448,
@@ -5459,6 +5481,7 @@
   "ba1836fbb6c4a2ab": 1790085997,
   "ba1880bff64f4e94": 1790120279,
   "ba3c1031e16667da": 1790146721,
+  "ba49e61490145652": 1790593223,
   "ba4ac90de40b4327": 1790562951,
   "ba4d1ead6d86b3c7": 1789637719,
   "ba61623f48fe8583": 1790586617,
@@ -7341,6 +7364,7 @@
   "fecfd81ace6d7f13": 1789997722,
   "fed1dd61cd15b102": 1790206680,
   "fee05038a61a095f": 1789700729,
+  "fee4c9bb54d47279": 1790593223,
   "fef19e4a141d0d59": 1789808455,
   "ff050b206c9492a8": 1790577994,
   "ff05432b996fa423": 1789636217,
@@ -7371,7 +7395,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790591719,
- "last_msg_poll": 1790593161,
+ "last_msg_poll": 1790593473,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7413,7 +7437,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 19:59 KST",
+  "last_run": "2026-09-28 20:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
