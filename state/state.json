@@ -266,6 +266,26 @@
    "t": "성남시, 내년 분당재건축 2만5천호 선정…'예비구역' 첫 도입",
    "ts": 1790593111,
    "u": "https://www.yna.co.kr/view/AKR20260928159900061"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "속보 - 이티뉴스",
+   "sc": 0,
+   "sec": "원전",
+   "t": "NST, 전기연·원자력연 신임 원장 선임",
+   "ts": 1790594376,
+   "u": "https://www.etnews.com/20260928000393"
+  },
+  {
+   "co": "일진전기",
+   "n": 1,
+   "s": "job-post.co.kr",
+   "sc": 22,
+   "sec": "전력기기",
+   "t": "일진전기 8만1600원 보합권…전력기기 수주잔고 주목 - job-post.co.kr",
+   "ts": 1790574421,
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE56YUJVWk1Zdnk0bDhHUnBWbW0zVHBYdFVlNWdFYi1NQm1uOHBMR2N5SG1kMElHTUkwZHV4M0xmamRxUGdaNjRzMFV0SVZQUHRBcndMZ2ExbmFRdG1SWlFoVG5BVktxMkt6Si1yUTFlOTVjQdIBckFVX3lxTE56YUJVWk1Zdnk0bDhHUnBWbW0zVHBYdFVlNWdFYi1NQm1uOHBMR2N5SG1kMElHTUkwZHV4M0xmamRxUGdaNjRzMFV0SVZQUHRBcndMZ2ExbmFRdG1SWlFoVG5BVktxMkt6Si1yUTFlOTVjQQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -5365,6 +5385,7 @@
   "b545208a69cd97bd": 1789698403,
   "b54fde8503965694": 1789979721,
   "b55c53c72ddda82a": 1789704919,
+  "b571edaedc213629": 1790595317,
   "b5828d570123fe13": 1789632918,
   "b583bbce33cd0fa3": 1790032819,
   "b58a461453622cd7": 1790558489,
@@ -5420,6 +5441,7 @@
   "b78cbc00331258c2": 1790496019,
   "b78f9a27b13b58d2": 1789716319,
   "b79516eba36f1cd5": 1790492713,
+  "b795de427262182e": 1790595317,
   "b7a9c656eade8d5c": 1790106934,
   "b7af533cd97c7858": 1790586617,
   "b7bbc04d76e7fb65": 1789627496,
@@ -7411,7 +7433,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790591719,
- "last_msg_poll": 1790595268,
+ "last_msg_poll": 1790595557,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7453,7 +7475,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 20:34 KST",
+  "last_run": "2026-09-28 20:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
