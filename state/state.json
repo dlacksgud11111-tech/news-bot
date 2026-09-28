@@ -296,6 +296,16 @@
    "t": "Europe's data center efficiency labeling scheme needs nuance, industry leaders warn",
    "ts": 1790611235,
    "u": "https://www.datacenterdynamics.com/en/analysis/europes-data-center-efficiency-labeling-scheme-needs-nuance-industry-leaders-warn/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 2,
+   "sec": "유틸리티·정책",
+   "t": "SPP’s ‘stop-gap’ resource adequacy plan for Western balancing area panned at FERC",
+   "ts": 1790605442,
+   "u": "https://www.utilitydive.com/news/spp-resource-adequacy-western-balancing-area-baa-ferc/831482/"
   }
  ],
  "clip_titles": [],
@@ -6554,6 +6564,7 @@
   "dea4ac114188807e": 1789627496,
   "deab30d2989a1bcc": 1790604618,
   "deaffe85e1810d9d": 1790044106,
+  "deb2e9eb313eef4a": 1790611820,
   "debebc1172b0174e": 1790140529,
   "dece5565e6773f0e": 1790060129,
   "ded38c69e30dd788": 1790042975,
@@ -7495,7 +7506,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790606428,
- "last_msg_poll": 1790611765,
+ "last_msg_poll": 1790612072,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7537,7 +7548,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 01:09 KST",
+  "last_run": "2026-09-29 01:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
