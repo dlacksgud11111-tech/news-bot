@@ -256,6 +256,16 @@
    "t": "[르포]“사막처럼 철저히 통제”…효성重, 2540억 투입 HVDC 변압기 신공장에 ‘국산화’도 속도 - v.daum.net",
    "ts": 1790564546,
    "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5UNVRZdlpnM1lOdmhsWGJFaGt0Z252ano1TEU1RHVxN2RuYndHTmlJRkZIUTNfckVSMnRZZHZQTlVoNU9iTlE?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스 경제 최신기사",
+   "sc": 0,
+   "sec": "건설·플랜트",
+   "t": "성남시, 내년 분당재건축 2만5천호 선정…'예비구역' 첫 도입",
+   "ts": 1790593111,
+   "u": "https://www.yna.co.kr/view/AKR20260928159900061"
   }
  ],
  "clip_titles": [],
@@ -4181,6 +4191,7 @@
   "89eebcbcfcd266e6": 1790255484,
   "8a0c2578dc01b23f": 1789977032,
   "8a388125049cf2f3": 1790426529,
+  "8a42db1909e136f8": 1790593531,
   "8a47289d6acb3092": 1790127933,
   "8a5dba0eb7a94e86": 1790118021,
   "8a61317f1738ac01": 1789720817,
@@ -7395,7 +7406,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790591719,
- "last_msg_poll": 1790593473,
+ "last_msg_poll": 1790593772,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7437,7 +7448,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 20:04 KST",
+  "last_run": "2026-09-28 20:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
