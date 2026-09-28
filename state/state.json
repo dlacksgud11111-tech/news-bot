@@ -196,7 +196,48 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 4,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Russian drones hit Kyivstar HQ, Vodafone data center in Ukraine",
+   "ts": 1790592355,
+   "u": "https://www.datacenterdynamics.com/en/news/russian-drones-hit-kyivstar-hq-vodafone-data-center-in-ukraine/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "Italy raises Macse energy storage auction premium cap from €22,000 to €27,000/MWh",
+   "ts": 1790592099,
+   "u": "https://www.pv-magazine.com/2026/09/28/italy-raises-macse-energy-storage-auction-premium-cap-from-e22000-to-e27000-mwh/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "서울경제",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "[만화경] 데이터센터의 전기요금 청구서 - 서울경제",
+   "ts": 1790585230,
+   "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wcUxRNUJ1bW1jOVZTYmNiT2M4RDVvNHB4T213ejBvamVRVFV5eU9HSFlkX25BYjdYNFR5S0VCcnFPcVZNRnBIZkxGNFZ6c3FoOHfSAVNBVV95cUxOQTJZMWg0dVJjWGRBXzFqOEEtb1FnMEZRYnRnWXVjM1VtS0RKY2pBUF9QS29xNjdZQUVUY2RueTVmMHlWWTBldTJaZl9ZRnZaX3hUTQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "ebn.co.kr",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "현대엔지니어링, 8700억 군산 AI 데이터센터 수주…'2조 클럽' 정조준 - ebn.co.kr",
+   "ts": 1790561757,
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DdndqOXVDRHNSZ1VHc3g2YXVheWR6MC1ic1AxQ3IwNG9sZzBqN0lmYlVuVGJnVUY2YXJFVGdVRlctMXhQckRHd3Bhcmt0bDktTlpCMkdfSWJpTHJUZTB3MmZwdEwtWTdi?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "0003f98f6034d59c": 1790586316,
@@ -696,6 +737,7 @@
   "1200469aff3dc3e4": 1790261116,
   "1208868d137d2970": 1790127933,
   "121abc36f0ca617c": 1790351129,
+  "123127ad93f3aeb1": 1790592618,
   "12313bca94393c9e": 1790037737,
   "12355ffd7dab6200": 1789680028,
   "1235eca66921d011": 1790572220,
@@ -887,6 +929,7 @@
   "18af3c8c371400b4": 1790008517,
   "18b10481d41a60f0": 1789974920,
   "18b5a50a19c35d74": 1789629315,
+  "18ba179534d576b5": 1790592618,
   "18bf0107d5ef09e1": 1790088308,
   "18c1332f598b432d": 1789969411,
   "18c335547ad41576": 1790568321,
@@ -2091,6 +2134,7 @@
   "4107c965dd3537b2": 1789976119,
   "4109dbf6a30b322d": 1790496322,
   "410d6522983ce820": 1789956049,
+  "411114cc86410fc0": 1790592618,
   "411389a76a21626c": 1790550621,
   "41340328adaf2567": 1790066475,
   "4136257e592a3875": 1790553316,
@@ -4081,6 +4125,7 @@
   "8905d13a0ade1083": 1789966821,
   "890f086354f2e9fd": 1789627496,
   "8913a2ac379751ea": 1789962027,
+  "8924889e97531aa8": 1790592618,
   "892cf1af52535122": 1790132132,
   "89394224f2871d15": 1790084279,
   "894bbd95398eb93c": 1789655729,
@@ -7326,7 +7371,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790591719,
- "last_msg_poll": 1790592301,
+ "last_msg_poll": 1790592867,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7368,7 +7413,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 19:45 KST",
+  "last_run": "2026-09-28 19:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
