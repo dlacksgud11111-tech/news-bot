@@ -256,6 +256,36 @@
    "t": "Re-engineering silicon and system design for AI-era workloads",
    "ts": 1790609444,
    "u": "https://www.datacenterdynamics.com/en/opinions/re-engineering-silicon-and-system-design-for-ai-era-workloads/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "Data center backup power contributes to health risks: report",
+   "ts": 1790610474,
+   "u": "https://www.utilitydive.com/news/data-centers-backup-power-contributing-to-health-risks-report-says/831507/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Goodman withdraws application for 90MW data center campus in Sydney, Australia",
+   "ts": 1790610154,
+   "u": "https://www.datacenterdynamics.com/en/news/goodman-withdraws-application-for-90mw-data-center-campus-in-sydney-australia/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "아이티데일리",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "[위크픽 클라우드] 데이터센터 ‘전력 사전 검토’만 수년 소요…구글, 우주 TPU 실증 - 아이티데일리",
+   "ts": 1790584520,
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOeTJTSUNsZEV0MUVvdl9ybWpqVExyUjFRWWo4Z2VEMXZZTDV6bE5FQ0ZjMFVOdTRwNE5MT25OVzF1TlNMQ0wzdXBMMTlRZ2ZnV2MyaVRxMFJQYUoxVjFSYVlyaVlUSmxV?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2537,6 +2567,7 @@
   "4d44397616fcc099": 1790475926,
   "4d462d1f5211e49c": 1789629088,
   "4d4e59ce52cfa8d1": 1789627496,
+  "4d5767baaf41d62c": 1790610617,
   "4d68ef0513499f18": 1790059817,
   "4d795190d8080597": 1789630519,
   "4d7a3ab808eb6de8": 1790559622,
@@ -3403,6 +3434,7 @@
   "6c60d1086582c6b0": 1789704620,
   "6c60e0e8772ee676": 1789893929,
   "6c612d2b19f5c177": 1789988958,
+  "6c6d63c2e0cecf18": 1790610617,
   "6c6f89048577372f": 1790064758,
   "6c78520be80c0859": 1790130924,
   "6c800801e6b091c2": 1789691718,
@@ -7084,6 +7116,7 @@
   "f2e7a22438287d5b": 1789627496,
   "f2ecbae9e3f43831": 1790384721,
   "f30cc617302802c4": 1790153718,
+  "f32ee410ebbe8b23": 1790610617,
   "f32ef9435088ca33": 1789627496,
   "f333858b0f311f86": 1789688119,
   "f3377d7ef4df9754": 1790116521,
@@ -7451,7 +7484,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790606428,
- "last_msg_poll": 1790610587,
+ "last_msg_poll": 1790610868,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7493,7 +7526,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 00:49 KST",
+  "last_run": "2026-09-29 00:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
