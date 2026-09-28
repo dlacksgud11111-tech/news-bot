@@ -193,7 +193,7 @@
   },
   {
    "co": "LS일렉트릭",
-   "n": 7,
+   "n": 8,
    "s": "Korea IT Times",
    "sc": 14,
    "sec": "데이터센터·AI전력",
@@ -233,7 +233,7 @@
   },
   {
    "co": "",
-   "n": 8,
+   "n": 9,
    "s": "뉴스락",
    "sc": 6,
    "sec": "데이터센터·AI전력",
@@ -523,7 +523,7 @@
   },
   {
    "co": "",
-   "n": 1,
+   "n": 2,
    "s": "데이터넷",
    "sc": 2,
    "sec": "데이터센터·AI전력",
@@ -610,6 +610,16 @@
    "t": "현대엔지니어링, 엔비디아 '베라루빈' 들어갈 군산 AI 데이터센터 짓는다 - fetv.co.kr",
    "ts": 1790558705,
    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81RUNDaFlBRDRzcE0xWnBJWXpreDZLZUFOZlZ1QjVrU3FXc1JBUmFZbjJ6SXVzYmltOV9yNmFLQVctOERfeklLWjlJWHdCYl84VGVwU3ZPM29CckdRd2RvODI1TXMwMnJZ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "당진시대",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "어기구 “전기 공급 답변만 2년…데이터센터 투자 발목” - 당진시대",
+   "ts": 1790558713,
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kNXhYUzE3WmdYWGpUcnpwOHpCdzVkWVNZVG9lUURweC12UlRydGg2SnpRYlI3ZlptWXIwRnk4QTg2UW1QZjM5b3FjcWpubjF0TmNnelIxYVAwUG1ZRnY3a3FLMDVaeTM4bGRj0gFvQVVfeXFMT0ljNGkyZlBVQUN3RFJNdVNQRUhYSW1OdzBXWmExUktzY2NONkpCbDZxMHhwZElOYzd4TVZGWEFfcnYxbjBhR2VodXQ5blA5OHR1cF9WU1dhRncwa2EyLWl1S2dzYTVWakp4S1BZWU93?oc=5"
   }
  ],
  "clip_titles": [],
@@ -689,6 +699,7 @@
   "02c8d2a3fc1c2bc0": 1790140218,
   "02cd0f9524e2dcbf": 1789725558,
   "02cd1df8c07e3b6c": 1790136320,
+  "02d268a94f40c79f": 1790560827,
   "02f65c64f70981ea": 1789959919,
   "02f8cc1f7faf87c5": 1790552453,
   "02fa75d6c7747074": 1789686930,
@@ -1572,6 +1583,7 @@
   "2578e70452f431a6": 1789980020,
   "257a60bee8a9ee61": 1790053220,
   "257e673ce5107b4e": 1789978220,
+  "257fac4f156e8696": 1790560827,
   "2582f3c8ba3c1b16": 1789951988,
   "258a4efa5b8ac6e0": 1789718720,
   "259a2da7441ff646": 1789629088,
@@ -1909,6 +1921,7 @@
   "3166608b349a0f22": 1789627496,
   "316874d143588b15": 1789627496,
   "316bcc326536011b": 1790048174,
+  "31762316baeaf5bd": 1790560827,
   "318ff20795e590ff": 1790031917,
   "3191d3b71bb227c4": 1789954905,
   "3194bb7d4cf3dd23": 1790038311,
@@ -2394,6 +2407,7 @@
   "43429e5e46bce350": 1789873818,
   "435d334146958499": 1790031917,
   "435f626e50fd7c5c": 1789805116,
+  "4363f91c50386fd0": 1790560827,
   "436573d426f77368": 1790062459,
   "4365a08655bfe61b": 1790150725,
   "4366b4a295198fb3": 1789629315,
@@ -3534,6 +3548,7 @@
   "701ad1930dff912c": 1790041522,
   "703422a41848848f": 1789632630,
   "70365077e683d1b0": 1790046448,
+  "705136b6c6097366": 1790560827,
   "7059f48c1762d7d0": 1789649116,
   "705b8e7b53b146c3": 1789972312,
   "705b903235f64bdc": 1789695321,
@@ -5715,6 +5730,7 @@
   "c7285b2c7fd2db36": 1790262336,
   "c72c8f73724de7f2": 1789949125,
   "c72f25ea451fd99e": 1789744015,
+  "c73013b0421bfa88": 1790560827,
   "c73914913451a932": 1789629088,
   "c73abb9981ed57a5": 1789731320,
   "c74285ed461d666a": 1789960827,
@@ -7141,7 +7157,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790554448,
- "last_msg_poll": 1790560765,
+ "last_msg_poll": 1790561076,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7183,7 +7199,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 10:59 KST",
+  "last_run": "2026-09-28 11:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
