@@ -180,7 +180,18 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 1,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "데일리경제",
+   "sc": 8,
+   "sec": "데이터센터·AI전력",
+   "t": "LS일렉트릭, 데이터센터 싱가포르 교두보..아세안 시장 공략 속도 - 데일리경제",
+   "ts": 1790569260,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TUjFvOGFZNnBfQms4V1FEVnBuM1hqN1J3enRRRk1HR1lqTUhCOUxWV1pqNmdvaF9XZHlUVjkwMjkyYk9vaFpGWXlCbEltZklXZ20zOVRSR1NPbDd5T0UxdnFqeEh1OTYxZ1VNeA?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "000ff3c62bde1524": 1790140828,
@@ -311,6 +322,7 @@
   "047fb5aed74f790c": 1789679129,
   "04841165540738f0": 1789999520,
   "048b3cc2f945f2c7": 1789959919,
+  "04b279a01c1b2e40": 1790569820,
   "04bc1bca3b3a61f0": 1789723516,
   "04d6e29d6b213f69": 1789641027,
   "04dd0dd52cee4dc6": 1790200290,
@@ -1433,6 +1445,7 @@
   "2e11fbf8bdb266bd": 1790146151,
   "2e1f1b97b326f05e": 1790298315,
   "2e2e5e4a6f3b71db": 1790334320,
+  "2e3323fb728b895f": 1790569820,
   "2e3cde5485452461": 1789859128,
   "2e452d1ca0f5cb86": 1789882514,
   "2e4a7298bbeed3a2": 1789634416,
@@ -2289,6 +2302,7 @@
   "4cd1c25d44cf2c0d": 1789637416,
   "4ce595d232a08a23": 1790034282,
   "4cf90d37e46596a0": 1790085997,
+  "4cfc1678967d7a3b": 1790569820,
   "4d1a2ad442906cf1": 1789715716,
   "4d1f54c5923d69a3": 1790122002,
   "4d23b13e301ff318": 1789720517,
@@ -4538,6 +4552,7 @@
   "a748d16f152755de": 1790392020,
   "a74a0cb215c625b9": 1790058015,
   "a751558205205b5f": 1790460804,
+  "a7600c3500d3132f": 1790569820,
   "a776c99517f53b50": 1789633213,
   "a78288c798dc271b": 1789627496,
   "a79f9b506ef37f81": 1790377829,
@@ -6876,7 +6891,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790569235,
- "last_msg_poll": 1790569766,
+ "last_msg_poll": 1790570071,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -6918,7 +6933,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 13:29 KST",
+  "last_run": "2026-09-28 13:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
