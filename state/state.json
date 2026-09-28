@@ -291,6 +291,16 @@
    "t": "Energy storage strategies for the data center power chain",
    "ts": 1790587662,
    "u": "https://www.datacenterdynamics.com/en/whitepapers/energy-storage-strategies-for-the-data-center-power-chain/"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 8,
+   "sec": "전력기기",
+   "t": "반세기 노하우로 ‘HVDC 국산화’… 효성重, 창원서 ‘글로벌 톱3’ 길 연다 - v.daum.net",
+   "ts": 1790587723,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GZTgxMWlwc25DVENIb1dNRWFMb3psWFNDWWhZVlYzSjZUZ2E0MEp0bXdCd2xwejgtQ3VCOFZXYnYwQndQdkxwMXVtcjl1bmM?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2899,6 +2909,7 @@
   "5a01aa8950d35fbb": 1790066475,
   "5a02b5e3acb6d19e": 1789630519,
   "5a1474b12694382e": 1790021430,
+  "5a18cf0538702312": 1790588118,
   "5a231c88f1ff9c72": 1790351715,
   "5a27b13430722351": 1790155516,
   "5a2c297f36f35131": 1790570118,
@@ -4882,6 +4893,7 @@
   "a51fc94a3cc5eea4": 1790146721,
   "a52855960b68cb6f": 1790122002,
   "a52dea358121f9c4": 1789713633,
+  "a52e675d2044bf6d": 1790588118,
   "a532765ef51840a6": 1790573944,
   "a53387072c82ade9": 1790185133,
   "a54a2fc34cea2240": 1789967119,
@@ -5615,6 +5627,7 @@
   "bed0c48dbec1db17": 1790415916,
   "bed14a10033e669c": 1789627496,
   "bee7fa11435f5bb7": 1790065913,
+  "bef4558662b4aabf": 1790588118,
   "bf11729aef8db5fe": 1790579195,
   "bf131973fc2ecb28": 1790300325,
   "bf1803ebbfdde8bd": 1789873818,
@@ -7403,7 +7416,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790584233,
- "last_msg_poll": 1790588073,
+ "last_msg_poll": 1790588367,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7445,7 +7458,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 18:34 KST",
+  "last_run": "2026-09-28 18:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
