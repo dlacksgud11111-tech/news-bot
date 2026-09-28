@@ -431,6 +431,26 @@
    "t": "현대엔지니어링, AI 데이터센터 새 먹거리로… \"연내 1.9조 수주 정조준\" - 프라임경제",
    "ts": 1790581284,
    "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQM0RBNy1IX3VFaVE5akNDcWdyai1kVVJfZ19POVlHcl9TREg1ZFhnaE9XemlDZzdUd2xpNmhwYWhuRlJXemNKcGdUUlFhc1BScHRRbFlJTEpYT1ZuZTBYQQ?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "한국면세뉴스",
+   "sc": 10,
+   "sec": "데이터센터·AI전력",
+   "t": "LS Electric Pitches Data Center Power Package as Singapore Adds Capacity - 한국면세뉴스",
+   "ts": 1790581450,
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uVkNUR0ZqSFlGd0d1SklTSmFlQ1Z5c2wwV3lkNnRxTHlDeU9WMGZKcWhmS09oZkVkN1lpY3BMVEEzXzROakhlMnZ1RXVONTkzTkFyYXhYcy12MVAwaG51WUdLYlJyb2kwaEE?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "ESG경제",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터가 부른 ‘원전 회귀’…투자는 급증전력·전력공급은 먼 미래 - ESG경제",
+   "ts": 1790575682,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00RHlsRVRab0tKazM5QjAwWjBfcm9LcjBSMVFpdGl1WmpZMEdIM3g5SkxfTGpGeDU5WXlxZTdxZWt1RHdHak9naERJdlVvN3pCeVYzTUpVTXRReHlrbXA0MDdNQ0JKYXdWTEdZOQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3625,6 +3645,7 @@
   "711b061aaba804fa": 1789691718,
   "712a9a82d153dac9": 1790399120,
   "712cddd4640c41d0": 1790049916,
+  "713c03e833e5ba56": 1790581819,
   "7149f04dd5144bdf": 1789959919,
   "714c3869ad36f10a": 1789966821,
   "7153e3feef35ba27": 1790122002,
@@ -5468,6 +5489,7 @@
   "b6dc173c9cb2f339": 1789943682,
   "b6e179870bed9559": 1790576273,
   "b6e8ebbc409a6f3d": 1789974322,
+  "b6ed9f26da143d4d": 1790581819,
   "b6edc0a017de7a6e": 1789627496,
   "b7005fb3384a2e87": 1790492713,
   "b70e0851bfc53a1f": 1790060726,
@@ -5629,6 +5651,7 @@
   "bcc27e12540e3a32": 1789679129,
   "bcc60a5e32a4268a": 1789681826,
   "bcd0fb626e3071e4": 1790055317,
+  "bcd140712ecd2f69": 1790581819,
   "bce6f0dbbf60bcd6": 1789688716,
   "bcee727e2afcb4d7": 1790208393,
   "bcee733ed795620f": 1789956616,
@@ -5693,6 +5716,7 @@
   "bf4d5cdbeb0a531f": 1790565330,
   "bf57a7b28961584d": 1790177723,
   "bf5d533c3f6cc9ed": 1790122002,
+  "bf605ca1cecf6260": 1790581819,
   "bf66f4897450ec8c": 1790327116,
   "bf694a4b9d9d9133": 1789801516,
   "bf7b9f103972e5f8": 1790478323,
@@ -6469,6 +6493,7 @@
   "dc55d91e415fe54c": 1790008517,
   "dc5c17d8a8875d1d": 1789853948,
   "dc658a90d2730a00": 1789769417,
+  "dc6d6ed8493e35e9": 1790581819,
   "dc9e867a15f6bb7a": 1789697120,
   "dcab20be85b3fde7": 1789709642,
   "dcab43b432ca0ff6": 1790456416,
@@ -6779,6 +6804,7 @@
   "e7f3cab0bcabe5fb": 1789894552,
   "e7f499a1e145caaa": 1790151015,
   "e7f89dd2e40cf34b": 1790122002,
+  "e7fdf7c74d048f55": 1790581819,
   "e7ff821d9be49bfe": 1789690229,
   "e81319572d1dde0c": 1789633820,
   "e8397a5dabb9a804": 1790052923,
@@ -7435,7 +7461,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790576844,
- "last_msg_poll": 1790581767,
+ "last_msg_poll": 1790582068,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7477,7 +7503,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 16:49 KST",
+  "last_run": "2026-09-28 16:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
