@@ -286,6 +286,16 @@
    "t": "[위크픽 클라우드] 데이터센터 ‘전력 사전 검토’만 수년 소요…구글, 우주 TPU 실증 - 아이티데일리",
    "ts": 1790584520,
    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOeTJTSUNsZEV0MUVvdl9ybWpqVExyUjFRWWo4Z2VEMXZZTDV6bE5FQ0ZjMFVOdTRwNE5MT25OVzF1TlNMQ0wzdXBMMTlRZ2ZnV2MyaVRxMFJQYUoxVjFSYVlyaVlUSmxV?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Europe's data center efficiency labeling scheme needs nuance, industry leaders warn",
+   "ts": 1790611235,
+   "u": "https://www.datacenterdynamics.com/en/analysis/europes-data-center-efficiency-labeling-scheme-needs-nuance-industry-leaders-warn/"
   }
  ],
  "clip_titles": [],
@@ -4178,6 +4188,7 @@
   "8768438c78d292d2": 1789631127,
   "876b93a95afb004c": 1790556223,
   "876bb814667f65b5": 1790566223,
+  "876e2b1a91786ff2": 1790611522,
   "8772e8c5f95faa2c": 1790521467,
   "8780fb48eab42abe": 1789946508,
   "8782daac67df6d92": 1790057120,
@@ -7484,7 +7495,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790606428,
- "last_msg_poll": 1790611463,
+ "last_msg_poll": 1790611765,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7526,7 +7537,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 01:04 KST",
+  "last_run": "2026-09-29 01:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
