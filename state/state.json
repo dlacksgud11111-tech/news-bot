@@ -5,7 +5,7 @@
   "LS일렉트릭|투자·증설": 1790126759,
   "LS전선|수주·계약": 1789713632,
   "Vertiv|투자·증설": 1790328618,
-  "대한전선|수주·계약": 1790059817,
+  "대한전선|수주·계약": 1790588718,
   "일진전기|수주·계약": 1790575672,
   "한국전력|수주·계약": 1790498127,
   "한전KPS|투자·증설": 1790146150,
@@ -151,6 +151,10 @@
   [
    1790575672,
    "일진전기 8만1600원 보합권…전력기기 수주잔고 주목"
+  ],
+  [
+   1790588718,
+   "수주잔고 ‘4조 시대’ 연 대한전선...초고압"
   ]
  ],
  "alerted": {
@@ -179,6 +183,7 @@
   "912a395478af1774": 1789713632,
   "9871a431b936c4f1": 1790146150,
   "99e9e19b28cb6dd8": 1789694435,
+  "9fb67ff934ff12d1": 1790588718,
   "a1ef802b6a371af0": 1790044106,
   "a35a79d408f8ec9f": 1789627493,
   "ac3bc53c08c10704": 1790178324,
@@ -190,7 +195,7 @@
   "d09dd25c4f4edf8d": 1790174132,
   "fe7b17c162f91919": 1790498127
  },
- "alerted_today": 3,
+ "alerted_today": 4,
  "clip_buffer": [
   {
    "co": "",
@@ -311,6 +316,26 @@
    "t": "어기구 의원, “데이터센터 63% 수도권 집중…전력공급 검토만 2년” - 기계설비신문",
    "ts": 1790588122,
    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXWV9HUTVSYW9iMVREUzNWbTltWFVyTUNGbUdPVkw5eHlfU1FHVldocDJiZk9lT2RJeUFlaW96QkR2cjJMRFpmdFBxNEdXUkhEUndCUUdtUndJZGxITDV5OUtHWVRqYzFISWRtZg?oc=5"
+  },
+  {
+   "co": "대한전선",
+   "n": 1,
+   "s": "에너지신문 - 전체기사",
+   "sc": 34,
+   "sec": "전력기기",
+   "t": "수주잔고 ‘4조 시대’ 연 대한전선...초고압·해저케이블 ‘쌍끌이’",
+   "ts": 1790620741,
+   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228593"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "hellodd.com",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "'물'로 식힌 데이터센터···바로AI, 열·소음 줄였다별도 서버실 없이 AI 활용 '손 안에' - hellodd.com",
+   "ts": 1790586000,
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80bV9HY243bzN0YXB6c0ptQXF5TnlnOXlvb0dRUU8zUHJNWXJqVEJkZ0VicDdEUDdPcW5BdHZkRFlXU3IxVlYtRnF1YTNNSWdzYzhhUWNscU11YlJtS3ZXckN6b1hTN0lzUmc?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2042,6 +2067,7 @@
   "3b25ec1c5a5c1b3f": 1790073620,
   "3b2b8cee070ffe0a": 1790141423,
   "3b2ca26d2177d5b2": 1790058619,
+  "3b2dbd1aec0a84c4": 1790588718,
   "3b369d86c40fd91e": 1789627496,
   "3b37e6b0add0e64b": 1790035428,
   "3b4f0e3d8bbe2d23": 1789959919,
@@ -4735,6 +4761,7 @@
   "9f8cc9c7ec851720": 1790053820,
   "9f98dc58a07d3d8a": 1789726695,
   "9f9affad8a2daf5a": 1790129120,
+  "9fb67ff934ff12d1": 1790588718,
   "9fb8a30fe6da450b": 1789969411,
   "9fc71687e41f6576": 1790246123,
   "9fd86959a5fd139e": 1789627496,
@@ -7427,7 +7454,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790584233,
- "last_msg_poll": 1790588669,
+ "last_msg_poll": 1790588959,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7469,7 +7496,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 18:44 KST",
+  "last_run": "2026-09-28 18:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
