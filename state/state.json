@@ -296,6 +296,16 @@
    "t": "Digital Realty to develop cable landing station in Los Angeles, California",
    "ts": 1790604704,
    "u": "https://www.datacenterdynamics.com/en/news/digital-realty-to-develop-cable-landing-station-in-los-angeles-california/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "에너지신문 - 전체기사",
+   "sc": 2,
+   "sec": "유틸리티·정책",
+   "t": "세종 하수처리장 열, 지역난방으로...‘버려진 에너지’ 활용",
+   "ts": 1790637380,
+   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228595"
   }
  ],
  "clip_titles": [],
@@ -1863,6 +1873,7 @@
   "359cd637e047f639": 1789780383,
   "359d4bf4537d4c31": 1789958121,
   "35a9e214e55a4f13": 1790042975,
+  "35adcc2d1e94c7fe": 1790605523,
   "35cf3e90daedb4aa": 1789691718,
   "35d90e32ed125cc1": 1789707615,
   "35de1002e120b507": 1789981231,
@@ -5761,6 +5772,7 @@
   "c21b214cedf7d76e": 1790246123,
   "c21f724d707d5f76": 1789987796,
   "c21f921928ec977a": 1789982120,
+  "c227c8933e143a24": 1790605523,
   "c22b0e203fc2b39a": 1790064758,
   "c22dc00606ac5a4e": 1789627496,
   "c2322eb01960d506": 1790587521,
@@ -7470,7 +7482,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790599052,
- "last_msg_poll": 1790605463,
+ "last_msg_poll": 1790605766,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7512,7 +7524,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 23:24 KST",
+  "last_run": "2026-09-28 23:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
