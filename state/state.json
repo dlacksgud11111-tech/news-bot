@@ -346,6 +346,16 @@
    "t": "AI 데이터센터 몰리는 충청…반대 목소리 ‘왜?’ - 금강일보",
    "ts": 1790588621,
    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yVm9uRnAwdFVmRVRCUkpPdDd3THBfUmtmd0c0eWtoYVQ1a0VYSzRkUlZ4LW1HOWxITFVWQVhBbHYycjRUYXptcGt1MVpyTlIzNENMeTNraURpMXVqTHBUVi16aGp6STBHVXc?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "아이티데일리",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "[위크픽 클라우드] 데이터센터 ‘전력 사전 검토’만 수년 소요…구글, 우주 TPU 실증 - 아이티데일리",
+   "ts": 1790584520,
+   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPX041MVVXaV9LZ2VSbzBLTHdLeXA3N1hpaVZlRHhQSnE5cDBqaDdNel9pYmQzNF9FQk1yVUdydjlwUXZCZGZWaWZfaGxQelJ4ak00bnRGSEI5TENyNU0wLTBUWTd5ZUE?oc=5"
   }
  ],
  "clip_titles": [],
@@ -918,6 +928,7 @@
   "147dfc43d3c37a4a": 1790492713,
   "147e4b7dc573219e": 1789627496,
   "14831c2dbfdc2862": 1790135116,
+  "14832f3bcee6b173": 1790589614,
   "1495602822e6d61a": 1790383280,
   "1496f5ac805d9623": 1790550917,
   "149bae1e1cfb97db": 1789653625,
@@ -7465,7 +7476,7 @@
  "companies_today": {},
  "day": "2026-09-28",
  "last_clip": 1790584233,
- "last_msg_poll": 1790589569,
+ "last_msg_poll": 1790589862,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7507,7 +7518,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-28 18:59 KST",
+  "last_run": "2026-09-28 19:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
