@@ -366,6 +366,16 @@
    "t": "충남 AI데이터센터 620MW 추진…환경단체 “유치 경쟁 멈춰야” - ppss.kr",
    "ts": 1790583797,
    "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XbDR0bXNkdVpOWFZYQ1QwOGdnOEE4dExacUFfdjZrUXBfUWZ4Q0NCekxEUlgtOEF2MktpSEtra2JuODhhalBjUUtFYmlUWlpCd3JOd25UUHRtbzRqZ2ZNMVZTVUI?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "이코노미톡뉴스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "한화오션, ‘육지 밖’ 데이터센터 띄운다…계열사 간 연계 가능성은? - 이코노미톡뉴스",
+   "ts": 1790627400,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZaC1ia2x4NzlOTHVuMnZKajJYQmF4R1h6OExPeE1BUlNlQlBmZEhtME1NeTJvM3VEWjB3Q2x2STBzWC15WklqcV9HamdkZVMtUVRVSHpLWTBXS3J1SzBBV01TSDJzdEdWWDA1RQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -7514,6 +7524,7 @@
   "fd9697ec2c0b8b7a": 1790314517,
   "fd99f14454433337": 1789859418,
   "fda36b739a75af5d": 1789965922,
+  "fdb4f559cece9288": 1790628315,
   "fdbf847ef23fcdce": 1790585120,
   "fdc836e660cb1dd4": 1789993527,
   "fdcdb1437c1741ac": 1789684520,
@@ -7579,7 +7590,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790606428,
- "last_msg_poll": 1790628261,
+ "last_msg_poll": 1790628557,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7621,7 +7632,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 05:44 KST",
+  "last_run": "2026-09-29 05:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065792,
