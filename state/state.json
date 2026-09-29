@@ -346,6 +346,16 @@
    "t": "美 공화당, 데이터센터 전기료 부담 방지법 표결…'민생 승부수' - 뉴시스",
    "ts": 1790672133,
    "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yVlJBR1drQk9zdXFFSmhaTTdYUzUtMEloY0E5MFNQY0JHYm5HeUNjdURzbDZsNFloY0pmTzQ4d1VTQWV2QWZaSGhRVW8tRU1NX0ZwNTQyRU84eHMzUUNVYdIBeEFVX3lxTE9ray02UnloT0huVHhlSVNPMEE4RXFfTEpvNFFaNTQ2Q3ZrTXl0WTFSbzdCTnBPRlhGQXdtVnctSS04M3I5TmlDeHVUbF9EX2lWRGplc2tCMDdzYXhrYzJfbVdsUnR4RGQwQnFjWTJVV1gyMjEzdFhCTQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "아시아타임즈",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "“전력·비용 분담부터 풀어야”… 3대 메가 ‘AI데이터센터’ 연착륙 해법은 - 아시아타임즈",
+   "ts": 1790672700,
+   "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yYXhYS0JNTlBRWFB0bkx1bGk1Rm9WbjVOZl8tVXNDX3pZSHBmc0dUenFVcGs5dks4NHBORW5JdVkwckdLUkhyT25RUjQ1aDliX19RQ2FJQXE1ZWhXa1E?oc=5"
   }
  ],
  "clip_titles": [],
@@ -4388,6 +4398,7 @@
   "7c33f7a59e513ce3": 1790053518,
   "7c39b3fc4753b390": 1789633820,
   "7c4ae6fcaf1fc140": 1790564716,
+  "7c543acc07234ca1": 1790673291,
   "7c594fc091214791": 1789951430,
   "7c5c70870ada6256": 1790467770,
   "7c5c761bea62dfbf": 1789715716,
@@ -6064,6 +6075,7 @@
   "b2f2f3fd32ea4a9d": 1789689915,
   "b2f86a66fe564c20": 1789629150,
   "b2fb7b62c80a6523": 1789977915,
+  "b30ae89c71a4a9f2": 1790673291,
   "b30ded1bd98496e5": 1790071521,
   "b312d39fb1a70019": 1790042395,
   "b318816d992bddc2": 1789728460,
@@ -6444,6 +6456,7 @@
   "bf1803ebbfdde8bd": 1789873818,
   "bf194c2e2f14bc49": 1790577419,
   "bf19f2b6ba9fb488": 1790180421,
+  "bf2fa4f8ac6e0ae5": 1790673291,
   "bf30830d633c80d4": 1790581218,
   "bf31ca7d6c81b3fd": 1790178019,
   "bf34c04d618072e3": 1789714817,
@@ -8305,6 +8318,7 @@
   "fb57d3f145c9014c": 1790130924,
   "fb5e1dc0f423cad6": 1790301997,
   "fb61cb137a95de2a": 1789868332,
+  "fb633cf5efd50955": 1790673291,
   "fb72ee10ccff6993": 1790586316,
   "fb736d694e820235": 1789627496,
   "fb739d7259bdddbc": 1790474714,
@@ -8464,7 +8478,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790670334,
- "last_msg_poll": 1790672970,
+ "last_msg_poll": 1790673541,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8508,7 +8522,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 18:09 KST",
+  "last_run": "2026-09-29 18:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
