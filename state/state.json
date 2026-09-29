@@ -252,6 +252,16 @@
    "t": "스타트업과 손잡고 AI 데이터센터 생태계 강화 - 한국일보",
    "ts": 1790720400,
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5reE9taGo5NDRrZFdHOVRnZ1ZRblpzczlFWEQyVnNoMURmMjFfTHJYN3lCakd4Mno5Q1JTSGo1ZGRnNGtTeVZrbjFqVTRYXzVNeUVYcnJJZm9saHMyak5FcjVSc0pUN1hxX3FkVGtB0gFzQVVfeXFMUE5SMXFZbVMtWGFveExoNWs5dEJkd1dNOWduUjVMZE5EZFF2Wl84eTFyWml1SzktYlFoeFN4YUJwRVdPa3Z0Sk56ZnAtNDBlTFlVWVc5Z2pGQXh4eFAzSzJ4T2pYNGNicWM1MlBrRGhHQW5NSQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "서울경제",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "MS 데이터센터 추가 투자 촉각…부산진해경자청, 전력·인프라 지원 논의 - 서울경제",
+   "ts": 1790721311,
+   "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RZ21CNkNQYlcyOGVUV3lVV2lsMk93d1M1a3lOWlp1aDltQ0tFWEZ6UWpSY2UwTVRNbU5jc2dBZmViNk02SEYtdWZmREFxUlpqakHSAVNBVV95cUxNTW5uN2VDdklfa01UeVFIZGZ6allqUDRhd1VEMnhncUE3VVVwOTN1X0tMbndjcnh3QjBXN1FMeHV4VjUxR3BhNnpqYUdmLUdRUThFdw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1555,6 +1565,7 @@
   "2721ae7b59ab2f93": 1790060726,
   "273252c8be5d876c": 1790239215,
   "27396a90708287ff": 1790062459,
+  "273b5ec543344b60": 1790722817,
   "273ca7c5a4e4e9a2": 1789783839,
   "27415e4354967cb5": 1789785019,
   "274763e3e442f1f3": 1789980627,
@@ -7336,6 +7347,7 @@
   "d9282371579751d7": 1790080237,
   "d92a0c1d8bd4d10f": 1789990699,
   "d93326ce73b71a38": 1790240120,
+  "d93d7774fa807e43": 1790722817,
   "d9451eef225324a1": 1790122580,
   "d952703399e06ccf": 1790470071,
   "d95593cc279a256b": 1790208969,
@@ -8574,7 +8586,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790719251,
- "last_msg_poll": 1790722764,
+ "last_msg_poll": 1790723066,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8618,7 +8630,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 07:59 KST",
+  "last_run": "2026-09-30 08:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
