@@ -216,6 +216,26 @@
    "t": "AI 데이터센터 전용요금제 ‘안갯속’… 조경태, 국감서 정부에 로드맵 요구 - 비즈트리뷴",
    "ts": 1790671140,
    "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jUGJ2ZG9Qdm9qeEtNRXVVWmlMMWk3b3oyNEw3NzZkSTdndUNINlhJVVdnVEY5cnNWMHVvNkRZbkI1cTEtMXdiWXBCejRzdmtzV29FekVWZ2JnMDhKTHhuVThVbHYtYmI3UWtGclQwV1I?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "토큰포스트",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "블랙록, AI 데이터센터에 2030년 148GW 추가 전력 필요 - 토큰포스트",
+   "ts": 1790677501,
+   "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10bE5LTlM0c21VVFpacU52cWI1Z191SWRXN3pZS1RqQW5VNjZxQjRkRTNudF9DNzF2Qm9CaE4wNWxsNlNuQUhoZkJrWGlyTGhp?oc=5"
+  },
+  {
+   "co": "LS전선",
+   "n": 1,
+   "s": "newsphere.kr",
+   "sc": 14,
+   "sec": "전력기기",
+   "t": "LS전선, AI 데이터센터 전력망을 서버랙 안까지 넓힌다 - newsphere.kr",
+   "ts": 1790665479,
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhOFpvQ1M3eUszZmZaOXNNQXozbHBlZ2dfVXlrMDAtWW5wb1B6aFpWZXVXTE9keWlHTnlhb0lsemdPNlA2U2Z3QmtNb0ZXbzhkWFVzRElxVmRLTkNqRDBpU2puZ0RXV0Fr?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1636,6 +1656,7 @@
   "2ac857ee53195624": 1790038311,
   "2ac87bb7aeb6812e": 1790560231,
   "2acc50ff2fd955f2": 1789627496,
+  "2ad2218b6cedfec8": 1790693424,
   "2add20f4328f42fa": 1790579195,
   "2adf94c9fad15147": 1789970013,
   "2adfd4fed2ecb7f2": 1790042975,
@@ -4077,6 +4098,7 @@
   "744ba92e1091c17d": 1790402718,
   "745ab7da63c48157": 1790069431,
   "745bc86ef4019d38": 1790123718,
+  "74754e056a140d6e": 1790693424,
   "748d8acbade754ee": 1789977915,
   "74904b67ef56d664": 1789629088,
   "74944b3712838213": 1790643992,
@@ -8467,7 +8489,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790692523,
- "last_msg_poll": 1790693368,
+ "last_msg_poll": 1790693674,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8511,7 +8533,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 23:49 KST",
+  "last_run": "2026-09-29 23:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
