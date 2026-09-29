@@ -316,6 +316,26 @@
    "t": "삼성 6개사, 美 헬릭스에 10억달러 투자⋯AI 데이터센터·전력 인프라 직접 뛰어든다 - 엠투데이",
    "ts": 1790667352,
    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1USjdnT01lWldvUHdEYXBIa0RYbG1UYVJ4dFBYWGZtRXJVa2p2QnpDVW5UQkF1YVFlMzhrTEpGTVhQV1BtbUU3Rnl1LUlZbWUydmN6S1hEZVB5NjNQVnFILWNtb0ZIQ3ZXOTJodGxmRQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 3,
+   "sec": "재생에너지·ESS",
+   "t": "Charity appeal sends solar equipment to flood-affected Nepal",
+   "ts": 1790672106,
+   "u": "https://www.pv-magazine.com/2026/09/29/charity-appeal-sends-solar-equipment-to-flood-affected-nepal/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "ir.edaily.co.kr",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "삼성·LG·LS, 아시아 최대 ‘데이터센터월드 아시아(DCWA) 2026’ 참가(종합) - ir.edaily.co.kr",
+   "ts": 1790660874,
+   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFUTFXZmZIaXNhUk9GN0lfZzF1T3h5Y0Q5ZEhHbF8wcW1lNkJiSF90YjcyeG5FWmFoZU9qUFM0SnJEY1FsNEVsNkhrYXhvdFhETmJwRzR1anNXMWhOdHpaQ0dhRQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -872,6 +892,7 @@
   "11b6b1ee31c65914": 1790669122,
   "11b74bd19a15e997": 1790040917,
   "11ce46e1f73f08dd": 1789627496,
+  "11d4801c5a86c001": 1790672120,
   "11d6c8e121c1a701": 1790650193,
   "11d8776d4d5ff22a": 1790125530,
   "11ef4b001dce8ef1": 1790146721,
@@ -3948,6 +3969,7 @@
   "6eb5f0a38778add2": 1790487375,
   "6eb8491e2656b7b2": 1790580923,
   "6ebcc7d5c856f37e": 1789957222,
+  "6ec0c3883365840b": 1790672120,
   "6ed3c74a819121ed": 1790042975,
   "6eed9d0c68a25971": 1790057120,
   "6ef1c28111fb3ad4": 1790035999,
@@ -5646,6 +5668,7 @@
   "a7b2af10d3540f0b": 1790298315,
   "a7c6811dc0688baa": 1789720817,
   "a7cb4fe0f56fc973": 1790139330,
+  "a7d12a111ab2f9d7": 1790672120,
   "a7e2662917324a75": 1790054122,
   "a7f1b194ee39238b": 1789991265,
   "a7f8abf6478a3f2e": 1789629088,
@@ -6585,6 +6608,7 @@
   "c48b7d1b7be60b82": 1790150165,
   "c4941bd13ccd2749": 1790670021,
   "c4a7ae5e715ffe81": 1789981516,
+  "c4a7d7297e1d2ab0": 1790672120,
   "c4b6ce896bb5b5b3": 1790558489,
   "c4bd5d764718d20d": 1789639528,
   "c4c3450500dd5b88": 1789851916,
@@ -8150,6 +8174,7 @@
   "f7978cff605c0935": 1789627496,
   "f79b2c03bbd7446a": 1790045289,
   "f79b5f63abfac765": 1790556223,
+  "f79c1e928d87f7d0": 1790672120,
   "f79cc6c246bea506": 1790665521,
   "f7a25d59d4630ebf": 1790062459,
   "f7b0a40b1b719f86": 1790292193,
@@ -8259,6 +8284,7 @@
   "fb323a665430d51c": 1789866315,
   "fb408b09acdc6727": 1789696217,
   "fb458fe9f1451302": 1790558489,
+  "fb48f8e6da40264a": 1790672120,
   "fb568e56c8cabfd4": 1789959318,
   "fb57d3f145c9014c": 1790130924,
   "fb5e1dc0f423cad6": 1790301997,
@@ -8422,7 +8448,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790670334,
- "last_msg_poll": 1790672066,
+ "last_msg_poll": 1790672371,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8466,7 +8492,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 17:54 KST",
+  "last_run": "2026-09-29 17:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
