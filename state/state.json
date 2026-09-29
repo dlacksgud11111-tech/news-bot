@@ -241,6 +241,36 @@
    "t": "[기업家] LS그룹 ⑪ㅣ AI 데이터센터 전력시장 공략 가속…차세대 기술 앞세워 글로벌 영토 확장 - CBC뉴스",
    "ts": 1790656406,
    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EOVEtMXVvOEVGS2hzaHdkUnhfWFItT0hIYjJNNnNMb1FWTEJJZHRFX2ZJcXp4Q1c4UkRkSXM4Ylp5U3U1YTcwZkZ1MWVac3FkU1RJYVUtWEtzRnhzWmxTS1A4a1R3VEVa?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 5,
+   "sec": "건설·플랜트",
+   "t": "Gamuda and Yanara sign EPC contract for 300MW solar-plus-storage project in Australia",
+   "ts": 1790657641,
+   "u": "https://www.energy-storage.news/gamuda-and-yanara-sign-epc-contract-for-300mw-solar-plus-storage-project-in-australia/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "EORA Energy, Tulla Group form JV targeting Australian mining sector with integrated storage",
+   "ts": 1790657559,
+   "u": "https://www.energy-storage.news/eora-energy-tulla-group-form-jv-targeting-australian-mining-sector-with-integrated-storage/"
+  },
+  {
+   "co": "LS전선",
+   "n": 1,
+   "s": "프라임경제",
+   "sc": 10,
+   "sec": "전력기기",
+   "t": "[카드] LS전선, 인공지능 데이터센터용 전력기기 신제품 공개 - 프라임경제",
+   "ts": 1790657204,
+   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JZWtzV0UxNjZ1RkJxZEd1WW8xMU5NaEY5aDRJYXMxeXM1aElMTzFOZXg4TDhEa3VUMkZlQVVZUE1ETlRyLXlvM1g5WDYxTHdoQ09sclQtZ2lXeUZGTkF2NQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -4111,6 +4141,7 @@
   "7d9c83c83c45ed08": 1790565330,
   "7da64be0b50376a6": 1789886351,
   "7da835b1f018b8cc": 1790584523,
+  "7dc70a9f8e720a22": 1790657788,
   "7dc98c49386ed6f4": 1790064758,
   "7dcfb818a258ba99": 1789630519,
   "7dd226875dc96545": 1790562951,
@@ -4941,6 +4972,7 @@
   "9c290aac12dda1e8": 1790654845,
   "9c3770cc1efc28bf": 1789956049,
   "9c44debf3bd29370": 1789629088,
+  "9c5727b9be9f2bfa": 1790657788,
   "9c5abbecb1522ec5": 1789627496,
   "9c75118114a6b972": 1790126118,
   "9c864b21eecf5aff": 1790542228,
@@ -5112,6 +5144,7 @@
   "a26abb0a7aa5f6b6": 1789797679,
   "a26ded7561d39ac1": 1789692317,
   "a2701e53098720ad": 1789943682,
+  "a271c0edd8d60fc0": 1790657788,
   "a283b114b8e5e042": 1790577419,
   "a2874236b530603c": 1790205547,
   "a28dc36ed77d8c31": 1789715119,
@@ -7930,7 +7963,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790655465,
- "last_msg_poll": 1790657416,
+ "last_msg_poll": 1790658032,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7974,7 +8007,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 13:50 KST",
+  "last_run": "2026-09-29 14:00 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
