@@ -376,6 +376,26 @@
    "t": "SGC에너지 ‘군산 AI데이터센터’ 내달 착공…“AI로 에너지사업 효율화” - 중앙일보",
    "ts": 1790669539,
    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90bTI2aXp6amZuWlJTTUhpQ1pnU1ctUFZ4ay14X3lna1lLNjlJWWJrQXRMXzlvNlZSdWdMRFREeVl5Y3c0emZJaElwc01hYVhHYm9QYVZB?oc=5"
+  },
+  {
+   "co": "ABB",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 11,
+   "sec": "유틸리티·정책",
+   "t": "ABB returns to utility-scale market with Gamesa Electric integration",
+   "ts": 1790674137,
+   "u": "https://www.pv-magazine.com/2026/09/29/abb-returns-to-utility-scale-market-with-gamesa-electric-integration/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "파이낸셜뉴스",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "\"AI데이터센터, 전력 인프라 구축·기업 활용 생태계 갖춰야\" - 파이낸셜뉴스",
+   "ts": 1790674095,
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sQnR3MFJVeUxNaFhIM2o1bW5fWE1LS004VzNiSGl4YXBBZmxDNTBVeU5zWm40RTdlTmJkMFNoV200VGxvbVdiNFd6WV9aODBzWjFSQ3BFTFczQQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1276,6 +1296,7 @@
   "1b9e8a078e5ac16b": 1790572220,
   "1b9fb307498e461e": 1789724997,
   "1ba389539a69c674": 1790668519,
+  "1ba9e88abf355a4d": 1790674470,
   "1bb1bfe011bac363": 1789975519,
   "1bb3429b1a582e95": 1789712512,
   "1bbac4bdd5318522": 1790550621,
@@ -2053,6 +2074,7 @@
   "32f04fbde2e162bf": 1790575673,
   "32f4cd3aa1b087d5": 1789891518,
   "3309acb06ac9ae1a": 1790292193,
+  "33238ea4271f326d": 1790674470,
   "33247300913e8ee0": 1790660118,
   "33353401eba6c932": 1790060416,
   "333c48ab1fc09217": 1790057417,
@@ -5159,6 +5181,7 @@
   "94e1114b5a266df9": 1789705521,
   "94e258d42883700c": 1790665521,
   "94e307733b56ab40": 1790139915,
+  "94fcd6c543257b65": 1790674470,
   "94fe537bda128b8a": 1790498128,
   "950a2622c4f2bdf3": 1790523722,
   "95133f775507926d": 1789948516,
@@ -8504,7 +8527,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790670334,
- "last_msg_poll": 1790674124,
+ "last_msg_poll": 1790674713,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8548,7 +8571,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 18:28 KST",
+  "last_run": "2026-09-29 18:38 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
