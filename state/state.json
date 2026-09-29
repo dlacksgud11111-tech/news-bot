@@ -206,398 +206,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 2,
- "clip_buffer": [
-  {
-   "co": "LS전선",
-   "n": 1,
-   "s": "g-enews.com",
-   "sc": 10,
-   "sec": "전력기기",
-   "t": "LS전선, AI 데이터센터 전력사업 확대…서버랙 내부까지 진출 - g-enews.com",
-   "ts": 1790656318,
-   "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNem9DZ3BWRlhSaUF5RW5hdkdVRDZkSk9PWjktMUdJZW42LUNHQWh1UVd6WTBxNTBWLUgxVlRhRm9iZmRLMVozMU9OZmhTemxXV0dTcndNdWU2Q0Q1elFVM2p0c1FMY1pPZ2R3WTRTaEpfeTBybF80YV9HT2JGeEZGemZLRFA?oc=5"
-  },
-  {
-   "co": "LS전선",
-   "n": 1,
-   "s": "ddaily.co.kr",
-   "sc": 4,
-   "sec": "전력기기",
-   "t": "LS전선, AIDC용 신제품 공개…서버랙 내부로 포트폴리오 확대 - ddaily.co.kr",
-   "ts": 1790656188,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tM19Oakl1NXMtNjBfQVlpWWd2aEwxM0pKTTd4U0RjRkdJZnBPcXczaWk5VnlRYjFaRW9XeXRTUUQ5S1hZU0ZkaTBMb2Z1SGdhYk13SFFXUER3V0lHMjZrOE1jc1g?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 10,
-   "sec": "유틸리티·정책",
-   "t": "전력수급 예측오차에 연 1.8조원…기상청, 재생E 예측 정밀도 높인다",
-   "ts": 1790688084,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372880"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "CBC뉴스",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "[기업家] LS그룹 ⑪ㅣ AI 데이터센터 전력시장 공략 가속…차세대 기술 앞세워 글로벌 영토 확장 - CBC뉴스",
-   "ts": 1790656406,
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EOVEtMXVvOEVGS2hzaHdkUnhfWFItT0hIYjJNNnNMb1FWTEJJZHRFX2ZJcXp4Q1c4UkRkSXM4Ylp5U3U1YTcwZkZ1MWVac3FkU1RJYVUtWEtzRnhzWmxTS1A4a1R3VEVa?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 5,
-   "sec": "건설·플랜트",
-   "t": "Gamuda and Yanara sign EPC contract for 300MW solar-plus-storage project in Australia",
-   "ts": 1790657641,
-   "u": "https://www.energy-storage.news/gamuda-and-yanara-sign-epc-contract-for-300mw-solar-plus-storage-project-in-australia/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "EORA Energy, Tulla Group form JV targeting Australian mining sector with integrated storage",
-   "ts": 1790657559,
-   "u": "https://www.energy-storage.news/eora-energy-tulla-group-form-jv-targeting-australian-mining-sector-with-integrated-storage/"
-  },
-  {
-   "co": "LS전선",
-   "n": 1,
-   "s": "프라임경제",
-   "sc": 10,
-   "sec": "전력기기",
-   "t": "[카드] LS전선, 인공지능 데이터센터용 전력기기 신제품 공개 - 프라임경제",
-   "ts": 1790657204,
-   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JZWtzV0UxNjZ1RkJxZEd1WW8xMU5NaEY5aDRJYXMxeXM1aElMTzFOZXg4TDhEa3VUMkZlQVVZUE1ETlRyLXlvM1g5WDYxTHdoQ09sclQtZ2lXeUZGTkF2NQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 1,
-   "sec": "데이터센터·AI전력",
-   "t": "[HARFKO 2026] 에이알, 데이터센터 냉각솔루션 제품 라인업 공개",
-   "ts": 1790689970,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334653"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Twenty-two U.S. solar PV manufacturers included in first domestic Ratings Pyramid",
-   "ts": 1790658324,
-   "u": "https://www.pv-magazine.com/2026/09/29/twenty-two-u-s-solar-pv-manufacturers-included-in-first-domestic-ratings-pyramid/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 8,
-   "sec": "전력기기",
-   "t": "India’s CERC proposes new Grid Code rules for standalone BESS",
-   "ts": 1790658000,
-   "u": "https://www.energy-storage.news/indias-cerc-proposes-new-grid-code-rules-for-standalone-bess/"
-  },
-  {
-   "co": "LS전선",
-   "n": 1,
-   "s": "이슈투데이",
-   "sc": 10,
-   "sec": "전력기기",
-   "t": "LS전선, AI 데이터센터용 전력기기 신제품 출시하며 서버랙 전력 솔루션 확대 - 이슈투데이",
-   "ts": 1790657923,
-   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiT1lkVFZiOVVEYl9Ha3UwMU1vVWd1OVJqMUFkajVmVUdYV3FvYUd5MjNzdmtDSk1lY0M0eGJwRHdlc3U5SWpNLTdTOXZmMGszb1RqaWJOTjFCYUdTQWVGaWplN19OUQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "데일리한국",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "정혜경 국회의원 'AI 데이터센터 수요 다시 검증해야' - 데일리한국",
-   "ts": 1790651857,
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wVnA1V1hPMk1PUVFRYVhLb1Z3NDJpVXRJWkJTeFF5UDliUURFY3dqcVNRN0x6ZWx6cVpDS1dCQm9ldVZiZExONW82T01FMjBlN2ZBRlJQY3JxajhtVU1GQm9OQm52VEJTSndMdnlfWdIBc0FVX3lxTFBpNFhwcUJGblR5YnV5RFdhQWRYMk9xUWUzeEE2YTU5YThfQ2RoX0pHZnZVTW03U2tXQVBSSzdWQlB2cE1NVEpqNjJXWHlfcjd4LTg5elFBNnJfbXpLZVBjb3NoVnlmZmVTUnNpOFFEdWVkaFk?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 16,
-   "sec": "전력기기",
-   "t": "“전력망 더 짓기 전에 있는 망부터 사용”…재생E 100GW 길 연다",
-   "ts": 1790691047,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372883"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 28,
-   "sec": "전력기기",
-   "t": "기후부, 2030년 재생에너지 100GW 수용 전력망 체계 마련",
-   "ts": 1790689781,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303588"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "Ukraine’s solar auction undersubscribed, solar-plus-storage auction oversubscribed",
-   "ts": 1790658900,
-   "u": "https://www.pv-magazine.com/2026/09/29/ukraines-solar-auction-undersubscribed-solar-plus-storage-auction-oversubscribed/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "Rooftop solar, home battery installs hit record highs in Australia",
-   "ts": 1790658553,
-   "u": "https://www.pv-magazine.com/2026/09/29/rooftop-solar-home-battery-installs-hit-record-highs/"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "v.daum.net",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "\"AI 경쟁력 출발점은 데이터센터…투자·활용 기반 갖춰야\" - v.daum.net",
-   "ts": 1790658110,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52WVhUNGtiazYtal9EZERiQ2pZamlPWldTSmxuNXpFd1d4TzdxVFJmUGVSQVRMUm9WQk15eGZ5OFJXal9wU0YyQmp0VzZOOFE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "viva100.com",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "데이터센터 투자 속도전⋯ 전력·규제·지역산업 연계가 관건 - viva100.com",
-   "ts": 1790658060,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YblAxTThGVzk1SVNFcnVYRkNHRWNsV284X0lSVWduanlLcEpNQUFQWmNEVW5ZU0FfNzF5RDJhWUROMTc4ZVhQdzZMNmRmbHRSMmhBckRUV3puUQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "산업부 발표 '차세대 배터리 로드맵', 160Wh/kg 나트륨전지…나인테크 관계사 에너지11, 국책과제로 개발 중",
-   "ts": 1790657880,
-   "u": "https://www.etnews.com/20260929000206"
-  },
-  {
-   "co": "LS전선",
-   "n": 1,
-   "s": "thepowernews.co.kr",
-   "sc": 14,
-   "sec": "전력기기",
-   "t": "전력망서 서버랙 안까지…LS전선, AI 데이터센터 전력사업 확장 - thepowernews.co.kr",
-   "ts": 1790658398,
-   "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZTUY2V1VOTXA1V1FVaF9zQU1WQUhvQnZILW5CVE1ZdjZuc3NTSWg0WVk3YU13ZDdtZzluZ1JWNnYyVWt4SmxWY3l4OTJZUXg3SGtCbFV6VkJDMkRfUGVPOFJUd3RMV0pTTUdsRThxXzFPQjEtQzFteWhsSWFkZw?oc=5"
-  },
-  {
-   "co": "LS전선",
-   "n": 1,
-   "s": "Investing.com 한국어",
-   "sc": 10,
-   "sec": "전력기기",
-   "t": "“전력망부터 서버랙까지”…LS전선, AI 데이터센터 통합 전력 솔루션 구축 By 알파경제 alphabiz - Investing.com 한국어",
-   "ts": 1790658300,
-   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0ycE5HazZiTTVMeFl0RVRYQWtxUkFGZFJoRGZweEdnMU1aRUdjMG9OM2Y5QWYycXNNU1Y1ZkY4R2xnRjREdWFzRDhPVDZkY1hXQ1FYLXNfaEpuZmRyai1UenA4M0cwMXFrRmFxeG11bGk?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "edaily.co.kr",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "한경협, 데이터센터 세미나…“기업 경쟁력과 지역 성장 이어져야” - edaily.co.kr",
-   "ts": 1790658003,
-   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUU1yOFBFUU4ya1dtd1JaZXV3MHpndGdzaDdqUGRTVnRBQ1B2TFZ6TzlzUHRuVWJsaEEwMUZ4MFJibVYwTG1wVHhaU3ZlWkhpSkpUWkgwaU5MSXpud0pQcGwtdGc3RU8wcFo5bjdiNGQ5ODYzSWVsbGl3eTVEcXZIWQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "조선일보",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "삼성 6사, 美 AI 인프라 기업에 10억 달러 투자...데이터센터 사업 협력 - 조선일보",
-   "ts": 1790657700,
-   "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd3pZU2JoSkRnNmdWaWJDSmIxTFNJYjNTZm9SWTBNdlo4bU40aWc2T25pM2M4U3c0WkEzbGtqWWFvWmR1UkUtUFlXZ1pLYS1DNjl1THlOMnpfdWhKOGdCYjhsQnZ5dHJPZmZJSnN5QnRQQnJkS1RZMTlKWVN2LWtGNDFucw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이지경제",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, AI 데이터센터 ‘냉각’ 넘어 인프라 잡는다…모듈형 솔루션 공개 - 이지경제",
-   "ts": 1790658690,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83WUc0a1JibzVvekJVS3Y3UU9tTjFEQTJWRVIyamx2MEtzdVFBcVRjc1ZVd2F3N00tVGF1UlkzdjN6OHVOaXB6Xzdkd01nQ2FkWFZ6aWJHbEl4Wk41QWNoOU5zTDBxRW11WGZBZm1R?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Perovskite-silicon tandem solar cell built on textured silicon reaches 30.77% efficiency",
-   "ts": 1790659838,
-   "u": "https://www.pv-magazine.com/2026/09/29/perovskite-silicon-tandem-solar-cell-built-on-textured-silicon-reaches-30-77-efficiency/"
-  },
-  {
-   "co": "LS전선",
-   "n": 1,
-   "s": "라이센스뉴스",
-   "sc": 10,
-   "sec": "전력기기",
-   "t": "[산업 Pick] LS전선·가온전선, AI 데이터센터 및 북미 전력 인프라 공략 가속화 - 라이센스뉴스",
-   "ts": 1790659800,
-   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84UERaTGQyNnFlNnpRV19nbTVSTlliNUNhTndxSjcwMUhaUXlSTVJLWmtSdWx4U3AyTnZwQ1pYM0V5SUhRZ1pncWpfY2d3cUxaMWRHcjhUTW9rUEFBVnF1c08zWHFET1FhS3Rv?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "한스경제",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, ‘블록형 냉각’으로 AI 데이터센터 공략 - 한스경제",
-   "ts": 1790650007,
-   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyMWFwQkNMOEkwV01VMzZudzBuV3h1U1liTVpDNEJlUXpENmVMX0dZd2laaWRMbGpDNnQ0T1RwVUI5MkJxOFlMcjRQbGRWTVFzaWVPQlZmb2hyWmxXQk4zY2lSdkJqQ1dzOHo4?oc=5"
-  },
-  {
-   "co": "LS전선",
-   "n": 1,
-   "s": "매일일보",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "LS전선, AIDC 전력 인프라 시장 '정조준'…'버스바·커넥터' 공개 - 매일일보",
-   "ts": 1790660001,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KTWtYbFlNR0pIOENwTzYyYnUzRlZ6V1l0ZVJ5THNZSjZBUG5mNzdoVjNra2pCZ3psZ0pGUDJTaEpKNk5Ma3JjV1JpRm9ZWk9oYTg2M29yOHB2T0RGZHlQbmpEV3Y?oc=5"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "v.daum.net",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "\"데이터센터는 복합 인프라…산업·에너지 정책 함께 설계돼야\" - v.daum.net",
-   "ts": 1790659800,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11a2hvVEtDUTVvakt6NGJNeEhDUG9tNm1STUtmNFZSU3VsV0JIaWNNT0dsdTJDSUo5OEtTWlotN3JzLWtHSjBEY21zV19XeUk?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "시사의창",
-   "sc": 6,
-   "sec": "원전",
-   "t": "고동진 “AI 전력 수요, 원전 활용 확대 논의해야” - 시사의창",
-   "ts": 1790661039,
-   "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16Xy13TjZjMndWbWlRYURaOERDTlpyVTlYMUk4Q1Z5Mkl3N3R3VW9WS0I5V3lYZkR2dlpxbWk2dHctZTJnREg3MklDUDNndHd5eG95dg?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "S저널",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, '모듈러 솔루션'으로 AI 데이터센터 냉각 시장 공략 - S저널",
-   "ts": 1790659386,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1heHBoaERfLWtrdmNLRS0xUEljOUtRZTNMQVlQS28tRVhvTE0yT3ljWmc5Rm42eDNRODlsNXQ0WEQwSWY1eURvVHJSbXhzTGxfMENjWXlfVWt1RXkxUTF3Z204cVFKd0hXaWxJQ2ZR?oc=5"
-  },
-  {
-   "co": "LS전선",
-   "n": 1,
-   "s": "브릿지경제",
-   "sc": 4,
-   "sec": "전력기기",
-   "t": "LS전선, 데이터센터 전시회서 서버랙용 신제품 선봬 - 브릿지경제",
-   "ts": 1790659320,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wMGFDY25Mc2lOb0g2Y2ZxSTB2TWZNSlcxTjBTbWU0VHUyc1pZYVNEMlctd2lFN3FMbl9MU2ZzZlduY1hQY1NqZC0yZFMtMXNfSjRMeHcxWkpyZw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "OhmyNews",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "도로공사-충남도, 행담도에 AI 데이터센터 유치 추진 논란 - OhmyNews",
-   "ts": 1790659860,
-   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DNE80eXFTU2xXbVVORWZlLXduWGJoVHc2VVd2clBiZEl0eGJ3b1FKdmNEZ2k1VWFyT0ZSZFY5VDNIUnhFNWttTGRzVHprWmZ5NE9fd21vS29na1ZIYk80U2hkYXVIZ2xhMjJPXzdvemlLQlFYc2lj?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "산경e뉴스",
-   "sc": 10,
-   "sec": "데이터센터·AI전력",
-   "t": "LS일렉트릭, 아세안 데이터센터 시장 정조준...‘전력 인프라 풀패키지’ 선봬 - 산경e뉴스",
-   "ts": 1790661249,
-   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpamw1OVp0b3FreDUxOW1fS21wTEZfZ0FCMTdoUjJVZ2pndUZTYzNUVFBSb01CNUtaZTlOcmRpNzVXaVRIM2VhNkVzS1QwVDZrUzVqeVpmTUc5TFlHYTc2ZzkwbkgwRFk?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 11,
-   "sec": "전력기기",
-   "t": "2년 막힌 호남 전력망 다시 연다…재생에너지 52GW '숨통'",
-   "ts": 1790660730,
-   "u": "https://www.etnews.com/20260929000264"
-  },
-  {
-   "co": "LS전선",
-   "n": 1,
-   "s": "뉴스와이어",
-   "sc": 4,
-   "sec": "전력기기",
-   "t": "LS전선, AI 데이터센터용 신제품 공개… 서버랙 내부로 사업 확대 - 뉴스와이어",
-   "ts": 1790645325,
-   "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FY0lmcGNuQkNZRGxpODBUY25YQTVybUpWRExTLWk1VWxueEdjMHdmc3Joc0dRNGlBblpsWjdKZ1hWVUYwQnZNa29CVWUzQjU1bkJzc25Ra3RGMVpBZ2Fz?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 8,
-   "sec": "원전",
-   "t": "“원전 싸지 않다…경제성 평가 제대로 해야”",
-   "ts": 1790693480,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372884"
-  },
-  {
-   "co": "HD현대일렉트릭",
-   "n": 1,
-   "s": "잡포스트",
-   "sc": 24,
-   "sec": "건설·플랜트",
-   "t": "수주잔고 84억9000만달러 쌓은 HD현대일렉트릭, 주가는 3.03% 조정 - 잡포스트",
-   "ts": 1790661150,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13azg1cjVHdlBaYzExdXlJZGJFejdhTDlUSFlWTFdLSFhuTFFOblB2d01TeFh0RVh0eFBQVDFadjRmeU1xRGRFdDdwVF9odWR0ZmI3NUUzTnJZaXRmLUxESWpDQkR3NW9NS0QyZThn0gFyQVVfeXFMTlFFYmt4VDFHZlllUlptdHVPUFQybFBQNWVWU29EQ05PV1lHYTN2eXgxVDRvbzdzUE10bHBJelBsX1BYemN3LUtiV1BzRXFaMlpXclM4NXo3LTJ6MWV1NGNWUGZCd3NOZ2RTT3NoVWlCRHln?oc=5"
-  },
-  {
-   "co": "LS전선",
-   "n": 1,
-   "s": "한국금융신문",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "LS전선, 서버랙 안까지 전력 공급 포트폴리오 넓힌다 - 한국금융신문",
-   "ts": 1790662210,
-   "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iN3FXa0Rpelo1Q1h3d3RMUER4Ym5aYkUtUVFGZTQ3OWo0NmFURy1RemZpNnRTV19IaFl6S2t4Rmo2Z3AzRktycVBOUmZBZzFCS0locE1Ed3dMYW1EbFl2bkdGZmItLUdTVGd2LXA0TmJxODJUcDVVeFhTWHU?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "0003f98f6034d59c": 1790586316,
@@ -3879,6 +3488,7 @@
   "6716b9f751d1c8db": 1790073620,
   "6719b9adc1d272e7": 1789979721,
   "6721c49b2fcf2fd6": 1790053518,
+  "6726414778abd84a": 1790662829,
   "67280328e9b9a0d1": 1789957530,
   "67438caf868f5863": 1790065913,
   "674fc3707d33123f": 1789629923,
@@ -4208,6 +3818,7 @@
   "722f5fc79084fa15": 1790055317,
   "72324b6c1ebe6ebd": 1790471761,
   "72358f28b689a915": 1790036576,
+  "723dbf27e4c38e2a": 1790662829,
   "723dc2c9b950c2c9": 1790633121,
   "7241068ddbf29855": 1790001429,
   "724158eef3176b6a": 1790111621,
@@ -6724,6 +6335,7 @@
   "c666db231de847ab": 1790561427,
   "c68410c0b1b6c1de": 1790005215,
   "c698c1319c66137d": 1789629088,
+  "c699b10232e26d0f": 1790662829,
   "c69be58112badbeb": 1789974040,
   "c69c64b4dca2c915": 1790058619,
   "c69fb7f8ef5a5417": 1789984228,
@@ -8448,8 +8060,8 @@
  },
  "companies_today": {},
  "day": "2026-09-29",
- "last_clip": 1790655465,
- "last_msg_poll": 1790662768,
+ "last_clip": 1790662829,
+ "last_msg_poll": 1790663075,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8493,7 +8105,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 15:19 KST",
+  "last_run": "2026-09-29 15:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
