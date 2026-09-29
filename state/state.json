@@ -256,6 +256,26 @@
    "t": "정우식 원자력연구원장 취임 “연구 전 분야 제 역할 해야”",
    "ts": 1790719038,
    "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228630"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스 경제 최신기사",
+   "sc": 0,
+   "sec": "건설·플랜트",
+   "t": "서초구 건설 현장서 천장 무너져 30대 외국인 숨져…당국 조사",
+   "ts": 1790687299,
+   "u": "https://www.yna.co.kr/view/AKR20260929185700004"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "이투데이",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터 ‘묻지마 확충’ 안 된다…“용도별 전력·입지 정책 고민해야” - 이투데이",
+   "ts": 1790666100,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PQ1p2cF9zUFFVNEwwZ1VFQTI1aE5LZzdBdTFabks4RXlOMnVDYVVpaWQ2WlI3ME44dlpHQVhfaTRYQUF1YmxjS2tsQWl6QW1GbmNwdXlRb0gwWWtuZ0h2YS1NRkwxNFBkUlhXb0ZB?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1992,6 +2012,7 @@
   "342c327da5d0a9e1": 1789950278,
   "342ee3f2ef147c8c": 1790496322,
   "343864c379c34a13": 1790128524,
+  "343ea6eb8cd38e07": 1790688023,
   "34442289232624a2": 1790043540,
   "344e286872ba782a": 1789704620,
   "3452a34ef291d13f": 1790485644,
@@ -3971,6 +3992,7 @@
   "6f9bcab51f4cb8af": 1789972312,
   "6fb37fdd1b9c52f3": 1790057417,
   "6fc161461ff8c687": 1789691718,
+  "6fc25c3370238976": 1790688023,
   "6fc3c44c17c54b6a": 1789977032,
   "6fc89cd4c3f6f515": 1790685320,
   "6fde0ddea5003881": 1790043540,
@@ -8490,7 +8512,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790685320,
- "last_msg_poll": 1790687965,
+ "last_msg_poll": 1790688266,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8534,7 +8556,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 22:19 KST",
+  "last_run": "2026-09-29 22:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
