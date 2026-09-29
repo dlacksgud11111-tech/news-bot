@@ -206,7 +206,28 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 2,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "조선일보",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "현엔, 군산 AI 데이터센터 신축 사업 수주... 8700억원 규모 - 조선일보",
+   "ts": 1790664000,
+   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa09Ka1FWN2dmdnMwTUxVTzhzc1d0RUYxS1RMQnJzVzhOUkphVlYyQzE4OWFuM2tLQmF2NkFyMUVUcE1VOFNmWVlOUXU0Vmx4QVdPd0hDQ2RnY1F0NEJJNWZqSjVqb0lGVExBZWxhT1ZDY3RxQVBPNnRPa2xnZld5SXdRdDZTeTlw?oc=5"
+  },
+  {
+   "co": "LS전선",
+   "n": 1,
+   "s": "아시아경제",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "\"서버랙 내부까지 전력 제어\"…LS전선, AI 데이터센터용 신제품 공개 - 아시아경제",
+   "ts": 1790643360,
+   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RQW56b25mb1BMLTJwSUR2RERibS1tbVBld1phcnJKVGFlM0N5Njl1bWg1c3gweFN3MWNXcEltdDBLa2NSdWtwZnJ1a2RBd0VGLWlDaUtMY1QtMTBLXzR4MC1B?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "0003f98f6034d59c": 1790586316,
@@ -2129,6 +2150,7 @@
   "39831f85d81a57fc": 1790406317,
   "3988fd58cc738c38": 1790607918,
   "39a1b98ce84e893c": 1790467770,
+  "39a328c274731478": 1790685632,
   "39a6b7efebceb4ee": 1790125822,
   "39bac45d9481a758": 1790125822,
   "39c56556d1fc1121": 1790212515,
@@ -7875,6 +7897,7 @@
   "ee7d04d0099b25b0": 1789638920,
   "ee849bbb8815d9e2": 1790658925,
   "ee89230eb234996c": 1790058917,
+  "eeaa2656be2a32d6": 1790685632,
   "eeb80fa7fe0ac053": 1789979120,
   "eec1604fb1ad794e": 1790583021,
   "eecf97d47c193c6f": 1789969411,
@@ -8421,7 +8444,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790685320,
- "last_msg_poll": 1790685562,
+ "last_msg_poll": 1790685872,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8465,7 +8488,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 21:39 KST",
+  "last_run": "2026-09-29 21:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
