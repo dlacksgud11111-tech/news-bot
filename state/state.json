@@ -276,6 +276,26 @@
    "t": "AI 데이터센터 ‘묻지마 확충’ 안 된다…“용도별 전력·입지 정책 고민해야” - 이투데이",
    "ts": 1790666100,
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PQ1p2cF9zUFFVNEwwZ1VFQTI1aE5LZzdBdTFabks4RXlOMnVDYVVpaWQ2WlI3ME44dlpHQVhfaTRYQUF1YmxjS2tsQWl6QW1GbmNwdXlRb0gwWWtuZ0h2YS1NRkwxNFBkUlhXb0ZB?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "New 85 W solar shingle adds low-profile power to roofs",
+   "ts": 1790690086,
+   "u": "https://www.pv-magazine.com/2026/09/29/new-85-w-solar-shingle-adds-low-profile-power-to-roofs/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "ER 이코노믹리뷰",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "데이터센터 78% 수도권에…\"지방 유치 하기 전 전기료 원칙부터 꾸려야\" - ER 이코노믹리뷰",
+   "ts": 1790689800,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HMk1JM3p4TXhjdTRiZjlKcmY0RUFNZFp1ejhHYm9xQ2dTOXl6dHgxcnA4U0hBMVl1bGZJRWtScVo3bE9SWm5DRkhoQm9uMnNkeU9zRzVzaGx6cGxLRFBQbjFtNTFaLXRjZzJ6Vw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -4045,6 +4065,7 @@
   "715c1c4c46cf8e59": 1789978815,
   "71671022b61769a9": 1790040051,
   "717236b19c1c6f0a": 1789967119,
+  "717a989a869f5846": 1790690122,
   "7180ce14f5b37333": 1790579195,
   "71818b71a02b4378": 1790668519,
   "71990700c65f7fb7": 1789736415,
@@ -6492,6 +6513,7 @@
   "bfc7db492492c168": 1790665521,
   "bfd2857b1e1c6ce1": 1790146721,
   "bfd317c714489224": 1790210120,
+  "bfeac11ad0c74b2d": 1790690122,
   "bfeb7d6c7de32ac6": 1790669122,
   "bfebf5a5bd1f3110": 1790584523,
   "bff0388524db43c2": 1790557916,
@@ -8514,7 +8536,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790685320,
- "last_msg_poll": 1790690057,
+ "last_msg_poll": 1790690362,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8558,7 +8580,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 22:54 KST",
+  "last_run": "2026-09-29 22:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
