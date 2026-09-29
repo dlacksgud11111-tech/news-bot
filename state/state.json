@@ -226,6 +226,16 @@
    "t": "Lefdal Mine acquires data center development site in Norway",
    "ts": 1790678844,
    "u": "https://www.datacenterdynamics.com/en/news/lefdal-mine-acquires-data-center-development-site-in-norway/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 1,
+   "sec": "데이터센터·AI전력",
+   "t": "Samsung invests $1bn into KKR's Helix data center platform",
+   "ts": 1790679641,
+   "u": "https://www.datacenterdynamics.com/en/news/samsung-invests-1bn-into-kkrs-helix-data-center-platform/"
   }
  ],
  "clip_titles": [],
@@ -3947,6 +3957,7 @@
   "70c5da1c725baf3e": 1790006722,
   "70c6e9fe472269da": 1789627496,
   "70ce402f85b56673": 1789945939,
+  "70cfd88ccc77eb2c": 1790680251,
   "70d378e8792a42cb": 1789705521,
   "70e81c0ff60afbb1": 1790295093,
   "70edb043cef71eb0": 1790660118,
@@ -8400,7 +8411,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790677930,
- "last_msg_poll": 1790679910,
+ "last_msg_poll": 1790680501,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8444,7 +8455,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 20:05 KST",
+  "last_run": "2026-09-29 20:15 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
