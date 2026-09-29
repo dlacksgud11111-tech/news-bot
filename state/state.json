@@ -206,118 +206,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 2,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "조선일보",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "현엔, 군산 AI 데이터센터 신축 사업 수주... 8700억원 규모 - 조선일보",
-   "ts": 1790664000,
-   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa09Ka1FWN2dmdnMwTUxVTzhzc1d0RUYxS1RMQnJzVzhOUkphVlYyQzE4OWFuM2tLQmF2NkFyMUVUcE1VOFNmWVlOUXU0Vmx4QVdPd0hDQ2RnY1F0NEJJNWZqSjVqb0lGVExBZWxhT1ZDY3RxQVBPNnRPa2xnZld5SXdRdDZTeTlw?oc=5"
-  },
-  {
-   "co": "LS전선",
-   "n": 1,
-   "s": "아시아경제",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "\"서버랙 내부까지 전력 제어\"…LS전선, AI 데이터센터용 신제품 공개 - 아시아경제",
-   "ts": 1790643360,
-   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RQW56b25mb1BMLTJwSUR2RERibS1tbVBld1phcnJKVGFlM0N5Njl1bWg1c3gweFN3MWNXcEltdDBLa2NSdWtwZnJ1a2RBd0VGLWlDaUtMY1QtMTBLXzR4MC1B?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "Plans filed for 400MW data center campus outside Melbourne, Australia",
-   "ts": 1790685636,
-   "u": "https://www.datacenterdynamics.com/en/news/plans-filed-for-400mw-data-center-campus-outside-melbourne-australia/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "워크투데이",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "데이터센터, 짓는 게 끝이 아니다 … “기업 AI 경쟁력과 지역 산업 성장으로 이어져야” - 워크투데이",
-   "ts": 1790664316,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qcFRGN2QwS0w2RDlKRmVZcl9samUtY1Y0NktDUUxSS0VDcVpfWWh2S1BWX09SVGN3bGY4U1VOOF9leTJlM0x6a3REYUhDc3JlaEtWMll3YjBUZjhpaFdSSDJuN2dpcXRwNUNhYw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 5,
-   "sec": "원전",
-   "t": "정우식 원자력연구원장 취임 “연구 전 분야 제 역할 해야”",
-   "ts": 1790719038,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228630"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "서초구 건설 현장서 천장 무너져 30대 외국인 숨져…당국 조사",
-   "ts": 1790687299,
-   "u": "https://www.yna.co.kr/view/AKR20260929185700004"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투데이",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터 ‘묻지마 확충’ 안 된다…“용도별 전력·입지 정책 고민해야” - 이투데이",
-   "ts": 1790666100,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PQ1p2cF9zUFFVNEwwZ1VFQTI1aE5LZzdBdTFabks4RXlOMnVDYVVpaWQ2WlI3ME44dlpHQVhfaTRYQUF1YmxjS2tsQWl6QW1GbmNwdXlRb0gwWWtuZ0h2YS1NRkwxNFBkUlhXb0ZB?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "New 85 W solar shingle adds low-profile power to roofs",
-   "ts": 1790690086,
-   "u": "https://www.pv-magazine.com/2026/09/29/new-85-w-solar-shingle-adds-low-profile-power-to-roofs/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "ER 이코노믹리뷰",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "데이터센터 78% 수도권에…\"지방 유치 하기 전 전기료 원칙부터 꾸려야\" - ER 이코노믹리뷰",
-   "ts": 1790689800,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HMk1JM3p4TXhjdTRiZjlKcmY0RUFNZFp1ejhHYm9xQ2dTOXl6dHgxcnA4U0hBMVl1bGZJRWtScVo3bE9SWm5DRkhoQm9uMnNkeU9zRzVzaGx6cGxLRFBQbjFtNTFaLXRjZzJ6Vw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴스저널리즘",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "조경태 \"AI 데이터센터 전용요금제 조속히 공개해야\"…국감서 정부에 질의 - 뉴스저널리즘",
-   "ts": 1790668496,
-   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16R1FOdWIwdkZEV1VqaS1oSWlUVmxwQndpT1RVWWtBdnE4cDJ6N01ELUFVbjg0b2lDQTdpSUVKT0lUX25iaXNVUmo5TVdaQVNXOVl3YXNjUHM4MHpKTFhiQ1pablZPQkc1SXpn?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "edaily.co.kr",
-   "sc": 8,
-   "sec": "데이터센터·AI전력",
-   "t": "퓨얼셀 에너지, 데이터센터 전력 수요 주목...'아웃퍼폼'-오펜하이머 - edaily.co.kr",
-   "ts": 1790690665,
-   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdWpjWDlaNUw3TzNXWkVRZjg2NW1IZldCUVp4N1Z5WEVVMFJCdEhjZnYtN3ZRUTBZdDhQYnA5dGlZb2Z6eWZPS1pKTTZPNmhyOHVhbG1SUUM2MEZtOGJBNlZuMlhlWTViVmhyQ2RKbDNMMFE4T3gydVNzRlFzRVpZVg?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "0003f98f6034d59c": 1790586316,
@@ -1949,6 +1838,7 @@
   "30ec695c1566c10e": 1790044106,
   "30fb07d3554c3e53": 1790646328,
   "311ca1fce6254eae": 1790295093,
+  "3124038e15d49cfc": 1790692523,
   "312c27c61742795c": 1789980627,
   "314c0eeeebb60df8": 1789974322,
   "314cc5268361c624": 1789698990,
@@ -2965,6 +2855,7 @@
   "4e1ed3e3a526f98b": 1790516716,
   "4e23888217cc671e": 1789651818,
   "4e2504ff8dd17936": 1789851315,
+  "4e343984d5142b9a": 1790692523,
   "4e362b69e91bcfd5": 1790668519,
   "4e3c44a1722315fb": 1790578558,
   "4e4126e16a763be9": 1790576273,
@@ -4682,6 +4573,7 @@
   "8478731985fd4913": 1789629088,
   "848ce178deeff439": 1789773428,
   "849a67115703ea48": 1790147295,
+  "84b8b625984bce57": 1790692523,
   "84cd0493b1bda696": 1790062459,
   "84cd09f26fff5f3a": 1789891518,
   "84ce27b678a83eee": 1790006722,
@@ -5038,6 +4930,7 @@
   "904f8b94cecd2a64": 1790492713,
   "9069f0024cf1e70b": 1790642222,
   "906dd2c0aae894c5": 1790037737,
+  "906e3ba32f86b184": 1790692523,
   "9075122645972f8e": 1789954905,
   "9075dde2317384f4": 1789971183,
   "907618331330245a": 1790637634,
@@ -6807,6 +6700,7 @@
   "c8149dd394369d0b": 1789980318,
   "c826c17d2d8f1700": 1790572220,
   "c833b11b998ee2ef": 1789627496,
+  "c83a68f9f31e9dd5": 1790692523,
   "c83f4ed615ce5bbe": 1790066475,
   "c8529b434f2c60f5": 1790568321,
   "c85fc065f7cb48cc": 1790055317,
@@ -8558,8 +8452,8 @@
  },
  "companies_today": {},
  "day": "2026-09-29",
- "last_clip": 1790685320,
- "last_msg_poll": 1790692459,
+ "last_clip": 1790692523,
+ "last_msg_poll": 1790692767,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8603,7 +8497,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 23:34 KST",
+  "last_run": "2026-09-29 23:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
