@@ -396,6 +396,16 @@
    "t": "삼성·LG·LS, 아시아 최대 ‘데이터센터월드 아시아(DCWA) 2026’ 참가(종합) - edaily.co.kr",
    "ts": 1790660874,
    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVEM0X3BWdDFuRVhCZWk3RFU0eDV2ZFhsRFNlQ0pMcGlRTl9lcUZwTS1hNWZRX3pjN0d6WDhmemxQaTd0cTZjQTFmcDhhTFlid1hBa1ZWUEpHaWNzZVM1M2VpMlUyRUtPZUROdHpMYm1rclNVVk83NFZQQ0VlVG1tbQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "shinailbo.co.kr",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "한경협 \"AI 시대 데이터센터, 기업 경쟁력·지역 성장 이어져야\" - shinailbo.co.kr",
+   "ts": 1790665852,
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4dkl1cG9UNXlmc1hvcG9iZ3FWY3k4S1c2VkJ3QlN1cWVUS2RSZGdZRVRrOWhGMDRDRVpyQnlYbHZqT1lCMWgzeFRTenctdnJDZlhXVUlVSnJ6RWdLMHg5Wm1zNDF5UXRDOTZZNGhxb20?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1400,6 +1410,7 @@
   "1ff1216c7a52bff6": 1789697120,
   "1ffd5e4a734f4bba": 1790559622,
   "2003a4dad3956f37": 1789629088,
+  "201988e7faa312b3": 1790666731,
   "2024881a5fd9fecc": 1789851916,
   "202687319c396b42": 1790640533,
   "2028933daf8009a4": 1790661915,
@@ -4951,6 +4962,7 @@
   "90d7080654f2e3ff": 1790246731,
   "90daf74084f33fb6": 1790612731,
   "90ea457f3a85d9db": 1790398221,
+  "90ede29a8ad2e809": 1790666731,
   "90f5b27e6e6ea161": 1790571928,
   "9121352be8da3fec": 1790125530,
   "912417c26070be48": 1790044106,
@@ -8325,7 +8337,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790662829,
- "last_msg_poll": 1790666670,
+ "last_msg_poll": 1790666973,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8369,7 +8381,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 16:24 KST",
+  "last_run": "2026-09-29 16:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
