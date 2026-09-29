@@ -406,6 +406,26 @@
    "t": "강원도, 동해 AI데이터센터 건립 예정지 현장 점검 - 강원신문",
    "ts": 1790694677,
    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2Tnh2SGlOb0g4Qi0tRy03bXlsTktTOElFbUFnNXBKSno5WmtnMW9yMmlhRS0yQnJnX2dtM1pmRG5uRW9CZWlkQU1HWlBINFRJZVREaWhDWlFVdXRPVTRQWFVpNHE5SUMw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "공뉴스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "[강철수의 칼럼] 군산 AI 데이터센터, ‘8700억’의 조건 - 공뉴스",
+   "ts": 1790716262,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tSnZDS0t2VVhxam5TOWVGNU1RLXA3M3BXb0F5SFJ3ZnJJLTEySUt4bUxwS0JPeW8xYjBtRGpvVkg2UURubFlrV0h4Sm5hbGk0UkpnSW9wbkJjTHJHWHo0S0RRdWVKZjQxT3g0YQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "동행미디어 시대",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "유럽 해상풍력 급성장, 국내 전력기업 새 기회 - 동행미디어 시대",
+   "ts": 1790716200,
+   "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12Q0thQ3Q3eWJvNzRMbHQ3S0d5eGdfZUpLTVNlSS1EajQ0ejhTbHc3cks4THJ5VFBYQWhYOGtuU3JRWEdDc0NNVFVjNjljaGhPbVBHdk1EQUpZREZRN1E?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2427,6 +2447,7 @@
   "3b5aae540e943666": 1789951430,
   "3b5e163cf4cdb943": 1790563529,
   "3b6b19690ed57c45": 1789627496,
+  "3b764921252765a5": 1790716975,
   "3b7aa54e081e1158": 1789703719,
   "3b826fdd33041830": 1789744587,
   "3b90f7e44f1d89c5": 1789716627,
@@ -3156,6 +3177,7 @@
   "50a2250c2e8faa8b": 1790206680,
   "50ac9a976ea3c74c": 1790301997,
   "50b8174b10d5a680": 1789631127,
+  "50bb659e3f0be277": 1790716975,
   "50c3e2a19083187b": 1790124922,
   "50da6af18a233d2a": 1790573944,
   "50e458d29187c0f5": 1789627496,
@@ -5274,6 +5296,7 @@
   "940906eefa761fb6": 1789956616,
   "94115e2984e2c539": 1789958121,
   "941c0cee91617a00": 1790553879,
+  "942115de4b5c6a89": 1790716975,
   "9427fe567ef62616": 1790051717,
   "942ff7c77f94717e": 1789971751,
   "94374465cc9c4141": 1790129120,
@@ -8711,7 +8734,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790692523,
- "last_msg_poll": 1790716634,
+ "last_msg_poll": 1790717215,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8755,7 +8778,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 06:17 KST",
+  "last_run": "2026-09-30 06:26 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
