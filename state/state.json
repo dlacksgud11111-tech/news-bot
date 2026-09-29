@@ -356,6 +356,26 @@
    "t": "“전력·비용 분담부터 풀어야”… 3대 메가 ‘AI데이터센터’ 연착륙 해법은 - 아시아타임즈",
    "ts": 1790672700,
    "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yYXhYS0JNTlBRWFB0bkx1bGk1Rm9WbjVOZl8tVXNDX3pZSHBmc0dUenFVcGs5dks4NHBORW5JdVkwckdLUkhyT25RUjQ1aDliX19RQ2FJQXE1ZWhXa1E?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "녹색경제신문",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "전기차서 AI 데이터센터로…K배터리, ‘전력 백업’ 시장 선점 경쟁 - 녹색경제신문",
+   "ts": 1790673151,
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BN0pwRFFxOFp1WGp6RkVtTl9JQ2VGMm84bnlQYjZPeU5Xb2dOelI5VEJxT0RDdVNYaXFKMDNaenViMTAtQ3pGTTdwMFFXcW56STd3Z1BnaEtBc2Z4VGhIZVBFOEtLSGRS?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "중앙일보",
+   "sc": 8,
+   "sec": "데이터센터·AI전력",
+   "t": "SGC에너지 ‘군산 AI데이터센터’ 내달 착공…“AI로 에너지사업 효율화” - 중앙일보",
+   "ts": 1790669539,
+   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90bTI2aXp6amZuWlJTTUhpQ1pnU1ctUFZ4ay14X3lna1lLNjlJWWJrQXRMXzlvNlZSdWdMRFREeVl5Y3c0emZJaElwc01hYVhHYm9QYVZB?oc=5"
   }
  ],
  "clip_titles": [],
@@ -642,6 +662,7 @@
   "09eb8f88aa1157c2": 1790543116,
   "09ef967379a51795": 1789863399,
   "09fcdf52c41de82e": 1789644018,
+  "0a051ce57ba07884": 1790673879,
   "0a06be682c20c443": 1790047604,
   "0a0ce1112f3217b6": 1790660118,
   "0a13f0038a478570": 1789629088,
@@ -983,6 +1004,7 @@
   "13b14f836c28b550": 1790669122,
   "13b1c4688e622dbf": 1790291055,
   "13c1c22408759f25": 1790119712,
+  "13cb331f0e4e5efa": 1790673879,
   "13cf78ca87798eee": 1789633820,
   "13dbabbb8a354720": 1790641093,
   "13dcbd746b665f70": 1789782685,
@@ -3791,6 +3813,7 @@
   "68459171a4dbf6e8": 1790556791,
   "6848ebea814529a8": 1789866315,
   "684e282a9963010e": 1789979427,
+  "6854de4d6aa42eea": 1790673879,
   "68560aa3431c3e94": 1790478323,
   "6867bb7ff113b2dc": 1789744587,
   "686dd56a0788308d": 1790034858,
@@ -5600,6 +5623,7 @@
   "a4a1bfa6327beb7a": 1789724119,
   "a4a3fcc1dfdda87f": 1790516157,
   "a4a492308a6ee15f": 1790262018,
+  "a4a75fe6dee722b2": 1790673879,
   "a4ac8fbfd96388f2": 1789629088,
   "a4b7bc872c0b37c1": 1789971183,
   "a4be0381059cb18a": 1790428852,
@@ -6119,6 +6143,7 @@
   "b43b75bdfdc572b3": 1789713065,
   "b443353538459ac3": 1790577419,
   "b44ae3b409897ccb": 1790638794,
+  "b4562007e6d3b3e2": 1790673879,
   "b45bb2e8eb2efe99": 1789951430,
   "b45c431e8ea2528c": 1790248521,
   "b461fff6a117643f": 1789695618,
@@ -6871,6 +6896,7 @@
   "ccccfd5c57828991": 1789709642,
   "cccd5d04982ce98f": 1790081400,
   "ccd4ce630eb10794": 1790179822,
+  "ccdcada23185c12f": 1790673879,
   "cce62e4bf077cb34": 1790122002,
   "ccf1add09672e017": 1790658925,
   "cd016f81c4b301ab": 1789865116,
@@ -8478,7 +8504,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790670334,
- "last_msg_poll": 1790673541,
+ "last_msg_poll": 1790674124,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8522,7 +8548,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 18:19 KST",
+  "last_run": "2026-09-29 18:28 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
