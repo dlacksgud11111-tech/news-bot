@@ -521,6 +521,16 @@
    "t": "LS전선, 데이터센터 전시회서 서버랙용 신제품 선봬 - 브릿지경제",
    "ts": 1790659320,
    "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wMGFDY25Mc2lOb0g2Y2ZxSTB2TWZNSlcxTjBTbWU0VHUyc1pZYVNEMlctd2lFN3FMbl9MU2ZzZlduY1hQY1NqZC0yZFMtMXNfSjRMeHcxWkpyZw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "OhmyNews",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "도로공사-충남도, 행담도에 AI 데이터센터 유치 추진 논란 - OhmyNews",
+   "ts": 1790659860,
+   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DNE80eXFTU2xXbVVORWZlLXduWGJoVHc2VVd2clBiZEl0eGJ3b1FKdmNEZ2k1VWFyT0ZSZFY5VDNIUnhFNWttTGRzVHprWmZ5NE9fd21vS29na1ZIYk80U2hkYXVIZ2xhMjJPXzdvemlLQlFYc2lj?oc=5"
   }
  ],
  "clip_titles": [],
@@ -910,6 +920,7 @@
   "0cfe1c2d5effb2a9": 1790638794,
   "0cfe25d7cb55c482": 1790580361,
   "0d0e5918f95e7472": 1790042975,
+  "0d12296b9ba4f68e": 1790661615,
   "0d1588f4e772b962": 1790141423,
   "0d1e254740209b97": 1790370688,
   "0d22ffe0d4a2b38a": 1789627496,
@@ -8341,7 +8352,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790655465,
- "last_msg_poll": 1790661574,
+ "last_msg_poll": 1790661856,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8385,7 +8396,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 14:59 KST",
+  "last_run": "2026-09-29 15:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
