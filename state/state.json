@@ -496,6 +496,16 @@
    "t": "LG전자, 싱가포르서 AI 데이터센터 통합 솔루션 선봬 - NSP통신",
    "ts": 1790667484,
    "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fa1Q3UkNtcFhHbUsxaU1VVDlBMmR2Yjdvc1NCc3drcG94cnBDY0hwQ1Jja2JOTTZmZ1djakhvSjVIeVZhaF83NFUxa3lsbjdNV1NTNDdtd2NmbzJ6end6OQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "S저널",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "삼성SDI, AI 데이터센터용 혁신 배터리 솔루션 공개…아시아 최대 전시회 'DCWA 2026' 첫 참가 - S저널",
+   "ts": 1790661424,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1INkliSjJNZDBGNkpVdEd5UGQ2MzFrLU9lUk1VXzk4WkgzMWRTejktZnd3SkNzN09CWDdXREt3blQ0eWlqekJTTk9HRDlJYXk1UWpUc0dEbkdCcmZQQUNqaGZTQjJYRXZqdC1BT0tB?oc=5"
   }
  ],
  "clip_titles": [],
@@ -4974,6 +4984,7 @@
   "8e04c1d66f1deb00": 1790129720,
   "8e1e39ba8e77a4b1": 1790562951,
   "8e27b1048804c572": 1790148975,
+  "8e3ae65cf13f1b51": 1790668221,
   "8e3f6ef256aa94f1": 1789679720,
   "8e464bd01fe104b1": 1789630519,
   "8e4db77014df0594": 1790065327,
@@ -6701,6 +6712,7 @@
   "c68410c0b1b6c1de": 1790005215,
   "c698c1319c66137d": 1789629088,
   "c699b10232e26d0f": 1790662829,
+  "c69a70f6d66faccc": 1790668221,
   "c69be58112badbeb": 1789974040,
   "c69c64b4dca2c915": 1790058619,
   "c69fb7f8ef5a5417": 1789984228,
@@ -8449,7 +8461,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790662829,
- "last_msg_poll": 1790668169,
+ "last_msg_poll": 1790668470,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8493,7 +8505,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 16:49 KST",
+  "last_run": "2026-09-29 16:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
