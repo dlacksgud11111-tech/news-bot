@@ -246,6 +246,16 @@
    "t": "SGC 새 먹거리 ‘AI데이터센터’…KT가 10년 빌려 쓴다 - 중앙일보",
    "ts": 1790694061,
    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xdmdPVDViVXRhZHlzbUl3T3BHcVZsU2swbWstTUFwVVMtb1hLNVdvUGFEZ01KbEkzeVNHQVU5SWhjbTUyMEowQW1TMWFRTTlaZjlISHh3?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "Publicly owned company GB Grid announced in UK connections policy overhaul",
+   "ts": 1790694900,
+   "u": "https://www.pv-magazine.com/2026/09/29/publicly-owned-company-gb-grid-announced-in-uk-connections-policy-overhaul/"
   }
  ],
  "clip_titles": [],
@@ -5038,6 +5048,7 @@
   "925690dfa9aefbfb": 1789929436,
   "925cc8613f810c74": 1790127320,
   "9262c10fb8046be4": 1790139915,
+  "92693cda9fc1a204": 1790695218,
   "926e789468e0e012": 1790670334,
   "926fdc448886b72b": 1790559622,
   "92705460e7b95f40": 1790539553,
@@ -8505,7 +8516,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790692523,
- "last_msg_poll": 1790695172,
+ "last_msg_poll": 1790695460,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8549,7 +8560,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 00:19 KST",
+  "last_run": "2026-09-30 00:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
