@@ -216,6 +216,16 @@
    "t": "한국-리비아 경제협력포럼…기업 중동 진출·건설수주 지원",
    "ts": 1790677840,
    "u": "https://www.yna.co.kr/view/AKR20260929177100504"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Lefdal Mine acquires data center development site in Norway",
+   "ts": 1790678844,
+   "u": "https://www.datacenterdynamics.com/en/news/lefdal-mine-acquires-data-center-development-site-in-norway/"
   }
  ],
  "clip_titles": [],
@@ -3515,6 +3525,7 @@
   "630dd854435a91b7": 1790651338,
   "6315b1858ebc19d1": 1790041833,
   "631efbcb9aa307e7": 1789972883,
+  "631f80be617dced0": 1790679660,
   "6345134cd72dbf42": 1790455830,
   "63487b3b2a6cb90a": 1790151015,
   "6364034e942c89e0": 1790127320,
@@ -4070,6 +4081,7 @@
   "757964a3229b9d23": 1790197378,
   "757a6a55bacd7d6a": 1789635918,
   "7583a967dfa068d8": 1790643992,
+  "7583b0285a5c632f": 1790679660,
   "758606637cdcc013": 1789956921,
   "7593476be10e3fa4": 1789627496,
   "75ae30bb3cb5a245": 1790040620,
@@ -8388,7 +8400,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790677930,
- "last_msg_poll": 1790679341,
+ "last_msg_poll": 1790679910,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8432,7 +8444,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 19:55 KST",
+  "last_run": "2026-09-29 20:05 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
