@@ -211,6 +211,16 @@
    "t": "대우건설 컨소시엄, 8천686억원 용인 반도체국가산단 1공구 수주",
    "ts": 1790640551,
    "u": "https://www.yna.co.kr/view/AKR20260929035200003"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "아주경제",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "삼성 6개사, 헬릭스에 10억 달러 투자…글로벌 AI 데이터센터 생태계 구축 - 아주경제",
+   "ts": 1790638339,
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oUEZ2UVlyUTBVTUFoSW05ZDJCSXZrbndmZFl1TGk4Q0RHWlNZRTJSYzNPMjhaUGdaSnI3cy1uc2s2YUVVbldvOGdaSmJwNUNzc2VBLWp0ZjlEd9IBWEFVX3lxTFBFRmZ4a1UxVmVVY3FWMG9ZczRWdl83NWd2X2Y0WHIzd3ljMjZYdFljbjZFY0hUbEtldi1QSkNYQzVnZEhXVkFsdXgtY1BneWQzRXRmcEFPdG8?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1738,6 +1748,7 @@
   "338c63838e210faf": 1790141423,
   "3396ee9e3f53896a": 1789956616,
   "339c85f4685d0356": 1790063042,
+  "33a2fa5cfcf0ed09": 1790641660,
   "33a561bc620774a2": 1790140218,
   "33adb801b976ae33": 1789983317,
   "33b15d5cbc5fb70c": 1789627496,
@@ -2442,6 +2453,7 @@
   "49db0db0f2d2f671": 1789630819,
   "49e385a8a82170d0": 1789722930,
   "49e4bffe31cfda60": 1789976119,
+  "49e911ba162ffa2a": 1790641660,
   "49f84c773b02cf48": 1789868332,
   "4a2c5cefb76150a2": 1790572796,
   "4a2cc75936fbe85d": 1790635214,
@@ -3053,6 +3065,7 @@
   "5fb30be164120cc6": 1790055317,
   "5fb479e831d936e2": 1790579195,
   "5fbb418202e27fcd": 1790478323,
+  "5fbdf1a0976e6051": 1790641660,
   "5fbe3682c816ad6a": 1790553879,
   "5fe63de6b485eb47": 1790581516,
   "5fecf06d5f4200dd": 1790123718,
@@ -4819,6 +4832,7 @@
   "a19a9fce370f922b": 1790143827,
   "a1a4a4d4aaa7c575": 1790134817,
   "a1a5c3206a477a30": 1790494816,
+  "a1abaa7dac9a1676": 1790641660,
   "a1c510daab446862": 1789971183,
   "a1d00b143551c19c": 1790031917,
   "a1ef802b6a371af0": 1790044106,
@@ -6346,6 +6360,7 @@
   "d62d92956d73443a": 1790339324,
   "d6305b145c3f9426": 1789693531,
   "d6318335742f6eaa": 1789627496,
+  "d632c156f93dad4f": 1790641660,
   "d64176d3e9bf2aa1": 1790073620,
   "d641fe517b813ed1": 1789662917,
   "d643fba2ea75465d": 1789627496,
@@ -6722,6 +6737,7 @@
   "e459428a19c949b3": 1789948516,
   "e4629bb316475297": 1789951430,
   "e4671cc087b3a4d7": 1790007919,
+  "e46acd80f7d77940": 1790641660,
   "e46afdda051fb398": 1789629088,
   "e46b13406fe5cefb": 1790543116,
   "e4744615536a6e1d": 1789873818,
@@ -7521,7 +7537,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790640533,
- "last_msg_poll": 1790641343,
+ "last_msg_poll": 1790641902,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7565,7 +7581,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 09:22 KST",
+  "last_run": "2026-09-29 09:31 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
