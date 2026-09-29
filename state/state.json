@@ -229,7 +229,7 @@
   },
   {
    "co": "LS전선",
-   "n": 2,
+   "n": 3,
    "s": "newsphere.kr",
    "sc": 14,
    "sec": "전력기기",
@@ -7024,6 +7024,7 @@
   "ccf1add09672e017": 1790658925,
   "cd016f81c4b301ab": 1789865116,
   "cd05a37249faa4c7": 1789877422,
+  "cd0e72f07b28edd1": 1790706014,
   "cd129ba9c61c32ca": 1789634116,
   "cd1b87be92e65ae3": 1790047038,
   "cd31dcb01cc9405b": 1789954905,
@@ -8647,7 +8648,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790692523,
- "last_msg_poll": 1790705983,
+ "last_msg_poll": 1790706258,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8691,7 +8692,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 03:19 KST",
+  "last_run": "2026-09-30 03:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
