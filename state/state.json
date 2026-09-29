@@ -451,6 +451,16 @@
    "t": "삼성, AI 데이터센터 '판'에 직접 뛰어든다… 삼성전자 5억달러·5개 계열사 5억달러 투자 - ER 이코노믹리뷰",
    "ts": 1790650317,
    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rM3BINDZrejN3R2lXblhUdkg4UkZ2UUd1RkttWkNOMFQ3NGViZWcwRDJBdGtlZ2ZXMnRZUGZNODdwa3AtX240SDBkZmItc083VnREb3VYRGd2aDFpcTQ0Z19TZnVLaVgyNjZDag?oc=5"
+  },
+  {
+   "co": "LS전선",
+   "n": 1,
+   "s": "alphabiz.co.kr",
+   "sc": 10,
+   "sec": "전력기기",
+   "t": "“전력망부터 서버랙까지”…LS전선, AI 데이터센터 통합 전력 솔루션 구축 - alphabiz.co.kr",
+   "ts": 1790653197,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01LWpRT3NsU3hRTDgwSFJWZ0JOUUxObFFWdm9WVGJHZlRza1U1NEVWc0syazdvTDNDN1A2Yk5sM1cyQzJCenJCSnFOOF9Yb1lJdXdWcEZDRFpUb01CNnNNbE10ZnJpa1poM2tKMFhR?oc=5"
   }
  ],
  "clip_titles": [],
@@ -5174,6 +5184,7 @@
   "9e037fe94de4a19f": 1789785019,
   "9e088260698a60f8": 1789710209,
   "9e0be620ffcf9e48": 1789689915,
+  "9e13841b149cc6b3": 1790654258,
   "9e26866e21729d37": 1790038892,
   "9e2b1f59faf917f2": 1790646933,
   "9e3038eb9d9bca33": 1790049916,
@@ -8110,7 +8121,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790647820,
- "last_msg_poll": 1790653929,
+ "last_msg_poll": 1790654499,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8154,7 +8165,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 12:52 KST",
+  "last_run": "2026-09-29 13:01 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
