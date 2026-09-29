@@ -201,278 +201,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 1,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 2,
-   "s": "기계신문",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "삼성SDI, ‘DCWA 2026’서 AI 데이터센터용 배터리 솔루션 공개… 원통형 LFP 첫선 - 기계신문",
-   "ts": 1790647915,
-   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FSFIwZkIwYWNWbXFpTG45N09Za2pVOEFvQjEtY3RxTk9tLW1XV2JXaldDMGpiQlgzS3VjNEFJWTc1RjEyX0NzTUlScXptS2Q3RFdxS1JCcl9Rd29UQjc4cDg0ZjVQUQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "웹이코노미",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "삼성SDI, AI 데이터센터 배터리 공략…원통형 LFP 첫 공개 - 웹이코노미",
-   "ts": 1790647553,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IZXV5QXBod3JOMXE0Nnd3SERKd2RyS0VubDZIRDY0M0N0S1hZMWNPc2NEODJXcWt2ZDhJbm1Da1BzbUk2RndpLWI2b1dBTmtweEp2cFpYeldVZWxqMmk0Z01aRVVlU29wUmgwZXkyUnNQZw?oc=5"
-  },
-  {
-   "co": "LS전선",
-   "n": 2,
-   "s": "newspim.com",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "LS전선, AI 데이터센터용 신제품 공개...전력솔루션 확대 - newspim.com",
-   "ts": 1790648100,
-   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WZEJmQ2N1QnJQUkxPLVpCV1VFY3lLR2tRRjBnZGY4SEphcVlBalFsMGM2T0F1ckZkQjRQM2Z6ei1FSWhIdno4ZDA3RkJySFg4TEJud3FBSXFiR0JY?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "아이뉴스24",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "전기차서 은퇴한 배터리, 데이터센터로…LG엔솔 美 ESS 영토 확장 - 아이뉴스24",
-   "ts": 1790647202,
-   "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Qem5sbzhpVDdvRzAxLXJyc28wTDVyTzF4OHNrVmJVV1JXcmJMb25ndGR4TWhYZlFid0RsdmotZzlyLUNiWGlRNW9odw?oc=5"
-  },
-  {
-   "co": "LS전선",
-   "n": 1,
-   "s": "아주경제",
-   "sc": 4,
-   "sec": "전력기기",
-   "t": "LS전선, AI 데이터센터 서버랙 내부까지 진출한다 - 아주경제",
-   "ts": 1790648436,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CQUZCc0N5TXlOOHU0Mk5IbEI2NEpxM3YyeXNLajcyREhyQVEtZXJYMWhiYW1QQlNoZC14SmpyUkJMdVlIaFlMa2QyTXN6WXBrNzVUODYtS1JSZ9IBWEFVX3lxTE9UcERGS2wtQVNMSjN4SW5wZDJNU2QxMC1kdXp4LXVIVk84SE81bS00T0Q5d05ISERmd1JMM3o1U3dZcXpCUWt5Z1hmUHE2bkxIQVJBMnp0cHQ?oc=5"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "biz.heraldcorp.com",
-   "sc": 8,
-   "sec": "전력기기",
-   "t": "HVDC ‘글로벌 톱3’ 도약 발판, 효성重 창원 신공장 - biz.heraldcorp.com",
-   "ts": 1790648018,
-   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SUmFQMUpwcHlid3pwQWlzbnFfeUlZR2xVVzc2UU5NQlJTbjRRSGctSzVmLWdiUmw2MFFNX0RaeHBsS0xnQ1JKZVQzbDhvUGhoWmpYXzF3?oc=5"
-  },
-  {
-   "co": "LS전선",
-   "n": 1,
-   "s": "뉴시스",
-   "sc": 4,
-   "sec": "전력기기",
-   "t": "LS전선, AI 데이터센터용 버스바·커넥터 공개…서버랙 내부로 사업 확대 - 뉴시스",
-   "ts": 1790648725,
-   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kQmhxMVV4Rm0yTzR6SFUxTXdWZUpFcU9SQVVsUkNjUnhNeWZZR1hfQ0RMSDNCSTc2UVJLRVlOS3JBbXE1MlViVkV2aGJ4bENET2hiT01ZMVM1X3duTjB6StIBeEFVX3lxTE5WUUNMczB3dXFmVHVtYW55dEdLNkpDbVdoa2s1em5UUUNERTM4aW9JM01nU21FdGNyaHRiM3llMmZ1SGVqODM4ODFWWG1rMk95SUZ1Yy1QR3h5ampVWHN2Z2ktcDhCcTRfWm55ZUtLOWlHaXdiVUd3cg?oc=5"
-  },
-  {
-   "co": "LS전선",
-   "n": 1,
-   "s": "소비자경제",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "전력 공급하고 데이터 보내고 변동 잡는다...LS전선, AI 데이터센터 해법 제시 - 소비자경제",
-   "ts": 1790648670,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDVXFMejRVQ2pTTXd2UVFobGtWVGtzVzloa0JiY0FDM2xrMUI4NXRFTXk0TnEwMUtyTGdaVDZydW1oZ04tSFRxSkhCWDVKRkNhSnhtcGV1UDJTbXFlUUd2UTU1Y01yMkJTMGc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "theggnews.com",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "삼성, AI 인프라에 1.3조원 베팅…데이터센터·전력까지 영토 확장 - theggnews.com",
-   "ts": 1790648580,
-   "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zRGM3UWFJVEtocGFOOTNCem1QLXo0aUNONFg1cXFlUndSSXd5Q1dJQUQ2VEJ0TVhCVUFTX053Y1MxRHM3b3UxUy1GYTJFOWlpN0FiZw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "edaily.co.kr",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, AI 데이터센터 냉각도 '모듈형'으로…구축기간·비용 줄인다 - edaily.co.kr",
-   "ts": 1790643603,
-   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeEFYcmJHdFJNMVNyM3BJOGZBcWRrTUVSbGhoVUt4OFdVNWFPZjhGT3VHbm11QTk1dUVUQUFiU0w4ZnpVQnNFS0VHeEpNdkUtWFRnZHVIUDBORFhSV2kyOXZmb0xnZDNZcTR6Y3JabWRIaExQNThnSldxSW5LdUlpRw?oc=5"
-  },
-  {
-   "co": "LS전선",
-   "n": 1,
-   "s": "서울경제TV",
-   "sc": 4,
-   "sec": "전력기기",
-   "t": "LS전선, 버스바·커넥터 신제품 공개…AI 데이터센터 솔루션 확장 - 서울경제TV",
-   "ts": 1790649219,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zMW1GbUVFcDFfRWQ1UXBvMnJnTWU4LVVNbGZxSkdTOFFVNlVISHU5MzRMa3ZidFdkTFVTU1NhVUtIXzZheUdmXzc5RWtfNGFQMFlHdDl2ajlBdWQ4VFMyYXlsVE0?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 8,
-   "sec": "재생에너지·ESS",
-   "t": "기상청, 태양광·풍력 기상예측정보 1시간 간격으로 제공",
-   "ts": 1790682418,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303583"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 17,
-   "sec": "유틸리티·정책",
-   "t": "한전, 폭염·집중호우에도 전력공급 안정성 확보",
-   "ts": 1790681138,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303581"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 7,
-   "sec": "원전",
-   "t": "[국감 자료] 계속운전 심사 중 멈춘 원전 4기, 날린 전력 2395만MWh",
-   "ts": 1790680383,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303577"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "한국경제",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, 블록처럼 연결하는 모듈러 솔루션으로 AI 데이터센터 냉각 시장 공략 - 한국경제",
-   "ts": 1790647432,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13dzRUNjVaSlk1UEVrUFB1T3puS0lWNzRvdF9YdnR1Mmh0N1VGenJhM0RSQUtMamI4aEtmVW1IbWpOcEM2SEYwWGtjLTJrbW00ck1JX2xsZmFOUQ?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "아이뉴스24",
-   "sc": 14,
-   "sec": "데이터센터·AI전력",
-   "t": "LS일렉트릭, 싱가포르서 데이터센터 전력 솔루션 공개 - 아이뉴스24",
-   "ts": 1790555904,
-   "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FeHB0bzVETDFLUU1JUXFVZ010TkdpOTZQNUdiME5penVUMkdiMS1QNXdEWTMwYXFLcDIzQmVBcF81RV9peVVmUmR2Zw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "엠투데이",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, AI 데이터센터 냉각 승부수⋯모듈러 솔루션에 엔비디아 인증 CDU까지 - 엠투데이",
-   "ts": 1790650725,
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kODJLWkxKSzdEZkFWN0ZId1ZtZ05OZ05VcFBoU0VlWGVvZWFQRTU0NmRoQlY1TFNubG9IZGJueG5ESHZTNC0yN3JHeW5pMTZsZTFWMFdPLURrQ1hKV3dUVExUTEFXTlVCZlpHejVPaw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴스1",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "삼성 10억 달러 베팅 노림수는?…반도체 넘어 데이터센터 생태계 공략 - 뉴스1",
-   "ts": 1790650388,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HLUQwTlNBNmhTM0JGbktLRU9HSGQ3aTNLTjgzdXhtbTNWMkswdTktMFV4V0RiSWRBMmwzTnpiQW55SnplVVBxa0djZFN4REVmSm93c2VDQ3BQUE1fVHY1ZUZ2ZzHSAWpBVV95cUxNMTcwblRwWGhaemxEM05SZ3p4c2VYUGFaUEUzVk1wUnpfbWM2aHJtMGhyNDg1b2ljUlI5NUEyUTRDcmtwdF9SQkdrMzE1QzFtWXFkNTZSUU40Y2ZHTDRzRGdGUWhQWVhpLS1n?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "한스경제",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, 모듈러 냉각으로 AI 데이터센터 공략 - 한스경제",
-   "ts": 1790650277,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oX0hZWU1iYndvN204dC1PaWhyb3hRNDIzRU1pcG1uNmJVZkJsdWtLN0NQbS1aUkNfR21iZXc0SWNQVkl4aE9BSVFHMldZV0ZCNmdoLUpSNGlQV0NvMUtZZ01aTnIzQXlmLWVpNtIBb0FVX3lxTFAyN3d3Qkc1YmVkYzIwaHI2MU1YdDNjVzh1UE9hUmxYTG9oWXJlVzdUd0dlRE9zbjdibkpjWEFpdVR0dDNMR2VVNjZNbkZLOWVkTlF1cldvb2draFFCZWQ2bmJ3SW1uNDgzSllORnNsdw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "더글로벌기빙뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, AI 데이터센터 인프라 사업 확대…냉각 넘어 설계·구축·운영까지 - 더글로벌기빙뉴스",
-   "ts": 1790650260,
-   "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HZUJWckJVeDBrb245S3Z4OHBOSzdDLXJuT3d3VlNXUG5ta2JRRTB1RzJuZ1pRaTA2NWd1S1gta2NGY1VYM2JMeThmdXBUaW1tcWNHbQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 5,
-   "sec": "재생에너지·ESS",
-   "t": "경기도, 경기기후플랫폼 개편…태양광 적지·재활용 보상처 한눈에 확인",
-   "ts": 1790649526,
-   "u": "https://www.etnews.com/20260929000154"
-  },
-  {
-   "co": "LS전선",
-   "n": 1,
-   "s": "서울경제",
-   "sc": 4,
-   "sec": "전력기기",
-   "t": "LS전선, 직류 버스덕트·초전도 기술로 고성능 데이터센터 공략 - 서울경제",
-   "ts": 1790644532,
-   "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93Sm9VMjlPaEtERXhWUmZoT2NFbG0ya3lMZVRPbERiYzI4NVF4QUJ5Z3BEUGJ3bVM1QVRfamdsTjhzRnJkdncybV94bVhhOGVvVVHSAVNBVV95cUxQU3RtMjN4dVViVG90VmRscHI5amVraFVKY0U0UVBXQ3lZbGhIY0VUWTdrazV1R3MzMW9FUm5OSENJdVZDQjk3bVhRTGdWMm9BXzJMNA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "서울경제",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "삼성, 美 AI 인프라 기업에 1.4조 투자…데이터센터 글로벌 동맹 - 서울경제",
-   "ts": 1790640712,
-   "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80SDJBZ0lfMVg4MGhnVjJzTng5Zk81bVJ0VlJKX2ZJTDJFSUU4aTVxSTlHbVVBQWxHVEFkd0VSenNsR1NUenNQNGY3Z3JDMHhTVWfSAVNBVV95cUxQQkN2TFpEVlplamh3Qms4WWpTb0wxZmlYTXdHbGc1MWhmZHVzVE9pMzVRVUZLdmlwcVFiN04yaGNaM2pOY0NlZi1MYVRyRHIxNlR4MA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "ER 이코노믹리뷰",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "삼성SDI, AI 데이터센터 공략 강화…차세대 원통형 LFP 배터리 첫 공개 - ER 이코노믹리뷰",
-   "ts": 1790650369,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCZ0pOZTFJNTctX3I0SExvREtuaFJCVl9vX2d2SndlOWhyNHcyaHdnVTZvSkNhSC1DTl9iOTFXUDFPNkViS1hrRGh2bEFxTGxadVlDV1lubmgtQTM3aTVzWHZ4aWpRN3FoV1hySw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "ER 이코노믹리뷰",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "삼성, AI 데이터센터 '판'에 직접 뛰어든다… 삼성전자 5억달러·5개 계열사 5억달러 투자 - ER 이코노믹리뷰",
-   "ts": 1790650317,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rM3BINDZrejN3R2lXblhUdkg4UkZ2UUd1RkttWkNOMFQ3NGViZWcwRDJBdGtlZ2ZXMnRZUGZNODdwa3AtX240SDBkZmItc083VnREb3VYRGd2aDFpcTQ0Z19TZnVLaVgyNjZDag?oc=5"
-  },
-  {
-   "co": "LS전선",
-   "n": 2,
-   "s": "alphabiz.co.kr",
-   "sc": 10,
-   "sec": "전력기기",
-   "t": "“전력망부터 서버랙까지”…LS전선, AI 데이터센터 통합 전력 솔루션 구축 - alphabiz.co.kr",
-   "ts": 1790653197,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01LWpRT3NsU3hRTDgwSFJWZ0JOUUxObFFWdm9WVGJHZlRza1U1NEVWc0syazdvTDNDN1A2Yk5sM1cyQzJCenJCSnFOOF9Yb1lJdXdWcEZDRFpUb01CNnNNbE10ZnJpa1poM2tKMFhR?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전파신문",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자 '데이터센터월드 아시아(DCWA)' 참가 - 전파신문",
-   "ts": 1790643900,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZLWJEcmMwN2RyZFBRWmdXZkJPTXcxLWNSV21ZWWxfek9jUWplel9UV2lKSVlhTXFpd0lEYnRkOWl0MkVwb2lNcF9IUVlOeFNNT2VGMWpCSTNwZnRoT0E4OVByZlhfS0J0WWc?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "0003f98f6034d59c": 1790586316,
@@ -3007,6 +2736,7 @@
   "50da6af18a233d2a": 1790573944,
   "50e458d29187c0f5": 1789627496,
   "50e486dfa75112be": 1790467770,
+  "50eede0da2086ab1": 1790655465,
   "51018278af862d2e": 1790041522,
   "510cd51cf7d4b369": 1790495418,
   "5112bcb93a0c738e": 1789631127,
@@ -8140,8 +7870,8 @@
  },
  "companies_today": {},
  "day": "2026-09-29",
- "last_clip": 1790647820,
- "last_msg_poll": 1790655094,
+ "last_clip": 1790655465,
+ "last_msg_poll": 1790655706,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8185,7 +7915,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 13:11 KST",
+  "last_run": "2026-09-29 13:21 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
