@@ -5,6 +5,7 @@
   "LS일렉트릭|투자·증설": 1790126759,
   "LS전선|수주·계약": 1789713632,
   "Vertiv|투자·증설": 1790328618,
+  "가온전선|수주·계약": 1790721919,
   "대한전선|수주·계약": 1790588718,
   "일진전기|수주·계약": 1790575672,
   "한국전력|수주·계약": 1790498127,
@@ -163,6 +164,10 @@
   [
    1790662216,
    "수주잔고 84억9000만달러 쌓은 HD현대일렉트릭, 주가는 3.03% 조정"
+  ],
+  [
+   1790721919,
+   "대신證 “가온전선, AI 데이터센터 수주 5.2조원…목표가 36만원”"
   ]
  ],
  "alerted": {
@@ -184,6 +189,7 @@
   "674fed9742c4697e": 1789901120,
   "67f931ba5c829b33": 1789694720,
   "6958cd328c52ad5c": 1790557915,
+  "69c0d1493b507851": 1790721919,
   "71ac5f734948ed61": 1790055920,
   "7af5ff2c39f18449": 1790328618,
   "81adef0c372cdae1": 1789968267,
@@ -205,7 +211,7 @@
   "f0f4cc942107030e": 1790662216,
   "fe7b17c162f91919": 1790498127
  },
- "alerted_today": 0,
+ "alerted_today": 1,
  "clip_buffer": [
   {
    "co": "",
@@ -216,6 +222,26 @@
    "t": "AI 데이터센터 우후죽순 짓는다더니…10곳 중 7곳은 '유령'? - 뉴시스",
    "ts": 1790721000,
    "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85VDNYOGk4X2xEZTd1Q1p2djl0andjLTNsc0FyY0JHY2dVRlkyOVB1ZjRRQWZQZjRUb1p0TlhYWjB1cDdMck9PS21wa09MUGxvN3V5bjRoQ1dEYUgxbmhKZ9IBeEFVX3lxTE85UWEtWWpjbWU4ZjIwY1lTUm9iUUtDM1V5UVdVRmRfZ1p6RFFFNVh5d3FyLWhLQXdmMG8yNjdQdWdfOEgtQzNTcnU5NkxJRFNkNmY2b0ZqMGFKZ2NKdi1UVHNETEVzRnBKa3BvVXpSOE9IWlNjUXdnaw?oc=5"
+  },
+  {
+   "co": "가온전선",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 10,
+   "sec": "전력기기",
+   "t": "대신證 “가온전선, AI 데이터센터 수주 5.2조원…목표가 36만원” - v.daum.net",
+   "ts": 1790721363,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yTnFzcEVoVnh6TzFJcXZ5b3VQTjI1WjFwVndDWWkyYjdBYjM0VnlBZVRaNFgyeVRwbTAwS2lSbWJXMk1lWHFOdm1PNVlOUTA?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "지티티코리아",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "로봇 AI의 전력 한계 줄인다...범용 저전력 프로세서, 데이터센터로 확장 - 지티티코리아",
+   "ts": 1790721000,
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tcUZhWEtVbFJsR3FhVXdOMDBsd0RESW8zLVlzNHRQY3J0MDlQdDhKZXhvWE1lZHVjLUJmbFExOHNxUGxRdU8ybm8xMjRjY2czMnB0RXVxZkdaZHFxV0x2cV9SQ1pkaElrV3c?oc=5"
   }
  ],
  "clip_titles": [],
@@ -776,6 +802,7 @@
   "117e608bc23d5c37": 1790663718,
   "11850117002d81da": 1790669122,
   "119705bb7884b9c5": 1789627496,
+  "119facfb80761bf6": 1790721919,
   "11a41450b4b087b5": 1790579195,
   "11aa5dd63b7b97b0": 1789627496,
   "11aad1943feb3cd2": 1789669222,
@@ -3784,6 +3811,7 @@
   "69b0ac0bdb8f92fa": 1789865116,
   "69b19ee136adf83f": 1790672719,
   "69b341e880c8284a": 1790130336,
+  "69c0d1493b507851": 1790721919,
   "69c94ad024ae4c2a": 1789957222,
   "69dcd04970d40137": 1790558489,
   "69dd02cbda4266ca": 1790653090,
@@ -8535,7 +8563,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790719251,
- "last_msg_poll": 1790721867,
+ "last_msg_poll": 1790722169,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8579,7 +8607,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 07:44 KST",
+  "last_run": "2026-09-30 07:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
