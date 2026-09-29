@@ -206,7 +206,18 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 2,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴스토마토",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "K전력기기, 3분기도 ‘고공행진’…‘40조’ 육박 수주잔고에 전망도 ‘맑음’ - 뉴스토마토",
+   "ts": 1790576762,
+   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43YnJCR2xaZlE2RmpPb1J2UXJtVi12ZFlqSlZpQlNrMFRFUk1fa2pxMFhQRUJTT0VIZEo3UFp5MXotRTY2c2R3c3VySGZaQ2JjWUNwZGo3dGRoSDhQRUF0bw?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "0003f98f6034d59c": 1790586316,
@@ -2221,6 +2232,7 @@
   "3eb7a5a7ee77bdb7": 1789629088,
   "3ebb13936c39b990": 1789627496,
   "3ebc7b6a6c404e8a": 1790141423,
+  "3ebf84e7cd66b92b": 1790663121,
   "3ec5b8cd2fcc9bf3": 1789748719,
   "3eccbe4ac5be1cfd": 1789632918,
   "3ed642ea05ad0c1e": 1789627496,
@@ -4669,6 +4681,7 @@
   "8f6f62765762ff11": 1789627496,
   "8f7ca15ea30a9ed9": 1790660118,
   "8f7cb57609f1106d": 1790478323,
+  "8f88666ffbb8bfea": 1790663121,
   "8f952be1b118d0dd": 1790644581,
   "8f9591735ed80ab1": 1789715119,
   "8f9690203d2e55e5": 1790562951,
@@ -6846,6 +6859,7 @@
   "d7b411bead2d5c5c": 1789951988,
   "d7bf220aa9ded88a": 1790644581,
   "d7c5f9994c611f9c": 1789948516,
+  "d7c6cd3c2a25afd7": 1790663121,
   "d7dbeece8894873b": 1790059817,
   "d7ea9f6425c44aae": 1789959919,
   "d7ff6e43ba2ecd86": 1789718720,
@@ -8061,7 +8075,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790662829,
- "last_msg_poll": 1790663075,
+ "last_msg_poll": 1790663372,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8105,7 +8119,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 15:24 KST",
+  "last_run": "2026-09-29 15:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
