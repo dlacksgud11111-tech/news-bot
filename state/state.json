@@ -241,6 +241,26 @@
    "t": "전기차서 은퇴한 배터리, 데이터센터로…LG엔솔 美 ESS 영토 확장 - 아이뉴스24",
    "ts": 1790647202,
    "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Qem5sbzhpVDdvRzAxLXJyc28wTDVyTzF4OHNrVmJVV1JXcmJMb25ndGR4TWhYZlFid0RsdmotZzlyLUNiWGlRNW9odw?oc=5"
+  },
+  {
+   "co": "LS전선",
+   "n": 1,
+   "s": "아주경제",
+   "sc": 4,
+   "sec": "전력기기",
+   "t": "LS전선, AI 데이터센터 서버랙 내부까지 진출한다 - 아주경제",
+   "ts": 1790648436,
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CQUZCc0N5TXlOOHU0Mk5IbEI2NEpxM3YyeXNLajcyREhyQVEtZXJYMWhiYW1QQlNoZC14SmpyUkJMdVlIaFlMa2QyTXN6WXBrNzVUODYtS1JSZ9IBWEFVX3lxTE9UcERGS2wtQVNMSjN4SW5wZDJNU2QxMC1kdXp4LXVIVk84SE81bS00T0Q5d05ISERmd1JMM3o1U3dZcXpCUWt5Z1hmUHE2bkxIQVJBMnp0cHQ?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "biz.heraldcorp.com",
+   "sc": 8,
+   "sec": "전력기기",
+   "t": "HVDC ‘글로벌 톱3’ 도약 발판, 효성重 창원 신공장 - biz.heraldcorp.com",
+   "ts": 1790648018,
+   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SUmFQMUpwcHlid3pwQWlzbnFfeUlZR2xVVzc2UU5NQlJTbjRRSGctSzVmLWdiUmw2MFFNX0RaeHBsS0xnQ1JKZVQzbDhvUGhoWmpYXzF3?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1089,6 +1109,7 @@
   "1c472455a4fb2da4": 1790564716,
   "1c49de959097a37e": 1789886931,
   "1c4ce2cc02a26ac9": 1790057120,
+  "1c4f36dd2e65e4de": 1790649016,
   "1c536ce1bfdc3fde": 1789688119,
   "1c5ac6154e6be5f5": 1790553024,
   "1c6170e020a711c1": 1790111621,
@@ -1442,6 +1463,7 @@
   "27a3dc76540b66ea": 1790384721,
   "27a7412687a10276": 1789727277,
   "27cc99f898c802b1": 1789718131,
+  "27cf08c00842fac9": 1790649016,
   "27d8861bc777722a": 1789712512,
   "27dfdb856351eb78": 1789997722,
   "27e1e0fc3d8c301f": 1789726134,
@@ -2899,6 +2921,7 @@
   "55cb0c44876670a4": 1790201443,
   "55dfdc15e14c4259": 1790550621,
   "55e6d4b50800ec10": 1790060726,
+  "55f4b44f50728b6f": 1790649016,
   "561771e68458c8be": 1790591719,
   "5624251de8e3dd87": 1789627496,
   "5633b9d5c57b4b50": 1790044106,
@@ -7771,6 +7794,7 @@
   "fe2d0bba8dfc111f": 1790310318,
   "fe36aebd89cc2470": 1789712512,
   "fe39f17b99211834": 1790556791,
+  "fe44767754a47274": 1790649016,
   "fe48301b7614db2c": 1790043540,
   "fe4d8609349e3f93": 1790375732,
   "fe5ecc7b9e9ea385": 1789981821,
@@ -7822,7 +7846,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790647820,
- "last_msg_poll": 1790648980,
+ "last_msg_poll": 1790649264,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7866,7 +7890,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 11:29 KST",
+  "last_run": "2026-09-29 11:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
