@@ -1,6 +1,6 @@
 {
  "alert_cooldown": {
-  "HD현대일렉트릭|수주·계약": 1789901120,
+  "HD현대일렉트릭|수주·계약": 1790662216,
   "LS일렉트릭|수주·계약": 1790574523,
   "LS일렉트릭|투자·증설": 1790126759,
   "LS전선|수주·계약": 1789713632,
@@ -159,6 +159,10 @@
   [
    1790635520,
    "SPP’s ‘stop-gap’ resource adequacy plan for Western balancing area panned at FERC"
+  ],
+  [
+   1790662216,
+   "수주잔고 84억9000만달러 쌓은 HD현대일렉트릭, 주가는 3.03% 조정"
   ]
  ],
  "alerted": {
@@ -198,9 +202,10 @@
   "cdaa54f68b0563fa": 1789658129,
   "d09dd25c4f4edf8d": 1790174132,
   "deb2e9eb313eef4a": 1790635520,
+  "f0f4cc942107030e": 1790662216,
   "fe7b17c162f91919": 1790498127
  },
- "alerted_today": 1,
+ "alerted_today": 2,
  "clip_buffer": [
   {
    "co": "LS전선",
@@ -561,6 +566,26 @@
    "t": "LS전선, AI 데이터센터용 신제품 공개… 서버랙 내부로 사업 확대 - 뉴스와이어",
    "ts": 1790645325,
    "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FY0lmcGNuQkNZRGxpODBUY25YQTVybUpWRExTLWk1VWxueEdjMHdmc3Joc0dRNGlBblpsWjdKZ1hWVUYwQnZNa29CVWUzQjU1bkJzc25Ra3RGMVpBZ2Fz?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "전기신문 - 전체기사",
+   "sc": 8,
+   "sec": "원전",
+   "t": "“원전 싸지 않다…경제성 평가 제대로 해야”",
+   "ts": 1790693480,
+   "u": "https://www.electimes.com/news/articleView.html?idxno=372884"
+  },
+  {
+   "co": "HD현대일렉트릭",
+   "n": 1,
+   "s": "잡포스트",
+   "sc": 24,
+   "sec": "건설·플랜트",
+   "t": "수주잔고 84억9000만달러 쌓은 HD현대일렉트릭, 주가는 3.03% 조정 - 잡포스트",
+   "ts": 1790661150,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13azg1cjVHdlBaYzExdXlJZGJFejdhTDlUSFlWTFdLSFhuTFFOblB2d01TeFh0RVh0eFBQVDFadjRmeU1xRGRFdDdwVF9odWR0ZmI3NUUzTnJZaXRmLUxESWpDQkR3NW9NS0QyZThn0gFyQVVfeXFMTlFFYmt4VDFHZlllUlptdHVPUFQybFBQNWVWU29EQ05PV1lHYTN2eXgxVDRvbzdzUE10bHBJelBsX1BYemN3LUtiV1BzRXFaMlpXclM4NXo3LTJ6MWV1NGNWUGZCd3NOZ2RTT3NoVWlCRHln?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2542,6 +2567,7 @@
   "3da264c580358d19": 1789870063,
   "3daea3149dcf51bd": 1790127320,
   "3dafacd3beed6976": 1789727277,
+  "3db9da9b6bc921a6": 1790662216,
   "3dbcafd4fc16edd5": 1789774587,
   "3dccb4edbbff71ad": 1789851916,
   "3dcee15a06a653ca": 1789658129,
@@ -2658,6 +2684,7 @@
   "41aef5ff758c23da": 1790024635,
   "41b0bd255a8f15f6": 1790581516,
   "41b87285ce06599d": 1789693531,
+  "41c78e77ceb19f49": 1790662216,
   "41c8d5943784220e": 1790001429,
   "41ccb6636c9115ec": 1789632918,
   "41d27270ffadc249": 1789698990,
@@ -5298,6 +5325,7 @@
   "9969f08102080d89": 1790478323,
   "9971f831ed5322d1": 1789721130,
   "99837f263652699d": 1790034858,
+  "99aa5258a1089591": 1790662216,
   "99b40ecbc069fbd5": 1789954327,
   "99b500e1f20440b2": 1789947665,
   "99b978fefe23d37d": 1789971751,
@@ -7955,6 +7983,7 @@
   "f0e83d1e69c041bf": 1790566820,
   "f0f07f82c0911c64": 1790058917,
   "f0f4c6d469d52974": 1789697120,
+  "f0f4cc942107030e": 1790662216,
   "f1057e36e6db32cd": 1790234194,
   "f108fcc57ee47fdd": 1790542815,
   "f10b44b48a76e604": 1790395516,
@@ -8409,7 +8438,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790655465,
- "last_msg_poll": 1790662161,
+ "last_msg_poll": 1790662466,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8453,7 +8482,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 15:09 KST",
+  "last_run": "2026-09-29 15:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
