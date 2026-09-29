@@ -296,6 +296,16 @@
    "t": "The virtuous cycle of inclusive utility investment and virtual power plants",
    "ts": 1790694000,
    "u": "https://www.utilitydive.com/news/virtuous-cycle-inclusive-utility-investment-virtual-power-plants/830123/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Global Switch to host large Nvidia Blackwell deployment at Paris data center",
+   "ts": 1790697816,
+   "u": "https://www.datacenterdynamics.com/en/news/global-switch-to-host-large-nvidia-blackwell-deployment-at-paris-data-center/"
   }
  ],
  "clip_titles": [],
@@ -723,6 +733,7 @@
   "0dc599ef09de51b7": 1789649116,
   "0dcc955e20d068de": 1790464236,
   "0dd0b64acc712685": 1790559622,
+  "0dd458f5de592043": 1790698430,
   "0dd57eb63e50a5bb": 1789982415,
   "0ddcbaef55b78673": 1790569516,
   "0de574301c526336": 1790543116,
@@ -4054,6 +4065,7 @@
   "70922bb496c92587": 1789692015,
   "709692988f9108ea": 1790648426,
   "70a792eb38a1f8eb": 1790332517,
+  "70c4d5d3a6795479": 1790698430,
   "70c5da1c725baf3e": 1790006722,
   "70c6e9fe472269da": 1789627496,
   "70ce402f85b56673": 1789945939,
@@ -8564,7 +8576,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790692523,
- "last_msg_poll": 1790698111,
+ "last_msg_poll": 1790698674,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8608,7 +8620,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 01:08 KST",
+  "last_run": "2026-09-30 01:17 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
