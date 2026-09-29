@@ -396,6 +396,16 @@
    "t": "\"AI데이터센터, 전력 인프라 구축·기업 활용 생태계 갖춰야\" - 파이낸셜뉴스",
    "ts": 1790674095,
    "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sQnR3MFJVeUxNaFhIM2o1bW5fWE1LS004VzNiSGl4YXBBZmxDNTBVeU5zWm40RTdlTmJkMFNoV200VGxvbVdiNFd6WV9aODBzWjFSQ3BFTFczQQ?oc=5"
+  },
+  {
+   "co": "LS전선",
+   "n": 1,
+   "s": "디일렉",
+   "sc": 10,
+   "sec": "전력기기",
+   "t": "LS전선, AI 데이터센터 전력 솔루션 서버랙까지 확대 - 디일렉",
+   "ts": 1790674866,
+   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IU1d6M1lKVWlXOFN0SzJweTVnLUxxckpFcHJLQkpFd1l6eUpkeTRjcUdBXzZGZ3JXV3ExRFV3VTItcWNXVUtOSzcyeTlwRnpoeFpKZndldUdKRU9TNEZGQW8tQkF3dw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -615,6 +625,7 @@
   "079ac5f60e418993": 1789635918,
   "07a2d6c3d819bb7c": 1789634116,
   "07a77b0d340c0dc8": 1790660118,
+  "07bb065064ca5a46": 1790675050,
   "07c2d045010de459": 1790120847,
   "07d00a7de498cf19": 1789953163,
   "07d236323babc4db": 1790384441,
@@ -1554,6 +1565,7 @@
   "2354b05f0ae5eea7": 1790370688,
   "2354c5799c1e0d61": 1789731320,
   "235a869e2bbfac88": 1790075723,
+  "235b8bf1e3130fda": 1790675050,
   "236531b5e6061e2e": 1789971751,
   "2368f9ab74ed80b2": 1790560231,
   "237835bbefbfb3c9": 1789713633,
@@ -5916,6 +5928,7 @@
   "ad1e0d5473266979": 1790040917,
   "ad5477c6b41f3994": 1789959318,
   "ad5c438c3ef7ed4c": 1789954327,
+  "ad65d56008dfaf01": 1790675050,
   "ad6ebabef1031046": 1790646027,
   "ad7638f8665c8998": 1790555020,
   "ad76c1c6a42d031a": 1790552128,
@@ -6738,6 +6751,7 @@
   "c62be5de08ceae14": 1789824864,
   "c62efbca1220101d": 1789963516,
   "c631a051547ac66a": 1790556223,
+  "c637601906a163f9": 1790675050,
   "c63890a2a5fb7f4c": 1790658361,
   "c660d04d12fe67b0": 1790668519,
   "c66548e706d5f5cc": 1790143227,
@@ -8527,7 +8541,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790670334,
- "last_msg_poll": 1790674713,
+ "last_msg_poll": 1790675295,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8571,7 +8585,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 18:38 KST",
+  "last_run": "2026-09-29 18:48 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
