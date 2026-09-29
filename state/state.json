@@ -286,6 +286,16 @@
    "t": "가스공사-전력거래소, 가스·전력 실시간 연계…에너지 수급 대응력 높인다",
    "ts": 1790695325,
    "u": "https://www.electimes.com/news/articleView.html?idxno=372887"
+  },
+  {
+   "co": "LS전선",
+   "n": 1,
+   "s": "에너지경제신문",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "LS전선, AIDC 내부용 신제품 공개…“서버랙 내외부 솔루션 구축” - 에너지경제신문",
+   "ts": 1790664622,
+   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IVWN5aER0NUtFZ3ZfZWVRaFRBX2RYdndOelVJWGJ5Zlg3QUdMNjFVZTZyd0dfcGo4NDgwQVNEWWFqT1g2UzFUaktXVndhalJvS3A0dnVKWHRxYWhuWjQ1YThR?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3303,6 +3313,7 @@
   "5dc2679f9fe3197f": 1790162122,
   "5dc29b4a5e9a1900": 1790557916,
   "5dc3b2a80c36c702": 1790583021,
+  "5ddeda71a8255bb1": 1790664917,
   "5de0dba56d0d332d": 1790649324,
   "5df3e864df1e190c": 1789954905,
   "5df8fbf2ed94d2cd": 1790041522,
@@ -6165,6 +6176,7 @@
   "bdd5a5a90e560649": 1790068256,
   "bddda5b6076665b7": 1789691718,
   "bde8c1de6a295907": 1789637719,
+  "bdefe58b45ff029f": 1790664917,
   "bdf384671e5d4b07": 1789705521,
   "bdfb2e2ce247bb8e": 1789977032,
   "be0abf0fcb918f65": 1789793728,
@@ -7773,6 +7785,7 @@
   "f34390299b77da8f": 1790126420,
   "f35111d685c5772b": 1790572220,
   "f36b98e66a2d0c69": 1789979721,
+  "f377310ce5ec3298": 1790664917,
   "f37d55d85eec8ba9": 1789627496,
   "f39d571f1b6b15ee": 1789953163,
   "f3aa40fa3af6e5e1": 1789776316,
@@ -8165,7 +8178,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790662829,
- "last_msg_poll": 1790664882,
+ "last_msg_poll": 1790665167,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8209,7 +8222,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 15:54 KST",
+  "last_run": "2026-09-29 15:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
