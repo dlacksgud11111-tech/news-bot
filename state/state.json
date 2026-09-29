@@ -406,6 +406,36 @@
    "t": "한경협 \"AI 시대 데이터센터, 기업 경쟁력·지역 성장 이어져야\" - shinailbo.co.kr",
    "ts": 1790665852,
    "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4dkl1cG9UNXlmc1hvcG9iZ3FWY3k4S1c2VkJ3QlN1cWVUS2RSZGdZRVRrOWhGMDRDRVpyQnlYbHZqT1lCMWgzeFRTenctdnJDZlhXVUlVSnJ6RWdLMHg5Wm1zNDF5UXRDOTZZNGhxb20?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "에너지신문 - 전체기사",
+   "sc": 5,
+   "sec": "재생에너지·ESS",
+   "t": "고려아연, 국내 태양광 전력 20년 확보…연간 11GWh 조달",
+   "ts": 1790699098,
+   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228618"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "주간한국",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자 아시아 최대 데이터센터 전시회서 첨단 냉각 솔루션 공개 - 주간한국",
+   "ts": 1790664538,
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05NVJqbU5DOFl3aGJPdE1rVGJZbmxZOHhkMTlrb0V1MlQydXFBNnB5V0RkV0RhdTBMdlZmM1RWeFpzbjZORjJpT3lMX2RaQUxlRkZyMFFMZFFQeEdLa1VOdFRPSVRMaWRZTmcxZ1gyRFrSAXRBVV95cUxPNFZtdmEtMThBU0psQXZJdXRMSnN0V3doMzNJRjBYS2dZVkhtWFBUck9Fa2FVMzZ0d3YtdWVmd2ZRMzZOTFgxQnY2Z2xOd0ZGb3FjeEkxRFhhSWVQbnBQSVdSWlNvWTJYWFFnMHFYMW8tNWdaaw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "삼성 6개사 뭉쳤다…美 AI 데이터센터 생태계에 1.4조 베팅 - v.daum.net",
+   "ts": 1790643612,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01RzItZ254ZUl3enN3Nm1XZnpjeHBCajBJVkNGVjlyU0haSlRMdGNRMDJIZGF3NlQ3VTJEeXBfNnRqTEtnLUlqS3B3MmhQOW8?oc=5"
   }
  ],
  "clip_titles": [],
@@ -788,6 +818,7 @@
   "0cb2b85bbfe8c923": 1789629088,
   "0cc3ad62bb431a28": 1790654845,
   "0ce00c30ad22568e": 1790472935,
+  "0ce618d405d132b1": 1790667030,
   "0ce96672c3522e61": 1789627496,
   "0cefc1878c83ef6c": 1790128524,
   "0cf7b3cd89220e6f": 1790498418,
@@ -4079,6 +4110,7 @@
   "72fc3434d8a67425": 1790037737,
   "72fd1976c76cc734": 1789629088,
   "732c88c66e73662e": 1790188003,
+  "733c1fc952aede36": 1790667030,
   "7342d939921e5d90": 1789627496,
   "734f8ea77475b50f": 1790033715,
   "73528d1a3936506f": 1789627496,
@@ -8240,6 +8272,7 @@
   "fce683d174f62de1": 1789687516,
   "fcf3a96844cf9b9b": 1789977032,
   "fd011d39a5ffb3f2": 1790148975,
+  "fd0413d3adab8493": 1790667030,
   "fd04a7cabbf71a56": 1790637021,
   "fd07412db17d2c46": 1790039473,
   "fd0b8f149a13af5e": 1789965314,
@@ -8337,7 +8370,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790662829,
- "last_msg_poll": 1790666973,
+ "last_msg_poll": 1790667280,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8381,7 +8414,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 16:29 KST",
+  "last_run": "2026-09-29 16:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
