@@ -436,6 +436,16 @@
    "t": "Hydrogen Award Finalist: Total Hydrogen Solutions’ Texas Production Facility",
    "ts": 1790717453,
    "u": "https://www.powermag.com/hydrogen-award-finalist-total-hydrogen-solutions-texas-production-facility/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스 경제 최신기사",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "[AI프리즘] AI데이터센터 경제효과 따져보니…최대 3.5조",
+   "ts": 1790717580,
+   "u": "https://www.yna.co.kr/view/AKR20260929161900017"
   }
  ],
  "clip_titles": [],
@@ -1102,6 +1112,7 @@
   "148546aae51df547": 1790660118,
   "1495602822e6d61a": 1790383280,
   "1496f5ac805d9623": 1790550917,
+  "14989d7f14a70291": 1790718095,
   "149bae1e1cfb97db": 1789653625,
   "149cbb0ae28ffcb9": 1790668519,
   "14a2dbf91ae44dc5": 1789971183,
@@ -2683,6 +2694,7 @@
   "4277a85df6b35277": 1790559622,
   "427c9370fc72abf8": 1789951430,
   "427e8ce030e303c8": 1790576844,
+  "428267154fdd04e1": 1790718095,
   "4283f2abaff51b57": 1790643992,
   "42878b0c295b1776": 1790012489,
   "428f917ff0be9028": 1790647220,
@@ -8747,7 +8759,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790692523,
- "last_msg_poll": 1790717776,
+ "last_msg_poll": 1790718344,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8791,7 +8803,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 06:36 KST",
+  "last_run": "2026-09-30 06:45 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
