@@ -266,6 +266,16 @@
    "t": "삼성, 美헬릭스에 10억달러 투자… AI 데이터센터 사업 확장 승부수 - v.daum.net",
    "ts": 1790679780,
    "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51cXBEU0pjU2J0LXVuTnFrdFgyZTgtajJhSG1BVFJ4YTlQdG1RUjAzY3RtTkFvbFNZLUxrdU14LWZHUmlON2xFZmFXNjdYX1E?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "Heterojunction solar cell based on molybdenum oxide achieves 24.9% efficiency",
+   "ts": 1790681452,
+   "u": "https://www.pv-magazine.com/2026/09/29/heterojunction-solar-cell-based-on-molybdenum-oxide-achieves-24-9-efficiency/"
   }
  ],
  "clip_titles": [],
@@ -2503,6 +2513,7 @@
   "43076837c8120962": 1790248226,
   "430b4b4f6535e3a0": 1790330117,
   "43135d042755b40f": 1790034282,
+  "431a8ca92dfc27ff": 1790681719,
   "431fbc431c7a2c52": 1789959919,
   "4324e76f2bc8ab95": 1790499015,
   "4326786bc50832c8": 1789977328,
@@ -4589,6 +4600,7 @@
   "843b05f8813fd299": 1789657519,
   "843ba2565c86e31d": 1789980627,
   "843ceca40faf4790": 1789967119,
+  "843dbb67317a8e32": 1790681719,
   "8457756f73bc6bf0": 1789692920,
   "8458e2fb8e3ac05a": 1790041833,
   "845b9d3afb20f2d3": 1789974322,
@@ -4666,6 +4678,7 @@
   "86abcbfc807fdaea": 1790038311,
   "86af9d989325692e": 1790578558,
   "86bbba728eaa2b7d": 1789953163,
+  "86c7223ff372298a": 1790681719,
   "86cf27327ac243c7": 1790342212,
   "86d1ea6bf7ff95f1": 1789952592,
   "86df916e9466b381": 1790504234,
@@ -7562,6 +7575,7 @@
   "e4834de6a58ec48f": 1790557916,
   "e48c3c94e865a48c": 1789627496,
   "e493b1c388130d65": 1790589919,
+  "e49dc22647f37f1c": 1790681719,
   "e4a1bab32050ce3f": 1790127320,
   "e4a25e9cf233965d": 1790556791,
   "e4a7ede6f5bccc48": 1789627496,
@@ -8448,7 +8462,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790677930,
- "last_msg_poll": 1790681667,
+ "last_msg_poll": 1790681969,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8492,7 +8506,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 20:34 KST",
+  "last_run": "2026-09-29 20:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
