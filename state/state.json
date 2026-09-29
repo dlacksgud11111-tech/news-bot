@@ -322,6 +322,16 @@
    "t": "LS전선, AI 데이터센터 전력 솔루션 확장…서버랙용 신제품 첫선 - 부산일보",
    "ts": 1790650466,
    "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JbXdVc3NpQl9GMXZuUWViNHhhcWpiNHJ6QXdpS3pMYnotNHQ5cmlkcHZkMGJhUjVFVnBuZXNaVEx6ZWE2YnZzdjJRb3pfVVlkaDF6RWNVMFdJQk1Zc3p5aVlzOXVhUTFTZllvbXNzTHlpRjBYNExITQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "핀포인트뉴스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG CNS, 삼송 데이터센터에 ‘액체냉각’ 구축…200kW AI 서버 시대 대비한다 - 핀포인트뉴스",
+   "ts": 1790724000,
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EeFN6MEdlS2RlT2gtWkNDSzJaTFI3dXdjOXpseThRTVBHV3lSYnR0Nl9NS0Y0aEI2OWNVU0JTYk0zMV9ZU0lCaFRYU2NaVGpQVHFaSm9yd0JOdXpBU0NqNUZ6MjJQWHlSUkoxXzRab1BYYkXSAXdBVV95cUxNcnRoNkpiTVhjSXdEU0E1SkRMbEVRbWJVdUJIVVpfSFFKRkNsRE1aLWtES2ozQXFrdzdZUnFwdXJ2clF4UVNCOEMzak5vUjdNeG85WHU2MV9SMHNlZFFmM3c5amFTbnBqVk5zSGgybFBaZG9xTDIzTQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2600,6 +2610,7 @@
   "42ea9869e2604fac": 1790557358,
   "42ec7f02e78a0a23": 1790570118,
   "42f78a0d5c429b33": 1789785019,
+  "42f7fe28aefb48ef": 1790724619,
   "42fb3ce64a490096": 1789974322,
   "43076837c8120962": 1790248226,
   "430b4b4f6535e3a0": 1790330117,
@@ -8667,7 +8678,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790719251,
- "last_msg_poll": 1790724566,
+ "last_msg_poll": 1790724869,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8711,7 +8722,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 08:29 KST",
+  "last_run": "2026-09-30 08:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
