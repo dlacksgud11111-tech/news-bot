@@ -206,268 +206,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 2,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "POWER Magazine",
-   "sc": 8,
-   "sec": "전력기기",
-   "t": "A Greener Grid: Florida Facility Turning Hydrogen into Power",
-   "ts": 1790670614,
-   "u": "https://www.powermag.com/a-greener-grid-florida-facility-turning-hydrogen-into-power/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Scientists propose solar cell taxonomy based on absorber integration",
-   "ts": 1790670941,
-   "u": "https://www.pv-magazine.com/2026/09/29/scientists-propose-solar-cell-taxonomy-based-on-absorber-integration/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 5,
-   "sec": "원전",
-   "t": "정우식 제23대 한국원자력연구원장 취임",
-   "ts": 1790703204,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303621"
-  },
-  {
-   "co": "대한전선",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 36,
-   "sec": "전력기기",
-   "t": "재생에너지 핵심 ‘계통연계’… 대한전선, 지중·해저 HVDC 기술로 대응",
-   "ts": 1790700678,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303616"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 26,
-   "sec": "전력기기",
-   "t": "[해설] 전력망 혁신대책, 유연성 확대·진성 사업 우대 ‘방점’",
-   "ts": 1790699367,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303613"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 1,
-   "sec": "건설·플랜트",
-   "t": "지역난방公 이세걸 상임감사, 건설현장 청렴소통 강화",
-   "ts": 1790695543,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303604"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 8,
-   "sec": "유틸리티·정책",
-   "t": "가스공사-전력거래소, ‘에너지 핵심인프라 협력체계 구축’ 맞손",
-   "ts": 1790694148,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303599"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "‘Huge pipeline of opportunities’ as Middle East energy storage financing seeks bankability, revenue certainty",
-   "ts": 1790671291,
-   "u": "https://www.energy-storage.news/huge-pipeline-of-opportunities-as-middle-east-energy-storage-financing-seeks-bankability-revenue-certainty/"
-  },
-  {
-   "co": "LS전선",
-   "n": 2,
-   "s": "매일경제 : 경제",
-   "sc": 10,
-   "sec": "전력기기",
-   "t": "LG엔솔·LS전선·가온전선… AI 인프라 뛰어드는 K기업",
-   "ts": 1790671214,
-   "u": "https://www.mk.co.kr/news/economy/12164012"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일경제 : 경제",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "전력망 '알박기' 차단 나섰다 … 선착순 대신 접속권 경쟁입찰",
-   "ts": 1790671658,
-   "u": "https://www.mk.co.kr/news/economy/12164041"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "엠투데이",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "삼성 6개사, 美 헬릭스에 10억달러 투자⋯AI 데이터센터·전력 인프라 직접 뛰어든다 - 엠투데이",
-   "ts": 1790667352,
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1USjdnT01lWldvUHdEYXBIa0RYbG1UYVJ4dFBYWGZtRXJVa2p2QnpDVW5UQkF1YVFlMzhrTEpGTVhQV1BtbUU3Rnl1LUlZbWUydmN6S1hEZVB5NjNQVnFILWNtb0ZIQ3ZXOTJodGxmRQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 3,
-   "sec": "재생에너지·ESS",
-   "t": "Charity appeal sends solar equipment to flood-affected Nepal",
-   "ts": 1790672106,
-   "u": "https://www.pv-magazine.com/2026/09/29/charity-appeal-sends-solar-equipment-to-flood-affected-nepal/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "ir.edaily.co.kr",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "삼성·LG·LS, 아시아 최대 ‘데이터센터월드 아시아(DCWA) 2026’ 참가(종합) - ir.edaily.co.kr",
-   "ts": 1790660874,
-   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFUTFXZmZIaXNhUk9GN0lfZzF1T3h5Y0Q5ZEhHbF8wcW1lNkJiSF90YjcyeG5FWmFoZU9qUFM0SnJEY1FsNEVsNkhrYXhvdFhETmJwRzR1anNXMWhOdHpaQ0dhRQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴시스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "美 공화당, 데이터센터 전기료 부담 방지법 표결…'민생 승부수' - 뉴시스",
-   "ts": 1790672133,
-   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yVlJBR1drQk9zdXFFSmhaTTdYUzUtMEloY0E5MFNQY0JHYm5HeUNjdURzbDZsNFloY0pmTzQ4d1VTQWV2QWZaSGhRVW8tRU1NX0ZwNTQyRU84eHMzUUNVYdIBeEFVX3lxTE9ray02UnloT0huVHhlSVNPMEE4RXFfTEpvNFFaNTQ2Q3ZrTXl0WTFSbzdCTnBPRlhGQXdtVnctSS04M3I5TmlDeHVUbF9EX2lWRGplc2tCMDdzYXhrYzJfbVdsUnR4RGQwQnFjWTJVV1gyMjEzdFhCTQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "아시아타임즈",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "“전력·비용 분담부터 풀어야”… 3대 메가 ‘AI데이터센터’ 연착륙 해법은 - 아시아타임즈",
-   "ts": 1790672700,
-   "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yYXhYS0JNTlBRWFB0bkx1bGk1Rm9WbjVOZl8tVXNDX3pZSHBmc0dUenFVcGs5dks4NHBORW5JdVkwckdLUkhyT25RUjQ1aDliX19RQ2FJQXE1ZWhXa1E?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "녹색경제신문",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "전기차서 AI 데이터센터로…K배터리, ‘전력 백업’ 시장 선점 경쟁 - 녹색경제신문",
-   "ts": 1790673151,
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BN0pwRFFxOFp1WGp6RkVtTl9JQ2VGMm84bnlQYjZPeU5Xb2dOelI5VEJxT0RDdVNYaXFKMDNaenViMTAtQ3pGTTdwMFFXcW56STd3Z1BnaEtBc2Z4VGhIZVBFOEtLSGRS?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "중앙일보",
-   "sc": 8,
-   "sec": "데이터센터·AI전력",
-   "t": "SGC에너지 ‘군산 AI데이터센터’ 내달 착공…“AI로 에너지사업 효율화” - 중앙일보",
-   "ts": 1790669539,
-   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90bTI2aXp6amZuWlJTTUhpQ1pnU1ctUFZ4ay14X3lna1lLNjlJWWJrQXRMXzlvNlZSdWdMRFREeVl5Y3c0emZJaElwc01hYVhHYm9QYVZB?oc=5"
-  },
-  {
-   "co": "ABB",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 11,
-   "sec": "유틸리티·정책",
-   "t": "ABB returns to utility-scale market with Gamesa Electric integration",
-   "ts": 1790674137,
-   "u": "https://www.pv-magazine.com/2026/09/29/abb-returns-to-utility-scale-market-with-gamesa-electric-integration/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "파이낸셜뉴스",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "\"AI데이터센터, 전력 인프라 구축·기업 활용 생태계 갖춰야\" - 파이낸셜뉴스",
-   "ts": 1790674095,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sQnR3MFJVeUxNaFhIM2o1bW5fWE1LS004VzNiSGl4YXBBZmxDNTBVeU5zWm40RTdlTmJkMFNoV200VGxvbVdiNFd6WV9aODBzWjFSQ3BFTFczQQ?oc=5"
-  },
-  {
-   "co": "LS전선",
-   "n": 1,
-   "s": "디일렉",
-   "sc": 10,
-   "sec": "전력기기",
-   "t": "LS전선, AI 데이터센터 전력 솔루션 서버랙까지 확대 - 디일렉",
-   "ts": 1790674866,
-   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IU1d6M1lKVWlXOFN0SzJweTVnLUxxckpFcHJLQkpFd1l6eUpkeTRjcUdBXzZGZ3JXV3ExRFV3VTItcWNXVUtOSzcyeTlwRnpoeFpKZndldUdKRU9TNEZGQW8tQkF3dw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 3,
-   "s": "아이뉴스24",
-   "sc": 16,
-   "sec": "전력기기",
-   "t": "\"AI 데이터센터 전력망 증설비, 국민에 전가해선 안 돼\"⋯사업자 분담 촉구 - 아이뉴스24",
-   "ts": 1790675508,
-   "u": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE90NC1heU1Fcl9pbVlON1czaGo3NU9zb1NjZmVWVmJHSjI1Wl93OXJJUllJTy1MWlpOTjlBNEpzNjBNUU1rN1Vj?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Lambda plans data center in Oklahoma",
-   "ts": 1790675365,
-   "u": "https://www.datacenterdynamics.com/en/news/lambda-plans-data-center-in-oklahoma/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "디지털데일리",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터 키운다더니…전용 전기요금제는 아직 깜깜이 - 디지털데일리",
-   "ts": 1790674770,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zQzJYLU5kLXVybzBwMkJvTEtpeEtXdUN2U0I1RUhIV1RuSmlzYlFfbWVYbENkVTg0MzdQV3VKMjJPazFtNFNrZVVzV3FFV2ZDdXZjWGEtTHVFSGtublhkOE5Rd1U?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "기상청, 태양광·풍력 발전량 예측용 기상자료 제공",
-   "ts": 1790708023,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334669"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 11,
-   "sec": "원전",
-   "t": "흔들리는 원전 경제성 ‘66개월’...건설 지연·사후비용 도마",
-   "ts": 1790708605,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228625"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 3,
-   "sec": "데이터센터·AI전력",
-   "t": "Electricity retailer Energa Obrót signs letter of intent for 100MW data center in Konin, Poland",
-   "ts": 1790676051,
-   "u": "https://www.datacenterdynamics.com/en/news/electricity-retailer-energa-obr%C3%B3t-signs-letter-of-intent-for-100mw-data-center-in-konin-poland/"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "0003f98f6034d59c": 1790586316,
@@ -1168,6 +907,7 @@
   "15c6332685b85fb4": 1789859418,
   "15c9128f2c41ca57": 1790642222,
   "15cc0040070706eb": 1790554448,
+  "15ce42a3047423b6": 1790677930,
   "15cfa7b189a8cf1c": 1790132720,
   "15d35d32192f6838": 1790069722,
   "15e4c228e946ae6e": 1789695017,
@@ -8618,8 +8358,8 @@
  },
  "companies_today": {},
  "day": "2026-09-29",
- "last_clip": 1790670334,
- "last_msg_poll": 1790677588,
+ "last_clip": 1790677930,
+ "last_msg_poll": 1790678181,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8663,7 +8403,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 19:26 KST",
+  "last_run": "2026-09-29 19:36 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
