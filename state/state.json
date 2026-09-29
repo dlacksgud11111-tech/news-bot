@@ -286,6 +286,26 @@
    "t": "SMA battery inverter first to win grid-forming certification for German inertia market",
    "ts": 1790681862,
    "u": "https://www.energy-storage.news/sma-battery-inverter-first-to-win-grid-forming-certification-for-german-inertia-market/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 10,
+   "sec": "재생에너지·ESS",
+   "t": "Germany wraps up solar-plus-storage tender with average price of €0.0514/kWh",
+   "ts": 1790682631,
+   "u": "https://www.pv-magazine.com/2026/09/29/germany-wraps-up-solar-plus-storage-tender-with-average-price-of-e0-0514-kwh/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "하나뉴스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "강원특별자치도, ‘120조 메가프로젝트’ 동해 AI데이터센터 현장 점검 - 하나뉴스",
+   "ts": 1790678940,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OZVRZNldEbTd4SElTTWhJanJwSTlRUkpjR1F4Y3BLQnRvdlBEOFFIUWdNT2p3blNFSUFFcXJkemIzMGVBREZGNVhqZXo2bWJBa2xkekNzOXUtdktXRzZWcklLbl9DM29HNXliYnpB?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2872,6 +2892,7 @@
   "4d1f54c5923d69a3": 1790122002,
   "4d23b13e301ff318": 1789720517,
   "4d25e3953a224d15": 1789720517,
+  "4d29cf9bb4ecdc87": 1790682915,
   "4d2f3fff4e759e9f": 1789676423,
   "4d3464bbd233464a": 1790571616,
   "4d3f1cb961f8185c": 1790126420,
@@ -4726,6 +4747,7 @@
   "87f31d3495162617": 1790042395,
   "87faf83f9546a99e": 1790474714,
   "87ffb6cce66ef144": 1789963516,
+  "881032907ce16ab1": 1790682915,
   "882658e9d9292998": 1789649116,
   "8833e1eceb4c2458": 1790388562,
   "8848a9a4c4bb8d90": 1790658925,
@@ -8475,7 +8497,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790677930,
- "last_msg_poll": 1790682865,
+ "last_msg_poll": 1790683162,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8519,7 +8541,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 20:54 KST",
+  "last_run": "2026-09-29 20:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
