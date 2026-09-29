@@ -296,6 +296,16 @@
    "t": "데이터센터 78% 수도권에…\"지방 유치 하기 전 전기료 원칙부터 꾸려야\" - ER 이코노믹리뷰",
    "ts": 1790689800,
    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HMk1JM3p4TXhjdTRiZjlKcmY0RUFNZFp1ejhHYm9xQ2dTOXl6dHgxcnA4U0hBMVl1bGZJRWtScVo3bE9SWm5DRkhoQm9uMnNkeU9zRzVzaGx6cGxLRFBQbjFtNTFaLXRjZzJ6Vw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴스저널리즘",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "조경태 \"AI 데이터센터 전용요금제 조속히 공개해야\"…국감서 정부에 질의 - 뉴스저널리즘",
+   "ts": 1790668496,
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16R1FOdWIwdkZEV1VqaS1oSWlUVmxwQndpT1RVWWtBdnE4cDJ6N01ELUFVbjg0b2lDQTdpSUVKT0lUX25iaXNVUmo5TVdaQVNXOVl3YXNjUHM4MHpKTFhiQ1pablZPQkc1SXpn?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2815,6 +2825,7 @@
   "49e4bffe31cfda60": 1789976119,
   "49e53e7ecfccafe6": 1790647519,
   "49e911ba162ffa2a": 1790641660,
+  "49f43d66e11aad98": 1790690744,
   "49f84c773b02cf48": 1789868332,
   "4a2c5cefb76150a2": 1790572796,
   "4a2cc75936fbe85d": 1790635214,
@@ -8536,7 +8547,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790685320,
- "last_msg_poll": 1790690666,
+ "last_msg_poll": 1790690987,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8580,7 +8591,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 23:04 KST",
+  "last_run": "2026-09-29 23:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
