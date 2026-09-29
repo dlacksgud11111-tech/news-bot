@@ -262,6 +262,16 @@
    "t": "MS 데이터센터 추가 투자 촉각…부산진해경자청, 전력·인프라 지원 논의 - 서울경제",
    "ts": 1790721311,
    "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RZ21CNkNQYlcyOGVUV3lVV2lsMk93d1M1a3lOWlp1aDltQ0tFWEZ6UWpSY2UwTVRNbU5jc2dBZmViNk02SEYtdWZmREFxUlpqakHSAVNBVV95cUxNTW5uN2VDdklfa01UeVFIZGZ6allqUDRhd1VEMnhncUE3VVVwOTN1X0tMbndjcnh3QjBXN1FMeHV4VjUxR3BhNnpqYUdmLUdRUThFdw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "한국일보",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "전기·물 아껴쓰고 일자리 늘리고… 데이터센터 기업들 '공존' 실험 - 한국일보",
+   "ts": 1790722800,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzMFRGNGFBMExLWHNqOExxSEZvNjVHMWlkX2xRcWpsRm1DYlZaUGV6N0xPVFp3LUFaUmFXWGRNdmNRWjBwcnlKNGN6b1AtMDJFQ3N3NFZ3RlpHS0ozb1BSaG5XbWtfYld3VTdoOWtB0gFzQVVfeXFMT00zVEc3R1Z0VHl6SU1jXzRiTmlRMGxQNWdhQVZWcnFSVzlaOWMzeGNMQ0hLc3ljaVRMVzNBVDBESExYTWJWMlgyVzVaclFXRDFHR2dQaTVNeUJKN3FZcWViNWVBbk5BcWpmam54M2NKenFSaw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -8033,6 +8043,7 @@
   "ee09cc2cb409a2d0": 1789916965,
   "ee0b840bfe898d6d": 1789715119,
   "ee13dcd979178a30": 1790607918,
+  "ee19e3e5b11c2ffc": 1790723419,
   "ee1c6af976a597a9": 1790025209,
   "ee299c3f323d592c": 1790553879,
   "ee29bfe5555f16dc": 1790543116,
@@ -8147,6 +8158,7 @@
   "f2012dd5c7141dc5": 1789639528,
   "f205fa879755cd35": 1789870063,
   "f210720431c6b312": 1790241621,
+  "f2192d59f2aee7bf": 1790723419,
   "f223a1b108219c2c": 1789722018,
   "f22861830ced419d": 1790064758,
   "f22fe24586bb5c9b": 1789683939,
@@ -8595,7 +8607,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790719251,
- "last_msg_poll": 1790723361,
+ "last_msg_poll": 1790723664,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8639,7 +8651,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 08:09 KST",
+  "last_run": "2026-09-30 08:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
