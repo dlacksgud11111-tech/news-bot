@@ -332,6 +332,16 @@
    "t": "LG CNS, 삼송 데이터센터에 ‘액체냉각’ 구축…200kW AI 서버 시대 대비한다 - 핀포인트뉴스",
    "ts": 1790724000,
    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EeFN6MEdlS2RlT2gtWkNDSzJaTFI3dXdjOXpseThRTVBHV3lSYnR0Nl9NS0Y0aEI2OWNVU0JTYk0zMV9ZU0lCaFRYU2NaVGpQVHFaSm9yd0JOdXpBU0NqNUZ6MjJQWHlSUkoxXzRab1BYYkXSAXdBVV95cUxNcnRoNkpiTVhjSXdEU0E1SkRMbEVRbWJVdUJIVVpfSFFKRkNsRE1aLWtES2ozQXFrdzdZUnFwdXJ2clF4UVNCOEMzak5vUjdNeG85WHU2MV9SMHNlZFFmM3c5amFTbnBqVk5zSGgybFBaZG9xTDIzTQ?oc=5"
+  },
+  {
+   "co": "LS전선",
+   "n": 1,
+   "s": "SR타임스",
+   "sc": 10,
+   "sec": "전력기기",
+   "t": "LS전선, 서버 내부용 부품 첫선…AI 데이터센터 전력 솔루션 완성 - SR타임스",
+   "ts": 1790725361,
+   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00RzJaRXdyQkdwNWdvNmNYa01JanZwRm5JR3phTC13ZlkxSkdEbWxkNW51WkdyYzlfZzV2Z2JYN3VJWVlfTW01b3JCYVZzRXZUaE8wcFpsWVo3X01paHNnWFQ4NGQ2MnPSAWtBVV95cUxQZUxoOEJoRHhtZTlWaG02VmhUNG9mQldIUk5KVXlPM0xKMzdfVU5vXzVCa3Y0dzhFOFVmdnpvb0lKVU1PdHdrcHltMHBSQ21LWDJCTmZpRXdJMlowVWl2dGhqa2lmVUtrZHNPaw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -442,6 +452,7 @@
   "032242def30b9da0": 1789872360,
   "03234d4418199d32": 1790040917,
   "0323b38c3eb9b849": 1789729598,
+  "0327feea352a63b5": 1790726084,
   "0336ca586314a4ce": 1789630819,
   "0342d148f5d1357b": 1790008517,
   "0345c40319357da0": 1790564716,
@@ -3885,6 +3896,7 @@
   "68bac530f4747bf9": 1790540138,
   "68c1843465f0cc42": 1790084279,
   "68c82d77661f2a7d": 1789747225,
+  "68d49a30fdeacbda": 1790726084,
   "68dee24b605a81f5": 1790085997,
   "68dfbcc1cae446c3": 1789972883,
   "68f2b06f8033c313": 1790057120,
@@ -7179,6 +7191,7 @@
   "d10c660d40206840": 1790476519,
   "d11dbec961d11639": 1790588419,
   "d12a0b987f697385": 1789708498,
+  "d12e0536fc1e1d1a": 1790726084,
   "d136bebd2343f139": 1790636716,
   "d13b11be28685acd": 1790559053,
   "d13d122b09597a8e": 1789647317,
@@ -7261,6 +7274,7 @@
   "d3449bd34fa06d30": 1790007626,
   "d352be7351e7315a": 1789954905,
   "d3577106bc244097": 1789958121,
+  "d36262b6a7fbe4a3": 1790726084,
   "d3722c2436c237f9": 1789892428,
   "d37257d4863bd24a": 1789627496,
   "d378394a9bb3fde4": 1789627496,
@@ -7299,6 +7313,7 @@
   "d44da0ef45f98ee2": 1790640533,
   "d45f8100ba47bc9e": 1789713633,
   "d4609afd94c8e16c": 1789629088,
+  "d462ff9dc2167e75": 1790726084,
   "d47110f4bb098246": 1789698990,
   "d47a659c22841e40": 1790042975,
   "d47db4ccae7a1b49": 1789699582,
@@ -7622,6 +7637,7 @@
   "df14d30f4be02a4a": 1789973468,
   "df376721d59a7b6b": 1790050216,
   "df3c4bbca1df02a0": 1789974322,
+  "df4418a182c0317a": 1790726084,
   "df519c7cac1ddba1": 1790562951,
   "df5733bd7d9863c2": 1790053518,
   "df61c87c416c1776": 1789976730,
@@ -8687,7 +8703,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790719251,
- "last_msg_poll": 1790725763,
+ "last_msg_poll": 1790726333,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8731,7 +8747,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 08:49 KST",
+  "last_run": "2026-09-30 08:58 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
