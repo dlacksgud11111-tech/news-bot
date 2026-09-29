@@ -481,6 +481,26 @@
    "t": "LS전선, AI 데이터센터 공략 확대…서버랙용 신제품 출시 - 더팩트",
    "ts": 1790644748,
    "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SU21ZalJpc01XUmlDODRGYmxETFBkQWk3bUZVQ19KclFOcjdRRjlOTUFnLURSalNQa0ZzVHdmLXhjTTB0Q2F6ZG4zWUU5aWNDM3VTSC1EcnFZUdIBVEFVX3lxTFBYUi14b2ItX3RkeXZmWjlTYnNyYXBMOXVfaWxzajZMVy1yc0xTSXlRdXlfZ3p2c1Y4NXJsSWRXbXFZTEV3VWpqT0JiLWxBX0hsNWVIUA?oc=5"
+  },
+  {
+   "co": "LS전선",
+   "n": 1,
+   "s": "연합뉴스 경제 최신기사",
+   "sc": 4,
+   "sec": "전력기기",
+   "t": "LS전선, 데이터센터 전시회서 서버랙용 신제품 공개",
+   "ts": 1790645599,
+   "u": "https://www.yna.co.kr/view/AKR20260929061000003"
+  },
+  {
+   "co": "LS전선",
+   "n": 1,
+   "s": "CNB뉴스",
+   "sc": 4,
+   "sec": "전력기기",
+   "t": "LS전선, 싱가포르서 AI 데이터센터용 신제품 공개 - CNB뉴스",
+   "ts": 1790645202,
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xbmFRSy1qZkpqTldWZzJfeTVsYlNWSnZjeXd1OVByaV83QlFZdllHNG92c19wNnJ1amlDbE5SU0sxbWtiX3RvT05VRWhteU5CUXJaSGtKdVN2YzdqdThaMGpRcEhvTEtEUERF?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1754,6 +1774,7 @@
   "2a708242b0f0f862": 1790035428,
   "2a7738399b859948": 1790124315,
   "2a814787a8238d9d": 1790571928,
+  "2a859d43c7d2855b": 1790646027,
   "2a8fb2975a25ccbd": 1790642222,
   "2a928ff9e0ffbda3": 1789783260,
   "2a9a3e5cdea204f1": 1789977915,
@@ -2695,6 +2716,7 @@
   "47ad49752e692060": 1790226628,
   "47b09620ddc4d93e": 1789888052,
   "47b96de5eb5e6b9b": 1789859418,
+  "47ba8e112bb257d9": 1790646027,
   "47bd276ea7cc615b": 1790067063,
   "47c17166bc1c44d4": 1790035999,
   "47c39126c3d30919": 1790353221,
@@ -5533,6 +5555,7 @@
   "ad1e0d5473266979": 1790040917,
   "ad5477c6b41f3994": 1789959318,
   "ad5c438c3ef7ed4c": 1789954327,
+  "ad6ebabef1031046": 1790646027,
   "ad7638f8665c8998": 1790555020,
   "ad76c1c6a42d031a": 1790552128,
   "ad7c2363f62302af": 1789697120,
@@ -5828,6 +5851,7 @@
   "b62903ef666035ad": 1790140218,
   "b62fa75add6b3b5e": 1790591719,
   "b63f18f6c9d1df31": 1790265318,
+  "b64923f435eeeeff": 1790646027,
   "b653d6160b637b11": 1790067063,
   "b65468ff76738486": 1790553316,
   "b6622c817c013db3": 1790061315,
@@ -7031,6 +7055,7 @@
   "e0fa8f347679cecb": 1789980627,
   "e10ce7d6edf1ff0c": 1790047038,
   "e10dc488ce9baefc": 1789718720,
+  "e10e35fd677621cd": 1790646027,
   "e1197afb396aa3c4": 1789967119,
   "e13592da0c53b727": 1790142019,
   "e1384a62dd997de6": 1790327414,
@@ -7933,6 +7958,7 @@
   "ff642c0a652b30aa": 1790124028,
   "ff68f917e952cf9e": 1789627496,
   "ff7856cd9a446cb9": 1790123718,
+  "ff7ce16696cbe8d4": 1790646027,
   "ff7f5b679457cbd0": 1790556791,
   "ff8e43c57e3108c2": 1789629088,
   "ff97d0fe2aa4f034": 1789872360,
@@ -7946,7 +7972,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790640533,
- "last_msg_poll": 1790645981,
+ "last_msg_poll": 1790646272,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7990,7 +8016,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 10:39 KST",
+  "last_run": "2026-09-29 10:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
