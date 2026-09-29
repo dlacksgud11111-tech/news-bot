@@ -426,6 +426,16 @@
    "t": "유럽 해상풍력 급성장, 국내 전력기업 새 기회 - 동행미디어 시대",
    "ts": 1790716200,
    "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12Q0thQ3Q3eWJvNzRMbHQ3S0d5eGdfZUpLTVNlSS1EajQ0ejhTbHc3cks4THJ5VFBYQWhYOGtuU3JRWEdDc0NNVFVjNjljaGhPbVBHdk1EQUpZREZRN1E?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "POWER Magazine",
+   "sc": 5,
+   "sec": "재생에너지·ESS",
+   "t": "Hydrogen Award Finalist: Total Hydrogen Solutions’ Texas Production Facility",
+   "ts": 1790717453,
+   "u": "https://www.powermag.com/hydrogen-award-finalist-total-hydrogen-solutions-texas-production-facility/"
   }
  ],
  "clip_titles": [],
@@ -3782,6 +3792,7 @@
   "6345134cd72dbf42": 1790455830,
   "63487b3b2a6cb90a": 1790151015,
   "634d3c3ad39f6e9b": 1790699001,
+  "635a696baed96ae7": 1790717527,
   "6364034e942c89e0": 1790127320,
   "63652c75195a59f1": 1790715791,
   "636a9fe64abe8721": 1790670923,
@@ -5802,6 +5813,7 @@
   "a4a492308a6ee15f": 1790262018,
   "a4a75fe6dee722b2": 1790673879,
   "a4ac8fbfd96388f2": 1789629088,
+  "a4ae0ad48f0aec48": 1790717527,
   "a4b7bc872c0b37c1": 1789971183,
   "a4be0381059cb18a": 1790428852,
   "a4c6168d8e8eca1c": 1789947108,
@@ -6958,6 +6970,7 @@
   "c75cc08d325ecfd2": 1789992384,
   "c763a65ec1ca4008": 1789888052,
   "c766f91e75927a6a": 1790565330,
+  "c768719946f6ef1e": 1790717527,
   "c76a1f6cbabf80fe": 1790357225,
   "c76c1c6c9f17dd71": 1789951430,
   "c76dde4feb2072d4": 1789852801,
@@ -8734,7 +8747,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790692523,
- "last_msg_poll": 1790717215,
+ "last_msg_poll": 1790717776,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8778,7 +8791,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 06:26 KST",
+  "last_run": "2026-09-30 06:36 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
