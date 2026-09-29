@@ -326,6 +326,16 @@
    "t": "삼성·LG·LS, 아시아 최대 ‘데이터센터월드 아시아(DCWA) 2026’ 참가(종합) - 마켓인",
    "ts": 1790660874,
    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DbFZyYU5iazlCX296eXBjbUlNY1pTVy1GWEtCUE1XVFlyOXV4OGFRSFVRRElDellXcWFodzkxVlNZR3JLc3lDMXZ6bHM0aGZ6N1dPWExFYVpoZG9lUHdBajI0U09OMEd3RFR5N3RBVDNhdjA?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "Lawsuit alleges USDA illegally slashed rural solar development program",
+   "ts": 1790690249,
+   "u": "https://www.utilitydive.com/news/usda-rural-solar-reap-program-lawsuit-earthjustice/831614/"
   }
  ],
  "clip_titles": [],
@@ -340,6 +350,7 @@
   "003700b0bc3aa10c": 1789627496,
   "003fb66aa1e86f17": 1790572220,
   "004011b8503b983d": 1790004321,
+  "0057d287ff5ab36f": 1790700153,
   "005caac56eeb0373": 1789935840,
   "005de0e2b382e28b": 1790572220,
   "0065f968ca88a37e": 1789733129,
@@ -1117,6 +1128,7 @@
   "18439f241d2a551c": 1789972883,
   "1852339edd4589c2": 1790145582,
   "186faee333c8e0c0": 1789627496,
+  "1872251a27243f48": 1790700153,
   "1887b437fd797d74": 1790665521,
   "1889ac1686704d1a": 1790058319,
   "189452040de2110a": 1789664118,
@@ -8599,7 +8611,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790692523,
- "last_msg_poll": 1790699817,
+ "last_msg_poll": 1790700394,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8643,7 +8655,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 01:36 KST",
+  "last_run": "2026-09-30 01:46 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
