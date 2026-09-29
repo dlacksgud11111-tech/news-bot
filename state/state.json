@@ -301,6 +301,16 @@
    "t": "LG전자, AI 데이터센터 냉각도 '모듈형'으로…구축기간·비용 줄인다 - edaily.co.kr",
    "ts": 1790643603,
    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeEFYcmJHdFJNMVNyM3BJOGZBcWRrTUVSbGhoVUt4OFdVNWFPZjhGT3VHbm11QTk1dUVUQUFiU0w4ZnpVQnNFS0VHeEpNdkUtWFRnZHVIUDBORFhSV2kyOXZmb0xnZDNZcTR6Y3JabWRIaExQNThnSldxSW5LdUlpRw?oc=5"
+  },
+  {
+   "co": "LS전선",
+   "n": 1,
+   "s": "서울경제TV",
+   "sc": 4,
+   "sec": "전력기기",
+   "t": "LS전선, 버스바·커넥터 신제품 공개…AI 데이터센터 솔루션 확장 - 서울경제TV",
+   "ts": 1790649219,
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zMW1GbUVFcDFfRWQ1UXBvMnJnTWU4LVVNbGZxSkdTOFFVNlVISHU5MzRMa3ZidFdkTFVTU1NhVUtIXzZheUdmXzc5RWtfNGFQMFlHdDl2ajlBdWQ4VFMyYXlsVE0?oc=5"
   }
  ],
  "clip_titles": [],
@@ -5392,6 +5402,7 @@
   "ab4ef20057a8c904": 1789698403,
   "ab502872883f3ce2": 1790100192,
   "ab6809f9e7aed2a0": 1790125822,
+  "ab78b86e5adfcbdf": 1790649614,
   "ab7ea64b6955544f": 1789718418,
   "ab8b415fa5eb4488": 1790467770,
   "abad96f865ec6450": 1789627496,
@@ -5816,6 +5827,7 @@
   "b847b6e2ec86cc10": 1789954327,
   "b84a29fd4d6e2bd7": 1789976119,
   "b8647869bf31c834": 1789627496,
+  "b86e4cdbd541e969": 1790649614,
   "b873347347a772da": 1790473524,
   "b8761c42e4bf2478": 1790489121,
   "b87bbaf4fcfa8dce": 1790045289,
@@ -6464,6 +6476,7 @@
   "cf3aef039ffa402e": 1790492713,
   "cf3feb0c06959da1": 1789708498,
   "cf42862b904e9440": 1790340495,
+  "cf4475273786f799": 1790649614,
   "cf54a9a988c81e2a": 1790647519,
   "cf706ec2a591a385": 1790287591,
   "cf713377bac5344f": 1790586034,
@@ -7906,7 +7919,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790647820,
- "last_msg_poll": 1790649574,
+ "last_msg_poll": 1790649860,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -7950,7 +7963,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 11:39 KST",
+  "last_run": "2026-09-29 11:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
