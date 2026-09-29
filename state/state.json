@@ -236,6 +236,36 @@
    "t": "Samsung invests $1bn into KKR's Helix data center platform",
    "ts": 1790679641,
    "u": "https://www.datacenterdynamics.com/en/news/samsung-invests-1bn-into-kkrs-helix-data-center-platform/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Plans unveiled for ‘largest’ data center in Italy",
+   "ts": 1790681137,
+   "u": "https://www.datacenterdynamics.com/en/news/plans-unveiled-for-largest-data-center-in-italy/"
+  },
+  {
+   "co": "Schneider Electric",
+   "n": 1,
+   "s": "DCD",
+   "sc": 8,
+   "sec": "전력기기",
+   "t": "Schneider Electric and Equinix trial software-defined switchgear for data centers",
+   "ts": 1790680982,
+   "u": "https://www.datacenterdynamics.com/en/news/schneider-electric-and-equinix-trial-software-defined-switchgear-for-data-centers/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "삼성, 美헬릭스에 10억달러 투자… AI 데이터센터 사업 확장 승부수 - v.daum.net",
+   "ts": 1790679780,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51cXBEU0pjU2J0LXVuTnFrdFgyZTgtajJhSG1BVFJ4YTlQdG1RUjAzY3RtTkFvbFNZLUxrdU14LWZHUmlON2xFZmFXNjdYX1E?oc=5"
   }
  ],
  "clip_titles": [],
@@ -993,6 +1023,7 @@
   "175f5768118f9da5": 1790038892,
   "1763e496d58ba509": 1790564716,
   "177ef6572923580a": 1790116521,
+  "179031781bb66e4a": 1790681418,
   "1792f148b1c393b2": 1790038311,
   "17965b67ad2f1c7f": 1790127320,
   "179e314d6bf8d6b2": 1789637719,
@@ -1046,6 +1077,7 @@
   "18f0214836ede48a": 1789722621,
   "18f12381bfb67024": 1790153419,
   "18f3383ae7124afc": 1789870063,
+  "18f7860503e19be0": 1790681418,
   "1910901671fcfb73": 1790643992,
   "1925d489393b112d": 1790643992,
   "1934e135d4de4d3b": 1790115057,
@@ -3503,6 +3535,7 @@
   "62348606cc5611b2": 1789947108,
   "623c1327bca843ea": 1790471198,
   "623e47ebb277a9d6": 1790568321,
+  "6248196fbc1d29c1": 1790681418,
   "6248583c43c9accf": 1789866315,
   "624a41b00424113d": 1790055317,
   "624e6bf862fb20d2": 1789655120,
@@ -5813,6 +5846,7 @@
   "adf409b41e843298": 1790556223,
   "adf766fad3549859": 1790478323,
   "adf86d8e4d6110f4": 1790072430,
+  "adfaa6ceb3bbfc79": 1790681418,
   "ae02f4281adc10d6": 1789627496,
   "ae1217d71877a1e6": 1789981231,
   "ae1346e8b712692b": 1790042395,
@@ -8414,7 +8448,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790677930,
- "last_msg_poll": 1790681361,
+ "last_msg_poll": 1790681667,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8458,7 +8492,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 20:29 KST",
+  "last_run": "2026-09-29 20:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
