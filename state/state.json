@@ -206,7 +206,18 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 0,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴시스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터 우후죽순 짓는다더니…10곳 중 7곳은 '유령'? - 뉴시스",
+   "ts": 1790721000,
+   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85VDNYOGk4X2xEZTd1Q1p2djl0andjLTNsc0FyY0JHY2dVRlkyOVB1ZjRRQWZQZjRUb1p0TlhYWjB1cDdMck9PS21wa09MUGxvN3V5bjRoQ1dEYUgxbmhKZ9IBeEFVX3lxTE85UWEtWWpjbWU4ZjIwY1lTUm9iUUtDM1V5UVdVRmRfZ1p6RFFFNVh5d3FyLWhLQXdmMG8yNjdQdWdfOEgtQzNTcnU5NkxJRFNkNmY2b0ZqMGFKZ2NKdi1UVHNETEVzRnBKa3BvVXpSOE9IWlNjUXdnaw?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "0003f98f6034d59c": 1790586316,
@@ -8491,6 +8502,7 @@
   "fee4c9bb54d47279": 1790593223,
   "fef19e4a141d0d59": 1789808455,
   "fef323e6ffa65a98": 1790671223,
+  "fefe94e1be1ac38a": 1790721616,
   "ff050b206c9492a8": 1790577994,
   "ff05432b996fa423": 1789636217,
   "ff07ad1e059c1abd": 1790148975,
@@ -8523,7 +8535,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790719251,
- "last_msg_poll": 1790721573,
+ "last_msg_poll": 1790721867,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8567,7 +8579,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 07:39 KST",
+  "last_run": "2026-09-30 07:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
