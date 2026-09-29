@@ -316,6 +316,16 @@
    "t": "Sub-Saharan Africa’s off-grid solar market to grow 450% by 2035",
    "ts": 1790684505,
    "u": "https://www.pv-magazine.com/2026/09/29/sub-saharan-africas-off-grid-solar-market-to-grow-450-by-2035/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴스핌",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터 '지방 분산' 딜레마...\"수도권 막아도 75%는 또 수도권\" - 뉴스핌",
+   "ts": 1790665740,
+   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEXzQtdU9XQ2dBZkpFSVItNzc3TEtSOGtyRnZrR3lzZmN0aEpJb0JUZmE5bDZ2TVZ3eTlfcVR6UVFhdHFNeVpEMnRrVHllSGY2MDJCbmRucGRWUVZl?oc=5"
   }
  ],
  "clip_titles": [],
@@ -7435,6 +7445,7 @@
   "de64fb8748bcafef": 1790068832,
   "de72efc294da3989": 1789627496,
   "de77e74f3dd88d9f": 1790039473,
+  "de7c0b8ba7489d50": 1790685032,
   "de8a6779169ac3e7": 1790127320,
   "de91e5cc43120f0d": 1790132720,
   "dea208043c1c7819": 1789635327,
@@ -8511,7 +8522,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790677930,
- "last_msg_poll": 1790684970,
+ "last_msg_poll": 1790685274,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8555,7 +8566,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 21:29 KST",
+  "last_run": "2026-09-29 21:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
