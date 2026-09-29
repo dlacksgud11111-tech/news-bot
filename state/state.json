@@ -272,6 +272,16 @@
    "t": "전기·물 아껴쓰고 일자리 늘리고… 데이터센터 기업들 '공존' 실험 - 한국일보",
    "ts": 1790722800,
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzMFRGNGFBMExLWHNqOExxSEZvNjVHMWlkX2xRcWpsRm1DYlZaUGV6N0xPVFp3LUFaUmFXWGRNdmNRWjBwcnlKNGN6b1AtMDJFQ3N3NFZ3RlpHS0ozb1BSaG5XbWtfYld3VTdoOWtB0gFzQVVfeXFMT00zVEc3R1Z0VHl6SU1jXzRiTmlRMGxQNWdhQVZWcnFSVzlaOWMzeGNMQ0hLc3ljaVRMVzNBVDBESExYTWJWMlgyVzVaclFXRDFHR2dQaTVNeUJKN3FZcWViNWVBbk5BcWpmam54M2NKenFSaw?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "잡포스트",
+   "sc": 16,
+   "sec": "전력기기",
+   "t": "LS ELECTRIC 20만3000원 약보합…전력기기 수주 매출 전환이 관건 - 잡포스트",
+   "ts": 1790660163,
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkcnBPZDRXR2JaRWdQTnJ4b3ZGb3NEQTJSbDZxcWROamxmZ1l0ZDVPYm1yYjByam5BR2prNkphd0YyWHVyTEc5cS1DT252YnVzQW1YRnVvbXlTYXVWMDc5eXpzTzUyOGk3SmNYRnc0M24yUdIBckFVX3lxTFBkcnBPZDRXR2JaRWdQTnJ4b3ZGb3NEQTJSbDZxcWROamxmZ1l0ZDVPYm1yYjByam5BR2prNkphd0YyWHVyTEc5cS1DT252YnVzQW1YRnVvbXlTYXVWMDc5eXpzTzUyOGk3SmNYRnc0M24yUQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1145,6 +1155,7 @@
   "1a41ddbb63b0ce32": 1789693531,
   "1a47e5fa4b9db80b": 1789646718,
   "1a5d357f80ce115b": 1789697120,
+  "1a6a5666fb579757": 1790724015,
   "1a7a1907640992b4": 1789627496,
   "1a7cfef5fb0e0138": 1789691116,
   "1a7f855da4c47070": 1790584523,
@@ -7841,6 +7852,7 @@
   "e7ff821d9be49bfe": 1789690229,
   "e810843331a469ab": 1790657174,
   "e81319572d1dde0c": 1789633820,
+  "e81cf93b8019f6cf": 1790724015,
   "e81d20b0a7581e14": 1790654845,
   "e831a2b89fa03f5d": 1790646615,
   "e8397a5dabb9a804": 1790052923,
@@ -8608,7 +8620,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790719251,
- "last_msg_poll": 1790723963,
+ "last_msg_poll": 1790724265,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8652,7 +8664,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 08:19 KST",
+  "last_run": "2026-09-30 08:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
