@@ -276,6 +276,26 @@
    "t": "강원특별자치도, ‘120조 메가프로젝트’ 동해 AI데이터센터 현장 점검 - climatepol.com",
    "ts": 1790668923,
    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CV1Z3Y3hqTndyLUZSc0pKUERBTTZTdkFheVBqeXk4MEllcUdBWm02QjVUNmZEcUNTNEZrMzI4N0tyQXlTOUNIcEdQRnJMTTRSdGh1TXhRdWZoalN6MUR3SXVCR2hxRGx0ZVNRWg?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "koreasprint.com",
+   "sc": 8,
+   "sec": "데이터센터·AI전력",
+   "t": "LS일렉트릭, 데이터센터 패키지 솔루션으로 아세안 시장 정조준 - koreasprint.com",
+   "ts": 1790696520,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MUl9NbF9NRk04ei1GSGowWm1nNVhEZjRTaVRDUmR3M1VnX2lpaUxMa2NQZEpFTmRpbzdHd3E0NnhjeEtGSkMzak1OakN2SG9UbEFLVFlZTElEblZOU1NjcTNaUTR3ZW5fOFJfUl9B?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 7,
+   "sec": "유틸리티·정책",
+   "t": "The virtuous cycle of inclusive utility investment and virtual power plants",
+   "ts": 1790694000,
+   "u": "https://www.utilitydive.com/news/virtuous-cycle-inclusive-utility-investment-virtual-power-plants/830123/"
   }
  ],
  "clip_titles": [],
@@ -1010,6 +1030,7 @@
   "168ba5d71125279d": 1789635327,
   "1697c3ef9ae09ce3": 1789748428,
   "16989ea777f1407c": 1790651919,
+  "169e7b3760da9dfc": 1790697297,
   "16b8048294b0bf44": 1789784719,
   "16ba59c3a5e2ea85": 1789627496,
   "16c01fb11a7f2184": 1790053518,
@@ -4798,6 +4819,7 @@
   "896432c60a81bd29": 1789939270,
   "896767c7598539fc": 1790072717,
   "8969d61be53bdec4": 1790214317,
+  "896cb06ec15bd442": 1790697297,
   "89726900b48be2ad": 1790127622,
   "8977d254721689b5": 1789631127,
   "8978d7ed2e62bac2": 1790039473,
@@ -5183,6 +5205,7 @@
   "965290b3599a4dd4": 1789627496,
   "965751909a9a656c": 1789704919,
   "966444f27708d305": 1790125822,
+  "9666778f19792227": 1790697297,
   "96754c220039d906": 1789959919,
   "9687fa8f24d9e95b": 1790642222,
   "968b23c07c9d4d9b": 1789956616,
@@ -8540,7 +8563,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790692523,
- "last_msg_poll": 1790696979,
+ "last_msg_poll": 1790697546,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8584,7 +8607,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 00:49 KST",
+  "last_run": "2026-09-30 00:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
