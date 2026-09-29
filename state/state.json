@@ -219,7 +219,7 @@
   },
   {
    "co": "LS전선",
-   "n": 1,
+   "n": 2,
    "s": "데일리안",
    "sc": 10,
    "sec": "전력기기",
@@ -476,6 +476,26 @@
    "t": "AI 데이터센터 전력 수요 잡는다... LS ELECTRIC, 아세안 시장 정조준 - 테크데일리",
    "ts": 1790581217,
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94ckJMR1MtcjRNbjNYaVVnWnZTRU5JaGZjbHpjTzVUSmJzT21yVkJ0TWc0ei1YMUNQNTluQUpIbTJ1MEpoZ211UmY3VnRoN3o5eXg0N3c5eDUwbWlneTBZbjkyV3YyeVpWX2FmOWln0gFyQVVfeXFMUFF1Wlptd1pwZXFzb1loUEh3YloyOXEzMWNSZWd4XzV1QnMxY2dnTUFDZ3dwdTVJckFjV3JTZFo1U3JiQ3pvN2F1eU5oMVRCY1FaQUpzaUJmdUpMUUFQYzVyVlEwNXFVRS1uU0VtaVJNUW13?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "전기신문 - 전체기사",
+   "sc": 0,
+   "sec": "건설·플랜트",
+   "t": "한난, 건설 협력사와 ‘청렴소통’…불공정 관행 예방",
+   "ts": 1790700105,
+   "u": "https://www.electimes.com/news/articleView.html?idxno=372903"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "NSP통신",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, 싱가포르서 AI 데이터센터 통합 솔루션 선봬 - NSP통신",
+   "ts": 1790667484,
+   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fa1Q3UkNtcFhHbUsxaU1VVDlBMmR2Yjdvc1NCc3drcG94cnBDY0hwQ1Jja2JOTTZmZ1djakhvSjVIeVZhaF83NFUxa3lsbjdNV1NTNDdtd2NmbzJ6end6OQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -963,6 +983,7 @@
   "10187fbc87e9ed6d": 1789970013,
   "1019ca802019568c": 1789972312,
   "101e1f4e0bd333e0": 1789958121,
+  "1029bfe5a230cbb8": 1790667923,
   "102f0fded4fdd022": 1789974322,
   "10335e5a37f344c8": 1790042395,
   "10357d56392f1455": 1789694721,
@@ -1614,6 +1635,7 @@
   "2368f9ab74ed80b2": 1790560231,
   "237835bbefbfb3c9": 1789713633,
   "237b5c93b35a4153": 1789954327,
+  "2380e3fab29d6ee0": 1790667923,
   "2383ff741b3ef1fc": 1789688716,
   "239f778c35e3541a": 1789956049,
   "23aa3ab4bc882174": 1789627496,
@@ -4273,6 +4295,7 @@
   "771fbc1f72bb6873": 1790648734,
   "772041d49c646886": 1790127320,
   "77226f6ffba015ee": 1789627496,
+  "772c68c9b5bb666b": 1790667923,
   "7731e9e2515a22ef": 1790574524,
   "77336ab76abd6f75": 1789859418,
   "773b1636c7af0a32": 1790553879,
@@ -7066,6 +7089,7 @@
   "d38d6edaaa187eae": 1790005520,
   "d396cfc024d3ff1c": 1790035428,
   "d39ef87f237c2797": 1790143522,
+  "d3a45e2d94643a04": 1790667923,
   "d3a4aa6a407d43bf": 1789870063,
   "d3a8c2e356f348cc": 1790051717,
   "d3a981938e2fc1a5": 1789634416,
@@ -8425,7 +8449,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790662829,
- "last_msg_poll": 1790667857,
+ "last_msg_poll": 1790668169,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8469,7 +8493,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 16:44 KST",
+  "last_run": "2026-09-29 16:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
