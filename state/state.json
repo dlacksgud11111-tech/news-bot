@@ -296,6 +296,36 @@
    "t": "LS전선, AIDC 내부용 신제품 공개…“서버랙 내외부 솔루션 구축” - 에너지경제신문",
    "ts": 1790664622,
    "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IVWN5aER0NUtFZ3ZfZWVRaFRBX2RYdndOelVJWGJ5Zlg3QUdMNjFVZTZyd0dfcGo4NDgwQVNEWWFqT1g2UzFUaktXVndhalJvS3A0dnVKWHRxYWhuWjQ1YThR?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 8,
+   "sec": "전력기기",
+   "t": "Digital map forecasts Spain’s grid constraints and curtailment hotspots for 2027",
+   "ts": 1790665170,
+   "u": "https://www.pv-magazine.com/2026/09/29/digital-map-forecasts-spains-grid-constraints-and-curtailment-hotspots-for-2027/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴스핌",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "'AI 3대 강국' 외치는데…데이터센터 전기 검토에만 최장 2년 - 뉴스핌",
+   "ts": 1790665020,
+   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHNnBPcHdUMnJSM3JQOGI3VmplZTljLWJTUWlFZWJyQ1kyRWMzVGZMNlQ1My1BTTNheDFUbkhabVdXelpIMnNPcnFDWFNsZmV0NG9rTEJaVXNlck41?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "the-tech.co.kr",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "삼성, AI 데이터센터 ‘부품 공급’ 넘어 인프라 투자로…美 헬릭스에 10억달러 - the-tech.co.kr",
+   "ts": 1790664990,
+   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwOW0yaU9qYzFEQnA4RTg4WGRsVU1uT3Npbkc1YlQwdU56bjhObVQycFh3UG5JNzNXYU9nY0MzSm82cENENkItN01aR1RoZWR6Z3NMX25JVy1EMUV6cEExSUJMZw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1112,6 +1142,7 @@
   "1a023d8b4239b584": 1789784117,
   "1a08a72bd2eef8ae": 1789783260,
   "1a0c6627688ebefe": 1790561130,
+  "1a35cfefbc3ba3aa": 1790665217,
   "1a37b9903d3d80c1": 1790654845,
   "1a41ddbb63b0ce32": 1789693531,
   "1a47e5fa4b9db80b": 1789646718,
@@ -2856,6 +2887,7 @@
   "4f47ae7a6727d0ab": 1790039473,
   "4f528b456ce877e7": 1790298315,
   "4f55c91be1b0e178": 1790557916,
+  "4f6039e41a0dfeb2": 1790665217,
   "4f6762916f237639": 1790211944,
   "4f67c0a790aac066": 1790037737,
   "4f701af2c2f0a457": 1790647820,
@@ -3545,6 +3577,7 @@
   "65857faf86d7f67e": 1790543116,
   "65950502eef87527": 1789679129,
   "6597f23120efef07": 1790557916,
+  "659ab21c01d229fe": 1790665217,
   "65a44fe579d6b93b": 1789716922,
   "65b063949811db4b": 1789983017,
   "65cbab5078fabac1": 1790060726,
@@ -8178,7 +8211,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790662829,
- "last_msg_poll": 1790665167,
+ "last_msg_poll": 1790665469,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8222,7 +8255,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 15:59 KST",
+  "last_run": "2026-09-29 16:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
