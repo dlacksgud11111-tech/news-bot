@@ -471,6 +471,26 @@
    "t": "LG전자, ‘블록형 냉각’으로 AI 데이터센터 공략 - 한스경제",
    "ts": 1790650007,
    "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyMWFwQkNMOEkwV01VMzZudzBuV3h1U1liTVpDNEJlUXpENmVMX0dZd2laaWRMbGpDNnQ0T1RwVUI5MkJxOFlMcjRQbGRWTVFzaWVPQlZmb2hyWmxXQk4zY2lSdkJqQ1dzOHo4?oc=5"
+  },
+  {
+   "co": "LS전선",
+   "n": 1,
+   "s": "매일일보",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "LS전선, AIDC 전력 인프라 시장 '정조준'…'버스바·커넥터' 공개 - 매일일보",
+   "ts": 1790660001,
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KTWtYbFlNR0pIOENwTzYyYnUzRlZ6V1l0ZVJ5THNZSjZBUG5mNzdoVjNra2pCZ3psZ0pGUDJTaEpKNk5Ma3JjV1JpRm9ZWk9oYTg2M29yOHB2T0RGZHlQbmpEV3Y?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "\"데이터센터는 복합 인프라…산업·에너지 정책 함께 설계돼야\" - v.daum.net",
+   "ts": 1790659800,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11a2hvVEtDUTVvakt6NGJNeEhDUG9tNm1STUtmNFZSU3VsV0JIaWNNT0dsdTJDSUo5OEtTWlotN3JzLWtHSjBEY21zV19XeUk?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2545,6 +2565,7 @@
   "4140423152daecff": 1790585418,
   "41450000e19fad43": 1789979721,
   "414a62ee5fe58c6b": 1790181333,
+  "4152e899720f0152": 1790660429,
   "416cfaca65c8d00d": 1790581516,
   "416f82629d2e2a85": 1789627496,
   "417e1cc1be23428e": 1789967690,
@@ -4133,6 +4154,7 @@
   "74dc644693fce76b": 1790217321,
   "74e120ffcbabc0da": 1789627496,
   "74fe680d0abd7cde": 1789956616,
+  "75107aed5e6513a2": 1790660429,
   "751e43e05c4844e6": 1790035428,
   "75255942e5757a18": 1790583021,
   "75312b8cc25f9877": 1789956921,
@@ -8276,7 +8298,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790655465,
- "last_msg_poll": 1790660369,
+ "last_msg_poll": 1790660680,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8320,7 +8342,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 14:39 KST",
+  "last_run": "2026-09-29 14:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
