@@ -336,6 +336,16 @@
    "t": "Lawsuit alleges USDA illegally slashed rural solar development program",
    "ts": 1790690249,
    "u": "https://www.utilitydive.com/news/usda-rural-solar-reap-program-lawsuit-earthjustice/831614/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "POWER Magazine",
+   "sc": 11,
+   "sec": "재생에너지·ESS",
+   "t": "Renewable Energy Group Acquires 715-MW Solar Power Portfolio",
+   "ts": 1790700562,
+   "u": "https://www.powermag.com/renewable-energy-group-acquires-715-mw-solar-power-portfolio/"
   }
  ],
  "clip_titles": [],
@@ -4916,6 +4926,7 @@
   "8aefed61b4b46ca3": 1790056218,
   "8af7dd83d86442ff": 1790647820,
   "8b0a5098bf01fa21": 1790155228,
+  "8b0a9a49b5241e96": 1790700714,
   "8b143529e14a870c": 1790428852,
   "8b22245b76182e37": 1789967119,
   "8b24301336e2ec18": 1789693531,
@@ -8273,6 +8284,7 @@
   "f59c9d020b4e9ed1": 1789701615,
   "f5a7376f6e496f34": 1790557916,
   "f5bb7e9fdae0627d": 1790641093,
+  "f5c132fb083c9636": 1790700714,
   "f5c34338e8521a25": 1790045289,
   "f5ca33327b26d25d": 1789873818,
   "f5e176b4e2f52283": 1790044716,
@@ -8611,7 +8623,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790692523,
- "last_msg_poll": 1790700394,
+ "last_msg_poll": 1790700964,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8655,7 +8667,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 01:46 KST",
+  "last_run": "2026-09-30 01:56 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
