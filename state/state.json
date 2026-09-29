@@ -306,6 +306,26 @@
    "t": "Global Switch to host large Nvidia Blackwell deployment at Paris data center",
    "ts": 1790697816,
    "u": "https://www.datacenterdynamics.com/en/news/global-switch-to-host-large-nvidia-blackwell-deployment-at-paris-data-center/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "The data center boom continues apace, but projects face mounting obstacles",
+   "ts": 1790697600,
+   "u": "https://www.utilitydive.com/news/the-data-center-boom-continues-apace-but-projects-face-mounting-obstacles/830496/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "마켓인",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "삼성·LG·LS, 아시아 최대 ‘데이터센터월드 아시아(DCWA) 2026’ 참가(종합) - 마켓인",
+   "ts": 1790660874,
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DbFZyYU5iazlCX296eXBjbUlNY1pTVy1GWEtCUE1XVFlyOXV4OGFRSFVRRElDellXcWFodzkxVlNZR3JLc3lDMXZ6bHM0aGZ6N1dPWExFYVpoZG9lUHdBajI0U09OMEd3RFR5N3RBVDNhdjA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -636,6 +656,7 @@
   "0aeab31aa481fbbe": 1789953163,
   "0aec1983a7dcee06": 1789715428,
   "0afa2a625ca2f47f": 1790163629,
+  "0aff620cea0a678e": 1790699001,
   "0b0f2bb392a6c38e": 1789948225,
   "0b134cdb3e517d99": 1790519116,
   "0b13fafe703f5211": 1790220321,
@@ -3645,6 +3666,7 @@
   "631f80be617dced0": 1790679660,
   "6345134cd72dbf42": 1790455830,
   "63487b3b2a6cb90a": 1790151015,
+  "634d3c3ad39f6e9b": 1790699001,
   "6364034e942c89e0": 1790127320,
   "636a9fe64abe8721": 1790670923,
   "636afee42b083f15": 1790026960,
@@ -5018,6 +5040,7 @@
   "8fa1a7623feb51de": 1790607918,
   "8fab80bd178f34e9": 1789682714,
   "8fac77b1813e5791": 1789707915,
+  "8fade3fe2be779fd": 1790699001,
   "8fb032906939eeaa": 1790069431,
   "8fb277102ef0e00b": 1789641915,
   "8fb52c0af2b10be6": 1790646615,
@@ -8576,7 +8599,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790692523,
- "last_msg_poll": 1790698674,
+ "last_msg_poll": 1790699244,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8620,7 +8643,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 01:17 KST",
+  "last_run": "2026-09-30 01:27 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
