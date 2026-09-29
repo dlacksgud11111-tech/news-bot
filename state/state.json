@@ -276,6 +276,16 @@
    "t": "Heterojunction solar cell based on molybdenum oxide achieves 24.9% efficiency",
    "ts": 1790681452,
    "u": "https://www.pv-magazine.com/2026/09/29/heterojunction-solar-cell-based-on-molybdenum-oxide-achieves-24-9-efficiency/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 5,
+   "sec": "전력기기",
+   "t": "SMA battery inverter first to win grid-forming certification for German inertia market",
+   "ts": 1790681862,
+   "u": "https://www.energy-storage.news/sma-battery-inverter-first-to-win-grid-forming-certification-for-german-inertia-market/"
   }
  ],
  "clip_titles": [],
@@ -3605,6 +3615,7 @@
   "63d3213219efcd36": 1790003117,
   "63d8e3a7a5e99561": 1790671521,
   "63d996a8e5cba507": 1789627496,
+  "63dc36acbe39e2a5": 1790682031,
   "63e45fb4c82e8f6c": 1790034282,
   "63e562f66e85057e": 1789731320,
   "63e7c6a9e3bb57ed": 1790098469,
@@ -3903,6 +3914,7 @@
   "6da3579699b3cba3": 1790583317,
   "6dd3143ec459edb5": 1789696816,
   "6dd78816279deb41": 1790042975,
+  "6dda85edb75393f5": 1790682031,
   "6dde5b4dc67a2a6f": 1789971183,
   "6ddef1e300ba2d21": 1790571320,
   "6ddf2a01623ceeb9": 1790586316,
@@ -7789,6 +7801,7 @@
   "eaaa16e02c5631ef": 1790650193,
   "eaaea9c1f258a41e": 1790680827,
   "eaaf13f171e04308": 1789708498,
+  "eab1dd29f49b2a33": 1790682031,
   "eab22c1987fcca78": 1789706118,
   "eab52ad09bdb397f": 1789977618,
   "eabbdd4f26dbab91": 1790564418,
@@ -8462,7 +8475,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790677930,
- "last_msg_poll": 1790681969,
+ "last_msg_poll": 1790682273,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8506,7 +8519,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 20:39 KST",
+  "last_run": "2026-09-29 20:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
