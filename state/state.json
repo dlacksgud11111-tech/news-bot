@@ -409,7 +409,7 @@
   },
   {
    "co": "",
-   "n": 1,
+   "n": 2,
    "s": "아이뉴스24",
    "sc": 16,
    "sec": "전력기기",
@@ -436,6 +436,16 @@
    "t": "AI 데이터센터 키운다더니…전용 전기요금제는 아직 깜깜이 - 디지털데일리",
    "ts": 1790674770,
    "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zQzJYLU5kLXVybzBwMkJvTEtpeEtXdUN2U0I1RUhIV1RuSmlzYlFfbWVYbENkVTg0MzdQV3VKMjJPazFtNFNrZVVzV3FFV2ZDdXZjWGEtTHVFSGtublhkOE5Rd1U?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "이투뉴스 - 전체기사",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "기상청, 태양광·풍력 발전량 예측용 기상자료 제공",
+   "ts": 1790708023,
+   "u": "http://www.e2news.com/news/articleView.html?idxno=334669"
   }
  ],
  "clip_titles": [],
@@ -1742,6 +1752,7 @@
   "27f359c111c909f2": 1790348724,
   "27f3b67d2cc40e5c": 1790646615,
   "28051a9f7197ac0f": 1789873818,
+  "28101e6805af5498": 1790676203,
   "281a64f70a6c2d36": 1789692619,
   "2821b12599fbd811": 1789634416,
   "282882c9ed820e49": 1789951988,
@@ -3713,6 +3724,7 @@
   "62d709ec347107c4": 1789627496,
   "62dfa23b8ac5f42b": 1789701321,
   "62ee8f493fdc1a97": 1790496322,
+  "62f0cd6a7a7a41d1": 1790676203,
   "62f249844b6d536a": 1790051717,
   "62ff975da9272c5b": 1790006722,
   "6306a845cf1acebd": 1790158556,
@@ -5871,6 +5883,7 @@
   "aa34d7556d47ef54": 1789709642,
   "aa4dba75d09d9155": 1790661915,
   "aa4f0d18e2e53704": 1790413219,
+  "aa4f5c258125b1ab": 1790676203,
   "aa5667e3d60ce67a": 1789627496,
   "aa56778d99b372fa": 1789627496,
   "aa606d4e360cf56e": 1790473215,
@@ -8574,7 +8587,7 @@
  "companies_today": {},
  "day": "2026-09-29",
  "last_clip": 1790670334,
- "last_msg_poll": 1790675872,
+ "last_msg_poll": 1790676452,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -8618,7 +8631,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-29 18:57 KST",
+  "last_run": "2026-09-29 19:07 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
