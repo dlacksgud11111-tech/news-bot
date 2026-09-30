@@ -352,6 +352,36 @@
    "t": "데이터센터 전력 수요 폭증… 태양광에너지 테마 상승 동력 확보 - 핀포인트뉴스",
    "ts": 1790744046,
    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pUGFiajFmY0VOcnFRS0xFLTk4dHJYa0UyMUJUN0tISERCbmZVXzRRU0l2Y3FTNWRCekZqUFUxam1OTExPNktGX1N1allSMF9BS1h4N0tnWlNpS0dsUVY1OWlpOFlXZlNMQnpkWHJMazZMQ3PSAXdBVV95cUxPR3ZqX3VlNVdRU1V4akNab0xxbkI4U2FfSWhHekEwVkVvNE1YUGNLa21MMnhaVXRNOHFkVkhodTZka2FqZ2hzcjJmVlFZQWhPTkpoZ3NySGJtNkZBTlppX1pfWFlZT19PbXppdnRjdWtvd0dGLTFFTQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "TrinaTracker launches solar panel installation and cleaning robots",
+   "ts": 1790745784,
+   "u": "https://www.pv-magazine.com/2026/09/30/trinatracker-launches-solar-panel-installation-and-cleaning-robots/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "U.S. homeowners are now slightly less mistrustful of solar companies",
+   "ts": 1790745718,
+   "u": "https://www.pv-magazine.com/2026/09/30/homeowners-are-now-slightly-less-mistrustful-of-solar-companies-report-claims/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "한국경제",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "한신공영, 정도·직스테크놀로지와 데이터센터 경쟁력 강화 - 한국경제",
+   "ts": 1790745389,
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yVDJLaWhzczEwSEtPZm40eUhJbG9jd3JJVFpjX2U0NGFDOFIzSDdYbGhVQ1ByWC0tNW9JMXhSd0g3cmJlSVR0ZEZyZkNRcmY2Z3p3dnp0WHQ2dw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1763,6 +1793,7 @@
   "2784abcb4400f454": 1790639367,
   "278eb22477f75d72": 1790025209,
   "27906faf3b798322": 1789967690,
+  "27920a773f8d0082": 1790745919,
   "2798757f18619f0b": 1789627496,
   "279a4185f1d389eb": 1789796557,
   "279e1d6e463db006": 1789695321,
@@ -3835,6 +3866,7 @@
   "603ea98d9b66519e": 1789676118,
   "604b59ae16fb1fa7": 1790390309,
   "604bc20c31aa6511": 1789627496,
+  "6052a9561801b232": 1790745919,
   "60545e5bc8266f9f": 1790646615,
   "60668b18a54cf747": 1790559919,
   "6068c6f9f6f75930": 1790647220,
@@ -4788,6 +4820,7 @@
   "7c33f7a59e513ce3": 1790053518,
   "7c39b3fc4753b390": 1789633820,
   "7c4ae6fcaf1fc140": 1790564716,
+  "7c4cf87c37b04fec": 1790745919,
   "7c543acc07234ca1": 1790673291,
   "7c594fc091214791": 1789951430,
   "7c5c70870ada6256": 1790467770,
@@ -6978,6 +7011,7 @@
   "bc30c2ad3d527992": 1790210120,
   "bc33aa962d5f6e6a": 1789638920,
   "bc3799a2d6808c33": 1789950858,
+  "bc5a013ed54d0843": 1790745919,
   "bc5b9487f211960c": 1790732122,
   "bc5bb888cd078a09": 1790556791,
   "bc6bf71c8d6042ae": 1789978220,
@@ -9273,7 +9307,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790741728,
- "last_msg_poll": 1790745861,
+ "last_msg_poll": 1790746168,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9317,7 +9351,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 14:24 KST",
+  "last_run": "2026-09-30 14:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
