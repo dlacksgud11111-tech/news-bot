@@ -247,6 +247,16 @@
    "t": "美 최대 전력망, AI 데이터센터 전력 경매 중단 - v.daum.net",
    "ts": 1790805240,
    "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LSkREc3ZUYkJUaHRfamRvZmRMZFN4TWdaaExreDVfVVBwQjlBSVhyOThOZWVRTVVfaklza1FIb0xpYVBuZ0xBdnRIRlJpc2M?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "한국경제",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "데이터센터 사고 발전사도 산다…블랙록, AI 투자 확장에 전기료 논란 [김주완의 글로벌머니 X파일] - 한국경제",
+   "ts": 1790805612,
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EN3dmT1hGNHpuMGlLd1V1ZlJCSWliakF6UnlkbWRQajhVQ3NVZk1PR2J5S0plX1N0RXh1MHZfaWNGalBUN3RoWU9IMTUtSmZUTC00YUc5VkROZw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3417,6 +3427,7 @@
   "521c6ca706a68d48": 1789957222,
   "52230bd59125e479": 1790130924,
   "52272271df50e1a1": 1790723121,
+  "5229ac9c77c8dbf5": 1790806228,
   "5229b97b732e1839": 1790032518,
   "523b24981e051289": 1790643992,
   "523c44a7c5a54d7d": 1790042395,
@@ -9685,7 +9696,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790805616,
- "last_msg_poll": 1790806162,
+ "last_msg_poll": 1790806472,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9729,7 +9740,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 07:09 KST",
+  "last_run": "2026-10-01 07:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
