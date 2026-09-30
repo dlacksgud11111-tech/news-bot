@@ -212,338 +212,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 1,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 1,
-   "sec": "원전",
-   "t": "원자력연 첨단방사선연구소, 창립 20주년 새 비전 선포",
-   "ts": 1790769337,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303668"
-  },
-  {
-   "co": "LS전선",
-   "n": 1,
-   "s": "뉴뉴스",
-   "sc": 4,
-   "sec": "전력기기",
-   "t": "LS전선, AI 데이터센터용 신제품 공개...서버랙 내부로 사업 확대 - 뉴뉴스",
-   "ts": 1790741584,
-   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RUDRYMFhzbGtZdWxlSVNPazhUVXVHWUZ2cmlncFFMUkZGVWFSaUNpaVp2djdqWUZjR3BfTVRFT2h2NkllQ2lwQ3ZsbndkbDJFbWMtSmJUMTlTUmlqN1lBNHVfeGxvZw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "파이낸스투데이",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 패권 경쟁, 결국 ‘전력 확보전’…美 데이터센터 전력수요 2030년 3배 뛸 수도 - 파이낸스투데이",
-   "ts": 1790720340,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8ydUtEYjZSdlB0SGFIdjNQQlB3MDhBN3FTVUxpMW5VYTZ4eWFhenRsRDdaT0Q4NUpUOTZieHNUWXBKUHB3X1JxQVpCa2FZbDVYRWJFY21obDZfTnhfNjBmVkZEbDl4ZlV0ajhRcg?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 1,
-   "sec": "유틸리티·정책",
-   "t": "호르무즈 사태 장기화…유럽 LNG 확보 확대, 아시아와 경쟁 심화",
-   "ts": 1790774720,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303670"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "\"전자파·소음 괜찮나\"…동해 AI데이터센터 지중선로 주민설명회 - v.daum.net",
-   "ts": 1790735580,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2VGlrYTh5Q3MzLTFmYkJ4R1gtTWUyQk84cjNNd2R2cE9leThDYWdLYjJTbnBVWnp6SXdhZF83TW1OSEQ0LUszcklFVDB2SEk?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "디일렉",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "온세미, 2030년 매출 110억달러 목표…자동차 넘어 AI 데이터센터로 - 디일렉",
-   "ts": 1790742973,
-   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BcFBpM1d1NzlGc0lPZEhkWWtuTHNRN2VlYnFzMXE2c1JPN2lCMThzVy1TV0FERE1pRk43TDQ2R0lpQ25vMEdrM1pJRlVydC1mYnNjWm1ZYVFkV1JNUzN0UjJ2MjVVQQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "유틸리티·정책",
-   "t": "[ET특징주] 트럼프, 알래스카 LNG 사업 韓 투자 발표 가능성에… 강관·철강株 강세",
-   "ts": 1790741842,
-   "u": "https://www.etnews.com/20260930000239"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 3,
-   "sec": "건설·플랜트",
-   "t": "HS효성첨단소재, 다낭에 카페트 신설공장 건설…1300억 투입",
-   "ts": 1790741079,
-   "u": "https://www.etnews.com/20260930000231"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 16,
-   "sec": "전력기기",
-   "t": "영국은 국가가, 한국은 민간이…다르지만 같은 전력망 대책",
-   "ts": 1790776329,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372940"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 4,
-   "sec": "유틸리티·정책",
-   "t": "Kerala: Indian state proposes five-year electricity tariff framework with new provisions for BESS",
-   "ts": 1790744187,
-   "u": "https://www.energy-storage.news/kerala-indian-state-proposes-five-year-electricity-tariff-framework-with-new-provisions-for-bess/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "냉동공조저널",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, 모듈형 냉각 인프라 앞세워 AI 데이터센터 시장 공략 - 냉동공조저널",
-   "ts": 1790742639,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aQ3ZheVBDNjdWenUxRGxLNDJVSjJWaElJTG9UWGtva0ZFVEFLUy1yVC1PSU9sNnBqZ2lEUXlGeksyTUgtc1B4LW1qalpleWJOZFAtbmlLalRBcGV1RzE1V0plNXFxci1jbkE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 13,
-   "sec": "전력기기",
-   "t": "서해안 HVDC ‘멀티벤더’ 시대 준비…국산 기술 경쟁력 시험대",
-   "ts": 1790776800,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372935"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "한겨레",
-   "sc": 4,
-   "sec": "데이터센터·AI전력",
-   "t": "[단독] “도심 비상발전기 매연 엄청”…데이터센터 늘며 ‘원전 29기’ 규모로↑ - 한겨레",
-   "ts": 1790728920,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvX2h4Y1BaaF9jSTNqN09jZ1lFT0RKTjJrNVlDeUY3RnNwa2RiTzh4bk83SjFCNE8tT0g5U2hVQmpIMkJfYnA2UThwcDA5OGhaQUVid3lxcktycXFrZWIwQVJZZURMV21HWTB0dA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "핀포인트뉴스",
-   "sc": 10,
-   "sec": "데이터센터·AI전력",
-   "t": "데이터센터 전력 수요 폭증… 태양광에너지 테마 상승 동력 확보 - 핀포인트뉴스",
-   "ts": 1790744046,
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pUGFiajFmY0VOcnFRS0xFLTk4dHJYa0UyMUJUN0tISERCbmZVXzRRU0l2Y3FTNWRCekZqUFUxam1OTExPNktGX1N1allSMF9BS1h4N0tnWlNpS0dsUVY1OWlpOFlXZlNMQnpkWHJMazZMQ3PSAXdBVV95cUxPR3ZqX3VlNVdRU1V4akNab0xxbkI4U2FfSWhHekEwVkVvNE1YUGNLa21MMnhaVXRNOHFkVkhodTZka2FqZ2hzcjJmVlFZQWhPTkpoZ3NySGJtNkZBTlppX1pfWFlZT19PbXppdnRjdWtvd0dGLTFFTQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "TrinaTracker launches solar panel installation and cleaning robots",
-   "ts": 1790745784,
-   "u": "https://www.pv-magazine.com/2026/09/30/trinatracker-launches-solar-panel-installation-and-cleaning-robots/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "U.S. homeowners are now slightly less mistrustful of solar companies",
-   "ts": 1790745718,
-   "u": "https://www.pv-magazine.com/2026/09/30/homeowners-are-now-slightly-less-mistrustful-of-solar-companies-report-claims/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "한국경제",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "한신공영, 정도·직스테크놀로지와 데이터센터 경쟁력 강화 - 한국경제",
-   "ts": 1790745389,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yVDJLaWhzczEwSEtPZm40eUhJbG9jd3JJVFpjX2U0NGFDOFIzSDdYbGhVQ1ByWC0tNW9JMXhSd0g3cmJlSVR0ZEZyZkNRcmY2Z3p3dnp0WHQ2dw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "SDN, 장흥 염해부지 200MW 태양광사업 참여",
-   "ts": 1790778810,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334706"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pinpointnews.co.kr",
-   "sc": 10,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터 전력난에 해상풍력 뜬다…풍력에너지株 '환호성' - pinpointnews.co.kr",
-   "ts": 1790745605,
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9udmlRb0ZYaTdrQ1RCczVqeWhScTZoLVg1U2p1YkFJTnNaZVNCNkR0MGlaNVhST3JIMDFmaHctczdmbVY4OUpqdTh5SUZkY2E0SWc2c2I4N0I2ckZ6Ui1SaWN5em8yMWdkRUtjQmF6NTRBLTjSAXdBVV95cUxNX1N4SnhTZm9vMEtLUXRDU05HeWhSTnFuQWNFNXlpdE1lanhwY1F2WGc1MUlDakZoSXR4U0pIVDBTazRVZ2QtOHRlUXVFY1ZuTWt6blFaMkpxUXp3UjdWQ1I4OTN5TlNkYmxPNUxpQmxqSjFHNWR6SQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일경제 : 경제",
-   "sc": 0,
-   "sec": "유틸리티·정책",
-   "t": "트럼프, 내일 새벽 韓 대미투자 발표…알래스카 LNG 포함될 듯",
-   "ts": 1790746606,
-   "u": "https://www.mk.co.kr/news/economy/12164831"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "LG엔솔·LS일렉트릭·LS전선...AI 인프라 뛰어드는 K기업 - v.daum.net",
-   "ts": 1790747100,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwY0pRUHVtX3l1ZlpDNGlVeE5JSWl1aVZmOGh0U3pyRVpUSHB5aUcyRVFWaEZUNTU0VlBfcWZvdXVyXzAtQ1N4YXRnb1dwaG8?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴스퀘스트",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "한신공영, 데이터센터 스마트 건설 기술 고도화 위해 전략적 협약 - 뉴스퀘스트",
-   "ts": 1790745407,
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yaUh0SU90NGVNcXU2aS1BenJXWU9WWDhHeUZ1c3dxQWZDOHNXUk0wWlE4NmRRUHc3Nm1Oc2Fja1U3SUNLUE5iUUFrU2dVUmFiSDE1ZzVVSUhKd0xiX3hiS1BMbHEyTUhfYl9TV0E3SQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 3,
-   "sec": "재생에너지·ESS",
-   "t": "Norway to simplify small-scale solar connections",
-   "ts": 1790748000,
-   "u": "https://www.pv-magazine.com/2026/09/30/norway-to-simplify-small-scale-solar-connections/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "유틸리티·정책",
-   "t": "SK이노베이션 E&S, 600만톤 규모 LNG 밸류체인 구축…“사업 경쟁력 강화”",
-   "ts": 1790748000,
-   "u": "https://www.etnews.com/20260930000286"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "유틸리티·정책",
-   "t": "SK이노 E&S, 호주LNG 매년 130만t 확보…중동 대신 안전한 뱃길",
-   "ts": 1790748000,
-   "u": "https://www.yna.co.kr/view/AKR20260929168200003"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴스;트리",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "\"12차 전기본 데이터센터 전력수요, 11년전 수치로 부풀려져\" - 뉴스;트리",
-   "ts": 1790747652,
-   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jbVd0aV9icC0xNWxLNUFEalhwNzJjd0JOMGRPSUNxLTU3QUVaWDhEUVVGem9WMlZXVW1pRTQwNVhzdHNwNWRCYkRMaHBLc2dkQk90bG1waFY5cGJo?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "서해안 HVDC, 속도·국산화 '두 토끼' 잡는다…HVDC 기술·산업 포럼 개최",
-   "ts": 1790747379,
-   "u": "https://www.etnews.com/20260930000322"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 8,
-   "sec": "유틸리티·정책",
-   "t": "한국전력기술, 이명순 권익위 부위원장 초청 청렴특강",
-   "ts": 1790780667,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372951"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 7,
-   "sec": "재생에너지·ESS",
-   "t": "육상풍력 허가 간소화…1년간 바람 측정 안 해도 된다",
-   "ts": 1790781200,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303676"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 0,
-   "sec": "유틸리티·정책",
-   "t": "한난, 2030년부터 한남 재정비지구 지역난방 공급",
-   "ts": 1790780968,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372952"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 7,
-   "sec": "재생에너지·ESS",
-   "t": "수자원공사, 2030년까지 수상태양광 500MW 개발",
-   "ts": 1790780323,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303674"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 3,
-   "sec": "재생에너지·ESS",
-   "t": "태양광산업협회, 뉴욕 기후위크서 글로벌 협력 논의",
-   "ts": 1790776197,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303672"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "서울파이낸스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터 요금제 언제쯤···커지는 투자 불확실 우려 - 서울파이낸스",
-   "ts": 1790727000,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85Tk5xTFdxMWdWYWtFcHR2VjlRbi1Id1FLbW1qWHhoR0IwbEEtSjlBSFFpbko1Nk92R1QwdnBsdFFrVUt4LVdhLS1CNkR1ZWlQa3pCc0UyM3F5VXZtamlqcnZPSVMxNjRBLUE?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "0003f98f6034d59c": 1790586316,
@@ -5814,6 +5483,7 @@
   "9332ff7664c3bdc1": 1790566516,
   "933826b4663b304a": 1790042975,
   "933f7597c72ffd8f": 1790676778,
+  "9342152bdf50276f": 1790749218,
   "934c5e0dcf240e34": 1790663718,
   "935bd26bf5efe2b0": 1790480362,
   "936a530130ea124e": 1790646328,
@@ -7836,6 +7506,7 @@
   "cdbd1fdac5fe88e3": 1790508629,
   "cdc354e134e9f41d": 1789772285,
   "cdcff6d68d397b8e": 1789629088,
+  "cdd0076c8d9d432f": 1790749218,
   "cddc505dbbb354a9": 1790661915,
   "cddebd072c6726c4": 1789631415,
   "cddfc93ae5b4b3f4": 1789852801,
@@ -8793,6 +8464,7 @@
   "e93b2c6c7d299308": 1790744422,
   "e946772fc63a0ad5": 1790003117,
   "e94691052709c585": 1790565627,
+  "e9499a6c1472ab83": 1790749218,
   "e95b37d8b8eae3e1": 1789691718,
   "e95cbd6fde702b18": 1790124616,
   "e96e48e4f3940ee2": 1789871205,
@@ -9581,8 +9253,8 @@
  },
  "companies_today": {},
  "day": "2026-09-30",
- "last_clip": 1790741728,
- "last_msg_poll": 1790749167,
+ "last_clip": 1790749218,
+ "last_msg_poll": 1790749470,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9626,7 +9298,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 15:19 KST",
+  "last_run": "2026-09-30 15:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
