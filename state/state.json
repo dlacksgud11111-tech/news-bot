@@ -532,6 +532,16 @@
    "t": "LG CNS, AI 데이터센터 ‘속도전’ 정조준… 모듈형 인프라로 글로벌 시장 공략 - Korea IT Times",
    "ts": 1790732731,
    "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10NWkxMURTbk9GQ3NLSFJyRE81YzYyYmxrQVdkakY0NmUzZW1PbjVvOGl0SHlKRWhZUFYyUnpPUkt6aWUxTC0wUFVCTDhzQXQ1NkhXVmZoT0xFYURYRFQ5UGhDYWVINGVsS19FOWZ5Skw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "비즈니스포스트",
+   "sc": 14,
+   "sec": "데이터센터·AI전력",
+   "t": "\"한국 데이터센터 전력정책 논의 가스와 원전 진영이 주도\", 재생에너지 분야는 활동 저조 - 비즈니스포스트",
+   "ts": 1790730120,
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16VmxEOHhGVVdFQ1lOVWFrRk90U0pud3pKYlhTU2l5OEg2bXVmU1ZELXBTVGlOSHpHZEtpZVBHUy1jQlJMRFladmpZcGQ0QU1hemZXbUtSSG11eUhQN29FSms4YVNBQjBnZTlZaE51YUUyOFU?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2717,6 +2727,7 @@
   "3d7f1c782db66966": 1789867761,
   "3d86a8576275a292": 1789956616,
   "3d8aecb4bd678bf7": 1790122002,
+  "3d8ca4ff19de1458": 1790733331,
   "3da264c580358d19": 1789870063,
   "3da9f1352af317ba": 1790677344,
   "3daea3149dcf51bd": 1790127320,
@@ -7011,6 +7022,7 @@
   "be61e4822127033c": 1789688716,
   "be75fcdc05d65893": 1789722621,
   "be798870e2bc2737": 1790562951,
+  "be7d230702e42c18": 1790733331,
   "be8e6e486e535d0e": 1790142019,
   "be93e0b64fd936e1": 1789957222,
   "be9fdaa256ec3b42": 1790130336,
@@ -7198,6 +7210,7 @@
   "c3f5dcd90fabe768": 1789950278,
   "c3f6a26e4de9e873": 1789693531,
   "c3fe4b661ae5f28b": 1790570118,
+  "c404de998bbb8d32": 1790733331,
   "c41069a50da9e61a": 1790140218,
   "c414f22e38618d3c": 1790579195,
   "c4158dd27e2f54b3": 1790146721,
@@ -9167,7 +9180,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790726668,
- "last_msg_poll": 1790733258,
+ "last_msg_poll": 1790733580,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9211,7 +9224,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 10:54 KST",
+  "last_run": "2026-09-30 10:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
