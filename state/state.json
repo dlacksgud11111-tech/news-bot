@@ -212,7 +212,18 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 1,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "이투뉴스 - 전체기사",
+   "sc": 8,
+   "sec": "재생에너지·ESS",
+   "t": "\"RPS 대체할 계약시장, 물량 약속 지키고 적정가격 보장해야”",
+   "ts": 1790803647,
+   "u": "http://www.e2news.com/news/articleView.html?idxno=334665"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "0003f98f6034d59c": 1790586316,
@@ -1352,6 +1363,7 @@
   "1ed420fda7d88a8e": 1790658361,
   "1ed441029182acae": 1790479795,
   "1edbe234c92ccb93": 1790751916,
+  "1ee37322ce65ff9b": 1790771420,
   "1ee6a3f79c65fccf": 1790067063,
   "1eef3ac79a303d05": 1790480947,
   "1ef076fa0bae0aa2": 1789706415,
@@ -9545,7 +9557,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790771118,
- "last_msg_poll": 1790771369,
+ "last_msg_poll": 1790771661,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9589,7 +9601,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 21:29 KST",
+  "last_run": "2026-09-30 21:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
