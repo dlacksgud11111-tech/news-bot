@@ -522,6 +522,16 @@
    "t": "‘불타는 얼음’이 방사능 오염수 처리·수소 저장으로...가스하이드레이트 활용 넓힌다",
    "ts": 1790764314,
    "u": "https://www.electimes.com/news/articleView.html?idxno=372911"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Korea IT Times",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG CNS, AI 데이터센터 ‘속도전’ 정조준… 모듈형 인프라로 글로벌 시장 공략 - Korea IT Times",
+   "ts": 1790732731,
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10NWkxMURTbk9GQ3NLSFJyRE81YzYyYmxrQVdkakY0NmUzZW1PbjVvOGl0SHlKRWhZUFYyUnpPUkt6aWUxTC0wUFVCTDhzQXQ1NkhXVmZoT0xFYURYRFQ5UGhDYWVINGVsS19FOWZ5Skw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -6151,6 +6161,7 @@
   "a5a9f14f914bb67e": 1790641093,
   "a5aacbc42a1bcf55": 1789638052,
   "a5abda2fcf636732": 1790292769,
+  "a5aff1a0e1f90e22": 1790733017,
   "a5b206db914a7d31": 1790685320,
   "a5b823a489f11325": 1790469496,
   "a5bb036ba8e5f55f": 1790053220,
@@ -7914,6 +7925,7 @@
   "da41393e28aac5f8": 1790677344,
   "da42e82eaf4d0f88": 1790145020,
   "da47704ceaf8efa7": 1790122002,
+  "da521bd8a3bf82d1": 1790733017,
   "da58bf947a9d5083": 1789688119,
   "da5cfa6c5a08ab7a": 1790060726,
   "da82efeec4590d85": 1790728372,
@@ -9155,7 +9167,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790726668,
- "last_msg_poll": 1790732974,
+ "last_msg_poll": 1790733258,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9199,7 +9211,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 10:49 KST",
+  "last_run": "2026-09-30 10:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
