@@ -412,6 +412,26 @@
    "t": "트럼프, 내일 새벽 韓 대미투자 발표…알래스카 LNG 포함될 듯",
    "ts": 1790746606,
    "u": "https://www.mk.co.kr/news/economy/12164831"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "LG엔솔·LS일렉트릭·LS전선...AI 인프라 뛰어드는 K기업 - v.daum.net",
+   "ts": 1790747100,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwY0pRUHVtX3l1ZlpDNGlVeE5JSWl1aVZmOGh0U3pyRVpUSHB5aUcyRVFWaEZUNTU0VlBfcWZvdXVyXzAtQ1N4YXRnb1dwaG8?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴스퀘스트",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "한신공영, 데이터센터 스마트 건설 기술 고도화 위해 전략적 협약 - 뉴스퀘스트",
+   "ts": 1790745407,
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yaUh0SU90NGVNcXU2aS1BenJXWU9WWDhHeUZ1c3dxQWZDOHNXUk0wWlE4NmRRUHc3Nm1Oc2Fja1U3SUNLUE5iUUFrU2dVUmFiSDE1ZzVVSUhKd0xiX3hiS1BMbHEyTUhfYl9TV0E3SQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3505,6 +3525,7 @@
   "54648c6b5be9b8e7": 1790645732,
   "54677b86ac53b13c": 1789954327,
   "546cab1a79d8845f": 1790186286,
+  "547513ed00e62203": 1790747420,
   "5482d882427d49c0": 1790604930,
   "5485f67b43e60d3a": 1789891518,
   "54863963cdccb321": 1789733129,
@@ -5791,6 +5812,7 @@
   "980d7f1eee9cddbb": 1790120279,
   "980f1ad4d534fc8e": 1790643992,
   "981655fe710af6a8": 1790036576,
+  "98201b56ead98953": 1790747420,
   "982188f1294f88e6": 1789633820,
   "98314ec69c0f8677": 1790350826,
   "984833176e35d975": 1789627496,
@@ -8935,6 +8957,7 @@
   "f2e7a22438287d5b": 1789627496,
   "f2ecbae9e3f43831": 1790384721,
   "f30cc617302802c4": 1790153718,
+  "f320db221cecd777": 1790747420,
   "f32d7f4665c5f3fc": 1790747118,
   "f32ee410ebbe8b23": 1790610617,
   "f32ef9435088ca33": 1789627496,
@@ -9389,7 +9412,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790741728,
- "last_msg_poll": 1790747367,
+ "last_msg_poll": 1790747664,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9433,7 +9456,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 14:49 KST",
+  "last_run": "2026-09-30 14:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
