@@ -252,6 +252,16 @@
    "t": "Finland to abandon first-come, first-served grid connections, dropping data centers down the queue",
    "ts": 1790772025,
    "u": "https://www.datacenterdynamics.com/en/news/finland-to-abandon-first-come-first-served-grid-connections-dropping-data-centers-down-the-queue/"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 10,
+   "sec": "전력기기",
+   "t": "'역대급 R&D' LS·HD현대·효성重, 韓 전력기기 역사 새로 쓴다 - v.daum.net",
+   "ts": 1790756599,
+   "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9WWkotZ3hLbFltWWkyRWQ4ZW5PaFRnZDNaNEQ2TnZFU3BTRUxvOFVCc3NNWUJGMm83SmxXUkttTHo4el92Vnc?oc=5"
   }
  ],
  "clip_titles": [],
@@ -981,6 +991,7 @@
   "1418ad87596b47cf": 1790728372,
   "141a7f67bd4b09e5": 1789698990,
   "141c4eb5e5847854": 1790754616,
+  "14324dd6a6b7b483": 1790773522,
   "14362a83cab80c9a": 1790129120,
   "143dfb242f31aa09": 1790651338,
   "143f7958a0199122": 1789627496,
@@ -1180,6 +1191,7 @@
   "196e1146652f62b3": 1789627496,
   "196fe36178bd2de5": 1790045289,
   "196fef06540af80a": 1790123718,
+  "19708969a676a090": 1790773522,
   "19769524af74ad19": 1789720817,
   "19769b4529380a08": 1790092334,
   "197e5ae7b62f65f5": 1790042975,
@@ -2014,6 +2026,7 @@
   "2e988f03c9e02541": 1789785337,
   "2e9fb6f28096d770": 1790045868,
   "2ea214c497de1da9": 1789688119,
+  "2ea46b570d7a99dc": 1790773522,
   "2eadf498211047e2": 1789954327,
   "2eb073371d822c94": 1789970013,
   "2eb191822d005ca8": 1789689020,
@@ -8330,6 +8343,7 @@
   "dd00faa19f0bf7ad": 1790138416,
   "dd1a60bb0ad07e25": 1789980916,
   "dd1c78e61a340814": 1789627496,
+  "dd1f84de9ecdf931": 1790773522,
   "dd38dfbc0f56e659": 1790042975,
   "dd41ca85f0821c92": 1789960215,
   "dd4a2bacaf2b5560": 1790388562,
@@ -9597,7 +9611,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790771118,
- "last_msg_poll": 1790773466,
+ "last_msg_poll": 1790773766,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9641,7 +9655,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 22:04 KST",
+  "last_run": "2026-09-30 22:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
