@@ -332,6 +332,16 @@
    "t": "LG CNS, 모듈형 데이터센터·베라 루빈 풀스택 서비스로 해외 AI 인프라 시장 진출 - 마켓잉크",
    "ts": 1790747284,
    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RTmEzeXV6OFFWSUIwelBYT2NTX1JfMTZiYVJ6VnpjUkVSaC1NR0NVelFpUVI1UlpPTlpRNUVnb202bEVQN1UwN25QT1hJUURQWTF2UDYzNHB1THBHNlZrQXN2cTFLT3Y3TnRfYTRJUQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Google named as customer for Crusoe's data center campus in Amarillo, Texas",
+   "ts": 1790769599,
+   "u": "https://www.datacenterdynamics.com/en/news/google-named-as-customer-for-crusoes-data-center-campus-in-amarillo-texas/"
   }
  ],
  "clip_titles": [],
@@ -1297,6 +1307,7 @@
   "1a47e5fa4b9db80b": 1789646718,
   "1a5d357f80ce115b": 1789697120,
   "1a6a5666fb579757": 1790724015,
+  "1a76204f65fa73f4": 1790769921,
   "1a7a1907640992b4": 1789627496,
   "1a7cfef5fb0e0138": 1789691116,
   "1a7f855da4c47070": 1790584523,
@@ -1547,6 +1558,7 @@
   "20df70ddbc803be5": 1790765722,
   "20e83fc1d65edc47": 1790747118,
   "20e8b73486763bed": 1790668519,
+  "20e928eff73f5bb7": 1790769921,
   "20ec7a9180da6e81": 1789974040,
   "20f5573d995095f4": 1790511030,
   "20f7e786e9e6d370": 1789951430,
@@ -9659,7 +9671,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790763689,
- "last_msg_poll": 1790769881,
+ "last_msg_poll": 1790770162,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9703,7 +9715,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 21:04 KST",
+  "last_run": "2026-09-30 21:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
