@@ -292,6 +292,16 @@
    "t": "美 대표 전력망 기업, AI 데이터센터 특별 경매 백지화… 내년 2월 수정 계획안 제출 계획 - 파이낸스스코프",
    "ts": 1790809920,
    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XNHRiM3g3TW1ELWNTcUU2dGdWME5MYkF4S0I4dk5naXZwLXQzaXAwWGIwQ2tQZHZtRGo5V1lQU0dyRTlDX1FVWHFkRHZzUFRjbHZTV1JKNEhZMk5URWZTb0tWTTZ2VVBiZEE?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스 경제 최신기사",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, 미국에 AI 데이터센터용 칠러 공장 신설…국내도 증설",
+   "ts": 1790809996,
+   "u": "https://www.yna.co.kr/view/AKR20261001023000003"
   }
  ],
  "clip_titles": [],
@@ -7146,6 +7156,7 @@
   "b768ab1f26c8ab33": 1790036576,
   "b768ae1090d0747d": 1789872360,
   "b76be4b16f727562": 1790741728,
+  "b76c99f4716290f3": 1790810422,
   "b76d44d4f2227992": 1790802441,
   "b770762cbe687a62": 1789627496,
   "b771629172d6d7bb": 1790785431,
@@ -9102,6 +9113,7 @@
   "ed76a96d41210b04": 1790735693,
   "ed7c4493f1732424": 1789629923,
   "ed7d5526edc1f356": 1789629923,
+  "ed8383ffab69bf6a": 1790810422,
   "ed83f9559b9d2cba": 1789632918,
   "ed848ddfa72f5d0a": 1790807718,
   "ed90a75069a12cbc": 1789953163,
@@ -9774,7 +9786,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790805616,
- "last_msg_poll": 1790810372,
+ "last_msg_poll": 1790810669,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9819,7 +9831,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 08:19 KST",
+  "last_run": "2026-10-01 08:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
