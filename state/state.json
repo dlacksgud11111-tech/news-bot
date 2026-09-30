@@ -392,6 +392,26 @@
    "t": "[경주소식] 동천지하차도 철거 후 평면도로 건설",
    "ts": 1790753445,
    "u": "https://www.yna.co.kr/view/AKR20260930154300053"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "전기신문 - 전체기사",
+   "sc": 10,
+   "sec": "재생에너지·ESS",
+   "t": "3차 ESS 중앙계약시장… 육지는 ‘가격·부지’, 제주는 ‘비리튬’이 승부처",
+   "ts": 1790786652,
+   "u": "https://www.electimes.com/news/articleView.html?idxno=372960"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "동해 AI데이터센터 전력 지중선로 공사 주민설명회 열려 - v.daum.net",
+   "ts": 1790753820,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QcTd1Y0tkbE9MMzdnOEMxczFaOG5sSDc0OTFEV3pEVFFXUWY3eVcxLWJoN0VzS2tNMktUMDVGamd4d1dlaGN3MHAxTl9vYkU?oc=5"
   }
  ],
  "clip_titles": [],
@@ -816,6 +836,7 @@
   "0c4e01ac90ce42fd": 1789893639,
   "0c4fa6a5b4a100cb": 1790640533,
   "0c5a39cb740077cd": 1790642813,
+  "0c5c337862c087fd": 1790754317,
   "0c5d758be7a56828": 1789693531,
   "0c678b6f3de23f3a": 1789627496,
   "0c68791c0a0e5f29": 1789627496,
@@ -6404,6 +6425,7 @@
   "a66d384d53cbec0e": 1789974040,
   "a67d664290491afd": 1790642222,
   "a6846d69a72efafc": 1790059817,
+  "a688a349927647a8": 1790754317,
   "a692fe66d650d735": 1790731821,
   "a6948e01fd51c57f": 1789715119,
   "a69dd2e4da0c7ae1": 1790059516,
@@ -7958,6 +7980,7 @@
   "d23969a003a37916": 1790657174,
   "d23e0853cbd630cb": 1790668519,
   "d23e2fa8b55a7088": 1789629088,
+  "d242c26083587664": 1790754317,
   "d25c926641dc0254": 1790556791,
   "d25fb65f87fdaac5": 1789954905,
   "d262b144f2430729": 1790548821,
@@ -9565,7 +9588,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790749218,
- "last_msg_poll": 1790754268,
+ "last_msg_poll": 1790754563,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9609,7 +9632,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 16:44 KST",
+  "last_run": "2026-09-30 16:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
