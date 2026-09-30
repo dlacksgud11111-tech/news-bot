@@ -327,6 +327,26 @@
    "t": "[팩트체크] 보조배터리 부풀어 오르면 소금물에 넣어라?…화재 대응법은",
    "ts": 1790803802,
    "u": "https://www.yna.co.kr/view/AKR20260930110000518"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "매일경제 : 경제",
+   "sc": 5,
+   "sec": "원전",
+   "t": "트럼프, 한국 2000억 달러 대미 투자 발표…‘원전 8기·알래스카 LNG 투자’ 포함",
+   "ts": 1790804678,
+   "u": "https://www.mk.co.kr/news/economy/12165528"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "edaily.co.kr",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "김정관 “상업적 합리성 자신있다”…美전력수요·PPA 협상 자신 - edaily.co.kr",
+   "ts": 1790802231,
+   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlp4dUN0c0c0aV80eVRDdTZraHVVXzJsYjJDOVNVNDRZamRBWTNpQV8tLThSYzRld1JsZjA3VTRlNW04dkNadnMwSld3M3R1MVlYZXFzOFctVWJnQ3o3ZW5zQUxFTW9OWnZ4cWVEQW5XbDc3M2IzNVp1X2ljUmkxOQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -5269,6 +5289,7 @@
   "83478c076fcd3165": 1789960215,
   "8350dde44babcd72": 1789667118,
   "8357d8d8f25bca7f": 1790737975,
+  "835848e26801e019": 1790804731,
   "836345adaac270eb": 1789689915,
   "836aba3c4407a7ee": 1789627496,
   "836b56c4107cc97a": 1790498418,
@@ -5441,6 +5462,7 @@
   "880824502e43f118": 1790730092,
   "881032907ce16ab1": 1790682915,
   "8811f90e81ef2031": 1790741117,
+  "88196c4dfdf8b747": 1790804731,
   "882658e9d9292998": 1789649116,
   "8833e1eceb4c2458": 1790388562,
   "8848a9a4c4bb8d90": 1790658925,
@@ -9747,7 +9769,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790778320,
- "last_msg_poll": 1790804667,
+ "last_msg_poll": 1790804980,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9791,7 +9813,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 06:44 KST",
+  "last_run": "2026-10-01 06:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
