@@ -242,6 +242,16 @@
    "t": "현대ENG, '군산 AI 데이터센터 신축 사업' 수주... DC 사업 확장 전략 본격화 - 시장경제신문",
    "ts": 1790754811,
    "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfMzBiRExHUWUzekphd2xjQWctbGtCdl82ZFhpVHJFQ3BpWlZYck15bG5Fb3l4dG91bVN4Njh1akZTM18zc2RFV29IcV9HS2VDWHV0Q1FBOEloWlNKbHpZQ2JlMmM1eWVVb1VxanJWeVM?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "워크투데이",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "LG CNS, 모듈형 AI 데이터센터 공개 … GPU·전력·냉각 ‘풀스택’ 공략 - 워크투데이",
+   "ts": 1790764131,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxVVRleUpaWUpPdFVKSjBTdlF3QVdHbnhfVXZVSzduNFBYMW5YMWwxSE5vd05wS0h2TkNlYnVvSXo4RE51UXdaZFpLVWVDa0ctVkI3Nk80bGVycW9oRWNHaE94SXR0bWs2dFMxcA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -6061,6 +6071,7 @@
   "9f98dc58a07d3d8a": 1789726695,
   "9f9affad8a2daf5a": 1790129120,
   "9f9bdc3a3bd1b76c": 1790640533,
+  "9fa024482765befa": 1790764826,
   "9fb4e5b0410aac90": 1790734218,
   "9fb67ff934ff12d1": 1790588718,
   "9fb8a30fe6da450b": 1789969411,
@@ -8462,6 +8473,7 @@
   "e24f8d53d0c6d820": 1789627496,
   "e25912db0e41e6ca": 1790064758,
   "e26c5fd049f06264": 1789691116,
+  "e26e4dfaf3b4484c": 1790764826,
   "e271f1580f1eb1c7": 1789769417,
   "e272007995c39d5c": 1789715119,
   "e2726600a4fb7030": 1790053220,
@@ -9545,7 +9557,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790763689,
- "last_msg_poll": 1790764506,
+ "last_msg_poll": 1790765066,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9589,7 +9601,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 19:35 KST",
+  "last_run": "2026-09-30 19:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
