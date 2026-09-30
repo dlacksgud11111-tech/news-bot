@@ -247,6 +247,26 @@
    "t": "FERC chair slams PJM ‘mess’ as country’s largest grid operator delays power auction",
    "ts": 1790776135,
    "u": "https://www.utilitydive.com/news/pjm-delays-backstop-procurement-ferc-data-center/831751/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "ddaily.co.kr",
+   "sc": 4,
+   "sec": "원전",
+   "t": "AI가 불붙인 `원전 르네상스`…다시 산업 경쟁력의 핵심으로 - ddaily.co.kr",
+   "ts": 1790747982,
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Tb2lPQ25OeVNpaEJoX1c0UXlqVGpHbjNCRV9vY3FHeXJkT1NMc3BBblhGbWxEVWR6dTAxWTd4QjluNzlsLVdSVWlRVk1YMDMtQ2xZSU84akc0RG9hanVfSURYeEE?oc=5"
+  },
+  {
+   "co": "가온전선",
+   "n": 1,
+   "s": "이투데이",
+   "sc": 10,
+   "sec": "전력기기",
+   "t": "대신證 “가온전선, AI 데이터센터 수주 5.2조원…목표가 36만원” - 이투데이",
+   "ts": 1790721300,
+   "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kbG1ubWlCSDAxcUctUmFZWm83X05NQVJKeDh1ZERMajE4YUFtZUlKbXhzSEx6NWtVa1ZIYkl2Znh4VzhiQ2lmTjJTSFBEdjhaOEVfcg?oc=5"
   }
  ],
  "clip_titles": [],
@@ -848,6 +868,7 @@
   "10cd1b689d6f44f2": 1790064199,
   "10cdc9a4c2215632": 1790562951,
   "10d86fff685c2a0a": 1790647519,
+  "10dbf00bdb38ef98": 1790791432,
   "10dcffc64dc50447": 1790676778,
   "10de004fd72539eb": 1790142019,
   "10e4cb9272248b3f": 1790035428,
@@ -1735,6 +1756,7 @@
   "279e1d6e463db006": 1789695321,
   "27a3dc76540b66ea": 1790384721,
   "27a7412687a10276": 1789727277,
+  "27bad60bf46021d6": 1790791432,
   "27cc99f898c802b1": 1789718131,
   "27cf08c00842fac9": 1790649016,
   "27d562cf3aceb497": 1790756727,
@@ -7460,6 +7482,7 @@
   "c349bc7b5d7159b9": 1789999520,
   "c3536f8fae15514d": 1790579195,
   "c3548230daa25a15": 1789627496,
+  "c35741c1078c2c5d": 1790791432,
   "c3624cf21b8d06ca": 1790496322,
   "c362e5f30bb5cb02": 1790647519,
   "c37b6c2af735ce01": 1790746830,
@@ -9625,7 +9648,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790778320,
- "last_msg_poll": 1790791105,
+ "last_msg_poll": 1790791680,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9669,7 +9692,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 02:58 KST",
+  "last_run": "2026-10-01 03:08 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
