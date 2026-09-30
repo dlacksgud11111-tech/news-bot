@@ -282,6 +282,16 @@
    "t": "Redesigning Steam Turbines for the SMR Era",
    "ts": 1790794800,
    "u": "https://www.powermag.com/redesigning-steam-turbines-for-the-smr-era/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "에너지신문 - 전체기사",
+   "sc": 1,
+   "sec": "유틸리티·정책",
+   "t": "한남 재정비지구 지역난방 공급...2030년 3구역부터",
+   "ts": 1790806600,
+   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228679"
   }
  ],
  "clip_titles": [],
@@ -2963,6 +2973,7 @@
   "45efb3396546339c": 1790059516,
   "45f0fc8fbe06440f": 1789971751,
   "45fcedf69e9e78d7": 1790753419,
+  "45fe8eeb32597898": 1790774732,
   "46046de05551cf83": 1790291624,
   "460a3bf056c58170": 1790747118,
   "460ed71b965f3aaf": 1790031917,
@@ -9636,7 +9647,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790771118,
- "last_msg_poll": 1790774658,
+ "last_msg_poll": 1790774972,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9680,7 +9691,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 22:24 KST",
+  "last_run": "2026-09-30 22:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
