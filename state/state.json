@@ -292,6 +292,16 @@
    "t": "Fox ESS launches modular C&I battery system scalable to 96 MWh",
    "ts": 1790765427,
    "u": "https://www.pv-magazine.com/2026/09/30/fox-ess-launches-modular-ci-battery-system-scalable-to-96-mwh/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Haydale's graphene additive could improve the efficiency of data center cooling fluid",
+   "ts": 1790766636,
+   "u": "https://www.datacenterdynamics.com/en/news/haydales-graphene-additive-could-improve-the-efficiency-of-data-center-cooling-fluid/"
   }
  ],
  "clip_titles": [],
@@ -2173,6 +2183,7 @@
   "32074110eb6bba5a": 1790306720,
   "320afeef9c705c54": 1789627496,
   "320cf2e2ca33d1c9": 1790557358,
+  "320e19923f1ca177": 1790766919,
   "3210bcb08d351efc": 1789697424,
   "3229cd6bd03e9097": 1789872360,
   "322a46031402f561": 1789953163,
@@ -8101,6 +8112,7 @@
   "d5ea45ff7a3cc1a0": 1789654217,
   "d5ec36a0910b5dfb": 1790750421,
   "d5ee14838ca8c26c": 1789782685,
+  "d5f0e5aa6cfd7bcd": 1790766919,
   "d5fe0ef524327b4a": 1790557916,
   "d60e1720a93fedd3": 1790031917,
   "d6220c931f53365a": 1790062459,
@@ -9608,7 +9620,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790763689,
- "last_msg_poll": 1790766870,
+ "last_msg_poll": 1790767167,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9652,7 +9664,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 20:14 KST",
+  "last_run": "2026-09-30 20:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
