@@ -242,6 +242,16 @@
    "t": "The rationale behind the UK’s largest compressed air energy storage plan",
    "ts": 1790771400,
    "u": "https://www.pv-magazine.com/2026/09/30/the-rationale-behind-the-uks-largest-compressed-air-energy-storage-plan/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 4,
+   "sec": "전력기기",
+   "t": "Finland to abandon first-come, first-served grid connections, dropping data centers down the queue",
+   "ts": 1790772025,
+   "u": "https://www.datacenterdynamics.com/en/news/finland-to-abandon-first-come-first-served-grid-connections-dropping-data-centers-down-the-queue/"
   }
  ],
  "clip_titles": [],
@@ -8398,6 +8408,7 @@
   "df85707cb05498ba": 1789627496,
   "df8a6525638012b3": 1790753717,
   "dfaf9adbf17a738b": 1790060726,
+  "dfafce0bff127bb2": 1790772319,
   "dfbc3689f3895f78": 1790568321,
   "dfc8c0abfbc119a1": 1790730658,
   "dfcdefd4ad4c0a95": 1790037737,
@@ -9585,7 +9596,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790771118,
- "last_msg_poll": 1790772261,
+ "last_msg_poll": 1790772566,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9629,7 +9640,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 21:44 KST",
+  "last_run": "2026-09-30 21:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
