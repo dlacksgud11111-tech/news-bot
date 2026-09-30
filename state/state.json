@@ -432,6 +432,16 @@
    "t": "한신공영, 데이터센터 스마트 건설 기술 고도화 위해 전략적 협약 - 뉴스퀘스트",
    "ts": 1790745407,
    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yaUh0SU90NGVNcXU2aS1BenJXWU9WWDhHeUZ1c3dxQWZDOHNXUk0wWlE4NmRRUHc3Nm1Oc2Fja1U3SUNLUE5iUUFrU2dVUmFiSDE1ZzVVSUhKd0xiX3hiS1BMbHEyTUhfYl9TV0E3SQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 3,
+   "sec": "재생에너지·ESS",
+   "t": "Norway to simplify small-scale solar connections",
+   "ts": 1790748000,
+   "u": "https://www.pv-magazine.com/2026/09/30/norway-to-simplify-small-scale-solar-connections/"
   }
  ],
  "clip_titles": [],
@@ -888,6 +898,7 @@
   "0d6e8c8aa58f4804": 1790462519,
   "0d7211249cef1464": 1790556223,
   "0d7432bcd1b2655b": 1790735693,
+  "0d780d5239acfc39": 1790748019,
   "0d84a253673b8ae9": 1789977915,
   "0d94ca80655efda9": 1790058917,
   "0d9be9754588d2b6": 1789963516,
@@ -4337,6 +4348,7 @@
   "6bdc21243bfcd6ba": 1790325030,
   "6bdd56a1193eaaab": 1790474714,
   "6be29d6246d3c213": 1790122002,
+  "6be656bf6d34bd54": 1790748019,
   "6be8422a29f95f5a": 1790126420,
   "6bf660553171a76d": 1790064758,
   "6bf9d713a6673782": 1790661915,
@@ -5437,6 +5449,7 @@
   "8c25c345b9429de2": 1790728933,
   "8c3f13b0dd00c645": 1790237121,
   "8c40cdbbe3f98397": 1790252034,
+  "8c5af93dc97ed2fe": 1790748019,
   "8c5b8055779d7030": 1790158229,
   "8c5da1469c4d6899": 1790125822,
   "8c654041da5a483e": 1789960215,
@@ -9415,7 +9428,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790741728,
- "last_msg_poll": 1790747969,
+ "last_msg_poll": 1790748264,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9459,7 +9472,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 14:59 KST",
+  "last_run": "2026-09-30 15:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
