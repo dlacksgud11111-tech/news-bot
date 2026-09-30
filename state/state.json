@@ -342,6 +342,16 @@
    "t": "LG엔솔·LS일렉트릭·LS전선...AI 인프라 뛰어드는 K기업 - 매일경제",
    "ts": 1790746928,
    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yMWdOeTNGSUlYV0hrb1FDZ2lfbWRGbk05V3A0NjR0OWc3Skl5d0lGYWhKekZWR1dwQy1RZWh2YWItdDVSZFVDVkU0OHVlZmFWdU9JYmxR?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "자본시장뉴스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터 전용요금제 미공개…투자 판단 지연 - 자본시장뉴스",
+   "ts": 1790740200,
+   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hTWg5OFo3X1dnM0VPN3VYalI5dEpkOEgyOVNnU1FieXNRd0FjY3k5dVJzOGxEalI3aFh1U3BWa0kyeGh3b2NPcWUyaHRzZllqOGdRR3ZNRFlBSXVtS0VpQ01SdmNWUWM?oc=5"
   }
  ],
  "clip_titles": [],
@@ -6997,6 +7007,7 @@
   "b58b5fdc3cf7aa09": 1790315417,
   "b58b76261e7b9757": 1790060416,
   "b59607f730e0bf03": 1790055317,
+  "b59b43913bc4ddcc": 1790762539,
   "b5a251cca854c331": 1790409916,
   "b5a5889f3c3d9e67": 1790729518,
   "b5b78b556e16ab44": 1789955477,
@@ -7237,6 +7248,7 @@
   "bc30c2ad3d527992": 1790210120,
   "bc33aa962d5f6e6a": 1789638920,
   "bc3799a2d6808c33": 1789950858,
+  "bc535402b4eb8770": 1790762539,
   "bc5a013ed54d0843": 1790745919,
   "bc5b9487f211960c": 1790732122,
   "bc5bb888cd078a09": 1790556791,
@@ -7474,6 +7486,7 @@
   "c2df159f81659aef": 1789629612,
   "c2e1877bf3ed9f53": 1790492713,
   "c2e66a6705fa1a50": 1790328619,
+  "c2ef13c54d555794": 1790762539,
   "c2f3b8c10cb337b2": 1790127320,
   "c2fb36e955dc5408": 1790333432,
   "c3004eec13ce739f": 1790573357,
@@ -9630,7 +9643,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790756428,
- "last_msg_poll": 1790762207,
+ "last_msg_poll": 1790762788,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9674,7 +9687,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 18:56 KST",
+  "last_run": "2026-09-30 19:06 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
