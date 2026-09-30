@@ -272,6 +272,16 @@
    "t": "LG CNS, ‘사전제작 모듈형 데이터센터’로 AI 팩토리 시장 공략 - kangso.co.kr",
    "ts": 1790743069,
    "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81R1hVNUx4N0NRak9GZmVyN0pTZldxdTIyT0pfNmEwelFuZFplV0ozMnQwU3pROG5DSVIxQmtXc2dWb1QzMmRZbDFlSTFiTUZGOVhB?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 3,
+   "sec": "재생에너지·ESS",
+   "t": "EU’s largest solar project reaches financial close",
+   "ts": 1790765245,
+   "u": "https://www.pv-magazine.com/2026/09/30/eus-largest-solar-project-reaches-financial-close/"
   }
  ],
  "clip_titles": [],
@@ -2137,6 +2147,7 @@
   "31a5ce8d17f2d159": 1789782685,
   "31ae6d5c408d27e6": 1790045289,
   "31b090e5149e1728": 1790127320,
+  "31b727d17b71a39a": 1790765417,
   "31b7a127697f6233": 1790129720,
   "31c22b0d1c880361": 1789974627,
   "31d4394c57627150": 1789971183,
@@ -9581,7 +9592,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790763689,
- "last_msg_poll": 1790765369,
+ "last_msg_poll": 1790765666,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9625,7 +9636,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 19:49 KST",
+  "last_run": "2026-09-30 19:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
