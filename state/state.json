@@ -272,6 +272,16 @@
    "t": "대신證 \"가온전선, AI 데이터센터 전력 수요 성장 초기\"…목표가 36만원 - 뉴스1",
    "ts": 1790726975,
    "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BbmkzcWdna2lrS3ZFa2FpdTdMMUttWFhIQ1BZcW1zZi0yWmlSeGZEZEEybktnSjNyeTZRVDA2VFBoRi1Bd0djUUhqZFZpUUJQdHB2ekt2bC1fc0V0M1NJT2RLOEfSAWRBVV95cUxOQW5pM3FnZ2tpa0t2RWthaXU3TDFLbVhYSENQWXFtc2YtMlppUnhmRGRBMm5LZ0ozcnk2UVQwNlRQaEYtQXdHY1FIamRWaVFCUHRwdnpLdmwtX3NFdDNTSU9kSzhH?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "이뉴스투데이",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "데이터센터도 조립식으로···LG CNS, ‘베라 루빈’용 4MW 모듈 공개 - 이뉴스투데이",
+   "ts": 1790733516,
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zdWhmTUwyZGk5X2x6OTJYaXdUWGZaMnJ4b0QxejhJcjJWbW4wTjhuUkllMnpRakpVRUV6QXJaSGdEckFONDlkajN1bFktWHZ2c1dLU1k4QUpNOTE5N1k4dE1fVkk5RGRMcWZhdnBoMkLSAXRBVV95cUxOSzBjQk5aT1BrZWpGNTNfcGxMSXhDUDNKTkxyWWw1a0tqQ1R0Q0stY0VpcnBKOVoydTk1VnJLeWZMWFdWSVdpa3lBcXZDNmhXd1RmX3Bsd0U1Y1ZhUktKaF9sd1dmeDladFV5OG5DaVhuRU45aw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -782,6 +792,7 @@
   "0f85b05f14594867": 1790312720,
   "0f86a1da8a58988c": 1789978521,
   "0f872ac883cf5483": 1790024635,
+  "0f9023e476a27e68": 1790734519,
   "0f92a203f9d0444d": 1790141423,
   "0fa5d4743e24dec0": 1790234194,
   "0fb0a1d981477bfd": 1790035428,
@@ -4403,6 +4414,7 @@
   "7663e041827cbbec": 1790476519,
   "7668323670c8b0f6": 1789627496,
   "7671be2d593e1f2f": 1790557358,
+  "7672a16696bbed76": 1790734519,
   "7676a22f197d72ea": 1790130631,
   "76789dbcc140d60e": 1790493320,
   "767c58cecb37b163": 1789627496,
@@ -8218,6 +8230,7 @@
   "e9237280a0e2faee": 1790080823,
   "e92ff4e0f0642fdb": 1790658925,
   "e9336a1c3a98fa67": 1789635327,
+  "e935908ffd7d13eb": 1790734519,
   "e9380021f196ad1d": 1790233628,
   "e9385450329586f7": 1789684520,
   "e946772fc63a0ad5": 1790003117,
@@ -8971,7 +8984,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790733932,
- "last_msg_poll": 1790734469,
+ "last_msg_poll": 1790734764,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9015,7 +9028,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 11:14 KST",
+  "last_run": "2026-09-30 11:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
