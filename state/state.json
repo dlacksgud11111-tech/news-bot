@@ -212,258 +212,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 1,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "새만금, 2035년까지 169.6㎢ 매립·재생에너지 10GW 확대",
-   "ts": 1790781571,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228669"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 18,
-   "sec": "원전",
-   "t": "한국전력기술, 선박용 SMR ‘반디’ 띄운다…한국선급과 협력",
-   "ts": 1790781326,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372953"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "유틸리티·정책",
-   "t": "'추가 검토' 분류된 알래스카 LNG…트럼프 발표로 흔들리나",
-   "ts": 1790749750,
-   "u": "https://www.yna.co.kr/view/AKR20260930135300003"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "스마트비즈",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG CNS, 데이터센터·GPU 묶어 AI 팩토리 사업 확대 - 스마트비즈",
-   "ts": 1790733106,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nNC1CenpGbHh0bGZuQ0dJVHIwQU1GcE5CYWNLNEs2X29ROHBwYnJLSlNhVVdDX2lmZElMZUtoWTJjUWVCTVVHUXdwZTFOdEZyVXVZVzZNcF9NcDBZU1NhbE1VRG90aWc3Y0xFMA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "우상호 강원지사 \"SK에 400MW 1단계 AI 데이터센터 제안\"",
-   "ts": 1790750219,
-   "u": "https://www.yna.co.kr/view/AKR20260930135800062"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "SP삼화, 건물일체형 태양광 방열도료 특허 취득",
-   "ts": 1790750078,
-   "u": "https://www.yna.co.kr/view/AKR20260930137900003"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴스;트리",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "컨테이너에 GPU 넣고 현장서 조립…LG CNS '모듈형 AI 데이터센터' 공개 - 뉴스;트리",
-   "ts": 1790733034,
-   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBReENYT09LWDdOV0R6aVRhYTRfcmFUcHlqSTdWRkRSTlFtNVhhMWFscFFDMUQ5V0NiNzE0UzFNN1RQN3dpWWtwT25lYWJqQ3FocVI0WkFzMXBWRDlO?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 5,
-   "sec": "전력기기",
-   "t": "전기차, 케이블만 꽂으면 ‘자동 충전·결제’ 시연",
-   "ts": 1790783902,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303677"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 1,
-   "sec": "재생에너지·ESS",
-   "t": "수소터빈·엔진 기술 한자리에…동서발전, 혁신포럼 개최",
-   "ts": 1790783592,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372958"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "수소연합, 핀란드수소협회와  수소산업 협력 확대 논의",
-   "ts": 1790782581,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303678"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "thetracker.co.kr",
-   "sc": 8,
-   "sec": "데이터센터·AI전력",
-   "t": "[Company Watch] LS, 美 전력 인프라에 계열사 총출동…AI 데이터센터 수주 20조 육박 - thetracker.co.kr",
-   "ts": 1790751330,
-   "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11TWxfTTZ6QzlyM2pUYy11TklqQ3h3dnpnMzFsNHpPWXlKTHFuZDZIUFNFNXdZZUoxbzQ0aXduRFp6MnpZeTNadlJpWjhDeVpUb0k4SFN6RVQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "중랑천옆 중곡1동 A구역 재개발…최고 35층 2천200세대",
-   "ts": 1790751590,
-   "u": "https://www.yna.co.kr/view/AKR20260930147800004"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "press9.kr",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "LG, AI 데이터센터서 계열사 기술 결집…LG CNS DBO 1조원 수주 [LG, 성장의 씨앗②] - press9.kr",
-   "ts": 1790751539,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqU3dOaVU5VWNJUGxKVUhjSHdkY0l0VlhMOXRLblBFeFZVXzc2NGtYVWY5MGlvY3BSdkJ0c1BSbE5nVEU4NjZiTERyRnl5LXZ2SjQtZWpoOEJQUG5MVEFheVBJcGI?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "천영길 KCL 원장, 우즈벡 대통령 훈장 수훈…106억 규모 재생에너지 시험센터 구축 공로",
-   "ts": 1790751161,
-   "u": "https://www.etnews.com/20260930000398"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "ESG경제",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "기후테크 투자, AI·데이터센터로 ‘쏠림’…‘탄소 감축’은 뒷전? - ESG경제",
-   "ts": 1790744072,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFVktmT1dyQ2dUblFPZnFSWFp0c0ZrTDdvenk1VFVBQ1ZZUk9SUGFFVDhHdDI0YjNuMVJ4MXRlcnVyNGVCMUp5OWFUWWpya0RtS2dlR250SWRBWlpkWXktaTBwX29KdVh2aS1nQw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 3,
-   "sec": "재생에너지·ESS",
-   "t": "Panasonic deploys fuel cell, heat pump at PV-powered hydrogen house",
-   "ts": 1790752699,
-   "u": "https://www.pv-magazine.com/2026/09/30/panasonic-deploys-fuel-cell-heat-pump-at-pv-powered-hydrogen-house/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "유틸리티·정책",
-   "t": "[특징주] '韓 LNG 대미투자' 전망에 철강주 등 강세(종합)",
-   "ts": 1790753592,
-   "u": "https://www.yna.co.kr/view/AKR20260930041451008"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "[경주소식] 동천지하차도 철거 후 평면도로 건설",
-   "ts": 1790753445,
-   "u": "https://www.yna.co.kr/view/AKR20260930154300053"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 10,
-   "sec": "재생에너지·ESS",
-   "t": "3차 ESS 중앙계약시장… 육지는 ‘가격·부지’, 제주는 ‘비리튬’이 승부처",
-   "ts": 1790786652,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372960"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "동해 AI데이터센터 전력 지중선로 공사 주민설명회 열려 - v.daum.net",
-   "ts": 1790753820,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QcTd1Y0tkbE9MMzdnOEMxczFaOG5sSDc0OTFEV3pEVFFXUWY3eVcxLWJoN0VzS2tNMktUMDVGamd4d1dlaGN3MHAxTl9vYkU?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴스핌",
-   "sc": 10,
-   "sec": "전력기기",
-   "t": "동해시, AI데이터센터 전력망 주민설명회…\"북평동 상생발전 우선 반영해야\" - 뉴스핌",
-   "ts": 1790754360,
-   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xS3Z6TDNWVXlUb2MwaF9hSFIydUNCb21namxxUXFFWXVvLTBWcmpicmMwb2lFS0kwX3hvcEs4OUE5cURkU0kyREppRFFUazAxRnRvN0pPbEgzUmt2?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "YTN 사이언스",
-   "sc": 14,
-   "sec": "데이터센터·AI전력",
-   "t": "미, 두 번째 상업용 SMR 승인...\"데이터센터 전력수요 대응\" - YTN 사이언스",
-   "ts": 1790751718,
-   "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZzJnV3prSnZ6MTZZX09kNWFtRE9memR1RGpYRUdVdWg2Y00tUVFac2EzcjU4V1pCUmUteE9iY1podVE5aWZlLXhuNnhkcGRYSENMWUtUNlI0NjRQcUZiT3ZHRzFadFd5aE5fYkprVGFobC0wX2h4RkNCLW5EekM5UG5SZ2k0MndEZ1c2Mg?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 7,
-   "sec": "재생에너지·ESS",
-   "t": "동서발전 ‘수소산업 혁신포럼’ 개최",
-   "ts": 1790787594,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303680"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "태영건설, 유상증자…미래에셋증권 등에 3자 배정",
-   "ts": 1790755369,
-   "u": "https://www.yna.co.kr/view/AKR20260930163800008"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 1,
-   "sec": "유틸리티·정책",
-   "t": "가스공사, 혁신 조직문화 확산 나선다",
-   "ts": 1790788232,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228673"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "0003f98f6034d59c": 1790586316,
@@ -5205,6 +4954,7 @@
   "80d4a93cd8b57c39": 1789697120,
   "80e6b3f1ecfebb40": 1790125822,
   "80f25d2e7b796134": 1790067063,
+  "810c097e2a83cf4d": 1790756428,
   "811065fbf7a62842": 1789852801,
   "81127cca690ffdc3": 1790197952,
   "8113b8adfe0ec720": 1789720517,
@@ -9665,8 +9415,8 @@
  },
  "companies_today": {},
  "day": "2026-09-30",
- "last_clip": 1790749218,
- "last_msg_poll": 1790756367,
+ "last_clip": 1790756428,
+ "last_msg_poll": 1790756671,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9710,7 +9460,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 17:19 KST",
+  "last_run": "2026-09-30 17:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
