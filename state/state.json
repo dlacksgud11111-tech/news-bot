@@ -412,6 +412,26 @@
    "t": "동해 AI데이터센터 전력 지중선로 공사 주민설명회 열려 - v.daum.net",
    "ts": 1790753820,
    "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QcTd1Y0tkbE9MMzdnOEMxczFaOG5sSDc0OTFEV3pEVFFXUWY3eVcxLWJoN0VzS2tNMktUMDVGamd4d1dlaGN3MHAxTl9vYkU?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴스핌",
+   "sc": 10,
+   "sec": "전력기기",
+   "t": "동해시, AI데이터센터 전력망 주민설명회…\"북평동 상생발전 우선 반영해야\" - 뉴스핌",
+   "ts": 1790754360,
+   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xS3Z6TDNWVXlUb2MwaF9hSFIydUNCb21namxxUXFFWXVvLTBWcmpicmMwb2lFS0kwX3hvcEs4OUE5cURkU0kyREppRFFUazAxRnRvN0pPbEgzUmt2?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "YTN 사이언스",
+   "sc": 14,
+   "sec": "데이터센터·AI전력",
+   "t": "미, 두 번째 상업용 SMR 승인...\"데이터센터 전력수요 대응\" - YTN 사이언스",
+   "ts": 1790751718,
+   "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZzJnV3prSnZ6MTZZX09kNWFtRE9memR1RGpYRUdVdWg2Y00tUVFac2EzcjU4V1pCUmUteE9iY1podVE5aWZlLXhuNnhkcGRYSENMWUtUNlI0NjRQcUZiT3ZHRzFadFd5aE5fYkprVGFobC0wX2h4RkNCLW5EekM5UG5SZ2k0MndEZ1c2Mg?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1133,6 +1153,7 @@
   "14095fb105bd8231": 1790047038,
   "1418ad87596b47cf": 1790728372,
   "141a7f67bd4b09e5": 1789698990,
+  "141c4eb5e5847854": 1790754616,
   "14362a83cab80c9a": 1790129120,
   "143dfb242f31aa09": 1790651338,
   "143f7958a0199122": 1789627496,
@@ -1591,6 +1612,7 @@
   "206e4c01a22d423c": 1789627496,
   "207a8bfdb9a7988f": 1789738816,
   "207b63ee9f69518c": 1790400920,
+  "207f6ca782f0d3b4": 1790754616,
   "2085c7d58b1a247c": 1789627496,
   "20868124b6650dff": 1790559622,
   "208a1c87691ae7da": 1790064758,
@@ -5600,6 +5622,7 @@
   "8e945a529c2c9ff1": 1789735230,
   "8e9cb99563c50e0c": 1790041217,
   "8ea3539e61691b3f": 1789720517,
+  "8ea5d1f164f41128": 1790754616,
   "8ea7f24a19973f8a": 1789979721,
   "8ea9e601d6d3af2f": 1790602525,
   "8eaa5555016e9fc8": 1790550317,
@@ -6826,6 +6849,7 @@
   "b1689f513be93d1b": 1789705521,
   "b168d2868ea9e442": 1790094922,
   "b16961d0e5af6e0a": 1790648426,
+  "b170b651df4dd573": 1790754616,
   "b1797a9afa3d0cb6": 1790629525,
   "b1798782779b57b3": 1790304025,
   "b1806b75e6e37592": 1789683939,
@@ -7044,6 +7068,7 @@
   "b73df2b90e05000a": 1790740818,
   "b74acde9e3c18f85": 1789627496,
   "b7519db54cc77f3e": 1789953163,
+  "b759d5add52016eb": 1790754616,
   "b768ab1f26c8ab33": 1790036576,
   "b768ae1090d0747d": 1789872360,
   "b76be4b16f727562": 1790741728,
@@ -9588,7 +9613,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790749218,
- "last_msg_poll": 1790754563,
+ "last_msg_poll": 1790754866,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9632,7 +9657,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 16:49 KST",
+  "last_run": "2026-09-30 16:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
