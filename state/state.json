@@ -362,6 +362,16 @@
    "t": "한경협, 데이터센터 세미나…“기업 경쟁력과 지역 성장 이어져야” - 마켓인",
    "ts": 1790658003,
    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pWVZQd1E3Q2hpVW5WRHIzS3M5LWgxWU85S2JicjNUbjZlQ19la3N5b294RDZROUN1Z3VEdGxZTndTNXhEczNhSS1Jai1FemZrMEh3UnMxb282YkRUd3dGUXhCX3plZVpwd1BuWUpfNi0zalE?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴스;트리",
+   "sc": 6,
+   "sec": "원전",
+   "t": "AI DC 전력원 어떻게?…산업계는 'LNG·원전' 활용에 무게 - 뉴스;트리",
+   "ts": 1790736555,
+   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUNWZDajJka2IyaUJocm1GR1A0SGpIdzhkM09SaGNER0ZkaWpDUXk4eEtLM0V3QWhsMGVQbkQzT05WNVlFNUU3eWlvYnMxZlRDbGRrdE1pR0J5MTBU?oc=5"
   }
  ],
  "clip_titles": [],
@@ -382,6 +392,7 @@
   "005de0e2b382e28b": 1790572220,
   "0065f968ca88a37e": 1789733129,
   "006a67f096e62307": 1790480362,
+  "0073990ea62a9eaa": 1790736835,
   "00828e3d8496102e": 1789627496,
   "0094a16410d40352": 1789627496,
   "00981bae07724c3a": 1789729035,
@@ -3948,6 +3959,7 @@
   "6490060aa45353db": 1789681826,
   "64b0bf45a3cb93d4": 1789967690,
   "64b7f040dcc10d7c": 1790321776,
+  "64c1b28d27ca301e": 1790736835,
   "64cf0eb79b4fc198": 1789627496,
   "64d15219cf9450dc": 1789637719,
   "64d38b8f1143ed61": 1790732723,
@@ -4624,6 +4636,7 @@
   "7902cfb2a2763292": 1790073620,
   "7918c3fe7b781119": 1789861138,
   "791d2b631f517282": 1790558489,
+  "792a7477309a1600": 1790736835,
   "7933597d6a4b47af": 1790687122,
   "7949318a67280b40": 1790693118,
   "79578982b1ae5c4d": 1789631415,
@@ -6551,6 +6564,7 @@
   "b34265ef6cbb7158": 1789979721,
   "b34b4546af70f97a": 1790642222,
   "b34d78b8f4826f6e": 1789933829,
+  "b35232acc026f8c2": 1790736835,
   "b355e27738c842dc": 1790558489,
   "b35d06b19ae1a5dd": 1789954905,
   "b360175e48c0b485": 1790573944,
@@ -8810,6 +8824,7 @@
   "f7507e96334d64f0": 1789705521,
   "f754ec70700e484c": 1789959919,
   "f755876c7071ffdd": 1789649420,
+  "f765b3f71d3098ec": 1790736835,
   "f7766490d3960ef5": 1789956049,
   "f77fef82f3cf5542": 1790639933,
   "f77ffb1fc8761161": 1790668519,
@@ -9111,7 +9126,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790733932,
- "last_msg_poll": 1790736508,
+ "last_msg_poll": 1790737084,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9155,7 +9170,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 11:48 KST",
+  "last_run": "2026-09-30 11:58 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
