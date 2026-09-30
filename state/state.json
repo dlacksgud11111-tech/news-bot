@@ -292,6 +292,26 @@
    "t": "한남 재정비지구 지역난방 공급...2030년 3구역부터",
    "ts": 1790806600,
    "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228679"
+  },
+  {
+   "co": "한국전력",
+   "n": 1,
+   "s": "에너지신문 - 전체기사",
+   "sc": 6,
+   "sec": "유틸리티·정책",
+   "t": "한전KDN, AI로 가구 전기안전·에너지관리 연계",
+   "ts": 1790808775,
+   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228680"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Fire at data center in Seoul, South Korea, sees 100 people evacuated",
+   "ts": 1790776424,
+   "u": "https://www.datacenterdynamics.com/en/news/fire-at-data-center-in-seoul-south-korea-sees-100-people-evacuated/"
   }
  ],
  "clip_titles": [],
@@ -1440,6 +1460,7 @@
   "1ee6a3f79c65fccf": 1790067063,
   "1eef3ac79a303d05": 1790480947,
   "1ef076fa0bae0aa2": 1789706415,
+  "1ef89d23c11f06ba": 1790776839,
   "1f0104ce24478c59": 1789831819,
   "1f0e60a192b0cf7a": 1790041833,
   "1f147666ff05203c": 1789978815,
@@ -3987,6 +4008,7 @@
   "618d2a5930ba53c7": 1790586316,
   "618ff75aa39ee447": 1790743524,
   "61a114d237246fa3": 1790748320,
+  "61a43e1a364f1942": 1790776839,
   "61a49aef480dad29": 1789954905,
   "61a6dbdc9110c2d4": 1790727236,
   "61c3ff4bb6310278": 1790668519,
@@ -5625,6 +5647,7 @@
   "8fb032906939eeaa": 1790069431,
   "8fb277102ef0e00b": 1789641915,
   "8fb52c0af2b10be6": 1790646615,
+  "8fc26dad12d27f45": 1790776839,
   "8fce766b9c90af91": 1790733932,
   "8fcfda2a57ffa579": 1790553879,
   "8fe2f8bb9767e2c9": 1790227217,
@@ -9652,7 +9675,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790771118,
- "last_msg_poll": 1790776784,
+ "last_msg_poll": 1790777087,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9696,7 +9719,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 22:59 KST",
+  "last_run": "2026-09-30 23:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
