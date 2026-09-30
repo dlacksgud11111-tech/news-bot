@@ -362,6 +362,16 @@
    "t": "기후테크 투자, AI·데이터센터로 ‘쏠림’…‘탄소 감축’은 뒷전? - ESG경제",
    "ts": 1790744072,
    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFVktmT1dyQ2dUblFPZnFSWFp0c0ZrTDdvenk1VFVBQ1ZZUk9SUGFFVDhHdDI0YjNuMVJ4MXRlcnVyNGVCMUp5OWFUWWpya0RtS2dlR250SWRBWlpkWXktaTBwX29KdVh2aS1nQw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 3,
+   "sec": "재생에너지·ESS",
+   "t": "Panasonic deploys fuel cell, heat pump at PV-powered hydrogen house",
+   "ts": 1790752699,
+   "u": "https://www.pv-magazine.com/2026/09/30/panasonic-deploys-fuel-cell-heat-pump-at-pv-powered-hydrogen-house/"
   }
  ],
  "clip_titles": [],
@@ -842,6 +852,7 @@
   "0df6f3a80a6d56ed": 1789781561,
   "0df9dc0f3e478692": 1790042975,
   "0e08bb7aad5fea63": 1790278829,
+  "0e2b90ee223c7fe5": 1790752818,
   "0e2ee03183462525": 1789692619,
   "0e340fdb5498d2f3": 1790064199,
   "0e3980375ec20a27": 1789785019,
@@ -870,6 +881,7 @@
   "0efad5aefbf3d12b": 1790671521,
   "0efbb18d256d13e7": 1790556223,
   "0eff49d7bf9ffeec": 1790555020,
+  "0f02490db6719ba4": 1790752818,
   "0f09d9e0f8be62d0": 1789957530,
   "0f12679b7f68a2c9": 1790661331,
   "0f15e0018dc3fd7c": 1789883723,
@@ -3763,6 +3775,7 @@
   "5b9e9b72efc4d76b": 1790045289,
   "5ba41a9ac202e9f2": 1790457028,
   "5ba50b056a87b01e": 1790053820,
+  "5bad27bd79648582": 1790752818,
   "5badaa2df94a038f": 1789805116,
   "5bc13dcdfbd06689": 1789946508,
   "5bd0bb0fdab6399b": 1790665521,
@@ -6469,6 +6482,7 @@
   "a9d1e4864fab0fba": 1789708498,
   "a9d5b0abc045571d": 1789977915,
   "a9d645c9355ae498": 1789693531,
+  "a9dc9184ff15c1eb": 1790752818,
   "a9e91721f91f87fe": 1790738534,
   "a9eae2419f607a72": 1789979721,
   "a9efea8367ccdc85": 1789715428,
@@ -9503,7 +9517,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790749218,
- "last_msg_poll": 1790752766,
+ "last_msg_poll": 1790753068,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9547,7 +9561,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 16:19 KST",
+  "last_run": "2026-09-30 16:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
