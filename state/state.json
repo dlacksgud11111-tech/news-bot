@@ -302,6 +302,16 @@
    "t": "Haydale's graphene additive could improve the efficiency of data center cooling fluid",
    "ts": 1790766636,
    "u": "https://www.datacenterdynamics.com/en/news/haydales-graphene-additive-could-improve-the-efficiency-of-data-center-cooling-fluid/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 3,
+   "sec": "재생에너지·ESS",
+   "t": "Chinese scientists develop hydrogen-powered CO₂ heat pump with PCM storage",
+   "ts": 1790768221,
+   "u": "https://www.pv-magazine.com/2026/09/30/chinese-scientists-develop-hydrogen-powered-co%e2%82%82-heat-pump-with-pcm-storage/"
   }
  ],
  "clip_titles": [],
@@ -3204,6 +3214,7 @@
   "4c295f42a26ce062": 1790298315,
   "4c33fcc84513a3e9": 1790658925,
   "4c3d10699d27a39e": 1790724317,
+  "4c412228e134f284": 1790768419,
   "4c456f9ef5522bf7": 1790564716,
   "4c4e8fe842839927": 1790492713,
   "4c600e342da332e8": 1790036576,
@@ -9626,7 +9637,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790763689,
- "last_msg_poll": 1790768365,
+ "last_msg_poll": 1790768659,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9670,7 +9681,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 20:39 KST",
+  "last_run": "2026-09-30 20:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
