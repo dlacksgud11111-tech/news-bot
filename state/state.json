@@ -212,158 +212,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 1,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "DataBank acquires leased data center in Minneapolis, Minnesota, from Mapletree Industrial Trust",
-   "ts": 1790763591,
-   "u": "https://www.datacenterdynamics.com/en/news/msp2/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "서울경제",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "“데이터센터 냉각에 최적”…수열에너지 2030년까지 18배 늘린다 - 서울경제",
-   "ts": 1790760964,
-   "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5QTZRajlmQXhZQWliZkhERU9sdE9TR2U3MnNfQnAyMFlMaHlERGRkN3FhVVB6cDBtRl9MTERvQ0RIRXRZQ20zRVNtLUlJMlM3eWfSAVNBVV95cUxONGU3ekc4SVh1Nkd5WEs4dWNKUV9EX2RFVHJWZTNuS1RHcmtIRXVMOGpqV2VsZEd4LUVXMHRIdlIyOWh6VHpVeWd1R0hVTnNIVzAwaw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "시장경제신문",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "현대ENG, '군산 AI 데이터센터 신축 사업' 수주... DC 사업 확장 전략 본격화 - 시장경제신문",
-   "ts": 1790754811,
-   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfMzBiRExHUWUzekphd2xjQWctbGtCdl82ZFhpVHJFQ3BpWlZYck15bG5Fb3l4dG91bVN4Njh1akZTM18zc2RFV29IcV9HS2VDWHV0Q1FBOEloWlNKbHpZQ2JlMmM1eWVVb1VxanJWeVM?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "워크투데이",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "LG CNS, 모듈형 AI 데이터센터 공개 … GPU·전력·냉각 ‘풀스택’ 공략 - 워크투데이",
-   "ts": 1790764131,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxVVRleUpaWUpPdFVKSjBTdlF3QVdHbnhfVXZVSzduNFBYMW5YMWwxSE5vd05wS0h2TkNlYnVvSXo4RE51UXdaZFpLVWVDa0ctVkI3Nk80bGVycW9oRWNHaE94SXR0bWs2dFMxcA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 4,
-   "sec": "전력기기",
-   "t": "Belgium reveals results of PV cable assessment",
-   "ts": 1790765020,
-   "u": "https://www.pv-magazine.com/2026/09/30/belgium-reveals-results-of-pv-cable-assessment/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "kangso.co.kr",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG CNS, ‘사전제작 모듈형 데이터센터’로 AI 팩토리 시장 공략 - kangso.co.kr",
-   "ts": 1790743069,
-   "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81R1hVNUx4N0NRak9GZmVyN0pTZldxdTIyT0pfNmEwelFuZFplV0ozMnQwU3pROG5DSVIxQmtXc2dWb1QzMmRZbDFlSTFiTUZGOVhB?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 3,
-   "sec": "재생에너지·ESS",
-   "t": "EU’s largest solar project reaches financial close",
-   "ts": 1790765245,
-   "u": "https://www.pv-magazine.com/2026/09/30/eus-largest-solar-project-reaches-financial-close/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 3,
-   "sec": "재생에너지·ESS",
-   "t": "Fox ESS launches modular C&I battery system scalable to 96 MWh",
-   "ts": 1790765427,
-   "u": "https://www.pv-magazine.com/2026/09/30/fox-ess-launches-modular-ci-battery-system-scalable-to-96-mwh/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Haydale's graphene additive could improve the efficiency of data center cooling fluid",
-   "ts": 1790766636,
-   "u": "https://www.datacenterdynamics.com/en/news/haydales-graphene-additive-could-improve-the-efficiency-of-data-center-cooling-fluid/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 3,
-   "sec": "재생에너지·ESS",
-   "t": "Chinese scientists develop hydrogen-powered CO₂ heat pump with PCM storage",
-   "ts": 1790768221,
-   "u": "https://www.pv-magazine.com/2026/09/30/chinese-scientists-develop-hydrogen-powered-co%e2%82%82-heat-pump-with-pcm-storage/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "BrightRay plans 40MW data center in Macau",
-   "ts": 1790768997,
-   "u": "https://www.datacenterdynamics.com/en/news/brightray-plans-40mw-data-center-in-macau/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "마켓잉크",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG CNS, 모듈형 데이터센터·베라 루빈 풀스택 서비스로 해외 AI 인프라 시장 진출 - 마켓잉크",
-   "ts": 1790747284,
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RTmEzeXV6OFFWSUIwelBYT2NTX1JfMTZiYVJ6VnpjUkVSaC1NR0NVelFpUVI1UlpPTlpRNUVnb202bEVQN1UwN25QT1hJUURQWTF2UDYzNHB1THBHNlZrQXN2cTFLT3Y3TnRfYTRJUQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Google named as customer for Crusoe's data center campus in Amarillo, Texas",
-   "ts": 1790769599,
-   "u": "https://www.datacenterdynamics.com/en/news/google-named-as-customer-for-crusoes-data-center-campus-in-amarillo-texas/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Over Easy Solar launches 256 W vertical rooftop PV unit",
-   "ts": 1790770127,
-   "u": "https://www.pv-magazine.com/2026/09/30/over-easy-solar-launches-256-w-vertical-rooftop-pv-unit/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "POWER Magazine",
-   "sc": 6,
-   "sec": "재생에너지·ESS",
-   "t": "Rising Star Finalist: Mishaal SyedNaveed Advances Battery Storage Fire Safety",
-   "ts": 1790770020,
-   "u": "https://www.powermag.com/rising-star-finalist-mishaal-syednaveed-advances-battery-storage-fire-safety/"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "0003f98f6034d59c": 1790586316,
@@ -3360,6 +3209,7 @@
   "4ea6140a7d831fae": 1789949716,
   "4ead437c916fcff8": 1790503653,
   "4eae94f6a9354eff": 1789967119,
+  "4eb2578ad64f9f0b": 1790771118,
   "4eb9a5c95edb2684": 1789958121,
   "4ebb70c660481d1e": 1790734218,
   "4ebb978c856026e0": 1789975519,
@@ -7108,6 +6958,7 @@
   "b770762cbe687a62": 1789627496,
   "b77b2e8cc81a9a1f": 1790640533,
   "b77d8262e9a2c30d": 1789656318,
+  "b77edf0954c4102b": 1790771118,
   "b780de54d9b9231a": 1789953163,
   "b784fe1f8bdbfef3": 1790230178,
   "b7855d60af34d90c": 1789627496,
@@ -9693,8 +9544,8 @@
  },
  "companies_today": {},
  "day": "2026-09-30",
- "last_clip": 1790763689,
- "last_msg_poll": 1790771068,
+ "last_clip": 1790771118,
+ "last_msg_poll": 1790771369,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9738,7 +9589,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 21:24 KST",
+  "last_run": "2026-09-30 21:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
