@@ -252,6 +252,26 @@
    "t": "LG CNS, 모듈형 AI 데이터센터 공개 … GPU·전력·냉각 ‘풀스택’ 공략 - 워크투데이",
    "ts": 1790764131,
    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxVVRleUpaWUpPdFVKSjBTdlF3QVdHbnhfVXZVSzduNFBYMW5YMWwxSE5vd05wS0h2TkNlYnVvSXo4RE51UXdaZFpLVWVDa0ctVkI3Nk80bGVycW9oRWNHaE94SXR0bWs2dFMxcA?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 4,
+   "sec": "전력기기",
+   "t": "Belgium reveals results of PV cable assessment",
+   "ts": 1790765020,
+   "u": "https://www.pv-magazine.com/2026/09/30/belgium-reveals-results-of-pv-cable-assessment/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "kangso.co.kr",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG CNS, ‘사전제작 모듈형 데이터센터’로 AI 팩토리 시장 공략 - kangso.co.kr",
+   "ts": 1790743069,
+   "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81R1hVNUx4N0NRak9GZmVyN0pTZldxdTIyT0pfNmEwelFuZFplV0ozMnQwU3pROG5DSVIxQmtXc2dWb1QzMmRZbDFlSTFiTUZGOVhB?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1031,6 +1051,7 @@
   "155b491fab367c9f": 1790651338,
   "155d1fa06aad8a3a": 1790067063,
   "155e403f63942a77": 1789871791,
+  "1563d14d571a948c": 1790765119,
   "1566fd09410f806e": 1790658925,
   "1577170216bcfd98": 1790678503,
   "157ca15a73fffcf2": 1789724119,
@@ -1509,6 +1530,7 @@
   "21b16a0dbe76abc5": 1790737975,
   "21bee42bcd44c16f": 1790455830,
   "21bf442eb97088ee": 1789966821,
+  "21cc626cdcb4cb49": 1790765119,
   "21d2f953d287e360": 1789701321,
   "21dc764436264b6a": 1790034858,
   "21dc7e070b25f5b0": 1790658361,
@@ -8027,6 +8049,7 @@
   "d4e5a1f262e4aa20": 1789627496,
   "d4f256ab183e24e8": 1790226919,
   "d4fc3fe6275bd37a": 1789788917,
+  "d5075e275655034e": 1790765119,
   "d51481e7fdfe80c1": 1789627496,
   "d5161dea3b2d0f54": 1789869501,
   "d51950f0230b2fcb": 1789965314,
@@ -9212,6 +9235,7 @@
   "f6a9e154401761ab": 1790146721,
   "f6acbaecb9c00932": 1790120279,
   "f6b6b3b94121eaef": 1790123718,
+  "f6beab88594c478f": 1790765119,
   "f6c2e87021b30e3c": 1790040051,
   "f6c8cc654585245a": 1790556223,
   "f6caf6929a73c447": 1789782685,
@@ -9557,7 +9581,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790763689,
- "last_msg_poll": 1790765066,
+ "last_msg_poll": 1790765369,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9601,7 +9625,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 19:44 KST",
+  "last_run": "2026-09-30 19:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
