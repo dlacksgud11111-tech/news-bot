@@ -282,6 +282,16 @@
    "t": "EU’s largest solar project reaches financial close",
    "ts": 1790765245,
    "u": "https://www.pv-magazine.com/2026/09/30/eus-largest-solar-project-reaches-financial-close/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 3,
+   "sec": "재생에너지·ESS",
+   "t": "Fox ESS launches modular C&I battery system scalable to 96 MWh",
+   "ts": 1790765427,
+   "u": "https://www.pv-magazine.com/2026/09/30/fox-ess-launches-modular-ci-battery-system-scalable-to-96-mwh/"
   }
  ],
  "clip_titles": [],
@@ -1494,6 +1504,7 @@
   "20c974f5198a75a7": 1790045289,
   "20cd111fedee5e86": 1789783260,
   "20d3e6e38a894201": 1789980020,
+  "20df70ddbc803be5": 1790765722,
   "20e83fc1d65edc47": 1790747118,
   "20e8b73486763bed": 1790668519,
   "20ec7a9180da6e81": 1789974040,
@@ -9592,7 +9603,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790763689,
- "last_msg_poll": 1790765666,
+ "last_msg_poll": 1790765965,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9636,7 +9647,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 19:54 KST",
+  "last_run": "2026-09-30 19:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
