@@ -267,6 +267,16 @@
    "t": "대신證 “가온전선, AI 데이터센터 수주 5.2조원…목표가 36만원” - 이투데이",
    "ts": 1790721300,
    "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kbG1ubWlCSDAxcUctUmFZWm83X05NQVJKeDh1ZERMajE4YUFtZUlKbXhzSEx6NWtVa1ZIYkl2Znh4VzhiQ2lmTjJTSFBEdjhaOEVfcg?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "데이터투자",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AIB 데이터센터, 3분기 IR 발표…네비우스 보증 하에 CLT1 개발 추진 - 데이터투자",
+   "ts": 1790799706,
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41R0RHdXV0VXVmN2pkU1lSQUNicVZ2eDh0MG1CclJnR0lNc1R6UnlyMWlOUlhpZmdvcVllRDJTRVZLbkRvMTNRZzBRdjh5SVVtaXVzZGw3U2QxeWpKcXg5a2dvTlpFSFRiOGczby1DY2JHV1E?oc=5"
   }
  ],
  "clip_titles": [],
@@ -7150,6 +7160,7 @@
   "b9ba09f73b6dff07": 1790671521,
   "b9ccf4d0ca5df3a4": 1789868332,
   "b9d189f4b35660d9": 1789938120,
+  "b9e22bdab7000900": 1790800191,
   "b9ea0ee56d45911d": 1790643992,
   "b9effffd856d9671": 1790035428,
   "b9f7df93cfcef596": 1790131217,
@@ -9652,7 +9663,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790778320,
- "last_msg_poll": 1790799875,
+ "last_msg_poll": 1790800438,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9696,7 +9707,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 05:24 KST",
+  "last_run": "2026-10-01 05:33 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
