@@ -432,6 +432,26 @@
    "t": "미, 두 번째 상업용 SMR 승인...\"데이터센터 전력수요 대응\" - YTN 사이언스",
    "ts": 1790751718,
    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZzJnV3prSnZ6MTZZX09kNWFtRE9memR1RGpYRUdVdWg2Y00tUVFac2EzcjU4V1pCUmUteE9iY1podVE5aWZlLXhuNnhkcGRYSENMWUtUNlI0NjRQcUZiT3ZHRzFadFd5aE5fYkprVGFobC0wX2h4RkNCLW5EekM5UG5SZ2k0MndEZ1c2Mg?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "투데이에너지 - 전체기사",
+   "sc": 7,
+   "sec": "재생에너지·ESS",
+   "t": "동서발전 ‘수소산업 혁신포럼’ 개최",
+   "ts": 1790787594,
+   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303680"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스 경제 최신기사",
+   "sc": 0,
+   "sec": "건설·플랜트",
+   "t": "태영건설, 유상증자…미래에셋증권 등에 3자 배정",
+   "ts": 1790755369,
+   "u": "https://www.yna.co.kr/view/AKR20260930163800008"
   }
  ],
  "clip_titles": [],
@@ -832,6 +852,7 @@
   "0bcbb9782cab3194": 1790316316,
   "0bcceaf33b737220": 1790737975,
   "0bd2731868b5acb2": 1790039473,
+  "0bd4812d846f00c4": 1790755819,
   "0bd5c4087e8dc668": 1790071827,
   "0bdc9589ba7704c2": 1789724119,
   "0bdeb248f6212e9f": 1789983317,
@@ -5371,6 +5392,7 @@
   "866a9872e75be34f": 1790726668,
   "866e65326b7f082a": 1790068832,
   "86786216a15bab44": 1790737408,
+  "8687ec2f19d7b900": 1790755819,
   "8691b8a512cb39bc": 1789873818,
   "86979c6b41a1323d": 1789627496,
   "869b2561922c80d6": 1789784117,
@@ -6087,6 +6109,7 @@
   "9c8d0f07de615584": 1790564716,
   "9c9ca76557f294b9": 1790564716,
   "9c9f8f48534eaf3b": 1790348724,
+  "9ca0c7ea7178acb4": 1790755819,
   "9ca85470f031ff2a": 1789972883,
   "9cb688ac276ef08c": 1790478323,
   "9cbe3a42e1d8da73": 1789629088,
@@ -7149,6 +7172,7 @@
   "b8cd9541f2055cb8": 1790643992,
   "b8e63103370bfc15": 1789691718,
   "b8e9e9337df89435": 1789627496,
+  "b8f5fe1efbdf1b4f": 1790755819,
   "b902cf32f808d90d": 1789627496,
   "b90627498fb3e730": 1790741117,
   "b90ca91707c99748": 1790658925,
@@ -9629,7 +9653,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790749218,
- "last_msg_poll": 1790755771,
+ "last_msg_poll": 1790756069,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9673,7 +9697,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 17:09 KST",
+  "last_run": "2026-09-30 17:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
