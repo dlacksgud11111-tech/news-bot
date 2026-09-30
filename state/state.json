@@ -312,6 +312,26 @@
    "t": "Chinese scientists develop hydrogen-powered CO₂ heat pump with PCM storage",
    "ts": 1790768221,
    "u": "https://www.pv-magazine.com/2026/09/30/chinese-scientists-develop-hydrogen-powered-co%e2%82%82-heat-pump-with-pcm-storage/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "BrightRay plans 40MW data center in Macau",
+   "ts": 1790768997,
+   "u": "https://www.datacenterdynamics.com/en/news/brightray-plans-40mw-data-center-in-macau/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "마켓잉크",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG CNS, 모듈형 데이터센터·베라 루빈 풀스택 서비스로 해외 AI 인프라 시장 진출 - 마켓잉크",
+   "ts": 1790747284,
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RTmEzeXV6OFFWSUIwelBYT2NTX1JfMTZiYVJ6VnpjUkVSaC1NR0NVelFpUVI1UlpPTlpRNUVnb202bEVQN1UwN25QT1hJUURQWTF2UDYzNHB1THBHNlZrQXN2cTFLT3Y3TnRfYTRJUQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -5976,6 +5996,7 @@
   "9a847debaeaa1ffa": 1790658925,
   "9a875a09d884c637": 1790586034,
   "9ab0dd8d1153fb4b": 1790729518,
+  "9aba149eb01548ba": 1790769320,
   "9abafdb41d5aeb7f": 1790741117,
   "9abc6dfc767d0ee5": 1790467770,
   "9abd7e0e2953ff57": 1790079022,
@@ -8538,6 +8559,7 @@
   "e1df1354eb82ebea": 1790715791,
   "e1e064ff8d8e5c34": 1790642222,
   "e1e3a4588cca57ca": 1789976119,
+  "e1e8086a2512a888": 1790769320,
   "e1e8b1716dec1440": 1790629525,
   "e2124e0bc09d0647": 1789745154,
   "e219c43b80528d63": 1789627496,
@@ -9637,7 +9659,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790763689,
- "last_msg_poll": 1790769268,
+ "last_msg_poll": 1790769560,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9681,7 +9703,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 20:54 KST",
+  "last_run": "2026-09-30 20:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
