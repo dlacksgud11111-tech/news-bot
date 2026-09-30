@@ -342,6 +342,26 @@
    "t": "Google named as customer for Crusoe's data center campus in Amarillo, Texas",
    "ts": 1790769599,
    "u": "https://www.datacenterdynamics.com/en/news/google-named-as-customer-for-crusoes-data-center-campus-in-amarillo-texas/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "Over Easy Solar launches 256 W vertical rooftop PV unit",
+   "ts": 1790770127,
+   "u": "https://www.pv-magazine.com/2026/09/30/over-easy-solar-launches-256-w-vertical-rooftop-pv-unit/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "POWER Magazine",
+   "sc": 6,
+   "sec": "재생에너지·ESS",
+   "t": "Rising Star Finalist: Mishaal SyedNaveed Advances Battery Storage Fire Safety",
+   "ts": 1790770020,
+   "u": "https://www.powermag.com/rising-star-finalist-mishaal-syednaveed-advances-battery-storage-fire-safety/"
   }
  ],
  "clip_titles": [],
@@ -8057,6 +8077,7 @@
   "d2ff04bbd61650ce": 1790060726,
   "d302fe8d202b8ac3": 1790584523,
   "d30c0c5734926bec": 1790730092,
+  "d311d71c6fbcc621": 1790770221,
   "d3155afb0b95963c": 1790759655,
   "d31f20aa39534233": 1790125822,
   "d323d7da1739400d": 1790037737,
@@ -9114,6 +9135,7 @@
   "f05de461d33ec664": 1789694131,
   "f06a9be50df28947": 1789627496,
   "f06df1f092d83659": 1790736258,
+  "f0760b7dba58ea5a": 1790770221,
   "f0854f7cd1ca6056": 1790087657,
   "f091176471f3b773": 1790386214,
   "f0945aaa3f88dc52": 1790039473,
@@ -9671,7 +9693,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790763689,
- "last_msg_poll": 1790770162,
+ "last_msg_poll": 1790770471,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9715,7 +9737,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 21:09 KST",
+  "last_run": "2026-09-30 21:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
