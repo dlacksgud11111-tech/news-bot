@@ -242,6 +242,26 @@
    "t": "AI 패권 경쟁, 결국 ‘전력 확보전’…美 데이터센터 전력수요 2030년 3배 뛸 수도 - 파이낸스투데이",
    "ts": 1790720340,
    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8ydUtEYjZSdlB0SGFIdjNQQlB3MDhBN3FTVUxpMW5VYTZ4eWFhenRsRDdaT0Q4NUpUOTZieHNUWXBKUHB3X1JxQVpCa2FZbDVYRWJFY21obDZfTnhfNjBmVkZEbDl4ZlV0ajhRcg?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "투데이에너지 - 전체기사",
+   "sc": 1,
+   "sec": "유틸리티·정책",
+   "t": "호르무즈 사태 장기화…유럽 LNG 확보 확대, 아시아와 경쟁 심화",
+   "ts": 1790774720,
+   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303670"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "\"전자파·소음 괜찮나\"…동해 AI데이터센터 지중선로 주민설명회 - v.daum.net",
+   "ts": 1790735580,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2VGlrYTh5Q3MzLTFmYkJ4R1gtTWUyQk84cjNNd2R2cE9leThDYWdLYjJTbnBVWnp6SXdhZF83TW1OSEQ0LUszcklFVDB2SEk?oc=5"
   }
  ],
  "clip_titles": [],
@@ -347,6 +367,7 @@
   "02cd0f9524e2dcbf": 1789725558,
   "02cd1df8c07e3b6c": 1790136320,
   "02d268a94f40c79f": 1790560827,
+  "02e26f67b8b2a2df": 1790742615,
   "02eaf79751e9ab28": 1790564716,
   "02eb9523a36233df": 1790658925,
   "02f65c64f70981ea": 1789959919,
@@ -2804,6 +2825,7 @@
   "4660e32af8a380f7": 1789643416,
   "466341792354a8ac": 1790660118,
   "4683227d5cec24a3": 1790030116,
+  "4684cb585942616a": 1790742615,
   "4692b0d791832629": 1790667315,
   "46a49350bc2d2341": 1790042975,
   "46ae845a2a9d25de": 1790129720,
@@ -9083,7 +9105,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790741728,
- "last_msg_poll": 1790742560,
+ "last_msg_poll": 1790742864,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9127,7 +9149,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 13:29 KST",
+  "last_run": "2026-09-30 13:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
