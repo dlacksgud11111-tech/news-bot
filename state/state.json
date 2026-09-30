@@ -282,6 +282,46 @@
    "t": "컨테이너에 GPU 넣고 현장서 조립…LG CNS '모듈형 AI 데이터센터' 공개 - 뉴스;트리",
    "ts": 1790733034,
    "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBReENYT09LWDdOV0R6aVRhYTRfcmFUcHlqSTdWRkRSTlFtNVhhMWFscFFDMUQ5V0NiNzE0UzFNN1RQN3dpWWtwT25lYWJqQ3FocVI0WkFzMXBWRDlO?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "투데이에너지 - 전체기사",
+   "sc": 5,
+   "sec": "전력기기",
+   "t": "전기차, 케이블만 꽂으면 ‘자동 충전·결제’ 시연",
+   "ts": 1790783902,
+   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303677"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "전기신문 - 전체기사",
+   "sc": 1,
+   "sec": "재생에너지·ESS",
+   "t": "수소터빈·엔진 기술 한자리에…동서발전, 혁신포럼 개최",
+   "ts": 1790783592,
+   "u": "https://www.electimes.com/news/articleView.html?idxno=372958"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "투데이에너지 - 전체기사",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "수소연합, 핀란드수소협회와  수소산업 협력 확대 논의",
+   "ts": 1790782581,
+   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303678"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "thetracker.co.kr",
+   "sc": 8,
+   "sec": "데이터센터·AI전력",
+   "t": "[Company Watch] LS, 美 전력 인프라에 계열사 총출동…AI 데이터센터 수주 20조 육박 - thetracker.co.kr",
+   "ts": 1790751330,
+   "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11TWxfTTZ6QzlyM2pUYy11TklqQ3h3dnpnMzFsNHpPWXlKTHFuZDZIUFNFNXdZZUoxbzQ0aXduRFp6MnpZeTNadlJpWjhDeVpUb0k4SFN6RVQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1228,6 +1268,7 @@
   "1a7f855da4c47070": 1790584523,
   "1a843e403963a913": 1789627496,
   "1a8a622fc34fa1bb": 1789995321,
+  "1a8bdd717b8e4e0d": 1790751637,
   "1a92145495a5be76": 1790729518,
   "1a948e94a3bf8124": 1790125822,
   "1a94b87433597e75": 1789855639,
@@ -2526,6 +2567,7 @@
   "3c9220388b2596b7": 1789707915,
   "3c9892e6fcd3fbac": 1789715428,
   "3c996221f649f37e": 1789700729,
+  "3c9a484af67ba84c": 1790751637,
   "3ca2a705ddf09d28": 1790041522,
   "3ca61ba570d5eeb6": 1789866315,
   "3cab2c76a55eae29": 1790579195,
@@ -2981,6 +3023,7 @@
   "4887e4942ab607db": 1789952592,
   "488dbd83f117a230": 1790730658,
   "4890c038a1fe8c21": 1789954905,
+  "4899f305f412471d": 1790751637,
   "489d973405bb1fde": 1789873818,
   "489f3eff5e9f9d0a": 1790635214,
   "489f928547c912c5": 1790559622,
@@ -5639,6 +5682,7 @@
   "95151574e27b4c5b": 1790650193,
   "951edf0cdd010f42": 1789728460,
   "95220804f826ad2c": 1789981516,
+  "9526b116a876c31a": 1790751637,
   "952de807bc014c54": 1789716319,
   "95360b9f33852daf": 1790578558,
   "953b43e42ea78db1": 1790731219,
@@ -9371,7 +9415,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790749218,
- "last_msg_poll": 1790751568,
+ "last_msg_poll": 1790751878,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9415,7 +9459,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 15:59 KST",
+  "last_run": "2026-09-30 16:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
