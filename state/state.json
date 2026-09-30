@@ -442,6 +442,16 @@
    "t": "LG전자, 모듈러 솔루션으로 AI 데이터센터 냉각시장 공략... DCWA 참가 - 비즈트리뷴",
    "ts": 1790723006,
    "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCS0F4Nk1zeE5xSXRGZVpwZk44THFEaF9GNnh1YTZIaWZtbE9iYjk5b3R2elFpdEctbTJ0Nm1reUhqYjJtcWp4aU5GajdrbVI1Q0d6a19mVHRSWlV0dmpmXzRCSF90VG9HV2xzR2YyTlA?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "newspim.com",
+   "sc": 14,
+   "sec": "전력기기",
+   "t": "[중후장대 실적] 上 고선가·AI 전력망이 밀었다...조선 3사·효성중공업 3분기 '질주' - newspim.com",
+   "ts": 1790731560,
+   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OeHhyeGszTndUM3RYX0t5Q3VLcWk4Rkw3SEZfTjRaZDZXY1p2a3Q1TDNiQy16Nlc5WW5ZeVRnOHIzOVhOWUxMMktDVjV4VEZ4SkNMdnRmNmtWWUpX?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1524,6 +1534,7 @@
   "1f6568ad1fca59e1": 1789635918,
   "1f7154e704120eed": 1789978521,
   "1f7ae3aba027129e": 1789956616,
+  "1f8291720969cf64": 1790731821,
   "1f9f986a098f7467": 1789969411,
   "1fa092a467998a42": 1789956616,
   "1fa5b0177d4e5ad5": 1790562951,
@@ -3717,6 +3728,7 @@
   "5d8d82be08ebca65": 1790059516,
   "5d8e9360d011a22e": 1790042975,
   "5d9a8cf3ac8e4856": 1790084844,
+  "5d9ad1d648c18ab9": 1790731821,
   "5da6ebfe3bb5276e": 1790638794,
   "5dafd1b7f8ba546f": 1790323520,
   "5db2fb19e0e17c20": 1790037157,
@@ -4893,6 +4905,7 @@
   "818c32dc1d8e646d": 1789951988,
   "8191398db27f822c": 1790570118,
   "819ea79643553ba4": 1790728372,
+  "81a02322d66f5a73": 1790731821,
   "81a439f5c7a25e2d": 1789784418,
   "81a5558807b4d8c8": 1789712512,
   "81aa3964c8f2c0ac": 1790007919,
@@ -5916,6 +5929,7 @@
   "a28dcebc33e99658": 1790645732,
   "a28df6e2544c61f2": 1790731219,
   "a2900f8786760a75": 1789951430,
+  "a29e301bde1463cf": 1790731821,
   "a29e64da69de53cd": 1790422522,
   "a2b4658f28a75652": 1789863399,
   "a2b70046e649301a": 1790155228,
@@ -6062,6 +6076,7 @@
   "a66d384d53cbec0e": 1789974040,
   "a67d664290491afd": 1790642222,
   "a6846d69a72efafc": 1790059817,
+  "a692fe66d650d735": 1790731821,
   "a6948e01fd51c57f": 1789715119,
   "a69dd2e4da0c7ae1": 1790059516,
   "a6ae9b128c19489e": 1789724119,
@@ -9011,7 +9026,7 @@
  "companies_today": {},
  "day": "2026-09-30",
  "last_clip": 1790726668,
- "last_msg_poll": 1790731773,
+ "last_msg_poll": 1790732071,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9055,7 +9070,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-09-30 10:29 KST",
+  "last_run": "2026-09-30 10:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065796,
