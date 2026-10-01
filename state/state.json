@@ -1,7 +1,7 @@
 {
  "alert_cooldown": {
   "HD현대일렉트릭|수주·계약": 1790662216,
-  "LS일렉트릭|수주·계약": 1790847019,
+  "LS일렉트릭|수주·계약": 1790861440,
   "LS일렉트릭|투자·증설": 1790126759,
   "LS전선|수주·계약": 1789713632,
   "Vertiv|투자·증설": 1790328618,
@@ -193,6 +193,10 @@
   [
    1790847019,
    "LS일렉트릭, 북미 AI 데이터센터 초고압 변압기 1억 3천만 달러 대형 수주"
+  ],
+  [
+   1790861440,
+   "LS ELECTRIC, 북미 AI 데이터센터 초고압 변압기 공급 계약 체결"
   ]
  ],
  "alerted": {
@@ -225,6 +229,7 @@
   "912a395478af1774": 1789713632,
   "9871a431b936c4f1": 1790146150,
   "99e9e19b28cb6dd8": 1789694435,
+  "9df98b2b0c4ffd87": 1790861440,
   "9fb67ff934ff12d1": 1790588718,
   "a1ef802b6a371af0": 1790044106,
   "a35a79d408f8ec9f": 1789627493,
@@ -242,7 +247,7 @@
   "f0f4cc942107030e": 1790662216,
   "fe7b17c162f91919": 1790498127
  },
- "alerted_today": 6,
+ "alerted_today": 7,
  "clip_buffer": [
   {
    "co": "",
@@ -303,6 +308,16 @@
    "t": "Enerflex, 450MW 데이터센터 전력 공급 계약 체결에 주가 급등 - Investing.com 한국어",
    "ts": 1790860140,
    "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00QnZpUVBRdHY0eDJtZjJvUlo2VVJTNXY2OEVFWkV0Y2ZSR1YwR0pTSm9KTElDYUFRY0NPSEltbWFmVWkwalBOLS1xQjhJRzFQMkVWRkVJTDh2c3hXNFhOUXM2V0hjeldTa241YTVYWnY?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 4,
+   "sec": "전력기기",
+   "t": "Looking beyond peak: Industry coalition floats new approach to measuring grid utilization",
+   "ts": 1790861042,
+   "u": "https://www.utilitydive.com/news/looking-beyond-peak-how-measure-grid-utilization/831533/"
   }
  ],
  "clip_titles": [],
@@ -2265,6 +2280,7 @@
   "2e248863c76cbceb": 1790728933,
   "2e2e5e4a6f3b71db": 1790334320,
   "2e3323fb728b895f": 1790569820,
+  "2e38028c4856f175": 1790861440,
   "2e3cde5485452461": 1789859128,
   "2e3d99f37a0604c7": 1790678503,
   "2e452d1ca0f5cb86": 1789882514,
@@ -9839,6 +9855,7 @@
   "e73716723346c3f0": 1790129120,
   "e742d172bcc961b5": 1789629923,
   "e7503289e4424890": 1789627496,
+  "e750bd9423587d6f": 1790861440,
   "e7529abd89e207b7": 1790473831,
   "e7531ad595537db2": 1790579781,
   "e75cd40080524cd9": 1790640533,
@@ -10873,7 +10890,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790857449,
- "last_msg_poll": 1790861122,
+ "last_msg_poll": 1790861683,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10918,7 +10935,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 22:25 KST",
+  "last_run": "2026-10-01 22:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
