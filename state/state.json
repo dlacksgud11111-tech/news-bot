@@ -253,6 +253,16 @@
    "t": "LS일렉트릭, 美 AI 데이터센터에 1800억 규모 초고압 변압기 공급 - 시사캐스트",
    "ts": 1790828383,
    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EMDd6VnIyb2E0Q21SUVJ2TnpkRmtKYzQ5Mnh6Wm02NXh6eUwzZ1B1aVdDUWEtTWRNRFNiTkFidWhNOGJWWms5OE1rVGVjdjhyZkNJdjVGTnJfUzdQZDN5SUpvaGNnVE9R?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "뉴스N연합",
+   "sc": 22,
+   "sec": "전력기기",
+   "t": "LS일렉트릭, 북미 AI 데이터센터 초고압 변압기 1억 3천만 달러 대형 수주 - 뉴스N연합",
+   "ts": 1790840934,
+   "u": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqY0czMDRZQ0x4SXZHdXR5OVZnTkZ0ajg5M2dYUHBkZmlXOUg5ZmxwbUpMVzEweVg0RlZfTW9iMmd5T0NFVWNjN2hB?oc=5"
   }
  ],
  "clip_titles": [],
@@ -7188,6 +7198,7 @@
   "a78288c798dc271b": 1789627496,
   "a79223ae6d91ac4b": 1790802441,
   "a79f9b506ef37f81": 1790377829,
+  "a7ad161c292ec1fb": 1790850616,
   "a7b1b2dcb5824b24": 1790122580,
   "a7b2af10d3540f0b": 1790298315,
   "a7b4ac1f18f86b81": 1790739688,
@@ -10781,7 +10792,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790850029,
- "last_msg_poll": 1790850568,
+ "last_msg_poll": 1790850857,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10826,7 +10837,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 19:29 KST",
+  "last_run": "2026-10-01 19:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
