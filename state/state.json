@@ -338,6 +338,16 @@
    "t": "슈나이더·바르실라·스탠리, 미국 데이터센터 전력 구축 가속화 - 2news.co.kr",
    "ts": 1790862350,
    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HR0REeG45QzNHOGF1Y3dEZHEzZWZCenU1VlFRWWZYdU41ejRvM3JzMGFjZjhWbkNqZ1hJMG9zY192dE5CWXNfRk01S25ob2sxbFRQNFdacnNKZi16RzNTblNSMWZBeTRa?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "U.S. small-scale solar adds 1.6 GW in Q2",
+   "ts": 1790863941,
+   "u": "https://www.pv-magazine.com/2026/10/01/u-s-small-scale-solar-adds-1-6-gw-in-q2-2026-as-fossil-fuel-capacity-surges/"
   }
  ],
  "clip_titles": [],
@@ -2059,6 +2069,7 @@
   "28dba97ede68d5b0": 1790823619,
   "28e770d430e43c41": 1790645732,
   "290208daf15770f7": 1790584523,
+  "290754b1d5b862bf": 1790864121,
   "290d92e4a2fb1573": 1789627496,
   "290fe344886ccd4a": 1790562951,
   "2913d09afb50f639": 1790651338,
@@ -2323,6 +2334,7 @@
   "2ea214c497de1da9": 1789688119,
   "2ea46b570d7a99dc": 1790773522,
   "2eaa3fc5cdc802ce": 1790802441,
+  "2eacc6d44c6fcd52": 1790864121,
   "2eadf498211047e2": 1789954327,
   "2eb073371d822c94": 1789970013,
   "2eb191822d005ca8": 1789689020,
@@ -10914,7 +10926,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790857449,
- "last_msg_poll": 1790864063,
+ "last_msg_poll": 1790864363,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10959,7 +10971,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 23:14 KST",
+  "last_run": "2026-10-01 23:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
