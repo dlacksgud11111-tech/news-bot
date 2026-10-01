@@ -241,7 +241,7 @@
  "clip_buffer": [
   {
    "co": "LS일렉트릭",
-   "n": 2,
+   "n": 4,
    "s": "헬로티",
    "sc": 22,
    "sec": "전력기기",
@@ -378,6 +378,16 @@
    "t": "ESS 넘어 서버 바로 옆까지…배터리 3사, AI 데이터센터 ‘전원’ 파고든다 - edaily.co.kr",
    "ts": 1790836902,
    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbVFNTmNzUFgxRWtZdlp5b3A1SWZHaHRsWUNsLWhRbDVmcGxaVlRGTmg1OUllZ2lHaDV6UE9fUzM5Z05sdmhEUGR3UHNnRk9kd3FBZ2phWVRHMGdjYjg1QVpESDhZMC1ra3dWVy1BTTBEdW10U1lqWlNqa3FtWE1nNA?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "소셜임팩트뉴스",
+   "sc": 10,
+   "sec": "데이터센터·AI전력",
+   "t": "데이터센터 전력 정책 논의, 가스·원전 진영이 61% 주도 - 소셜임팩트뉴스",
+   "ts": 1790817353,
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OOFZFLXFWWTNZWnd0Z21wcUUwUzRrN3ZmOXVHMGoxX1ROakFseGtqUmlCMW04UEZkN251TXJzN0ZtMjdNaHMzc1g2WDh2VEp2dFA2ekxaLTdaYmNydEtmclU1LVo5VG5yNWt0Y2tDYWU0MG_SAXdBVV95cUxNOE9vR2JRc0Y0b2pqVXlHazh0QW1oRGFqcUpiYi1zakthalFCTjBnY3dNZ0V5R3pTMW1LRGh5Q1dxdy1YNW10RDhBdkY4SGU0aU05d2lENFdLczJ3Z3F2NHY3bkNTaU5XeE9ucFZSeTdoQWhGeWg5bw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2434,6 +2444,7 @@
   "31b7a127697f6233": 1790129720,
   "31c22b0d1c880361": 1789974627,
   "31d4394c57627150": 1789971183,
+  "31d59e3c1fa97844": 1790838079,
   "31d6027aaf020298": 1790663718,
   "31e4a2acda15a422": 1790728933,
   "31e6598f1286904c": 1790809517,
@@ -2681,6 +2692,7 @@
   "376f8076d2883560": 1789956616,
   "3776f13ec3dc28dd": 1789708498,
   "377a1a6c4ceafd87": 1789955477,
+  "37ab6d0554da3668": 1790838079,
   "37b17bde12a900e5": 1790529034,
   "37b1fb8f0c127575": 1790565933,
   "37b23273b2008d4b": 1790040051,
@@ -4158,6 +4170,7 @@
   "5a9311bc43a688a5": 1789627496,
   "5a9ba13e347c4f1b": 1790053220,
   "5aa527727c8f5232": 1790658361,
+  "5aa53c93a0a815e4": 1790838079,
   "5aa5eda6f306d1cc": 1790813121,
   "5aa822ed0daa3de8": 1790042975,
   "5aa88a23311af04c": 1790147295,
@@ -6084,6 +6097,7 @@
   "8bbb6470178c1f10": 1790751916,
   "8bc6aecf8f5a5e56": 1790650193,
   "8bcd96873dad7a1f": 1790818527,
+  "8bd3aae4822fbbf3": 1790838079,
   "8be1678b31fd0982": 1789695321,
   "8be1a3ea8cd13f99": 1790144739,
   "8be951b02d77f673": 1790132132,
@@ -9332,6 +9346,7 @@
   "df3c4bbca1df02a0": 1789974322,
   "df4418a182c0317a": 1790726084,
   "df519c7cac1ddba1": 1790562951,
+  "df5316980f435bc6": 1790838079,
   "df5733bd7d9863c2": 1790053518,
   "df61c87c416c1776": 1789976730,
   "df6b1e59a7c9b6a5": 1789978220,
@@ -9813,6 +9828,7 @@
   "eaf08b6b5d885efb": 1790577419,
   "eafa2fecf9c9780e": 1790013723,
   "eafcb511e7d95b03": 1789694436,
+  "eb01d52f5da85372": 1790838079,
   "eb07590adf49579f": 1789627496,
   "eb0d0371abb4e5b2": 1789956616,
   "eb18d82481757b69": 1789967119,
@@ -10661,7 +10677,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790835202,
- "last_msg_poll": 1790837749,
+ "last_msg_poll": 1790838321,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10706,7 +10722,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 15:55 KST",
+  "last_run": "2026-10-01 16:05 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
