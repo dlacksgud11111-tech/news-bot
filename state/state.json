@@ -337,6 +337,26 @@
    "t": "건설연, 실시간 교량 안전성 평가 기술 개발...90% 이상 정확도 확보해 기술이전도 마쳐",
    "ts": 1790820283,
    "u": "https://www.etnews.com/20261001000198"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "서울파이낸스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "KBRA, 데이터센터 신용평가 글로벌 영향력 강조…율촌과 국내 세미나 열어 - 서울파이낸스",
+   "ts": 1790822289,
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtcWEwLXNWdVo1Zl8tUEhqZHFybnIxLV9LT1RJNEc4YkpSbGVpZmFFdlphQTZQOHhkTDgtTU5xS1ZKZnJEZHJ3b2JnN3VZNGxUWDYwX0Q0MV8xV2QyUFBQNkpfVjRhSnZKbGc?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "한국면세뉴스",
+   "sc": 20,
+   "sec": "전력기기",
+   "t": "LS일렉트릭, 美 AI 데이터센터에 초고압 변압기 공급…“2030년까지 9개 변전소에 납품” - 한국면세뉴스",
+   "ts": 1790822204,
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtU3M0VUtRbllhbTRGWTJ4SnVsSXhEelZKbE1pM3NyYXpKSDhVMk0zdk5LUWxEWmxsbFR5dEhNa1lPMldVUnl5WmRjNnY2ZjRkbm9tSXJSS0Jvc2R4NTFrZ0xqSnNoN1Zr?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1029,6 +1049,7 @@
   "124c94cd1f56d0d9": 1790058015,
   "124eca2d3e1c7b09": 1790554448,
   "1251440157069b90": 1790492713,
+  "12522f05eb9a13d5": 1790822722,
   "1254ef0867463b32": 1789627496,
   "12615d044a0ef2a3": 1790726668,
   "126ed3b494d20564": 1790584523,
@@ -1187,6 +1208,7 @@
   "15e9e08b32c5ba35": 1790570118,
   "15eea328cb78c71f": 1790264745,
   "15ef78491aa91016": 1790815835,
+  "15efcfd346d2a0a4": 1790822722,
   "15fca67551644586": 1789949125,
   "15ffa7aad0b13556": 1789735819,
   "15fff8e61da22ae1": 1790260520,
@@ -1922,6 +1944,7 @@
   "281a64f70a6c2d36": 1789692619,
   "2821b12599fbd811": 1789634416,
   "282882c9ed820e49": 1789951988,
+  "282b4b4bfda6da2a": 1790822722,
   "283b50fd635c110a": 1790174133,
   "28427b203254c9c7": 1790468355,
   "285136a0f60745dd": 1790658925,
@@ -6367,6 +6390,7 @@
   "9acdb86561cc6027": 1789634416,
   "9adda7ffecade760": 1790744723,
   "9ae23e20ed403e8f": 1790123718,
+  "9ae919bad4b383ea": 1790822722,
   "9af168f2b3ef862e": 1789724119,
   "9afce10796aef000": 1790352626,
   "9afdd3b2eabb9346": 1790125530,
@@ -9729,6 +9753,7 @@
   "f333858b0f311f86": 1789688119,
   "f3377d7ef4df9754": 1790116521,
   "f34390299b77da8f": 1790126420,
+  "f3500d42130c8281": 1790822722,
   "f35111d685c5772b": 1790572220,
   "f36b98e66a2d0c69": 1789979721,
   "f377310ce5ec3298": 1790664917,
@@ -10224,7 +10249,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790820322,
- "last_msg_poll": 1790822673,
+ "last_msg_poll": 1790822962,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10269,7 +10294,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 11:44 KST",
+  "last_run": "2026-10-01 11:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
