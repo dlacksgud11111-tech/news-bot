@@ -258,6 +258,26 @@
    "t": "LS일렉트릭, 북미 AI 데이터센터 변압기 수주 - 한스경제",
    "ts": 1790828239,
    "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45NU5ta1lDMWhpSWJNX3AxN2g2YTNpaTVaNm1PaEo2M1hUSm1nOUxpb1I3SHVicnBJOXZOWDFMV29RaHVRbm55YmRCcEYtaTdvQzV0em5DSjVHVEk5eE1zUHFtVWpHa09DeEt30gFvQVVfeXFMTUhDUDdSUzNDT1Q5a2hfNTQwVGhKcmItRGR1dXk3RGVib0FFV0dmOXNZaXVxWGRHVmVtQ1BSYkZMTWdBc19NLTlZdUEtbXhCYnVqbEVyUVZwQWNEcGtHT2pyaGhSWlFhVUZwZEtpckMw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "Shared grid connections concentrate battery insurance risk",
+   "ts": 1790868600,
+   "u": "https://www.pv-magazine.com/2026/10/01/shared-grid-connections-concentrate-battery-insurance-risk/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Data center in Kyiv, Ukraine, suffers \"critical damage\" and goes offline after Russian bomb attack",
+   "ts": 1790868545,
+   "u": "https://www.datacenterdynamics.com/en/news/data-center-in-kyiv-ukraine-suffers-critical-damage-and-goes-offline-after-russian-bomb-attack/"
   }
  ],
  "clip_titles": [],
@@ -3825,6 +3845,7 @@
   "530898b808c1209d": 1790833487,
   "530d322d6d770d73": 1790741117,
   "530d8c16b566fdcc": 1790561723,
+  "5310a4da705c771f": 1790868933,
   "5311e33c2874e1f2": 1789953723,
   "5328488a3224c8ed": 1790730658,
   "5329707df72fb07f": 1790040917,
@@ -6502,6 +6523,7 @@
   "9540be86bb85ad58": 1790031917,
   "9540f0781df092d9": 1790553024,
   "95473a75ba4d0cb5": 1789634116,
+  "954a57983834e372": 1790868933,
   "955ece5a3d8530ef": 1790139915,
   "9561c90e7a909a65": 1790148975,
   "956a40c63f77d27e": 1790562951,
@@ -10841,7 +10863,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790864727,
- "last_msg_poll": 1790868866,
+ "last_msg_poll": 1790869174,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10886,7 +10908,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 00:34 KST",
+  "last_run": "2026-10-02 00:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
