@@ -403,6 +403,16 @@
    "t": "[창간8주년-전력망 대전환⑦] AI·RE100이 바꾼 전력 수요···20년 된 전력시장 시험대 - smartbizn.com",
    "ts": 1790841600,
    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tdHoyTzcyUHltbkFCODdXZ0V5QTNNRHZuXzQ1M0VhXzNyZ295SExUSlJRSUpJZ0ZnSEZlY3NKbVZRWmx1NnRpQ1Vsa3A0RDZUeENCV2FncXVhdXFEQThqRXZSYXZuOE52aVRSTw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "에너지신문 - 전체기사",
+   "sc": 5,
+   "sec": "재생에너지·ESS",
+   "t": "태양광 수익을 마을로...‘주민 주도 에너지전환’ 논의의 장 열렸다",
+   "ts": 1790881370,
+   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228721"
   }
  ],
  "clip_titles": [],
@@ -8698,6 +8708,7 @@
   "c8f1acf015d4fddd": 1790065913,
   "c8f53c4e93d2e639": 1789727860,
   "c8f8293b6b123063": 1790341651,
+  "c8faba3a454de43f": 1790849432,
   "c8ffaf950d209793": 1790816717,
   "c902c8ff82bfd942": 1790728933,
   "c91206cad977cc65": 1789889765,
@@ -9666,6 +9677,7 @@
   "e1ae066c6fe0e8a3": 1790813716,
   "e1b169701031aa73": 1790044106,
   "e1baf44a263120b6": 1789627496,
+  "e1be418a5bbbe6c3": 1790849432,
   "e1bf77da561148d6": 1790836926,
   "e1c15bb3c02015c6": 1789954905,
   "e1c94f5a4a4740f6": 1789794287,
@@ -10924,7 +10936,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790842523,
- "last_msg_poll": 1790849357,
+ "last_msg_poll": 1790849673,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10969,7 +10981,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 19:09 KST",
+  "last_run": "2026-10-01 19:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
