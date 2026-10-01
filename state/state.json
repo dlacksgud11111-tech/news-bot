@@ -358,6 +358,16 @@
    "t": "How Data Center-Driven Load Growth Is Reshaping the Renewable Energy Market",
    "ts": 1790885563,
    "u": "https://www.powermag.com/how-data-center-driven-load-growth-is-reshaping-the-renewable-energy-market/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "글로벌이코노믹",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "日 최대 전력 JERA·美 델, 150억 달러 '화력발전소 직결형 AI 데이터센터' 구축 - 글로벌이코노믹",
+   "ts": 1790890500,
+   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVnZpLTl0OHJlQzFQd2w3c3RJVDNWcGJTR0dJUjhXeWZRa2ZscEFjZGF0NTQtakxBV3pINDBZYV9UZUpiMjItTW9IUVg3bUhVWXFaNmdiSC1BeEZaZHhhMENtajJUS1VacUpES0J3dzVoeVVGSlBPNkNIZGo5bmZacU1JS3VHZEdO?oc=5"
   }
  ],
  "clip_titles": [],
@@ -4988,6 +4998,7 @@
   "6c8b33c93f1afff4": 1790123718,
   "6c91adf2e6d52e26": 1789797679,
   "6c946b6d40881cd4": 1790457028,
+  "6c97e3f91798b778": 1790890822,
   "6c9b5162c18320ae": 1790561723,
   "6ca2043f5f895c81": 1790730658,
   "6ca30e25f9313153": 1790816419,
@@ -10978,7 +10989,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790864727,
- "last_msg_poll": 1790890765,
+ "last_msg_poll": 1790891068,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -11023,7 +11034,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 06:39 KST",
+  "last_run": "2026-10-02 06:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
