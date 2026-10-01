@@ -227,218 +227,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 3,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "POWER Magazine",
-   "sc": 5,
-   "sec": "전력기기",
-   "t": "The Grid Reliability Risk Hiding on High-Voltage Insulation",
-   "ts": 1790820445,
-   "u": "https://www.powermag.com/the-grid-reliability-risk-hiding-on-high-voltage-insulation/"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 5,
-   "s": "koreaittimes.com",
-   "sc": 22,
-   "sec": "전력기기",
-   "t": "LS일렉트릭, 북미 AI 데이터센터서 1800억원대 초고압 변압기 수주 - koreaittimes.com",
-   "ts": 1790820376,
-   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vMVlfYmg1cFR0NXk5cDJZVkcybXktMzY2bjZoM2M3LTA3aF9vbFd6RmluQ2tMZ1VTc29aQWJaQWpoQVMtQmpmem5ZeTgwc2NFUHVDZElsUzdJN2p0d0tzQ0ZtczFHYWVFamhWRGtDLWU?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴데일리",
-   "sc": 4,
-   "sec": "전력기기",
-   "t": "변압기 넘어 송전 핵심 기술까지 … 효성·LS·HD현대, 서해안 사업 시험대 올라 - 뉴데일리",
-   "ts": 1790819507,
-   "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1saUE4NTVEZHNxZTFvSWlSSTZzdk84TGJqeThiN0o4bExaVk04QXNjSVVtNTBQeVFVV3RwZmNMZHJoMmlPa1dqZktweWh6bW5NczlmOFRncDlCZlQtSGZqbXJWaFI4NEhXczRqWWpwS2oxdmkzQThZelBQa9IBgAFBVV95cUxOTVRWbHpENG5EYmJlcWJpQm5LdW5ZQ3p1cGVSeFVvXzlOcGpBQ09FTFM0VjN5bzQ0aVhLSUstOFllczJwek5IY2VXTXcwRXRHbFZtWkRKVFliX1k5bF82NHVESWJDZ2xnUHZVbzNLMHlRN1BWaHZDeUZ5UTM4MUVvZw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "태양광 모듈 이상 찾으면 현장 출동까지...라씨·커널로그, 운영관리망 연계",
-   "ts": 1790853023,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373011"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "마포구 망원동 재개발 신통기획 확정…1천550세대 주거단지",
-   "ts": 1790820903,
-   "u": "https://www.yna.co.kr/view/AKR20261001039400004"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "페로타임즈",
-   "sc": 10,
-   "sec": "전력기기",
-   "t": "정부, 차세대 전력망 확충·기술 국산화 속도…서해안 HVDC 핵심설비 개발 본격화 - 페로타임즈",
-   "ts": 1790821199,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Va2hMXy1heFhpZlF1Tmhmcl93NWU2VGdtdllJWS1UZHg3YUFyVFVXMlVIWVpKWloxYzhUZlVLZksyb1E4bjFlNlN4Q280dmdMblFhWl9YNkV4aWpUQXRGZTNVWlllSDBmSTJLTQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "edaily.co.kr",
-   "sc": 10,
-   "sec": "전력기기",
-   "t": "지투파워, AI 데이터센터 전력 수요 ‘배전반’까지 온다…“관급 1위 주목” - edaily.co.kr",
-   "ts": 1790820994,
-   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa3dLYWVlT2RyWFctWE9ZSTMyYmwtamRObDhoc2pBZllibzU1TVN3QVJUSnZpV3IzZjQxVnc2MkQwX1lOVUo1SW1oMjNlNmpzOHZwOGNHQW8xMW1iOUxBMExDeXNyZkt4aWZrbXhjN0tpaEl0cnNhNDhCOXpsczRJVg?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "스페셜경제",
-   "sc": 4,
-   "sec": "데이터센터·AI전력",
-   "t": "美 상원, 에너지 인허가 개혁 초당적 합의…AI 전력수요 대응 - 스페셜경제",
-   "ts": 1790820726,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yQmJadmhzUHlFSE5Qa2FtaTlXTWpBc3J4TE9NT09QemNBR0dYd2t0SHVRMHhTUm9BMkNPN2tPTEpYZ1Zrczl4eU9BUUQwajRYbFp1UVdPemFtWkJCcUNzX2xQUzZ5NG1rU0VHZw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "재생에너지·ESS",
-   "t": "정부, 7.9조 기업투자 조기 가동…전기차·수소·반도체 규제 완화",
-   "ts": 1790820484,
-   "u": "https://www.etnews.com/20261001000199"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "주간현대",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "현대엔지니어링, '군산 SGC AI 데이터센터 신축 사업' 수주로 AI 데이터센터 시장 본격 공략 나서 - 주간현대",
-   "ts": 1790820420,
-   "u": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1MVHJCVXZfRFM1eTNOUnRqVHQwVFlVM3VqdEVicU5HQk04OEh5RGFaMTdFQkRnb3FQb0JQS2xMZDVHRmc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "건설연, 실시간 교량 안전성 평가 기술 개발...90% 이상 정확도 확보해 기술이전도 마쳐",
-   "ts": 1790820283,
-   "u": "https://www.etnews.com/20261001000198"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "서울파이낸스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "KBRA, 데이터센터 신용평가 글로벌 영향력 강조…율촌과 국내 세미나 열어 - 서울파이낸스",
-   "ts": 1790822289,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtcWEwLXNWdVo1Zl8tUEhqZHFybnIxLV9LT1RJNEc4YkpSbGVpZmFFdlphQTZQOHhkTDgtTU5xS1ZKZnJEZHJ3b2JnN3VZNGxUWDYwX0Q0MV8xV2QyUFBQNkpfVjRhSnZKbGc?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 3,
-   "s": "한국면세뉴스",
-   "sc": 20,
-   "sec": "전력기기",
-   "t": "LS일렉트릭, 美 AI 데이터센터에 초고압 변압기 공급…“2030년까지 9개 변전소에 납품” - 한국면세뉴스",
-   "ts": 1790822204,
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtU3M0VUtRbllhbTRGWTJ4SnVsSXhEelZKbE1pM3NyYXpKSDhVMk0zdk5LUWxEWmxsbFR5dEhNa1lPMldVUnl5WmRjNnY2ZjRkbm9tSXJSS0Jvc2R4NTFrZ0xqSnNoN1Zr?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "dongascience.com",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "[대체불가 K테크] ⑤\"AI 데이터센터·3대 메가프로젝트 병용 에너지원에 수소가 제격\" - dongascience.com",
-   "ts": 1790822700,
-   "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tR1dsSDdHWDdtTUJLNUY0YUlOWVNubzU0VVVnSmZNR21kOVZDd0dsdDU2NjZjbVp6eWs0c0dYS0xyYUJ0cnQ0RkY5Y0dNdU92SHl5Wg?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "주간현대",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, 미국 신공장 신설·국내 생산라인 확충으로 AI 데이터센터 냉각 솔루션 생산능력 강화 - 주간현대",
-   "ts": 1790822520,
-   "u": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA4VVMwRG5neURoUnlUUmhQSnlyTFNKSEZqOHE3WEMza2xrOFh4YUlETkMtNXpkcjAtS1dEMjZ2Ym5BZ00?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy Connects",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "Biggest US Grid’s Data-Center Plan Accepted With 5-Month Pause - Energy Connects",
-   "ts": 1790744923,
-   "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbUF2dEI2eE9nZURjUDd6eEliZDJSQVdkRDZsTklUNWhjWldnQ3B5dVRRUUVnR2YzM24xLVBLdThvcXJBY29uWXZlRngzMDNadGlLaHVMYlhrOVR1VnlkYW9PSVN1WEltc1h2X1MyTUZ1bzQ3NVVKTWVjUjR6WldoYkViUHFUX2FWaGs2cE8ySml5bDZlcG4weUc4bnlfMUhKRlBrWUFTSGZyR3F3STlNOHZPZFhtR1BDNTRLLU5hcEZndw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 1,
-   "sec": "재생에너지·ESS",
-   "t": "배터리 내장 폐가전, 전용 수거함 8천개 추가 설치",
-   "ts": 1790855657,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303718"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "엠투데이",
-   "sc": 20,
-   "sec": "데이터센터·AI전력",
-   "t": "LS일렉트릭, 1800억 규모 북미 하이퍼스케일 데이터센터 전력설비 수주 - 엠투데이",
-   "ts": 1790824171,
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LbXZDdDVIWDBSZHZoSlBJREhLSWJXbloxckVzNVl6MTBEamg0c0RLSjRqQWhRMzJLTi1BVlpNdFNrdlp1ejM2SkFhSFpRMW9vSXdpMWpMZ0xQNEwyck56d3d4VlJUd3NPQU0xS0JlOA?oc=5"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 9,
-   "sec": "유틸리티·정책",
-   "t": "거제 수해·도서지역 전력공급 점검...한전, 재난 대응 보완",
-   "ts": 1790856959,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228701"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "비즈월드",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "[산업 HOT 뉴스] LG전자, AI 데이터센터 열 식히는 ‘칠러’ 공장 미국 버지니아에 신설 - 비즈월드",
-   "ts": 1790826240,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYRmFYSWVjc3RiWVlfVTA5eWk5S2xvWnZtRHNqai04VndIVHVjSzZ6Q19pbUZxMGhXVF9hdVFQN1doLWdHR3JiN1ZjUWJkNm1FbDRRN3RxMUI2RW5TY21Wd0FxS0VScjZzbXc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴스퀘스트",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, 미국 버지니아에 칠러 생산공장 신설…AI 데이터센터 냉각 솔루션 공급 확대 - 뉴스퀘스트",
-   "ts": 1790823717,
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93dXlISHZYSGViSklKM1hwa0FHZnFUQ1l1MVdUU09XTF9NOWk1VkVMLWxvUzdqRHZOU0R0dl9nUXpCM19hbkllRHM4UVQzc0EwS3drcW5Bejdzc3dJUDFOV1IycldER3FjUExmZlNpTQ?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "0003f98f6034d59c": 1790586316,
@@ -10431,8 +10220,8 @@
  },
  "companies_today": {},
  "day": "2026-10-01",
- "last_clip": 1790820322,
- "last_msg_poll": 1790827765,
+ "last_clip": 1790827817,
+ "last_msg_poll": 1790828058,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10477,7 +10266,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 13:09 KST",
+  "last_run": "2026-10-01 13:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
