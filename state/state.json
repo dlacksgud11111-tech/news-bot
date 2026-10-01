@@ -278,6 +278,16 @@
    "t": "Data center in Kyiv, Ukraine, suffers \"critical damage\" and goes offline after Russian bomb attack",
    "ts": 1790868545,
    "u": "https://www.datacenterdynamics.com/en/news/data-center-in-kyiv-ukraine-suffers-critical-damage-and-goes-offline-after-russian-bomb-attack/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 10,
+   "sec": "전력기기",
+   "t": "美 최대 전력망, AI 데이터센터 전력 경매 중단 - v.daum.net",
+   "ts": 1790805297,
+   "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EdmVKQWhhZUNyVlU2U0wyQVY1M2lMelRUVks5azFBcVJDLXkxQ1BsMFFydGh3ekhwejFsT291UXE3TjBTRWdVNW01dw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1570,6 +1580,7 @@
   "1ef89d23c11f06ba": 1790776839,
   "1f0104ce24478c59": 1789831819,
   "1f0e60a192b0cf7a": 1790041833,
+  "1f113968f39e9ca8": 1790871018,
   "1f147666ff05203c": 1789978815,
   "1f17a0ff4095069b": 1789965314,
   "1f1a3576641ac6a0": 1789627496,
@@ -10864,7 +10875,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790864727,
- "last_msg_poll": 1790870974,
+ "last_msg_poll": 1790871259,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10909,7 +10920,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 01:09 KST",
+  "last_run": "2026-10-02 01:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
