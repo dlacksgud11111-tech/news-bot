@@ -230,7 +230,7 @@
  "clip_buffer": [
   {
    "co": "LS일렉트릭",
-   "n": 1,
+   "n": 2,
    "s": "글로벌이코노믹",
    "sc": 12,
    "sec": "전력기기",
@@ -287,6 +287,16 @@
    "t": "EU 데이터센터 전력·물 사용량 비공개…탐사보도 단체 이의 제기 - AI 매터스",
    "ts": 1790828761,
    "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOQ09mdzBZZkJFZEhhMnNZQ1k4a3dHZDNoakhlcm9pTzJxaVVRWFViX3JVTHFTbVZJcHpFQ21LQktHc1Y2NHIzd2FTUE5MZ2YwRW9nMw?oc=5"
+  },
+  {
+   "co": "한국전력",
+   "n": 1,
+   "s": "투데이에너지 - 전체기사",
+   "sc": 15,
+   "sec": "유틸리티·정책",
+   "t": "한전-SK하이닉스, 전력공급 파트너십 구축",
+   "ts": 1790861703,
+   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303724"
   }
  ],
  "clip_titles": [],
@@ -1874,6 +1884,7 @@
   "27858b9b57111f52": 1790822117,
   "278eb22477f75d72": 1790025209,
   "27906faf3b798322": 1789967690,
+  "2790a67be067b968": 1790829624,
   "27920a773f8d0082": 1790745919,
   "2798757f18619f0b": 1789627496,
   "279a4185f1d389eb": 1789796557,
@@ -4060,6 +4071,7 @@
   "5cb06eb310521aea": 1790648426,
   "5cb2f607b0cd5ec7": 1789627496,
   "5cb66a164bdbc7a2": 1789627496,
+  "5cb932e5cff3f441": 1790829624,
   "5cb9351cfca48e02": 1790820322,
   "5cc0d3c38a5e4d77": 1790284148,
   "5cc64686858264c1": 1790583021,
@@ -10322,7 +10334,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790827817,
- "last_msg_poll": 1790829561,
+ "last_msg_poll": 1790829868,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10367,7 +10379,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 13:39 KST",
+  "last_run": "2026-10-01 13:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
