@@ -263,6 +263,16 @@
    "t": "LS일렉트릭, 미국 데이터센터에 1800억원 규모 초고압 변압기 공급 - 미디어데일",
    "ts": 1790865382,
    "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDYmU5ZExBb2J1aklBNXUwXzVoNUl3NnR6UFRaMzRGTm9pUnRyZHRpUFVjZlJoQnd4Skx3emZpeENtTVBJa2Y4UTQxLV9LeXF3NlEtRlJ2c0ZwZ053MFFTOVFueGdZdnpsMmlv?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "m-economynews.com",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "구글 TPU 실은 위성 우주로...빅테크 ‘우주 데이터센터’ 경쟁 본격화 - m-economynews.com",
+   "ts": 1790894608,
+   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CdHdncGdaWHY1cFpUVWNOWXd1VUhlSWlSaHRpRVdZN0x5NXN2ME53dHZiMi0wMnpOSmpGODNoOXNKRGlJN1pmdVZFNDRzUVlxMzJoMF93WW8yZjJiX3VRYjFjSmJvWDA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -9320,6 +9330,7 @@
   "da0651d2d39d23c1": 1790048174,
   "da069d1f452c03c5": 1789627496,
   "da0cd149fec3720a": 1790838638,
+  "da10cc537c7f9973": 1790895099,
   "da139cdb0bf70eff": 1790661331,
   "da147923327943c6": 1790148975,
   "da14bfb45469e81e": 1790732413,
@@ -10891,7 +10902,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790892282,
- "last_msg_poll": 1790894778,
+ "last_msg_poll": 1790895339,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10936,7 +10947,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 07:46 KST",
+  "last_run": "2026-10-02 07:55 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
