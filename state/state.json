@@ -243,178 +243,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 6,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "아시아투데이",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "김성환 “AI데이터센터 요금 신설…일반에 부담 전가 안해” - 아시아투데이",
-   "ts": 1790842532,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02eld3NTA4cUM3cXlnd1JWTkRmYVR2bWwyVGk2X3lHSnMxWmIwYmZwaTZsUHY1MEUxbjJSMGxsSWJta1hBVXhYaHJrU3JqYmxiakpqclhrOEFwZC1HWDJuVFJRTlBkZmlwY0pROEdB?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 8,
-   "sec": "재생에너지·ESS",
-   "t": "남부발전 ‘재생에너지 네트워킹 데이’ 개최",
-   "ts": 1790874297,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303754"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 10,
-   "sec": "유틸리티·정책",
-   "t": "한전, 4분기 전기요금 동결",
-   "ts": 1790873271,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303750"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 8,
-   "sec": "재생에너지·ESS",
-   "t": "에너지공단, ‘지역사회 재생에너지 전환’ 국제사회와 모색",
-   "ts": 1790872571,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303749"
-  },
-  {
-   "co": "한전KPS",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 19,
-   "sec": "유틸리티·정책",
-   "t": "한전KPS '에너지 JOB 박람회'서 청년취업 지원",
-   "ts": 1790871328,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303748"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 12,
-   "sec": "유틸리티·정책",
-   "t": "한전 김동철 사장, 수해지역 전력복구 등 현장 경영 강화",
-   "ts": 1790870734,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303747"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 8,
-   "sec": "유틸리티·정책",
-   "t": "한전KDN, 이젝스·엔콜에이아이와 AI 기반 신사업 추진",
-   "ts": 1790869811,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303746"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "Sungrow completes 108MW grid-forming battery storage system with black start capability in Cambodia",
-   "ts": 1790843464,
-   "u": "https://www.energy-storage.news/sungrow-completes-108mw-grid-forming-battery-storage-system-with-black-start-capability-in-cambodia/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "법무법인 세종",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "법무법인(유) 세종, ‘AIDC 인프라센터’ 출범 AI·반도체·데이터센터 3대 메가프로젝트 통합 대응 - 법무법인 세종",
-   "ts": 1790843327,
-   "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TeXE4Nmw0ZUZ6bVlYWGZHd2FOUXJ0aXQzUkRWZ2J1WTNLM2NCdlhMb3RMOVAtSWVWWUZuS2ZzX1h0TGd0YVN5VHlxWDJXbjdKRUFaZEI5Wk4?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일경제 : 경제",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "\"태양광 발전설비 매년 10GW 이상 늘어날 것\"",
-   "ts": 1790843835,
-   "u": "https://www.mk.co.kr/news/economy/12166347"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴스엔뷰",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, 글로벌 칠러 생산능력 대폭 확대…AI 데이터센터 냉각 시장 공략 박차 - 뉴스엔뷰",
-   "ts": 1790843499,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DOFFOUkdiV0N6UkRXZ2dNX3FwamVNdjhjLUlNNFdzZHcxZXRpbVh1dVpidkI3eVFaRWxsaXpZZm8xekZRenE0YjRIRmdpazBIXy1SMlNXNUsxcWNQRk9tN21jaXg?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 3,
-   "s": "이지경제",
-   "sc": 16,
-   "sec": "전력기기",
-   "t": "LS일렉트릭, 美 AI 데이터센터에 1800억 규모 초고압 변압기 공급 - 이지경제",
-   "ts": 1790843413,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHenI3aFExWVlGZHZNWHQ5N2FuVWVURHU0UlZLblJ4eEcwTWV0djRsY2laaVFIVzVLQlB2blJlalRURTRYUWVub05leG5tWjNDVm5oMkdic1V1UHBGYWF6OGdTRzgtdEs0YkZGcnhB?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "news.kbs.co.kr",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "[집중취재] AI 데이터센터, 지역 숙제 산적…전력·물 우려 넘어야 - news.kbs.co.kr",
-   "ts": 1790772660,
-   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKT2RKVFRrWTZuRVRtYUlNcHJ1U3RTVHRGTFRROUFuRHFySDE3QTJOQmRIRmJoZDJ3YzNIZDN3emhGVncyaWhDQ1pmS1hET3BoUUM0TDZja3RodHpqekNHNmJMZlRJdw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 5,
-   "sec": "전력기기",
-   "t": "후버앤수너, 철도 디지털 전환 겨냥한 고성능·고신뢰 케이블 솔루션 제시",
-   "ts": 1790879078,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372990"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "당진신문",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "\"당진은 AI 데이터센터 실험장이 아니다\" - 당진신문",
-   "ts": 1790848220,
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95WHZJOGpZUVJSaTg5YWxJWTljRXFwWm45dzAxSkZ2VWdMczNHTUlhZHR5TmJnbTlQcFpEdkRSUGNQdGdrcFJtRnFzUFVxNlpBU1N1LVJtTFYtSmhvZnFYbGtwOGxuS1lM?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "smartbizn.com",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "[창간8주년-전력망 대전환⑦] AI·RE100이 바꾼 전력 수요···20년 된 전력시장 시험대 - smartbizn.com",
-   "ts": 1790841600,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tdHoyTzcyUHltbkFCODdXZ0V5QTNNRHZuXzQ1M0VhXzNyZ295SExUSlJRSUpJZ0ZnSEZlY3NKbVZRWmx1NnRpQ1Vsa3A0RDZUeENCV2FncXVhdXFEQThqRXZSYXZuOE52aVRSTw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 5,
-   "sec": "재생에너지·ESS",
-   "t": "태양광 수익을 마을로...‘주민 주도 에너지전환’ 논의의 장 열렸다",
-   "ts": 1790881370,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228721"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "0003f98f6034d59c": 1790586316,
@@ -3211,6 +3040,7 @@
   "41d5043f20a440a7": 1789627496,
   "41d93969d865a1e3": 1790581516,
   "41e24803ebf30f3c": 1790135717,
+  "41e6f63b1545bdde": 1790850029,
   "41f62fe1cdbbb2c7": 1790670626,
   "4202c0ed6300d2aa": 1790053820,
   "420bc8105dfe0280": 1789951988,
@@ -10937,8 +10767,8 @@
  },
  "companies_today": {},
  "day": "2026-10-01",
- "last_clip": 1790842523,
- "last_msg_poll": 1790849960,
+ "last_clip": 1790850029,
+ "last_msg_poll": 1790850272,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10983,7 +10813,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 19:19 KST",
+  "last_run": "2026-10-01 19:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
