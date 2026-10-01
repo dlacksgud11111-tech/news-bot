@@ -342,6 +342,16 @@
    "t": "미, 두 번째 상업용 SMR 승인...\"데이터센터 전력수요 대응\" - YTN 사이언스",
    "ts": 1790751718,
    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOXliUGU3WUk2ZVo3N1NJT1VUSGRxdlI1YXMzZzZlWEdzZmlHZENyeUF5WDZScko0ZUtmdXhKNFluOXhMcHpqblY4UFd5NjJlSWpjZGFSd1NoS2ZLUUJyY0ZoR1lMZW5mRnVVenZwLWtuT0VsMXlqc19JaTd2cGJnOWFUcm0?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "디지틀조선TV",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, 칠러 생산능력 확대에 1500억원 투자…AI 데이터센터 시장 공략 가속 - 디지틀조선TV",
+   "ts": 1790815260,
+   "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mY1VzWHJVdXNuTEFlajd6MlpqSFpnOWotZHNnMEtOdXZUdk1uQkRfRHdVZnNuLWlxX0lqVTY2OWw5cS1jZGx1d0R5Y25TLThjUzhYNDBRX3JRdkwtTFJaMVhrekk3MFFNY3JzVGM5SDFJM1NZdi0tcDFvOTg?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1170,6 +1180,7 @@
   "15e585cf05a84056": 1790128524,
   "15e9e08b32c5ba35": 1790570118,
   "15eea328cb78c71f": 1790264745,
+  "15ef78491aa91016": 1790815835,
   "15fca67551644586": 1789949125,
   "15ffa7aad0b13556": 1789735819,
   "15fff8e61da22ae1": 1790260520,
@@ -2241,6 +2252,7 @@
   "30ec695c1566c10e": 1790044106,
   "30fb07d3554c3e53": 1790646328,
   "3108bb2f5b9be096": 1790734218,
+  "310d9e67e8b3d0d8": 1790815835,
   "311ca1fce6254eae": 1790295093,
   "3124038e15d49cfc": 1790692523,
   "312c27c61742795c": 1789980627,
@@ -5191,6 +5203,7 @@
   "7dd226875dc96545": 1790562951,
   "7dd7b22845e50210": 1790042975,
   "7ddd02d47b003b07": 1789936978,
+  "7df337fef4e18be1": 1790815835,
   "7df8350ee5c8179c": 1790743524,
   "7df8f6a3f4dcdf95": 1790474714,
   "7dfc993a97845b87": 1790067063,
@@ -8147,6 +8160,7 @@
   "cf3e647c8dd28222": 1790748925,
   "cf3feb0c06959da1": 1789708498,
   "cf42862b904e9440": 1790340495,
+  "cf432061d4e37af4": 1790815835,
   "cf4475273786f799": 1790649614,
   "cf54a9a988c81e2a": 1790647519,
   "cf6841b4dd25b50d": 1790735693,
@@ -9966,7 +9980,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790813121,
- "last_msg_poll": 1790815769,
+ "last_msg_poll": 1790816076,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10011,7 +10025,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 09:49 KST",
+  "last_run": "2026-10-01 09:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
