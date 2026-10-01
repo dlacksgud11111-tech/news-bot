@@ -253,6 +253,16 @@
    "t": "South Korea grid overhaul to connect more than 100 GW of renewables",
    "ts": 1790857800,
    "u": "https://www.pv-magazine.com/2026/10/01/south-korea-grid-overhaul-to-connect-more-than-100-gw-of-renewables/"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "사회적경제뉴스",
+   "sc": 16,
+   "sec": "전력기기",
+   "t": "LS일렉트릭, 미국 데이터센터에 1,800억 원 규모 초고압 변압기 공급 - 사회적경제뉴스",
+   "ts": 1790836140,
+   "u": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5pZ2F0V2IzSXpqV2lPZndDMmYzdE9TeW9STEFtTE43bjljUnNuaVNrM3daeWdjN3E1Y19nTjJXcw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -5106,6 +5116,7 @@
   "72a536b128b7b6f4": 1790743524,
   "72adf17f0c57d91d": 1790729518,
   "72b8782ea616ab0e": 1790827519,
+  "72bf044599ecfd06": 1790858601,
   "72c5dcc7e2b10283": 1790478918,
   "72cf9f635229eb73": 1789978521,
   "72df3928bae3dc1b": 1790044716,
@@ -10813,7 +10824,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790857449,
- "last_msg_poll": 1790858267,
+ "last_msg_poll": 1790858842,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10858,7 +10869,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 21:37 KST",
+  "last_run": "2026-10-01 21:47 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
