@@ -248,108 +248,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 7,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 7,
-   "sec": "전력기기",
-   "t": "South Korea grid overhaul to connect more than 100 GW of renewables",
-   "ts": 1790857800,
-   "u": "https://www.pv-magazine.com/2026/10/01/south-korea-grid-overhaul-to-connect-more-than-100-gw-of-renewables/"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 2,
-   "s": "사회적경제뉴스",
-   "sc": 16,
-   "sec": "전력기기",
-   "t": "LS일렉트릭, 미국 데이터센터에 1,800억 원 규모 초고압 변압기 공급 - 사회적경제뉴스",
-   "ts": 1790836140,
-   "u": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5pZ2F0V2IzSXpqV2lPZndDMmYzdE9TeW9STEFtTE43bjljUnNuaVNrM3daeWdjN3E1Y19nTjJXcw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "DCD Survey: Data center construction",
-   "ts": 1790859520,
-   "u": "https://www.datacenterdynamics.com/en/research/dcd-survey-data-center-construction/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 7,
-   "sec": "전력기기",
-   "t": "Maharashtra’s regulator proposes mandatory BESS for renewable projects seeking grid connectivity in Indian state",
-   "ts": 1790859845,
-   "u": "https://www.energy-storage.news/maharashtras-regulator-proposes-mandatory-bess-for-renewable-projects-seeking-grid-connectivity-in-indian-state/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 3,
-   "sec": "재생에너지·ESS",
-   "t": "Major US partnerships may signal battery storage’s infrastructure era",
-   "ts": 1790860543,
-   "u": "https://www.energy-storage.news/major-us-partnerships-may-signal-battery-storages-infrastructure-era/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Investing.com 한국어",
-   "sc": 12,
-   "sec": "데이터센터·AI전력",
-   "t": "Enerflex, 450MW 데이터센터 전력 공급 계약 체결에 주가 급등 - Investing.com 한국어",
-   "ts": 1790860140,
-   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00QnZpUVBRdHY0eDJtZjJvUlo2VVJTNXY2OEVFWkV0Y2ZSR1YwR0pTSm9KTElDYUFRY0NPSEltbWFmVWkwalBOLS1xQjhJRzFQMkVWRkVJTDh2c3hXNFhOUXM2V0hjeldTa241YTVYWnY?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 4,
-   "sec": "전력기기",
-   "t": "Looking beyond peak: Industry coalition floats new approach to measuring grid utilization",
-   "ts": 1790861042,
-   "u": "https://www.utilitydive.com/news/looking-beyond-peak-how-measure-grid-utilization/831533/"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "얼리어답터뉴스",
-   "sc": 22,
-   "sec": "전력기기",
-   "t": "LS일렉트릭, 북미 AI 데이터센터 초고압 변압기 1억 3천만 달러 대형 수주 - 얼리어답터뉴스",
-   "ts": 1790840571,
-   "u": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pNy1KUi1ZeU5palR3N21DSDBReVZmMWlmdDh0WExlUl83bW9RV3d2RFFqYlcwUjFqU21idTQwaTlZTlRUSlpKQTZR?oc=5"
-  },
-  {
-   "co": "Schneider Electric",
-   "n": 1,
-   "s": "2news.co.kr",
-   "sc": 10,
-   "sec": "데이터센터·AI전력",
-   "t": "슈나이더·바르실라·스탠리, 미국 데이터센터 전력 구축 가속화 - 2news.co.kr",
-   "ts": 1790862350,
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HR0REeG45QzNHOGF1Y3dEZHEzZWZCenU1VlFRWWZYdU41ejRvM3JzMGFjZjhWbkNqZ1hJMG9zY192dE5CWXNfRk01S25ob2sxbFRQNFdacnNKZi16RzNTblNSMWZBeTRa?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "U.S. small-scale solar adds 1.6 GW in Q2",
-   "ts": 1790863941,
-   "u": "https://www.pv-magazine.com/2026/10/01/u-s-small-scale-solar-adds-1-6-gw-in-q2-2026-as-fossil-fuel-capacity-surges/"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -4541,6 +4440,7 @@
   "624ee8fbd740fc3e": 1790074217,
   "62521d6bcd5ed3ce": 1790044716,
   "62563bcc2364f387": 1790471761,
+  "625e8fa1535a29a9": 1790864727,
   "62634506a2410cf0": 1790073620,
   "6263a612be66c588": 1789627496,
   "626946d1dcef487d": 1790338169,
@@ -10925,8 +10825,8 @@
  },
  "companies_today": {},
  "day": "2026-10-01",
- "last_clip": 1790857449,
- "last_msg_poll": 1790864665,
+ "last_clip": 1790864727,
+ "last_msg_poll": 1790864971,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10971,7 +10871,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 23:24 KST",
+  "last_run": "2026-10-01 23:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
