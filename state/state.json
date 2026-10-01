@@ -277,6 +277,36 @@
    "t": "마포구 망원동 재개발 신통기획 확정…1천550세대 주거단지",
    "ts": 1790820903,
    "u": "https://www.yna.co.kr/view/AKR20261001039400004"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "페로타임즈",
+   "sc": 10,
+   "sec": "전력기기",
+   "t": "정부, 차세대 전력망 확충·기술 국산화 속도…서해안 HVDC 핵심설비 개발 본격화 - 페로타임즈",
+   "ts": 1790821199,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Va2hMXy1heFhpZlF1Tmhmcl93NWU2VGdtdllJWS1UZHg3YUFyVFVXMlVIWVpKWloxYzhUZlVLZksyb1E4bjFlNlN4Q280dmdMblFhWl9YNkV4aWpUQXRGZTNVWlllSDBmSTJLTQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "edaily.co.kr",
+   "sc": 10,
+   "sec": "전력기기",
+   "t": "지투파워, AI 데이터센터 전력 수요 ‘배전반’까지 온다…“관급 1위 주목” - edaily.co.kr",
+   "ts": 1790820994,
+   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa3dLYWVlT2RyWFctWE9ZSTMyYmwtamRObDhoc2pBZllibzU1TVN3QVJUSnZpV3IzZjQxVnc2MkQwX1lOVUo1SW1oMjNlNmpzOHZwOGNHQW8xMW1iOUxBMExDeXNyZkt4aWZrbXhjN0tpaEl0cnNhNDhCOXpsczRJVg?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "스페셜경제",
+   "sc": 4,
+   "sec": "데이터센터·AI전력",
+   "t": "美 상원, 에너지 인허가 개혁 초당적 합의…AI 전력수요 대응 - 스페셜경제",
+   "ts": 1790820726,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yQmJadmhzUHlFSE5Qa2FtaTlXTWpBc3J4TE9NT09QemNBR0dYd2t0SHVRMHhTUm9BMkNPN2tPTEpYZ1Zrczl4eU9BUUQwajRYbFp1UVdPemFtWkJCcUNzX2xQUzZ5NG1rU0VHZw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3967,6 +3997,7 @@
   "5c4b456a2c662ce0": 1789734932,
   "5c4dc2360ec368a9": 1789686930,
   "5c5145ffe2da9f88": 1790049332,
+  "5c578747613787fb": 1790821531,
   "5c621d2fb15d4bf1": 1789954905,
   "5c6469b68c54cc29": 1790067063,
   "5c6f4ba96b14de0d": 1790553316,
@@ -4154,6 +4185,7 @@
   "6145fb8378f523fc": 1790035428,
   "614e39333dbec737": 1790646615,
   "6160ea66bb07023e": 1790492713,
+  "616a9771af508dd2": 1790821531,
   "61738fa0a0db821b": 1790284148,
   "617cc9ae9f4193e8": 1789707615,
   "618304375bfd7c71": 1790557916,
@@ -5841,6 +5873,7 @@
   "8e3ae65cf13f1b51": 1790668221,
   "8e3f6ef256aa94f1": 1789679720,
   "8e464bd01fe104b1": 1789630519,
+  "8e46952d769f9770": 1790821531,
   "8e4db77014df0594": 1790065327,
   "8e55f2b06dded70f": 1789652129,
   "8e605741be735460": 1790568321,
@@ -10129,7 +10162,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790820322,
- "last_msg_poll": 1790821470,
+ "last_msg_poll": 1790821782,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10174,7 +10207,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 11:24 KST",
+  "last_run": "2026-10-01 11:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
