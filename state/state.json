@@ -256,7 +256,7 @@
   },
   {
    "co": "LS일렉트릭",
-   "n": 1,
+   "n": 2,
    "s": "뉴스N연합",
    "sc": 22,
    "sec": "전력기기",
@@ -313,6 +313,16 @@
    "t": "Ireland energizes first SRESS solar farm, opening new revenue opportunities for farmers and landowners",
    "ts": 1790853300,
    "u": "https://www.pv-magazine.com/2026/10/01/ireland-energizes-first-sress-solar-farm-opening-new-revenue-opportunities-for-farmers-and-landowners/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "천지일보",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "“AI 경쟁력, 모델만으론 부족”… GPU 넘어 데이터센터·클라우드로 - 천지일보",
+   "ts": 1790855507,
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QemNXNFA0aXM5Z05YMmhBUlprNWlOOS1EVE1oa1lrV0QzanZpWDBwT0RzNERTU0JYZGRFbjNialFscVhodF9WY2NSdDJqdDlLUE9zSEx4TXdOUEVMWXFBbnJrMDYzYWQwZ1E?oc=5"
   }
  ],
  "clip_titles": [],
@@ -344,6 +354,7 @@
   "00b0a0a000cda003": 1790747118,
   "00b35aabe6474805": 1790751916,
   "00b73c74661741fb": 1789707915,
+  "00b83267dd20ef61": 1790856846,
   "00c70be52df0f20b": 1790556223,
   "00c71b94b540b63c": 1790747118,
   "00ca376e3ace4d53": 1789632918,
@@ -10483,6 +10494,7 @@
   "f6ea44b6a52738d2": 1790371245,
   "f6ea56e8b93a6269": 1790726668,
   "f6ec9e98a71b0934": 1790035999,
+  "f6ee41e8a91f7992": 1790856846,
   "f706c26ab75d2dd9": 1789974322,
   "f710e639d372adfb": 1789765932,
   "f71318736637fc73": 1789700729,
@@ -10868,7 +10880,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790850029,
- "last_msg_poll": 1790856515,
+ "last_msg_poll": 1790857090,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10913,7 +10925,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 21:08 KST",
+  "last_run": "2026-10-01 21:18 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
