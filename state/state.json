@@ -227,7 +227,38 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 3,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "POWER Magazine",
+   "sc": 5,
+   "sec": "전력기기",
+   "t": "The Grid Reliability Risk Hiding on High-Voltage Insulation",
+   "ts": 1790820445,
+   "u": "https://www.powermag.com/the-grid-reliability-risk-hiding-on-high-voltage-insulation/"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "koreaittimes.com",
+   "sc": 22,
+   "sec": "전력기기",
+   "t": "LS일렉트릭, 북미 AI 데이터센터서 1800억원대 초고압 변압기 수주 - koreaittimes.com",
+   "ts": 1790820376,
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vMVlfYmg1cFR0NXk5cDJZVkcybXktMzY2bjZoM2M3LTA3aF9vbFd6RmluQ2tMZ1VTc29aQWJaQWpoQVMtQmpmem5ZeTgwc2NFUHVDZElsUzdJN2p0d0tzQ0ZtczFHYWVFamhWRGtDLWU?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴데일리",
+   "sc": 4,
+   "sec": "전력기기",
+   "t": "변압기 넘어 송전 핵심 기술까지 … 효성·LS·HD현대, 서해안 사업 시험대 올라 - 뉴데일리",
+   "ts": 1790819507,
+   "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1saUE4NTVEZHNxZTFvSWlSSTZzdk84TGJqeThiN0o4bExaVk04QXNjSVVtNTBQeVFVV3RwZmNMZHJoMmlPa1dqZktweWh6bW5NczlmOFRncDlCZlQtSGZqbXJWaFI4NEhXczRqWWpwS2oxdmkzQThZelBQa9IBgAFBVV95cUxOTVRWbHpENG5EYmJlcWJpQm5LdW5ZQ3p1cGVSeFVvXzlOcGpBQ09FTFM0VjN5bzQ0aVhLSUstOFllczJwek5IY2VXTXcwRXRHbFZtWkRKVFliX1k5bF82NHVESWJDZ2xnUHZVbzNLMHlRN1BWaHZDeUZ5UTM4MUVvZw?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "0003f98f6034d59c": 1790586316,
@@ -2818,6 +2849,7 @@
   "4109dbf6a30b322d": 1790496322,
   "410bc88ca2d5c629": 1790818835,
   "410d6522983ce820": 1789956049,
+  "410f6a4d2416983c": 1790820617,
   "411114cc86410fc0": 1790592618,
   "411389a76a21626c": 1790550621,
   "4119e2224c020c87": 1790757639,
@@ -3093,6 +3125,7 @@
   "471f29a7cbd90930": 1790577419,
   "4724492b077a0175": 1790816717,
   "472698ff8bfa7532": 1789738532,
+  "47300b323923ec03": 1790820617,
   "473b763f26cda74c": 1789945939,
   "473ec138ed7afb32": 1790563529,
   "47424ab93c55efce": 1789962027,
@@ -3137,6 +3170,7 @@
   "4860cba46569565c": 1790751916,
   "486165b605193f54": 1790820021,
   "48649dbb304b259f": 1790816717,
+  "4867ed3f719888fe": 1790820617,
   "486cb3208d003b5f": 1790661915,
   "48774b590f8a171c": 1790642222,
   "487decabfea19da9": 1789954327,
@@ -4494,6 +4528,7 @@
   "6be8422a29f95f5a": 1790126420,
   "6bf660553171a76d": 1790064758,
   "6bf9d713a6673782": 1790661915,
+  "6c03cc9b85e799b2": 1790820617,
   "6c10e9cf21e127f9": 1790134531,
   "6c22e3d7430e56d0": 1789693531,
   "6c24f5c2fcd91688": 1790626879,
@@ -4836,6 +4871,7 @@
   "7531fd1c2ad71cee": 1790743524,
   "753e4177d2e94084": 1790058917,
   "7541f789a18b24e9": 1789870063,
+  "7544e1e430b9ba01": 1790820617,
   "75542ccba74b02e1": 1790596769,
   "755bf5b3df8aa39e": 1789695321,
   "7566577933604c78": 1790561723,
@@ -7859,6 +7895,7 @@
   "c52acdc3eae1e90f": 1790661915,
   "c52caf673c0cc5a0": 1790661915,
   "c5341269173c09f4": 1790734218,
+  "c53b7ce6d6139444": 1790820617,
   "c53f74f6cf04ebe9": 1790561723,
   "c551f3df31ef6eb8": 1789706118,
   "c558fcb8c68e4d41": 1789627496,
@@ -9174,6 +9211,7 @@
   "e8d3c073903cf501": 1789782122,
   "e8efb8c3245cbb55": 1789956616,
   "e8f0c782c6168d66": 1790321210,
+  "e8f0ff4510dc0b8a": 1790820617,
   "e8f49d58e18f7697": 1790067063,
   "e9008ad5d676f854": 1790654845,
   "e90545c896f668f1": 1790642813,
@@ -10052,7 +10090,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790820322,
- "last_msg_poll": 1790820566,
+ "last_msg_poll": 1790820858,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10097,7 +10135,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 11:09 KST",
+  "last_run": "2026-10-01 11:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
