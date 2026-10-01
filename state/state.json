@@ -298,6 +298,16 @@
    "t": "[GAM] 제네락 ② 월가 목표가 줄상향...\"데이터센터 성장 엔진 확인\" - 뉴스핌",
    "ts": 1790866579,
    "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PX0J6V2JiZFpibEdSUV9LRnl3cXhuWnZkblFxUDFZRWh6Z1Rqemk2MGUxZnFmOUVpQktyeTNxTlQtcTVaYjNkV1c5NWgtRV9WbmJ6Qk1KbzR0WXFM?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 5,
+   "sec": "재생에너지·ESS",
+   "t": "NYPA to own 51% of 240-MW solar project with EDF",
+   "ts": 1790863040,
+   "u": "https://www.utilitydive.com/news/nypa-240-mw-solar-project-edf-rich-road/831878/"
   }
  ],
  "clip_titles": [],
@@ -4719,6 +4729,7 @@
   "67cecc4cbb0a1f5c": 1789975519,
   "67d1e7680cd65026": 1789629088,
   "67d33d1460f70fd4": 1789954905,
+  "67d793b79d1bced2": 1790873416,
   "67dd58c305a63c73": 1790735693,
   "67ea5c41670615f9": 1789627496,
   "67eb5e22936de5bb": 1790750123,
@@ -5857,6 +5868,7 @@
   "83e45c10f0529e90": 1789975218,
   "83e66e6d303185fc": 1790035428,
   "83e70ea5ac17c29a": 1790649324,
+  "83eb7456a078d546": 1790873416,
   "83f53abb27d63df4": 1789892428,
   "83fdb2a6e64aeeb8": 1789720817,
   "83ff03911f50edff": 1789967119,
@@ -10893,7 +10905,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790864727,
- "last_msg_poll": 1790873363,
+ "last_msg_poll": 1790873665,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10938,7 +10950,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 01:49 KST",
+  "last_run": "2026-10-02 01:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
