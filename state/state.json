@@ -407,6 +407,16 @@
    "t": "LS일렉트릭, 1800억 규모 북미 하이퍼스케일 데이터센터 전력설비 수주 - 엠투데이",
    "ts": 1790824171,
    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LbXZDdDVIWDBSZHZoSlBJREhLSWJXbloxckVzNVl6MTBEamg0c0RLSjRqQWhRMzJLTi1BVlpNdFNrdlp1ejM2SkFhSFpRMW9vSXdpMWpMZ0xQNEwyck56d3d4VlJUd3NPQU0xS0JlOA?oc=5"
+  },
+  {
+   "co": "한국전력",
+   "n": 1,
+   "s": "에너지신문 - 전체기사",
+   "sc": 9,
+   "sec": "유틸리티·정책",
+   "t": "거제 수해·도서지역 전력공급 점검...한전, 재난 대응 보완",
+   "ts": 1790856959,
+   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228701"
   }
  ],
  "clip_titles": [],
@@ -4670,6 +4680,7 @@
   "69dd02cbda4266ca": 1790653090,
   "69dd3abffc94ff49": 1790055317,
   "69e4c865890ef908": 1790747118,
+  "69e67249ae964633": 1790825122,
   "69f501b4f5afa206": 1790039473,
   "6a17116c3d5f650f": 1789718720,
   "6a182c9dcfe48f4f": 1790318936,
@@ -5196,6 +5207,7 @@
   "77bc828f716ab7e1": 1790748320,
   "77c4be3f61b0adfc": 1789627496,
   "77c7dd07537bd4af": 1790498418,
+  "77dcd6c986562451": 1790825122,
   "77ddb583084994c8": 1790716383,
   "77e0f2a1525e1af5": 1789706118,
   "77e61f5d743e564c": 1789958121,
@@ -9859,6 +9871,7 @@
   "f2ce077b142224a2": 1789951988,
   "f2d92cf076f8dd0c": 1790589919,
   "f2da9a5888aa3dbb": 1790267598,
+  "f2e307cbe876aab0": 1790825122,
   "f2e6db1ab118a6af": 1790742018,
   "f2e7a22438287d5b": 1789627496,
   "f2ecbae9e3f43831": 1790384721,
@@ -10373,7 +10386,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790820322,
- "last_msg_poll": 1790825068,
+ "last_msg_poll": 1790825363,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10418,7 +10431,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 12:24 KST",
+  "last_run": "2026-10-01 12:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
