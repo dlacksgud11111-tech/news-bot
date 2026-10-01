@@ -240,7 +240,7 @@
   },
   {
    "co": "LS일렉트릭",
-   "n": 3,
+   "n": 4,
    "s": "koreaittimes.com",
    "sc": 22,
    "sec": "전력기기",
@@ -350,13 +350,23 @@
   },
   {
    "co": "LS일렉트릭",
-   "n": 1,
+   "n": 3,
    "s": "한국면세뉴스",
    "sc": 20,
    "sec": "전력기기",
    "t": "LS일렉트릭, 美 AI 데이터센터에 초고압 변압기 공급…“2030년까지 9개 변전소에 납품” - 한국면세뉴스",
    "ts": 1790822204,
    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtU3M0VUtRbllhbTRGWTJ4SnVsSXhEelZKbE1pM3NyYXpKSDhVMk0zdk5LUWxEWmxsbFR5dEhNa1lPMldVUnl5WmRjNnY2ZjRkbm9tSXJSS0Jvc2R4NTFrZ0xqSnNoN1Zr?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "dongascience.com",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "[대체불가 K테크] ⑤\"AI 데이터센터·3대 메가프로젝트 병용 에너지원에 수소가 제격\" - dongascience.com",
+   "ts": 1790822700,
+   "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tR1dsSDdHWDdtTUJLNUY0YUlOWVNubzU0VVVnSmZNR21kOVZDd0dsdDU2NjZjbVp6eWs0c0dYS0xyYUJ0cnQ0RkY5Y0dNdU92SHl5Wg?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1300,6 +1310,7 @@
   "1852339edd4589c2": 1790145582,
   "186faee333c8e0c0": 1789627496,
   "1872251a27243f48": 1790700153,
+  "1874cd314543e2cb": 1790823015,
   "1887b437fd797d74": 1790665521,
   "1889ac1686704d1a": 1790058319,
   "1892132679781bfe": 1790820322,
@@ -1554,6 +1565,7 @@
   "1e818aa35c78f50e": 1790040620,
   "1e88f01a3809795f": 1789688716,
   "1e904c748ff341e9": 1790731219,
+  "1e9410808b60e0c4": 1790823015,
   "1e9cad4f8a343d02": 1790732413,
   "1e9e66d5358936d4": 1789873818,
   "1ea6cd8325a9aca2": 1789695321,
@@ -5533,6 +5545,7 @@
   "82f9e7eface721da": 1790562019,
   "830105aa281d8e76": 1790742313,
   "8302f182911ebd1e": 1790755519,
+  "830dcf4de09303d6": 1790823015,
   "830e675698904445": 1789629088,
   "831813f33986fb66": 1790735693,
   "831ad96d903559ea": 1790640533,
@@ -8997,6 +9010,7 @@
   "dfdefce2ca46e29a": 1790088308,
   "dfe0801eb865912a": 1790106018,
   "dfe107d9932112a2": 1790661915,
+  "dfe126ffb0b80229": 1790823015,
   "dfe932b0af50ec5e": 1789694131,
   "dfec63ff359de269": 1789705521,
   "dff61ddcf7bbbed7": 1789951430,
@@ -9251,6 +9265,7 @@
   "e62bccc8ee33d75a": 1790408416,
   "e62d2ca5f994f168": 1789629088,
   "e62fc7d22e0bb2ee": 1790550317,
+  "e6330daa68f31e27": 1790823015,
   "e644d85f6958c548": 1790121418,
   "e64a904fb6a4325d": 1790491831,
   "e64bc996b4be6033": 1789973468,
@@ -10249,7 +10264,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790820322,
- "last_msg_poll": 1790822962,
+ "last_msg_poll": 1790823263,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10294,7 +10309,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 11:49 KST",
+  "last_run": "2026-10-01 11:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
