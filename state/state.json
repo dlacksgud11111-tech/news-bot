@@ -303,6 +303,16 @@
    "t": "Wärtsilä’s energy storage division rebrands through RCT Solar joint venture",
    "ts": 1790853139,
    "u": "https://www.energy-storage.news/wartsilas-energy-storage-division-rebrands-through-rct-solar-joint-venture/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 3,
+   "sec": "재생에너지·ESS",
+   "t": "Ireland energizes first SRESS solar farm, opening new revenue opportunities for farmers and landowners",
+   "ts": 1790853300,
+   "u": "https://www.pv-magazine.com/2026/10/01/ireland-energizes-first-sress-solar-farm-opening-new-revenue-opportunities-for-farmers-and-landowners/"
   }
  ],
  "clip_titles": [],
@@ -1253,6 +1263,7 @@
   "16ef4c852d459dc1": 1789787432,
   "16fb0acd44f065c2": 1790578558,
   "170459a46950a9a1": 1790467770,
+  "170552a503c6b351": 1790853626,
   "170b1dc6fdefb7b8": 1790817322,
   "171376730d8258d3": 1790562951,
   "171761c9d9c085f2": 1789627496,
@@ -6274,6 +6285,7 @@
   "8f24d11620e23672": 1790125530,
   "8f3656375460b5ba": 1790039473,
   "8f37f4348d10b627": 1790124922,
+  "8f392a6c8a7e1c2c": 1790853626,
   "8f3e043514459ac9": 1790847338,
   "8f421667991ad2b6": 1789635016,
   "8f4492ea2ae80801": 1789635918,
@@ -10849,7 +10861,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790850029,
- "last_msg_poll": 1790853564,
+ "last_msg_poll": 1790853873,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10894,7 +10906,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 20:19 KST",
+  "last_run": "2026-10-01 20:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
