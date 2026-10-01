@@ -283,10 +283,21 @@
    "t": "LS일렉트릭, 美 하이퍼스케일 AI 데이터센터에 초고압 변압기 공급 - SR타임스",
    "ts": 1790850430,
    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ob2UteHprSF85S1hTcmFjMW9HOHYtcjJrU0hkM3JETGFSNmJXRENlZWt3bVBjdGtmUGUyOWtXLXQtY0xNMlJCbTU3Y1dtMnlJQTY4bW9UQnFCRmJTcmM1RnU2RTFLblht0gFrQVVfeXFMUF9Jc3NJc2N4SE5ydnZMMTN2eUZHblFoMWloM2JYWk9OcHljaVNSQ3YyMzBsOG1rT094ajJDMlZlaWQySlBjSGJvX01ONkpQNE45RmZselJIVnY1RnVXMHNnS0hDNDlWNUcwaFk?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 8,
+   "sec": "데이터센터·AI전력",
+   "t": "9.4GW SMR-powered data center campus proposed in Utah",
+   "ts": 1790852253,
+   "u": "https://www.datacenterdynamics.com/en/news/94gw-smr-powered-data-center-campus-proposed-in-utah/"
   }
  ],
  "clip_titles": [],
  "clipped": {
+  "00006de6a8e72658": 1790852431,
   "0003f98f6034d59c": 1790586316,
   "000ff3c62bde1524": 1790140828,
   "00124ecf9177fec9": 1789953163,
@@ -7824,6 +7835,7 @@
   "b541ac4c135fbb8d": 1790557916,
   "b545208a69cd97bd": 1789698403,
   "b54fde8503965694": 1789979721,
+  "b55bf244b392f7f6": 1790852431,
   "b55c53c72ddda82a": 1789704919,
   "b5675ac538f525c0": 1790669122,
   "b571edaedc213629": 1790595317,
@@ -9252,6 +9264,7 @@
   "d9b05d6b4440707b": 1790042395,
   "d9b0d0f0fa49040a": 1789627496,
   "d9b35b7f0c391a6c": 1790557916,
+  "d9bfacd947133604": 1790852431,
   "d9cce83b57d17d96": 1789627496,
   "d9cd59217065a78b": 1790062459,
   "d9cf48a7a4f24c92": 1789693531,
@@ -10822,7 +10835,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790850029,
- "last_msg_poll": 1790852374,
+ "last_msg_poll": 1790852673,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10867,7 +10880,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 19:59 KST",
+  "last_run": "2026-10-01 20:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
