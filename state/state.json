@@ -293,6 +293,16 @@
    "t": "9.4GW SMR-powered data center campus proposed in Utah",
    "ts": 1790852253,
    "u": "https://www.datacenterdynamics.com/en/news/94gw-smr-powered-data-center-campus-proposed-in-utah/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 6,
+   "sec": "재생에너지·ESS",
+   "t": "Wärtsilä’s energy storage division rebrands through RCT Solar joint venture",
+   "ts": 1790853139,
+   "u": "https://www.energy-storage.news/wartsilas-energy-storage-division-rebrands-through-rct-solar-joint-venture/"
   }
  ],
  "clip_titles": [],
@@ -6499,6 +6509,7 @@
   "94fcd6c543257b65": 1790674470,
   "94fe537bda128b8a": 1790498128,
   "950a2622c4f2bdf3": 1790523722,
+  "950ed964169e4c7a": 1790853321,
   "95133f775507926d": 1789948516,
   "95151574e27b4c5b": 1790650193,
   "95186f9f6cbf9305": 1790817322,
@@ -10838,7 +10849,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790850029,
- "last_msg_poll": 1790853282,
+ "last_msg_poll": 1790853564,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10883,7 +10894,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 20:14 KST",
+  "last_run": "2026-10-01 20:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
