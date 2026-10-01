@@ -1,7 +1,7 @@
 {
  "alert_cooldown": {
   "HD현대일렉트릭|수주·계약": 1790662216,
-  "LS일렉트릭|수주·계약": 1790574523,
+  "LS일렉트릭|수주·계약": 1790817954,
   "LS일렉트릭|투자·증설": 1790126759,
   "LS전선|수주·계약": 1789713632,
   "Vertiv|투자·증설": 1790328618,
@@ -176,6 +176,10 @@
   [
    1790807416,
    "FERC asks grid operator PJM to revise plan to shield homes from data center costs"
+  ],
+  [
+   1790817954,
+   "LS일렉트릭, 북미 초대형 AI 데이터센터에 초고압 변압기 공급 계약"
   ]
  ],
  "alerted": {
@@ -218,10 +222,11 @@
   "cdaa54f68b0563fa": 1789658129,
   "d09dd25c4f4edf8d": 1790174132,
   "deb2e9eb313eef4a": 1790635520,
+  "ed2be4388a6c245f": 1790817954,
   "f0f4cc942107030e": 1790662216,
   "fe7b17c162f91919": 1790498127
  },
- "alerted_today": 2,
+ "alerted_today": 3,
  "clip_buffer": [
   {
    "co": "",
@@ -432,6 +437,36 @@
    "t": "LG엔솔·LS일렉트릭·LS전선...AI 인프라 뛰어드는 K기업 - v.daum.net",
    "ts": 1790747100,
    "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RRFVIVHFha29fdF9aV1ZwY01rYVJ2VWpZb0JVbW5zOUxsMzhfNmNwczAwNFdIeFpQUjZJTmZNdk5qYV9Ec2c?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "koreancenter.or.kr",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "LS일렉, 미국 데이터센터에 초고압변압기 공급…1천800억 규모 - koreancenter.or.kr",
+   "ts": 1790817599,
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TWFJvX05rYnhDbWdRRV9yWkFPVUJvVjJabHpuVUxkX3RxOVFQQm5uRUVSZEc4ZU1lRGRMWDZYYkkxVy1SdGp2bFZKVjBXblpqOHJ1NUdoQmg3VkQtY0w3T3pZU0NyVk1xS1lIRW1IOUlTYmtC?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "Queen 이코노미퀸",
+   "sc": 16,
+   "sec": "전력기기",
+   "t": "LS일렉트릭, 북미 초대형 AI 데이터센터에 초고압 변압기 공급 계약 - Queen 이코노미퀸",
+   "ts": 1790817558,
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSUEN2N3RBVEROaWw2dkUzSk40MFh3ejZCLUpPMlVEaVN2MzA4LXQ2RmNnbTdmN1BGNGVxaWJpeV9aVVRFQ2M3UldHSGRXdmJiMVVualhFem1qYmx0OTE4WFZkbGNlLUJ3c3c?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "thepowernews.co.kr",
+   "sc": 22,
+   "sec": "전력기기",
+   "t": "9개 변전소에 345kV 변압기 공급…LS일렉트릭, 美서 1812억원 수주 - thepowernews.co.kr",
+   "ts": 1790816857,
+   "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YU3k4akVQLUs4blpNUWdMMHRlb2w4SGtEYUJyUFA5UEN5b1dpNjliaVlvZUpiVDVlY19zR1VkWGdZS0VJbXdZSEtMMldLeUk1ZjlrYzFmVVlBemttZnVwSmRlWEFReEhjNE9fWkZ0NEdaalhHLVlUWjhoWDdWQQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -648,6 +683,7 @@
   "059773ec974c57e2": 1790035999,
   "059929c401024382": 1790759086,
   "05a58aa1057cfb26": 1790656610,
+  "05b082436c594a4c": 1790817955,
   "05c3e86e20d2368d": 1790467770,
   "05cfb40d62bc8be8": 1789679129,
   "05d2f570ac853064": 1789971751,
@@ -4680,6 +4716,7 @@
   "6cb3debcac6f9a53": 1790573944,
   "6cbab695b9fe7ba4": 1790748320,
   "6cbd747f650055ef": 1790579195,
+  "6cbff46bdd8a2223": 1790817955,
   "6cc084ff265e3ac5": 1789693531,
   "6cc1d5585c12cb6c": 1789938697,
   "6cc61b7c3d5fbd98": 1790727810,
@@ -5266,6 +5303,7 @@
   "7cb002d8d86ef101": 1790057120,
   "7cb7bc2aba4f26a0": 1790660118,
   "7cba42317f544af8": 1790758216,
+  "7cbe17516988e169": 1790817955,
   "7cbe8c2aac072252": 1790628021,
   "7cbe9a3f886ed5a7": 1790037157,
   "7cc34ce63721b462": 1789627496,
@@ -5392,6 +5430,7 @@
   "80156503d4fdbafe": 1789627496,
   "801590d04607ec72": 1789953163,
   "801a3f7c129887bd": 1790641093,
+  "801d570de4a66935": 1790817955,
   "80235468b6892fef": 1790728372,
   "803c9e1f943fb57c": 1790667315,
   "803dc3abf693b36a": 1789627496,
@@ -5548,6 +5587,7 @@
   "842257693d2f11e7": 1790123718,
   "84252f552b1bb5fa": 1789634116,
   "84259bf0c29ecf6e": 1790805917,
+  "84319c5da6448959": 1790817955,
   "8437d531d6d05cee": 1789972883,
   "843b05f8813fd299": 1789657519,
   "843ba2565c86e31d": 1789980627,
@@ -6055,6 +6095,7 @@
   "9221599a56c6fc73": 1790123718,
   "9229b6db566199d7": 1790126118,
   "923268e8d55fcfa8": 1790726668,
+  "9236d403a5f83b4b": 1790817955,
   "9239dc153a5e5532": 1790328918,
   "923f72a33810543e": 1789977032,
   "9256874eb6593cb2": 1789954905,
@@ -8171,6 +8212,7 @@
   "cba8f41c7e3a3526": 1789851916,
   "cba90ab8907f9e09": 1790175921,
   "cbb1a67640909415": 1789693814,
+  "cbb3f1134b72525f": 1790817955,
   "cbb6931cee0adf8a": 1790663718,
   "cbbc590d663a5a1e": 1789710788,
   "cbbe8183cbfae919": 1790734821,
@@ -9428,6 +9470,7 @@
   "ed1a5bc1c313f360": 1790042395,
   "ed1bb3092871145f": 1790058619,
   "ed24ed7db56c5766": 1790040917,
+  "ed2be4388a6c245f": 1790817955,
   "ed30c0db155313d8": 1790715791,
   "ed32b88d68cfdb83": 1790042395,
   "ed38e561a91d6681": 1790226321,
@@ -10132,7 +10175,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790813121,
- "last_msg_poll": 1790817870,
+ "last_msg_poll": 1790818195,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10177,7 +10220,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 10:24 KST",
+  "last_run": "2026-10-01 10:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
