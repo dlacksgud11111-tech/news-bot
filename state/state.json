@@ -256,7 +256,7 @@
   },
   {
    "co": "LS일렉트릭",
-   "n": 1,
+   "n": 2,
    "s": "사회적경제뉴스",
    "sc": 16,
    "sec": "전력기기",
@@ -273,6 +273,16 @@
    "t": "DCD Survey: Data center construction",
    "ts": 1790859520,
    "u": "https://www.datacenterdynamics.com/en/research/dcd-survey-data-center-construction/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 7,
+   "sec": "전력기기",
+   "t": "Maharashtra’s regulator proposes mandatory BESS for renewable projects seeking grid connectivity in Indian state",
+   "ts": 1790859845,
+   "u": "https://www.energy-storage.news/maharashtras-regulator-proposes-mandatory-bess-for-renewable-projects-seeking-grid-connectivity-in-indian-state/"
   }
  ],
  "clip_titles": [],
@@ -1406,6 +1416,7 @@
   "1b0d23a8b235adb1": 1789632918,
   "1b148efbcd91c4bd": 1790003117,
   "1b1d43e9c69c0bf1": 1790543721,
+  "1b1d59dfd66987fd": 1790860306,
   "1b214c1cc4b63e6c": 1789710209,
   "1b29ff60c5638719": 1790640533,
   "1b2e4c0efc2087ef": 1790136320,
@@ -4987,6 +4998,7 @@
   "6f5d30f366412bf1": 1790658361,
   "6f5e130f0674b2d5": 1789971751,
   "6f602ee512261342": 1789634416,
+  "6f64fa377e45ef57": 1790860306,
   "6f66dcc2011d1155": 1790577419,
   "6f689a9ef41f828a": 1790658361,
   "6f68ac62eaad927c": 1790074823,
@@ -5286,6 +5298,7 @@
   "76e2e0902ad2e332": 1790037737,
   "76ebec183f5c50c5": 1790067063,
   "76ec54200edb8f3c": 1789629088,
+  "76ee2d8310ec0128": 1790860306,
   "76f951ac7c452cc9": 1790766020,
   "7702db6990028935": 1790590818,
   "7708c3a1c4879ffe": 1789866315,
@@ -7696,6 +7709,7 @@
   "b25cdf3e57aade5d": 1789855065,
   "b25fd08aeb7888ec": 1790058917,
   "b263481ea76b50dd": 1789627496,
+  "b2646160191064cf": 1790860306,
   "b267b569081d21c7": 1789952592,
   "b26ac48da697cc8a": 1790064758,
   "b276185a2c50981b": 1790141730,
@@ -9294,6 +9308,7 @@
   "da5471bb646c1ce4": 1790845517,
   "da58bf947a9d5083": 1789688119,
   "da5cfa6c5a08ab7a": 1790060726,
+  "da5ecbcd7aaea4de": 1790860306,
   "da6ed9ea501ece51": 1790820322,
   "da82efeec4590d85": 1790728372,
   "da85bda3db4063b1": 1790571928,
@@ -10835,7 +10850,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790857449,
- "last_msg_poll": 1790859981,
+ "last_msg_poll": 1790860556,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10880,7 +10895,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 22:06 KST",
+  "last_run": "2026-10-01 22:15 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
