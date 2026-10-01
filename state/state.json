@@ -238,368 +238,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 5,
- "clip_buffer": [
-  {
-   "co": "LS일렉트릭",
-   "n": 10,
-   "s": "헬로티",
-   "sc": 22,
-   "sec": "전력기기",
-   "t": "LS일렉트릭, 북미 하이퍼스케일 AI 데이터센터에 1812억 초고압 변압기 수주 - 헬로티",
-   "ts": 1790834968,
-   "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aYWlPLXE2Mzd5YzFzTm96T0FCNV9aSWFNY2ZUWWx0Z0Jxdkl2ZDZvaDNVNWpQREJWTkcySzZYOGFYWGVWZ0U3emNTcE1sb0JpVXlVczJWVzBlNmxjVW84?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "스페셜타임스",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "LS일렉트릭, 북미 AI 데이터센터에 345kV 변압기 공급 - 스페셜타임스",
-   "ts": 1790834873,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zV0JvS3JSZFZ3YWtRZnNEck1ZRFJFYkVWdm1QSVB2MlJGLWZuVjNiTnYzTU9oMkl4UlMzVHc4andadzdGMUFySHFxazAwSms4Mmd1Vkl6S0VlbF9jUTlHWFlCc3BQT2N6b0JFTnVzLW1ZQQ?oc=5"
-  },
-  {
-   "co": "두산에너빌리티",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 19,
-   "sec": "건설·플랜트",
-   "t": "두산에너빌리티, 베트남 오몬3 가스복합발전소 건설공사 수주",
-   "ts": 1790867858,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303740"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 5,
-   "sec": "원전",
-   "t": "한수원 이광훈 품질기술본부장, WANO ‘원자력 분야 최고 공로상’ 수상",
-   "ts": 1790867347,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303738"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 11,
-   "sec": "재생에너지·ESS",
-   "t": "한강환경청장, 수도권 재생에너지 인프라 구축 논의",
-   "ts": 1790867326,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303739"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "임팩트온",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터 전력 6.8GW 부족… 美 규제당국, PJM에 경매안 다시 짜라 - 임팩트온",
-   "ts": 1790835668,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aV204YWR4X2Fydl95bjdoVWY5UWp1NG1rZzg4QkxySHdJYVBvS01fVDNFV2Z4MmNYc3BmckpPNW9nd05JV3ctTjd1Z2ZFR2hGOTRpRGlSSFB5WTVTMUIyWVkwSEtpdUJmWkE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "공뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "‘대청댐 물로 데이터센터 식힌다’…김성환 기후부 장관, 현도면 현장 점검 - 공뉴스",
-   "ts": 1790832322,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tdDY4MzdOX0ZrYS12V0NZeEY0Z1BjUG5QVzV5R080TUtfYkhXRWtwTVhfOUtPWExtTHkxYzdEdzZhWU1POEEtUWF4UzNLTXZUcm4tcXJGM3pJdzZjckZ1T0k2dklmQUFPQW9jcQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "esnews.kr",
-   "sc": 2,
-   "sec": "원전",
-   "t": "\"원자력을 다시 위대하게 만들겠다\" 456기의 원자로를 서버처럼 깐다…9.6GW AI 전력기지 추진 - esnews.kr",
-   "ts": 1790815254,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XRFZZaFIwQVJ4c0VIYkJKVURzM1pfNl9DLXh4Y3k0UzJvcG1OSk5RQlR1VVI2QWRXOU1MakRpS2VqUmQ2Skx4Wk91X2N0Uk8yUnNQeFBuNU4tLWJ0WE5vbWVpQUs?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 3,
-   "sec": "재생에너지·ESS",
-   "t": "육상풍력, 1년 이상 풍황계측 의무 없앤다",
-   "ts": 1790869087,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334732"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "매일일보",
-   "sc": 16,
-   "sec": "전력기기",
-   "t": "LS일렉트릭, 美 AIDC에 초고압 변압기 공급…1800억원 규모 - 매일일보",
-   "ts": 1790836560,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LUjJUMks5T19menViUUMxVDdoRTR0X0trWVNKc0F4ZEpJNWNzbkdhNW9kNmlWYTRNc0JxZU1zSFVrZDRpVkM0bWNWSGxnSkFzR0RTZXV0bkhQam05SldCSDFPQms?oc=5"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "에너지경제신문",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "[현장] “2029년까지 데이터센터 완판”…KT클라우드·네이버, AIDC 키운다 - 에너지경제신문",
-   "ts": 1790836291,
-   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEdHN6TVFON3l6bmE3VFJwSWhSQ1FxSkVsRm96WXFteVJwWVpmcU5jcW1KT3hkZHZxb0ZiUUdVX1d1enNodHA1eE9ZWjd4YUFoS2lobDhlZ251bE9lMUNqSWpxbw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "LG에너지솔루션, ‘인디고테크’와 46시리즈 원통형 배터리 MOU",
-   "ts": 1790869459,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373024"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "더테크",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "[더테크 픽] AI 데이터센터 전력 2030년 420GW로 급증…LG전자, 칠러 생산에 1500억원 투자 - 더테크",
-   "ts": 1790836995,
-   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14V3JJRjl1MWdXdHBYT0lzMTljOTNWQlhXZXRwR0IzVE80ZnZ0OGhscll3cGJhQzVrdDZPbWtfZ1U0bFY1ZmYybFU2enhURUxOT09kTVkzTWZ0N19vZklXWGRRaw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "edaily.co.kr",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "ESS 넘어 서버 바로 옆까지…배터리 3사, AI 데이터센터 ‘전원’ 파고든다 - edaily.co.kr",
-   "ts": 1790836902,
-   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbVFNTmNzUFgxRWtZdlp5b3A1SWZHaHRsWUNsLWhRbDVmcGxaVlRGTmg1OUllZ2lHaDV6UE9fUzM5Z05sdmhEUGR3UHNnRk9kd3FBZ2phWVRHMGdjYjg1QVpESDhZMC1ra3dWVy1BTTBEdW10U1lqWlNqa3FtWE1nNA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "소셜임팩트뉴스",
-   "sc": 10,
-   "sec": "데이터센터·AI전력",
-   "t": "데이터센터 전력 정책 논의, 가스·원전 진영이 61% 주도 - 소셜임팩트뉴스",
-   "ts": 1790817353,
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OOFZFLXFWWTNZWnd0Z21wcUUwUzRrN3ZmOXVHMGoxX1ROakFseGtqUmlCMW04UEZkN251TXJzN0ZtMjdNaHMzc1g2WDh2VEp2dFA2ekxaLTdaYmNydEtmclU1LVo5VG5yNWt0Y2tDYWU0MG_SAXdBVV95cUxNOE9vR2JRc0Y0b2pqVXlHazh0QW1oRGFqcUpiYi1zakthalFCTjBnY3dNZ0V5R3pTMW1LRGh5Q1dxdy1YNW10RDhBdkY4SGU0aU05d2lENFdLczJ3Z3F2NHY3bkNTaU5XeE9ucFZSeTdoQWhGeWg5bw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 4,
-   "sec": "원전",
-   "t": "美 원전 8기 건설 추진…K-원전 ‘팀코리아’ 미국 진출 채비",
-   "ts": 1790870400,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373025"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 10,
-   "sec": "전력기기",
-   "t": "(NGEF 2026) 핵융합에서 전력망까지…미래에너지 ‘상용화의 조건’ 짚었다",
-   "ts": 1790870400,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373020"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 3,
-   "sec": "유틸리티·정책",
-   "t": "트럼프가 발표한 ‘알래스카 LNG’…정부 “상업적 합리성 있다는 전제에서만 추진할 것”",
-   "ts": 1790870400,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373019"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Trina Solar, Microquanta testing perovskite, tandem modules at UNSW site",
-   "ts": 1790838388,
-   "u": "https://www.pv-magazine.com/2026/10/01/commercial-perovskite-and-tandem-modules-tested-in-outdoor-field-study-unsw/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "유틸리티·정책",
-   "t": "U.S. solar hardware market tightens as buyers race back-to-back tariff deadlines",
-   "ts": 1790838199,
-   "u": "https://www.pv-magazine.com/2026/10/01/u-s-solar-hardware-market-tightens-as-buyers-race-back-to-back-tariff-deadlines/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Civo plans 8MW Edge data center for AI in Hertfordshire, UK",
-   "ts": 1790838034,
-   "u": "https://www.datacenterdynamics.com/en/news/civo-plans-8mw-edge-data-center-for-ai-in-hertfordshire-uk/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 6,
-   "sec": "재생에너지·ESS",
-   "t": "출범 1년 기후부, 재생에너지 가속 페달…김성환 장관 “내년 10GW 이상 확대”",
-   "ts": 1790838000,
-   "u": "https://www.etnews.com/20261001000420"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "유틸리티·정책",
-   "t": "알래스카 LNG 사업 '동상이몽'… 트럼프 “확정” vs 韓 “합의 안 해”",
-   "ts": 1790838000,
-   "u": "https://www.etnews.com/20261001000371"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 4,
-   "sec": "원전",
-   "t": "[대미 투자]알래스카 경제성·원전 공기지연 '리스크'",
-   "ts": 1790838000,
-   "u": "https://www.etnews.com/20261001000301"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 8,
-   "sec": "원전",
-   "t": "[대미 투자]'AI 전력' 골든타임 잡은 美…韓은 지재권 족쇄 풀고 K-원전 르네상스 주도",
-   "ts": 1790838000,
-   "u": "https://www.etnews.com/20261001000299"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투데이",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "기후장관 \"AI데이터센터 전용 전기요금 설계…국민 부담 늘리지 않을 것\" - 이투데이",
-   "ts": 1790838000,
-   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54TG8wYUhUNXp0Ym8zRE9YNHo4el9MS0kwZnZ5SVMzLXV6Yi1RTTd6dGRoOHJ3REpvb3JidV8wRFUyVjZoXzdWa1hndDJlVk1HSFdCMVZ1dllLRndOOHBaT2JuTVVZSGFYNnpleGFoVUZjVFp3?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "건설정책연 20주년 세미나…정부·학계·연구원 삼각협력 제안",
-   "ts": 1790838582,
-   "u": "https://www.yna.co.kr/view/AKR20261001151500003"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 8,
-   "sec": "원전",
-   "t": "[특징주] 한전기술, '한미 원전 프레임워크' 합의에 강세 마감(종합)",
-   "ts": 1790838752,
-   "u": "https://www.yna.co.kr/view/AKR20261001044251008"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "이슈투데이",
-   "sc": 18,
-   "sec": "전력기기",
-   "t": "LS ELECTRIC, 북미 AI 데이터센터 초고압 변압기 공급 계약 체결 - 이슈투데이",
-   "ts": 1790839266,
-   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93dHByN3NNcFA3dFpfVlFQTTQ4c0xCMFE1cDVlTU5IV0JQaHV0WVBiWm1RdXVlblQzUnVmU1cyMzF5cjY0SW1jbG9reXAtYllFd3d4UjlzTXpSQkJKbDFaS3BYbDVDQQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "유틸리티·정책",
-   "t": "500억불 투자 VS 미정…알래스카 LNG 대미투자 새 '뇌관'(종합2보)",
-   "ts": 1790839219,
-   "u": "https://www.yna.co.kr/view/AKR20261001016452003"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "매일경제 마켓",
-   "sc": 6,
-   "sec": "재생에너지·ESS",
-   "t": "재생에너지 확대 속도 ...“태양광 10GW 이상 늘어난다”. - 매일경제 마켓",
-   "ts": 1790839808,
-   "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56dGNGNmp3dHRRelpHLVotWk5NY3haWldraU1JUHZsN01KbDNncnVmWXVfVmN0bzB3ald0V1B2VnlqcUhqMTZyX21Wa2Jxa2lzZHc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 0,
-   "sec": "유틸리티·정책",
-   "t": "김정관 산업장관 “알래스카 LNG, 상업성 없으면 안 한다”…美 발표에 항의",
-   "ts": 1790871930,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373027"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "대한청년일보",
-   "sc": 22,
-   "sec": "전력기기",
-   "t": "LS일렉트릭, 북미 AI 데이터센터 초고압 변압기 1억 3천만 달러 대형 수주 - 대한청년일보",
-   "ts": 1790840571,
-   "u": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9Oa2h5dTVOWkhnMEZEYjRZV2o0Rko3S1ZpanJ4OUdHY1JYbmM1WDlta0tXNUd5UjNBUkRBMHpvcHlhVUE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 13,
-   "sec": "원전",
-   "t": "산업부, 원전수출기획위서 美 APR1400·AP1000 건설 논의",
-   "ts": 1790872520,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334752"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "세계일보",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "김성환 기후장관 “AI데이터센터 위한 별도 전기요금제 설계 중” - 세계일보",
-   "ts": 1790841186,
-   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8ySkNmbWJMSWdLdWRhekJ3WXd6RjJ4TU42Mi11eVdVUlk4SjY3TDJDWEdnLXV4aUZKT1FTdVJERV94dmE1U1YxUFZ1WjkyUHBodHk2WjAxS0F5Q3l3ZXFXcjBSbmxrcF9mbE9v0gFUQVVfeXFMTW5aV0o2TXJPMEJiZkpIWEMwTUtqTGRwaWRkSGxHUzEyMmtXLUM2eDUwT2VZd2wtUVBmNkdyVUk2ZjRTVU0ySlVSOUFOMVc0Z2dlWE54?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "주간현대",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, AI 데이터센터 냉각 토털 솔루션으로 글로벌 시장 공략 강화 - 주간현대",
-   "ts": 1790841540,
-   "u": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1temM0NGgwZklxSGJTVGVHbkZRaU1rOHhzWTFYWUd1T2FZakdVamdhbnlVSlhWMDdwZW1mVm1OUTZoT1E?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "0003f98f6034d59c": 1790586316,
@@ -7987,6 +7626,7 @@
   "b3e26e1bb6d9f6f9": 1790646615,
   "b3e75867db1d69b7": 1790203516,
   "b3f052b91ab5e4e9": 1789850130,
+  "b3f202c6d7bc5491": 1790842523,
   "b3f703fb2ad91576": 1790042975,
   "b416732e1ddbfda0": 1790751030,
   "b4178d1d3a5f090e": 1790042395,
@@ -8785,6 +8425,7 @@
   "c7a50f6aca6093fb": 1789792532,
   "c7c3dc4846c7102e": 1790640533,
   "c7c9bcb3adcad98d": 1790824522,
+  "c7ca2fc96c618466": 1790842523,
   "c7d3725f65af0873": 1789627496,
   "c801f6f0cece0832": 1789986916,
   "c802d0653d1255f3": 1789697120,
@@ -11014,8 +10655,8 @@
  },
  "companies_today": {},
  "day": "2026-10-01",
- "last_clip": 1790835202,
- "last_msg_poll": 1790842466,
+ "last_clip": 1790842523,
+ "last_msg_poll": 1790842763,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -11060,7 +10701,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 17:14 KST",
+  "last_run": "2026-10-01 17:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
