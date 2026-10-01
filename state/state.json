@@ -263,6 +263,16 @@
    "t": "LS일렉트릭, 미국 데이터센터에 1,800억 원 규모 초고압 변압기 공급 - 사회적경제뉴스",
    "ts": 1790836140,
    "u": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5pZ2F0V2IzSXpqV2lPZndDMmYzdE9TeW9STEFtTE43bjljUnNuaVNrM3daeWdjN3E1Y19nTjJXcw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "DCD Survey: Data center construction",
+   "ts": 1790859520,
+   "u": "https://www.datacenterdynamics.com/en/research/dcd-survey-data-center-construction/"
   }
  ],
  "clip_titles": [],
@@ -5418,6 +5428,7 @@
   "7a5740f38a9e007f": 1790556223,
   "7a5f9b728b0c1d96": 1790817629,
   "7a6e906cb73923a3": 1790732413,
+  "7a7932a230fb7c9c": 1790859733,
   "7a7c382e6a3bf43b": 1789713065,
   "7a7ef2f43a0dc427": 1790129120,
   "7a8f4264accfb939": 1790645160,
@@ -10824,7 +10835,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790857449,
- "last_msg_poll": 1790859405,
+ "last_msg_poll": 1790859981,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10869,7 +10880,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 21:56 KST",
+  "last_run": "2026-10-01 22:06 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
