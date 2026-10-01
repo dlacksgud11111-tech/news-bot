@@ -338,6 +338,16 @@
    "t": "Solar for All grantees seek damages from EPA over ‘devastating’ cuts",
    "ts": 1790834400,
    "u": "https://www.utilitydive.com/news/solar-for-all-funding-ep-court-uncertainty/831144/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "제주교통복지신문",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "제주도, 추자풍력 계통연계·AI센터 국회 지원 요청 - 제주교통복지신문",
+   "ts": 1790882750,
+   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zbFY3YmYwRmIyZ2xhLTd4MDdENTQxRVhkdXQ4QzZ5ak9NWFVnVklQLU9lY3BTMXdvRFVqMFVIdWp6ZWlFRDJ6Qk02b0VoNklKWS1LYmpDaG9MZ1VGOS1uYg?oc=5"
   }
  ],
  "clip_titles": [],
@@ -10350,6 +10360,7 @@
   "f17ce5a152d37376": 1789878021,
   "f17ef42c64168859": 1789691349,
   "f1854e7cd3800a5f": 1790036576,
+  "f186ec7063031d53": 1790883021,
   "f188736e82692066": 1789945939,
   "f199ae83098968f1": 1789627496,
   "f19cb09f36b42a86": 1790478323,
@@ -10943,7 +10954,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790864727,
- "last_msg_poll": 1790882958,
+ "last_msg_poll": 1790883263,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10988,7 +10999,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 04:29 KST",
+  "last_run": "2026-10-02 04:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
