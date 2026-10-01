@@ -243,7 +243,18 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 6,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 7,
+   "sec": "전력기기",
+   "t": "South Korea grid overhaul to connect more than 100 GW of renewables",
+   "ts": 1790857800,
+   "u": "https://www.pv-magazine.com/2026/10/01/south-korea-grid-overhaul-to-connect-more-than-100-gw-of-renewables/"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -9749,6 +9760,7 @@
   "e6d03d925d6bb348": 1790737975,
   "e6d406bd80c6fd25": 1789627496,
   "e6dba24c191f94f4": 1790678503,
+  "e6dd981560e1771f": 1790858024,
   "e6e050b7226732b6": 1790827519,
   "e6e4a8ca18c48f89": 1789977915,
   "e6e71dc4111b21d4": 1789859128,
@@ -10801,7 +10813,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790857449,
- "last_msg_poll": 1790857694,
+ "last_msg_poll": 1790858267,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10846,7 +10858,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 21:28 KST",
+  "last_run": "2026-10-01 21:37 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
