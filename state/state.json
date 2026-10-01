@@ -242,6 +242,16 @@
    "t": "AI데이터센터 훈풍 탄 두산퓨얼셀, 적자 행진 마침표 기대감 - 딜사이트",
    "ts": 1790812800,
    "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkMnVhakJlVG52TTVjRjBhcm1GV3FRZ05PaG5aQlBDNDJMcDFUM2pGYWxqVmgzbndtRXFleVZSWjZkYmY3VXJqM25WaEd0TEE?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "mydaily.co.kr",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, 美 첫 칠러 공장 설립…AI 데이터센터 냉각 공략 - mydaily.co.kr",
+   "ts": 1790813829,
+   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10U1lfTkhFTm1UaXhOSUh0VWRjVUZSV1NwSnFhUDk1WlZnMzB5alRXWUllWXFMVEZDZlVGRnZXWFVOM2Q3MDQxZ25RRUMxVi1GNjR0NEVaQnA3UGhiVkJGUmp0bmIyUQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2998,6 +3008,7 @@
   "466341792354a8ac": 1790660118,
   "4683227d5cec24a3": 1790030116,
   "4684cb585942616a": 1790742615,
+  "4689631b2ea88604": 1790814019,
   "4692b0d791832629": 1790667315,
   "46a49350bc2d2341": 1790042975,
   "46ae845a2a9d25de": 1790129720,
@@ -4685,6 +4696,7 @@
   "73e31592b9ebc5d5": 1790606428,
   "73e3dbe487e87c51": 1789629088,
   "73f6560f726ae26e": 1789731017,
+  "740df8f56b2109b6": 1790814019,
   "7414a26becaba5b3": 1790726668,
   "741853ca4b80b94d": 1790555020,
   "741c13bca54b39e2": 1790743524,
@@ -7687,6 +7699,7 @@
   "c5ef45467dbecb61": 1789629088,
   "c5fade9561587968": 1789707915,
   "c60d05bac706bafe": 1790485644,
+  "c61403aa2a2bcf42": 1790814019,
   "c619480884055322": 1790563820,
   "c61aac85513e5a3f": 1789627496,
   "c61c3677d5c2a474": 1790726668,
@@ -7841,6 +7854,7 @@
   "cb26f6b345d20f9d": 1790128524,
   "cb34b0001f412e15": 1790670923,
   "cb396effa877ac8a": 1789661117,
+  "cb3e0f97dac5d646": 1790814019,
   "cb469a0e7c4f8c1a": 1789627496,
   "cb470b2d11b01aaf": 1790348724,
   "cb55b5c3c31060dd": 1790562019,
@@ -9786,7 +9800,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790813121,
- "last_msg_poll": 1790813964,
+ "last_msg_poll": 1790814260,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -9831,7 +9845,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 09:19 KST",
+  "last_run": "2026-10-01 09:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
