@@ -1,7 +1,7 @@
 {
  "alert_cooldown": {
   "HD현대일렉트릭|수주·계약": 1790662216,
-  "LS일렉트릭|수주·계약": 1790832617,
+  "LS일렉트릭|수주·계약": 1790847019,
   "LS일렉트릭|투자·증설": 1790126759,
   "LS전선|수주·계약": 1789713632,
   "Vertiv|투자·증설": 1790328618,
@@ -189,6 +189,10 @@
   [
    1790836355,
    "두산에너빌리티, 베트남 오몬3 가스복합발전소 건설공사 수주"
+  ],
+  [
+   1790847019,
+   "LS일렉트릭, 북미 AI 데이터센터 초고압 변압기 1억 3천만 달러 대형 수주"
   ]
  ],
  "alerted": {
@@ -199,6 +203,7 @@
   "2542538535315f6c": 1790807416,
   "27f359c111c909f2": 1790348724,
   "283b50fd635c110a": 1790174131,
+  "2850841fdf0ec7cd": 1790847019,
   "2a3c3b712db1cc14": 1790126759,
   "35913bf4ca2349fd": 1790079928,
   "3a7d7b5b8245dde0": 1789682430,
@@ -237,7 +242,7 @@
   "f0f4cc942107030e": 1790662216,
   "fe7b17c162f91919": 1790498127
  },
- "alerted_today": 5,
+ "alerted_today": 6,
  "clip_buffer": [
   {
    "co": "",
@@ -368,6 +373,16 @@
    "t": "[집중취재] AI 데이터센터, 지역 숙제 산적…전력·물 우려 넘어야 - news.kbs.co.kr",
    "ts": 1790772660,
    "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKT2RKVFRrWTZuRVRtYUlNcHJ1U3RTVHRGTFRROUFuRHFySDE3QTJOQmRIRmJoZDJ3YzNIZDN3emhGVncyaWhDQ1pmS1hET3BoUUM0TDZja3RodHpqekNHNmJMZlRJdw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "전기신문 - 전체기사",
+   "sc": 5,
+   "sec": "전력기기",
+   "t": "후버앤수너, 철도 디지털 전환 겨냥한 고성능·고신뢰 케이블 솔루션 제시",
+   "ts": 1790879078,
+   "u": "https://www.electimes.com/news/articleView.html?idxno=372990"
   }
  ],
  "clip_titles": [],
@@ -9303,6 +9318,7 @@
   "d9cce83b57d17d96": 1789627496,
   "d9cd59217065a78b": 1790062459,
   "d9cf48a7a4f24c92": 1789693531,
+  "d9d33cc4d1b4933c": 1790847020,
   "d9d4702090d4368e": 1790062459,
   "d9e359012ceb980f": 1790037737,
   "d9e60221388a11fc": 1790640533,
@@ -10864,7 +10880,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790842523,
- "last_msg_poll": 1790846973,
+ "last_msg_poll": 1790847260,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10909,7 +10925,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 18:29 KST",
+  "last_run": "2026-10-01 18:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
