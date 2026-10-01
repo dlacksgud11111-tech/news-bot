@@ -227,7 +227,38 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 3,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "글로벌이코노믹",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "[공시] LS일렉트릭, 1812억원 규모 북미 변압기 공급 계약 - 글로벌이코노믹",
+   "ts": 1790827643,
+   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSEQ1ODZsQjdsLXFMTnpYb2xwYktXTlp1SFE0cDktaTBhaFVKRXIySTd0OS1ObWM2N08zYWxtZjBBdVhnS1Nvc3pWbUFCbzRwbmFPWlJjdjFicVZjblBiU3FCRUh0THBYY3AzTC00VDYtTkt5aDdwSS1pak9lclFpNnFqT20tZHNI?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "허프포스트코리아",
+   "sc": 22,
+   "sec": "전력기기",
+   "t": "LS일렉트릭 미국 인공지능 데이터센터에 초고압 변압기 공급 계약 : 북미 시장 추가 수주 나선다 - 허프포스트코리아",
+   "ts": 1790827547,
+   "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBeU1mQ3kwQ3IxRVN1SEwtZkNqLURaX08tUTV0Wlp3dldqN0pFYWZwRElSbnBsTTVlYmxBa3dfODlBSzBUMDA2ampzb3l3N3kyb1EzdkQ1WQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "콕스뉴스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, 1500억 들여 美 버지니아에 칠러 공장…AI 데이터센터 냉각 수요 정조준 - 콕스뉴스",
+   "ts": 1790823822,
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUR2o4ZV9QaEc5eXNteURmdjBoOGZGY3R0a3R2SWRxNVg3QlJwN3dIQUYwU0ctdEhYVWw5bUYyamJFQUVXRXRJcUg2TEFYVXlVUml1Z1JqUDcyc0xPRWpFWjlnSmxVeHBHX2c?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "0003f98f6034d59c": 1790586316,
@@ -6235,6 +6266,7 @@
   "984b5d0762c5e1a8": 1790572796,
   "9851e6b3c83d847c": 1790127320,
   "985ebfb2c2fbc60f": 1790147295,
+  "986464e33c48cc9e": 1790828127,
   "98676979f169b1b3": 1789949125,
   "986827d691cf4b7a": 1789986621,
   "9871a431b936c4f1": 1790141423,
@@ -6268,6 +6300,7 @@
   "9903b34eb6df9acc": 1790809517,
   "99160298832d1178": 1789724997,
   "992f8bc868c511c5": 1790082587,
+  "993b4490d0027ff0": 1790828127,
   "99462ccc0519934d": 1789632918,
   "9946a3cd9778aff2": 1790030116,
   "9946a72ccda21921": 1790070017,
@@ -6804,6 +6837,7 @@
   "a751558205205b5f": 1790460804,
   "a753686eb28e9517": 1790671521,
   "a7600c3500d3132f": 1790569820,
+  "a76a83c6cde7ba85": 1790828127,
   "a76de0906c87d376": 1790642222,
   "a776c99517f53b50": 1789633213,
   "a7809701e9a693e6": 1790753717,
@@ -6855,6 +6889,7 @@
   "a89753e98400824a": 1789866315,
   "a89c69095e315a04": 1790061882,
   "a8a293c0a06d65f2": 1790094922,
+  "a8a58695c647ddbe": 1790828127,
   "a8a7652b4b1cbeae": 1790039473,
   "a8a7b5dff5e6719d": 1789974322,
   "a8ac3500408c22cc": 1790587225,
@@ -7493,6 +7528,7 @@
   "b807254be9b06e98": 1790668519,
   "b80b3f31bdede681": 1789946508,
   "b80f53f8c24e65e1": 1790748320,
+  "b81999ecce366cb6": 1790828127,
   "b81f9519fd5e53b6": 1789678217,
   "b8221c5c29807afb": 1789765932,
   "b8253ad89bbdb30b": 1790040917,
@@ -8294,6 +8330,7 @@
   "ce49105a906614ef": 1790006722,
   "ce4cd5277c87cfdb": 1790659224,
   "ce4d5eb1510e862f": 1790266474,
+  "ce5b5e230d4a6151": 1790828127,
   "ce5cb00f3028956e": 1790060726,
   "ce614ae29bb950f7": 1790292193,
   "ce630e162558641d": 1790734218,
@@ -8573,6 +8610,7 @@
   "d53c8664eddb119d": 1790435416,
   "d542769b8fcabbde": 1790084279,
   "d550adc3ad6cb99e": 1790743524,
+  "d55121b3bdc5381b": 1790828127,
   "d5547d5d6f208a3a": 1790728933,
   "d57e50d0902c70f0": 1789870063,
   "d58032ff528b06b1": 1790057120,
@@ -10221,7 +10259,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790827817,
- "last_msg_poll": 1790828058,
+ "last_msg_poll": 1790828370,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10266,7 +10304,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 13:14 KST",
+  "last_run": "2026-10-01 13:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
