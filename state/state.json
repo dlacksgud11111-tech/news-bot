@@ -291,7 +291,7 @@
   },
   {
    "co": "",
-   "n": 2,
+   "n": 3,
    "s": "뉴스핌",
    "sc": 0,
    "sec": "데이터센터·AI전력",
@@ -348,6 +348,16 @@
    "t": "제주도, 추자풍력 계통연계·AI센터 국회 지원 요청 - 제주교통복지신문",
    "ts": 1790882750,
    "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zbFY3YmYwRmIyZ2xhLTd4MDdENTQxRVhkdXQ4QzZ5ak9NWFVnVklQLU9lY3BTMXdvRFVqMFVIdWp6ZWlFRDJ6Qk02b0VoNklKWS1LYmpDaG9MZ1VGOS1uYg?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "POWER Magazine",
+   "sc": 11,
+   "sec": "데이터센터·AI전력",
+   "t": "How Data Center-Driven Load Growth Is Reshaping the Renewable Energy Market",
+   "ts": 1790885563,
+   "u": "https://www.powermag.com/how-data-center-driven-load-growth-is-reshaping-the-renewable-energy-market/"
   }
  ],
  "clip_titles": [],
@@ -692,6 +702,7 @@
   "091d016afda7463f": 1790852721,
   "091d63ef6ab99d8f": 1789631127,
   "091f129916f1a81f": 1790643992,
+  "091fdada056ff192": 1790885736,
   "0930647ffc96f221": 1789627496,
   "094399825abf40a1": 1789963516,
   "0946e264afef4786": 1790495418,
@@ -4837,6 +4848,7 @@
   "693e3e52acc81921": 1790668519,
   "69414f4e9c546ccb": 1790750421,
   "694960011ee20222": 1790257522,
+  "694b2f39c319a129": 1790885736,
   "694e98f31500bf15": 1789971183,
   "6952b25603a38722": 1789699582,
   "69533e7887a98b8a": 1790831115,
@@ -10955,7 +10967,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790864727,
- "last_msg_poll": 1790885412,
+ "last_msg_poll": 1790885979,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -11000,7 +11012,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 05:10 KST",
+  "last_run": "2026-10-02 05:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
