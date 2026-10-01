@@ -318,6 +318,16 @@
    "t": "Looking beyond peak: Industry coalition floats new approach to measuring grid utilization",
    "ts": 1790861042,
    "u": "https://www.utilitydive.com/news/looking-beyond-peak-how-measure-grid-utilization/831533/"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "얼리어답터뉴스",
+   "sc": 22,
+   "sec": "전력기기",
+   "t": "LS일렉트릭, 북미 AI 데이터센터 초고압 변압기 1억 3천만 달러 대형 수주 - 얼리어답터뉴스",
+   "ts": 1790840571,
+   "u": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pNy1KUi1ZeU5palR3N21DSDBReVZmMWlmdDh0WExlUl83bW9RV3d2RFFqYlcwUjFqU21idTQwaTlZTlRUSlpKQTZR?oc=5"
   }
  ],
  "clip_titles": [],
@@ -10713,6 +10723,7 @@
   "fbe1d5de6e3254b5": 1790730092,
   "fbe4e62998f440a9": 1790856274,
   "fbe93d155e5c9c02": 1790111621,
+  "fbf48f5c5d47658c": 1790862623,
   "fbfd6b7378fb54fa": 1790645160,
   "fbff4664e1852158": 1790123140,
   "fc03269c77ce949e": 1790642813,
@@ -10891,7 +10902,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790857449,
- "last_msg_poll": 1790862565,
+ "last_msg_poll": 1790862864,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10936,7 +10947,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 22:49 KST",
+  "last_run": "2026-10-01 22:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
