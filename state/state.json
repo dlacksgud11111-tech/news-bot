@@ -283,6 +283,26 @@
    "t": "Maharashtra’s regulator proposes mandatory BESS for renewable projects seeking grid connectivity in Indian state",
    "ts": 1790859845,
    "u": "https://www.energy-storage.news/maharashtras-regulator-proposes-mandatory-bess-for-renewable-projects-seeking-grid-connectivity-in-indian-state/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 3,
+   "sec": "재생에너지·ESS",
+   "t": "Major US partnerships may signal battery storage’s infrastructure era",
+   "ts": 1790860543,
+   "u": "https://www.energy-storage.news/major-us-partnerships-may-signal-battery-storages-infrastructure-era/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Investing.com 한국어",
+   "sc": 12,
+   "sec": "데이터센터·AI전력",
+   "t": "Enerflex, 450MW 데이터센터 전력 공급 계약 체결에 주가 급등 - Investing.com 한국어",
+   "ts": 1790860140,
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00QnZpUVBRdHY0eDJtZjJvUlo2VVJTNXY2OEVFWkV0Y2ZSR1YwR0pTSm9KTElDYUFRY0NPSEltbWFmVWkwalBOLS1xQjhJRzFQMkVWRkVJTDh2c3hXNFhOUXM2V0hjeldTa241YTVYWnY?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2917,6 +2937,7 @@
   "3d7d1c6d682d25a3": 1789767070,
   "3d7f1c782db66966": 1789867761,
   "3d818cc8074b5308": 1790760226,
+  "3d85febdef954cb5": 1790860882,
   "3d86a8576275a292": 1789956616,
   "3d8aecb4bd678bf7": 1790122002,
   "3d8ca4ff19de1458": 1790733331,
@@ -3627,6 +3648,7 @@
   "4de3e86182c19f52": 1790292193,
   "4de8389507400af9": 1789980627,
   "4dea26ddf7bc3dc7": 1790847338,
+  "4debbe5bd3226d78": 1790860882,
   "4df4e98311f4da81": 1789953163,
   "4df600b3afeaffe7": 1790040917,
   "4df9dc65fb9ed73e": 1790554448,
@@ -7151,6 +7173,7 @@
   "a532765ef51840a6": 1790573944,
   "a53387072c82ade9": 1790185133,
   "a53835ff22bdec45": 1790749528,
+  "a53c2c70c468781b": 1790860882,
   "a54a2fc34cea2240": 1789967119,
   "a55014df83ca182f": 1790751916,
   "a550200b67ca70b5": 1790338169,
@@ -10850,7 +10873,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790857449,
- "last_msg_poll": 1790860556,
+ "last_msg_poll": 1790861122,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10895,7 +10918,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 22:15 KST",
+  "last_run": "2026-10-01 22:25 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
