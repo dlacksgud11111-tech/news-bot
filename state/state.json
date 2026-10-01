@@ -257,6 +257,16 @@
    "t": "LG전자, 1500억 들여 美 버지니아에 칠러 공장…AI 데이터센터 냉각 수요 정조준 - 콕스뉴스",
    "ts": 1790823822,
    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUR2o4ZV9QaEc5eXNteURmdjBoOGZGY3R0a3R2SWRxNVg3QlJwN3dIQUYwU0ctdEhYVWw5bUYyamJFQUVXRXRJcUg2TEFYVXlVUml1Z1JqUDcyc0xPRWpFWjlnSmxVeHBHX2c?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "한스경제",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "LS일렉트릭, 북미 AI 데이터센터 변압기 수주 - 한스경제",
+   "ts": 1790828239,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YV0x2S2g3ck1fQWk2Sk5SZmlGX0RqUFc1Y1QtbXpaZlpLbDFBZzZFQ3NmZ3lLbnBacm8yZDJ4T29SSVdSc0I4eC1FVUVyNldXUWt5c0ZuN0FqUTdlS3pTRW5jZVMwRmxzdFRNZNIBb0FVX3lxTE1IQ1A3UlMzQ09UOWtoXzU0MFRoSnJiLURkdXV5N0RlYm9BRVdHZjlzWWl1cVhkR1ZlbUNQUmJGTE1nQXNfTS05WXVBLW14QmJ1amxFclFWcEFjRHBrR09qcmhoUlpRYVVGcGRLaXJDMA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2809,6 +2819,7 @@
   "3e8ea450b323fe79": 1790825718,
   "3e96c3523da4f16d": 1789972883,
   "3ea13c050a4881fd": 1790129427,
+  "3eb5524669c46b5e": 1790828719,
   "3eb7a5a7ee77bdb7": 1789629088,
   "3ebb13936c39b990": 1789627496,
   "3ebc7b6a6c404e8a": 1790141423,
@@ -10261,7 +10272,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790827817,
- "last_msg_poll": 1790828658,
+ "last_msg_poll": 1790828960,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10306,7 +10317,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 13:24 KST",
+  "last_run": "2026-10-01 13:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
