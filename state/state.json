@@ -318,6 +318,16 @@
    "t": "Senate permitting bill would expand federal role in transmission siting",
    "ts": 1790862934,
    "u": "https://www.utilitydive.com/news/senate-permitting-bill-would-expand-federal-role-in-electric-transmission-s/831886/"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "비건뉴스",
+   "sc": 16,
+   "sec": "전력기기",
+   "t": "LS일렉트릭, 북미 데이터센터에 초고압변압기 공급 - 비건뉴스",
+   "ts": 1790874521,
+   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mZjFzRGtuOVA5YUppbk91amNoeEtCUW9uU2hMV0VTZDg1S1NvZGlSY2JBYU5vQW1MaW5LU0t3bEQ4MmpDNzQ2RTR0QmFrbUpKUUZXNzZaUjdNa2pmNlgyQmIwUi13QQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -10486,6 +10496,7 @@
   "f5c72097dbc7ba31": 1790755519,
   "f5ca33327b26d25d": 1789873818,
   "f5cb3cdf90f7c682": 1790805917,
+  "f5ceb8fcb4284723": 1790878101,
   "f5e176b4e2f52283": 1790044716,
   "f5e34fe6ae6b22f4": 1790597913,
   "f5e940c3daa4b00d": 1789950278,
@@ -10920,7 +10931,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790864727,
- "last_msg_poll": 1790877778,
+ "last_msg_poll": 1790878346,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10965,7 +10976,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 03:02 KST",
+  "last_run": "2026-10-02 03:12 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
