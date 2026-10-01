@@ -243,88 +243,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 6,
- "clip_buffer": [
-  {
-   "co": "LS일렉트릭",
-   "n": 2,
-   "s": "시사캐스트",
-   "sc": 16,
-   "sec": "전력기기",
-   "t": "LS일렉트릭, 美 AI 데이터센터에 1800억 규모 초고압 변압기 공급 - 시사캐스트",
-   "ts": 1790828383,
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EMDd6VnIyb2E0Q21SUVJ2TnpkRmtKYzQ5Mnh6Wm02NXh6eUwzZ1B1aVdDUWEtTWRNRFNiTkFidWhNOGJWWms5OE1rVGVjdjhyZkNJdjVGTnJfUzdQZDN5SUpvaGNnVE9R?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 2,
-   "s": "뉴스N연합",
-   "sc": 22,
-   "sec": "전력기기",
-   "t": "LS일렉트릭, 북미 AI 데이터센터 초고압 변압기 1억 3천만 달러 대형 수주 - 뉴스N연합",
-   "ts": 1790840934,
-   "u": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqY0czMDRZQ0x4SXZHdXR5OVZnTkZ0ajg5M2dYUHBkZmlXOUg5ZmxwbUpMVzEweVg0RlZfTW9iMmd5T0NFVWNjN2hB?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Virginia bans data center NDAs as part of new digital infrastructure framework",
-   "ts": 1790850475,
-   "u": "https://www.datacenterdynamics.com/en/news/virginia-bans-data-center-ndas-as-part-of-new-digital-infrastructure-framework/"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "SR타임스",
-   "sc": 16,
-   "sec": "전력기기",
-   "t": "LS일렉트릭, 美 하이퍼스케일 AI 데이터센터에 초고압 변압기 공급 - SR타임스",
-   "ts": 1790850430,
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ob2UteHprSF85S1hTcmFjMW9HOHYtcjJrU0hkM3JETGFSNmJXRENlZWt3bVBjdGtmUGUyOWtXLXQtY0xNMlJCbTU3Y1dtMnlJQTY4bW9UQnFCRmJTcmM1RnU2RTFLblht0gFrQVVfeXFMUF9Jc3NJc2N4SE5ydnZMMTN2eUZHblFoMWloM2JYWk9OcHljaVNSQ3YyMzBsOG1rT094ajJDMlZlaWQySlBjSGJvX01ONkpQNE45RmZselJIVnY1RnVXMHNnS0hDNDlWNUcwaFk?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 8,
-   "sec": "데이터센터·AI전력",
-   "t": "9.4GW SMR-powered data center campus proposed in Utah",
-   "ts": 1790852253,
-   "u": "https://www.datacenterdynamics.com/en/news/94gw-smr-powered-data-center-campus-proposed-in-utah/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 6,
-   "sec": "재생에너지·ESS",
-   "t": "Wärtsilä’s energy storage division rebrands through RCT Solar joint venture",
-   "ts": 1790853139,
-   "u": "https://www.energy-storage.news/wartsilas-energy-storage-division-rebrands-through-rct-solar-joint-venture/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 3,
-   "sec": "재생에너지·ESS",
-   "t": "Ireland energizes first SRESS solar farm, opening new revenue opportunities for farmers and landowners",
-   "ts": 1790853300,
-   "u": "https://www.pv-magazine.com/2026/10/01/ireland-energizes-first-sress-solar-farm-opening-new-revenue-opportunities-for-farmers-and-landowners/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "천지일보",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "“AI 경쟁력, 모델만으론 부족”… GPU 넘어 데이터센터·클라우드로 - 천지일보",
-   "ts": 1790855507,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QemNXNFA0aXM5Z05YMmhBUlprNWlOOS1EVE1oa1lrV0QzanZpWDBwT0RzNERTU0JYZGRFbjNialFscVhodF9WY2NSdDJqdDlLUE9zSEx4TXdOUEVMWXFBbnJrMDYzYWQwZ1E?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -2331,6 +2250,7 @@
   "2f30ccc4d3e48a27": 1790049916,
   "2f375aea9f00a87e": 1789734020,
   "2f37c0650f4df39d": 1790833487,
+  "2f3e1d70e9826932": 1790857449,
   "2f457195269bbd91": 1790666422,
   "2f4b2e8afc3b0092": 1789967119,
   "2f5dafa1a51e90c3": 1790721332,
@@ -4895,6 +4815,7 @@
   "6be8422a29f95f5a": 1790126420,
   "6bf660553171a76d": 1790064758,
   "6bf9d713a6673782": 1790661915,
+  "6c0098d216e989d6": 1790857449,
   "6c03cc9b85e799b2": 1790820617,
   "6c10e9cf21e127f9": 1790134531,
   "6c1c4558b45eed36": 1790831115,
@@ -10879,8 +10800,8 @@
  },
  "companies_today": {},
  "day": "2026-10-01",
- "last_clip": 1790850029,
- "last_msg_poll": 1790857090,
+ "last_clip": 1790857449,
+ "last_msg_poll": 1790857694,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10925,7 +10846,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 21:18 KST",
+  "last_run": "2026-10-01 21:28 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
