@@ -240,7 +240,7 @@
   },
   {
    "co": "LS일렉트릭",
-   "n": 4,
+   "n": 5,
    "s": "koreaittimes.com",
    "sc": 22,
    "sec": "전력기기",
@@ -367,6 +367,26 @@
    "t": "[대체불가 K테크] ⑤\"AI 데이터센터·3대 메가프로젝트 병용 에너지원에 수소가 제격\" - dongascience.com",
    "ts": 1790822700,
    "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tR1dsSDdHWDdtTUJLNUY0YUlOWVNubzU0VVVnSmZNR21kOVZDd0dsdDU2NjZjbVp6eWs0c0dYS0xyYUJ0cnQ0RkY5Y0dNdU92SHl5Wg?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "주간현대",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, 미국 신공장 신설·국내 생산라인 확충으로 AI 데이터센터 냉각 솔루션 생산능력 강화 - 주간현대",
+   "ts": 1790822520,
+   "u": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA4VVMwRG5neURoUnlUUmhQSnlyTFNKSEZqOHE3WEMza2xrOFh4YUlETkMtNXpkcjAtS1dEMjZ2Ym5BZ00?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy Connects",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "Biggest US Grid’s Data-Center Plan Accepted With 5-Month Pause - Energy Connects",
+   "ts": 1790744923,
+   "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbUF2dEI2eE9nZURjUDd6eEliZDJSQVdkRDZsTklUNWhjWldnQ3B5dVRRUUVnR2YzM24xLVBLdThvcXJBY29uWXZlRngzMDNadGlLaHVMYlhrOVR1VnlkYW9PSVN1WEltc1h2X1MyTUZ1bzQ3NVVKTWVjUjR6WldoYkViUHFUX2FWaGs2cE8ySml5bDZlcG4weUc4bnlfMUhKRlBrWUFTSGZyR3F3STlNOHZPZFhtR1BDNTRLLU5hcEZndw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2767,6 +2787,7 @@
   "3b6b19690ed57c45": 1789627496,
   "3b764921252765a5": 1790716975,
   "3b7aa54e081e1158": 1789703719,
+  "3b7ee4286ec25071": 1790823332,
   "3b826fdd33041830": 1789744587,
   "3b90f7e44f1d89c5": 1789716627,
   "3b9609c32025b981": 1790147295,
@@ -4756,6 +4777,7 @@
   "6e2c3806d81cf1aa": 1790606428,
   "6e3876d7a92b982f": 1790074519,
   "6e427fee7ffdd191": 1790814919,
+  "6e541125b1a04b78": 1790823332,
   "6e57a481baa5e673": 1789629088,
   "6e5cb1b84176d101": 1789627496,
   "6e5ece4182b6a0c5": 1790554448,
@@ -7513,6 +7535,7 @@
   "b726faebf5fbc07d": 1789627496,
   "b73df2b90e05000a": 1790740818,
   "b74acde9e3c18f85": 1789627496,
+  "b74fa7354f231257": 1790823332,
   "b7519db54cc77f3e": 1789953163,
   "b759d5add52016eb": 1790754616,
   "b768ab1f26c8ab33": 1790036576,
@@ -10264,7 +10287,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790820322,
- "last_msg_poll": 1790823263,
+ "last_msg_poll": 1790823577,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10309,7 +10332,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 11:54 KST",
+  "last_run": "2026-10-01 11:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
