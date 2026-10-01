@@ -308,6 +308,16 @@
    "t": "NYPA to own 51% of 240-MW solar project with EDF",
    "ts": 1790863040,
    "u": "https://www.utilitydive.com/news/nypa-240-mw-solar-project-edf-rich-road/831878/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 4,
+   "sec": "전력기기",
+   "t": "Senate permitting bill would expand federal role in transmission siting",
+   "ts": 1790862934,
+   "u": "https://www.utilitydive.com/news/senate-permitting-bill-would-expand-federal-role-in-electric-transmission-s/831886/"
   }
  ],
  "clip_titles": [],
@@ -1365,6 +1375,7 @@
   "19769524af74ad19": 1789720817,
   "19769b4529380a08": 1790092334,
   "197e5ae7b62f65f5": 1790042975,
+  "1984fcc920c78a94": 1790874630,
   "1985e36cfd0e15ae": 1790730658,
   "1988705b722bffef": 1790647519,
   "1993628cc011d470": 1790583021,
@@ -10906,7 +10917,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790864727,
- "last_msg_poll": 1790874580,
+ "last_msg_poll": 1790874872,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10951,7 +10962,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 02:09 KST",
+  "last_run": "2026-10-02 02:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
