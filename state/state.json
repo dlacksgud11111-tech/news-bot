@@ -243,7 +243,18 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 6,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "시사캐스트",
+   "sc": 16,
+   "sec": "전력기기",
+   "t": "LS일렉트릭, 美 AI 데이터센터에 1800억 규모 초고압 변압기 공급 - 시사캐스트",
+   "ts": 1790828383,
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EMDd6VnIyb2E0Q21SUVJ2TnpkRmtKYzQ5Mnh6Wm02NXh6eUwzZ1B1aVdDUWEtTWRNRFNiTkFidWhNOGJWWms5OE1rVGVjdjhyZkNJdjVGTnJfUzdQZDN5SUpvaGNnVE9R?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "0003f98f6034d59c": 1790586316,
@@ -3818,6 +3829,7 @@
   "538fc49c39f0bfd0": 1789955477,
   "539c4f080c8ea491": 1790746830,
   "539e6a5d22344cd0": 1789972883,
+  "53a31d0c3b03ce74": 1790850323,
   "53a6119593ec8e39": 1790122002,
   "53a6f3f59de2064f": 1790821220,
   "53a7f58b11dafc58": 1789704919,
@@ -4253,6 +4265,7 @@
   "5e60f362cbe3af7a": 1790751916,
   "5e617c3124a2b2a2": 1790498418,
   "5e669ed8c32129f6": 1789868332,
+  "5e6f965d7df2e180": 1790850323,
   "5e72376bf74088e0": 1790189150,
   "5e7871a102741dd4": 1789629088,
   "5e7b9bc7b46e112d": 1789648519,
@@ -10768,7 +10781,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790850029,
- "last_msg_poll": 1790850272,
+ "last_msg_poll": 1790850568,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10813,7 +10826,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 19:24 KST",
+  "last_run": "2026-10-01 19:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
