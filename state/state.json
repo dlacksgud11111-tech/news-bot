@@ -417,6 +417,16 @@
    "t": "거제 수해·도서지역 전력공급 점검...한전, 재난 대응 보완",
    "ts": 1790856959,
    "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228701"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "비즈월드",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "[산업 HOT 뉴스] LG전자, AI 데이터센터 열 식히는 ‘칠러’ 공장 미국 버지니아에 신설 - 비즈월드",
+   "ts": 1790826240,
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYRmFYSWVjc3RiWVlfVTA5eWk5S2xvWnZtRHNqai04VndIVHVjSzZ6Q19pbUZxMGhXVF9hdVFQN1doLWdHR3JiN1ZjUWJkNm1FbDRRN3RxMUI2RW5TY21Wd0FxS0VScjZzbXc?oc=5"
   }
  ],
  "clip_titles": [],
@@ -5644,6 +5654,7 @@
   "831813f33986fb66": 1790735693,
   "831ad96d903559ea": 1790640533,
   "832291e9ead793d4": 1790647820,
+  "8326f8033f1c0b0a": 1790826617,
   "833a2e044c461049": 1790823919,
   "833e91333d9fc29f": 1789983017,
   "83478c076fcd3165": 1789960215,
@@ -10396,7 +10407,7 @@
  "companies_today": {},
  "day": "2026-10-01",
  "last_clip": 1790820322,
- "last_msg_poll": 1790826557,
+ "last_msg_poll": 1790826861,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10441,7 +10452,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-01 12:49 KST",
+  "last_run": "2026-10-01 12:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
