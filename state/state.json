@@ -328,6 +328,16 @@
    "t": "LS일렉트릭, 북미 데이터센터에 초고압변압기 공급 - 비건뉴스",
    "ts": 1790874521,
    "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mZjFzRGtuOVA5YUppbk91amNoeEtCUW9uU2hMV0VTZDg1S1NvZGlSY2JBYU5vQW1MaW5LU0t3bEQ4MmpDNzQ2RTR0QmFrbUpKUUZXNzZaUjdNa2pmNlgyQmIwUi13QQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "Solar for All grantees seek damages from EPA over ‘devastating’ cuts",
+   "ts": 1790834400,
+   "u": "https://www.utilitydive.com/news/solar-for-all-funding-ep-court-uncertainty/831144/"
   }
  ],
  "clip_titles": [],
@@ -1368,6 +1378,7 @@
   "18f7860503e19be0": 1790681418,
   "1910901671fcfb73": 1790643992,
   "191184757689567d": 1790802441,
+  "19252aac19a9ee1f": 1790881219,
   "1925d489393b112d": 1790643992,
   "1934e135d4de4d3b": 1790115057,
   "1935766b2311070b": 1790836926,
@@ -10932,7 +10943,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790864727,
- "last_msg_poll": 1790881189,
+ "last_msg_poll": 1790881466,
  "last_weekly": 1790290800.0,
  "paused": false,
  "posted_today": 0,
@@ -10977,7 +10988,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 03:59 KST",
+  "last_run": "2026-10-02 04:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
