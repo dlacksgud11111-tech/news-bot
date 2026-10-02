@@ -319,6 +319,16 @@
    "t": "동해시, GS그룹 'AI 데이터센터' 최종 허가…이달 첫 삽 - 파이낸셜포스트",
    "ts": 1790921521,
    "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DbTIyS09sZVpuZk9INGpZVXNxaFpvNk1Cenh5bDZKcXdEbnc1NzVaZTVCa0k1TUVqRVlIQUFaTWJjM2lGMjFLTzJ5eFNRWThWN2NxejIzS24tSTVmQnpNNVBVOWltR3l6YUE2U1piQUFxZW55?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "Chinese PV Industry Brief: Inner Mongolia advances 5.5 GW solar-desertification program",
+   "ts": 1790922292,
+   "u": "https://www.pv-magazine.com/2026/10/02/chinese-pv-industry-brief-inner-mongolia-advances-5-5-gw-solar-desertification-program/"
   }
  ],
  "clip_titles": [],
@@ -2806,6 +2816,7 @@
   "3826144722d44d93": 1790759086,
   "3832ac28b8d541da": 1789695321,
   "3835b08175e3dbf3": 1790638217,
+  "3836925ae9c7de3b": 1790922323,
   "3839776569143fb1": 1789632918,
   "38406e553a4e70cc": 1790817021,
   "38427e7e66b57af0": 1790908520,
@@ -4306,6 +4317,7 @@
   "591d43d610ae17ef": 1789724119,
   "5921f67203815422": 1789828903,
   "59298940c4b4671d": 1790660118,
+  "593a88468e654685": 1790922323,
   "593c420d18e76ad9": 1790728933,
   "59450169591b871b": 1789648519,
   "594915f2548c9336": 1789956921,
@@ -4752,6 +4764,7 @@
   "631efbcb9aa307e7": 1789972883,
   "631f80be617dced0": 1790679660,
   "632f04ccae8ede66": 1790911817,
+  "6338af621f00a441": 1790922323,
   "6345134cd72dbf42": 1790455830,
   "63487b3b2a6cb90a": 1790151015,
   "634d3c3ad39f6e9b": 1790699001,
@@ -11404,7 +11417,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790921721,
- "last_msg_poll": 1790922260,
+ "last_msg_poll": 1790922566,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11449,7 +11462,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 15:24 KST",
+  "last_run": "2026-10-02 15:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
