@@ -529,6 +529,26 @@
    "t": "LS전선, 獨 하팅과 AI 데이터센터 전력 설루션 개발 - 더팩트",
    "ts": 1790924195,
    "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oYlVHalloOTNmb2xqWFk1OF9FN0U0aW9SRThZMHZGd1ZoZ0NUbjJhSkFTRHRNRElmQ1NVTGlwWWhxbXlvS0lOYkxWSWFzeHBHZW53cW9LWENod9IBVEFVX3lxTE9MWHdRMWc0OUVkNkczaTdrbi1EdVAzMmlJMURRNTd5b3d4ZEt6cFhMX29HQWlRY2dvZDhzdm5JOFUwRVhHLXFGbWRUdTRuamNBRVFfUw?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "비즈트리뷴",
+   "sc": 16,
+   "sec": "전력기기",
+   "t": "LS일렉트릭, 美 AI 데이터센터에 1812억원 초고압 변압기 공급 - 비즈트리뷴",
+   "ts": 1790926947,
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54U19BcXB2OVZOMVhpb2s3RkxEcFkxSkpKd0c5M0Q0aUNPWk1vVTlZRlN4OVQ3QnhNa2pZQUt2bmhVeHhuY0cwZlVQd0pMazQ5Q3I3Z051NlNrdGM3V2NoUjBYeE50bnM4T1lTQnI2SkM?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 5,
+   "sec": "데이터센터·AI전력",
+   "t": "Plans filed for 1GW data center campus at former nuclear plant in Scotland",
+   "ts": 1790926860,
+   "u": "https://www.datacenterdynamics.com/en/news/plans-filed-for-1gw-data-center-campus-at-former-nuclear-plant-in-scotland/"
   }
  ],
  "clip_titles": [],
@@ -1535,6 +1555,7 @@
   "1735c5344462b507": 1790651338,
   "17371a0969729889": 1790130924,
   "1737a7325e1c3eb3": 1790640533,
+  "17445f1e2fb471d4": 1790927361,
   "1744809553ba82a0": 1790498418,
   "174c449c2d3afca5": 1789784418,
   "1759f1970ec6e424": 1790130014,
@@ -2896,6 +2917,7 @@
   "350a7a2e14c66b8f": 1789718418,
   "351183c561736ef7": 1789627496,
   "35152f8a34fad9f2": 1790130924,
+  "35227df5d6e15dd3": 1790927361,
   "35243c7d433a8a82": 1790819418,
   "353755fe76928d78": 1790467770,
   "354ae1557f8fbdc5": 1790060726,
@@ -5607,6 +5629,7 @@
   "7140c61307495a97": 1790898024,
   "7149f04dd5144bdf": 1789959919,
   "714c3869ad36f10a": 1789966821,
+  "71506ad1cf43587b": 1790927361,
   "7153e3feef35ba27": 1790122002,
   "715c1c4c46cf8e59": 1789978815,
   "71671022b61769a9": 1790040051,
@@ -7239,6 +7262,7 @@
   "97f824b3ba031c1c": 1790210420,
   "97f97791ae0de335": 1790901316,
   "98000531783cda0c": 1790639367,
+  "9805f4a2e7de63a5": 1790927361,
   "980cec272f26a659": 1790912423,
   "980d30055e7504c2": 1790658361,
   "980d7f1eee9cddbb": 1790120279,
@@ -11141,6 +11165,7 @@
   "f34390299b77da8f": 1790126420,
   "f3500d42130c8281": 1790822722,
   "f35111d685c5772b": 1790572220,
+  "f354fc44dc3c3611": 1790927361,
   "f3625ef9e9f276de": 1790908520,
   "f36b98e66a2d0c69": 1789979721,
   "f370c57dd98f4046": 1790897721,
@@ -11708,7 +11733,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790921721,
- "last_msg_poll": 1790927026,
+ "last_msg_poll": 1790927601,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11753,7 +11778,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 16:43 KST",
+  "last_run": "2026-10-02 16:53 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
