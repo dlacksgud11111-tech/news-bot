@@ -383,6 +383,16 @@
    "t": "디딤, 'AI-Cloud Big Tech 2026'에서 AI 데이터센터(AIDC) 운영 혁신 전략 발표",
    "ts": 1790903620,
    "u": "https://www.etnews.com/20261002000064"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "산경e뉴스",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "김성환 장관 “온실가스 감축 목표 못 지켜 죄송”...AI·반도체 전력수요 변수 - 산경e뉴스",
+   "ts": 1790905417,
+   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vUlRsaGZQTVpEZ01sRUwyWk9OOGkzWWRUVW9Nak9PR2Fja2ctbXlUYjlhT2hrMS1INTluZ0VrcXpwbEZnVk9WQlRVeFZlUVhEd2pmTkhQOHJXUGdhb2V1NmM0U2k1VG8?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1703,6 +1713,7 @@
   "1edbe234c92ccb93": 1790751916,
   "1ee37322ce65ff9b": 1790771420,
   "1ee6a3f79c65fccf": 1790067063,
+  "1eec357ba6f3549a": 1790905821,
   "1eef3ac79a303d05": 1790480947,
   "1ef076fa0bae0aa2": 1789706415,
   "1ef89d23c11f06ba": 1790776839,
@@ -2947,6 +2958,7 @@
   "3aa27fedc30db148": 1789970613,
   "3aa398f335d15baa": 1790668519,
   "3aa8f3d5fde36c18": 1790037157,
+  "3ab5e1c1284e828e": 1790905821,
   "3ab7d84362be5ce1": 1790576273,
   "3abfc9de9912d356": 1790129720,
   "3ac0981f8d004d46": 1789686316,
@@ -5127,6 +5139,7 @@
   "6ce0bd6cb52ea3cf": 1789978220,
   "6ce615422e3db864": 1789956616,
   "6ce9380e1f9a0f7b": 1789971183,
+  "6cec95a2d373c631": 1790905821,
   "6cee2546cf10c23a": 1789962027,
   "6d0008ea00a8997c": 1790111621,
   "6d06c2defb0b7bed": 1790478323,
@@ -11220,7 +11233,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790899528,
- "last_msg_poll": 1790905758,
+ "last_msg_poll": 1790906068,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11265,7 +11278,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 10:49 KST",
+  "last_run": "2026-10-02 10:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
