@@ -444,6 +444,16 @@
    "t": "日 JERA·델·라엘름 \"5년내 3~4GW 데이터센터 구축 목표\" - 연합뉴스",
    "ts": 1790907209,
    "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oN0UyR2VlbmdHVFF4ZzdGSTFhTHhoMTNVT21TdXF2NHVwdFZRV0hOTUtmVHVweDBkZnRmMGR4Mm5SeDdoVXNmb3I4dmllSkNvSTZTbHNHMWVadGM5b3luQ9IBYEFVX3lxTE5oN0UyR2VlbmdHVFF4ZzdGSTFhTHhoMTNVT21TdXF2NHVwdFZRV0hOTUtmVHVweDBkZnRmMGR4Mm5SeDdoVXNmb3I4dmllSkNvSTZTbHNHMWVadGM5b3luQw?oc=5"
+  },
+  {
+   "co": "LS전선",
+   "n": 1,
+   "s": "뉴스웰",
+   "sc": 10,
+   "sec": "전력기기",
+   "t": "LS전선, 독일 하팅과 'AI 데이터센터 전력 솔루션' 개발 - 뉴스웰",
+   "ts": 1790919740,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVQ19KQTVSbk5zVVZLdElVMmQxczF1UXVkdVY1YTRwYVZCSzh0NmVFWVVPY0JLaFBvRkdsRzlOdVFvVHN6LVcyalBmaFZQSDhXNFQ5OHRCVFUxQUctbFROQ3RuMGlLVEpmMkhkWA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -5006,6 +5016,7 @@
   "66a6e0ff671e56cd": 1789627496,
   "66a7f375be69abfb": 1790748320,
   "66af11da50f66e07": 1789873818,
+  "66b0e3eb2c78e84b": 1790920225,
   "66b9f1dcd2c84d30": 1790164231,
   "66bb60490858ce1e": 1790127622,
   "66bdfb225132aa32": 1789851916,
@@ -5505,6 +5516,7 @@
   "72324b6c1ebe6ebd": 1790471761,
   "72358f28b689a915": 1790036576,
   "7238a2a020eb4e15": 1790735693,
+  "723cd7c29260e55b": 1790920225,
   "723dbf27e4c38e2a": 1790662829,
   "723dc2c9b950c2c9": 1790633121,
   "7241068ddbf29855": 1790001429,
@@ -7737,6 +7749,7 @@
   "a7c6811dc0688baa": 1789720817,
   "a7cb4fe0f56fc973": 1790139330,
   "a7d12a111ab2f9d7": 1790672120,
+  "a7dab1883cf9a869": 1790920225,
   "a7e2662917324a75": 1790054122,
   "a7e2f334e7fb1cc1": 1790831115,
   "a7ea6149d2c7df5a": 1790743524,
@@ -11490,7 +11503,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790914228,
- "last_msg_poll": 1790920161,
+ "last_msg_poll": 1790920469,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11535,7 +11548,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 14:49 KST",
+  "last_run": "2026-10-02 14:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
