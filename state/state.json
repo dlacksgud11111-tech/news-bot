@@ -354,6 +354,16 @@
    "t": "세미나허브, AI 데이터센터 개발·구축·운영 전략 집중 교육 개최 - 청년개발자신문 - 데브타임즈",
    "ts": 1790925310,
    "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vMkNaTG1ScUg2RHd1ckZFYmJHcjJWbkJHWm5Cdk1IV3oydnAzSWQ2UHlpa2I4UHVLZFo0TGtCdVc0c0FFb3ZDM01pX0VFMnM?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 4,
+   "sec": "전력기기",
+   "t": "Medusa subsea cable system expands to Jordan, partners with NaiTel",
+   "ts": 1790947600,
+   "u": "https://www.datacenterdynamics.com/en/news/medusa-subsea-cable-system-expands-to-jordan-partners-with-naitel/"
   }
  ],
  "clip_titles": [],
@@ -5018,6 +5028,7 @@
   "669879f1f4708cf1": 1790124922,
   "669a2d8603b61ddf": 1790650193,
   "669ee970cf3465e2": 1790034282,
+  "669fc0309196c6ab": 1790947838,
   "66a6e0ff671e56cd": 1789627496,
   "66a7f375be69abfb": 1790748320,
   "66af11da50f66e07": 1789873818,
@@ -11694,7 +11705,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790943936,
- "last_msg_poll": 1790947778,
+ "last_msg_poll": 1790948085,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11739,7 +11750,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 22:29 KST",
+  "last_run": "2026-10-02 22:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
