@@ -278,6 +278,36 @@
    "t": "일진전기, 英 400kV 송전망 1872억 수주…유럽 초고압 케이블 턴키 확대 - 데이터투자",
    "ts": 1790906415,
    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WbWhVN19tM0xQWVB1UUJBRGFEUnNUR0tGSzJUZWE2d3ROOEZjdmNZcG9UdDFhcW1lR0FBTWNGN2R6MW1ZT1FDREt1OUZZMWFvRk9tdHJxSjZVSTVmTGplekFIOHA3M2FuQjNlaUJmWlh5TFE?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Naver Blog",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AI데이터센터 훈풍 탄 두산퓨얼셀, 적자 행진 마침표 기대감 : 네이버 블로그 - Naver Blog",
+   "ts": 1790906775,
+   "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOemJlM3Vyd0lPRGlGcFpfLUJtZmpSdlgtb2JaNC1GS0ZRQ2QzRlM2U2lxRmpmVVl4MWZlYnVJb0NyYlBQRGJ3bWw2QXU4azJNSFJDd0Q0WHk1RnIwSGY1dEhoQVk4VXN1d1RLZzZUR0UwWXBGYTB4MGVtN0FDU2xfUldHc1RjYkJUYi1VcUppYw?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "에너지경제신문",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "LS일렉트릭, 美 AI 데이터센터에 1800억원 규모 초고압 변압기 공급 - 에너지경제신문",
+   "ts": 1790906768,
+   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lR1IteVZrMmJycjBHQU56UU5FSDE1SUFsRHBKY0NYOWJuUHBFT280bXZJcmZiQnRnOHMyMzBiSGxVRlRxUURYMUNVMVBvMFFuNnhIOU44Sm9DVmhyRVRlN1NCbw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스 경제 최신기사",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "동해시, GS그룹 AI 데이터센터 100MW 건축허가…올해 착공",
+   "ts": 1790906632,
+   "u": "https://www.yna.co.kr/view/AKR20261002076200062"
   }
  ],
  "clip_titles": [],
@@ -2088,6 +2118,7 @@
   "29d2c066f6d69b8e": 1790640533,
   "29d840ab18888584": 1790736258,
   "29e225db3b6ee616": 1789996533,
+  "29e3aab1b8e0ea26": 1790907314,
   "29f0184db9c11377": 1790687122,
   "29f25d6a2ac8009c": 1790728933,
   "29f5a59e3bb90402": 1790253167,
@@ -3639,6 +3670,7 @@
   "4c772baf2cd50b1f": 1790752230,
   "4c7c09501167f99d": 1789632334,
   "4c8c1cca852fde7e": 1790748619,
+  "4c8e711cff930347": 1790907314,
   "4c92a1ef47122fde": 1789976119,
   "4c9514cffc32aa8d": 1790689223,
   "4c98f9710ccddd60": 1789700729,
@@ -5324,6 +5356,7 @@
   "73e3dbe487e87c51": 1789629088,
   "73f29ab166a7abf1": 1790823619,
   "73f6560f726ae26e": 1789731017,
+  "740503a45f48a551": 1790907314,
   "740df8f56b2109b6": 1790814019,
   "7414a26becaba5b3": 1790726668,
   "741853ca4b80b94d": 1790555020,
@@ -7714,6 +7747,7 @@
   "ae4011ac8a22678b": 1789938697,
   "ae42602b6b04cfc9": 1789866014,
   "ae42dfa18d9bf3a0": 1789682714,
+  "ae42e17249e2d2f8": 1790907314,
   "ae4edd5c3efd3983": 1789877422,
   "ae4efd0acd1f67b3": 1790847338,
   "ae5088f8bc7d5f97": 1789634116,
@@ -11146,7 +11180,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790906736,
- "last_msg_poll": 1790907264,
+ "last_msg_poll": 1790907562,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11191,7 +11225,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 11:14 KST",
+  "last_run": "2026-10-02 11:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
