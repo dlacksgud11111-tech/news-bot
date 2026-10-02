@@ -394,6 +394,16 @@
    "t": "에버렌스, 데이터센터 아이슬란드서 맞춤형 에너지 솔루션 공개 - 2news.co.kr",
    "ts": 1790926688,
    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PUm1BRGhyNzNBTHlYNGRtSTY2RTM1SGZLVlRzTEtGZExEQ0ZZdVRaQ01ET2Vic00wUmNYOUY3SWFFMS10U3JKdVpGSXNPTExXeTRNZnpxTGdZRVRtUmNnNVhHTFlWUUow?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 8,
+   "sec": "재생에너지·ESS",
+   "t": "Renalfa IPP, Eurowind inaugurate solar-plus-storage hybrid renewable energy park in Bulgaria",
+   "ts": 1790931465,
+   "u": "https://www.energy-storage.news/renalfa-ipp-eurowind-inaugurate-solar-plus-storage-hybrid-renewable-energy-park-in-bulgaria/"
   }
  ],
  "clip_titles": [],
@@ -1576,6 +1586,7 @@
   "1adbdc08662785dc": 1790723121,
   "1ade6644959aa122": 1790288155,
   "1ae4cec026f17d08": 1789868332,
+  "1ae55ee602051d13": 1790931618,
   "1aea42a9adf2f511": 1790687122,
   "1aeed062c05207fd": 1790035428,
   "1af7eb3bebccd320": 1790734218,
@@ -3112,6 +3123,7 @@
   "3c0e40c3787ceb9f": 1789958121,
   "3c1b75e2b99dcaa2": 1790908520,
   "3c1c0db85afa82e7": 1789778078,
+  "3c1da5ac1a29c460": 1790931618,
   "3c2d32702cca51ef": 1790731219,
   "3c328955f17f1e76": 1789980916,
   "3c36c0c2881cc538": 1789977915,
@@ -11456,6 +11468,7 @@
   "fbd7d684c496f697": 1789734020,
   "fbd8f2745a3065e5": 1790552453,
   "fbdd390e214ba2de": 1789701321,
+  "fbdfe546daf7541f": 1790931618,
   "fbe1d5de6e3254b5": 1790730092,
   "fbe4e62998f440a9": 1790856274,
   "fbe93d155e5c9c02": 1790111621,
@@ -11652,7 +11665,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790929051,
- "last_msg_poll": 1790931584,
+ "last_msg_poll": 1790931859,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11697,7 +11710,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 17:59 KST",
+  "last_run": "2026-10-02 18:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
