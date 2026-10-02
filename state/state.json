@@ -329,6 +329,26 @@
    "t": "AWS drops non-disclosure agreements for data center projects",
    "ts": 1790958096,
    "u": "https://www.datacenterdynamics.com/en/news/aws-drops-non-disclosure-agreements-for-data-center-projects/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AI data center planned for Karlsruhe Institute of Technology, Germany",
+   "ts": 1790958421,
+   "u": "https://www.datacenterdynamics.com/en/news/ai-data-center-planned-for-karlsruhe-institute-of-technology-germany/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Another data center in Kyiv taken offline by Russian strikes",
+   "ts": 1790958186,
+   "u": "https://www.datacenterdynamics.com/en/news/another-data-center-in-kyiv-taken-offline-by-russian-strikes/"
   }
  ],
  "clip_titles": [],
@@ -5316,6 +5336,7 @@
   "6d0c3902b016c7c5": 1790578558,
   "6d16501bde4de737": 1790645160,
   "6d18ca5dab640783": 1790823919,
+  "6d201737873514df": 1790958620,
   "6d217b5a71be0bfc": 1790145020,
   "6d27803ebf396acb": 1790753717,
   "6d3142f4dd2a6e70": 1790834627,
@@ -8693,6 +8714,7 @@
   "b9ba09f73b6dff07": 1790671521,
   "b9cc6f71418aa2f8": 1790838638,
   "b9ccf4d0ca5df3a4": 1789868332,
+  "b9cf43743fafb279": 1790958620,
   "b9d189f4b35660d9": 1789938120,
   "b9e22bdab7000900": 1790800191,
   "b9ea0ee56d45911d": 1790643992,
@@ -11745,7 +11767,7 @@
  "companies_today": {},
  "day": "2026-10-03",
  "last_clip": 1790951650,
- "last_msg_poll": 1790958588,
+ "last_msg_poll": 1790958868,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11790,7 +11812,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-03 01:29 KST",
+  "last_run": "2026-10-03 01:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
