@@ -344,6 +344,16 @@
    "t": "DCD Studio: Why the data center industry needs a voice in the media with Venessa Moffat, Data Center Alliance",
    "ts": 1790938351,
    "u": "https://www.datacenterdynamics.com/en/videos/dcd-studio-why-the-data-center-industry-needs-a-voice-in-the-media-with-venessa-moffat-data-center-alliance/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "Spain’s first pre-commercial marine solar demonstrator enters testing",
+   "ts": 1790939265,
+   "u": "https://www.pv-magazine.com/2026/10/02/spains-first-pre-commercial-marine-solar-demonstrator-enters-testing/"
   }
  ],
  "clip_titles": [],
@@ -8361,6 +8371,7 @@
   "b38e87ceb9dc4460": 1790929616,
   "b39b383ec149733f": 1789627496,
   "b39cb787518db206": 1790132720,
+  "b39cfda65c9b000f": 1790939415,
   "b39f7876e33270fc": 1790152520,
   "b3adab6746ccf9d7": 1790732723,
   "b3b4382c3d24bd6e": 1790142332,
@@ -11661,7 +11672,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790936429,
- "last_msg_poll": 1790939366,
+ "last_msg_poll": 1790939655,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11706,7 +11717,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 20:09 KST",
+  "last_run": "2026-10-02 20:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
