@@ -414,6 +414,16 @@
    "t": "LS전선, 하팅과 손잡고 AI 데이터센터 ‘서버랙 전력망’ 공략 - 이뉴스투데이",
    "ts": 1790932800,
    "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5seUhXN1RpUzd1blBiMnFiamFLRGxzMW5IbGI3c3lLU1kyS0dtSzVOcTlRZlVFdkhERWFTTTRnd09HU0J6bHkyWGhIaTJxamd0T3JiMUJRSDZXQXVXSm5XNzZCNkdJYU4zYTRDdUNUZ1bSAXRBVV95cUxNeXRDcDBvT0RkQlVnZVVjTVZvdklLXzZnZG81RFkyV0hWWTdWamZuNWdhdmhPVkI4TDItdTlYTlA3WWlLYjVlU003NW5FZmJPenFJVVBEdXY5MmN5dzRiMURsblYyU25xbnNJTnNiV1NRbkQ5SA?oc=5"
+  },
+  {
+   "co": "Siemens Energy",
+   "n": 1,
+   "s": "DCD",
+   "sc": 12,
+   "sec": "데이터센터·AI전력",
+   "t": "DCD Talks: Inside the US data center power shift with Richard Reisig, Siemens Energy",
+   "ts": 1790934235,
+   "u": "https://www.datacenterdynamics.com/en/videos/dcd-talks-inside-the-us-data-center-power-shift-with-richard-reisig-siemens-energy/"
   }
  ],
  "clip_titles": [],
@@ -11116,6 +11126,7 @@
   "f2ecbae9e3f43831": 1790384721,
   "f30cc617302802c4": 1790153718,
   "f320db221cecd777": 1790747420,
+  "f32a3d83aa2159f2": 1790934618,
   "f32d7f4665c5f3fc": 1790747118,
   "f32ee410ebbe8b23": 1790610617,
   "f32ef9435088ca33": 1789627496,
@@ -11699,7 +11710,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790929051,
- "last_msg_poll": 1790934562,
+ "last_msg_poll": 1790934859,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11744,7 +11755,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 18:49 KST",
+  "last_run": "2026-10-02 18:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
