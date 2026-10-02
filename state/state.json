@@ -443,6 +443,36 @@
    "t": "12차 전기본 '원전 공론화위원회' 출범…국민 숙의 돌입",
    "ts": 1790908516,
    "u": "https://www.etnews.com/20261002000102"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "전기신문 - 전체기사",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "해상풍력 이어 육상으로…서부발전·전남개발공사 협력 확대",
+   "ts": 1790941859,
+   "u": "https://www.electimes.com/news/articleView.html?idxno=373056"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "전기신문 - 전체기사",
+   "sc": 0,
+   "sec": "유틸리티·정책",
+   "t": "남부발전, AI로 발전소 구조물 위험징후 잡는다",
+   "ts": 1790941110,
+   "u": "https://www.electimes.com/news/articleView.html?idxno=373054"
+  },
+  {
+   "co": "LS전선",
+   "n": 1,
+   "s": "데일리안",
+   "sc": 10,
+   "sec": "전력기기",
+   "t": "LS전선, 獨 하팅과 AI 데이터센터 전력 솔루션 공동개발 - 데일리안",
+   "ts": 1790910780,
+   "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWEcxTmJQRV9qWkdINUg4QkhOTHFiT2E3T1ZCdjBHR09HRjNKZlV6MGhDUTNXYzRYaTZKUjJKeUlZNG9sNXNuRmRsc0o4bE9pZGxtVkpERk53WW5wa2NpUGs4UzFsWFpOWk92czRJb3VDb1FPMEFFbHozdmhRS2VLcm1yc090WFAzSUhIb2dBVWtEYjA2NGZTb3kzbGtqTVBrMFc0aEFlVzdEQ01SX29LWGJqczNYU28xSWs0WWpheGpTV3NHdUtxXzBaSnBjXzRpaGl4UWRtT2NGQ0s5cDhqa0dxMFljZElsblFPcQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1679,6 +1709,7 @@
   "1cf4bffdcf8085fc": 1790559622,
   "1cf5972135177f54": 1790840120,
   "1cf7c4897eecc333": 1789713633,
+  "1d07b39f8414df23": 1790911222,
   "1d0bf3f05c80dac7": 1789956616,
   "1d129d2891ce53cc": 1789695321,
   "1d1b5183e1fdaff9": 1789873818,
@@ -4156,6 +4187,7 @@
   "53c083578847ec8a": 1789962027,
   "53c08ffc26994488": 1789627496,
   "53c7575d4b2417de": 1789982120,
+  "53cacd8f36ee65c0": 1790911222,
   "53d6fc9a65538482": 1790478323,
   "53ddd5d4b82d33eb": 1790496322,
   "53e16dbf1649a792": 1790602525,
@@ -4637,6 +4669,7 @@
   "5f244853f9351b92": 1790040917,
   "5f254e5bfb37e576": 1789957222,
   "5f2856d36ce3d390": 1790824219,
+  "5f2d12c1365475bc": 1790911222,
   "5f3c5de054eba9d4": 1790844327,
   "5f5f30b12e3d31f2": 1790838638,
   "5f64066ce86976a1": 1790037157,
@@ -5853,6 +5886,7 @@
   "7c3099077fdd380b": 1789693531,
   "7c33f7a59e513ce3": 1790053518,
   "7c39b3fc4753b390": 1789633820,
+  "7c3e6e12c813e4de": 1790911222,
   "7c4ae6fcaf1fc140": 1790564716,
   "7c4cf87c37b04fec": 1790745919,
   "7c543acc07234ca1": 1790673291,
@@ -8765,6 +8799,7 @@
   "c1c66a3cb947e16a": 1790035999,
   "c1c792e38b975af3": 1790556223,
   "c1c829049b0af650": 1789953163,
+  "c1c8fc008004ddab": 1790911222,
   "c1ca9986d43233f9": 1790583931,
   "c1cb3e421aedd473": 1790123718,
   "c1d65afe74c61021": 1790814336,
@@ -9957,6 +9992,7 @@
   "df5316980f435bc6": 1790838079,
   "df5733bd7d9863c2": 1790053518,
   "df61c87c416c1776": 1789976730,
+  "df679bc0f9711bb1": 1790911222,
   "df6b1e59a7c9b6a5": 1789978220,
   "df6de917facc7f53": 1790728372,
   "df7a05dd2a9839e6": 1789957222,
@@ -11372,7 +11408,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790906736,
- "last_msg_poll": 1790910897,
+ "last_msg_poll": 1790911462,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11417,7 +11453,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 12:14 KST",
+  "last_run": "2026-10-02 12:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
