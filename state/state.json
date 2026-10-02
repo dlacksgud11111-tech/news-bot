@@ -334,6 +334,16 @@
    "t": "Concern over 'monster' data center planned for Cheshire, UK",
    "ts": 1790937835,
    "u": "https://www.datacenterdynamics.com/en/news/concern-over-monster-data-center-planned-for-cheshire-uk/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "DCD Studio: Why the data center industry needs a voice in the media with Venessa Moffat, Data Center Alliance",
+   "ts": 1790938351,
+   "u": "https://www.datacenterdynamics.com/en/videos/dcd-studio-why-the-data-center-industry-needs-a-voice-in-the-media-with-venessa-moffat-data-center-alliance/"
   }
  ],
  "clip_titles": [],
@@ -1000,6 +1010,7 @@
   "0fdd8873e34e6ca3": 1790735693,
   "0fdf4f5e05fb505b": 1790642813,
   "0fe64b74d30248c5": 1790054715,
+  "0fe6ad9c4071e062": 1790938820,
   "0feff24bb0b9c5b1": 1790921128,
   "0ffc72e612c18dcd": 1790312720,
   "0fffbfecfec4817f": 1789627496,
@@ -4799,6 +4810,7 @@
   "62521d6bcd5ed3ce": 1790044716,
   "62563bcc2364f387": 1790471761,
   "625e8fa1535a29a9": 1790864727,
+  "6260ed4bec898781": 1790938820,
   "62634506a2410cf0": 1790073620,
   "6263a612be66c588": 1789627496,
   "626946d1dcef487d": 1790338169,
@@ -11647,7 +11659,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790936429,
- "last_msg_poll": 1790938766,
+ "last_msg_poll": 1790939065,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11692,7 +11704,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 19:59 KST",
+  "last_run": "2026-10-02 20:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
