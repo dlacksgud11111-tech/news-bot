@@ -328,6 +328,26 @@
    "t": "메타, AI 데이터센터엔 가스발전…‘100% 청정전력’은 환경속성으로 매칭 - 임팩트온",
    "ts": 1790906306,
    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QemhWb1ZiTEp0NnppZTV6ckdVR1V3c3Nja1R2ckNmRDBST21yNzByTmJ4cFB5dmt3ZjhQVkx4UEpnMEpCejdZV2xYNDlTSkYybnBzNldrZHp6cm5CVFJ5V05MNG9jZUJMaGc?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스 경제 최신기사",
+   "sc": 0,
+   "sec": "원전",
+   "t": "현대건설, 사용후핵연료 처분시설 건설용 굴착장비 개발·실증",
+   "ts": 1790907721,
+   "u": "https://www.yna.co.kr/view/AKR20261002081000003"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pinpointnews.co.kr",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터 전력난 해법 뜨자…SOFC 테마주 일제히 '발동' - pinpointnews.co.kr",
+   "ts": 1790907306,
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkMkFOMkFmdE93eVlKQVVod2lUZ2VfcTV1UkNqTGF5eTlCZzF1WDQ1S19PaU94bXJxZUc3LThyVnRUYkw3Q3JodWxvSS1RWXNQN1RrcXdYRG9rNWhBTmhRV1RqeTRGWGVVYjZtYi0yblNabUXSAXdBVV95cUxObENiWEV3a3ZyRndEenRvcWZnZFdEMWpjenpqbUVrcHpIOGxqUXEzSTE4UmNQYXN4dUlkbDRmSVlLRGgwU29HNlVHYWNDZmpQdEtqeE9rdldzcVYtVExtRVVaWUVFUTZuRG5pY05jUURRSDBxeVA0aw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3471,6 +3491,7 @@
   "471f29a7cbd90930": 1790577419,
   "4724492b077a0175": 1790816717,
   "472698ff8bfa7532": 1789738532,
+  "47283e295af434ec": 1790907917,
   "47300b323923ec03": 1790820617,
   "47396852a6db233a": 1790820921,
   "473b763f26cda74c": 1789945939,
@@ -5183,6 +5204,7 @@
   "6f2827de13b06df8": 1790006722,
   "6f375eb718e37d0c": 1790642222,
   "6f3ac6d73bd7a521": 1790668519,
+  "6f4f6fcebb44e93c": 1790907917,
   "6f5331acb38661e5": 1789636217,
   "6f542db772725e5d": 1790829018,
   "6f5d21ba57167559": 1790300885,
@@ -6007,6 +6029,7 @@
   "8302f182911ebd1e": 1790755519,
   "830dcf4de09303d6": 1790823015,
   "830e675698904445": 1789629088,
+  "830e6aa6db3dd322": 1790907917,
   "831813f33986fb66": 1790735693,
   "831ad96d903559ea": 1790640533,
   "832291e9ead793d4": 1790647820,
@@ -6486,6 +6509,7 @@
   "8efad24ed106f922": 1790553879,
   "8eff7356b0d1d440": 1790372426,
   "8f02ec02ad138ec7": 1789977915,
+  "8f0408caccb43ff2": 1790907917,
   "8f147e94ed738543": 1790671521,
   "8f170aa53f51ae7d": 1789788917,
   "8f1a71f1e4cc3349": 1790838638,
@@ -7776,6 +7800,7 @@
   "ae4edd5c3efd3983": 1789877422,
   "ae4efd0acd1f67b3": 1790847338,
   "ae5088f8bc7d5f97": 1789634116,
+  "ae52841d00756ab5": 1790907917,
   "ae52e7835bf2cdbc": 1789974322,
   "ae590a2c88cbed6a": 1789627496,
   "ae5b64be54d6f6fd": 1790559919,
@@ -9600,6 +9625,7 @@
   "da14bfb45469e81e": 1790732413,
   "da16c05920528003": 1789627496,
   "da227de3828f8835": 1790243423,
+  "da22c06c75db57de": 1790907917,
   "da23182af4eddd09": 1790671223,
   "da2af5ba7a85f274": 1790844327,
   "da2b4ce1d21c1747": 1790065913,
@@ -11208,7 +11234,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790906736,
- "last_msg_poll": 1790907874,
+ "last_msg_poll": 1790908168,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11253,7 +11279,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 11:24 KST",
+  "last_run": "2026-10-02 11:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
