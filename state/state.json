@@ -374,6 +374,16 @@
    "t": "LS ELECTRIC, 美 데이터센터에 1,800억원 규모 초고압 변압기 공급 - 한국전력신문",
    "ts": 1790950284,
    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBibzJ0MU5xMWtwVW80NXpkVEItNTFzMkNiQmVEbmJLQXU5eGsxSThrdUFQYmtHUkpDam5IeUtqNlZsWXYzeGdRWERTUHByM1FRZzFtVEJMbF9WTlV1TXFPQXpaTFNsVUZLUVE?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "메디컬투데이",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "JERA, 델 등과 2조3000억엔 투입…지바 화력발전소에 AI 데이터센터 - 메디컬투데이",
+   "ts": 1790910297,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13cnJrZGJwNnhmT3M3SHoydkdWaHJRMHV4NDZ0NkN4RWV5MHc3Zy1vY3NkVDlqa285YnBRbFJKMFNQdDlhSTBUWWVuSnB6UGQ4WXFSMjlZMlhBQ0RBQURqSXZZcU14Uy1fQWN2WA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3447,6 +3457,7 @@
   "43573a3250a956ff": 1790753717,
   "435d334146958499": 1790031917,
   "435f626e50fd7c5c": 1789805116,
+  "43619e395dbea49d": 1790951072,
   "4363f91c50386fd0": 1790560827,
   "436573d426f77368": 1790062459,
   "4365a08655bfe61b": 1790150725,
@@ -6124,6 +6135,7 @@
   "7ee1329475bc7030": 1790726668,
   "7ee4c9e467bcd5c6": 1790730658,
   "7ee65865732b5253": 1790817021,
+  "7ef815c6e25a2516": 1790951072,
   "7ef97cb79555efc1": 1790925029,
   "7eff145f70157469": 1789968847,
   "7f03f18daf183df3": 1790726668,
@@ -11732,7 +11744,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790943936,
- "last_msg_poll": 1790950736,
+ "last_msg_poll": 1790951316,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11777,7 +11789,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 23:18 KST",
+  "last_run": "2026-10-02 23:28 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
