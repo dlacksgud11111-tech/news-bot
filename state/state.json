@@ -384,6 +384,16 @@
    "t": "알리바바, 스페인 Solaria Energia y Medio Ambiente와 데이터센터 전력 공급 논의 – 보도 - Investing.com 한국어",
    "ts": 1790940540,
    "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1d25vaUlVeEFldjMwalVUV1Exdjg4c3pSU3dnMUlCeURsUGZRcTEtVm1jeDBlLU5Sc1F5cHA5VjFHeENkY2FBVEJLMDZJYWo2TVIxWmJKU2JoQWpHQkkzT2tGYU9qa2VpeWlscWlKeUNsTzVudUxV?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Skybox & Prologis file for fourth data center in Hutto, Texas",
+   "ts": 1790942937,
+   "u": "https://www.datacenterdynamics.com/en/news/skybox-prologis-file-for-fourth-data-center-in-hutto-texas/"
   }
  ],
  "clip_titles": [],
@@ -4134,6 +4144,7 @@
   "5207bdf74415f1be": 1790004931,
   "520888fbd838d4d2": 1790819722,
   "520a9edca50867c6": 1789954327,
+  "521488cdefb3072e": 1790943355,
   "521aedd504d393ec": 1790757639,
   "521c6ca706a68d48": 1789957222,
   "52230bd59125e479": 1790130924,
@@ -11707,7 +11718,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790936429,
- "last_msg_poll": 1790943268,
+ "last_msg_poll": 1790943596,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11752,7 +11763,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 21:14 KST",
+  "last_run": "2026-10-02 21:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
