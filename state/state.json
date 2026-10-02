@@ -358,6 +358,16 @@
    "t": "日 JERA·델·라엘름 \"5년내 3~4GW 데이터센터 구축 목표\" - 연합뉴스 한민족센터",
    "ts": 1790907209,
    "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MUmpoRjVRQm1kQU5Ec3R4dnBTMVVLRWpXa0hQYU1MM3gyaWoyM0d6RzdVU3pGRTVJY0NsYTVnY2t6RG9fOXNfNzRqaXRKVU9mYURuZ3J1NF8ydzVCY3B3S2UyYVlSRnBWZkN0UXI0MlhTazEx?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "에너지신문 - 전체기사",
+   "sc": 1,
+   "sec": "유틸리티·정책",
+   "t": "발전소 온배수 활용…KTL, 해수담수화로 강릉 가뭄 대응",
+   "ts": 1790941362,
+   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228732"
   }
  ],
  "clip_titles": [],
@@ -5153,6 +5163,7 @@
   "6d778bde65829b57": 1790889017,
   "6d8356b90fb9eef3": 1790660118,
   "6d858a583bcb7852": 1790896239,
+  "6d89eb021e678e94": 1790909420,
   "6d977cca7075792b": 1789648519,
   "6da3579699b3cba3": 1790583317,
   "6dd3143ec459edb5": 1789696816,
@@ -11141,6 +11152,7 @@
   "fd4ed4495a610c07": 1790823919,
   "fd4f739ac869fb18": 1789954905,
   "fd506db5f5381d7f": 1789852221,
+  "fd5701dd8232ed62": 1790909420,
   "fd5962a7f551755c": 1790132132,
   "fd5a9bec221d9f29": 1790044716,
   "fd5be5e017e6e3a5": 1789714817,
@@ -11261,7 +11273,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790906736,
- "last_msg_poll": 1790909373,
+ "last_msg_poll": 1790909669,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11306,7 +11318,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 11:49 KST",
+  "last_run": "2026-10-02 11:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
