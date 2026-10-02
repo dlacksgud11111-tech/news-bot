@@ -278,7 +278,28 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 6,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "한국경제",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "구글, ‘우주 데이터센터’ 첫발…TPU 4개 실은 위성 띄웠다 - 한국경제",
+   "ts": 1790915544,
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBMDhTQUNQWGhNQnhORl96MUlKeTRzVXZyZHhZSGxQSDhLT2NLbTdHM0gyRFpGZ1JuZE1ZbW5mczFYRVdVSDBWRnNlS0JoMEFSWmxqclluZ3RxUQ?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "데일리매거진",
+   "sc": 16,
+   "sec": "전력기기",
+   "t": "LS일렉트릭, 미국 데이터센터에 1800억원 규모 345kV 초고압 변압기 공급 - 데일리매거진",
+   "ts": 1790915379,
+   "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vRy13QXh5WThCVFAyUnRxSk9SOWhwQVRMaUV0dWltN1B5TWJ3b0JuM3ZYVTdFdnRwVkhnaEhpZnV3MmZybEdETGZZNERyZE5uV3I2VU1aaVF1ZWNKbXZxZHNmQ0RmQkxMX3J0c3ROZ3I0cHVUc25USHYydw?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -1879,6 +1900,7 @@
   "24d845a2bca7aa66": 1790126760,
   "24e70957ec5acb63": 1790736258,
   "24f2fd20008bc333": 1790495418,
+  "24f7d78575f3e0a8": 1790916070,
   "24fa78782c37bc54": 1789706118,
   "2507c52916af8551": 1790067655,
   "2518a5be5720f316": 1790728372,
@@ -8528,6 +8550,7 @@
   "bea333d656f56cda": 1789627496,
   "bea49fb01211517f": 1790559622,
   "bea4fdd8c8a5a402": 1790151921,
+  "bea68b5d0d1bdb75": 1790916070,
   "beb13fcc9cb1dd21": 1790037157,
   "beb4af32c6fd70dd": 1789784719,
   "beb804a0eacc303d": 1790730092,
@@ -9251,6 +9274,7 @@
   "d0dad92da6df996a": 1790474714,
   "d0dbd93034712a1f": 1789862827,
   "d0e15449b4b9c5cf": 1790743524,
+  "d0e1996d6351ac6a": 1790916070,
   "d0f771038ea0ce54": 1790646328,
   "d10258d086ef6a2f": 1790844327,
   "d10348fe2508df29": 1789705521,
@@ -11264,7 +11288,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790914228,
- "last_msg_poll": 1790915964,
+ "last_msg_poll": 1790916314,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11309,7 +11333,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 13:39 KST",
+  "last_run": "2026-10-02 13:45 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
