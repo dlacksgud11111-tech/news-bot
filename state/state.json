@@ -354,6 +354,16 @@
    "t": "Spain’s first pre-commercial marine solar demonstrator enters testing",
    "ts": 1790939265,
    "u": "https://www.pv-magazine.com/2026/10/02/spains-first-pre-commercial-marine-solar-demonstrator-enters-testing/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "German startup wins grant for grid-charging sodium-ion home battery",
+   "ts": 1790939569,
+   "u": "https://www.pv-magazine.com/2026/10/02/german-startup-wins-grant-for-grid-charging-sodium-ion-home-battery/"
   }
  ],
  "clip_titles": [],
@@ -8607,6 +8617,7 @@
   "b89dcfa43157dfbd": 1789689915,
   "b8a427e0e22e18da": 1790616921,
   "b8a79bc1c84fd7e9": 1790756727,
+  "b8ab1e1cee8d296a": 1790939731,
   "b8ab260d50543bba": 1790556791,
   "b8b478b1df506599": 1790498128,
   "b8ba4552a6fb3282": 1789968268,
@@ -11672,7 +11683,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790936429,
- "last_msg_poll": 1790939655,
+ "last_msg_poll": 1790939971,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11717,7 +11728,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 20:14 KST",
+  "last_run": "2026-10-02 20:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
