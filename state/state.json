@@ -314,6 +314,26 @@
    "t": "Denmark agrees new grid connection procedure",
    "ts": 1790936904,
    "u": "https://www.pv-magazine.com/2026/10/02/denmark-agrees-new-grid-connection-procedure/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "The Hydrogen Stream: PV-driven H2 plant commissioned in southern Italy",
+   "ts": 1790937966,
+   "u": "https://www.pv-magazine.com/2026/10/02/the-hydrogen-stream-pv-driven-h2-plant-commissioned-in-southern-italy/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Concern over 'monster' data center planned for Cheshire, UK",
+   "ts": 1790937835,
+   "u": "https://www.datacenterdynamics.com/en/news/concern-over-monster-data-center-planned-for-cheshire-uk/"
   }
  ],
  "clip_titles": [],
@@ -4953,6 +4973,7 @@
   "664fbb261c5dda0c": 1790737408,
   "66519a93a03ef73d": 1790929616,
   "6657638e28540dc5": 1790847338,
+  "66750a2b5d807c80": 1790938222,
   "6679ea6c4b86932c": 1790557916,
   "667cb00fd62e78c9": 1789718720,
   "667ef29e612c5903": 1789649116,
@@ -5909,6 +5930,7 @@
   "7c5c761bea62dfbf": 1789715716,
   "7c5e48b949d27df3": 1790136320,
   "7c5f542b01dbe4a1": 1790006722,
+  "7c63b1206a1631d9": 1790938222,
   "7c68be74ba3019d9": 1790818527,
   "7c6a5f86c5672d60": 1790147295,
   "7c6c0dec74e9f188": 1790175921,
@@ -7194,6 +7216,7 @@
   "9a5d49dec52c2919": 1789959919,
   "9a69052a4b67227d": 1790827519,
   "9a776476f01a923a": 1790666422,
+  "9a7dff0a88dbadda": 1790938222,
   "9a847debaeaa1ffa": 1790658925,
   "9a875a09d884c637": 1790586034,
   "9ab0dd8d1153fb4b": 1790729518,
@@ -11453,6 +11476,7 @@
   "fc4d2964f2999110": 1790757930,
   "fc51267a63b5a9d6": 1790678503,
   "fc5995d2b99bed9c": 1790741728,
+  "fc5c3d0546baff89": 1790938222,
   "fc6f25d98be5f94d": 1790926783,
   "fc6f9605481392f7": 1790809517,
   "fc7231fd19f1d9a9": 1790896239,
@@ -11622,7 +11646,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790936429,
- "last_msg_poll": 1790938157,
+ "last_msg_poll": 1790938468,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11667,7 +11691,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 19:49 KST",
+  "last_run": "2026-10-02 19:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
