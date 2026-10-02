@@ -273,268 +273,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 5,
- "clip_buffer": [
-  {
-   "co": "일진전기",
-   "n": 1,
-   "s": "데이터투자",
-   "sc": 18,
-   "sec": "전력기기",
-   "t": "일진전기, 英 400kV 송전망 1872억 수주…유럽 초고압 케이블 턴키 확대 - 데이터투자",
-   "ts": 1790906415,
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WbWhVN19tM0xQWVB1UUJBRGFEUnNUR0tGSzJUZWE2d3ROOEZjdmNZcG9UdDFhcW1lR0FBTWNGN2R6MW1ZT1FDREt1OUZZMWFvRk9tdHJxSjZVSTVmTGplekFIOHA3M2FuQjNlaUJmWlh5TFE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Naver Blog",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "AI데이터센터 훈풍 탄 두산퓨얼셀, 적자 행진 마침표 기대감 : 네이버 블로그 - Naver Blog",
-   "ts": 1790906775,
-   "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOemJlM3Vyd0lPRGlGcFpfLUJtZmpSdlgtb2JaNC1GS0ZRQ2QzRlM2U2lxRmpmVVl4MWZlYnVJb0NyYlBQRGJ3bWw2QXU4azJNSFJDd0Q0WHk1RnIwSGY1dEhoQVk4VXN1d1RLZzZUR0UwWXBGYTB4MGVtN0FDU2xfUldHc1RjYkJUYi1VcUppYw?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "에너지경제신문",
-   "sc": 18,
-   "sec": "전력기기",
-   "t": "LS일렉트릭, 美 AI 데이터센터에 1800억원 규모 초고압 변압기 공급 - 에너지경제신문",
-   "ts": 1790906768,
-   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lR1IteVZrMmJycjBHQU56UU5FSDE1SUFsRHBKY0NYOWJuUHBFT280bXZJcmZiQnRnOHMyMzBiSGxVRlRxUURYMUNVMVBvMFFuNnhIOU44Sm9DVmhyRVRlN1NCbw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "동해시, GS그룹 AI 데이터센터 100MW 건축허가…올해 착공",
-   "ts": 1790906632,
-   "u": "https://www.yna.co.kr/view/AKR20261002076200062"
-  },
-  {
-   "co": "일진전기",
-   "n": 1,
-   "s": "제주교통복지신문",
-   "sc": 10,
-   "sec": "전력기기",
-   "t": "일진전기, 英 송전망 1871억 추가 수주 - 제주교통복지신문",
-   "ts": 1790907429,
-   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56NDRjN0pscDR4V1huUFEyUzczd3ZRMnl2MGFZRk0tU3p4Z1BZVUVsZWpCWXFDckw1Z0xWc09SVUFYX05ZcWFlTlRjZ0M1U1hLbW1sdkVtZDdraHZid1VLRw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "임팩트온",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "메타, AI 데이터센터엔 가스발전…‘100% 청정전력’은 환경속성으로 매칭 - 임팩트온",
-   "ts": 1790906306,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QemhWb1ZiTEp0NnppZTV6ckdVR1V3c3Nja1R2ckNmRDBST21yNzByTmJ4cFB5dmt3ZjhQVkx4UEpnMEpCejdZV2xYNDlTSkYybnBzNldrZHp6cm5CVFJ5V05MNG9jZUJMaGc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "원전",
-   "t": "현대건설, 사용후핵연료 처분시설 건설용 굴착장비 개발·실증",
-   "ts": 1790907721,
-   "u": "https://www.yna.co.kr/view/AKR20261002081000003"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pinpointnews.co.kr",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터 전력난 해법 뜨자…SOFC 테마주 일제히 '발동' - pinpointnews.co.kr",
-   "ts": 1790907306,
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkMkFOMkFmdE93eVlKQVVod2lUZ2VfcTV1UkNqTGF5eTlCZzF1WDQ1S19PaU94bXJxZUc3LThyVnRUYkw3Q3JodWxvSS1RWXNQN1RrcXdYRG9rNWhBTmhRV1RqeTRGWGVVYjZtYi0yblNabUXSAXdBVV95cUxObENiWEV3a3ZyRndEenRvcWZnZFdEMWpjenpqbUVrcHpIOGxqUXEzSTE4UmNQYXN4dUlkbDRmSVlLRGgwU29HNlVHYWNDZmpQdEtqeE9rdldzcVYtVExtRVVaWUVFUTZuRG5pY05jUURRSDBxeVA0aw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 한민족센터",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "日 JERA·델·라엘름 \"5년내 3~4GW 데이터센터 구축 목표\" - 연합뉴스 한민족센터",
-   "ts": 1790907209,
-   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MUmpoRjVRQm1kQU5Ec3R4dnBTMVVLRWpXa0hQYU1MM3gyaWoyM0d6RzdVU3pGRTVJY0NsYTVnY2t6RG9fOXNfNzRqaXRKVU9mYURuZ3J1NF8ydzVCY3B3S2UyYVlSRnBWZkN0UXI0MlhTazEx?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 1,
-   "sec": "유틸리티·정책",
-   "t": "발전소 온배수 활용…KTL, 해수담수화로 강릉 가뭄 대응",
-   "ts": 1790941362,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228732"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "글로벌 전기차 배터리 19.7% 증가해  844GWh…중국계 점유율 73%",
-   "ts": 1790942146,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303776"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 1,
-   "sec": "재생에너지·ESS",
-   "t": "글로벌 배터리 20% 성장···K-배터리는 ‘주춤’",
-   "ts": 1790941980,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228733"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 13,
-   "sec": "원전",
-   "t": "‘전력수급기본계획 원전 공론화위원회’ 출범",
-   "ts": 1790941589,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303779"
-  },
-  {
-   "co": "LS전선",
-   "n": 2,
-   "s": "디일렉",
-   "sc": 10,
-   "sec": "전력기기",
-   "t": "LS전선, AI 데이터센터 전력 솔루션 사업 확대 - 디일렉",
-   "ts": 1790909814,
-   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPUXdTSjVaQ0E2ZldidnJIeHVZdmZvc1BLSnh2WmU3SUJLS2tpbGF0bXZkazhJU3J3c0VBcHBEYlQ3THVWTGlDQ2tnQWxBb09LQ1I1US1ndV9tWjRfYmVucy1CYTNDQQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "전기안전공사, AI로 ESS 열폭주 355건 막았다…4037억 손실 절감",
-   "ts": 1790910106,
-   "u": "https://www.etnews.com/20261002000118"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 9,
-   "sec": "유틸리티·정책",
-   "t": "한전, 국산 AI반도체 평가 지표 첫 적용…리벨리온·TTA와 맞손",
-   "ts": 1790910000,
-   "u": "https://www.etnews.com/20261002000009"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 9,
-   "sec": "원전",
-   "t": "12차 전기본 '원전 공론화위원회' 출범…국민 숙의 돌입",
-   "ts": 1790908516,
-   "u": "https://www.etnews.com/20261002000102"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "해상풍력 이어 육상으로…서부발전·전남개발공사 협력 확대",
-   "ts": 1790941859,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373056"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 0,
-   "sec": "유틸리티·정책",
-   "t": "남부발전, AI로 발전소 구조물 위험징후 잡는다",
-   "ts": 1790941110,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373054"
-  },
-  {
-   "co": "LS전선",
-   "n": 2,
-   "s": "데일리안",
-   "sc": 10,
-   "sec": "전력기기",
-   "t": "LS전선, 獨 하팅과 AI 데이터센터 전력 솔루션 공동개발 - 데일리안",
-   "ts": 1790910780,
-   "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWEcxTmJQRV9qWkdINUg4QkhOTHFiT2E3T1ZCdjBHR09HRjNKZlV6MGhDUTNXYzRYaTZKUjJKeUlZNG9sNXNuRmRsc0o4bE9pZGxtVkpERk53WW5wa2NpUGs4UzFsWFpOWk92czRJb3VDb1FPMEFFbHozdmhRS2VLcm1yc090WFAzSUhIb2dBVWtEYjA2NGZTb3kzbGtqTVBrMFc0aEFlVzdEQ01SX29LWGJqczNYU28xSWs0WWpheGpTV3NHdUtxXzBaSnBjXzRpaGl4UWRtT2NGQ0s5cDhqa0dxMFljZElsblFPcQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "New South Wales grants approval to BayWa r.e.’s Bullawah hybrid wind and battery project in Australia",
-   "ts": 1790912190,
-   "u": "https://www.energy-storage.news/bullawah-wind-farm-approved-718mwh-battery-nsw/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "서부발전·전남개발공사, 광주·전남 풍력 공동개발…공공주도 확대",
-   "ts": 1790911691,
-   "u": "https://www.etnews.com/20261002000130"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 11,
-   "sec": "전력기기",
-   "t": "한전, 변전소 AI 감시에 '국산 NPU' 투입…리벨리온과 현장 실증",
-   "ts": 1790911421,
-   "u": "https://www.etnews.com/20261002000127"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "유틸리티·정책",
-   "t": "남부발전, AI로 발전소 시설물 위험 미리 잡는다…내년 전사 확대",
-   "ts": 1790910304,
-   "u": "https://www.etnews.com/20261002000119"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "알파경제",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "JERA, 델 등과 2조3000억엔 투입…지바 화력발전소에 AI 데이터센터 - 알파경제",
-   "ts": 1790910297,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHblhrMl85cmpPLTZiT29xVV9jeXZJbVlWTHM5dThpSTIwRTd6TXJnY3dPamNPZzJtc0FpZkplazlPZ2Y5bUZreEVKUmk0UnRoYU9VMVNCZld5cmVac2wtNXRtRllUVG9Za1dtdDRR?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "마을신문 금천in",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "가산동 AI 데이터센터 화재①… 105명 자력 대피·2억 원 재산피해 - 마을신문 금천in",
-   "ts": 1790901320,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sTkJGZzNvSVZwRVhZc3RqTUhCOHUxcWpDeTZMWFlrbUV1UUxxcVNBdy1pMEM4VWUzeFRyYXZPcjRoTkhGV3ZuWEhqdHFNMkxfWkFSaDlxUUk3NV83VERWMS1JMWlOZW1EY2c?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -5216,6 +4955,7 @@
   "6a154122db0bae7e": 1790834627,
   "6a17116c3d5f650f": 1789718720,
   "6a182c9dcfe48f4f": 1790318936,
+  "6a1c88e42c7e7c63": 1790914228,
   "6a26be7d5f1fefff": 1790840120,
   "6a285e1b9d702277": 1790838638,
   "6a2dec3d99492ce9": 1790208393,
@@ -11474,6 +11214,7 @@
   "ff36fda73c996eb6": 1789872360,
   "ff3d0ba7f809e57b": 1790555020,
   "ff42fff2cf9857d9": 1789683319,
+  "ff47c94142bd39d2": 1790914228,
   "ff4a45035276b435": 1789969411,
   "ff5c17145158c05c": 1790370130,
   "ff5ca509a2a23994": 1790296518,
@@ -11501,13 +11242,14 @@
   "ffc57c4f5488489d": 1790900129,
   "ffe9c3d5f36072eb": 1790042395,
   "fff2f5dcb775e439": 1790073620,
+  "fff7e7cad3df3ba0": 1790914228,
   "fffb775dbf453262": 1790757639,
   "fffd84639d7acfe1": 1790559919
  },
  "companies_today": {},
  "day": "2026-10-02",
- "last_clip": 1790906736,
- "last_msg_poll": 1790914161,
+ "last_clip": 1790914228,
+ "last_msg_poll": 1790914470,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11552,7 +11294,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 13:09 KST",
+  "last_run": "2026-10-02 13:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
