@@ -234,10 +234,15 @@
   [
    1790930212,
    "일진전기, 1872억원 영국 송전망 케이블 수주에 주가 강세"
+  ],
+  [
+   1790953367,
+   "FERC rejects TransAlta 202(c) cost recovery plan for Centralia unit"
   ]
  ],
  "alerted": {
   "03c4ef70a4774424": 1789971750,
+  "0510ff7c656a496f": 1790953367,
   "091d016afda7463f": 1790892281,
   "0cfb56c86751e9ef": 1790035428,
   "1073060c113fb962": 1789629087,
@@ -293,8 +298,19 @@
   "f1b9bc6a34eac3f9": 1790921418,
   "fe7b17c162f91919": 1790498127
  },
- "alerted_today": 9,
- "clip_buffer": [],
+ "alerted_today": 1,
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 3,
+   "sec": "유틸리티·정책",
+   "t": "FERC rejects TransAlta 202(c) cost recovery plan for Centralia unit",
+   "ts": 1790947680,
+   "u": "https://www.utilitydive.com/news/ferc-transalta-202c-cost-recovery-centralia/832001/"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -515,6 +531,7 @@
   "04ff8c91795ee2ea": 1790734218,
   "05017a9e5f9da580": 1790128524,
   "05043bd2b60fbd70": 1790757639,
+  "0510ff7c656a496f": 1790953368,
   "052d8c9f228ce1cb": 1790901316,
   "05376898eacd390c": 1790918119,
   "05454d5813615f9e": 1790841922,
@@ -10981,6 +10998,7 @@
   "f0945aaa3f88dc52": 1790039473,
   "f09cd73698fb79ef": 1789627496,
   "f09e891251e356a2": 1790746830,
+  "f0a62a80bce17bff": 1790953368,
   "f0a85939abddec1f": 1789974322,
   "f0acd87d40da8fa6": 1790044716,
   "f0ae45dc59893544": 1790901316,
@@ -11666,9 +11684,9 @@
   "fffd84639d7acfe1": 1790559919
  },
  "companies_today": {},
- "day": "2026-10-02",
+ "day": "2026-10-03",
  "last_clip": 1790951650,
- "last_msg_poll": 1790953043,
+ "last_msg_poll": 1790953608,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11713,7 +11731,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 23:57 KST",
+  "last_run": "2026-10-03 00:06 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
