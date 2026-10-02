@@ -1,7 +1,7 @@
 {
  "alert_cooldown": {
   "HD현대일렉트릭|수주·계약": 1790662216,
-  "LS일렉트릭|수주·계약": 1790892281,
+  "LS일렉트릭|수주·계약": 1790906735,
   "LS일렉트릭|투자·증설": 1790126759,
   "LS전선|수주·계약": 1789713632,
   "Vertiv|투자·증설": 1790328618,
@@ -209,6 +209,10 @@
   [
    1790903716,
    "원전 정책 국민 숙의 맡는다…‘전력수급기본계획 원전 공론화위’ 출범"
+  ],
+  [
+   1790906735,
+   "LS일렉트릭 미국 인공지능 데이터센터에 초고압 변압기 공급 계약 : 북미 시장 추가 수주 나선다"
   ]
  ],
  "alerted": {
@@ -256,155 +260,15 @@
   "ca425dae1bd2590b": 1790059817,
   "cdaa54f68b0563fa": 1789658129,
   "d09dd25c4f4edf8d": 1790174132,
+  "d55121b3bdc5381b": 1790906735,
   "deb2e9eb313eef4a": 1790635520,
   "ec6a79092c6fce8c": 1790836355,
   "ed2be4388a6c245f": 1790817954,
   "f0f4cc942107030e": 1790662216,
   "fe7b17c162f91919": 1790498127
  },
- "alerted_today": 3,
- "clip_buffer": [
-  {
-   "co": "LS전선",
-   "n": 3,
-   "s": "속보 - 이티뉴스",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "LS전선, 獨 하팅과 AI 데이터센터 전력 솔루션 공동 개발",
-   "ts": 1790898849,
-   "u": "https://www.etnews.com/20261002000020"
-  },
-  {
-   "co": "일진전기",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 19,
-   "sec": "재생에너지·ESS",
-   "t": "일진전기, 영국 해상풍력 사업서 1871억 추가 계약…역대 최대 규모",
-   "ts": 1790930903,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373045"
-  },
-  {
-   "co": "일진전기",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 21,
-   "sec": "전력기기",
-   "t": "일진전기, 영국서 1871억원 추가 수주…전선사업 역대 최대",
-   "ts": 1790932884,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228723"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴스핌",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "[특징주] 머큐리, AI 데이터센터 투자 확대 기대에 상한가 - 뉴스핌",
-   "ts": 1790902140,
-   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DbmdSc2NuSXNnLUNWQnl5UzhwUnJMU2tmT2lZVFBDZkpGRzV4RmxHeE0xcm5QblJqdndqN2hGV3B4cW5zNHJsc0N0ODdEdHVjVGpLWEVhTWVRWlBL?oc=5"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "v.daum.net",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "구글, 우주 데이터센터 첫 궤도 실험…전력난·주민 반발 속 AI 서버 우주로 - v.daum.net",
-   "ts": 1790902931,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jcERlWGFZQUV6Z1l2cjltOU04NVNOZXBMT01scExUdXBVMllIcktfaFoxUzRBTUNZZ1poMWEwOUh0WVhxbFhqR2dsLXc3NHM?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 13,
-   "sec": "원전",
-   "t": "원전 정책 국민 숙의 맡는다…‘전력수급기본계획 원전 공론화위’ 출범",
-   "ts": 1790935200,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373048"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 2,
-   "s": "서울경제",
-   "sc": 16,
-   "sec": "전력기기",
-   "t": "LS일렉트릭, 美 AI DC에 1812억 규모 초고압 변압기 공급 - 서울경제",
-   "ts": 1790818332,
-   "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82THhDaHVxUXRmMkQ2c1NTMWJDdFlfRE5uUFJwcjhzUFl5dVdRT3c5Zi1NYnNlR21tYS10bEJjWkRVRmdTSzV0dkpXYWFKaGpfOVHSAVNBVV95cUxQdHh6eEhydGpmdzctM3ZIYXdSYnpFMG9oNXVENXRZZUdwcUZhMDlXREd3d09ZTUJHcUNETkl0ZTJnNmNzelJkU3hYVGgyc1ZkbUxpRQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "전문건설공제조합, S&P 국제 신용등급 2년 연속 A+",
-   "ts": 1790904023,
-   "u": "https://www.yna.co.kr/view/AKR20261002055300003"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "호반건설 이사회 의장에 오너2세 김대헌…사장단 인사 단행",
-   "ts": 1790903869,
-   "u": "https://www.yna.co.kr/view/AKR20261002058500003"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 6,
-   "sec": "건설·플랜트",
-   "t": "대방건설, 인천계양 테크노밸리 공공주택지구 조경공사 수주",
-   "ts": 1790904776,
-   "u": "https://www.yna.co.kr/view/AKR20261002066200003"
-  },
-  {
-   "co": "일진전기",
-   "n": 1,
-   "s": "news2day.co.kr",
-   "sc": 14,
-   "sec": "전력기기",
-   "t": "[공시 Pick] 일진전기, 1872억원 영국 송전망 케이블 수주에 주가 강세 - news2day.co.kr",
-   "ts": 1790904720,
-   "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJaV8tQV9Wbi1EdnJLQzFWYUZrT1RSSHdpTTZLUnBLdWJwajRrbkVvT3BSdWhCelJSdWlpV2ZQeW5KZXBmb1lsanVpU0JpY1lpZmlsT2pvNjhUdlpOY3c?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "디딤, 'AI-Cloud Big Tech 2026'에서 AI 데이터센터(AIDC) 운영 혁신 전략 발표",
-   "ts": 1790903620,
-   "u": "https://www.etnews.com/20261002000064"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "산경e뉴스",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "김성환 장관 “온실가스 감축 목표 못 지켜 죄송”...AI·반도체 전력수요 변수 - 산경e뉴스",
-   "ts": 1790905417,
-   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vUlRsaGZQTVpEZ01sRUwyWk9OOGkzWWRUVW9Nak9PR2Fja2ctbXlUYjlhT2hrMS1INTluZ0VrcXpwbEZnVk9WQlRVeFZlUVhEd2pmTkhQOHJXUGdhb2V1NmM0U2k1VG8?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴시스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "구글, 우주에 AI 칩 쏘아 올렸다…'우주 데이터센터' 궤도 시험 착수 - 뉴시스",
-   "ts": 1790904605,
-   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uc19rdEFaSDZJOG12SjhiRFIyU2hwMkVjU0wtZTFRVUM4MDA5ek81Z01YYS01SUZCVzZWdnNXNVBmYndHMm9sMWd2TUZYTDJWRnoxOEV5S1Btdk1ueURZTNIBeEFVX3lxTE5iZEJVRk1SV29HaUxrdDhzZVhGb25nUXRjMjdsWFBKTGg0cWZJSkNLbkQzNGplM25xVkhCeXh4OTRrTEJCVXh2bHA2Ny16eVNtR09JdUFVZHBJcEZLcnZxY1EydXZZaXBPeG1BeXFrNVMxT1NMSjBsNA?oc=5"
-  }
- ],
+ "alerted_today": 4,
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -1700,6 +1564,7 @@
   "1e5757c7ab69a478": 1790125213,
   "1e67abeaa877335d": 1789691718,
   "1e6b9e429e33b672": 1790814336,
+  "1e744c65d3dbb4f2": 1790906736,
   "1e78f46eb5880ed1": 1790051416,
   "1e8052fdfeab5381": 1790643406,
   "1e8077d9e53c723c": 1790734218,
@@ -3108,6 +2973,7 @@
   "3d8ca4ff19de1458": 1790733331,
   "3d92fcf903b4628b": 1790753717,
   "3d9b29d6b22e58ca": 1790811030,
+  "3d9d3ad5ace5e1df": 1790906736,
   "3da264c580358d19": 1789870063,
   "3da9f1352af317ba": 1790677344,
   "3daea3149dcf51bd": 1790127320,
@@ -4302,6 +4168,7 @@
   "58f1ff71f74e6a9e": 1789632918,
   "58f3e9c4fe2b5685": 1790715791,
   "58ff4276c288ea62": 1790732122,
+  "590d684b9468a961": 1790906736,
   "5910444586013765": 1790580361,
   "591b4fc2ccabe2da": 1789711937,
   "591d43d610ae17ef": 1789724119,
@@ -8192,6 +8059,7 @@
   "b5f55be2dec71faf": 1789629088,
   "b5f61370edc7dcfc": 1789627496,
   "b5facf8bd926bbbf": 1790388562,
+  "b606eacf24fdb7e5": 1790906736,
   "b617dd14f312380b": 1790839547,
   "b6262c277889f6cb": 1790572796,
   "b62654bcdd9f41df": 1789974040,
@@ -9479,6 +9347,7 @@
   "d6220c931f53365a": 1790062459,
   "d622ae33674ccc84": 1790817021,
   "d624a80435576132": 1790757639,
+  "d6258e50fa02d006": 1790906736,
   "d62d92956d73443a": 1790339324,
   "d6305b145c3f9426": 1789693531,
   "d6318335742f6eaa": 1789627496,
@@ -10043,6 +9912,7 @@
   "e3f4df2cbab2b69f": 1790743524,
   "e3fa7c46afbe4af1": 1789627496,
   "e3fe4197099702bc": 1790061882,
+  "e4000b96dcb2b7a8": 1790906736,
   "e4016bde61d1be3f": 1790814919,
   "e4088b52640c3204": 1790667315,
   "e417857456a5aa63": 1790732122,
@@ -10922,6 +10792,7 @@
   "f877f09f28c37f08": 1790525413,
   "f87b9ed15cafc9dc": 1790728933,
   "f87e6daab56b1a1d": 1790028666,
+  "f881bf2035b1f30c": 1790906736,
   "f882d0f2fb36f200": 1790125530,
   "f88451ba2afbad58": 1790746536,
   "f8881f950824efb0": 1790060726,
@@ -11246,8 +11117,8 @@
  },
  "companies_today": {},
  "day": "2026-10-02",
- "last_clip": 1790899528,
- "last_msg_poll": 1790906678,
+ "last_clip": 1790906736,
+ "last_msg_poll": 1790906981,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11292,7 +11163,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 11:04 KST",
+  "last_run": "2026-10-02 11:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
