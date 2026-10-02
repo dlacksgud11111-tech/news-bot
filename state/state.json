@@ -424,6 +424,36 @@
    "t": "DCD Talks: Inside the US data center power shift with Richard Reisig, Siemens Energy",
    "ts": 1790934235,
    "u": "https://www.datacenterdynamics.com/en/videos/dcd-talks-inside-the-us-data-center-power-shift-with-richard-reisig-siemens-energy/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "California Governor Newsom signs VPP and balcony solar bills, vetoes community solar legislation",
+   "ts": 1790936000,
+   "u": "https://www.energy-storage.news/california-governor-newsom-signs-vpp-and-balcony-solar-bills-vetoes-community-solar-legislation/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Crusoe files for $4.8bn data center campus in Jayton, Texas",
+   "ts": 1790935742,
+   "u": "https://www.datacenterdynamics.com/en/news/crusoe-files-for-48bn-data-center-campus-in-jayton-texas/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "hankyung.com",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터는 '전기 먹는 하마'…1곳 연간 사용량 포항시와 맞먹어 - hankyung.com",
+   "ts": 1790930301,
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYcWgxVVl5Q2RBeEt4UG83MTl4dC1RZXZwNzhab0Q0ODRDejBBXzFxTERKNGhjdDcxcjJ6Z0NOeTE2b24xRVBrV2N3Tl9lRTI5OWM0SFQ2ejZjZw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1697,6 +1727,7 @@
   "1cf7c4897eecc333": 1789713633,
   "1d07b39f8414df23": 1790911222,
   "1d0bf3f05c80dac7": 1789956616,
+  "1d0eb6f40f1f9205": 1790936129,
   "1d129d2891ce53cc": 1789695321,
   "1d1b5183e1fdaff9": 1789873818,
   "1d1d94360cd8a106": 1790580923,
@@ -6907,6 +6938,7 @@
   "90d7080654f2e3ff": 1790246731,
   "90daf74084f33fb6": 1790612731,
   "90e0900a98abc12b": 1790744723,
+  "90e1ed66f25d7b28": 1790936129,
   "90ea457f3a85d9db": 1790398221,
   "90ede29a8ad2e809": 1790666731,
   "90f5b27e6e6ea161": 1790571928,
@@ -8798,6 +8830,7 @@
   "bbf2d71dc2817730": 1790801876,
   "bbf7dbbe59c49807": 1789718720,
   "bbf9ac8f01b5ca5f": 1789627496,
+  "bc0d525a41ff7123": 1790936129,
   "bc0dab15064374bd": 1790710220,
   "bc109cfbc7e2edc8": 1790668519,
   "bc11d1cc384dc288": 1790047038,
@@ -9354,6 +9387,7 @@
   "c9e2b937f9a1272d": 1789974322,
   "c9e6470c592ac4c4": 1790042975,
   "c9e6c38e81528ea4": 1790813121,
+  "c9f77d20e527d2f0": 1790936129,
   "c9f8e683bdbb16a7": 1790927918,
   "c9f9892cd514dc1d": 1790838638,
   "c9ff986a901abb7f": 1790055317,
@@ -11718,7 +11752,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790929051,
- "last_msg_poll": 1790936061,
+ "last_msg_poll": 1790936381,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11763,7 +11797,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 19:14 KST",
+  "last_run": "2026-10-02 19:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
