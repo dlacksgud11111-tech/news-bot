@@ -314,6 +314,16 @@
    "t": "When racks outpace the infrastructure: Retrofitting data center power systems for AI-scale densities",
    "ts": 1790944867,
    "u": "https://www.datacenterdynamics.com/en/opinions/when-racks-outpace-the-infrastructure-retrofitting-data-center-power-systems-for-ai-scale-densities/"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "뉴스프리존",
+   "sc": 16,
+   "sec": "전력기기",
+   "t": "LS일렉트릭·일진전기, 초고압 역발상···본업 융합해 글로벌 잭팟 - 뉴스프리존",
+   "ts": 1790917382,
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56MVBrV1pJX0hYREJpeTZEMTY3UEdTbGVfYngwVGJTZm1mZ0xnTUozTkEtOU01cURMTW5vc1BNbXZHSnR4LXpIRE81b19VZnhYSnlCZzB1ZEptY1l6WGNJdDc4Szl6WFNmT2dDdmFkelVyck3SAXdBVV95cUxPelQwRFpVYjg5M0RyTDBYVW5vZTBIbnJ2aWRJU1F0R2lLZTRCTnR0elRKak9wLTcyY3pNWkRMMEhraFYyLTdXc04wMk9KbUt3T19CWFVaMnNqOU55MWVIY3ZFbGdsQnFRcEwzTERIWExCc1RONzRfdw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1866,6 +1876,7 @@
   "2268ebc955167f48": 1790348724,
   "227b2075f09f59c5": 1790570717,
   "227f02a16ec38337": 1790128217,
+  "228a997fc8c34495": 1790945723,
   "22945261e6bb766c": 1790933121,
   "22a445ceaa33b0de": 1789783839,
   "22a5fe6b1911b131": 1790127320,
@@ -11647,7 +11658,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790943936,
- "last_msg_poll": 1790945660,
+ "last_msg_poll": 1790945964,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11692,7 +11703,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 21:54 KST",
+  "last_run": "2026-10-02 21:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
