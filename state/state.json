@@ -288,6 +288,16 @@
    "t": "일진전기, 영국서 1871억원 추가 수주…전선사업 역대 최대",
    "ts": 1790932884,
    "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228723"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴스핌",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "[특징주] 머큐리, AI 데이터센터 투자 확대 기대에 상한가 - 뉴스핌",
+   "ts": 1790902140,
+   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DbmdSc2NuSXNnLUNWQnl5UzhwUnJMU2tmT2lZVFBDZkpGRzV4RmxHeE0xcm5QblJqdndqN2hGV3B4cW5zNHJsc0N0ODdEdHVjVGpLWEVhTWVRWlBL?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2985,6 +2995,7 @@
   "3de4ebb57bc19170": 1790831115,
   "3de5c17149ccc9ad": 1790816717,
   "3debc42401f12e65": 1789936425,
+  "3df5380010d7f61e": 1790902521,
   "3e03b931c433a182": 1790732122,
   "3e03cd19635dc357": 1789888052,
   "3e088ca595b3b8d4": 1790060726,
@@ -6508,6 +6519,7 @@
   "92378feecc6dbe66": 1790897721,
   "9239dc153a5e5532": 1790328918,
   "923f72a33810543e": 1789977032,
+  "924e77d592a25991": 1790902521,
   "925624e7c5623f1d": 1790832921,
   "9256874eb6593cb2": 1789954905,
   "925690dfa9aefbfb": 1789929436,
@@ -9849,6 +9861,7 @@
   "e41f0ea9a63db937": 1790658361,
   "e4207b5fa75f7f59": 1790166922,
   "e4221027e5cf72b0": 1790830534,
+  "e42931684485d3b1": 1790902521,
   "e42ac597744608c4": 1789692619,
   "e430c05f7a507881": 1789627496,
   "e4429524d559260d": 1790744723,
@@ -11039,7 +11052,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790899528,
- "last_msg_poll": 1790902461,
+ "last_msg_poll": 1790902762,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11084,7 +11097,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 09:54 KST",
+  "last_run": "2026-10-02 09:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
