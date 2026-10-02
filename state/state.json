@@ -323,6 +323,16 @@
    "t": "원전 정책 국민 숙의 맡는다…‘전력수급기본계획 원전 공론화위’ 출범",
    "ts": 1790935200,
    "u": "https://www.electimes.com/news/articleView.html?idxno=373048"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "서울경제",
+   "sc": 16,
+   "sec": "전력기기",
+   "t": "LS일렉트릭, 美 AI DC에 1812억 규모 초고압 변압기 공급 - 서울경제",
+   "ts": 1790818332,
+   "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82THhDaHVxUXRmMkQ2c1NTMWJDdFlfRE5uUFJwcjhzUFl5dVdRT3c5Zi1NYnNlR21tYS10bEJjWkRVRmdTSzV0dkpXYWFKaGpfOVHSAVNBVV95cUxQdHh6eEhydGpmdzctM3ZIYXdSYnpFMG9oNXVENXRZZUdwcUZhMDlXREd3d09ZTUJHcUNETkl0ZTJnNmNzelJkU3hYVGgyc1ZkbUxpRQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1146,6 +1156,7 @@
   "13cbfe51b39d90d8": 1790687122,
   "13cf78ca87798eee": 1789633820,
   "13d689be3e2d57a9": 1790900416,
+  "13d83a3d22495404": 1790904022,
   "13dbabbb8a354720": 1790641093,
   "13dcbd746b665f70": 1789782685,
   "13e042ea4c9b60cd": 1790233628,
@@ -5427,6 +5438,7 @@
   "7622a751aad9a668": 1790307321,
   "76303570abed779b": 1790831115,
   "76396dfe4a856db5": 1789751120,
+  "764e7536275b5cd0": 1790904022,
   "766372b8d57e8fd5": 1789627496,
   "7663e041827cbbec": 1790476519,
   "7668323670c8b0f6": 1789627496,
@@ -5656,6 +5668,7 @@
   "7c04dfa828596281": 1790044106,
   "7c0781ef40240544": 1790751916,
   "7c113b4fe4ffc470": 1789971751,
+  "7c1b788b447be8b5": 1790904022,
   "7c1ca8171a86eb57": 1790687122,
   "7c21c2679d503aee": 1790729518,
   "7c2631a0111da125": 1790824219,
@@ -7708,6 +7721,7 @@
   "ae1f46a5f25686dd": 1790574524,
   "ae35526eb7092eea": 1789705521,
   "ae35ad3439f444ee": 1790553879,
+  "ae382e050b3dd36a": 1790904022,
   "ae3e2d8bcf24f12f": 1790838638,
   "ae4011ac8a22678b": 1789938697,
   "ae42602b6b04cfc9": 1789866014,
@@ -7908,6 +7922,7 @@
   "b2250ad5291bce47": 1789637719,
   "b22d1e610527fab0": 1789943682,
   "b238ed1481ce1c14": 1790838638,
+  "b23e9e86c1af413c": 1790904022,
   "b24c571d11d3fe08": 1790044716,
   "b2553b7ecfcee353": 1789707915,
   "b257793f33239538": 1790559622,
@@ -11123,7 +11138,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790899528,
- "last_msg_poll": 1790903956,
+ "last_msg_poll": 1790904271,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11168,7 +11183,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 10:19 KST",
+  "last_run": "2026-10-02 10:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
