@@ -393,6 +393,16 @@
    "t": "김성환 장관 “온실가스 감축 목표 못 지켜 죄송”...AI·반도체 전력수요 변수 - 산경e뉴스",
    "ts": 1790905417,
    "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vUlRsaGZQTVpEZ01sRUwyWk9OOGkzWWRUVW9Nak9PR2Fja2ctbXlUYjlhT2hrMS1INTluZ0VrcXpwbEZnVk9WQlRVeFZlUVhEd2pmTkhQOHJXUGdhb2V1NmM0U2k1VG8?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴시스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "구글, 우주에 AI 칩 쏘아 올렸다…'우주 데이터센터' 궤도 시험 착수 - 뉴시스",
+   "ts": 1790904605,
+   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uc19rdEFaSDZJOG12SjhiRFIyU2hwMkVjU0wtZTFRVUM4MDA5ek81Z01YYS01SUZCVzZWdnNXNVBmYndHMm9sMWd2TUZYTDJWRnoxOEV5S1Btdk1ueURZTNIBeEFVX3lxTE5iZEJVRk1SV29HaUxrdDhzZVhGb25nUXRjMjdsWFBKTGg0cWZJSkNLbkQzNGplM25xVkhCeXh4OTRrTEJCVXh2bHA2Ny16eVNtR09JdUFVZHBJcEZLcnZxY1EydXZZaXBPeG1BeXFrNVMxT1NMSjBsNA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -7453,6 +7463,7 @@
   "a55014df83ca182f": 1790751916,
   "a550200b67ca70b5": 1790338169,
   "a55045b9f9fbce9d": 1790840120,
+  "a557e2f0a25088d4": 1790906433,
   "a558d886642d6606": 1789719021,
   "a55f75e9dcfa262f": 1790747719,
   "a569a8ca4fa6b9ad": 1789986323,
@@ -11236,7 +11247,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790899528,
- "last_msg_poll": 1790906371,
+ "last_msg_poll": 1790906678,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11281,7 +11292,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 10:59 KST",
+  "last_run": "2026-10-02 11:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
