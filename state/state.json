@@ -294,7 +294,18 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 9,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "일진전기",
+   "n": 1,
+   "s": "프리미엄콘텐츠",
+   "sc": 8,
+   "sec": "전력기기",
+   "t": "[일진전기] 일진전기, 2028년까지 변압기 다 찼다…2029~2030년도 절반 이상 확보(2026년_2Q) - 프리미엄콘텐츠",
+   "ts": 1790914440,
+   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZUFqRi0zVGVNSjBoWVlRY3Fsd0V6SVZNVGwxSlBtMU8xLXItbkkxVDBIUktRYnFiSVRZalBLU1N2T1lMb2x2NG1uWldnQW9mQmVuUFIxUUZPMi1DbHRCbG5iUV85X0xISWpPRl9WNzczY3BZVG1CX01rODA1YXRQVXBSV00xekZz?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -2812,6 +2823,7 @@
   "37ceb22afbb5e886": 1790645732,
   "37d714f56f942b23": 1790898024,
   "37e20ad6562e101d": 1790731219,
+  "37e27622ff489df3": 1790936722,
   "37f686803ed72e35": 1789974920,
   "37faa460ac3292f0": 1790649324,
   "38094542afe76b63": 1790928485,
@@ -9008,6 +9020,7 @@
   "c45a1e883371f4ac": 1790158229,
   "c464221921743bd0": 1789947665,
   "c4648a36b01e1ef6": 1789692619,
+  "c468ccef520cb8f4": 1790936722,
   "c46928882c2021ae": 1790782831,
   "c4810634f80c0a91": 1790921721,
   "c4861658bbe17eee": 1790834041,
@@ -11592,7 +11605,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790936429,
- "last_msg_poll": 1790936672,
+ "last_msg_poll": 1790936971,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11637,7 +11650,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 19:24 KST",
+  "last_run": "2026-10-02 19:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
