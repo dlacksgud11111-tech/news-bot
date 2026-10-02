@@ -304,6 +304,16 @@
    "t": "[일진전기] 일진전기, 2028년까지 변압기 다 찼다…2029~2030년도 절반 이상 확보(2026년_2Q) - 프리미엄콘텐츠",
    "ts": 1790914440,
    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZUFqRi0zVGVNSjBoWVlRY3Fsd0V6SVZNVGwxSlBtMU8xLXItbkkxVDBIUktRYnFiSVRZalBLU1N2T1lMb2x2NG1uWldnQW9mQmVuUFIxUUZPMi1DbHRCbG5iUV85X0xISWpPRl9WNzczY3BZVG1CX01rODA1YXRQVXBSV00xekZz?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 4,
+   "sec": "전력기기",
+   "t": "Denmark agrees new grid connection procedure",
+   "ts": 1790936904,
+   "u": "https://www.pv-magazine.com/2026/10/02/denmark-agrees-new-grid-connection-procedure/"
   }
  ],
  "clip_titles": [],
@@ -2526,6 +2536,7 @@
   "316edaaea7ee3f69": 1790933718,
   "317029795efd2994": 1790669122,
   "31762316baeaf5bd": 1790560827,
+  "3177186920b9b672": 1790937031,
   "318ff20795e590ff": 1790031917,
   "3191d3b71bb227c4": 1789954905,
   "3194bb7d4cf3dd23": 1790038311,
@@ -11605,7 +11616,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790936429,
- "last_msg_poll": 1790936971,
+ "last_msg_poll": 1790937273,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11650,7 +11661,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 19:29 KST",
+  "last_run": "2026-10-02 19:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
