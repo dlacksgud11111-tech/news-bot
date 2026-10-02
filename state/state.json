@@ -349,6 +349,26 @@
    "t": "Another data center in Kyiv taken offline by Russian strikes",
    "ts": 1790958186,
    "u": "https://www.datacenterdynamics.com/en/news/another-data-center-in-kyiv-taken-offline-by-russian-strikes/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Intro Group to invest $270m in Egypt’s Kemet Data Center",
+   "ts": 1790958822,
+   "u": "https://www.datacenterdynamics.com/en/news/intro-group-to-invest-270m-in-egypts-kemet-data-center/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Investing.com 한국어",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "JERA, 델 등과 2조3000억엔 투입…지바 화력발전소에 AI 데이터센터 By 알파경제 alphabiz - Investing.com 한국어",
+   "ts": 1790915100,
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TWGdGQjV3NzRBTjNMVG45M0hrY2w0V0xpWlRZcEJPWGpJSlhUV3NRSkx2LW0wVFVyNnRuQmh2NTZKdFlCRmVGQnZLdUFTNHNPQjNpTzFiSlJoTmQ0WXRwY1lkUkdVTkZKZ2hPTEpsUVc?oc=5"
   }
  ],
  "clip_titles": [],
@@ -9875,6 +9895,7 @@
   "d5547d5d6f208a3a": 1790728933,
   "d57e50d0902c70f0": 1789870063,
   "d58032ff528b06b1": 1790057120,
+  "d5899be34797d0f5": 1790959221,
   "d59305d247899b9d": 1790575673,
   "d597a778451890bc": 1790730658,
   "d5a1fdc1a029b9b8": 1790464236,
@@ -9916,6 +9937,7 @@
   "d64a39634f0a1b01": 1789935268,
   "d64ed2a0fe6aceb4": 1790910654,
   "d650b289746f80ae": 1790931342,
+  "d65335247c336a95": 1790959221,
   "d65c4d56d0ca7461": 1790217321,
   "d66264225736b76c": 1790037737,
   "d669e57c115847c6": 1790579195,
@@ -11370,6 +11392,7 @@
   "f766a92759a0b686": 1790898618,
   "f7766490d3960ef5": 1789956049,
   "f77e591faa3acdaf": 1790841331,
+  "f77fcecb94f4ad47": 1790959221,
   "f77fef82f3cf5542": 1790639933,
   "f77ffb1fc8761161": 1790668519,
   "f785dcee9032311a": 1790917521,
@@ -11502,6 +11525,7 @@
   "fa66d62124e7cec3": 1790736258,
   "fa6fc6d80bb35a7a": 1790814919,
   "fa6fdc5a3300ac33": 1790562951,
+  "fa75e0b96ddf247c": 1790959221,
   "fa7814d6f75f0351": 1789634116,
   "fa781be321707536": 1790816717,
   "fa80414ac9a438ef": 1790557916,
@@ -11768,7 +11792,7 @@
  "companies_today": {},
  "day": "2026-10-03",
  "last_clip": 1790951650,
- "last_msg_poll": 1790959177,
+ "last_msg_poll": 1790959467,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11813,7 +11837,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-03 01:39 KST",
+  "last_run": "2026-10-03 01:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
