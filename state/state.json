@@ -304,6 +304,16 @@
    "t": "Enetron Park announces zoning approval for 250MW data center in Pyhäjoki, Finland, despite local government denial",
    "ts": 1790944121,
    "u": "https://www.datacenterdynamics.com/en/news/enetron-park-announces-zoning-approval-for-250mw-data-center-in-pyh%C3%A4joki-finland-despite-local-government-denial/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 9,
+   "sec": "데이터센터·AI전력",
+   "t": "When racks outpace the infrastructure: Retrofitting data center power systems for AI-scale densities",
+   "ts": 1790944867,
+   "u": "https://www.datacenterdynamics.com/en/opinions/when-racks-outpace-the-infrastructure-retrofitting-data-center-power-systems-for-ai-scale-densities/"
   }
  ],
  "clip_titles": [],
@@ -1958,6 +1968,7 @@
   "251aad1ae52fe445": 1790041833,
   "251cbbf9702a0f1c": 1790040051,
   "25214050ddb8d339": 1790572220,
+  "252c8c2d0078e67c": 1790945122,
   "2538c3e5b3f60c7c": 1790559622,
   "25398e6dc15b1224": 1789627496,
   "254216bccbd99f32": 1790844327,
@@ -7039,6 +7050,7 @@
   "966c0de1276be73e": 1790735693,
   "966f9c28b8f00121": 1790746536,
   "96754c220039d906": 1789959919,
+  "96820c332ee04ec3": 1790945122,
   "9687fa8f24d9e95b": 1790642222,
   "968b23c07c9d4d9b": 1789956616,
   "9692f0c41a60986e": 1790329233,
@@ -11635,7 +11647,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790943936,
- "last_msg_poll": 1790945063,
+ "last_msg_poll": 1790945371,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11680,7 +11692,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 21:44 KST",
+  "last_run": "2026-10-02 21:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
