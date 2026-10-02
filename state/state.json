@@ -294,168 +294,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 9,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 11,
-   "sec": "재생에너지·ESS",
-   "t": "제주에너지공사, 재생에너지 연계 수전해 기술개발 착수",
-   "ts": 1790961590,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303815"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 1,
-   "sec": "유틸리티·정책",
-   "t": "EU 이어 영국도 한국 사할린Ⅱ LNG 제재 면제",
-   "ts": 1790961239,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303805"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "한전, 변전소 AI 감시에 ‘국산 NPU’ 쓴다...성능검증 착수",
-   "ts": 1790961161,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303813"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 1,
-   "sec": "유틸리티·정책",
-   "t": "남부발전, 발전소 토건시설물 'AI 예측진단체계' 구축 추진",
-   "ts": 1790960460,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303812"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 1,
-   "sec": "유틸리티·정책",
-   "t": "남부발전 삼척빛드림본부, 발전소 주변지역 지원사업 성과",
-   "ts": 1790958019,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303809"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 7,
-   "sec": "재생에너지·ESS",
-   "t": "Germany approves rules for storage, bidirectional charging",
-   "ts": 1790929344,
-   "u": "https://www.pv-magazine.com/2026/10/02/germany-approves-rules-for-storage-bidirectional-charging/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "마을신문 금천in",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "데이터센터 화재② 배터리,전력망 쓰이는데 관리 법적 사각지대 - 마을신문 금천in",
-   "ts": 1790929129,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PVW9GWWg3TzFoaDZiR3R5NHhxb1M1M3VndFpkd0JiSFgwZmFMalpLVklOOXFjMTlTYlExakxySjVzNjB2cmVNaWV2d0Zzd2pfa3p4cHR2X1Y1WGJTSmR3U0JmUnJrMVl3WlE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일경제 : 경제",
-   "sc": 2,
-   "sec": "유틸리티·정책",
-   "t": "英, 한국 LNG 제재 면제 … 국내 에너지 수급에 숨통",
-   "ts": 1790929123,
-   "u": "https://www.mk.co.kr/news/economy/12167367"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 3,
-   "sec": "원전",
-   "t": "원자력 스타트업, 대기업·연구기관과 사업화 접점 넓힌다",
-   "ts": 1790962493,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228763"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "2news.co.kr",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "에버렌스, 데이터센터 아이슬란드서 맞춤형 에너지 솔루션 공개 - 2news.co.kr",
-   "ts": 1790926688,
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PUm1BRGhyNzNBTHlYNGRtSTY2RTM1SGZLVlRzTEtGZExEQ0ZZdVRaQ01ET2Vic00wUmNYOUY3SWFFMS10U3JKdVpGSXNPTExXeTRNZnpxTGdZRVRtUmNnNVhHTFlWUUow?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 8,
-   "sec": "재생에너지·ESS",
-   "t": "Renalfa IPP, Eurowind inaugurate solar-plus-storage hybrid renewable energy park in Bulgaria",
-   "ts": 1790931465,
-   "u": "https://www.energy-storage.news/renalfa-ipp-eurowind-inaugurate-solar-plus-storage-hybrid-renewable-energy-park-in-bulgaria/"
-  },
-  {
-   "co": "LS전선",
-   "n": 1,
-   "s": "이뉴스투데이",
-   "sc": 10,
-   "sec": "전력기기",
-   "t": "LS전선, 하팅과 손잡고 AI 데이터센터 ‘서버랙 전력망’ 공략 - 이뉴스투데이",
-   "ts": 1790932800,
-   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5seUhXN1RpUzd1blBiMnFiamFLRGxzMW5IbGI3c3lLU1kyS0dtSzVOcTlRZlVFdkhERWFTTTRnd09HU0J6bHkyWGhIaTJxamd0T3JiMUJRSDZXQXVXSm5XNzZCNkdJYU4zYTRDdUNUZ1bSAXRBVV95cUxNeXRDcDBvT0RkQlVnZVVjTVZvdklLXzZnZG81RFkyV0hWWTdWamZuNWdhdmhPVkI4TDItdTlYTlA3WWlLYjVlU003NW5FZmJPenFJVVBEdXY5MmN5dzRiMURsblYyU25xbnNJTnNiV1NRbkQ5SA?oc=5"
-  },
-  {
-   "co": "Siemens Energy",
-   "n": 1,
-   "s": "DCD",
-   "sc": 12,
-   "sec": "데이터센터·AI전력",
-   "t": "DCD Talks: Inside the US data center power shift with Richard Reisig, Siemens Energy",
-   "ts": 1790934235,
-   "u": "https://www.datacenterdynamics.com/en/videos/dcd-talks-inside-the-us-data-center-power-shift-with-richard-reisig-siemens-energy/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "California Governor Newsom signs VPP and balcony solar bills, vetoes community solar legislation",
-   "ts": 1790936000,
-   "u": "https://www.energy-storage.news/california-governor-newsom-signs-vpp-and-balcony-solar-bills-vetoes-community-solar-legislation/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Crusoe files for $4.8bn data center campus in Jayton, Texas",
-   "ts": 1790935742,
-   "u": "https://www.datacenterdynamics.com/en/news/crusoe-files-for-48bn-data-center-campus-in-jayton-texas/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "hankyung.com",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터는 '전기 먹는 하마'…1곳 연간 사용량 포항시와 맞먹어 - hankyung.com",
-   "ts": 1790930301,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYcWgxVVl5Q2RBeEt4UG83MTl4dC1RZXZwNzhab0Q0ODRDejBBXzFxTERKNGhjdDcxcjJ6Z0NOeTE2b24xRVBrV2N3Tl9lRTI5OWM0SFQ2ejZjZw?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -7111,6 +6950,7 @@
   "94f9b45137dc4941": 1790812225,
   "94fcd6c543257b65": 1790674470,
   "94fe537bda128b8a": 1790498128,
+  "9508ef530dbb6d86": 1790936429,
   "950a2622c4f2bdf3": 1790523722,
   "950ed964169e4c7a": 1790853321,
   "95133f775507926d": 1789948516,
@@ -11751,8 +11591,8 @@
  },
  "companies_today": {},
  "day": "2026-10-02",
- "last_clip": 1790929051,
- "last_msg_poll": 1790936381,
+ "last_clip": 1790936429,
+ "last_msg_poll": 1790936672,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11797,7 +11637,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 19:19 KST",
+  "last_run": "2026-10-02 19:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
