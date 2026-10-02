@@ -449,6 +449,16 @@
    "t": "산일전기 22만원대 강세…변압기 수요와 증설 효과 기대 - 잡포스트",
    "ts": 1790916898,
    "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RcHRzMHBVLXBqTkNsRVVrN1BRMkFkZGpZQmpJX3JvZXFZdThnU1VjNjE2QUdqSHh3U0VJclFaWE80OUEzNWRkLWx6cE9adkR1bmRSTTNNTXhSUmxLZnhGRnkzaTl5ekdlLTB0dFBrejhRUdIBckFVX3lxTE5RcHRzMHBVLXBqTkNsRVVrN1BRMkFkZGpZQmpJX3JvZXFZdThnU1VjNjE2QUdqSHh3U0VJclFaWE80OUEzNWRkLWx6cE9adkR1bmRSTTNNTXhSUmxLZnhGRnkzaTl5ekdlLTB0dFBrejhRUQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "에너지신문 - 전체기사",
+   "sc": 8,
+   "sec": "전력기기",
+   "t": "태안 500MW 해상풍력 송전 거점 짓는다",
+   "ts": 1790956497,
+   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228750"
   }
  ],
  "clip_titles": [],
@@ -6178,6 +6188,7 @@
   "814886941574992b": 1790678503,
   "814fe1fd4f1b8801": 1789691349,
   "8154e1e708160ef7": 1790839223,
+  "81572c0f576cf4fd": 1790924430,
   "815decefed0bc082": 1790653682,
   "815ea19fdea7c22b": 1790917819,
   "8163c140f0fa235b": 1790111621,
@@ -6915,6 +6926,7 @@
   "9278b206e4d90fb9": 1790814919,
   "9279729835a2acf1": 1790919619,
   "927a82b4c393ba98": 1790747118,
+  "92814b43e2e46a23": 1790924430,
   "92917369bc9ce982": 1790841621,
   "9291e4e6a76ded59": 1790047038,
   "92965c5a2118e319": 1789705221,
@@ -11358,6 +11370,7 @@
   "fb408b09acdc6727": 1789696217,
   "fb458fe9f1451302": 1790558489,
   "fb48f8e6da40264a": 1790672120,
+  "fb496e8972c7827b": 1790924430,
   "fb51ee851bed52f8": 1790923816,
   "fb568e56c8cabfd4": 1789959318,
   "fb57d3f145c9014c": 1790130924,
@@ -11580,7 +11593,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790921721,
- "last_msg_poll": 1790924367,
+ "last_msg_poll": 1790924672,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11625,7 +11638,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 15:59 KST",
+  "last_run": "2026-10-02 16:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
