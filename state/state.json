@@ -454,6 +454,16 @@
    "t": "LS전선, 독일 하팅과 'AI 데이터센터 전력 솔루션' 개발 - 뉴스웰",
    "ts": 1790919740,
    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVQ19KQTVSbk5zVVZLdElVMmQxczF1UXVkdVY1YTRwYVZCSzh0NmVFWVVPY0JLaFBvRkdsRzlOdVFvVHN6LVcyalBmaFZQSDhXNFQ5OHRCVFUxQUctbFROQ3RuMGlLVEpmMkhkWA?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "전기신문 - 전체기사",
+   "sc": 8,
+   "sec": "원전",
+   "t": "위험도 기반 규제·SMR 전면에…원안위, 안전규제 5년 청사진",
+   "ts": 1790952331,
+   "u": "https://www.electimes.com/news/articleView.html?idxno=373065"
   }
  ],
  "clip_titles": [],
@@ -7860,6 +7870,7 @@
   "aa1dcc80843bdf0f": 1790352626,
   "aa2580a0962f5e38": 1789630519,
   "aa34d7556d47ef54": 1789709642,
+  "aa4a691e3d654a50": 1790920519,
   "aa4dba75d09d9155": 1790661915,
   "aa4f0d18e2e53704": 1790413219,
   "aa4f5c258125b1ab": 1790676203,
@@ -10313,6 +10324,7 @@
   "e4b2312e3e4f8177": 1789859418,
   "e4c608a6e944143b": 1789629088,
   "e4c72427d5f275ae": 1790668519,
+  "e4c826534d56be81": 1790920519,
   "e4c962b80c2f9f63": 1790665521,
   "e4d50b5c2cd709b6": 1789707915,
   "e4d6c8fe812539cb": 1789954905,
@@ -11503,7 +11515,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790914228,
- "last_msg_poll": 1790920469,
+ "last_msg_poll": 1790920760,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11548,7 +11560,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 14:54 KST",
+  "last_run": "2026-10-02 14:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
