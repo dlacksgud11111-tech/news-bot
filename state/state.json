@@ -394,6 +394,26 @@
    "t": "Argentina develops guidelines for off-grid solar water pumping",
    "ts": 1790918621,
    "u": "https://www.pv-magazine.com/2026/10/02/argentina-develops-guidelines-for-off-grid-solar-water-pumping/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "Shared grid connections concentrate battery insurance risk",
+   "ts": 1790918923,
+   "u": "https://www.pv-magazine.com/2026/10/02/shared-grid-connections-concentrate-battery-insurance-risk-2/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴시스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "구글 '우주 AI 데이터센터' 첫 시험위성 띄웠다…우주서 TPU 작동 검증(종합) - 뉴시스",
+   "ts": 1790918556,
+   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PUUJFbFVYM19DUHBqVnRkS2xFWFEwZW5nZUtTVFBWRU90Zi01U1hObGhEMXh3YlA3M1Q5N1JoclU2TVhxeE9FSkVYV1FoYWJqbjJyZ01iZFoyVVdPd2pPWNIBeEFVX3lxTE5Cc3A1TVFhNm1Bc0tkcUVFY0wxNWp0S3p1Z1B3Slh4YmcwYzc1RnNpa0tPZ0JFMTJhRTdJck1kU2VBdWxLcW9GTkpmMTU2RkZJMjV3SGhILVNUVV9VTTgyUVFsVVFZRHhkYUdJWEVlRFFiMFRDX3NOMw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -4243,6 +4263,7 @@
   "565624f517abe214": 1790037737,
   "565cc66171a135c7": 1790038892,
   "566250960cdc9a57": 1790744723,
+  "56648243ed19fbeb": 1790919017,
   "566625769dbc5cb6": 1790658361,
   "566d10a455c57b10": 1790553879,
   "566d81c473b3e31c": 1790044106,
@@ -6302,6 +6323,7 @@
   "8691b8a512cb39bc": 1789873818,
   "86979c6b41a1323d": 1789627496,
   "869b2561922c80d6": 1789784117,
+  "869dfd179ea7470b": 1790919017,
   "86a1d564d68aad32": 1790560231,
   "86abcbfc807fdaea": 1790038311,
   "86af9d989325692e": 1790578558,
@@ -6653,6 +6675,7 @@
   "8f460e363f1d1102": 1790671521,
   "8f4933a3498ec2e8": 1789627496,
   "8f578dbebeaea4ff": 1789627496,
+  "8f579ccaaa353cce": 1790919017,
   "8f66d649aa4fafae": 1790907023,
   "8f6c12ae764cbcdb": 1790752230,
   "8f6d94f141b44952": 1789627496,
@@ -11421,7 +11444,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790914228,
- "last_msg_poll": 1790918969,
+ "last_msg_poll": 1790919262,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11466,7 +11489,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 14:29 KST",
+  "last_run": "2026-10-02 14:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
