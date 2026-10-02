@@ -294,7 +294,18 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 9,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Enetron Park announces zoning approval for 250MW data center in Pyhäjoki, Finland, despite local government denial",
+   "ts": 1790944121,
+   "u": "https://www.datacenterdynamics.com/en/news/enetron-park-announces-zoning-approval-for-250mw-data-center-in-pyh%C3%A4joki-finland-despite-local-government-denial/"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -6249,6 +6260,7 @@
   "843ceca40faf4790": 1789967119,
   "843dbb67317a8e32": 1790681719,
   "8447666e022b0089": 1790905221,
+  "8455b7744d560513": 1790944220,
   "8457756f73bc6bf0": 1789692920,
   "84581a24617ff318": 1790719817,
   "8458e2fb8e3ac05a": 1790041833,
@@ -11619,7 +11631,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790943936,
- "last_msg_poll": 1790944178,
+ "last_msg_poll": 1790944462,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11664,7 +11676,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 21:29 KST",
+  "last_run": "2026-10-02 21:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
