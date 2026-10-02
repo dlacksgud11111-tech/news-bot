@@ -464,6 +464,16 @@
    "t": "위험도 기반 규제·SMR 전면에…원안위, 안전규제 5년 청사진",
    "ts": 1790952331,
    "u": "https://www.electimes.com/news/articleView.html?idxno=373065"
+  },
+  {
+   "co": "한국전력",
+   "n": 1,
+   "s": "전기신문 - 전체기사",
+   "sc": 11,
+   "sec": "전력기기",
+   "t": "한전, 변전소 AI 감시에 국산 기술 쓴다",
+   "ts": 1790953068,
+   "u": "https://www.electimes.com/news/articleView.html?idxno=373066"
   }
  ],
  "clip_titles": [],
@@ -10393,6 +10403,7 @@
   "e64d53e4c7a59b20": 1790562951,
   "e664388ff197fbff": 1790668519,
   "e6721be1a9bdb71d": 1790586316,
+  "e67a7ab3a7b2a69e": 1790920829,
   "e680de4a109a8d13": 1790142615,
   "e68134b359d99a35": 1790298315,
   "e68cdb6984023e26": 1790046448,
@@ -11515,7 +11526,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790914228,
- "last_msg_poll": 1790920760,
+ "last_msg_poll": 1790921070,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11560,7 +11571,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 14:59 KST",
+  "last_run": "2026-10-02 15:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
