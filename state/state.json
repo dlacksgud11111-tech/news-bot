@@ -319,6 +319,16 @@
    "t": "초내구성 연료전지 촉매, 데이터센터 전력 공급 가능성 열어 - IndexBox",
    "ts": 1790953846,
    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNnlWeElKTXdWaXlSRTNUM05jMHhkQmMySjdLMm1QMmRRQk9EaHNDNEd3TTYzcU9ITVFVRHZnbGg0Z0lpNTRUY0MybGxQVXJ3VnVyYVo4WEg2RE5DczdTM2hMcy01azdKa28zWWQ4T3hpNHRFdENOQkdZLXd4MmtDdGtZUEVsVjFUaTh2NFZvQ2pjZ2dz?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AWS drops non-disclosure agreements for data center projects",
+   "ts": 1790958096,
+   "u": "https://www.datacenterdynamics.com/en/news/aws-drops-non-disclosure-agreements-for-data-center-projects/"
   }
  ],
  "clip_titles": [],
@@ -4415,6 +4425,7 @@
   "593a88468e654685": 1790922323,
   "593c420d18e76ad9": 1790728933,
   "59450169591b871b": 1789648519,
+  "5948cb9200cfd6fa": 1790958340,
   "594915f2548c9336": 1789956921,
   "59533be811cb06ce": 1790744723,
   "595b2bf4aa8ae108": 1789967119,
@@ -11734,7 +11745,7 @@
  "companies_today": {},
  "day": "2026-10-03",
  "last_clip": 1790951650,
- "last_msg_poll": 1790958268,
+ "last_msg_poll": 1790958588,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11779,7 +11790,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-03 01:24 KST",
+  "last_run": "2026-10-03 01:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
