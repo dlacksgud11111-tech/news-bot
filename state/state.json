@@ -313,6 +313,16 @@
    "t": "키움증권 \"대미투자 수혜 가장 클 국내 건설주는 현대건설\"",
    "ts": 1790898457,
    "u": "https://www.yna.co.kr/view/AKR20261002026800008"
+  },
+  {
+   "co": "LS전선",
+   "n": 1,
+   "s": "etnews.com",
+   "sc": 10,
+   "sec": "전력기기",
+   "t": "LS전선, 獨 하팅과 AI 데이터센터 전력 솔루션 공동 개발 - etnews.com",
+   "ts": 1790898849,
+   "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jd3RzckQtQUNaX2FqaUx0OW1CbXQxLWJ4SXByRExIN1N3cGdBOHJ5X1BfMkNvQmdlMEhkSGJDVlRrVXVXc2VJR0R1YTcxdw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -5194,6 +5204,7 @@
   "71f64703bc21544b": 1789954327,
   "71faf217c27f1cfe": 1789873818,
   "7200c55b6f030c85": 1790693118,
+  "720381159fba7ea7": 1790899219,
   "720bf9f0c824f9b7": 1789956616,
   "720ca0827cbcbfa1": 1790047038,
   "7213a5024b4ffa0f": 1789726134,
@@ -6974,6 +6985,7 @@
   "9ef412d76e79953b": 1790746830,
   "9ef60bf3c1097b82": 1789974920,
   "9ef9434f46ed9d49": 1789627496,
+  "9ef9a39fbba0b1a5": 1790899219,
   "9f068ddfbd132407": 1790127320,
   "9f099dde0eb8c253": 1790896239,
   "9f1144c75d2c6b1f": 1789866315,
@@ -10547,6 +10559,7 @@
   "f5bb7e9fdae0627d": 1790641093,
   "f5c132fb083c9636": 1790700714,
   "f5c289fc78a03c62": 1790744723,
+  "f5c2abfda4daeb4b": 1790899219,
   "f5c34338e8521a25": 1790045289,
   "f5c3491b2cff5210": 1790816717,
   "f5c72097dbc7ba31": 1790755519,
@@ -10993,7 +11006,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790892282,
- "last_msg_poll": 1790899163,
+ "last_msg_poll": 1790899467,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11038,7 +11051,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 08:59 KST",
+  "last_run": "2026-10-02 09:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
