@@ -289,198 +289,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 8,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "한국경제",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "구글, ‘우주 데이터센터’ 첫발…TPU 4개 실은 위성 띄웠다 - 한국경제",
-   "ts": 1790915544,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBMDhTQUNQWGhNQnhORl96MUlKeTRzVXZyZHhZSGxQSDhLT2NLbTdHM0gyRFpGZ1JuZE1ZbW5mczFYRVdVSDBWRnNlS0JoMEFSWmxqclluZ3RxUQ?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 2,
-   "s": "데일리매거진",
-   "sc": 16,
-   "sec": "전력기기",
-   "t": "LS일렉트릭, 미국 데이터센터에 1800억원 규모 345kV 초고압 변압기 공급 - 데일리매거진",
-   "ts": 1790915379,
-   "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vRy13QXh5WThCVFAyUnRxSk9SOWhwQVRMaUV0dWltN1B5TWJ3b0JuM3ZYVTdFdnRwVkhnaEhpZnV3MmZybEdETGZZNERyZE5uV3I2VU1aaVF1ZWNKbXZxZHNmQ0RmQkxMX3J0c3ROZ3I0cHVUc25USHYydw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 14,
-   "sec": "전력기기",
-   "t": "정부, 20년 뒤 기후에너지 기술 청사진 만든다…SMR·초전도송전 R&D 발굴",
-   "ts": 1790917200,
-   "u": "https://www.etnews.com/20261002000105"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "서부발전, 전남개발공사와 전남광주 육상풍력 맞손",
-   "ts": 1790916913,
-   "u": "https://www.yna.co.kr/view/AKR20261002102500063"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 7,
-   "sec": "유틸리티·정책",
-   "t": "삼성중공업, 올해 LNG운반선 20척 수주 달성",
-   "ts": 1790948318,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303787"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 1,
-   "sec": "유틸리티·정책",
-   "t": "지역난방公, 사장·신입직원 공감토크 속 소통 문화 키워",
-   "ts": 1790948051,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303789"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 2,
-   "sec": "유틸리티·정책",
-   "t": "[이슈] 알래스카 LNG, 걸프만 프로젝트 대비 비용 2배…경제성 논란",
-   "ts": 1790943065,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303780"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "잡포스트",
-   "sc": 16,
-   "sec": "건설·플랜트",
-   "t": "LS ELECTRIC 20만원대 상승…수주잔고 7조원 뒷받침 - 잡포스트",
-   "ts": 1790916958,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hLUxPaHpSV3VQMVZFR2lDZzZnYm5UYm8taVo3UU5ZeWdFRmdTTm5iQm0zWlVuZF96NWNBR3NnYktWcjRkUks0NkN1bGZLb1phaGRSdmJiZVdvTVUtXzFjWmRTTlZ2SFVuUWlKS2Vn0gFyQVVfeXFMUGxMeDBLdGhtR2xrZi0xRlhDMnR0aTM5SExCOUdONDlzcE12d3BrYjZxOWZCXzMyb3BRSGQxQjY0NXRWWl92d09mdFluejFHT25HdGx4QzZMOGF3N29BVlo3VWdBMkJmQXdjdlA3N2JqYk93?oc=5"
-  },
-  {
-   "co": "산일전기",
-   "n": 1,
-   "s": "잡포스트",
-   "sc": 14,
-   "sec": "전력기기",
-   "t": "산일전기 22만원대 강세…변압기 수요와 증설 효과 기대 - 잡포스트",
-   "ts": 1790916898,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zQmMtdEN0NERtcWYzUFAxbGJCOWtWLXdWTzlIZ1BxUmxNTWc4MmlhSFRYNzlyMHh3OHdScEJIRGZTSFdGNXlINWw3QjlpcEx1QnZhOHA3Szd5cWgtaHl6WGZwU0I1OTJBM0MxREt30gFyQVVfeXFMTlFwdHMwcFUtcGpOQ2xFVWs3UFEyQWRkallCaklfcm9lcVl1OGdTVWM2MTZBR2pIeHdTRUlyUVpYTzQ5QTM1ZGQtbHpwT1p2RHVuZFJNM01NeFJSbEtmeEZGeTNpOXl6R2UtMHR0UGt6OFFR?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "California enacts plug-in solar bill, creating largest US balcony solar market",
-   "ts": 1790917962,
-   "u": "https://www.pv-magazine.com/2026/10/02/newsom-signs-california-plug-in-solar-bill-establishing-the-nations-largest-balcony-solar-market/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "Argentina develops guidelines for off-grid solar water pumping",
-   "ts": 1790918621,
-   "u": "https://www.pv-magazine.com/2026/10/02/argentina-develops-guidelines-for-off-grid-solar-water-pumping/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "Shared grid connections concentrate battery insurance risk",
-   "ts": 1790918923,
-   "u": "https://www.pv-magazine.com/2026/10/02/shared-grid-connections-concentrate-battery-insurance-risk-2/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴시스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "구글 '우주 AI 데이터센터' 첫 시험위성 띄웠다…우주서 TPU 작동 검증(종합) - 뉴시스",
-   "ts": 1790918556,
-   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PUUJFbFVYM19DUHBqVnRkS2xFWFEwZW5nZUtTVFBWRU90Zi01U1hObGhEMXh3YlA3M1Q5N1JoclU2TVhxeE9FSkVYV1FoYWJqbjJyZ01iZFoyVVdPd2pPWNIBeEFVX3lxTE5Cc3A1TVFhNm1Bc0tkcUVFY0wxNWp0S3p1Z1B3Slh4YmcwYzc1RnNpa0tPZ0JFMTJhRTdJck1kU2VBdWxLcW9GTkpmMTU2RkZJMjV3SGhILVNUVV9VTTgyUVFsVVFZRHhkYUdJWEVlRFFiMFRDX3NOMw?oc=5"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 10,
-   "sec": "유틸리티·정책",
-   "t": "한전, 스마트미터링 활용 방안 모색 위해 전문가 머리 맞대",
-   "ts": 1790951234,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373064"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 6,
-   "sec": "재생에너지·ESS",
-   "t": "Sondeva launches platform to track renewable energy projects across Spain’s official journals",
-   "ts": 1790919174,
-   "u": "https://www.pv-magazine.com/2026/10/02/sondeva-launches-platform-to-track-renewable-energy-projects-across-spains-official-journals/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "日 JERA·델·라엘름 \"5년내 3~4GW 데이터센터 구축 목표\" - 연합뉴스",
-   "ts": 1790907209,
-   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oN0UyR2VlbmdHVFF4ZzdGSTFhTHhoMTNVT21TdXF2NHVwdFZRV0hOTUtmVHVweDBkZnRmMGR4Mm5SeDdoVXNmb3I4dmllSkNvSTZTbHNHMWVadGM5b3luQ9IBYEFVX3lxTE5oN0UyR2VlbmdHVFF4ZzdGSTFhTHhoMTNVT21TdXF2NHVwdFZRV0hOTUtmVHVweDBkZnRmMGR4Mm5SeDdoVXNmb3I4dmllSkNvSTZTbHNHMWVadGM5b3luQw?oc=5"
-  },
-  {
-   "co": "LS전선",
-   "n": 1,
-   "s": "뉴스웰",
-   "sc": 10,
-   "sec": "전력기기",
-   "t": "LS전선, 독일 하팅과 'AI 데이터센터 전력 솔루션' 개발 - 뉴스웰",
-   "ts": 1790919740,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVQ19KQTVSbk5zVVZLdElVMmQxczF1UXVkdVY1YTRwYVZCSzh0NmVFWVVPY0JLaFBvRkdsRzlOdVFvVHN6LVcyalBmaFZQSDhXNFQ5OHRCVFUxQUctbFROQ3RuMGlLVEpmMkhkWA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 8,
-   "sec": "원전",
-   "t": "위험도 기반 규제·SMR 전면에…원안위, 안전규제 5년 청사진",
-   "ts": 1790952331,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373065"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 11,
-   "sec": "전력기기",
-   "t": "한전, 변전소 AI 감시에 국산 기술 쓴다",
-   "ts": 1790953068,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373066"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -9033,6 +8842,7 @@
   "c464221921743bd0": 1789947665,
   "c4648a36b01e1ef6": 1789692619,
   "c46928882c2021ae": 1790782831,
+  "c4810634f80c0a91": 1790921721,
   "c4861658bbe17eee": 1790834041,
   "c48820af54938045": 1790643992,
   "c48b47eb5d124d06": 1790067063,
@@ -11554,8 +11364,8 @@
  },
  "companies_today": {},
  "day": "2026-10-02",
- "last_clip": 1790914228,
- "last_msg_poll": 1790921663,
+ "last_clip": 1790921721,
+ "last_msg_poll": 1790921966,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11600,7 +11410,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 15:14 KST",
+  "last_run": "2026-10-02 15:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
