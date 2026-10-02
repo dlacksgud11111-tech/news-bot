@@ -364,6 +364,16 @@
    "t": "Medusa subsea cable system expands to Jordan, partners with NaiTel",
    "ts": 1790947600,
    "u": "https://www.datacenterdynamics.com/en/news/medusa-subsea-cable-system-expands-to-jordan-partners-with-naitel/"
+  },
+  {
+   "co": "한국전력",
+   "n": 1,
+   "s": "한국전력신문",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "LS ELECTRIC, 美 데이터센터에 1,800억원 규모 초고압 변압기 공급 - 한국전력신문",
+   "ts": 1790950284,
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBibzJ0MU5xMWtwVW80NXpkVEItNTFzMkNiQmVEbmJLQXU5eGsxSThrdUFQYmtHUkpDam5IeUtqNlZsWXYzeGdRWERTUHByM1FRZzFtVEJMbF9WTlV1TXFPQXpaTFNsVUZLUVE?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3369,6 +3379,7 @@
   "41d27270ffadc249": 1789698990,
   "41d5043f20a440a7": 1789627496,
   "41d93969d865a1e3": 1790581516,
+  "41e1ea2fe9bf7ccb": 1790950496,
   "41e24803ebf30f3c": 1790135717,
   "41e6f63b1545bdde": 1790850029,
   "41f62fe1cdbbb2c7": 1790670626,
@@ -11721,7 +11732,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790943936,
- "last_msg_poll": 1790950162,
+ "last_msg_poll": 1790950736,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11766,7 +11777,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 23:09 KST",
+  "last_run": "2026-10-02 23:18 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
