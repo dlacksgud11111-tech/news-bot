@@ -384,6 +384,16 @@
    "t": "California enacts plug-in solar bill, creating largest US balcony solar market",
    "ts": 1790917962,
    "u": "https://www.pv-magazine.com/2026/10/02/newsom-signs-california-plug-in-solar-bill-establishing-the-nations-largest-balcony-solar-market/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "Argentina develops guidelines for off-grid solar water pumping",
+   "ts": 1790918621,
+   "u": "https://www.pv-magazine.com/2026/10/02/argentina-develops-guidelines-for-off-grid-solar-water-pumping/"
   }
  ],
  "clip_titles": [],
@@ -8938,6 +8948,7 @@
   "c52caf673c0cc5a0": 1790661915,
   "c5341269173c09f4": 1790734218,
   "c537877b5cbe60c8": 1790834041,
+  "c53857287bdb6fd8": 1790918718,
   "c53b7ce6d6139444": 1790820617,
   "c53f74f6cf04ebe9": 1790561723,
   "c551f3df31ef6eb8": 1789706118,
@@ -11184,6 +11195,7 @@
   "fb2de3dda72096a0": 1790838638,
   "fb323a665430d51c": 1789866315,
   "fb37e30450886415": 1790824522,
+  "fb3a58b049d12ad6": 1790918718,
   "fb3c86385666b8d8": 1790815518,
   "fb408b09acdc6727": 1789696217,
   "fb458fe9f1451302": 1790558489,
@@ -11409,7 +11421,7 @@
  "companies_today": {},
  "day": "2026-10-02",
  "last_clip": 1790914228,
- "last_msg_poll": 1790918659,
+ "last_msg_poll": 1790918969,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11454,7 +11466,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-02 14:24 KST",
+  "last_run": "2026-10-02 14:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
