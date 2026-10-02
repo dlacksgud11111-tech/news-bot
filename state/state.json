@@ -11803,7 +11803,7 @@
  "companies_today": {},
  "day": "2026-10-03",
  "last_clip": 1790951650,
- "last_msg_poll": 1790973378,
+ "last_msg_poll": 1790973951,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11848,7 +11848,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-03 05:36 KST",
+  "last_run": "2026-10-03 05:45 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
