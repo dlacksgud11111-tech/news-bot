@@ -329,6 +329,16 @@
    "t": "유럽 데이터센터 70건 넘게 거부·제한…주민 반발 확산 - 토큰포스트",
    "ts": 1791005913,
    "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uYjltR2c2a1FTZURXN2RuMkNXbnNaQ3VpTVdEcDJubl9OaWN2Ym9ja0FJeC1JZHNRbnR3eDVQanIwZHZ1ZlhzMDltSGJiWVN2?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "글로벌이코노믹",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "\"전력망 알박기 안 통한다\"… 日 도쿄전력, AI 데이터센터 '용량 점거'에 칼 빼들어 - 글로벌이코노믹",
+   "ts": 1791059700,
+   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS3ZLWXZ4ZmNDYkR5VGFEUXhucXdWV1lWTWxtRk4xU1lfbTNLSmJzdTF1SDZhQ0dnWlhqeVRNbHNVeTFHRFN0ZHNuZUwwZXQ2VjNHMkhKN1FiWTI0Tl85dUh4RHhENm9GSGR3YklhdU1lV0ZBWE12TTBUbGMtNU9pdjJuZHVYOEhP?oc=5"
   }
  ],
  "clip_titles": [],
@@ -5655,6 +5665,7 @@
   "73da610b56e0926f": 1790571928,
   "73e31592b9ebc5d5": 1790606428,
   "73e3dbe487e87c51": 1789629088,
+  "73ee60fc5d57d381": 1791059807,
   "73f29ab166a7abf1": 1790823619,
   "73f6560f726ae26e": 1789731017,
   "740503a45f48a551": 1790907314,
@@ -7317,6 +7328,7 @@
   "9a1f40a61b266795": 1790820322,
   "9a247866f612be5a": 1789697424,
   "9a2658630e11efee": 1790832921,
+  "9a311ff1a4567697": 1791059807,
   "9a3421a9689b6af5": 1789958121,
   "9a3624267b7560cc": 1790816717,
   "9a3f94e7334124c2": 1789689915,
@@ -11845,7 +11857,7 @@
  "companies_today": {},
  "day": "2026-10-04",
  "last_clip": 1791026722,
- "last_msg_poll": 1791059484,
+ "last_msg_poll": 1791060050,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11890,7 +11902,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-04 05:31 KST",
+  "last_run": "2026-10-04 05:40 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
