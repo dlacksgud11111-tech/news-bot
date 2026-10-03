@@ -309,6 +309,16 @@
    "t": "한수원, 미국 전력연구원과 원전 기계 최신 기술 공유",
    "ts": 1790963903,
    "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303820"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "The case for railway-integrated solar in South Korea",
+   "ts": 1791014400,
+   "u": "https://www.pv-magazine.com/2026/10/03/the-case-for-railway-integrated-solar-in-south-korea/"
   }
  ],
  "clip_titles": [],
@@ -521,6 +531,7 @@
   "04892391a2ad3184": 1790729518,
   "048b3cc2f945f2c7": 1789959919,
   "049013fbc16da9aa": 1790829018,
+  "04aa1fb69e66db0a": 1791014880,
   "04b279a01c1b2e40": 1790569820,
   "04bc1bca3b3a61f0": 1789723516,
   "04c99b505250a38f": 1790836926,
@@ -11799,7 +11810,7 @@
  "companies_today": {},
  "day": "2026-10-03",
  "last_clip": 1791007518,
- "last_msg_poll": 1791014556,
+ "last_msg_poll": 1791015124,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11844,7 +11855,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-03 17:02 KST",
+  "last_run": "2026-10-03 17:12 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
