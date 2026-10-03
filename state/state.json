@@ -299,68 +299,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "IndexBox",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "고효율 UPS 모듈 시장 2035년 전망: 데이터센터·5G 수요가 성장 견인 - 뉴스 및 통계 - IndexBox",
-   "ts": 1791051964,
-   "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaHVrZ1RmZENJU1NxYkk3OG9feDFsa09YSG1vOE0wbXJTdU9zQXVoUmdnZWsyZ2FxM2pwQ3E3ZUxKSENXTnNYc2NRSW9TRWpRVHd3dTY4RVpwLWpMUmlOdHpVQTQzamNsZVFRUnljbHV4bUV1ckdLYlpZZmhLd3VTRGNrUHcxdXFCOGhGT2pRcXFyR2tfVGhtcnhsU3Vaa0NHUmY2dDNqS0xPNVJpc1RxbkJGVmVYSWJiWExTSTNJMGdZS1RTNFR1bEpMOA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "토큰포스트",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "AWS, 정부기관 NDA 중단 발표…데이터센터 정보 매년 공개 - 토큰포스트",
-   "ts": 1791054480,
-   "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uZ0JxSTd3ZGJRU0pXakVLNkZjYW1LYlBnYTRaZVRaUG5JQmVYNlNOcTdfUW1kT1JGWmtaZTAzNUUzVUJaT2U2UmgxYk1LZmx1?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "토큰포스트",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "유럽 데이터센터 70건 넘게 거부·제한…주민 반발 확산 - 토큰포스트",
-   "ts": 1791005913,
-   "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uYjltR2c2a1FTZURXN2RuMkNXbnNaQ3VpTVdEcDJubl9OaWN2Ym9ja0FJeC1JZHNRbnR3eDVQanIwZHZ1ZlhzMDltSGJiWVN2?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "글로벌이코노믹",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "\"전력망 알박기 안 통한다\"… 日 도쿄전력, AI 데이터센터 '용량 점거'에 칼 빼들어 - 글로벌이코노믹",
-   "ts": 1791059700,
-   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS3ZLWXZ4ZmNDYkR5VGFEUXhucXdWV1lWTWxtRk4xU1lfbTNLSmJzdTF1SDZhQ0dnWlhqeVRNbHNVeTFHRFN0ZHNuZUwwZXQ2VjNHMkhKN1FiWTI0Tl85dUh4RHhENm9GSGR3YklhdU1lV0ZBWE12TTBUbGMtNU9pdjJuZHVYOEhP?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "유틸리티·정책",
-   "t": "트럼프 압박까지…대미투자, 알래스카 LNG 암초에 산 넘어 산",
-   "ts": 1791060901,
-   "u": "https://www.yna.co.kr/view/AKR20260923183200003"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "비즈니스포스트",
-   "sc": 20,
-   "sec": "전력기기",
-   "t": "효성중공업-HD현대일렉 미국 초고압변압기 시장 격돌, 우태희-김영기 현지 설비투자로 경쟁 - 비즈니스포스트",
-   "ts": 1791061200,
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XUi11UUNYTlpQNjlYWFppUC14a3kybTBwN2lDbVBGclFyNFJYbnRiUUVBQnVxSzBLaEZaS1Z6SEgySXh5dzBtVGhQOHNGR2hJLVl2S2QtQWNxaFl4SGxkZWtiV05uVEY3MzFmQ2RKRzhoRTA?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -11904,8 +11843,8 @@
  },
  "companies_today": {},
  "day": "2026-10-04",
- "last_clip": 1791026722,
- "last_msg_poll": 1791064760,
+ "last_clip": 1791064819,
+ "last_msg_poll": 1791065069,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11950,7 +11889,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-04 06:59 KST",
+  "last_run": "2026-10-04 07:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
