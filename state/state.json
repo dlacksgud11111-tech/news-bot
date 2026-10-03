@@ -309,6 +309,16 @@
    "t": "[미르의 글로벌 레이더]효성중공업, 노르웨이 420kV 변압기 계약 3035억→3833억원…2년 새 26% 확대 - mediapen.com",
    "ts": 1790899813,
    "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jdEtVcXNaUlJsVXZ0X1pyaHFzWjAzOXNFMTF5cWt4RlFpZkRseVVMS3pXbkZKdTdvRUZ6MTZ5czlyWk9adkV5Zkh1dVA5c1hfNkl1WdIBWEFVX3lxTE5BN0xXZ3RQaVo5X2ZTc3ZLLUpfZ3owQzdSUGJMZFhHdldhYUxzLU9zYUtFUkM5dzlkS3hsY2F3VnpjR3VsOFhUVWdrY0t1dnV1a2xTSHd0WU0?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "속보 - 이티뉴스",
+   "sc": 1,
+   "sec": "유틸리티·정책",
+   "t": "트럼프, 韓 알래스카 LNG 투자 압박…“곧 합의 안하면 두 배”",
+   "ts": 1790987526,
+   "u": "https://www.etnews.com/20261003000024"
   }
  ],
  "clip_titles": [],
@@ -597,6 +607,7 @@
   "06bf3a8976fe1303": 1790487962,
   "06c51716a4fae813": 1790132720,
   "06cb0784323607ea": 1790055317,
+  "06e3458405a46629": 1790987720,
   "06f6a713a294ff15": 1790040917,
   "06fb56df6c569642": 1790585418,
   "070a7ccafc15520b": 1789954905,
@@ -3122,6 +3133,7 @@
   "3d1c0b01fd61767d": 1790903418,
   "3d25700b3378e55e": 1789965314,
   "3d29774160b006d0": 1790055317,
+  "3d2e66311d885d48": 1790987720,
   "3d3067f3edcdce5b": 1790898024,
   "3d31a7da293a307d": 1790047038,
   "3d3bcc9444569e39": 1789694436,
@@ -8762,6 +8774,7 @@
   "bb7ce8aba353e40b": 1789973468,
   "bb7f4ce167a08bc8": 1789969411,
   "bb825fcebffdbe81": 1790716383,
+  "bb85889e3f263120": 1790987720,
   "bb86e88774e73564": 1789627496,
   "bb87b3f12b95e151": 1789959919,
   "bb8af5b3ff1a747a": 1789979721,
@@ -9084,6 +9097,7 @@
   "c3536f8fae15514d": 1790579195,
   "c3548230daa25a15": 1789627496,
   "c35741c1078c2c5d": 1790791432,
+  "c35ef14314cbc9a6": 1790987720,
   "c3624cf21b8d06ca": 1790496322,
   "c362e5f30bb5cb02": 1790647519,
   "c37b6c2af735ce01": 1790746830,
@@ -9320,6 +9334,7 @@
   "c8d5d283ab93737d": 1790908822,
   "c8df6158c8aa587d": 1789969411,
   "c8e76ac17b74000a": 1790570118,
+  "c8eb3e7284200154": 1790987720,
   "c8f1acf015d4fddd": 1790065913,
   "c8f53c4e93d2e639": 1789727860,
   "c8f8293b6b123063": 1790341651,
@@ -11758,7 +11773,7 @@
  "companies_today": {},
  "day": "2026-10-03",
  "last_clip": 1790986592,
- "last_msg_poll": 1790987405,
+ "last_msg_poll": 1790987967,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11803,7 +11818,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-03 09:30 KST",
+  "last_run": "2026-10-03 09:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
