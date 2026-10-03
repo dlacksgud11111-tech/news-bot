@@ -319,6 +319,16 @@
    "t": "트럼프, 韓 알래스카 LNG 투자 압박…“곧 합의 안하면 두 배”",
    "ts": 1790987526,
    "u": "https://www.etnews.com/20261003000024"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "에너지안전신문",
+   "sc": 6,
+   "sec": "원전",
+   "t": "“AI가 원전 전기값 떠안는다”…오라클, 포인트비치 원전 품고 3억달러 요금부담 낮춘다 - 에너지안전신문",
+   "ts": 1790992528,
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMTV9NX0s0RUh3UExoQmExTDQ0Uk5yUEVLbkctQ1JlRUVGMDg5Vi1wblFQTDBiMWxPYVJpMWNlRW1wQzBuWVpjNi02cVRWTjIzY3dkX1lRZmppOWtpRktGc3JNd3I?oc=5"
   }
  ],
  "clip_titles": [],
@@ -9403,6 +9413,7 @@
   "ca77acff7566d87f": 1789698990,
   "ca7ac2bd4d89fa48": 1790922918,
   "ca7e049f46c69676": 1790905221,
+  "ca8365307d76bf7f": 1790993355,
   "ca858c63a166c3de": 1790111621,
   "ca87b7d182899603": 1790917225,
   "ca956feb20dc3344": 1790068832,
@@ -11785,7 +11796,7 @@
  "companies_today": {},
  "day": "2026-10-03",
  "last_clip": 1790986592,
- "last_msg_poll": 1790993034,
+ "last_msg_poll": 1790993598,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11830,7 +11841,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-03 11:03 KST",
+  "last_run": "2026-10-03 11:13 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
