@@ -339,6 +339,16 @@
    "t": "\"전력망 알박기 안 통한다\"… 日 도쿄전력, AI 데이터센터 '용량 점거'에 칼 빼들어 - 글로벌이코노믹",
    "ts": 1791059700,
    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS3ZLWXZ4ZmNDYkR5VGFEUXhucXdWV1lWTWxtRk4xU1lfbTNLSmJzdTF1SDZhQ0dnWlhqeVRNbHNVeTFHRFN0ZHNuZUwwZXQ2VjNHMkhKN1FiWTI0Tl85dUh4RHhENm9GSGR3YklhdU1lV0ZBWE12TTBUbGMtNU9pdjJuZHVYOEhP?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스 경제 최신기사",
+   "sc": 0,
+   "sec": "유틸리티·정책",
+   "t": "트럼프 압박까지…대미투자, 알래스카 LNG 암초에 산 넘어 산",
+   "ts": 1791060901,
+   "u": "https://www.yna.co.kr/view/AKR20260923183200003"
   }
  ],
  "clip_titles": [],
@@ -6633,6 +6643,7 @@
   "89a6b9276391c7f2": 1790820322,
   "89ad053daf192384": 1789783839,
   "89ae4682a97ebf75": 1790832921,
+  "89cadab027e4af16": 1791061218,
   "89cbfcd9d1171f64": 1790660118,
   "89d9060be48ca5cf": 1790217321,
   "89da6c31ba3eb32e": 1789697424,
@@ -7931,6 +7942,7 @@
   "a7cb4fe0f56fc973": 1790139330,
   "a7d12a111ab2f9d7": 1790672120,
   "a7dab1883cf9a869": 1790920225,
+  "a7de8a896a4ae827": 1791061218,
   "a7e2662917324a75": 1790054122,
   "a7e2f334e7fb1cc1": 1790831115,
   "a7ea6149d2c7df5a": 1790743524,
@@ -9009,6 +9021,7 @@
   "bf83a25d8879ffea": 1789712512,
   "bf86b0d540488699": 1790749819,
   "bf8a2bb62aa31901": 1790665521,
+  "bf9784c10ecbe100": 1791061218,
   "bf9ffa76706f193b": 1790685320,
   "bfb528f17e15cef4": 1789627496,
   "bfbdb5dc2d3cef2a": 1789970013,
@@ -11864,7 +11877,7 @@
  "companies_today": {},
  "day": "2026-10-04",
  "last_clip": 1791026722,
- "last_msg_poll": 1791061181,
+ "last_msg_poll": 1791061463,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11909,7 +11922,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-04 05:59 KST",
+  "last_run": "2026-10-04 06:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
