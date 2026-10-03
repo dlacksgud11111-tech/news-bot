@@ -299,28 +299,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 1,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 7,
-   "sec": "원전",
-   "t": "한수원, 미국 전력연구원과 원전 기계 최신 기술 공유",
-   "ts": 1790963903,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303820"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "The case for railway-integrated solar in South Korea",
-   "ts": 1791014400,
-   "u": "https://www.pv-magazine.com/2026/10/03/the-case-for-railway-integrated-solar-in-south-korea/"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -8087,6 +8066,7 @@
   "ac481f21c0f1f1f7": 1789713633,
   "ac5162623f5827b4": 1790564716,
   "ac5663b78f4c248d": 1790989228,
+  "ac59d4099e859af8": 1791017158,
   "ac59fa6642b7def7": 1790643992,
   "ac5a70589a969a14": 1790123718,
   "ac608b79c6906a64": 1790666422,
@@ -11812,8 +11792,8 @@
  },
  "companies_today": {},
  "day": "2026-10-03",
- "last_clip": 1791007518,
- "last_msg_poll": 1791016828,
+ "last_clip": 1791017158,
+ "last_msg_poll": 1791017403,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11858,7 +11838,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-03 17:40 KST",
+  "last_run": "2026-10-03 17:50 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
