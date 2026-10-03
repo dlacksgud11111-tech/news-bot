@@ -309,6 +309,16 @@
    "t": "천문학적 돈 몰리는 AI 데이터센터… 전력·물 부담에 반발도 - newscj.com",
    "ts": 1791018186,
    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00RHR4VUhvNVlBczJqQ1hVUDlXMnpxRUNPcGpnWlNBUDVuNV9yZDFTVW8ycjN1RkNFYThDazY2ZGd3dE1fZUhQSGxoX2FRUzFxalBpbXA4T1hyVmJJUU16YzBsaHFYdmNzVVE?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "Battery storage paired with 37% of new U.S. residential solar systems in 2025",
+   "ts": 1791019800,
+   "u": "https://www.pv-magazine.com/2026/10/03/battery-storage-paired-with-37-of-new-u-s-residential-solar-systems-in-2025/"
   }
  ],
  "clip_titles": [],
@@ -6458,6 +6468,7 @@
   "86cf27327ac243c7": 1790342212,
   "86d1ea6bf7ff95f1": 1789952592,
   "86d524b55e5d4575": 1790723121,
+  "86db52f30a4cd5cc": 1791020119,
   "86df916e9466b381": 1790504234,
   "86e112f89ed4e560": 1790045289,
   "86e1af9d26ca7f26": 1790583021,
@@ -11807,7 +11818,7 @@
  "companies_today": {},
  "day": "2026-10-03",
  "last_clip": 1791017158,
- "last_msg_poll": 1791020062,
+ "last_msg_poll": 1791020363,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11852,7 +11863,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-03 18:34 KST",
+  "last_run": "2026-10-03 18:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
