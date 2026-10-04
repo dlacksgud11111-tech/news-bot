@@ -309,6 +309,16 @@
    "t": "아마존, 데이터센터 지역에 10억달러 푼다 > 시애틀 뉴스/핫이슈 - SeattleN",
    "ts": 1791042543,
    "u": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SmVJOEt0b0t5bk5JLURfd0htSmsydVNkSVZPUjhIa2N1ZkQ2alh3d1Z3MFR6c253bDNYcHN6eDloOTduTmt1WnVR?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "매일경제",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "데이터센터 전력 절실한데 … 직구매 한도 대폭 풀어줘야 - 매일경제",
+   "ts": 1791099549,
+   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HNUtEYXVuNGY0OXVvTFpqdkxmc1ZiNE9kdEU4cldROFVMMGdhU1N6QS1tckFlN25QMFhqVW5EWmtQODB1Z3FoakRMNkp0VVNfRkFBa2dR?oc=5"
   }
  ],
  "clip_titles": [],
@@ -10746,6 +10756,7 @@
   "e67a7ab3a7b2a69e": 1790920829,
   "e680de4a109a8d13": 1790142615,
   "e68134b359d99a35": 1790298315,
+  "e68b63b1d449225c": 1791100420,
   "e68cdb6984023e26": 1790046448,
   "e68ea8283d3b04da": 1790123718,
   "e691346d8384906a": 1790069722,
@@ -11923,7 +11934,7 @@
  "companies_today": {},
  "day": "2026-10-04",
  "last_clip": 1791097518,
- "last_msg_poll": 1791100093,
+ "last_msg_poll": 1791100667,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11968,7 +11979,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-04 16:48 KST",
+  "last_run": "2026-10-04 16:57 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
