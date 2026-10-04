@@ -319,6 +319,16 @@
    "t": "8700조 쏟아붓는데… AI데이터센터, 전력·인력 부족에 ‘공급 병목’ 현실화 - v.daum.net",
    "ts": 1791103015,
    "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1SQ0RHaUF1YkZWdFg4T1pSVkFIRE9NQUVfUU1NYXkyU3dHVGlCeWJFWFFudmpsWC1pWXlvczhfbW9VRExQTWc?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴시스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터 반발 유럽·한국으로…유럽 420억달러 투자 차질 - 뉴시스",
+   "ts": 1791144000,
+   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9taWlhRnIzeDJlN0tnUFNtU1RtRFFJbXBoSVp2dlc1MC00MEtrVHp1WVNXRHV6SzVpem1lcnBhakpocm1ENWVvZnFIeWlHa0hIRXowZ3htSnl1WU5YSkg1Mw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -7121,6 +7131,7 @@
   "936cea513829fb7f": 1790757639,
   "937ee1be9ceae73e": 1789713633,
   "937f0589f4a79864": 1789870063,
+  "93925c4d650780f4": 1791144615,
   "93a5b29eccd29ebb": 1790097899,
   "93afa437ca5523b5": 1789689626,
   "93b1856a8108daa6": 1789627496,
@@ -11980,7 +11991,7 @@
  "companies_today": {},
  "day": "2026-10-05",
  "last_clip": 1791123984,
- "last_msg_poll": 1791144562,
+ "last_msg_poll": 1791144860,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12025,7 +12036,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 05:09 KST",
+  "last_run": "2026-10-05 05:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
