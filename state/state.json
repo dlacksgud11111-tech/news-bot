@@ -299,7 +299,18 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 0,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "한국경제",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "[단독] 美 AI 인프라 투자 올라탄 TMC…광·전력케이블로 매출 5000억 겨냥 - 한국경제",
+   "ts": 1791072013,
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZWE4zSmdKbjRuM2RybFh1aWhPR0tSTWxUTzZvWElWR3hPdlY1YUI0UU96bjFkTnRTLUZ2cTdnbEJPcU1ZckhibGt2MnAwc3JvN1NJTlBHSXRiUQ?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -1481,6 +1492,7 @@
   "1a41ddbb63b0ce32": 1789693531,
   "1a47e5fa4b9db80b": 1789646718,
   "1a5469c57322f28a": 1790878660,
+  "1a59d43ca50200ad": 1791077728,
   "1a5d357f80ce115b": 1789697120,
   "1a6a5666fb579757": 1790724015,
   "1a76204f65fa73f4": 1790769921,
@@ -11866,7 +11878,7 @@
  "companies_today": {},
  "day": "2026-10-04",
  "last_clip": 1791064819,
- "last_msg_poll": 1791077681,
+ "last_msg_poll": 1791077972,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11911,7 +11923,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-04 10:34 KST",
+  "last_run": "2026-10-04 10:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
