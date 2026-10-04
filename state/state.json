@@ -309,6 +309,16 @@
    "t": "[단독] 美 AI 인프라 투자 올라탄 TMC…광·전력케이블로 매출 5000억 겨냥 - 한국경제",
    "ts": 1791072013,
    "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZWE4zSmdKbjRuM2RybFh1aWhPR0tSTWxUTzZvWElWR3hPdlY1YUI0UU96bjFkTnRTLUZ2cTdnbEJPcU1ZckhibGt2MnAwc3JvN1NJTlBHSXRiUQ?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "국민기자뉴스",
+   "sc": 8,
+   "sec": "데이터센터·AI전력",
+   "t": "LS일렉트릭, 데이터센터 패키지 솔루션으로 아세안 시장 정조준 - 국민기자뉴스",
+   "ts": 1791077400,
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92bWItbnQzNzNCa2V1LUFpTGdHbnIzOVZ3NktLc0tKRU5nX1MxaHBIX1hOOU43Nk1HQ1FrdWJCZmNsSXp0bkpuNkREeWVWOHpmaFdROXpCWUVaaEQzSlR2N0xfWHk?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3282,6 +3292,7 @@
   "4014127ce7f72d97": 1790568030,
   "40164707e5b4b486": 1789627496,
   "40259053bbefc9a3": 1790573944,
+  "4026e1a4fcc61f03": 1791078317,
   "4034987bfad9748f": 1789629088,
   "4034a46a1ffa8b3e": 1790658925,
   "40366af3e981bce0": 1790764256,
@@ -11883,7 +11894,7 @@
  "companies_today": {},
  "day": "2026-10-04",
  "last_clip": 1791064819,
- "last_msg_poll": 1791078266,
+ "last_msg_poll": 1791078567,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -11928,7 +11939,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-04 10:44 KST",
+  "last_run": "2026-10-04 10:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
