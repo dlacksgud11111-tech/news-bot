@@ -329,6 +329,16 @@
    "t": "\"데이터센터 새로 짓는데 수년, 삼바노바 랙으론 며칠 안에 가동\" - 한국경제",
    "ts": 1791145852,
    "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56NFFUbmI1VlY5blhkb0ZJd3hNVlR0RGNuZmh5YS16c01xZ05YUlFHckVMVVdVMFFWM2wwTWsyVlVjSGs4eEFSMklyc1RJV1JRaVZFdkRXOE5Kdw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "이코노미스트",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "전기가 있어도 보낼 길이 없다…AI데이터센터 첫 장벽 ‘전력망’ - 이코노미스트",
+   "ts": 1791151650,
+   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FWS1sUU5ydnV1SFI5WVFxc2pyLWlOUmI5UWJaaFVXNkxtU3lrZF9WT0pKYmd0UFNLQkxFdkZrNF9Lc01kb3BIb2lYOEVoRGhsdnY2U2t1aWs5aFQ4NlJiLTRn?oc=5"
   }
  ],
  "clip_titles": [],
@@ -9948,6 +9958,7 @@
   "d23e0853cbd630cb": 1790668519,
   "d23e2fa8b55a7088": 1789629088,
   "d242c26083587664": 1790754317,
+  "d24e099596ae17bd": 1791152117,
   "d24e9bc06f249465": 1790812225,
   "d25c926641dc0254": 1790556791,
   "d25fb65f87fdaac5": 1789954905,
@@ -12032,7 +12043,7 @@
  "companies_today": {},
  "day": "2026-10-05",
  "last_clip": 1791151251,
- "last_msg_poll": 1791152077,
+ "last_msg_poll": 1791152364,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12077,7 +12088,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 07:14 KST",
+  "last_run": "2026-10-05 07:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
