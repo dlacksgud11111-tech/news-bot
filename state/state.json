@@ -299,38 +299,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "SeattleN",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "아마존, 데이터센터 지역에 10억달러 푼다 > 시애틀 뉴스/핫이슈 - SeattleN",
-   "ts": 1791042543,
-   "u": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SmVJOEt0b0t5bk5JLURfd0htSmsydVNkSVZPUjhIa2N1ZkQ2alh3d1Z3MFR6c253bDNYcHN6eDloOTduTmt1WnVR?oc=5"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "매일경제",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "데이터센터 전력 절실한데 … 직구매 한도 대폭 풀어줘야 - 매일경제",
-   "ts": 1791099549,
-   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HNUtEYXVuNGY0OXVvTFpqdkxmc1ZiNE9kdEU4cldROFVMMGdhU1N6QS1tckFlN25QMFhqVW5EWmtQODB1Z3FoakRMNkp0VVNfRkFBa2dR?oc=5"
-  },
-  {
-   "co": "",
-   "n": 3,
-   "s": "국민일보",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "8700조 쏟아붓는데… AI데이터센터, 전력·인력 부족에 ‘공급 병목’ 현실화 - 국민일보",
-   "ts": 1791102900,
-   "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd0dPbzdxdlFOamdfd3NONzRGMGVTdnJxMU9xcl9jTUY5cjdxUTh5cDN1ZTB4MVFYZEdCVEFwazIyWmhIMmowWFBLaHFROFU5ald6NDVhclA2RGZEbWNsVzJEOGNSSVN6VjhzT2dVZkRfcUYtWTY3WnFEV0sweUZxenFGdVZpSm56ejZ0REFjcmN4RkdiVGfSAWxBVV95cUxPcld4LVhpRGg4azhFQzRENy0yNzhoNDZEVXdJRXRUb3hUNVFHYlRMRk5UMjA2MFRLeWR0MjZFWGpnTzhGZ3VPMTcxZmF1V0I1Y3ZpemlMN0Nobk80SVNtSjhGOWlMcC01MHo5NlU?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -11964,8 +11933,8 @@
  },
  "companies_today": {},
  "day": "2026-10-04",
- "last_clip": 1791097518,
- "last_msg_poll": 1791104669,
+ "last_clip": 1791104751,
+ "last_msg_poll": 1791104996,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12010,7 +11979,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-04 18:04 KST",
+  "last_run": "2026-10-04 18:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
