@@ -339,6 +339,26 @@
    "t": "현대엔지니어링 데이터센터 수요 올라타, 주우정 비주택 사업기회 확보 순항 - 비즈니스포스트",
    "ts": 1791147600,
    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UODA4ODNKcXRudzY3cDk4dTRQdndlZDN4eWYzNkw5YnVuc2hnTjZqem9pRUtqaE82MnhTM2VkOHJpcFpZdGc4aThtX2pmcGZfT2xYcHMyekl0Q1RWMEQyd1BxWHFNR2ozc1hwYXFLd1RrOUU?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스 경제 최신기사",
+   "sc": 4,
+   "sec": "원전",
+   "t": "반세기만의 원전 역수출…웨스팅하우스 반대 뚫어낸 막전막후",
+   "ts": 1791148500,
+   "u": "https://www.yna.co.kr/view/AKR20261003044800003"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "동행미디어 시대",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "대미투자 1호 확정에 볕드는 K전력기기 - 동행미디어 시대",
+   "ts": 1791148200,
+   "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11UElIZWdSUk5BRlUtVEdWb0RmZjFNS291LXZiSEl3OG1NMktLMnJxWVdnZHhwWE9SdFZEMGxlVm9GSkEzUjhpMmJnTDZILVBqUkpQUUMza3lob3hjY0E?oc=5"
   }
  ],
  "clip_titles": [],
@@ -374,6 +394,7 @@
   "00981bae07724c3a": 1789729035,
   "009d92ad3987909f": 1790667315,
   "00b0a0a000cda003": 1790747118,
+  "00b34d2d857fb5be": 1791148918,
   "00b35aabe6474805": 1790751916,
   "00b73c74661741fb": 1789707915,
   "00b83267dd20ef61": 1790856846,
@@ -2834,6 +2855,7 @@
   "35cb44cfbdd724cb": 1790668519,
   "35cf3e90daedb4aa": 1789691718,
   "35d06c2b81500042": 1790661331,
+  "35d2fd6bc6df95a0": 1791148918,
   "35d90e32ed125cc1": 1789707615,
   "35dd75f92822014f": 1790665521,
   "35de1002e120b507": 1789981231,
@@ -10563,6 +10585,7 @@
   "e088d2ca19e5e683": 1789697120,
   "e088d516cbaade5e": 1790057120,
   "e08ccfa8e4c285a3": 1789800017,
+  "e08fafba1d631bed": 1791148918,
   "e092896187443ceb": 1790128217,
   "e098ca5e6de256a9": 1790572220,
   "e0a09d591c749b1f": 1790752230,
@@ -12025,7 +12048,7 @@
  "companies_today": {},
  "day": "2026-10-05",
  "last_clip": 1791123984,
- "last_msg_poll": 1791148600,
+ "last_msg_poll": 1791149166,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12070,7 +12093,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 06:16 KST",
+  "last_run": "2026-10-05 06:26 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
