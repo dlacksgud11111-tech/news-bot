@@ -299,128 +299,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "지디넷코리아",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "[AI 고속도로] 데이터센터 포비아 퍼지는 미국…한국은? - 지디넷코리아",
-   "ts": 1791159509,
-   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4ycHp0YkNfZ1BNQ0xQM0ZJXzlqbkRUNVdzRkM5LU84QzFKZHFJN2dSS2ZzNUkxYkZ0LW9KX0hfU2c1UXBFY2ZkWktoZGJjR3pzTnFOWWVn?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "대우건설 이강석 대표 취임…도약 위한 '3대 경영방향' 제시",
-   "ts": 1791159884,
-   "u": "https://www.yna.co.kr/view/AKR20261005017000003"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지안전신문",
-   "sc": 4,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터가 전력시장 뒤집었다…‘싼 전기’보다 ‘지금 당장 1GW’ - 에너지안전신문",
-   "ts": 1791159711,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QTEZRc3JzVlFoYkNLbjY5MGZSTGVCRVpPUFZ5ZEZMUEI3Y2QwcXpBbzBCUnFVS0FORjVBTDl0TWpTQUhVaGhtWC16T285bWprNmQ1Mnd2WHlXREdrV3hSdzA3c2I?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "브릿지경제",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "GS그룹, 동해에 100MW급 AI데이터센터 첫발… 2028년 완공 목표 - 브릿지경제",
-   "ts": 1791160080,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aZDJXOG5WR2d0Wms5aXpvRHBSTzctb0todjdWS2RQWGR2MmhEM2tTUTBtVGtyZkVkR1pJMnIzZG1XcDRkOWVyMFQ0ZncwQXhXaHkwV0JpMndyQQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "IndexBox",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "금속 수소화물 저장 카트리지 시장 2035년 전망: 데이터센터 전력 안정성 수요가 연평균 12~16% 성장 견인 - IndexBox",
-   "ts": 1791159964,
-   "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa2JYaHhFVGROcGZXc181WjFqMjdZMXJrVlZBMFJxQ2t6cFYtTUNTWGppaWhCekhKRnFCeXFZVmlRY0xjT2NOdVhoR2REWEtncVZpUzVwdF80RVF6dWQ4cnBMT2RTODZPQ2hPS0g2UVB4aFRPczNrVlVHbXZnblZhVGZWQlV0cVpzSVdSWE1LdE1NeWFidXlyLVdISkk1Q3RXVmd2QzVvRHlEdzlmSmFFNmYzUHJzZU9TZE5jUzJzR0piZVhwQ0l3VnFYN2JjYi14Q2lz?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "[기자수첩] 태양광 늘어난 고향길, 안전은 따라갔나",
-   "ts": 1791183600,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303826"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "리드경제",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "삼성·SK·LG, AI 데이터센터 '토털 인프라' 대전…전력·냉각·시공 총동원 - 리드경제",
-   "ts": 1791162300,
-   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12QktvaTZYYXVKWGtLVFhZdmY2cy0xb1VMOGFiaWNpWVpCNW5kd3h2U1ZkUlZueUJZcmNaM1N1N0pjZ18wd0M4dTI5RmIxLXdkeDFaczhfRVVJazVrdnBKTWs0cXluRnk2UF9Hc1ZiTDQ?oc=5"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 8,
-   "sec": "유틸리티·정책",
-   "t": "한전 직원 2만4000명 개인정보 노출 …고객정보는 포함 안 돼",
-   "ts": 1791163869,
-   "u": "https://www.etnews.com/20261005000064"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 4,
-   "sec": "건설·플랜트",
-   "t": "호반그룹 사장단 인사…김대헌 이사회 의장·송종민 호반건설 대표 선임",
-   "ts": 1791162906,
-   "u": "https://www.etnews.com/20261005000054"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴시스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터 반발 유럽·한국으로…유럽 420억달러 투자 차질 - 뉴시스",
-   "ts": 1791144000,
-   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9taWlhRnIzeDJlN0tnUFNtU1RtRFFJbXBoSVp2dlc1MC00MEtrVHp1WVNXRHV6SzVpem1lcnBhakpocm1ENWVvZnFIeWlHa0hIRXowZ3htSnl1WU5YSkg1M9IBeEFVX3lxTE1iUGswLXRsd0JKUHdqQTdOZFBJWVRaSXc1R1dxWkliQ0dsdktnWGd5NkJtNW5DMWZ5dzJTcU92SXIwVFhzdTBNdUFtcEdCTWRyVVh2YVVVSmdnNm9RQ2R1QmlyVXVuVkIxVTB4Ui1ubDVYZzAtVm41Rg?oc=5"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 7,
-   "sec": "전력기기",
-   "t": "최영환 한전 남원지사 과장 “정전 없는 ‘당연한 하루’ 지키는 게 배전의 역할”",
-   "ts": 1791183600,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372971"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 7,
-   "sec": "전력기기",
-   "t": "선로 고장 전에 움직였다…한전 전북본부 남원지사의 ‘예방형 배전관리’",
-   "ts": 1791183600,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=372970"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -7761,6 +7640,7 @@
   "9e6bfaa7b196b766": 1790586617,
   "9e76c901b6161168": 1789724119,
   "9e795ee22e34413f": 1790555020,
+  "9e80ed469ce61e61": 1791166234,
   "9e8751d43503c71b": 1790750123,
   "9e8ab2be34f0f794": 1789967119,
   "9e903fda0253f8b3": 1790748619,
@@ -12231,8 +12111,8 @@
  },
  "companies_today": {},
  "day": "2026-10-05",
- "last_clip": 1791158866,
- "last_msg_poll": 1791166159,
+ "last_clip": 1791166234,
+ "last_msg_poll": 1791166482,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12277,7 +12157,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 11:09 KST",
+  "last_run": "2026-10-05 11:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
