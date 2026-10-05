@@ -369,6 +369,16 @@
    "t": "ICYMI: Grid Codes, grid-forming, cybersecurity and, of course, data centres in our picks of last week’s coverage",
    "ts": 1791194407,
    "u": "https://www.energy-storage.news/icymi-grid-codes-grid-forming-cybersecurity-and-of-course-data-centres-in-our-picks-of-last-weeks-coverage/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 5,
+   "sec": "재생에너지·ESS",
+   "t": "Statkraft and Greenvolt sign largest EU battery energy storage tolling agreement for projects in Poland",
+   "ts": 1791195141,
+   "u": "https://www.energy-storage.news/statkraft-and-greenvolt-sign-largest-eu-battery-energy-storage-tolling-agreement-for-projects-in-poland/"
   }
  ],
  "clip_titles": [],
@@ -3619,6 +3629,7 @@
   "43a8611d43f1a0ba": 1791103869,
   "43a944ef4c961d34": 1790694621,
   "43af3cd93131e679": 1790572220,
+  "43b1afed16613cb9": 1791195407,
   "43bb0ed3cad57fc1": 1790917521,
   "43bbef492ab491e0": 1789715716,
   "43c54b348df26f1c": 1789712512,
@@ -12343,7 +12354,7 @@
  "companies_today": {},
  "day": "2026-10-05",
  "last_clip": 1791188416,
- "last_msg_poll": 1791195069,
+ "last_msg_poll": 1791195656,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12388,7 +12399,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 19:11 KST",
+  "last_run": "2026-10-05 19:20 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
