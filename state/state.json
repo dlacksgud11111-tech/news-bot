@@ -299,88 +299,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "한국경제",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "공장·방송국 부지에 데이터센터…'귀한 몸' 된 도심 자투리 땅 - 한국경제",
-   "ts": 1791189304,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nekpmOTZmazJSTnR2OFFrSElJaDcwdGtzUmVpMnRXWG5mYWgwVDJ2a3kyb0FLMTZvbExSQUE2ZW5jV256aHRZM0hTNVM4OEVzNGktZlhSa1M4UQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "대한청년일보",
-   "sc": 10,
-   "sec": "전력기기",
-   "t": "AI가 키운 전력 전쟁 초고압 변압기 시장 뜨거워진다 - 대한청년일보",
-   "ts": 1791187290,
-   "u": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE91em9QMVRDdjkzUVM1VXJMSkZGaHQzYTVzZ0docnpMcGhPMGtyQlBJY3FkLUNMcUEzN2NQWFVZbHc5UVE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Perovskite solar cell based on Prussian blue achieves 26.9% efficiency",
-   "ts": 1791190816,
-   "u": "https://www.pv-magazine.com/2026/10/05/perovskite-solar-cell-based-on-prussian-blue-achieves-26-9-efficiency/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 5,
-   "sec": "전력기기",
-   "t": "Maximizing efficiency: How commissioning and retro-commissioning facilities can strengthen grid resiliency",
-   "ts": 1791190800,
-   "u": "https://www.utilitydive.com/spons/maximizing-efficiency-how-commissioning-and-retro-commissioning-facilities/831731/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 4,
-   "sec": "유틸리티·정책",
-   "t": "How consumers are paying utility bills: 5 trends to watch",
-   "ts": 1791190800,
-   "u": "https://www.utilitydive.com/spons/how-consumers-are-paying-utility-bills-5-trends-to-watch/831846/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 5,
-   "sec": "재생에너지·ESS",
-   "t": "EU grants cross-border solar, wind project priority status",
-   "ts": 1791193795,
-   "u": "https://www.pv-magazine.com/2026/10/05/eu-grants-cross-border-solar-wind-project-priority-status/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 4,
-   "sec": "전력기기",
-   "t": "ICYMI: Grid Codes, grid-forming, cybersecurity and, of course, data centres in our picks of last week’s coverage",
-   "ts": 1791194407,
-   "u": "https://www.energy-storage.news/icymi-grid-codes-grid-forming-cybersecurity-and-of-course-data-centres-in-our-picks-of-last-weeks-coverage/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 5,
-   "sec": "재생에너지·ESS",
-   "t": "Statkraft and Greenvolt sign largest EU battery energy storage tolling agreement for projects in Poland",
-   "ts": 1791195141,
-   "u": "https://www.energy-storage.news/statkraft-and-greenvolt-sign-largest-eu-battery-energy-storage-tolling-agreement-for-projects-in-poland/"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -3309,6 +3228,7 @@
   "3d1c0b01fd61767d": 1790903418,
   "3d25700b3378e55e": 1789965314,
   "3d29774160b006d0": 1790055317,
+  "3d2cb35626ae4432": 1791195975,
   "3d2e66311d885d48": 1790987720,
   "3d3067f3edcdce5b": 1790898024,
   "3d31a7da293a307d": 1790047038,
@@ -6163,6 +6083,7 @@
   "797d699e578a8f46": 1790125822,
   "799b465c1d2d5593": 1790817021,
   "79a4d3978bffdc5a": 1790283581,
+  "79a777e7f959f247": 1791195975,
   "79b7595eafefa82b": 1789729035,
   "79bcb9c5e9af27fb": 1790577994,
   "79bf5c5d2c7ac96c": 1791183928,
@@ -8684,6 +8605,7 @@
   "b0af24d778817985": 1790214317,
   "b0b13767660c247b": 1790856274,
   "b0b375dd7918582c": 1790737975,
+  "b0b7720a297782b7": 1791195975,
   "b0b82eabc308d625": 1789695321,
   "b0b88cd33eb02aed": 1790643992,
   "b0b8c0138ee731d9": 1789701321,
@@ -12353,8 +12275,8 @@
  },
  "companies_today": {},
  "day": "2026-10-05",
- "last_clip": 1791188416,
- "last_msg_poll": 1791195656,
+ "last_clip": 1791195975,
+ "last_msg_poll": 1791196225,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12399,7 +12321,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 19:20 KST",
+  "last_run": "2026-10-05 19:30 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
