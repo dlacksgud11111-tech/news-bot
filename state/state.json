@@ -299,48 +299,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일경제 : 경제",
-   "sc": 0,
-   "sec": "유틸리티·정책",
-   "t": "[단독] “美, 20억달러만 보증해주고...韓에 알래스카 LNG 500억달러 압박”",
-   "ts": 1791181572,
-   "u": "https://www.mk.co.kr/news/economy/12168425"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "헬로티",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "특별법 제정 속 폭증하는 전력 수요, AI 데이터센터 기획·운용 실무법은? - 헬로티",
-   "ts": 1791183763,
-   "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aX2prekxVQVIxM0ljRWNNUm9iVE0tbXhvWG9VQXlJUTczeDdkZFJjSlRNRURWaHRobWsyUUdoN2g4Q3ZNUF9Qcnh6TWs1aEo5aFlRaGd5Tll0dnNfTVBz?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "동행미디어 시대",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "대미투자 1호 확정에 볕드는 K전력기기 - 동행미디어 시대",
-   "ts": 1791148200,
-   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjdVAtNHZQNnMwaHJITzI5WW9wcm5rWk52dFQyYWYzbHRwRzVFQ21FRTlFWS1LSkxmNy1HeEZ2dXpGZ3g1aHhSYmp3QkRzY0ZYR0R6Y3NkV3FVOW4waEIxU05n?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "economist.co.kr",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "\"데이터센터와 AI데이터센터, 뭐가 다르지?\"…특별법 남은 숙제들 - economist.co.kr",
-   "ts": 1791167280,
-   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6dFpVeWIxYWNGcFRDOGVlU18zY0JER1NDcGV0ejg5ZUo3ZlBOb3FVWHdPZXUxLWY2cW1IRFF3azFqeXl2dkYwZW8wWDBBM1BYRlVwcUhjZkdQZkV6c2pBOGxR?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -3904,6 +3863,7 @@
   "49db0db0f2d2f671": 1789630819,
   "49dbad723a7cacaa": 1790822117,
   "49dd02e9ceefd119": 1790731219,
+  "49defccac2cdf4a6": 1791188416,
   "49e17ad80d341ac9": 1790734821,
   "49e385a8a82170d0": 1789722930,
   "49e4bffe31cfda60": 1789976119,
@@ -6798,6 +6758,7 @@
   "88e335f8d5a341a0": 1791187519,
   "88e85e681703cdd1": 1790746830,
   "88eb560c8f0f2698": 1790903418,
+  "88f30de0eb3d1746": 1791188416,
   "88fbc0dc596db0f1": 1790841621,
   "88feee4cf62ccc72": 1790046448,
   "89031fb515806617": 1789627496,
@@ -11747,6 +11708,7 @@
   "f4d005c4da76c792": 1789875616,
   "f4d40798b3d2c518": 1790107820,
   "f4d7df2b857c5f2b": 1789705521,
+  "f4dde4f87d2a4fe7": 1791188416,
   "f4efff779912418b": 1790044106,
   "f4f94b788c0e8d97": 1789958121,
   "f5019023ce5c3617": 1790660118,
@@ -12283,8 +12245,8 @@
  },
  "companies_today": {},
  "day": "2026-10-05",
- "last_clip": 1791180932,
- "last_msg_poll": 1791188372,
+ "last_clip": 1791188416,
+ "last_msg_poll": 1791188661,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12329,7 +12291,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 17:19 KST",
+  "last_run": "2026-10-05 17:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
