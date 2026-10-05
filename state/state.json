@@ -324,6 +324,16 @@
    "t": "Applied Digital adds 75MW of capacity at Ellendale data center campus in North Dakota",
    "ts": 1791211853,
    "u": "https://www.datacenterdynamics.com/en/news/applied-digital-adds-75mw-of-capacity-at-ellendale-data-center-campus-in-north-dakota/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "YTN",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, 북미 AI 데이터센터 냉각 솔루션 대형 계약 - YTN",
+   "ts": 1791212280,
+   "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5McUNUZ19GQjRmQVJ5N0d6d2Q2aGpuMlE4S0xTWllKQnhmQWtRcE9nWHY0VmxuZFprNTJLMWdsQVNabG1pNWxpN3dYeGpScWlLMzUtVmdHZzVIT2N4T3c?oc=5"
   }
  ],
  "clip_titles": [],
@@ -6419,6 +6429,7 @@
   "7fee454cb98b958f": 1790039473,
   "7fef740e2a6ca858": 1790926783,
   "7ff153d6d3c531f7": 1790558489,
+  "7ff51161f49d3a37": 1791212721,
   "7ff88c70b104a116": 1789629088,
   "7ffacbbb98c8526c": 1789780383,
   "80016e73d9560028": 1790550317,
@@ -7003,6 +7014,7 @@
   "8c9b6e2d8d40b157": 1790052923,
   "8cb51d11a7696e16": 1790843760,
   "8cb5f6f1164b089c": 1790073331,
+  "8cbb634086fd2ad1": 1791212721,
   "8cbfa8a032e31208": 1789894218,
   "8cc4213ddccb3145": 1790139330,
   "8cc5a63b8ab9f6b3": 1790748320,
@@ -7781,6 +7793,7 @@
   "9e0b5373b56303b5": 1790834627,
   "9e0be620ffcf9e48": 1789689915,
   "9e13841b149cc6b3": 1790654258,
+  "9e1fc43f230700a7": 1791212721,
   "9e26866e21729d37": 1790038892,
   "9e2b1f59faf917f2": 1790646933,
   "9e3038eb9d9bca33": 1790049916,
@@ -12357,7 +12370,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791210620,
- "last_msg_poll": 1791212659,
+ "last_msg_poll": 1791212965,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12402,7 +12415,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 00:04 KST",
+  "last_run": "2026-10-06 00:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
