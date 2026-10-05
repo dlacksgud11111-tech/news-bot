@@ -299,7 +299,28 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 0,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "투데이에너지 - 전체기사",
+   "sc": 7,
+   "sec": "원전",
+   "t": "[에너지 인사이트] 한·미 원전 동맹, K원전 엔지니어들의 숨은 공로 크다",
+   "ts": 1791203464,
+   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303831"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "서울경제",
+   "sc": 4,
+   "sec": "전력기기",
+   "t": "LS 1812억, 효성 3865억... ‘AI 붐’에 韓변압기 잘 나가네 - 서울경제",
+   "ts": 1791165216,
+   "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5a3B1ZGZscEpfSWRrb1BDd2o4Q2VpZUlfdEh5dENWRGdVNWdGbzJHS0ZaaWpIM1kyajd4VnBza1p2bThHWnFaS2pSdUcya1VUelHSAVNBVV95cUxPTHVJcU9hbVcxTUNib3NDUlR4SXgtXzM5MTZrcXJZLTZaeTNjZXdPeERGSmxzdVBnMEVNZ0o4OVM1Zm1uWHpKT0pmUW1fbFp2QjdqRQ?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -2098,6 +2119,7 @@
   "26a0471ec9f85327": 1790122002,
   "26a35918023d67f6": 1789864548,
   "26a363fd89810e7b": 1790568321,
+  "26a5925fb4b99d12": 1791171360,
   "26a76bbe63c46d78": 1790572220,
   "26adfd9af40ef1c5": 1789888052,
   "26b275e950914660": 1790921419,
@@ -2312,6 +2334,7 @@
   "2af5f911b9ad5664": 1790068832,
   "2af8219f1fd558f8": 1790670334,
   "2afad96b28bd0690": 1789968847,
+  "2b01a8df862cfcdd": 1791171360,
   "2b0287f3d9a0dd71": 1789705521,
   "2b04b969abce8fea": 1790123718,
   "2b0594426c5915a6": 1789692619,
@@ -4701,6 +4724,7 @@
   "5cb66a164bdbc7a2": 1789627496,
   "5cb932e5cff3f441": 1790829624,
   "5cb9351cfca48e02": 1790820322,
+  "5cbc3f62453a3d28": 1791171360,
   "5cc0d3c38a5e4d77": 1790284148,
   "5cc64686858264c1": 1790583021,
   "5cce5601b739fc06": 1789637120,
@@ -6269,6 +6293,7 @@
   "7ef97cb79555efc1": 1790925029,
   "7eff145f70157469": 1789968847,
   "7f03f18daf183df3": 1790726668,
+  "7f0ecb65d92cf855": 1791171360,
   "7f118c1b8a2ad1e9": 1790658925,
   "7f16559f1c80e50f": 1789627496,
   "7f27e8cd7bc1e252": 1790123140,
@@ -10849,6 +10874,7 @@
   "e493b1c388130d65": 1790589919,
   "e49dc22647f37f1c": 1790681719,
   "e4a1bab32050ce3f": 1790127320,
+  "e4a1e0e6787f97ef": 1791171360,
   "e4a25e9cf233965d": 1790556791,
   "e4a7ede6f5bccc48": 1789627496,
   "e4a9c71a6b1f6808": 1790061315,
@@ -11924,6 +11950,7 @@
   "fba454343b6c84d0": 1790561723,
   "fbb455e3877c5986": 1790726668,
   "fbb662f33714a75d": 1790060726,
+  "fbbf107752cf9278": 1791171360,
   "fbc909025f1e43f3": 1790381556,
   "fbcb99f62839148b": 1790585418,
   "fbcbefc2fc368764": 1790127320,
@@ -12143,7 +12170,7 @@
  "companies_today": {},
  "day": "2026-10-05",
  "last_clip": 1791166234,
- "last_msg_poll": 1791171040,
+ "last_msg_poll": 1791171606,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12188,7 +12215,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 12:30 KST",
+  "last_run": "2026-10-05 12:40 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
