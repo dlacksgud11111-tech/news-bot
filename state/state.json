@@ -359,6 +359,16 @@
    "t": "[기자수첩] 태양광 늘어난 고향길, 안전은 따라갔나",
    "ts": 1791183600,
    "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303826"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "리드경제",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "삼성·SK·LG, AI 데이터센터 '토털 인프라' 대전…전력·냉각·시공 총동원 - 리드경제",
+   "ts": 1791162300,
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12QktvaTZYYXVKWGtLVFhZdmY2cy0xb1VMOGFiaWNpWVpCNW5kd3h2U1ZkUlZueUJZcmNaM1N1N0pjZ18wd0M4dTI5RmIxLXdkeDFaczhfRVVJazVrdnBKTWs0cXluRnk2UF9Hc1ZiTDQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -10709,6 +10719,7 @@
   "e1959846bcf54c51": 1790923232,
   "e197ec5c332de851": 1789949125,
   "e1a2a59b9897f887": 1790651338,
+  "e1ab66f1bc17cef4": 1791163817,
   "e1ae066c6fe0e8a3": 1790813716,
   "e1b169701031aa73": 1790044106,
   "e1baf44a263120b6": 1789627496,
@@ -12133,7 +12144,7 @@
  "companies_today": {},
  "day": "2026-10-05",
  "last_clip": 1791158866,
- "last_msg_poll": 1791163762,
+ "last_msg_poll": 1791164062,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12178,7 +12189,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 10:29 KST",
+  "last_run": "2026-10-05 10:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
