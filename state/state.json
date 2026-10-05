@@ -374,6 +374,16 @@
    "t": "Google's head of data center global design and construction joins Anthropic",
    "ts": 1791200164,
    "u": "https://www.datacenterdynamics.com/en/news/googles-head-of-data-center-global-design-and-construction-joins-anthropic/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "Former UK power station site could become data center campus",
+   "ts": 1791201037,
+   "u": "https://www.datacenterdynamics.com/en/news/former-uk-power-station-site-could-become-data-center-campus/"
   }
  ],
  "clip_titles": [],
@@ -2306,6 +2316,7 @@
   "28d5a74196fb328c": 1790642813,
   "28d8a6c795d22841": 1790122002,
   "28dba97ede68d5b0": 1790823619,
+  "28e263aea5fbb284": 1791201320,
   "28e770d430e43c41": 1790645732,
   "28f32bae19f0f29f": 1790903418,
   "290208daf15770f7": 1790584523,
@@ -12368,7 +12379,7 @@
  "companies_today": {},
  "day": "2026-10-05",
  "last_clip": 1791195975,
- "last_msg_poll": 1791201277,
+ "last_msg_poll": 1791201569,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12413,7 +12424,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 20:54 KST",
+  "last_run": "2026-10-05 20:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
