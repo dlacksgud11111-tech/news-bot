@@ -304,7 +304,48 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 1,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "조선일보",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, 美서 5GW 규모 AI 데이터센터 냉각 수주…K가전 새 돌파구 - 조선일보",
+   "ts": 1791205635,
+   "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcUpsZVc2eXhZOUVGNVZFS3FUYmlTX0t3Yzk1azhWVVdlNmxHWUozUUdySDBpQTZVaVgyZVQwVlZzcVV4TW5MdW5ZMkdjWFlsOWFVR0lFb0h5ZUNfS2ZES0RzenEwaUNiMGVxdENCaUplbHdvdkdVNGFQZTBicW1xQlJwUQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "한국경제",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "데이터센터 반대여론에도 美건설 계속…2027년 90GW 전망 - 한국경제",
+   "ts": 1791205532,
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IajJpQl9RYVpMM2hiMTItQl8yRkRfMGtXelRqQmtlNlFRbFFldjZHTnEzR1c1NEtLOUVHWTBmMEZ4ZWVIRjZxTkNObGVKMzNSMS1rNWZibHY0dw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "한국일보",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, 북미 5GW AI 데이터센터에 냉각설루션 장기 공급한다 - 한국일보",
+   "ts": 1791205500,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UeHZtbXZ3S2cxYmV2cllDZS02aThXTFZNblhuOTVzc21PNzVLZGdvdnM1bWpqUVpkcTV6MmlBQW5MQUwzNGxJN016TFNPS1VISm1kYnlRUHRlUko3RnpULUQ3dzVXSTRINkthZVdB0gFzQVVfeXFMTnNOS00wd2NhWU50ZDlfek1vQVRZMlE0OGF5Q3RWMzlULVoyNDNZTHVFWG5EeVU0aTNkOW5Kbk1YUGs5QnhEWlRtNWw3M1RoVHdjdGVvNzh1QkhvVWVLWExqQ0IybU53LXlYbkxSZXk1dUxoTQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "한겨레",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, 북미 데이터센터에 5GW 냉각설비 공급…2∼3조원 추산 - 한겨레",
+   "ts": 1791205500,
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RX211TlAyVjR5T0VoQy1XNDFWSjFCbE9Cdkh3TERYME9VMk9SVm82c09tNVBrb1M1enNHbkNmRDltYjdkUzcxMjVJWENSMG5vcHluS1BXVlFPY2h5RDhvR3ZUM3l2WlBXeGc?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -386,6 +427,7 @@
   "0164ff62828f1cf1": 1790824219,
   "016b5015acfc2a7f": 1790577419,
   "017c33c715f2e913": 1789995917,
+  "018c70367f486006": 1791205828,
   "019a69e744181f93": 1790563529,
   "01a2356d3c352ef6": 1790573357,
   "01a531117147868e": 1790116234,
@@ -3096,6 +3138,7 @@
   "3a6df91af66f7770": 1789954327,
   "3a75ebd53e546450": 1790731521,
   "3a7d7b5b8245dde0": 1789632918,
+  "3a8630cf48aa3e49": 1791205828,
   "3a88c75b4d18018c": 1789716922,
   "3a90fb8b8fdc43eb": 1790142332,
   "3a91615eb3b0aac6": 1790553879,
@@ -4248,6 +4291,7 @@
   "51dc667395ecb67b": 1790586316,
   "51dcd05eac0c745f": 1790543116,
   "51e09700935990b4": 1789852221,
+  "51e9ff9b8507ef60": 1791205828,
   "51f7f20fd3c95127": 1790053518,
   "51f8d975adb2ea06": 1790042975,
   "51f9a36e3bc87a3e": 1790678503,
@@ -5658,6 +5702,7 @@
   "6ff224511bbc5819": 1789627496,
   "6ffc17490eb2e2c5": 1789630519,
   "6fff9f8899e1e0fb": 1790668519,
+  "7001917cc226ff26": 1791205828,
   "700274b3bcb4b16a": 1790830817,
   "7012f58305794de8": 1790138131,
   "701ad1930dff912c": 1790041522,
@@ -9367,6 +9412,7 @@
   "c094140fab0e036b": 1789627496,
   "c0a2af0cbbe02487": 1790243423,
   "c0aa5e67c10450b1": 1790507416,
+  "c0b2e4d455a0a2dc": 1791205828,
   "c0b3fecbd7039c63": 1791103304,
   "c0b608a56e783baa": 1789863975,
   "c0b6121f8e8215cd": 1789956616,
@@ -12308,7 +12354,7 @@
  "companies_today": {},
  "day": "2026-10-05",
  "last_clip": 1791203420,
- "last_msg_poll": 1791205780,
+ "last_msg_poll": 1791206072,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12353,7 +12399,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 22:09 KST",
+  "last_run": "2026-10-05 22:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
