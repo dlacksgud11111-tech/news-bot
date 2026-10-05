@@ -299,38 +299,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 7,
-   "sec": "원전",
-   "t": "[에너지 인사이트] 한·미 원전 동맹, K원전 엔지니어들의 숨은 공로 크다",
-   "ts": 1791203464,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303831"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "서울경제",
-   "sc": 4,
-   "sec": "전력기기",
-   "t": "LS 1812억, 효성 3865억... ‘AI 붐’에 韓변압기 잘 나가네 - 서울경제",
-   "ts": 1791165216,
-   "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5a3B1ZGZscEpfSWRrb1BDd2o4Q2VpZUlfdEh5dENWRGdVNWdGbzJHS0ZaaWpIM1kyajd4VnBza1p2bThHWnFaS2pSdUcya1VUelHSAVNBVV95cUxPTHVJcU9hbVcxTUNib3NDUlR4SXgtXzM5MTZrcXJZLTZaeTNjZXdPeERGSmxzdVBnMEVNZ0o4OVM1Zm1uWHpKT0pmUW1fbFp2QjdqRQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "우회로 찾는 텍사스 데이터센터…中 배터리도 문 두드린다 [허란의 텍사스 인사이드] - v.daum.net",
-   "ts": 1791172811,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ycDdfeDh3OVRYQmtYa0hMSjluV0FJVmFVcVZsS2RWeFA2YjBHVVBLVVZ6bTBPNjZGVXJBbHQ5MVpyVndRTGR0c0J0TTlqUkU?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -12185,8 +12154,8 @@
  },
  "companies_today": {},
  "day": "2026-10-05",
- "last_clip": 1791166234,
- "last_msg_poll": 1791173664,
+ "last_clip": 1791173721,
+ "last_msg_poll": 1791173970,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12231,7 +12200,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 13:14 KST",
+  "last_run": "2026-10-05 13:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
