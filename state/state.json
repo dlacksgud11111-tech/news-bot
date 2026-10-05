@@ -329,6 +329,26 @@
    "t": "\"ESS 없인 AI 팩토리 못 돌린다\"…엔비디아, BESS '공식 표준 인증' 편입 - 글로벌이코노믹",
    "ts": 1791156592,
    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZl96Nk5WaldhT2hvU3N1V0pQWHBYOUQ5dGJVTVhKUWt6VGQtNlcxWjJhcm1qRkZIMld1aUZVVXllTkczMllleVJqRVhBeEdSX0FSa2J5b2RqUG1qdlNMcGtjZTdaSFZnemFiUWJ2eWEtbmc4WTBKZVpHbXpRNDN3U3JUZEN6NVo4?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 3,
+   "sec": "재생에너지·ESS",
+   "t": "Wärtsilä and RCT Solutions launch storage integrator Valo",
+   "ts": 1791179295,
+   "u": "https://www.pv-magazine.com/2026/10/05/wartsila-and-rct-solutions-launch-storage-integrator-valo/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 13,
+   "sec": "전력기기",
+   "t": "Securing power, controlling costs: How onsite solar and storage shield commercial users from grid volatility",
+   "ts": 1791179138,
+   "u": "https://www.pv-magazine.com/2026/10/05/securing-power-controlling-costs-how-onsite-solar-and-storage-shield-commercial-users-from-grid-volatility/"
   }
  ],
  "clip_titles": [],
@@ -4055,6 +4075,7 @@
   "4de8389507400af9": 1789980627,
   "4dea26ddf7bc3dc7": 1790847338,
   "4debbe5bd3226d78": 1790860882,
+  "4df3364091cfc76b": 1791179428,
   "4df4e98311f4da81": 1789953163,
   "4df600b3afeaffe7": 1790040917,
   "4df9dc65fb9ed73e": 1790554448,
@@ -7845,6 +7866,7 @@
   "a1763ad0759387af": 1790843760,
   "a17c26d98a195f43": 1790667315,
   "a1838e8dee8b62c3": 1789953163,
+  "a184166129a5cd27": 1791179428,
   "a1895af9dea863e8": 1789627496,
   "a19173ad1a2a65ed": 1790046448,
   "a1926243febbc8ad": 1790057120,
@@ -10675,6 +10697,7 @@
   "dfbc3689f3895f78": 1790568321,
   "dfc8c0abfbc119a1": 1790730658,
   "dfcdefd4ad4c0a95": 1790037737,
+  "dfd2402eec03c595": 1791179428,
   "dfdefce2ca46e29a": 1790088308,
   "dfe0801eb865912a": 1790106018,
   "dfe107d9932112a2": 1790661915,
@@ -12210,7 +12233,7 @@
  "companies_today": {},
  "day": "2026-10-05",
  "last_clip": 1791173721,
- "last_msg_poll": 1791179364,
+ "last_msg_poll": 1791179672,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12255,7 +12278,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 14:49 KST",
+  "last_run": "2026-10-05 14:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
