@@ -299,7 +299,18 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 0,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "지디넷코리아",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "[AI 고속도로] 데이터센터 포비아 퍼지는 미국…한국은? - 지디넷코리아",
+   "ts": 1791159509,
+   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4ycHp0YkNfZ1BNQ0xQM0ZJXzlqbkRUNVdzRkM5LU84QzFKZHFJN2dSS2ZzNUkxYkZ0LW9KX0hfU2c1UXBFY2ZkWktoZGJjR3pzTnFOWWVn?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -3910,6 +3921,7 @@
   "4c75fc065f57ab87": 1790554448,
   "4c772baf2cd50b1f": 1790752230,
   "4c7c09501167f99d": 1789632334,
+  "4c8b9fd24b458243": 1791160017,
   "4c8c1cca852fde7e": 1790748619,
   "4c8e711cff930347": 1790907314,
   "4c92a1ef47122fde": 1789976119,
@@ -9200,6 +9212,7 @@
   "c165fdf1195f64d3": 1789634116,
   "c16b67c30b0b6690": 1790723121,
   "c16fc74ed13c2723": 1790668519,
+  "c17766ef0a80ce70": 1791160017,
   "c179c97ecb754008": 1790836926,
   "c17a076220d104f3": 1790053518,
   "c17aa59748a946fa": 1789862827,
@@ -10657,6 +10670,7 @@
   "e28d28e52d501616": 1790145582,
   "e28e33921be31bb6": 1790584833,
   "e29c77b9e67eff8a": 1789695321,
+  "e2a532c050580f67": 1791160017,
   "e2ad91ea6cce82b8": 1791062417,
   "e2b52b0891565fe0": 1790065913,
   "e2b60adee2b20153": 1790820322,
@@ -12031,7 +12045,7 @@
  "companies_today": {},
  "day": "2026-10-05",
  "last_clip": 1791158866,
- "last_msg_poll": 1791159700,
+ "last_msg_poll": 1791160265,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12076,7 +12090,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 09:21 KST",
+  "last_run": "2026-10-05 09:31 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
