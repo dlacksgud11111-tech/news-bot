@@ -314,6 +314,26 @@
    "t": "美 데이터센터 전력난 심화…\"엔비디아보다 메모리칩 타격\" - news1.kr",
    "ts": 1791237756,
    "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aOUZVUFJvOVljU0lXVEhnTUhxRkdoOXdCUUNJWGdpeGRFR3pFLVhfSkNIa3kwUmk3SzRXZF80eHFxZ2VTdWRkdzJ2OGtWeXRELWhITlBEVlV0X3hGV2wteHFXTm9LcE3SAWxBVV95cUxPR1lUcVZlN01lRlJoTS1vd05jbVh3RGVLVHZfTFJvU05EMzNvbTZNcU9NUFdsZWxLUTZGX3VBNU9ob2EzVkV3TlFhNi11M3RXZnBvcC1wQktmbW9peXBibkVRTzlHc2VlT2dOYW8?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "이투데이",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터 따라 몸값 뛴다…‘빅딜’ 이어 지방 개발도 확산 [AI 新계급사회] - 이투데이",
+   "ts": 1791239400,
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ON3FlVDM0bnZRQWQzYXlSZVRJRnlUV2VueG5xMFlJeTNvTzZlRW5aQ1RQRm9uZnZESjdLdHJJOFNEZFI0MGdVd09PUWthV1dQTHpHRENNU0hvWm9IY1ZOdWRMdlFRX1RYMnlDOUtBMENyV09P?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "koreapost.co.kr",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "[글로벌 수주] AI 데이터센터 ‘냉각 전쟁’ 본격화…LG전자, 북미서 5GW 대형 수주 - koreapost.co.kr",
+   "ts": 1791239400,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53ZnZLVk1aOUtyNGVMS3l1NE1GbGpnMlBjREhScUdMbjBGcFlYdXppSXNfb1BYaDlSbFUxTkZKNU9yN18yemhhZ2ZZdjNGTVZqRVNGR2I1bi1ORXRUNHFJdGxtRzc2T2ZQSWtxVG13?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2297,6 +2317,7 @@
   "29a65307c124d9b5": 1790901316,
   "29b4dadcca9fa69d": 1790955660,
   "29b6460cd4e1469c": 1789870063,
+  "29cbc10d5c108a36": 1791240129,
   "29d0468f28d4aeec": 1790748925,
   "29d144e5039494c2": 1790802441,
   "29d2c066f6d69b8e": 1790640533,
@@ -5438,6 +5459,7 @@
   "6a3722d1ecdc09e2": 1789713633,
   "6a379dcb13ee09f8": 1790834627,
   "6a384e94f4896bbe": 1790814919,
+  "6a483975569d49e9": 1791240129,
   "6a4a178c6286bfef": 1789969411,
   "6a4a72278d7b4445": 1790649324,
   "6a4daba17816e1a7": 1790607918,
@@ -6219,6 +6241,7 @@
   "7b72ff3e253c1ac6": 1790068256,
   "7b743f01b60d4b7c": 1789980318,
   "7b81c6630da98968": 1790734218,
+  "7b8fcd9696e13cc0": 1791240129,
   "7b90270be3a8f459": 1790304025,
   "7b929aaca65a359a": 1789629088,
   "7b9c77b55961c369": 1789969411,
@@ -12396,7 +12419,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791237808,
- "last_msg_poll": 1791239798,
+ "last_msg_poll": 1791240374,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12441,7 +12464,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 07:36 KST",
+  "last_run": "2026-10-06 07:46 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
