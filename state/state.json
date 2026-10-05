@@ -344,6 +344,16 @@
    "t": "LG전자, 북미 데이터센터에 5GW 냉각설비 공급…2∼3조원 추산 - 한겨레",
    "ts": 1791205500,
    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RX211TlAyVjR5T0VoQy1XNDFWSjFCbE9Cdkh3TERYME9VMk9SVm82c09tNVBrb1M1enNHbkNmRDltYjdkUzcxMjVJWENSMG5vcHluS1BXVlFPY2h5RDhvR3ZUM3l2WlBXeGc?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Former IBM research campus in Silicon Valley set to be acquired by data center firm",
+   "ts": 1791206702,
+   "u": "https://www.datacenterdynamics.com/en/news/former-ibm-research-campus-in-silicon-valley-set-to-be-acquired-by-data-center-firm/"
   }
  ],
  "clip_titles": [],
@@ -9344,6 +9354,7 @@
   "bed14a10033e669c": 1789627496,
   "bee7fa11435f5bb7": 1790065913,
   "bef4558662b4aabf": 1790588118,
+  "bf069809848b734a": 1791207021,
   "bf11729aef8db5fe": 1790579195,
   "bf131973fc2ecb28": 1790300325,
   "bf1803ebbfdde8bd": 1789873818,
@@ -12358,7 +12369,7 @@
  "companies_today": {},
  "day": "2026-10-05",
  "last_clip": 1791203420,
- "last_msg_poll": 1791206985,
+ "last_msg_poll": 1791207265,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12403,7 +12414,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 22:29 KST",
+  "last_run": "2026-10-05 22:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
