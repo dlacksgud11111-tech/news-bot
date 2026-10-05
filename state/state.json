@@ -303,7 +303,7 @@
   "f1b9bc6a34eac3f9": 1790921418,
   "fe7b17c162f91919": 1790498127
  },
- "alerted_today": 1,
+ "alerted_today": 0,
  "clip_buffer": [
   {
    "co": "",
@@ -8195,6 +8195,7 @@
   "a692361dc134829e": 1790903418,
   "a692fe66d650d735": 1790731821,
   "a6948e01fd51c57f": 1789715119,
+  "a698a6363beabfe5": 1791212418,
   "a69dd2e4da0c7ae1": 1790059516,
   "a6ae9b128c19489e": 1789724119,
   "a6b21eab2decd795": 1790139017,
@@ -12354,9 +12355,9 @@
   "ffffd1601452ed3f": 1791160587
  },
  "companies_today": {},
- "day": "2026-10-05",
+ "day": "2026-10-06",
  "last_clip": 1791210620,
- "last_msg_poll": 1791212361,
+ "last_msg_poll": 1791212659,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12401,7 +12402,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 23:59 KST",
+  "last_run": "2026-10-06 00:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
