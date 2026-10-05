@@ -364,6 +364,26 @@
    "t": "美 AI 데이터센터 지연에 관련 업계 악영향...'전력난' 골머리 - 파이낸셜뉴스",
    "ts": 1791241288,
    "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mS29WOXRsbnZ1NmZXeTJEaXBWamVZVWtZVUNRX3lEV2xGRXdGb3JnTXNpUWxWR3FKenNvVWVGbGt6RnVwOEFyaTVPTWVvd0UzSnNPeVRoWmM4UQ?oc=5"
+  },
+  {
+   "co": "Vertiv",
+   "n": 1,
+   "s": "미주중앙일보",
+   "sc": 4,
+   "sec": "데이터센터·AI전력",
+   "t": "버티브홀딩스, 엔비디아와 ‘베라 루빈 DSX’ 인프라 공동개발… 7조달러 데이터센터 구축 본격화 - 미주중앙일보",
+   "ts": 1791242100,
+   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tZ1pIUHd0TDZGSzMyN3V4WGk5NXIzdmNrQUFvOE9KbFhXcld1Vkx4MmQ1QjBDVUN6YUJzbXpTTGdnRExOMDdNNXRBUE5ULWM1ZGdYNGZOVDdfZGIxX0d6OFNR?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "알파경제",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "베스타스(VWS.DC) 데이터센터발 유럽 전력시장 성장 기대 - 알파경제",
+   "ts": 1791241412,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KZGw4Z1RFT0JNRzJxQ3ozZnpBems1VUlwaklzakdROVo5Q1kzTDc1dGJMZXJ5UjBVNUVMclNpb1NNdFg4cm53NDlPM1RuX0pxM2c0WXVkX2Fma21hbzJMc1ZCdi1sRjZRZUR1MGJR?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2184,6 +2204,7 @@
   "26598e5c5903aeca": 1790901316,
   "2662c6c71d6a0856": 1789968847,
   "26636f1290a8ee63": 1790080517,
+  "2665bbaca24d7563": 1791243016,
   "266cbde5c6585034": 1789649420,
   "267238bb18cef3d5": 1790661915,
   "26771b807ab2d77a": 1791164118,
@@ -3485,6 +3506,7 @@
   "40c0dc21e1524521": 1790073620,
   "40c51c8cee298b9d": 1789736415,
   "40c97a44aa04c336": 1790035428,
+  "40caad300f3084c4": 1791243016,
   "40d76c6d930814c4": 1790818527,
   "40e6519d83e857ff": 1790061315,
   "40ed4783b0cb22f1": 1789715119,
@@ -5084,6 +5106,7 @@
   "61a49aef480dad29": 1789954905,
   "61a6dbdc9110c2d4": 1790727236,
   "61bbc7884c5d1da1": 1790831115,
+  "61be3b02e8b5bf8c": 1791243016,
   "61c3ff4bb6310278": 1790668519,
   "61c462f658019727": 1790142019,
   "61c464a88e0d5668": 1790008517,
@@ -6712,6 +6735,7 @@
   "849a67115703ea48": 1790147295,
   "84a984743f373379": 1790731219,
   "84b8b625984bce57": 1790692523,
+  "84bf1a8eb7adb8ab": 1791243016,
   "84c39cc9af3e81d8": 1790949920,
   "84cd0493b1bda696": 1790062459,
   "84cd09f26fff5f3a": 1789891518,
@@ -9506,6 +9530,7 @@
   "c0b6121f8e8215cd": 1789956616,
   "c0b8da313366aee5": 1790759655,
   "c0ba2d8beaeceeb0": 1791200418,
+  "c0bc3aabec3a9821": 1791243016,
   "c0bfa847cbaa9de0": 1790562951,
   "c0cd0199abb4956f": 1789728460,
   "c0dabab3a30d1e6f": 1790824817,
@@ -11687,6 +11712,7 @@
   "ef90754bc776e468": 1790608219,
   "ef9f4b1f017a4ff1": 1790654845,
   "efa0c3dfb59aedfd": 1790744125,
+  "efa60af32bdd78c6": 1791243016,
   "efa763de9eb469ef": 1790067063,
   "efac9622d0c593ff": 1789968847,
   "efad0ee6b4ff1247": 1790642222,
@@ -12464,7 +12490,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791237808,
- "last_msg_poll": 1791242964,
+ "last_msg_poll": 1791243261,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12509,7 +12535,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 08:29 KST",
+  "last_run": "2026-10-06 08:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
