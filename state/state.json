@@ -354,6 +354,16 @@
    "t": "Former IBM research campus in Silicon Valley set to be acquired by data center firm",
    "ts": 1791206702,
    "u": "https://www.datacenterdynamics.com/en/news/former-ibm-research-campus-in-silicon-valley-set-to-be-acquired-by-data-center-firm/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "First Solar sues JA Solar and American Panel Solutions over TOPCon patents",
+   "ts": 1791208492,
+   "u": "https://www.pv-magazine.com/2026/10/05/first-solar-sues-ja-solar-and-american-panel-solutions-over-topcon-patents/"
   }
  ],
  "clip_titles": [],
@@ -551,6 +561,7 @@
   "03fc6ab698e8be04": 1789721130,
   "04088d7a1c9575f1": 1789863399,
   "040d4fc8e2a3793d": 1789876217,
+  "040eb050a1698d44": 1791208830,
   "04122bdc11338081": 1789967119,
   "041425cc31a488a0": 1790564716,
   "04274ade1dceec86": 1790644581,
@@ -2043,6 +2054,7 @@
   "237b5c93b35a4153": 1789954327,
   "2380e3fab29d6ee0": 1790667923,
   "2383ff741b3ef1fc": 1789688716,
+  "2391cf5c0af38851": 1791208830,
   "239e1fd38bd6f134": 1790820921,
   "239f778c35e3541a": 1789956049,
   "23aa3ab4bc882174": 1789627496,
@@ -3435,6 +3447,7 @@
   "4034a46a1ffa8b3e": 1790658925,
   "40366af3e981bce0": 1790764256,
   "4036886d6b77b806": 1790923232,
+  "4047d9459d2770d8": 1791208830,
   "4047f66f8702375b": 1789951430,
   "404c05ce6c639ccf": 1791094213,
   "405f4613c30e91d9": 1790668519,
@@ -11423,6 +11436,7 @@
   "ec1ab40d06f69477": 1790217321,
   "ec1ca15dbd98a2e7": 1790640533,
   "ec1ec3e15a4f8180": 1790155818,
+  "ec205188851e634f": 1791208830,
   "ec246aee3cf472f8": 1789720817,
   "ec28efd45cefad34": 1790129120,
   "ec29f2fa2d4bf154": 1790658361,
@@ -12375,7 +12389,7 @@
  "companies_today": {},
  "day": "2026-10-05",
  "last_clip": 1791203420,
- "last_msg_poll": 1791208518,
+ "last_msg_poll": 1791209075,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12420,7 +12434,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 22:55 KST",
+  "last_run": "2026-10-05 23:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
