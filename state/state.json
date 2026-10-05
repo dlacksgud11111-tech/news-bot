@@ -319,6 +319,16 @@
    "t": "LS 1812억, 효성 3865억... ‘AI 붐’에 韓변압기 잘 나가네 - 서울경제",
    "ts": 1791165216,
    "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5a3B1ZGZscEpfSWRrb1BDd2o4Q2VpZUlfdEh5dENWRGdVNWdGbzJHS0ZaaWpIM1kyajd4VnBza1p2bThHWnFaS2pSdUcya1VUelHSAVNBVV95cUxPTHVJcU9hbVcxTUNib3NDUlR4SXgtXzM5MTZrcXJZLTZaeTNjZXdPeERGSmxzdVBnMEVNZ0o4OVM1Zm1uWHpKT0pmUW1fbFp2QjdqRQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "우회로 찾는 텍사스 데이터센터…中 배터리도 문 두드린다 [허란의 텍사스 인사이드] - v.daum.net",
+   "ts": 1791172811,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ycDdfeDh3OVRYQmtYa0hMSjluV0FJVmFVcVZsS2RWeFA2YjBHVVBLVVZ6bTBPNjZGVXJBbHQ5MVpyVndRTGR0c0J0TTlqUkU?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3203,6 +3213,7 @@
   "3cb81f54fb442671": 1790042395,
   "3cbf1b327a056ca8": 1789735230,
   "3cc15ddf36f579c9": 1790040051,
+  "3cc7cb843125b66d": 1791173121,
   "3ccabc8ad1e80f70": 1790756120,
   "3cd1f075868efcea": 1790152520,
   "3cd69f151ecc06ca": 1790570118,
@@ -7048,6 +7059,7 @@
   "8fb277102ef0e00b": 1789641915,
   "8fb52c0af2b10be6": 1790646615,
   "8fb8b42cb97cc14e": 1790902219,
+  "8fbfe57059477e57": 1791173121,
   "8fc26dad12d27f45": 1790776839,
   "8fcc204cdb59b0ec": 1790905221,
   "8fce766b9c90af91": 1790733932,
@@ -10364,6 +10376,7 @@
   "d93326ce73b71a38": 1790240120,
   "d93d7774fa807e43": 1790722817,
   "d9451eef225324a1": 1790122580,
+  "d94fe134cf74e12a": 1791173121,
   "d952703399e06ccf": 1790470071,
   "d9531ca0eb77d565": 1790898024,
   "d95593cc279a256b": 1790208969,
@@ -12173,7 +12186,7 @@
  "companies_today": {},
  "day": "2026-10-05",
  "last_clip": 1791166234,
- "last_msg_poll": 1791173077,
+ "last_msg_poll": 1791173372,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12218,7 +12231,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 13:04 KST",
+  "last_run": "2026-10-05 13:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
