@@ -314,6 +314,16 @@
    "t": "Flooded solar plant in Japan catches fire after typhoon",
    "ts": 1791211500,
    "u": "https://www.pv-magazine.com/2026/10/05/flooded-solar-plant-in-japan-catches-fire-after-typhoon/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Applied Digital adds 75MW of capacity at Ellendale data center campus in North Dakota",
+   "ts": 1791211853,
+   "u": "https://www.datacenterdynamics.com/en/news/applied-digital-adds-75mw-of-capacity-at-ellendale-data-center-campus-in-north-dakota/"
   }
  ],
  "clip_titles": [],
@@ -3465,6 +3475,7 @@
   "4175aa1b88ec0a04": 1790949920,
   "417e1cc1be23428e": 1789967690,
   "418077e5bfb27aa1": 1790805917,
+  "418c16f3ec3ae3bf": 1791212119,
   "418e849ce727609b": 1790560518,
   "418f29b8801c8314": 1790670021,
   "418faaccaa355848": 1790051717,
@@ -12345,7 +12356,7 @@
  "companies_today": {},
  "day": "2026-10-05",
  "last_clip": 1791210620,
- "last_msg_poll": 1791212074,
+ "last_msg_poll": 1791212361,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12390,7 +12401,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 23:54 KST",
+  "last_run": "2026-10-05 23:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
