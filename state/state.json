@@ -404,6 +404,26 @@
    "t": "[기후테크, 산업을 바꾸다②]딥리뉴어블스, 초기 투자 없는 지붕형 태양광 사업 확대",
    "ts": 1791226800,
    "u": "https://www.etnews.com/20261002000095"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "에너지안전신문",
+   "sc": 4,
+   "sec": "유틸리티·정책",
+   "t": "“180MW 가스터빈 발전소를 10개월 만에”…대만, AI 전력난 시대 ‘초고속 전원’ 해법 - 에너지안전신문",
+   "ts": 1791231953,
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xQmZkQVI3ckUzbkFMYV96SU1PQ0thVVVOWW53S1lCWFU5VDVFdHhrZ0x1bWJKcE9ZdlJVbTVtQnotak02NnZMaVVwdGY2M09Ibk5MVGJtUlJoTDVjSTdzZ2s3T0k?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "에너지안전신문",
+   "sc": 8,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터는 2년인데 원전은 10년…‘전력 브리지’ 없으면 반도체·AI 투자도 떠난다 - 에너지안전신문",
+   "ts": 1791231950,
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkRndWU0F2ejU0ZTVRbDNPMWNTSlptRFAyUVZ3MXdTVjVxdUpBX09rY29nV3BxZ3JRSGtTTnp2UWFrQ1djb1J4bzY4dmxGQzVTUlEydnE0OXhvWDBKN1o5WEkzNXY?oc=5"
   }
  ],
  "clip_titles": [],
@@ -4908,6 +4928,7 @@
   "5d5ce25b0375f04a": 1790581516,
   "5d630d10f27063d0": 1789953723,
   "5d6371d0c99fd50a": 1789983017,
+  "5d65c516993524df": 1791232779,
   "5d72861d6a6bd677": 1790912423,
   "5d7506da81dc2765": 1789963516,
   "5d78bed4f20683a8": 1790955660,
@@ -10530,6 +10551,7 @@
   "d733db2b84f8ba0d": 1789627496,
   "d73685bb548088ae": 1789627496,
   "d7383ae2a13023dd": 1790812225,
+  "d74b58e04fcf239f": 1791232779,
   "d74d626ecc9b349f": 1789956616,
   "d74e40137baacce7": 1790766320,
   "d74e6d9b60c35c72": 1791034066,
@@ -12456,7 +12478,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791210620,
- "last_msg_poll": 1791231809,
+ "last_msg_poll": 1791233019,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12501,7 +12523,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 05:23 KST",
+  "last_run": "2026-10-06 05:43 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
