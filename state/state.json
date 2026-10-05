@@ -349,6 +349,16 @@
    "t": "Securing power, controlling costs: How onsite solar and storage shield commercial users from grid volatility",
    "ts": 1791179138,
    "u": "https://www.pv-magazine.com/2026/10/05/securing-power-controlling-costs-how-onsite-solar-and-storage-shield-commercial-users-from-grid-volatility/"
+  },
+  {
+   "co": "HD현대일렉트릭",
+   "n": 1,
+   "s": "비즈워치",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "'AI붐에 초고압변압기 훈풍'…HD현대일렉, 영업익 '1조 클럽' 눈앞 - 비즈워치",
+   "ts": 1791180003,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GZ2NoYVlpa1JLSUE4SV9YV0lHR1NHRUphVUFOZVlHR0Y3YUxMSVY3aGFyV0xxX083MjdsLUZEOEduRFVjYmZaVVZVR2RnZEZJcVRNN0Q5aXAxR2pweTZjYVhqNGlGRG92TmN1NA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -357,6 +367,7 @@
   "0003f98f6034d59c": 1790586316,
   "000a340276c52bd2": 1790897721,
   "000ff3c62bde1524": 1790140828,
+  "0010f00b72b6c17b": 1791180332,
   "00124ecf9177fec9": 1789953163,
   "001fd9cb95168f6f": 1789868904,
   "002aa5963f26a1d6": 1790926783,
@@ -1346,6 +1357,7 @@
   "15ce42a3047423b6": 1790677930,
   "15cfa7b189a8cf1c": 1790132720,
   "15d35d32192f6838": 1790069722,
+  "15dded567f48d8a7": 1791180332,
   "15e3233b4f6520e1": 1790819722,
   "15e4c228e946ae6e": 1789695017,
   "15e585cf05a84056": 1790128524,
@@ -12233,7 +12245,7 @@
  "companies_today": {},
  "day": "2026-10-05",
  "last_clip": 1791173721,
- "last_msg_poll": 1791180276,
+ "last_msg_poll": 1791180582,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12278,7 +12290,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 15:04 KST",
+  "last_run": "2026-10-05 15:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
