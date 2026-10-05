@@ -389,6 +389,16 @@
    "t": "호반그룹 사장단 인사…김대헌 이사회 의장·송종민 호반건설 대표 선임",
    "ts": 1791162906,
    "u": "https://www.etnews.com/20261005000054"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴시스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터 반발 유럽·한국으로…유럽 420억달러 투자 차질 - 뉴시스",
+   "ts": 1791144000,
+   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9taWlhRnIzeDJlN0tnUFNtU1RtRFFJbXBoSVp2dlc1MC00MEtrVHp1WVNXRHV6SzVpem1lcnBhakpocm1ENWVvZnFIeWlHa0hIRXowZ3htSnl1WU5YSkg1M9IBeEFVX3lxTE1iUGswLXRsd0JKUHdqQTdOZFBJWVRaSXc1R1dxWkliQ0dsdktnWGd5NkJtNW5DMWZ5dzJTcU92SXIwVFhzdTBNdUFtcEdCTWRyVVh2YVVVSmdnNm9RQ2R1QmlyVXVuVkIxVTB4Ui1ubDVYZzAtVm41Rg?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3384,6 +3394,7 @@
   "3f058d5098bfc87c": 1789776316,
   "3f1aaeb291917d0b": 1789691116,
   "3f1ee328975d1d36": 1790903137,
+  "3f2295a5fe6913e9": 1791164731,
   "3f2a35ea6ef9ac17": 1790008517,
   "3f5126df9f8ef767": 1790042975,
   "3f5327af7440df34": 1790742941,
@@ -12177,7 +12188,7 @@
  "companies_today": {},
  "day": "2026-10-05",
  "last_clip": 1791158866,
- "last_msg_poll": 1791164662,
+ "last_msg_poll": 1791164975,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12222,7 +12233,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 10:44 KST",
+  "last_run": "2026-10-05 10:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
