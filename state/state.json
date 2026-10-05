@@ -307,7 +307,7 @@
  "clip_buffer": [
   {
    "co": "",
-   "n": 1,
+   "n": 2,
    "s": "news1.kr",
    "sc": 6,
    "sec": "데이터센터·AI전력",
@@ -9160,6 +9160,7 @@
   "ba039ffbf8424154": 1790049916,
   "ba03a090531c4845": 1789782685,
   "ba06ecef777d69a1": 1790651338,
+  "ba0ed9cafe682794": 1791238962,
   "ba0f05f1273061b0": 1790138416,
   "ba11704fcfced9c3": 1790910319,
   "ba14b4e9a9c5d3c3": 1790042395,
@@ -12394,7 +12395,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791237808,
- "last_msg_poll": 1791238638,
+ "last_msg_poll": 1791239210,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12439,7 +12440,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 07:17 KST",
+  "last_run": "2026-10-06 07:26 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
