@@ -334,6 +334,26 @@
    "t": "첨단 데이터센터 전력 수요 급증… LS일렉트릭, 북미 전력기기 수주 가속 - 폴리뉴스 Polinews",
    "ts": 1791195774,
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84NF9wNFpyTUNPVHFsRDZXNERlLV9TRF8wTWl5Sm5hVUZrYnJKZHIwT0hKNURvOFpvRkR5TXBpMUtzemhnSjhpaHZuaHJiMHZaekp3M1Y0endUNjZvOFdJNWo4VFNZS2tBMVp3MlZn?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "atNorth to build 75MW data center in Salo, Finland",
+   "ts": 1791196836,
+   "u": "https://www.datacenterdynamics.com/en/news/atnorth-to-build-75mw-data-center-in-salo-finland/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "전국매일신문",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "동해시, GS그룹 AI데이터센터 첫 100MW 건축허가… 1.2GW 캠퍼스 사업 본격화 - 전국매일신문",
+   "ts": 1791174089,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HRUVRUDNWTXRMaUNXZWRSVnBZTVNrSmtkRmZ6OVpOcWxVM2dJWnplTHRNMDVVRzBxS3ozTE52ZDk0TklNTzhxeUlONW9zanpRcUNqZmM4Umd4UXA5YWFlS1Z1d3QzZGItSG8waGZn?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3444,6 +3464,7 @@
   "41049249a4b03c6b": 1790418322,
   "410518d050339420": 1790759086,
   "410671cb3a5439f6": 1790728933,
+  "41071990e898533f": 1791197125,
   "41079d7e5c4ac826": 1790899820,
   "4107c965dd3537b2": 1789976119,
   "4109dbf6a30b322d": 1790496322,
@@ -3695,6 +3716,7 @@
   "458d848cfa9b7812": 1789741147,
   "45970ab9daa3812c": 1790392599,
   "4599eed7c9b17428": 1790737408,
+  "45a3f56731e79a5b": 1791197125,
   "45ac92a778b70031": 1790560231,
   "45aef44c63706720": 1790040917,
   "45c49019bd27d8b9": 1789870063,
@@ -12320,7 +12342,7 @@
  "companies_today": {},
  "day": "2026-10-05",
  "last_clip": 1791195975,
- "last_msg_poll": 1791196803,
+ "last_msg_poll": 1791197370,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12365,7 +12387,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 19:40 KST",
+  "last_run": "2026-10-05 19:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
