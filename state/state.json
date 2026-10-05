@@ -304,138 +304,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Flooded solar plant in Japan catches fire after typhoon",
-   "ts": 1791211500,
-   "u": "https://www.pv-magazine.com/2026/10/05/flooded-solar-plant-in-japan-catches-fire-after-typhoon/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Applied Digital adds 75MW of capacity at Ellendale data center campus in North Dakota",
-   "ts": 1791211853,
-   "u": "https://www.datacenterdynamics.com/en/news/applied-digital-adds-75mw-of-capacity-at-ellendale-data-center-campus-in-north-dakota/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "YTN",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, 북미 AI 데이터센터 냉각 솔루션 대형 계약 - YTN",
-   "ts": 1791212280,
-   "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5McUNUZ19GQjRmQVJ5N0d6d2Q2aGpuMlE4S0xTWllKQnhmQWtRcE9nWHY0VmxuZFprNTJLMWdsQVNabG1pNWxpN3dYeGpScWlLMzUtVmdHZzVIT2N4T3c?oc=5"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "국민일보",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "엔진·배터리·공조… AI 데이터센터, 제조업 신시장을 열다 - 국민일보",
-   "ts": 1791212640,
-   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV1l5QkFIV2hvU1dWUkZhaUxwRTkwMkpBWDltRmo1TDJnbVMyTkZ5UGVOcVpwWmVHbkZxRFBTSjZ2T2p0MkJNdTdPMlpyckRKaUhCcGR4dVZtQ1VBWDNjekFoMm0wV3hvR1otRUNaWF9GV3hJa3NpS2hnWVJDYVB5RUFsNmZGTUdH?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "조선일보",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, 美 데이터센터에 兆단위 냉각 설비 공급 - 조선일보",
-   "ts": 1791214440,
-   "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWEFKZ2hqVXdRZkZPSHFTakVnNmtnbFZiQ3AwOC1ZanFRbnRYTkhyT0JSNU1meHdxa3dsVU85V2lRaWllMldHQk5OQm56UURheXYwZ1JmSmlJSEJ2NUtGRGxwX1RLSVNKZ2kyXy1UN2FxRElpUjUwR3BsTkRSNnd4XzZ0dw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 5,
-   "sec": "원전",
-   "t": "Amazon, Constellation sign 20-year PPA to expand Maryland nuclear plant",
-   "ts": 1791216000,
-   "u": "https://www.utilitydive.com/news/amazon-constellation-sign-20-year-ppa-to-expand-maryland-nuclear-plant/832145/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "서울Pn",
-   "sc": 4,
-   "sec": "데이터센터·AI전력",
-   "t": "[씨줄날줄] 달 원전, 우주 데이터센터 - 서울Pn",
-   "ts": 1791215559,
-   "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQkpEZ1ZHQVRncDVINWVwZXU5Njc5Rm5rQWF4a2FScEdlSndsQ1ZCU2RyRmdaX05hNklGUXl0REdNME94Z0lPQWYxdDJoT3FGRGd2ZktyLW15ZzVZZjB3MGRGOTBkRWJ6a01jM3lud2NIQWVrUXg1d0JFZmY5c0o1WGVHUV9xZw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 5,
-   "sec": "유틸리티·정책",
-   "t": "Rising interest rates challenge utility financing plans, US Bank managing director says",
-   "ts": 1791211635,
-   "u": "https://www.utilitydive.com/news/rising-interest-rates-utility-financing-us-bank/832131/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "POWER Magazine",
-   "sc": 9,
-   "sec": "원전",
-   "t": "Vistra In Line for DOE Loan Package to Uprate Nuclear Plants in Ohio and Pennsylvania",
-   "ts": 1791218791,
-   "u": "https://www.powermag.com/vistra-in-line-for-doe-loan-package-to-uprate-nuclear-plants-in-ohio-and-pennsylvania/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "[기후테크, 산업을 바꾸다②]딥리뉴어블스, 초기 투자 없는 지붕형 태양광 사업 확대",
-   "ts": 1791226800,
-   "u": "https://www.etnews.com/20261002000095"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지안전신문",
-   "sc": 4,
-   "sec": "유틸리티·정책",
-   "t": "“180MW 가스터빈 발전소를 10개월 만에”…대만, AI 전력난 시대 ‘초고속 전원’ 해법 - 에너지안전신문",
-   "ts": 1791231953,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xQmZkQVI3ckUzbkFMYV96SU1PQ0thVVVOWW53S1lCWFU5VDVFdHhrZ0x1bWJKcE9ZdlJVbTVtQnotak02NnZMaVVwdGY2M09Ibk5MVGJtUlJoTDVjSTdzZ2s3T0k?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지안전신문",
-   "sc": 8,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터는 2년인데 원전은 10년…‘전력 브리지’ 없으면 반도체·AI 투자도 떠난다 - 에너지안전신문",
-   "ts": 1791231950,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkRndWU0F2ejU0ZTVRbDNPMWNTSlptRFAyUVZ3MXdTVjVxdUpBX09rY29nV3BxZ3JRSGtTTnp2UWFrQ1djb1J4bzY4dmxGQzVTUlEydnE0OXhvWDBKN1o5WEkzNXY?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "재건축·재개발 47곳서 불법행위 700건 적발…129건 수사의뢰",
-   "ts": 1791233702,
-   "u": "https://www.yna.co.kr/view/AKR20261004013400001"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -4077,6 +3946,7 @@
   "4aec6aadd3d6a2c6": 1790402718,
   "4af0bb4f15200224": 1790125822,
   "4af231cb91911986": 1790536131,
+  "4af46c54044faa07": 1791237808,
   "4afb567df7fd7c31": 1790657174,
   "4aff71227ceba74d": 1789956921,
   "4b06356415f79e32": 1790841922,
@@ -11674,6 +11544,7 @@
   "ee653cb3ed7c7c39": 1790724317,
   "ee66712177764c38": 1790758520,
   "ee72703622d4be51": 1790384721,
+  "ee77e79068b80667": 1791237808,
   "ee7821982d273a2f": 1790737408,
   "ee7aa789144be9cc": 1790042975,
   "ee7d04d0099b25b0": 1789638920,
@@ -12508,8 +12379,8 @@
  },
  "companies_today": {},
  "day": "2026-10-06",
- "last_clip": 1791210620,
- "last_msg_poll": 1791237489,
+ "last_clip": 1791237808,
+ "last_msg_poll": 1791238053,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12554,7 +12425,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 06:58 KST",
+  "last_run": "2026-10-06 07:07 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
