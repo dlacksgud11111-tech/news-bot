@@ -394,6 +394,16 @@
    "t": "Vistra In Line for DOE Loan Package to Uprate Nuclear Plants in Ohio and Pennsylvania",
    "ts": 1791218791,
    "u": "https://www.powermag.com/vistra-in-line-for-doe-loan-package-to-uprate-nuclear-plants-in-ohio-and-pennsylvania/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "속보 - 이티뉴스",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "[기후테크, 산업을 바꾸다②]딥리뉴어블스, 초기 투자 없는 지붕형 태양광 사업 확대",
+   "ts": 1791226800,
+   "u": "https://www.etnews.com/20261002000095"
   }
  ],
  "clip_titles": [],
@@ -6251,6 +6261,7 @@
   "7ab4606a20a1db07": 1790055317,
   "7ab743e8ac5b7ac5": 1790924720,
   "7abc4e6be692cec8": 1790051717,
+  "7acfcca6ca8a0ff6": 1791227040,
   "7ad4b2cd42206909": 1790037737,
   "7ad513f617fe16eb": 1789704620,
   "7ad61663e3f86563": 1789627496,
@@ -8601,6 +8612,7 @@
   "adf766fad3549859": 1790478323,
   "adf86d8e4d6110f4": 1790072430,
   "adfaa6ceb3bbfc79": 1790681418,
+  "adfc0b9bf143d880": 1791227040,
   "ae02f4281adc10d6": 1789627496,
   "ae1217d71877a1e6": 1789981231,
   "ae1346e8b712692b": 1790042395,
@@ -12443,7 +12455,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791210620,
- "last_msg_poll": 1791226708,
+ "last_msg_poll": 1791227286,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12488,7 +12500,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 03:58 KST",
+  "last_run": "2026-10-06 04:08 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
