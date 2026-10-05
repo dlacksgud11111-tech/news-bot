@@ -384,6 +384,16 @@
    "t": "Former UK power station site could become data center campus",
    "ts": 1791201037,
    "u": "https://www.datacenterdynamics.com/en/news/former-uk-power-station-site-could-become-data-center-campus/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "scanx.trade",
+   "sc": 8,
+   "sec": "전력기기",
+   "t": "Accord Transformer & Switchgear H1FY27 Results: Revenue up 90% YoY to ₹52.68 crore - scanx.trade",
+   "ts": 1791202514,
+   "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYl9xM2ZuNW9jX2xzbnFHRWpkSnFXdS1xbWdzelliNVVKQXNaejRVZDJndmEyZnczU3pPR3J6bTZlemwyMlEwOHA0X1RGRk9od1c3Y0JWY2RFUkJpeWR5YzNRMmFrS3plZHpyZWQ3enVPZEtvaEhfMVZMaGZLcnc0TXo1T0pvR0RJZ0t4ZHdIdlAxUUZNbjZHSVBlMzFKaTZKSXBRV2hxaXotVHBuTnRZLUdaaVdZYWNGMmtwWjA2MEZBdW8?oc=5"
   }
  ],
  "clip_titles": [],
@@ -8789,6 +8799,7 @@
   "b2246e768ca6b090": 1790822117,
   "b2250ad5291bce47": 1789637719,
   "b22d1e610527fab0": 1789943682,
+  "b2384f8409ca78fa": 1791202853,
   "b238ed1481ce1c14": 1790838638,
   "b23e9e86c1af413c": 1790904022,
   "b24c571d11d3fe08": 1790044716,
@@ -9737,6 +9748,7 @@
   "c6bf8499ed27698a": 1790831115,
   "c6c05df94258b080": 1789627496,
   "c6cb0fc4c3d8b00e": 1790953922,
+  "c6d038ad82c6b43a": 1791202853,
   "c6d4827b795b32cf": 1790639367,
   "c6e10fc5582763cd": 1790831729,
   "c6e145d2be7410fc": 1790546762,
@@ -9980,6 +9992,7 @@
   "ccaf9366f7208087": 1789784719,
   "ccb071cce1b3137f": 1790167832,
   "ccbd90d7da34a9c9": 1789735230,
+  "ccbeff311d0ed067": 1791202853,
   "ccc1d2ffca4a4446": 1790647519,
   "ccccfd5c57828991": 1789709642,
   "cccd5d04982ce98f": 1790081400,
@@ -11054,6 +11067,7 @@
   "e433babbc4a30661": 1791184532,
   "e437a7776696e032": 1790908822,
   "e4429524d559260d": 1790744723,
+  "e44cd6b08f44c7ef": 1791202853,
   "e450bf24bfbfc6ab": 1790902831,
   "e450cbcf7b61e6a9": 1789958121,
   "e453e2d0fc5743bb": 1790125822,
@@ -12379,7 +12393,7 @@
  "companies_today": {},
  "day": "2026-10-05",
  "last_clip": 1791195975,
- "last_msg_poll": 1791202779,
+ "last_msg_poll": 1791203100,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12424,7 +12438,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 21:19 KST",
+  "last_run": "2026-10-05 21:25 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
