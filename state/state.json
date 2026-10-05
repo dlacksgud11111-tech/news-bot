@@ -349,6 +349,16 @@
    "t": "How consumers are paying utility bills: 5 trends to watch",
    "ts": 1791190800,
    "u": "https://www.utilitydive.com/spons/how-consumers-are-paying-utility-bills-5-trends-to-watch/831846/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 5,
+   "sec": "재생에너지·ESS",
+   "t": "EU grants cross-border solar, wind project priority status",
+   "ts": 1791193795,
+   "u": "https://www.pv-magazine.com/2026/10/05/eu-grants-cross-border-solar-wind-project-priority-status/"
   }
  ],
  "clip_titles": [],
@@ -6208,6 +6218,7 @@
   "7b929aaca65a359a": 1789629088,
   "7b9c77b55961c369": 1789969411,
   "7ba1201268e7d404": 1789891217,
+  "7ba67bc54bda6ad6": 1791194260,
   "7bb14a7419a26f75": 1790467770,
   "7bb8f0e3cc43dee2": 1790562951,
   "7bba2a30cbe5de86": 1789627496,
@@ -12320,7 +12331,7 @@
  "companies_today": {},
  "day": "2026-10-05",
  "last_clip": 1791188416,
- "last_msg_poll": 1791193944,
+ "last_msg_poll": 1791194507,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12365,7 +12376,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 18:52 KST",
+  "last_run": "2026-10-05 19:01 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
