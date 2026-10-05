@@ -339,6 +339,16 @@
    "t": "GS그룹, 동해에 100MW급 AI데이터센터 첫발… 2028년 완공 목표 - 브릿지경제",
    "ts": 1791160080,
    "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aZDJXOG5WR2d0Wms5aXpvRHBSTzctb0todjdWS2RQWGR2MmhEM2tTUTBtVGtyZkVkR1pJMnIzZG1XcDRkOWVyMFQ0ZncwQXhXaHkwV0JpMndyQQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "IndexBox",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "금속 수소화물 저장 카트리지 시장 2035년 전망: 데이터센터 전력 안정성 수요가 연평균 12~16% 성장 견인 - IndexBox",
+   "ts": 1791159964,
+   "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa2JYaHhFVGROcGZXc181WjFqMjdZMXJrVlZBMFJxQ2t6cFYtTUNTWGppaWhCekhKRnFCeXFZVmlRY0xjT2NOdVhoR2REWEtncVZpUzVwdF80RVF6dWQ4cnBMT2RTODZPQ2hPS0g2UVB4aFRPczNrVlVHbXZnblZhVGZWQlV0cVpzSVdSWE1LdE1NeWFidXlyLVdISkk1Q3RXVmd2QzVvRHlEdzlmSmFFNmYzUHJzZU9TZE5jUzJzR0piZVhwQ0l3VnFYN2JjYi14Q2lz?oc=5"
   }
  ],
  "clip_titles": [],
@@ -4819,6 +4829,7 @@
   "5ee06f4c136a22b4": 1790848819,
   "5ee0acae28846174": 1789627496,
   "5ee2a9085890eed3": 1790584833,
+  "5ee8c00db09ef824": 1791162015,
   "5eeb5bb63205a8aa": 1790730658,
   "5eed91a00a91a483": 1790661915,
   "5ef5f6093e4b27c7": 1790498128,
@@ -12096,7 +12107,7 @@
  "companies_today": {},
  "day": "2026-10-05",
  "last_clip": 1791158866,
- "last_msg_poll": 1791161986,
+ "last_msg_poll": 1791162261,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12141,7 +12152,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 09:59 KST",
+  "last_run": "2026-10-05 10:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
