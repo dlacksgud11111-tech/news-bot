@@ -309,6 +309,16 @@
    "t": "오픈AI 안전 담당 사임…“AI 통제력 상실, 원전 사고보다 위험”",
    "ts": 1791174992,
    "u": "https://www.etnews.com/20261005000111"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "sedaily.com",
+   "sc": 4,
+   "sec": "전력기기",
+   "t": "LS 1812억, 효성 3865억... ‘AI 붐’에 韓변압기 잘 나가네 - sedaily.com",
+   "ts": 1791165216,
+   "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MdUlxT2FtVzFNQ2Jvc0NSVHhJeC1fMzkxNmtxclktNlp5M2Nld094REZKbHN1UGcwRU1nSjg5UzVmbW5YekpPSmZRbV9sWnZCN2pF0gFTQVVfeXFMT0x1SXFPYW1XMU1DYm9zQ1JUeEl4LV8zOTE2a3FyWS02WnkzY2V3T3hERkpsc3VQZzBFTWdKODlTNWZtblh6Sk9KZlFtX2xadkI3akU?oc=5"
   }
  ],
  "clip_titles": [],
@@ -9114,6 +9124,7 @@
   "bc6e5cc50add7c1b": 1790744723,
   "bc785449eca2d614": 1790831115,
   "bc80c5ee07ab4f65": 1790903137,
+  "bc924eef665d72f2": 1791177019,
   "bc9317aba2a40cc7": 1790067063,
   "bc994ca12211ee69": 1789720223,
   "bca03b6b9280a79a": 1790643406,
@@ -12185,7 +12196,7 @@
  "companies_today": {},
  "day": "2026-10-05",
  "last_clip": 1791173721,
- "last_msg_poll": 1791176971,
+ "last_msg_poll": 1791177267,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12230,7 +12241,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 14:09 KST",
+  "last_run": "2026-10-05 14:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
