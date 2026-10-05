@@ -319,6 +319,36 @@
    "t": "AI가 키운 전력 전쟁 초고압 변압기 시장 뜨거워진다 - 대한청년일보",
    "ts": 1791187290,
    "u": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE91em9QMVRDdjkzUVM1VXJMSkZGaHQzYTVzZ0docnpMcGhPMGtyQlBJY3FkLUNMcUEzN2NQWFVZbHc5UVE?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "Perovskite solar cell based on Prussian blue achieves 26.9% efficiency",
+   "ts": 1791190816,
+   "u": "https://www.pv-magazine.com/2026/10/05/perovskite-solar-cell-based-on-prussian-blue-achieves-26-9-efficiency/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 5,
+   "sec": "전력기기",
+   "t": "Maximizing efficiency: How commissioning and retro-commissioning facilities can strengthen grid resiliency",
+   "ts": 1791190800,
+   "u": "https://www.utilitydive.com/spons/maximizing-efficiency-how-commissioning-and-retro-commissioning-facilities/831731/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 4,
+   "sec": "유틸리티·정책",
+   "t": "How consumers are paying utility bills: 5 trends to watch",
+   "ts": 1791190800,
+   "u": "https://www.utilitydive.com/spons/how-consumers-are-paying-utility-bills-5-trends-to-watch/831846/"
   }
  ],
  "clip_titles": [],
@@ -4941,6 +4971,7 @@
   "609438ba18d4f00c": 1790555020,
   "60972d42aef104d5": 1789948516,
   "6099b49f0f9e7644": 1790505361,
+  "609ceab1af4a7878": 1791191132,
   "60a40eb0f746b10b": 1790580923,
   "60a5d6f76f5ce822": 1790668519,
   "60a8a8e8fe15a1d5": 1790658361,
@@ -5013,6 +5044,7 @@
   "6228cdab8bba5377": 1790058917,
   "622a5dcb36f052f3": 1791175516,
   "622afcba01b383ea": 1790094620,
+  "622ce7e5115ed567": 1791191132,
   "622dd754da381bdb": 1789627496,
   "62348606cc5611b2": 1789947108,
   "623a8e9043f2c849": 1790922019,
@@ -11229,6 +11261,7 @@
   "e9cb3e75b8938206": 1790053518,
   "e9cc1f258c2d3419": 1790847338,
   "e9d1a3f9cf650a6d": 1791169650,
+  "e9d4b257eddfb5c2": 1791191132,
   "e9d5c4eabd8274f5": 1790091770,
   "e9d860e78e57de86": 1789717533,
   "e9d9f7423abe5895": 1789824289,
@@ -12118,6 +12151,7 @@
   "fcb4729d2114049f": 1790747118,
   "fcc5a895f16b84c3": 1790901616,
   "fcce3491c4e4c183": 1790646328,
+  "fcdef50bfed1932e": 1791191132,
   "fce39c8c0310bb90": 1790581516,
   "fce683d174f62de1": 1789687516,
   "fcf3a96844cf9b9b": 1789977032,
@@ -12278,7 +12312,7 @@
  "companies_today": {},
  "day": "2026-10-05",
  "last_clip": 1791188416,
- "last_msg_poll": 1791191060,
+ "last_msg_poll": 1791191381,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12323,7 +12357,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 18:04 KST",
+  "last_run": "2026-10-05 18:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
