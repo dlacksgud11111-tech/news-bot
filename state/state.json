@@ -334,6 +334,26 @@
    "t": "[글로벌 수주] AI 데이터센터 ‘냉각 전쟁’ 본격화…LG전자, 북미서 5GW 대형 수주 - koreapost.co.kr",
    "ts": 1791239400,
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53ZnZLVk1aOUtyNGVMS3l1NE1GbGpnMlBjREhScUdMbjBGcFlYdXppSXNfb1BYaDlSbFUxTkZKNU9yN18yemhhZ2ZZdjNGTVZqRVNGR2I1bi1ORXRUNHFJdGxtRzc2T2ZQSWtxVG13?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "에너지신문 - 전체기사",
+   "sc": 1,
+   "sec": "유틸리티·정책",
+   "t": "민간LNG산업협회, 실무교육 개최···LNG 시장부터 계약·관세까지",
+   "ts": 1791273600,
+   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228729"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "공감신문",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "북미 AI데이터센터 시장 강타, LG전자 대형 냉각 솔루션 계약 체결 - 공감신문",
+   "ts": 1791240422,
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QNFFucTBvZGFaOTlpSjFDRnZJWXRXNGIwR2RYTmU3Sk1xbkFrektnbEZOYUFTOUJKcHluck5Kb2xwRVc5b29RUGtWckNDR183YjJWLV83bXo2aE5ycjlhLUFCMXB2a0pY?oc=5"
   }
  ],
  "clip_titles": [],
@@ -4497,6 +4517,7 @@
   "55dfdc15e14c4259": 1790550621,
   "55e6d4b50800ec10": 1790060726,
   "55f4b44f50728b6f": 1790649016,
+  "560c30d58187c421": 1791241281,
   "5610e24ea3ecc166": 1790676778,
   "561771e68458c8be": 1790591719,
   "56181651d5c9a209": 1790836356,
@@ -7756,6 +7777,7 @@
   "9c864b21eecf5aff": 1790542228,
   "9c8b4a88b3b880a1": 1790064758,
   "9c8d0f07de615584": 1790564716,
+  "9c9036583bdd4d4d": 1791241281,
   "9c940c633c8bb7f4": 1791176723,
   "9c9ad4e2f7fe5fd8": 1790818527,
   "9c9ca76557f294b9": 1790564716,
@@ -12421,7 +12443,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791237808,
- "last_msg_poll": 1791240943,
+ "last_msg_poll": 1791241527,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12466,7 +12488,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 07:55 KST",
+  "last_run": "2026-10-06 08:05 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
