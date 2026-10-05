@@ -299,68 +299,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 4,
-   "sec": "원전",
-   "t": "오픈AI 안전 담당 사임…“AI 통제력 상실, 원전 사고보다 위험”",
-   "ts": 1791174992,
-   "u": "https://www.etnews.com/20261005000111"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "sedaily.com",
-   "sc": 4,
-   "sec": "전력기기",
-   "t": "LS 1812억, 효성 3865억... ‘AI 붐’에 韓변압기 잘 나가네 - sedaily.com",
-   "ts": 1791165216,
-   "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MdUlxT2FtVzFNQ2Jvc0NSVHhJeC1fMzkxNmtxclktNlp5M2Nld094REZKbHN1UGcwRU1nSjg5UzVmbW5YekpPSmZRbV9sWnZCN2pF0gFTQVVfeXFMT0x1SXFPYW1XMU1DYm9zQ1JUeEl4LV8zOTE2a3FyWS02WnkzY2V3T3hERkpsc3VQZzBFTWdKODlTNWZtblh6Sk9KZlFtX2xadkI3akU?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "글로벌이코노믹",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "\"ESS 없인 AI 팩토리 못 돌린다\"…엔비디아, BESS '공식 표준 인증' 편입 - 글로벌이코노믹",
-   "ts": 1791156592,
-   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZl96Nk5WaldhT2hvU3N1V0pQWHBYOUQ5dGJVTVhKUWt6VGQtNlcxWjJhcm1qRkZIMld1aUZVVXllTkczMllleVJqRVhBeEdSX0FSa2J5b2RqUG1qdlNMcGtjZTdaSFZnemFiUWJ2eWEtbmc4WTBKZVpHbXpRNDN3U3JUZEN6NVo4?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 3,
-   "sec": "재생에너지·ESS",
-   "t": "Wärtsilä and RCT Solutions launch storage integrator Valo",
-   "ts": 1791179295,
-   "u": "https://www.pv-magazine.com/2026/10/05/wartsila-and-rct-solutions-launch-storage-integrator-valo/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 13,
-   "sec": "전력기기",
-   "t": "Securing power, controlling costs: How onsite solar and storage shield commercial users from grid volatility",
-   "ts": 1791179138,
-   "u": "https://www.pv-magazine.com/2026/10/05/securing-power-controlling-costs-how-onsite-solar-and-storage-shield-commercial-users-from-grid-volatility/"
-  },
-  {
-   "co": "HD현대일렉트릭",
-   "n": 1,
-   "s": "비즈워치",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "'AI붐에 초고압변압기 훈풍'…HD현대일렉, 영업익 '1조 클럽' 눈앞 - 비즈워치",
-   "ts": 1791180003,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GZ2NoYVlpa1JLSUE4SV9YV0lHR1NHRUphVUFOZVlHR0Y3YUxMSVY3aGFyV0xxX083MjdsLUZEOEduRFVjYmZaVVZVR2RnZEZJcVRNN0Q5aXAxR2pweTZjYVhqNGlGRG92TmN1NA?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -12244,8 +12183,8 @@
  },
  "companies_today": {},
  "day": "2026-10-05",
- "last_clip": 1791173721,
- "last_msg_poll": 1791180875,
+ "last_clip": 1791180932,
+ "last_msg_poll": 1791181181,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12290,7 +12229,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-05 15:14 KST",
+  "last_run": "2026-10-05 15:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
