@@ -384,6 +384,16 @@
    "t": "베스타스(VWS.DC) 데이터센터발 유럽 전력시장 성장 기대 - 알파경제",
    "ts": 1791241412,
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KZGw4Z1RFT0JNRzJxQ3ozZnpBems1VUlwaklzakdROVo5Q1kzTDc1dGJMZXJ5UjBVNUVMclNpb1NNdFg4cm53NDlPM1RuX0pxM2c0WXVkX2Fma21hbzJMc1ZCdi1sRjZRZUR1MGJR?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "뉴스핌",
+   "sc": 4,
+   "sec": "데이터센터·AI전력",
+   "t": "[모닝 리포트] LS ELECTRIC, 북미 AI 데이터센터 타고 본격 성장 궤도 진입 - 뉴스핌",
+   "ts": 1791242880,
+   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Xb3R5UnBSTk4zVEMtWlpPSmpUbW9WcWpfWVFrZ0c5el9PWDlYaktWZGlCSkFMQ2xNUTdCZm9ZVlpySlZ2RXBQTEpYXzZxY3k4OHN2NUZWRjYxS3VT?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2810,6 +2820,7 @@
   "32ac4fb808fbdd84": 1791188718,
   "32b13bc1251d98dd": 1789629088,
   "32b4f17b29c2fe29": 1791109528,
+  "32ba4380585df35e": 1791243332,
   "32bc76cb57e40cfe": 1789871791,
   "32ce0dce33f21e7f": 1790830817,
   "32cf552820b931be": 1790744723,
@@ -4545,6 +4556,7 @@
   "5598997bd727b0b0": 1789974322,
   "55a570fc2922979d": 1789727860,
   "55a9423934c4ed31": 1790929616,
+  "55b43f09683e7020": 1791243332,
   "55bc5b9fd311ffb7": 1790853924,
   "55bec5928f16c2ab": 1790755519,
   "55bf577a5a1b247d": 1790553879,
@@ -4760,6 +4772,7 @@
   "5a5758bcb6173a69": 1790562019,
   "5a5ac25f8d1cfff5": 1790556223,
   "5a66184bd628b516": 1789692619,
+  "5a699c12fcf1f640": 1791243332,
   "5a738d3f7290d965": 1790832019,
   "5a75141261900410": 1790055317,
   "5a7f6a9aae565dca": 1790064758,
@@ -11504,6 +11517,7 @@
   "eb624e7c0633f948": 1790919619,
   "eb6298effc3ddc2f": 1790495418,
   "eb62ef3c21e9e18c": 1789648519,
+  "eb6c5ceeaa2dc1e7": 1791243332,
   "eb6e896a0fe2747c": 1790732723,
   "eb6f1ef4f551a677": 1790825718,
   "eb7690231d819d7f": 1790123718,
@@ -12326,6 +12340,7 @@
   "fcb32a8046cd9e23": 1790489434,
   "fcb360575bd3d038": 1790120847,
   "fcb4729d2114049f": 1790747118,
+  "fcbc3bbb1b7b9015": 1791243332,
   "fcc5a895f16b84c3": 1790901616,
   "fcce3491c4e4c183": 1790646328,
   "fcdef50bfed1932e": 1791191132,
@@ -12490,7 +12505,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791237808,
- "last_msg_poll": 1791243261,
+ "last_msg_poll": 1791243581,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12535,7 +12550,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 08:34 KST",
+  "last_run": "2026-10-06 08:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
