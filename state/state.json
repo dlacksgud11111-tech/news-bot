@@ -354,6 +354,16 @@
    "t": "[AI 냉각 전쟁/①]가전, 통신, 정유사까지…AI 데이터센터가 연 냉각 시장 - 비즈니스플러스",
    "ts": 1791322200,
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2U09lWjJ6bnhjZXNkSzQtclJNaHdCRGdfMGh2NDdZeFJKTzQzREhHUUo3ZEhxdEc2MW9aS04zaVNKdkpmRGdTOEZNSzFEVk5NV1VsMmRVMDE1ckMxNWwzbXhDSXpzZlEydFpLbnFn?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "이투뉴스 - 전체기사",
+   "sc": 7,
+   "sec": "재생에너지·ESS",
+   "t": "에너지공단, 재생에너지 기업 베트남 수출시장 개척 지원",
+   "ts": 1791359583,
+   "u": "http://www.e2news.com/news/articleView.html?idxno=334853"
   }
  ],
  "clip_titles": [],
@@ -4794,6 +4804,7 @@
   "54d9609d9c04137f": 1790068256,
   "54dff5364ec56633": 1790644581,
   "5505b1d71020d91e": 1791235521,
+  "550b1f67fb71e652": 1791327319,
   "550defddd68b4ab6": 1790647519,
   "5511ecd565bb6e00": 1789627496,
   "5511eec85617b096": 1790053220,
@@ -5421,6 +5432,7 @@
   "6105742fbd337a41": 1790832921,
   "610fa7aa1e35ffa7": 1790573944,
   "6113a54acf100edb": 1790478323,
+  "6116f154cba1e94f": 1791327319,
   "611706da44b58619": 1790579195,
   "612e11a02b1f3bef": 1790060416,
   "612f949ea645e7ec": 1790807718,
@@ -13201,6 +13213,7 @@
   "fc2166c212106b71": 1790820021,
   "fc253918010bdc51": 1789627496,
   "fc2574707ca3f60b": 1790325920,
+  "fc2bc3f8f5bcd19f": 1791327319,
   "fc2ddbc1e062b3a4": 1789706718,
   "fc344d06d497622a": 1790584833,
   "fc36e78b9075e580": 1789637719,
@@ -13424,7 +13437,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791324017,
- "last_msg_poll": 1791327261,
+ "last_msg_poll": 1791327563,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13460,7 +13473,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 07:54 KST",
+  "last_run": "2026-10-07 07:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
