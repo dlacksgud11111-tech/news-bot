@@ -309,7 +309,28 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 1,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "데이터센터 전력수요 급증 전망에 기후장관 \"과잉된 면 있어\" - v.daum.net",
+   "ts": 1791274322,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01WWZ1aXpLTC1SdHhHV2Q3NDFqWkd6MVhfaVhEYVZPMnhNY2NEYnRpcGRJOVRnZUlwbWNVMEdPT2djTUtUVzJkazBpU29ibVE?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "DCD Studio: The UK data center shift with Allan Bosley, Ark Data Centres",
+   "ts": 1791219780,
+   "u": "https://www.datacenterdynamics.com/en/videos/dcd-studio-the-uk-data-center-shift-with-allan-bosley-ark-data-centres/"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -3782,6 +3803,7 @@
   "436573d426f77368": 1790062459,
   "4365a08655bfe61b": 1790150725,
   "4366b4a295198fb3": 1789629315,
+  "4371b3a5b0fe7fe5": 1791275119,
   "43737b83d5527248": 1790064758,
   "43738d9af76acfa5": 1790045289,
   "437719f14191c596": 1790734218,
@@ -6313,6 +6335,7 @@
   "7583a967dfa068d8": 1790643992,
   "7583b0285a5c632f": 1790679660,
   "758606637cdcc013": 1789956921,
+  "758f70708864973d": 1791275119,
   "75914e0569233853": 1790913916,
   "7593476be10e3fa4": 1789627496,
   "75956489257105e3": 1790743524,
@@ -7496,6 +7519,7 @@
   "8de33bc0cc516544": 1791028217,
   "8def32ba7df72cf4": 1789720517,
   "8df3c5a7bbd6ab27": 1790307321,
+  "8df44fbbf95e99b8": 1791275119,
   "8df56b62974c148f": 1790829319,
   "8dfdd386c02089c9": 1790848819,
   "8dff58d951a7fff8": 1790668519,
@@ -8412,6 +8436,7 @@
   "a10e5db33c5009a0": 1789991265,
   "a10edff3b6de2668": 1790514016,
   "a10f5998943f23b1": 1789938697,
+  "a113bfb54c86be52": 1791275119,
   "a116fb883386bfe8": 1789697120,
   "a11e3a5c8ad6622f": 1791246009,
   "a131f35903479069": 1789627496,
@@ -8881,6 +8906,7 @@
   "a9efea8367ccdc85": 1789715428,
   "a9f6e42956377cbf": 1789706718,
   "a9f89e3c1fe57304": 1789691718,
+  "aa10e46c83e8cd8e": 1791275119,
   "aa124cbde3898a46": 1790554448,
   "aa1dcc80843bdf0f": 1790352626,
   "aa2580a0962f5e38": 1789630519,
@@ -11345,6 +11371,7 @@
   "dc5c17d8a8875d1d": 1789853948,
   "dc658a90d2730a00": 1789769417,
   "dc6d6ed8493e35e9": 1790581819,
+  "dc7e6001f1cc935d": 1791275119,
   "dc889aa3209e650d": 1790935532,
   "dc941a0c3bae5429": 1791266719,
   "dc98e3313ad251c8": 1790751916,
@@ -13154,7 +13181,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791274831,
- "last_msg_poll": 1791275079,
+ "last_msg_poll": 1791275366,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13195,7 +13222,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 17:24 KST",
+  "last_run": "2026-10-06 17:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
