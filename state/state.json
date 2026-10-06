@@ -432,7 +432,7 @@
   },
   {
    "co": "",
-   "n": 1,
+   "n": 2,
    "s": "속보 - 이티뉴스",
    "sc": 0,
    "sec": "재생에너지·ESS",
@@ -569,6 +569,26 @@
    "t": "노키아 CEO \"공급 제약 없으면 데이터센터 2배 빠르게 짓는다\" - imaeil.com",
    "ts": 1791264702,
    "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43eDlRX2VDQzAzUzlvY1dJY0tDU1lFSEM1dXNKdjlkVTlhd2tpbk9vLUo5MnBKbUZZdXE4NEZFS1ZSVndzLVBpV3dUNEZxQXZjVmV1QVFXMm5uZkExYXYwc1Zn?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 11,
+   "sec": "재생에너지·ESS",
+   "t": "Sumitomo Corporation invests in Hero Future Energies’ solar-wind-storage hybrid in Karnataka, India",
+   "ts": 1791265597,
+   "u": "https://www.energy-storage.news/sumitomo-corporation-invests-in-hero-future-energies-solar-wind-storage-hybrid-in-karnataka-india/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "재경일보",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터 수요 여전…노키아 CEO “아직 초기 단계” : 국제 - 재경일보",
+   "ts": 1791255600,
+   "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YXzctMXVaZnhXRi1lY0U0bUFPVVlOVkZsUUxfOWVrVDdlMGZxVmE3MzNLd0hyX01UYVBrUGNDeFh0OFc2eEJJSWZMWQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1073,6 +1093,7 @@
   "0b134cdb3e517d99": 1790519116,
   "0b13fafe703f5211": 1790220321,
   "0b1452b2c059ec6a": 1789627496,
+  "0b16ed28c8e6bf1b": 1791265814,
   "0b1c13aad5e712bb": 1790568652,
   "0b237e06b27d758b": 1790553879,
   "0b296cd8e3de9a8e": 1790559622,
@@ -7746,6 +7767,7 @@
   "8fce766b9c90af91": 1790733932,
   "8fcfda2a57ffa579": 1790553879,
   "8fd477c23e6e64a0": 1790817629,
+  "8fe11a56c92ae5fe": 1791265814,
   "8fe2f8bb9767e2c9": 1790227217,
   "8fe55276562cf174": 1789693531,
   "8fe6598b0c08e39d": 1789698990,
@@ -8567,6 +8589,7 @@
   "a1838e8dee8b62c3": 1789953163,
   "a184166129a5cd27": 1791179428,
   "a1895af9dea863e8": 1789627496,
+  "a18fabec0c2628a1": 1791265814,
   "a19173ad1a2a65ed": 1790046448,
   "a1926243febbc8ad": 1790057120,
   "a19a9fce370f922b": 1790143827,
@@ -13193,7 +13216,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791259818,
- "last_msg_poll": 1791265767,
+ "last_msg_poll": 1791266062,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13234,7 +13257,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 14:49 KST",
+  "last_run": "2026-10-06 14:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
