@@ -347,7 +347,7 @@
   },
   {
    "co": "",
-   "n": 2,
+   "n": 3,
    "s": "글로벌이코노믹",
    "sc": 2,
    "sec": "데이터센터·AI전력",
@@ -394,6 +394,16 @@
    "t": "[美증시 특징주] 메모리, 데이터센터 전력대란에 약세…엔비디아·브로드컴만 상승 - 미디어펜",
    "ts": 1791228801,
    "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pTkJUTjhfRzJpSXhpX0lGcmJSdFlXMjEzMXd2NXdSNU04UFhZWGVWWEZxUGtfZmVmamhpeXRTaXAtVHJZd0oxZlpabm9XS1RRZU1lV9IBWEFVX3lxTE1xNDFxMnVoaEItanNPWUp4cUZ5VWJnLUo4cGxBZElUSmQ5WHVwYTFFcXZYaGFrTjNPTXhwendQVkFZY1BBcEVERUJmSDNoRTdRLUtzX3o4dkk?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "디지털투데이",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "'영업비밀'이라던 구글 데이터센터 수치 드러났다…물 사용량까지 노출 - 디지털투데이",
+   "ts": 1791246041,
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJNFRUMGtDZGJrMFNMS0t5azlMdDF3c1ptbHE0TC1qcXpEalcwek1CcEQybHE2UnUzTEVULTgwLVhqYmZrLVR6OU04NnVaVkZ4S0JUQ095SXN0NDlDY0taUWN6aG4tNUdlNXliS1ZXMTlvOFE?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2358,6 +2368,7 @@
   "2862862ed04d9acb": 1789742325,
   "286ad9eb996fa222": 1791186025,
   "286cced733b58edd": 1790642222,
+  "2874917fb45c6b7d": 1791254720,
   "2877a49172fb6daa": 1790559622,
   "2880f7cf25827b48": 1789627496,
   "2886e879067f5fb7": 1791059237,
@@ -10347,6 +10358,7 @@
   "cd510305a57a0aa6": 1790042975,
   "cd57c3c1f8d7843e": 1789945939,
   "cd5f6497ae008b99": 1790055317,
+  "cd5fa1d5b5f00a08": 1791254720,
   "cd60e7088b82da42": 1790572220,
   "cd659b9c15804d52": 1789696816,
   "cd69da5c756f85ae": 1789637120,
@@ -12771,6 +12783,7 @@
   "ffa40d075e7d7e5b": 1789627496,
   "ffaa307057f5cc88": 1790837509,
   "ffac21b40239e693": 1790735693,
+  "ffb6283f7d806ec1": 1791254720,
   "ffb70603beeb1187": 1789783839,
   "ffbbf807782396c1": 1790930776,
   "ffbd31c3e2c01766": 1790669122,
@@ -12785,7 +12798,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791252320,
- "last_msg_poll": 1791254668,
+ "last_msg_poll": 1791254961,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12830,7 +12843,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 11:44 KST",
+  "last_run": "2026-10-06 11:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
