@@ -374,6 +374,16 @@
    "t": "AI 데이터센터 늘자 전력 수요도 급증…ETF 투자처도 '전력 인프라'로 - 네이트",
    "ts": 1791243720,
    "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EczhlalV6SGMxR0JsMExMdXZ2a1ZtRmNFc005d2ZBelpwUl9ZZDJ2QVhsdklqejhwZ081eExaSlVsVGgwRFQ5cHU2cVRKdlJNV0Y0?oc=5"
+  },
+  {
+   "co": "HD현대일렉트릭",
+   "n": 1,
+   "s": "Chosunbiz",
+   "sc": 20,
+   "sec": "전력기기",
+   "t": "NH證 “HD현대일렉트릭, 북미 초고압 변압기 시장 견조…밸류에이션 매력 높아” - 조선비즈 - Chosunbiz",
+   "ts": 1791245041,
+   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzhNM0JCMEhWSXpsVm01TngyNlZPTjd2V1JHVjRRbXNzdmRraFowWnNoaGN2bVdFUFMtTGs0cjVNWENFY3NBazg1TGprdGotM2JDRVZHWGgxUjdMUDduS1U0aS1pb2VPaVJMaXhzYkszaVNOajJLbHljLTlMQVhDTldCTk8tLWxw0gGcAUFVX3lxTE44aGw2MUx4UllxQkRmSWtURDNzYW5ydEQ1ZlNrRWc2QWlDc2M0TDJ5TXVuSFVZQ1FXc1UyeFQxc3p0ajJTVmtCOGZLMXFpZGpyMGlUYXNFdGMzdTAxdHBfV2p1RDdKZXhTR1lGcy10eW9JQTVMUGR4TEZ2c241MUdBVzlTc1hIRWVwTFlzbXVMTVZTMFZaejJzbjNNdg?oc=5"
   }
  ],
  "clip_titles": [],
@@ -6573,6 +6583,7 @@
   "7ff88c70b104a116": 1789629088,
   "7ffacbbb98c8526c": 1789780383,
   "80016e73d9560028": 1790550317,
+  "8004810a0a0be7e5": 1791249444,
   "80050a89861e52e4": 1790580361,
   "800cd19a6f4bf4cc": 1790753419,
   "80156503d4fdbafe": 1789627496,
@@ -7598,6 +7609,7 @@
   "958d736d4f042c24": 1790049916,
   "9593234c7e348278": 1791039922,
   "9595c3f29ac67335": 1790912423,
+  "959afe738a04d33a": 1791249444,
   "95a74cff0021427f": 1790049916,
   "95ac7dee33f237f1": 1790668519,
   "95afdeca6cd510b9": 1789627496,
@@ -8593,6 +8605,7 @@
   "ab15c10c35e2b409": 1790730658,
   "ab16f9e77426d54e": 1790906123,
   "ab1f185b91bfd2db": 1790150725,
+  "ab1f2681b4e63d35": 1791249444,
   "ab286a3c4175bef0": 1790584523,
   "ab2bf388d7129238": 1789699582,
   "ab36858ed4f59e4f": 1790038892,
@@ -9939,6 +9952,7 @@
   "c73914913451a932": 1789629088,
   "c73abb9981ed57a5": 1789731320,
   "c74285ed461d666a": 1789960827,
+  "c7479d1910222472": 1791249444,
   "c74d2b3b66a9fd56": 1789875319,
   "c7525c1bcbba8835": 1789627496,
   "c7526258747f657c": 1790646328,
@@ -12602,7 +12616,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791245120,
- "last_msg_poll": 1791249111,
+ "last_msg_poll": 1791249689,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12647,7 +12661,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 10:11 KST",
+  "last_run": "2026-10-06 10:21 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
