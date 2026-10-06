@@ -246,6 +246,10 @@
   [
    1791255917,
    "LG전자, 북미서 5GW 규모 AI 데이터센터 냉각 설루션 장기 계약 \"수조 원 규모\""
+  ],
+  [
+   1791324017,
+   "TLN Stock Rallies As Data Center Power Demand Collides With FERC Delay - www.timothysykes.com"
   ]
  ],
  "alerted": {
@@ -254,6 +258,7 @@
   "091d016afda7463f": 1790892281,
   "0cfb56c86751e9ef": 1790035428,
   "1073060c113fb962": 1789629087,
+  "118666bcac262b6c": 1791324017,
   "12ac389b7fb194b2": 1789627494,
   "1441da997d9165d1": 1790903716,
   "2542538535315f6c": 1790807416,
@@ -308,279 +313,8 @@
   "f1b9bc6a34eac3f9": 1790921418,
   "fe7b17c162f91919": 1790498127
  },
- "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "엠투데이",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, AI 데이터센터 냉각설비 장기계약 체결⋯북미시장 집중 공략 - 엠투데이",
-   "ts": 1791275676,
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqVFJHenRvQXR4RmFpc1dZS0doOExneXJNNkNERFhnNlZMMkZyY2g1UWlZWENOazZwX3ZjVHF6UnN6N255RHRpNTNxbEI1LThlcnlicWFLYS1DX0kzWDlMeEFqNG5DRkg1bkFoM25DTQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "아이뉴스24",
-   "sc": 14,
-   "sec": "전력기기",
-   "t": "중대형 변압기 수출 55% 급증⋯美 전력망 수요에 K전력기기 출하 확대 - 아이뉴스24",
-   "ts": 1791266902,
-   "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qRE1VcWx2QzRNUDl4eUpQTkVBbV9YMERUWS02b2paekJuVUNOaU96WEh6NDlzdUtNTG93TFliNWc1R3BSeHVzajhJUQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "edaily.co.kr",
-   "sc": 6,
-   "sec": "원전",
-   "t": "AI 전력난에 기존 원전 영끌…구글, 전력 3.6GW 확보 - edaily.co.kr",
-   "ts": 1791298455,
-   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcjJGallqcFotSzdjLWthVm0zSnpQTmQxRE5WNF9NaGV0bi1VR1VkUVVsaUZZOEU3UHA1cUZMSEszd0pyakdfUUR2ek13YTA3eHRsaHFuVktHaGUzc3JxRGdCQ0RmRTY2cDBfdkl0ZE52VUI0cnlkU1ZBUDV2MXZwNg?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "DayOne IPO: Data center firm targets 2.3GW capacity by 2028",
-   "ts": 1791299995,
-   "u": "https://www.datacenterdynamics.com/en/news/dayone-ipo-data-center-firm-targets-23gw-capacity-by-2028/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "데이터센터 전력수요 급증 전망에 기후장관 \"과잉된 면 있어\" - 연합뉴스",
-   "ts": 1791274255,
-   "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53UkxUREYwbC1uYXdJMEtlcGs3ZERSSDB5NHlJaGtYUHVPenZMVHUtRzE5ZUNnYnhMTlMySV95MTJJc1dtaTNONld1TDdZNVlCd2d6OUdSUlZ0LUXSAWBBVV95cUxQcFpxXzE4b2syWExqc3dHcC14aFV6eDFLeUNaXzNEUVg3QzJWdUc3WXRNQk4zTEllSy1XRldXVHFCblFOS1dvSXZvOG83UWVWeHNXTEhtbm1BalVkV0wzRWQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 6,
-   "sec": "원전",
-   "t": "Constellation-Google deal will bring $4.3B investment, 890 MW new nuclear to PJM",
-   "ts": 1791291310,
-   "u": "https://www.utilitydive.com/news/constellation-google-deal-will-bring-890-mw-of-new-nuclear-to-pjm/832223/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 1,
-   "sec": "데이터센터·AI전력",
-   "t": "AWS plans 36-building data center campus in Indiana County, Pennsylvania",
-   "ts": 1791302657,
-   "u": "https://www.datacenterdynamics.com/en/news/aws-plans-36-building-data-center-campus-in-indiana-county-pennsylvania/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "POWER Magazine",
-   "sc": 3,
-   "sec": "데이터센터·AI전력",
-   "t": "Fit Energy Will Use Gas-Powered Fuel Cells For Pennsylvania Data Center Project",
-   "ts": 1791304945,
-   "u": "https://www.powermag.com/fit-energy-will-use-gas-powered-fuel-cells-for-pennsylvania-data-center-project/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "DCD Studio: Permitting and pre-construction for Edge sites, with Gonzalo de la Pedraja, Quetta Data Centers",
-   "ts": 1791304811,
-   "u": "https://www.datacenterdynamics.com/en/videos/dcd-studio-permitting-and-pre-construction-for-edge-sites-with-gonzalo-de-la-pedraja-quetta-data-centers/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "www.timothysykes.com",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "TLN Stock Rallies As Data Center Power Demand Collides With FERC Delay - www.timothysykes.com",
-   "ts": 1791304380,
-   "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY2kzRWphaVVYSjFpSS10T0NndmhhN1VGQ2F2X19IVllhU0JzTVFWRlVodGRaa0FTb0R6QUNZYXAtYThpeVh1NGF0Zk43NVdJUVBtUVZ3WlNZd0VNRXBmdnR3YmM4aWVkT3o5eXhscFVTWTJZSjcxa041Qmk3aVVyZnZGenhmdw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "Maryland nets 440 MW/1,760 MWh in first bulk energy storage procurement",
-   "ts": 1791302475,
-   "u": "https://www.utilitydive.com/news/maryland-nets-440-mw1760-mwh-in-first-bulk-energy-storage-procurement/832261/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 8,
-   "sec": "재생에너지·ESS",
-   "t": "States, renewable developers back MISO’s accelerated interconnection queue plan",
-   "ts": 1791298161,
-   "u": "https://www.utilitydive.com/news/miso-accelerated-interconnection-queue-ferc/832246/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 5,
-   "sec": "원전",
-   "t": "DOE intends to loan Vistra $4.2B for nuclear fleet improvements",
-   "ts": 1791295202,
-   "u": "https://www.utilitydive.com/news/doe-intends-to-loan-vistra-42b-for-nuclear-fleet-improvements/832236/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 11,
-   "sec": "데이터센터·AI전력",
-   "t": "‘전력수요부터 요금까지’ 에너지정책 근거 따진 기후부 국감",
-   "ts": 1791341970,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228791"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "대한경제",
-   "sc": 12,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, 북미 AI데이터센터 냉각시장 공략…5GW 규모 장기 공급계약 체결 - 대한경제",
-   "ts": 1791207107,
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxZVlSbWxDV2l2YW5qM1pTTXlRdXBuUU9INWlRYjA5T0EzTFZfeE1sNDRVMF9QRlB5XzVmXzRYMnZwTjBOYzY5azVZb0pmTEVKcU1hSzNOTVhsMWw1MFhZei13QU1OSGthOVZrUkFqeEZDaEk?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "블루밍비트",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "미국 전력 수요, AI 데이터센터 확대로 2026·2027년 사상 최고 전망 - 블루밍비트",
-   "ts": 1791313877,
-   "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MWEtXUHJfY2NnQlNtNmIzTjIzenRkU2lMY0ozemZUSFA2R21iUGJZNHNWeHpjZHdSWDBzTmZYa2g1NHJWa3ZtT1VJb2ctZlEw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "올포칩",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "전력 변환 2단계에서 1단계로…AI 데이터센터 전력 효율·밀도 높인다 - 올포칩",
-   "ts": 1791314616,
-   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ibUZyYXVkUFlnUWxtX3B6RGZNWHRjVzJ6d1Z6NDR1d0M5VnFfSGZsRW82YVVmbmpiaHdBMlUxUXlNWFZXMm5lMVNLM1VvdmNWNGtrZXZud0xuSktHSUwtbA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "경향신문",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "기후부 장관, 데이터센터 전력수요 ‘뻥튀기’ 지적에 “과잉 추계된 측면 있다” 시인 - 경향신문",
-   "ts": 1791277920,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MaVNPMUEwbXpHV0ZXYUdLMHlCMjNabmljRzRodEV1em5SRzg1eW9DRWVDUmhrU1BXcE9ZVldaYzBfX05sMmRCU1hTbFEwbnBPWWJvVWtoUmt2Z9IBX0FVX3lxTFBiNGZPN2tkMzMtbjhWenljbVhGZXdIdXZub19VY2ZRazJWWGVfY0Zua0lqYlBDcVpkNkdfTFV0aFpHOW9nRXQzSjNMMzlsVEV5aU5KZUFFWUNZZEpfTzk0?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "서울뉴스통신",
-   "sc": 14,
-   "sec": "데이터센터·AI전력",
-   "t": "황정아 의원, AI 데이터센터 전력 수요 대응 위한 “SMR·원자력·LNG PPA 온사이트 실증 현실화 필요” - 서울뉴스통신",
-   "ts": 1791275173,
-   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42eEs4SXFLdUZ1V1U3bWw5b3JnQ1h3ekJDRFJ5MXdvcFR3dC1mcm50U0pOXzNMOWhDOHpQWTlyek5YQTdYLXZiYkxubVowUDFSck5hR0RoYWFhZjJidXg2XzlOM1IxNkUwenZV?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "글로벌이코노믹",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "\"땅 없고 전력 부족하면 지하로\"… 日 미쓰이 후도산, '폐터널'에 데이터센터 짓는다 - 글로벌이코노믹",
-   "ts": 1791318900,
-   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVgzdVNaTDE0WkpiRS1zN0FQTlNNdUxQMDdxN09OWElnZmJUbFFWbWRwd09CaE5sRTNWdm80R3l4T2hnSnh5MUhOdy1VeEExRUs0RzJ5ZmhrbHhTRi1UT1FaM1AzMmFwblQxbDZUbHB6Ukg2cy16Z3hFb2l2dnpjd3Njdk83dWtP?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Daum",
-   "sc": 6,
-   "sec": "원전",
-   "t": "구글, 美최대 원전기업 컨스텔레이션서 3.6GW 전력공급 계약 - Daum",
-   "ts": 1791320024,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XQVJtVkx3WXhzZXpUbHdzS2gtUDI5Y2NXd0laWnpBM1oxNE1YeHNiRDBXTk5Rd29JTDFHVThDYWtRd0tCRGg1cnptdFE2dU0?oc=5"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "중앙이코노미뉴스",
-   "sc": 10,
-   "sec": "데이터센터·AI전력",
-   "t": "구글, AI 데이터센터 전력 3.59GW 확보...원전 11기서 890MW 더 뽑는다 - 중앙이코노미뉴스",
-   "ts": 1791289914,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE80cjEyN1A3dWwyaTZaRTlma04xQUpaczFYWDBON1RBUVNnRlNEMHFzYWNtQUVFUllBQUpqRVFoUEZzOW85QTJ2dW03T0VuOFVtR0xZU1MtdURhbjJxQ1k2TUZuc0ItN1BTMDJaekxrMVUxdw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 4,
-   "sec": "원전",
-   "t": "원전수출 시대 본격 추진…산·학·연·관 '리더스포럼' 출범",
-   "ts": 1791320403,
-   "u": "https://www.yna.co.kr/view/AKR20261006182500003"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "건설현장 사망자 절반 이상이 추락사…5년여간 642명",
-   "ts": 1791320940,
-   "u": "https://www.yna.co.kr/view/AKR20261006146400003"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "cpbc News",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터 전력수요 4개월 만에 3배…김성환 \"더 정밀하게 예측\" - cpbc News",
-   "ts": 1791275040,
-   "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04bzBqMVlMbUdiN3RISFZrTmgwRkZ0TVJweTk4OHB2QWpWNm1VUXE4ektSaTZXM05nNUlSVmVFNC16ZUdkeDhpYWEyUS1iU2FG?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴스버스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "[오늘의 경제뉴스] 삼전·닉스 HBM 전략 새 변수...AI 데이터센터는 지었는데 전기 부족 - 뉴스버스",
-   "ts": 1791321890,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12NlIyeHFtbGJwT2d6NGNDZVl0anBKeXZFYkE3OTAzZGdqc0tJRWw5Y0owMS1fUFRDeTJ3NUx5Z3ctLW8tRGhCbVBJU1RIRjVraVFZZEZENFJPcy1uSnI2VWYzMUhNMnhPNWc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 9,
-   "sec": "유틸리티·정책",
-   "t": "Top electric power sector and utility conferences in 2027",
-   "ts": 1791301517,
-   "u": "https://www.utilitydive.com/news/top-electric-power-sector-and-utility-conferences-in-2027/832259/"
-  }
- ],
+ "alerted_today": 1,
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -13639,8 +13373,8 @@
  },
  "companies_today": {},
  "day": "2026-10-07",
- "last_clip": 1791297187,
- "last_msg_poll": 1791323960,
+ "last_clip": 1791324017,
+ "last_msg_poll": 1791324258,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13676,7 +13410,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 06:59 KST",
+  "last_run": "2026-10-07 07:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
