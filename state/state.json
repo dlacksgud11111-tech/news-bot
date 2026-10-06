@@ -509,6 +509,26 @@
    "t": "\"땅 없고 전력 부족하면 지하로\"… 日 미쓰이 후도산, '폐터널'에 데이터센터 짓는다 - 글로벌이코노믹",
    "ts": 1791318900,
    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVgzdVNaTDE0WkpiRS1zN0FQTlNNdUxQMDdxN09OWElnZmJUbFFWbWRwd09CaE5sRTNWdm80R3l4T2hnSnh5MUhOdy1VeEExRUs0RzJ5ZmhrbHhTRi1UT1FaM1AzMmFwblQxbDZUbHB6Ukg2cy16Z3hFb2l2dnpjd3Njdk83dWtP?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Daum",
+   "sc": 6,
+   "sec": "원전",
+   "t": "구글, 美최대 원전기업 컨스텔레이션서 3.6GW 전력공급 계약 - Daum",
+   "ts": 1791320024,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XQVJtVkx3WXhzZXpUbHdzS2gtUDI5Y2NXd0laWnpBM1oxNE1YeHNiRDBXTk5Rd29JTDFHVThDYWtRd0tCRGg1cnptdFE2dU0?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "중앙이코노미뉴스",
+   "sc": 10,
+   "sec": "데이터센터·AI전력",
+   "t": "구글, AI 데이터센터 전력 3.59GW 확보...원전 11기서 890MW 더 뽑는다 - 중앙이코노미뉴스",
+   "ts": 1791289914,
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE80cjEyN1A3dWwyaTZaRTlma04xQUpaczFYWDBON1RBUVNnRlNEMHFzYWNtQUVFUllBQUpqRVFoUEZzOW85QTJ2dW03T0VuOFVtR0xZU1MtdURhbjJxQ1k2TUZuc0ItN1BTMDJaekxrMVUxdw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1579,6 +1599,7 @@
   "1577170216bcfd98": 1790678503,
   "157ca15a73fffcf2": 1789724119,
   "158325d1cca88330": 1790731219,
+  "159e76f80b31626a": 1791320429,
   "15a358ae13686918": 1790639367,
   "15a4fd7171771c6a": 1790040051,
   "15a5f561afc2f954": 1790240717,
@@ -2922,6 +2943,7 @@
   "2eacc6d44c6fcd52": 1790864121,
   "2eadf498211047e2": 1789954327,
   "2eae404a2e4a8890": 1791246009,
+  "2eaec93193cc3005": 1791320429,
   "2eb073371d822c94": 1789970013,
   "2eb191822d005ca8": 1789689020,
   "2ebf320b600da8bf": 1789959919,
@@ -7620,6 +7642,7 @@
   "89b0f260e17b518f": 1791187519,
   "89cadab027e4af16": 1791061218,
   "89cbfcd9d1171f64": 1790660118,
+  "89ce1b7732bb8ed7": 1791320429,
   "89d9060be48ca5cf": 1790217321,
   "89da6c31ba3eb32e": 1789697424,
   "89e1908b8b612d6a": 1791251134,
@@ -8744,6 +8767,7 @@
   "a157003069325ff4": 1789627496,
   "a1574619420a7ffb": 1790898618,
   "a15ea54ef438070f": 1789627496,
+  "a1628a1c043514da": 1791320429,
   "a162b2dafe7d752f": 1789951430,
   "a162ba97bf9a418b": 1790570118,
   "a169c1c3b4d2f6d1": 1790147295,
@@ -11002,6 +11026,7 @@
   "cde2eb159bb5ef20": 1789964418,
   "cde30d2cd1f7f278": 1789627496,
   "cdeda6daec1d666c": 1789975827,
+  "cdf862c2bd04796c": 1791320429,
   "cdf92c9a6001d19d": 1789694131,
   "ce0334a09d3e40b6": 1789645218,
   "ce04676c342ec1ae": 1790124616,
@@ -13551,7 +13576,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791297187,
- "last_msg_poll": 1791320372,
+ "last_msg_poll": 1791320674,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13588,7 +13613,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 05:59 KST",
+  "last_run": "2026-10-07 06:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
