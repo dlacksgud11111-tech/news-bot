@@ -549,6 +549,26 @@
    "t": "[국감 ESG 브리핑] 전기본·반도체 전력·알래스카 LNG…첫날 쟁점 총정리 - 임팩트온",
    "ts": 1791277536,
    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hZ0IyLTRTZWpjR3N3Y2tPVmxqTkxRSnJmRzlZWkh3OEdqZ3ZNWGFYOW9ZUmc4TlJaMUdfTGRmc2pSMEJQdDFRU0FYQTNXZlB2UEZoa0RMQy00aldiT2lsNHhMT3NoSDd1VWc?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 3,
+   "sec": "데이터센터·AI전력",
+   "t": "Powering North America’s data center boom",
+   "ts": 1791280079,
+   "u": "https://www.datacenterdynamics.com/en/whitepapers/powering-north-americas-data-center-boom/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "hdnews.co.kr",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터가 키운 ‘LFP 특수’…포스코퓨처엠, 삼성SDI에 6조원 공급 - hdnews.co.kr",
+   "ts": 1791279692,
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iejlBUnB4LWtlSklLeGdySGVueFNZaGVvUnl0NHVtcUVVMk9SX0JsR3ZOZE1UUUZnQnVqSU84UVhzdVZJSWlyUFl5RExpR3ZYdWpRSHpiWUh1cmRtSXJPMHFxWE1nOTd3T1pV?oc=5"
   }
  ],
  "clip_titles": [],
@@ -5036,6 +5056,7 @@
   "568f9d62c341d7ff": 1790647820,
   "56939cf0a7bd35bd": 1790822117,
   "569ac6b2b8eb7261": 1789629088,
+  "569bb79925e5a451": 1791280519,
   "56a424ca23f6c450": 1789859418,
   "56a4f0c5543f2c4c": 1791100983,
   "56b68db648b75c15": 1790203817,
@@ -5349,6 +5370,7 @@
   "5cbc3f62453a3d28": 1791171360,
   "5cc0d3c38a5e4d77": 1790284148,
   "5cc64686858264c1": 1790583021,
+  "5cc7f3432f9ef915": 1791280519,
   "5cce5601b739fc06": 1789637120,
   "5cd11f259e482589": 1790873120,
   "5ced2a5ffe57ddec": 1791214522,
@@ -8327,6 +8349,7 @@
   "98e94c7d01ed5068": 1790120847,
   "98ea2c92ee69660a": 1790808617,
   "98f44908be4e1fae": 1789974322,
+  "99018ce018f99595": 1791280519,
   "9901f6fdbb2a2077": 1790262336,
   "9903b34eb6df9acc": 1790809517,
   "9906cf314cca0128": 1790910319,
@@ -13476,7 +13499,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791274831,
- "last_msg_poll": 1791280461,
+ "last_msg_poll": 1791280766,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13516,7 +13539,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 18:54 KST",
+  "last_run": "2026-10-06 18:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
