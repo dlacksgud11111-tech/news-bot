@@ -419,6 +419,26 @@
    "t": "美 AI·데이터센터 확산에 ‘블루칼라 일자리’ 급증…전기·기계·용접 인력 수요 확대 - fntoday.co.kr",
    "ts": 1791264382,
    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wdXNBZVlRMjhpQ1UzZlF0emxxMmZPR0h3Zk9WQUlveExwcWJCWWFsNmEtLV93WlVGODJuVkZod2EtUU1CcmtyeFNvdERmRHQxak5DQTBxOXhUVDVmdVhfTUs5NWRGTnk0MVZ1Qg?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 3,
+   "sec": "재생에너지·ESS",
+   "t": "Heliene launches all-black solar module for residential rooftops",
+   "ts": 1791287231,
+   "u": "https://www.pv-magazine.com/2026/10/06/heliene-launches-108hc-m10-sl-all-black-solar-module-for-residential-rooftops/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "ByteDance takes up one-fifth of China's data center capacity",
+   "ts": 1791286994,
+   "u": "https://www.datacenterdynamics.com/en/news/bytedance-takes-up-one-fifth-of-chinas-data-center-capacity/"
   }
  ],
  "clip_titles": [],
@@ -466,6 +486,7 @@
   "00cbfd25cdc97933": 1789979721,
   "00cfc1ff4005fddc": 1790469496,
   "00cfc7870ed086b5": 1790919329,
+  "00d32e8e3c63657f": 1791287418,
   "00d90e0cfe1216b4": 1789873818,
   "00dd3a6d2d093210": 1790841621,
   "00ddec731e02b468": 1789631127,
@@ -501,6 +522,7 @@
   "0149c36e3d5a0c56": 1790822117,
   "014b3e239ea2a2d1": 1790753132,
   "015a5670717bcf94": 1789969411,
+  "015cacdc4fa66874": 1791287418,
   "015d1ce656863365": 1789968847,
   "01641df035977932": 1790556223,
   "0164ff62828f1cf1": 1790824219,
@@ -3072,6 +3094,7 @@
   "33adb801b976ae33": 1789983317,
   "33b15d5cbc5fb70c": 1789627496,
   "33b1c745db921ae9": 1790001429,
+  "33b5940e205a9b3f": 1791287418,
   "33c62320ebb8ab57": 1790151015,
   "33ccaa298cec0734": 1791251720,
   "33d9ac5d2fda62ab": 1790671821,
@@ -11920,6 +11943,7 @@
   "e39fa300790a97ce": 1789951988,
   "e3ad2564d9737138": 1790572220,
   "e3b08a62aa6de484": 1790750123,
+  "e3b11cfe1aaa3fe7": 1791287418,
   "e3c28cdf0505fc52": 1791075917,
   "e3c6f6554ee9a958": 1789627496,
   "e3e14019554ade4d": 1789704620,
@@ -13388,7 +13412,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791282036,
- "last_msg_poll": 1791287368,
+ "last_msg_poll": 1791287664,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13428,7 +13452,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 20:49 KST",
+  "last_run": "2026-10-06 20:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
