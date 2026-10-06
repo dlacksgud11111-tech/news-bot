@@ -349,6 +349,16 @@
    "t": "김성환 \"데이터센터 전력수요 과잉 추계…사업 불확실성 반영\" - v.daum.net",
    "ts": 1791278463,
    "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LdHFhbzhsaFJoQk5fY1dCSXJPb183LXhjeldhWHVMamJ2LVFPZnFzLUVieG0zQkhSMEd4dEpHTkJQNU1oWUtpNV8zdm9pdXM?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "속보 - 이티뉴스",
+   "sc": 0,
+   "sec": "재생에너지·ESS",
+   "t": "렉스이노베이션, 비귀금속 수전해·연료전지 촉매 사업화…전남대 앵커사업 선정",
+   "ts": 1791292458,
+   "u": "https://www.etnews.com/20261006000423"
   }
  ],
  "clip_titles": [],
@@ -7780,6 +7790,7 @@
   "90f5b27e6e6ea161": 1790571928,
   "910ab5d2933bc346": 1791165622,
   "910b6ea6cc7f4fbc": 1790900734,
+  "910f4c29004753b0": 1791294295,
   "9121352be8da3fec": 1790125530,
   "912417c26070be48": 1790044106,
   "9124d170918822aa": 1790624576,
@@ -9687,6 +9698,7 @@
   "b6eb625244595766": 1790661915,
   "b6ed9f26da143d4d": 1790581819,
   "b6edc0a017de7a6e": 1789627496,
+  "b6ee398bf09eb7c9": 1791294295,
   "b6fd09d14948e167": 1791169650,
   "b7005fb3384a2e87": 1790492713,
   "b70454a9f64974e5": 1791270233,
@@ -13336,7 +13348,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791289519,
- "last_msg_poll": 1791293975,
+ "last_msg_poll": 1791294540,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13376,7 +13388,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 22:39 KST",
+  "last_run": "2026-10-06 22:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
