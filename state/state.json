@@ -422,7 +422,7 @@
   },
   {
    "co": "",
-   "n": 1,
+   "n": 2,
    "s": "테크월드",
    "sc": 2,
    "sec": "데이터센터·AI전력",
@@ -509,6 +509,26 @@
    "t": "[단독] 지방 안 가고 규제는 회피…수도권 데이터센터 90% ‘미니형’ - 한국경제",
    "ts": 1791250791,
    "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tRXV4bW04RDV5aGRIdGIyQU9YZGtVQ3lGYzdaWGRaV1hsTjUzb1FrOXVYTl9mVU1qZ0lFQXVoeVZORDdFQXExS3dpRktNcHlHSkM4allKOVREdw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "ebn.co.kr",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "AI 데이터센터 몰려오는데…수도권 전력망은 1년 60% 포화 '빨간불' - ebn.co.kr",
+   "ts": 1791251233,
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4temlCQVVScXFFcFRaQjlueXdYekMtdVo5SGJaVXNLR25IVHlaOERkUk9DeWFfZ3l6YWVUa3gyVV81VThNNmZmTkV1elRtZ20ySnFkeG1yNVpXYkRTUER6clJUemluNXMw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "e4ds news",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "AI가 바꾼 전력반도체 지도, 전기차에서 데이터센터로 무게중심 이동 - e4ds news",
+   "ts": 1791246228,
+   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rZEJkaTM5M2RJZHRjZDVLcTgxNml0T3JlTnVfQmJDUmpmeEVYUjhRTm1hUkY1UVZKT3BZaTN5Vjd0c2N3OF9VbXlOd1drUkFnMWs5cUt3?oc=5"
   }
  ],
  "clip_titles": [],
@@ -784,6 +804,7 @@
   "05e9d7c2204a74a4": 1790128821,
   "05fe629bd7455745": 1790570118,
   "06009aef2884f803": 1791184817,
+  "0603a82b940cd7b3": 1791256812,
   "060c2908a20a3ccf": 1791241846,
   "060de6eacedc7d15": 1790730658,
   "060e6d1107239414": 1790833487,
@@ -2934,6 +2955,7 @@
   "317029795efd2994": 1790669122,
   "31762316baeaf5bd": 1790560827,
   "3177186920b9b672": 1790937031,
+  "317b36ec2e7b2bc0": 1791256812,
   "318ff20795e590ff": 1790031917,
   "3191d3b71bb227c4": 1789954905,
   "3194bb7d4cf3dd23": 1790038311,
@@ -3259,6 +3281,7 @@
   "37d714f56f942b23": 1790898024,
   "37e20ad6562e101d": 1790731219,
   "37e27622ff489df3": 1790936722,
+  "37e5fda3d657f1a4": 1791256812,
   "37f686803ed72e35": 1789974920,
   "37faa460ac3292f0": 1790649324,
   "38094542afe76b63": 1790928485,
@@ -4803,6 +4826,7 @@
   "564e2f7e2e2fd8b1": 1790685320,
   "564fec915070e385": 1790284148,
   "565178ec3e91e520": 1790832921,
+  "565470e7bcda45fd": 1791256812,
   "565624f517abe214": 1790037737,
   "565cc66171a135c7": 1790038892,
   "565d8aad9119b8e6": 1790926783,
@@ -9298,6 +9322,7 @@
   "b37a57678dd95734": 1790565022,
   "b37e26bb46c3e211": 1790734821,
   "b3818888a6139389": 1789954905,
+  "b38b3be4f9125cdf": 1791256812,
   "b38e87ceb9dc4460": 1790929616,
   "b39b383ec149733f": 1789627496,
   "b39cb787518db206": 1790132720,
@@ -12946,7 +12971,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791252320,
- "last_msg_poll": 1791256763,
+ "last_msg_poll": 1791257055,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12991,7 +13016,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 12:19 KST",
+  "last_run": "2026-10-06 12:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
