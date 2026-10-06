@@ -449,6 +449,26 @@
    "t": "IEA “동남아 전력수요 '30년까지 연 5.4% 증가” - ESG경제",
    "ts": 1791262311,
    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82aExla21wZk9QWGlpai1vMDVKbjVpMzRPcTNVOElWYktfQXotUDMzMDRlRE5ra2pQbkhqY0JCaUR4cXNqdFBqOFBmeTdkWlAzWklBSHNHSEJlYzFRRFJXY1A1T2JMczIxTXJ1cA?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "에너지신문 - 전체기사",
+   "sc": 1,
+   "sec": "건설·플랜트",
+   "t": "건설업 다단계 하도급 구조 개선해야…주계약자 공동도급 활성화 통해",
+   "ts": 1791296612,
+   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228731"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴스저널리즘",
+   "sc": 2,
+   "sec": "전력기기",
+   "t": "AI 전력수요 몰리는데 송전망 '포화'…LMP 부담 우려 - 뉴스저널리즘",
+   "ts": 1791264264,
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jOVd6ZFlBcS1nN1ZpSDhHcFhadVBFVXd5emtELWo2dHU1RTV1MTFFR041cE5jOEdsNHk3VGlfN2Z5OVJqM1hKR05BS2thaWpXWDNLSlo3SWpQQUltYTFQVWtEM1RtVHRuY2tJ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2432,6 +2452,7 @@
   "281a64f70a6c2d36": 1789692619,
   "281fe1cfb54ad1cb": 1791158866,
   "2821b12599fbd811": 1789634416,
+  "28272e2bdd27419c": 1791264620,
   "282882c9ed820e49": 1789951988,
   "282b4b4bfda6da2a": 1790822722,
   "283b50fd635c110a": 1790174133,
@@ -4899,6 +4920,7 @@
   "585c7cd38c6af869": 1789705521,
   "5860ac2c2b674796": 1790055317,
   "586df3bcd3ba4bd4": 1790646615,
+  "587039da4f245783": 1791264620,
   "587b6ab9ea05fca2": 1789956616,
   "587c24038b67394a": 1790574524,
   "587db9beaf644423": 1789627496,
@@ -5447,6 +5469,7 @@
   "6338af621f00a441": 1790922323,
   "6345134cd72dbf42": 1790455830,
   "63487b3b2a6cb90a": 1790151015,
+  "634d05b91ef5daa2": 1791264620,
   "634d3c3ad39f6e9b": 1790699001,
   "635a696baed96ae7": 1790717527,
   "6364034e942c89e0": 1790127320,
@@ -9486,6 +9509,7 @@
   "b6716831789064b4": 1790829018,
   "b67c0df0ffc9dfcc": 1790726668,
   "b67e237788036913": 1791174916,
+  "b690cc75c27dfab0": 1791264620,
   "b6980144d544c9eb": 1790741117,
   "b6a39dc2ff1549db": 1790557358,
   "b6a93dfe62024505": 1790646615,
@@ -12849,6 +12873,7 @@
   "fca7418600d59dd6": 1790748925,
   "fca741c68473fa2f": 1790643406,
   "fcaa0df2107f4637": 1789957530,
+  "fcb1ac68465b1083": 1791264620,
   "fcb32a8046cd9e23": 1790489434,
   "fcb360575bd3d038": 1790120847,
   "fcb4729d2114049f": 1790747118,
@@ -13023,7 +13048,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791259818,
- "last_msg_poll": 1791264567,
+ "last_msg_poll": 1791264867,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13064,7 +13089,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 14:29 KST",
+  "last_run": "2026-10-06 14:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
