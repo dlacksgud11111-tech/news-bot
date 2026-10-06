@@ -449,6 +449,16 @@
    "t": "Winning the Nuclear Market Before the Reactor Is Sold",
    "ts": 1791287885,
    "u": "https://www.powermag.com/winning-the-nuclear-market-before-the-reactor-is-sold/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "Poland unveils new home storage subsidy",
+   "ts": 1791288767,
+   "u": "https://www.pv-magazine.com/2026/10/06/poland-unveils-new-home-storage-subsidy/"
   }
  ],
  "clip_titles": [],
@@ -5183,6 +5193,7 @@
   "5b19f19ebc66f452": 1789627496,
   "5b1ba853b80421f9": 1790758216,
   "5b1d2cb3429f4455": 1789627496,
+  "5b227d246390fe96": 1791288930,
   "5b23fe0fd0fa5547": 1789707018,
   "5b25a76d771e1b74": 1789627496,
   "5b2a863224eb8e2b": 1789720517,
@@ -13424,7 +13435,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791282036,
- "last_msg_poll": 1791288883,
+ "last_msg_poll": 1791289172,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13464,7 +13475,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 21:14 KST",
+  "last_run": "2026-10-06 21:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
