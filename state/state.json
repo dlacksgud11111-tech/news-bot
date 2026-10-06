@@ -499,6 +499,26 @@
    "t": "Thailand tightens solar panel safety standards",
    "ts": 1791277346,
    "u": "https://www.pv-magazine.com/2026/10/06/thailand-tightens-solar-panel-safety-standards/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 7,
+   "sec": "재생에너지·ESS",
+   "t": "Zelestra and EDP expand solar-plus-storage PPA partnership with another 462MWh of batteries in Spain",
+   "ts": 1791278397,
+   "u": "https://www.energy-storage.news/zelestra-and-edp-expand-solar-plus-storage-ppa-partnership-with-another-462mwh-of-batteries-in-spain/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "기후부 장관, 데이터센터 전력수요 ‘뻥튀기’ 지적에 “과잉 추계된 측면 있다” 시인 - v.daum.net",
+   "ts": 1791278051,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jYWJDc3JYcU1UZVdTUEtSbVNNanhyVjhqNlY1ZjRBWHZKaXVLUTV2SGRfTmxBeG83RTcwUjJwZUwxSXB1b1c2WDFXa0JjdFk?oc=5"
   }
  ],
  "clip_titles": [],
@@ -6274,6 +6294,7 @@
   "700274b3bcb4b16a": 1790830817,
   "7012f58305794de8": 1790138131,
   "701ad1930dff912c": 1790041522,
+  "7021b56b362206bf": 1791278420,
   "70222bd6df755b2f": 1790647519,
   "7028bb191e8f5b5e": 1791172518,
   "703422a41848848f": 1789632630,
@@ -11652,6 +11673,7 @@
   "ddcde1f6ca9d0afe": 1790124028,
   "ddd3bf45cc4df4ce": 1790818527,
   "ddd6b599ef1ebfd3": 1790822117,
+  "dde3b46f94a6700a": 1791278420,
   "dde604e72a7891d4": 1790055317,
   "ddeaa3880fec78a1": 1790070922,
   "dded152d6f362397": 1790647519,
@@ -13410,7 +13432,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791274831,
- "last_msg_poll": 1791278368,
+ "last_msg_poll": 1791278669,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13451,7 +13473,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 18:19 KST",
+  "last_run": "2026-10-06 18:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
