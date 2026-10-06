@@ -369,6 +369,16 @@
    "t": "정부의 AI 데이터센터 메가 프로젝트 : 사업 기회와 법적 리스크 - 법률신문",
    "ts": 1791269696,
    "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4REpMOFZlSVM0WXdPY3FBZEVhRU9OMnlMRjhNanJ0dERPa2FZZGRCcHpkdmpxd3JlRW1yZEhkV1dRcTVEMG9DMHN3UnNrNlZ2djZVLTZWSlpER29DT09fcEE2ZVoxRVZtWkt6bHZFcURKQdIBckFVX3lxTFB4REpMOFZlSVM0WXdPY3FBZEVhRU9OMnlMRjhNanJ0dERPa2FZZGRCcHpkdmpxd3JlRW1yZEhkV1dRcTVEMG9DMHN3UnNrNlZ2djZVLTZWSlpER29DT09fcEE2ZVoxRVZtWkt6bHZFcURKQQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "AI넷",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "[美 데이터센터 전력 수요, 대도시 육박… 메타 하이페리온, 뉴욕시와 맞먹어] 데이터 센터의 전력 수요가 대도시 규모에 육박하면서, 전력 공급망과 규제, 지역사회 영향에 대한 논의도 - AI넷",
+   "ts": 1791284852,
+   "u": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5DbzU3SkVxajV0V1JlUXZTYTQ3bmgzalZrSmRUQ0V3Wnh6bmdRQ0ZERGw3b05keXRfVTdoOEh2Z1o?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1959,6 +1969,7 @@
   "1fa8d430a50ed030": 1789824864,
   "1faacaf8d2d436d8": 1790668519,
   "1fac776b4bff27b8": 1791176723,
+  "1faef9859d3bc480": 1791285020,
   "1fafcf6413936d5a": 1789983317,
   "1fc3f5d3ebc546f9": 1790576844,
   "1fc4ede3944b1e86": 1789992961,
@@ -11683,6 +11694,7 @@
   "e068355ab19189cf": 1790575673,
   "e0683df887656106": 1790780730,
   "e06b82ab0e2ddaf4": 1790905221,
+  "e06cc92df438be2c": 1791285020,
   "e06d62b1a7de8909": 1790413518,
   "e071746ab2b67f66": 1790300885,
   "e073226caeb95f8c": 1790747118,
@@ -13330,7 +13342,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791282036,
- "last_msg_poll": 1791284967,
+ "last_msg_poll": 1791285267,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13370,7 +13382,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 20:09 KST",
+  "last_run": "2026-10-06 20:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
