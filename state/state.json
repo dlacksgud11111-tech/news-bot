@@ -589,6 +589,26 @@
    "t": "노키아 CEO \"공급 제약만 없으면 데이터센터 2배 더 빨리 지을 것\" - 디지털투데이",
    "ts": 1791250779,
    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54YTdsVHEtbW5GNHIxcTB1alQ4ZWpXZVlSN19oNlNKbmx4TTlsNVJYOFZFNy1rWXQ4MkxzRS1XS081bTVfdUpZZ29qcm1LdVAwRzJTM1ZHQVRSUl9lTlJjT2xnM0Z1b2tLaWNHTW1CaUlmZkE?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "비즈니스포스트",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "빛과전자 주가 장중 12%대 올라, 데이터센터 기대감에 광통신주 강세 - 비즈니스포스트",
+   "ts": 1791253771,
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WYWsxRGkyeDdvVktfbmhTQzF6endaOE85TXpfZUMxM0R5dlp4bUNjbHN4ZFd6QkVnVWdYcDFMUUtNelVTU2tnMDlWbFZsRk1rSlowRmtFN1FVZC03c3VDaEhnVmQydmk5dlQyMm9nTElJYk0?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "dailycar.co.kr",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터 전력난..과연 핵융합이 돌파구 될까(?) - dailycar.co.kr",
+   "ts": 1791253700,
+   "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LbTdyY1FDblQ2Sk1VT21fcTVnZzZUNHJuOGlFZVJpRTZHeUxNOFZ3eTBVWkR0RnI1cnFuZW5TdGpaTWtzWHQtNlhhaUJOS2J0cHBKam5VdnNlZzVBVEdHOTRUMTc2bWRBVzlndFAxYnVzTXFLS0E?oc=5"
   }
  ],
  "clip_titles": [],
@@ -5942,6 +5962,7 @@
   "6b8820b13578a474": 1789726134,
   "6b8cd1ddda51c33b": 1790316619,
   "6b97c46183bb21c4": 1790734218,
+  "6b97d36fe21ba946": 1791258618,
   "6b99ffff0d6dc07c": 1789733129,
   "6ba2cb795bb724aa": 1790124922,
   "6ba94cff8db3dcf4": 1790464236,
@@ -6661,6 +6682,7 @@
   "7ad61663e3f86563": 1789627496,
   "7ad98d2a2dde4771": 1790266474,
   "7adb3a282baefe97": 1790584833,
+  "7ae50b01fb24f83a": 1791258618,
   "7aea962e0e70ef3e": 1789956616,
   "7aec2d6250c30714": 1790731219,
   "7af0d824d264ff8a": 1790120847,
@@ -6881,6 +6903,7 @@
   "7f4261bf6d6bea9d": 1789886931,
   "7f4ade1907c63d47": 1790573944,
   "7f5aed59922d25f9": 1791160587,
+  "7f5c6a4e6105b930": 1791258618,
   "7f65a2dbce1f6a8c": 1789718720,
   "7f688ae8fdcb1bad": 1789954905,
   "7f6bac662c59fb2b": 1789627496,
@@ -9450,6 +9473,7 @@
   "b46cfcbab9983ace": 1790568321,
   "b46e3616ee389dec": 1790057120,
   "b46e36fb3c3b8df6": 1790701996,
+  "b472a9cbabf1775d": 1791258618,
   "b47d292941c80001": 1790841922,
   "b48338ee29ca9028": 1790734218,
   "b485281e4604f5d0": 1789629088,
@@ -13053,7 +13077,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791252320,
- "last_msg_poll": 1791258560,
+ "last_msg_poll": 1791258863,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13098,7 +13122,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 12:49 KST",
+  "last_run": "2026-10-06 12:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
