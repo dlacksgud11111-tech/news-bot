@@ -309,288 +309,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 1,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 14,
-   "sec": "전력기기",
-   "t": "(2026 국감)호남에 몰린 재생E 접속대기…“발전소만 늘리고 전력망 뒷전”",
-   "ts": 1791299433,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373115"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 0,
-   "sec": "유틸리티·정책",
-   "t": "(2026 국감)김정관 산업장관 “알래스카 LNG, 중동전쟁 이후 전략적 가치 커져”",
-   "ts": 1791298945,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373114"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 6,
-   "sec": "재생에너지·ESS",
-   "t": "엠플러스, 유럽 글로벌 배터리 기업에 각형 장비 수주",
-   "ts": 1791268092,
-   "u": "https://www.etnews.com/20261006000361"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 6,
-   "sec": "재생에너지·ESS",
-   "t": "(2026 국감)신안우이 해상풍력 경제성 도마…김성환 기후장관 “초기 단가 높은 건 사실”",
-   "ts": 1791301381,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373117"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "[특징주] LG전자, 북미향 AI데이터센터 냉각솔루션 계약에 7%대 급등(종합)",
-   "ts": 1791268656,
-   "u": "https://www.yna.co.kr/view/AKR20261006041651008"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "아시아타임즈",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "美 데이터센터 전력난, 메모리에도 불똥 튀나…주문 지연 가능성 제기 - 아시아타임즈",
-   "ts": 1791267180,
-   "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2alFSTEh1UjZLeVBLeUM1Z2lHNDRTRlAzTDFNOUpPYVRUNGZPTW5QVEpOam1ablduMER4M1JGVWZYckJPRnBuOWx4UWU2X1VlYmxHWEdOcXZkZmZnaVE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴스핌",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "KB자산운용 \"AI 데이터센터 확산에 AI 전력 인프라 ETF 뜬다\" - 뉴스핌",
-   "ts": 1791268740,
-   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBreHhsSmFETVNnQkYyX0lEMC1VRjJWTU9FeWcwU0tLME5icGd5Z2pnZFdwNEJEa3c2c0JqbmFUVnB3LXJza3FqOXNuNGlWVmZoZXAySDRraWJxdnhT?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "v.daum.net",
-   "sc": 14,
-   "sec": "전력기기",
-   "t": "중대형 변압기 수출 55% 급증⋯美 전력망 수요에 K전력기기 출하 확대 - v.daum.net",
-   "ts": 1791266986,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tLVpmN05Cemt5VUJHM1dPTjlybzljVlVMTlQ0SU4ybndwbjJNWDFpSjFJV3lMR0Rqc3VmVGRGNHFfRFg0X1h3NHE4RWJMak0?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, 美 에어컨트롤콘셉트에 5GW AI데이터센터 칠러 공급",
-   "ts": 1791302273,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334855"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 1,
-   "sec": "유틸리티·정책",
-   "t": "벤처글로벌, 코노코필립스와 연 100만톤 LNG 장기계약",
-   "ts": 1791300387,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303868"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "프라임경제",
-   "sc": 14,
-   "sec": "전력기기",
-   "t": "'데이터센터 전력난'에 美 에너지 인허가 빗장 푼다…K-재생에너지·전력기기 '단비' - 프라임경제",
-   "ts": 1791262703,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkT1c0d0dxZjJuOE9jdzNSQlpWaG5BdUlCMGJzMGViYzExMnVsRmFDMWg1ZVczTEFhU043U19Qc0xWNVN5TkpDc3BmSXY5UDNNejM2N29tMHJPYUM2WG8wemlrM2x6amZ2N3l2bA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "edaily.co.kr",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터 더 빨리 늘어난다…삼성·LG, ‘냉각’ 공략 속도 - edaily.co.kr",
-   "ts": 1791269644,
-   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPai12V08tUy1SQjdTcWZOdlRWSm41YUNaYXBWX1ZQcm1JdXVnSjFQVUQ5VlZwbl8zemp3bFVwVnFvbkUyUk9weERCMzlVamdVUkZpQUpnSnNMMlhnUFV3WDQ0S3RwUVUzbExwTkU1UmNqSl9jTkNuQTdsUXRUM09VaQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "전기신문 - 전체기사",
-   "sc": 12,
-   "sec": "데이터센터·AI전력",
-   "t": "(2026 국감)AI 데이터센터 전력수요 넉 달 새 3배…산정근거 ‘논란’",
-   "ts": 1791304003,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373120"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 8,
-   "sec": "재생에너지·ESS",
-   "t": "(2026 국감)김성환 기후장관 “韓 태양광 발전단가 여전히 비싸…가격 낮출 것”",
-   "ts": 1791303664,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373119"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Mixed self-assembled monolayer enables 18.88% efficiency in 5.2 cm² inverted perovskite solar cell",
-   "ts": 1791272185,
-   "u": "https://www.pv-magazine.com/2026/10/06/mixed-self-assembled-monolayer-enables-18-88-efficiency-in-5-2-cm%c2%b2-inverted-perovskite-solar-cell/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일경제 : 경제",
-   "sc": 6,
-   "sec": "재생에너지·ESS",
-   "t": "“ESS 중앙계약시장, 사업자에 과도한 수익 보장”",
-   "ts": 1791272029,
-   "u": "https://www.mk.co.kr/news/economy/12169403"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 7,
-   "sec": "재생에너지·ESS",
-   "t": "Albania’s next solar auction to include storage",
-   "ts": 1791271979,
-   "u": "https://www.pv-magazine.com/2026/10/06/albanias-next-solar-auction-to-include-storage/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "디지털투데이",
-   "sc": 0,
-   "sec": "유틸리티·정책",
-   "t": "[국감2026] 황정아 \"1GW AI 팩토리에 PPA는 40MW\"…배경훈 \"LNG 실증 논의\" - 디지털투데이",
-   "ts": 1791271634,
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XcXpkOXRMUzdDN1M3cjdtWEs4cnJSWlMzX18zNTh0NFBiZlNBaHVid1ZVUzRIYkJMcEZtaVVQU3pWRm11a2NiT1h4Si1YTGNyMGxHMzNiaGFEVnA3M0RWUmJqd0pDTGoyTVRFTzRpeDctaGc?oc=5"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 5,
-   "sec": "유틸리티·정책",
-   "t": "한전KDN, 발전 5사와 AI 활용 방안 모색",
-   "ts": 1791271213,
-   "u": "https://www.etnews.com/20261006000388"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "lawtimes.co.kr",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "美 캘리포니아 데이터센터 규제 패키지 도입: 주요 내용과 시사점 - lawtimes.co.kr",
-   "ts": 1791254267,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSanB1bVFfV1pwYzh3ZDRCS2xJbHcwYkdqNEhkN0dPeG43ZGREN3NTa2F1MzZiQXFnc3JkRE9OVHM0MXhMRnZQRnZoT0dLT0hwQ25iOC02M0xNU0RVUktEa2dxSEp2NWlHai1ObnhB0gFyQVVfeXFMTmRjUHNtX200WUhoRXZEVXhVRkdzWWxMUXU5TzZzT2dnU0JDOVJqbnRUdm1BM1FUd0NMbTBfMG80b05IZWNocHQ3cHpZcEtSR3BNNHREOTRTYnBmQWNDaEhRRzNheGwxa3ZUdlVDLXFXYzVR?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "elec4.co.kr",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "마이크로칩, AI 데이터센터의 800V DC 랙 전력 아키텍처 전환 지원해 - elec4.co.kr",
-   "ts": 1791272794,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuWjV1aDUyVVNEVTdlamtXd1dBd2FuM1d2dDFva19KU3VGNW92b1pWbFJfQTByeGdUajNVY1YtaTJ2WU5qU0w0UjVJcjJCT1VqYUd2N294MG1RVFRqbnJtcGJmdU9jaVBxaTE1dXhn?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "머니투데이",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "기후장관 \"AI 데이터센터 전력수요, 과잉 추계된 측면 있다\" - 머니투데이 - 머니투데이",
-   "ts": 1791271843,
-   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sUWpGcWVXZ0VQMkRSRDVRb2t0b21aY2JSMmVLZWx2RFQ4QXQ5ZHBqd29RQ2dFOU1la1c0RmVyR05qeGlBYThRczl4ZTRyMXpQMjlvWllsT3NianBHSGlPejhUQ2I3Q29oWmJvNHBndWdJWmdCMWYxUdIBfkFVX3lxTE5aZEFMQXUtbVZTdW94dTdnci1zQnlnMWdHQ3JJX01PV08wZElmMlFad2JTQ1BDSGdqOFlmTjA5M29kVzFXQXc3bUNCVHVjNEtOSF9iQTlhNUJjcmZxTUJFb3hpZXAyWVNWZktJZU1ncF9adTFjYW9IbmM0YjZuUQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 8,
-   "sec": "전력기기",
-   "t": "(2026 국감)지역별 전기요금제 ‘차등 근거’ 공방…김성환 장관 “송전비용 계산 가능”",
-   "ts": 1791305544,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373121"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "비즈니스포스트",
-   "sc": 8,
-   "sec": "전력기기",
-   "t": "AI데이터센터용 직류 배전망 급성장 전망, 구자균 LS일렉트릭 800볼트 직류배전 시장 선점 노린다 - 비즈니스포스트",
-   "ts": 1791269491,
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qNlNMZ1duM2RyNVVEeVQ1akVZYW9acGZzaTdIeUh1TE5ZUlRGZFZrd01SX3V3cnBBUnJfV0dxdVRNQTV5TURRemNOLXdIeHFHY3NRWUhDSlE4dzl4UC16M051ck0yWGUzeUpXMDhIRlVFaTA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 9,
-   "sec": "원전",
-   "t": "[2026 국감] 12차 전기본 지연…'원전공론화 3개월' 놓고 여야 공방",
-   "ts": 1791273701,
-   "u": "https://www.etnews.com/20261006000397"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "DCD Survey: Data center construction",
-   "ts": 1791273600,
-   "u": "https://www.datacenterdynamics.com/en/whitepapers/dcd-survey-data-center-construction/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "한국경제",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "한 주에 10% 뛴 광통신 ETF…\"AI 데이터센터 전력난이 복병\" - 한국경제",
-   "ts": 1791268114,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zc1JUQUNrc3FFYTZVcFhTZzNwOTRkSjBvMnRXOWRubXpQUkl0QjU4Q2tKa0pUcmZmUGhGVkpxSjJ4Z0l2TEJWRFU5SVVfUjJUMXNKU3ZZSGFsUQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "녹색경제신문",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "세종 1조8000억 AI데이터센터 MOU…‘행정도시→AI 인프라 거점’ 전환 시험대 - 녹색경제신문",
-   "ts": 1791274164,
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0aEozaG93MFBsRVFJWDBTcWJ6d2NHaWMzZW9ZcXAwOUd0eGVQMWpvOTh6SDhpSzhMYjB4bDJINmZ4YjFHU2I0Y3c5RGEwLVVvZG9UUUpfbXpFTGc2cHVhNlQtUkNwTzNE?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -2619,6 +2338,7 @@
   "2816b5c21ac1cb1f": 1790744125,
   "281a64f70a6c2d36": 1789692619,
   "281fe1cfb54ad1cb": 1791158866,
+  "2820dcce0c3ae1c2": 1791274831,
   "2821b12599fbd811": 1789634416,
   "28272e2bdd27419c": 1791264620,
   "282882c9ed820e49": 1789951988,
@@ -12969,6 +12689,7 @@
   "f7208d4f263d547c": 1789629088,
   "f721e98419ac3827": 1790140529,
   "f72ee919c4e9292a": 1790073620,
+  "f7328544b78ec100": 1791274831,
   "f7341d5e7e784ac6": 1789977915,
   "f73ae7a2a60d002f": 1790563820,
   "f73cb9df6d97058d": 1790744723,
@@ -13432,8 +13153,8 @@
  },
  "companies_today": {},
  "day": "2026-10-06",
- "last_clip": 1791267322,
- "last_msg_poll": 1791274765,
+ "last_clip": 1791274831,
+ "last_msg_poll": 1791275079,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13474,7 +13195,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 17:19 KST",
+  "last_run": "2026-10-06 17:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
