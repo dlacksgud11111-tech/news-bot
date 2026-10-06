@@ -482,7 +482,7 @@
   },
   {
    "co": "",
-   "n": 1,
+   "n": 2,
    "s": "Queen 이코노미퀸",
    "sc": 0,
    "sec": "데이터센터·AI전력",
@@ -539,6 +539,16 @@
    "t": "AI 데이터센터 몰리자 전력·용수 부담…정책 재검토 나선 동남아 - v.daum.net",
    "ts": 1791166034,
    "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVRDliNHBSUGE3X290VUEwdHZQUU0zd1BSQ3RjMDltOW4xVlZrVDhmTVpwWEhINjQzbDVKM3VJYUtiN1hJWTNLdmNWMmtWU0U?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "kr.investing.com",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "베스타스(VWS.DC) 데이터센터발 유럽 전력시장 성장 기대 By 알파경제 alphabiz - kr.investing.com",
+   "ts": 1791248700,
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UNlNLMHItWUVLcmV0OWRsc2N4WlJlQmtrYXMxLXYtWXhOdlBnTGdiX2d6Zzk1THJwVTJlS2ZpVzVhTW5UNUJxdGRVZlV6U21wYmxfVGVSS1l5eFFqQTdGbDhUNml1WXFfekVzVU4zbVk?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1932,6 +1942,7 @@
   "1d1d94360cd8a106": 1790580923,
   "1d1ddd9064444918": 1790755519,
   "1d209ebb7589f260": 1790917521,
+  "1d242e9b3579de0c": 1791257414,
   "1d2942eeb9aaa9d0": 1790066475,
   "1d30ac76459045da": 1791061517,
   "1d3379bde24bd84f": 1791252320,
@@ -2611,6 +2622,7 @@
   "2a4c7ccb11b8a55d": 1791109528,
   "2a4f1a3a1fcf0c1f": 1790581516,
   "2a51a44f1c952c4f": 1790580361,
+  "2a617cd499dda6ad": 1791257414,
   "2a6cb74bad190ba1": 1790125822,
   "2a708242b0f0f862": 1790035428,
   "2a7361e43f293d78": 1790725223,
@@ -3260,6 +3272,7 @@
   "3739052768ca0266": 1790124616,
   "373badead8765be8": 1790555645,
   "373f32cd931965c9": 1790150725,
+  "3741ac4495ab8cc4": 1791257414,
   "3745b274baba16c7": 1790644581,
   "37489c547bab7174": 1789690229,
   "3749c7eb9b97674a": 1789627496,
@@ -8733,6 +8746,7 @@
   "a7b1b2dcb5824b24": 1790122580,
   "a7b2af10d3540f0b": 1790298315,
   "a7b4ac1f18f86b81": 1790739688,
+  "a7b53b2c1eec79f9": 1791257414,
   "a7c6811dc0688baa": 1789720817,
   "a7cb4fe0f56fc973": 1790139330,
   "a7d0f42ddf67cb1e": 1791255617,
@@ -10356,6 +10370,7 @@
   "c957f6af49eb8c16": 1789954905,
   "c968f3f0f0a81a98": 1790668519,
   "c96dc7a5c7f83d39": 1790979032,
+  "c9771f1e269ec6f1": 1791257414,
   "c97791d7e6952982": 1790064758,
   "c97ecdcc19f1f288": 1790915718,
   "c98b4e15917e33a2": 1789710788,
@@ -12983,7 +12998,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791252320,
- "last_msg_poll": 1791257360,
+ "last_msg_poll": 1791257661,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13028,7 +13043,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 12:29 KST",
+  "last_run": "2026-10-06 12:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
