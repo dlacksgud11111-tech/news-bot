@@ -379,6 +379,16 @@
    "t": "[美 데이터센터 전력 수요, 대도시 육박… 메타 하이페리온, 뉴욕시와 맞먹어] 데이터 센터의 전력 수요가 대도시 규모에 육박하면서, 전력 공급망과 규제, 지역사회 영향에 대한 논의도 - AI넷",
    "ts": 1791284852,
    "u": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5DbzU3SkVxajV0V1JlUXZTYTQ3bmgzalZrSmRUQ0V3Wnh6bmdRQ0ZERGw3b05keXRfVTdoOEh2Z1o?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "Valo’s Steve Merrick on why accurate state of charge estimation remains energy storage’s ‘unsolved problem’",
+   "ts": 1791285288,
+   "u": "https://www.energy-storage.news/valos-steve-merrick-on-why-accurate-state-of-charge-estimation-remains-energy-storages-unsolved-problem/"
   }
  ],
  "clip_titles": [],
@@ -3498,6 +3508,7 @@
   "3c46939d1b782357": 1790732122,
   "3c4947b5d66618aa": 1791215719,
   "3c500e24184b1c84": 1789787129,
+  "3c5287ccf2076ed7": 1791285326,
   "3c584012bc013353": 1789736719,
   "3c613eb2eadf9ea4": 1790042975,
   "3c65bf708d25382c": 1790744723,
@@ -13342,7 +13353,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791282036,
- "last_msg_poll": 1791285267,
+ "last_msg_poll": 1791285572,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13382,7 +13393,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 20:14 KST",
+  "last_run": "2026-10-06 20:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
