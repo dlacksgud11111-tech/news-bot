@@ -479,6 +479,16 @@
    "t": "전력 변환 2단계에서 1단계로…AI 데이터센터 전력 효율·밀도 높인다 - 올포칩",
    "ts": 1791314616,
    "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ibUZyYXVkUFlnUWxtX3B6RGZNWHRjVzJ6d1Z6NDR1d0M5VnFfSGZsRW82YVVmbmpiaHdBMlUxUXlNWFZXMm5lMVNLM1VvdmNWNGtrZXZud0xuSktHSUwtbA?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "경향신문",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "기후부 장관, 데이터센터 전력수요 ‘뻥튀기’ 지적에 “과잉 추계된 측면 있다” 시인 - 경향신문",
+   "ts": 1791277920,
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MaVNPMUEwbXpHV0ZXYUdLMHlCMjNabmljRzRodEV1em5SRzg1eW9DRWVDUmhrU1BXcE9ZVldaYzBfX05sMmRCU1hTbFEwbnBPWWJvVWtoUmt2Z9IBX0FVX3lxTFBiNGZPN2tkMzMtbjhWenljbVhGZXdIdXZub19VY2ZRazJWWGVfY0Zua0lqYlBDcVpkNkdfTFV0aFpHOW9nRXQzSjNMMzlsVEV5aU5KZUFFWUNZZEpfTzk0?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1009,6 +1019,7 @@
   "0b40c4a041aa1249": 1789634416,
   "0b40db5f74e3ec4b": 1791244517,
   "0b44871fd9d9a400": 1789627496,
+  "0b465aef0d4eab0e": 1791317213,
   "0b4d2f30f926f665": 1791263115,
   "0b50d0cadd536e35": 1790832921,
   "0b5266225f1b4d72": 1790643992,
@@ -1310,6 +1321,7 @@
   "10f745140c21a538": 1790747118,
   "10fbcc725c4236dc": 1790019030,
   "1100ef677bdd2271": 1789629088,
+  "1115125605c99047": 1791317213,
   "111ad104f3a26fcd": 1790411718,
   "111c7718ee44dca7": 1790651338,
   "11213677480fb3bc": 1790571927,
@@ -8743,6 +8755,7 @@
   "a20a26ccb5105215": 1790694321,
   "a20abfcc1e1844a9": 1789698990,
   "a2117cdd0a047f87": 1790128524,
+  "a212abbd63c173e8": 1791317213,
   "a2135710c18aa9c8": 1790912423,
   "a218604350684309": 1789727860,
   "a2233a11576c262d": 1790678503,
@@ -13516,7 +13529,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791297187,
- "last_msg_poll": 1791316897,
+ "last_msg_poll": 1791317463,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13553,7 +13566,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 05:01 KST",
+  "last_run": "2026-10-07 05:11 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
