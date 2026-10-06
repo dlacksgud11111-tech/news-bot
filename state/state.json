@@ -399,6 +399,16 @@
    "t": "Antora Energy announces 5.8GWh ‘multi-day’ thermal energy storage project in Kansas, US",
    "ts": 1791285759,
    "u": "https://www.energy-storage.news/antora-energy-announces-5-8gwh-multi-day-thermal-energy-storage-project-in-kansas-us/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴스데일리",
+   "sc": 10,
+   "sec": "데이터센터·AI전력",
+   "t": "정혜경 “ 데이터센터 효율 기준 · 재생에너지 요건 등 마련 요구 ” 에 김성환 장관 “ 데이터센터 전력요금제 설계에 반영할 것 ” - 뉴스데일리",
+   "ts": 1791285857,
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDRjlGVGZuVUFvUnZEMnk3ZlpQdTFGZWVmUWk5bFpqYS1kNFBKUlJOcFhRSUpJS0ctN1ptREpRMGxZeUxwa1hmNjNEX2xCSElFalVvZFduSVN1Vjg3RzZ3NGtrdkdSR0ExYzdz?oc=5"
   }
  ],
  "clip_titles": [],
@@ -10758,6 +10768,7 @@
   "cc9b25da35b38a2c": 1790557916,
   "cc9c07f518661ba9": 1789629088,
   "cc9e29deb66a2f4e": 1790036576,
+  "cca0628be1b9cca9": 1791286221,
   "ccae64930f460fc3": 1790903418,
   "ccaf9366f7208087": 1789784719,
   "ccb071cce1b3137f": 1790167832,
@@ -13365,7 +13376,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791282036,
- "last_msg_poll": 1791286170,
+ "last_msg_poll": 1791286468,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13405,7 +13416,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 20:29 KST",
+  "last_run": "2026-10-06 20:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
