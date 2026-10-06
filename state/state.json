@@ -349,6 +349,16 @@
    "t": "DayOne IPO: Data center firm targets 2.3GW capacity by 2028",
    "ts": 1791299995,
    "u": "https://www.datacenterdynamics.com/en/news/dayone-ipo-data-center-firm-targets-23gw-capacity-by-2028/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "데이터센터 전력수요 급증 전망에 기후장관 \"과잉된 면 있어\" - 연합뉴스",
+   "ts": 1791274255,
+   "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53UkxUREYwbC1uYXdJMEtlcGs3ZERSSDB5NHlJaGtYUHVPenZMVHUtRzE5ZUNnYnhMTlMySV95MTJJc1dtaTNONld1TDdZNVlCd2d6OUdSUlZ0LUXSAWBBVV95cUxQcFpxXzE4b2syWExqc3dHcC14aFV6eDFLeUNaXzNEUVg3QzJWdUc3WXRNQk4zTEllSy1XRldXVHFCblFOS1dvSXZvOG83UWVWeHNXTEhtbm1BalVkV0wzRWQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2208,6 +2218,7 @@
   "2456542f8bf8c9a3": 1790042975,
   "24675eed3f3ffe99": 1789629088,
   "246ad927dde7e024": 1790897721,
+  "246af0eed7085a33": 1791301238,
   "246d6f0c2ecb0a74": 1790818527,
   "24706f6d6df0311f": 1789901121,
   "247efd757635ccf9": 1791261318,
@@ -8296,6 +8307,7 @@
   "9bbc73c08776f0f0": 1790834041,
   "9bc19eb2abda6ad8": 1790645160,
   "9bccabd8012a320f": 1790060416,
+  "9bcdf2720f440045": 1791301238,
   "9bd06eccc8223b26": 1790039473,
   "9bd4598aa747cb21": 1791196557,
   "9bd9b2136deddeab": 1790111024,
@@ -13357,7 +13369,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791297187,
- "last_msg_poll": 1791300900,
+ "last_msg_poll": 1791301485,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13395,7 +13407,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 00:35 KST",
+  "last_run": "2026-10-07 00:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
