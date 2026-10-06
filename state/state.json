@@ -439,6 +439,16 @@
    "t": "ByteDance takes up one-fifth of China's data center capacity",
    "ts": 1791286994,
    "u": "https://www.datacenterdynamics.com/en/news/bytedance-takes-up-one-fifth-of-chinas-data-center-capacity/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "POWER Magazine",
+   "sc": 10,
+   "sec": "원전",
+   "t": "Winning the Nuclear Market Before the Reactor Is Sold",
+   "ts": 1791287885,
+   "u": "https://www.powermag.com/winning-the-nuclear-market-before-the-reactor-is-sold/"
   }
  ],
  "clip_titles": [],
@@ -5420,6 +5430,7 @@
   "60014d193d4a7c7b": 1790748320,
   "6001e9f6de74aa96": 1790003117,
   "6008dac21b194c59": 1790377829,
+  "600b9f501e0ca094": 1791288068,
   "6012200ec8dc19a6": 1791187519,
   "6016109050c00c7d": 1791259518,
   "6023dba7c6627678": 1790744723,
@@ -13413,7 +13424,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791282036,
- "last_msg_poll": 1791287979,
+ "last_msg_poll": 1791288316,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13453,7 +13464,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 20:59 KST",
+  "last_run": "2026-10-06 21:05 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
