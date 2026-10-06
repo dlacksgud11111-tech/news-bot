@@ -609,6 +609,16 @@
    "t": "AI 데이터센터 전력난..과연 핵융합이 돌파구 될까(?) - dailycar.co.kr",
    "ts": 1791253700,
    "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LbTdyY1FDblQ2Sk1VT21fcTVnZzZUNHJuOGlFZVJpRTZHeUxNOFZ3eTBVWkR0RnI1cnFuZW5TdGpaTWtzWHQtNlhhaUJOS2J0cHBKam5VdnNlZzVBVEdHOTRUMTc2bWRBVzlndFAxYnVzTXFLS0E?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "소비자가 만드는 신문",
+   "sc": 10,
+   "sec": "전력기기",
+   "t": "포스코, AI·데이터센터 전력망 잡는다…전자기파 차폐 강재 ‘PosMAC-Shield’ 정식 상표화 - 소비자가 만드는 신문",
+   "ts": 1791234600,
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MYno1OFdDeDViTzhVZm5rNWpMY1dKVEZYcWRWVWl0MnpPMHoxN2gzdjNJOFcyVEJmX3JrZ2JWWHhkaXJEcmlOOEVsc3N6OUcxcGc5VXEwdUYxLVQwNVl5Q1R6THRwWjFacTEwX1hmTDQ5YXM?oc=5"
   }
  ],
  "clip_titles": [],
@@ -9239,6 +9249,7 @@
   "b042b9d6ddbcecb0": 1790743524,
   "b0477da5905c2f43": 1789691718,
   "b04a33d41a2c7d26": 1790833487,
+  "b04d9963002a554e": 1791259227,
   "b050c79e5c71d6a8": 1790040917,
   "b05392add3224086": 1790058917,
   "b055a5d81bbddd90": 1790579195,
@@ -13078,7 +13089,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791252320,
- "last_msg_poll": 1791259166,
+ "last_msg_poll": 1791259472,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13123,7 +13134,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 12:59 KST",
+  "last_run": "2026-10-06 13:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
