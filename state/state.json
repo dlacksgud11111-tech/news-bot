@@ -579,6 +579,16 @@
    "t": "한 주에 10% 뛴 광통신 ETF…\"AI 데이터센터 전력난이 복병\" - 한국경제",
    "ts": 1791268114,
    "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zc1JUQUNrc3FFYTZVcFhTZzNwOTRkSjBvMnRXOWRubXpQUkl0QjU4Q2tKa0pUcmZmUGhGVkpxSjJ4Z0l2TEJWRFU5SVVfUjJUMXNKU3ZZSGFsUQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "녹색경제신문",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "세종 1조8000억 AI데이터센터 MOU…‘행정도시→AI 인프라 거점’ 전환 시험대 - 녹색경제신문",
+   "ts": 1791274164,
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0aEozaG93MFBsRVFJWDBTcWJ6d2NHaWMzZW9ZcXAwOUd0eGVQMWpvOTh6SDhpSzhMYjB4bDJINmZ4YjFHU2I0Y3c5RGEwLVVvZG9UUUpfbXpFTGc2cHVhNlQtUkNwTzNE?oc=5"
   }
  ],
  "clip_titles": [],
@@ -675,6 +685,7 @@
   "01d659fbf0446574": 1790684130,
   "01ec6beee6c51aba": 1790120279,
   "01efd3304fb9e8e7": 1790578558,
+  "01f03cc22f6e0ed8": 1791274519,
   "01f51fd754284cb8": 1789872360,
   "01f97fbbf109154d": 1789828325,
   "0201c7881aa0bb6d": 1789953723,
@@ -3792,6 +3803,7 @@
   "3e5b3732621b3a4c": 1789892428,
   "3e63ad459d571c4e": 1790037737,
   "3e6daea6417a80ff": 1790383280,
+  "3e71937eeb12b7a1": 1791274519,
   "3e73616ff01de6ea": 1789738816,
   "3e7844b3e4acfbfe": 1790559622,
   "3e7b8f7350fa6c10": 1790658361,
@@ -4410,6 +4422,7 @@
   "49e4bffe31cfda60": 1789976119,
   "49e53e7ecfccafe6": 1790647519,
   "49e911ba162ffa2a": 1790641660,
+  "49f15cc2eff8bd65": 1791274519,
   "49f1bd4f1147a0af": 1790777417,
   "49f43d66e11aad98": 1790690744,
   "49f83d631e749267": 1790907632,
@@ -4816,6 +4829,7 @@
   "523b24981e051289": 1790643992,
   "523c44a7c5a54d7d": 1790042395,
   "5257cde8d7be65b3": 1791196557,
+  "525daa00b94851bb": 1791274519,
   "5262af8888ccd35e": 1791253241,
   "52659920983c28e2": 1791235521,
   "5265a3bb8a107197": 1790084279,
@@ -11258,6 +11272,7 @@
   "d4d267ac9e951c6a": 1790953922,
   "d4d3ba9f24b8b454": 1790231915,
   "d4da287065d16078": 1790838638,
+  "d4df2d32a0f85b00": 1791274519,
   "d4df6b1c5f42b2b3": 1790585418,
   "d4dfddb54c18f849": 1790820021,
   "d4e24804758bc9da": 1791268521,
@@ -13418,7 +13433,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791267322,
- "last_msg_poll": 1791274477,
+ "last_msg_poll": 1791274765,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13459,7 +13474,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 17:14 KST",
+  "last_run": "2026-10-06 17:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
