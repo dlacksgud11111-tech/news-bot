@@ -399,6 +399,46 @@
    "t": "DCD Studio: Permitting and pre-construction for Edge sites, with Gonzalo de la Pedraja, Quetta Data Centers",
    "ts": 1791304811,
    "u": "https://www.datacenterdynamics.com/en/videos/dcd-studio-permitting-and-pre-construction-for-edge-sites-with-gonzalo-de-la-pedraja-quetta-data-centers/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "www.timothysykes.com",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "TLN Stock Rallies As Data Center Power Demand Collides With FERC Delay - www.timothysykes.com",
+   "ts": 1791304380,
+   "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY2kzRWphaVVYSjFpSS10T0NndmhhN1VGQ2F2X19IVllhU0JzTVFWRlVodGRaa0FTb0R6QUNZYXAtYThpeVh1NGF0Zk43NVdJUVBtUVZ3WlNZd0VNRXBmdnR3YmM4aWVkT3o5eXhscFVTWTJZSjcxa041Qmk3aVVyZnZGenhmdw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "Maryland nets 440 MW/1,760 MWh in first bulk energy storage procurement",
+   "ts": 1791302475,
+   "u": "https://www.utilitydive.com/news/maryland-nets-440-mw1760-mwh-in-first-bulk-energy-storage-procurement/832261/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 8,
+   "sec": "재생에너지·ESS",
+   "t": "States, renewable developers back MISO’s accelerated interconnection queue plan",
+   "ts": 1791298161,
+   "u": "https://www.utilitydive.com/news/miso-accelerated-interconnection-queue-ferc/832246/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 5,
+   "sec": "원전",
+   "t": "DOE intends to loan Vistra $4.2B for nuclear fleet improvements",
+   "ts": 1791295202,
+   "u": "https://www.utilitydive.com/news/doe-intends-to-loan-vistra-42b-for-nuclear-fleet-improvements/832236/"
   }
  ],
  "clip_titles": [],
@@ -1256,6 +1296,7 @@
   "117cde2e77cbf997": 1790658925,
   "117e608bc23d5c37": 1790663718,
   "11850117002d81da": 1790669122,
+  "118666bcac262b6c": 1791305427,
   "119705bb7884b9c5": 1789627496,
   "119facfb80761bf6": 1790721919,
   "11a41450b4b087b5": 1790579195,
@@ -4799,6 +4840,7 @@
   "54677b86ac53b13c": 1789954327,
   "546cab1a79d8845f": 1790186286,
   "547513ed00e62203": 1790747420,
+  "54753b2ccbc9e8b5": 1791305427,
   "5482d882427d49c0": 1790604930,
   "5485f67b43e60d3a": 1789891518,
   "54863963cdccb321": 1789733129,
@@ -6556,6 +6598,7 @@
   "7708c3a1c4879ffe": 1789866315,
   "77090be50242f190": 1790728933,
   "770bf96c4597292b": 1789627496,
+  "770d3d0d2d796613": 1791305427,
   "770f648e54e29382": 1790560518,
   "771ac25e041ae678": 1790584523,
   "771fa108e9f00282": 1790331630,
@@ -11814,6 +11857,7 @@
   "e1495148b32be60f": 1790741117,
   "e1496cea4ffc64ab": 1790074519,
   "e154479391a9bd20": 1790568321,
+  "e15cfc516ed3ec62": 1791305427,
   "e15d38720af40a02": 1790629823,
   "e15f389c3c5843c8": 1790748925,
   "e15fd6fef6cfdf5f": 1790555645,
@@ -13418,7 +13462,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791297187,
- "last_msg_poll": 1791305370,
+ "last_msg_poll": 1791305676,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13456,7 +13500,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 01:49 KST",
+  "last_run": "2026-10-07 01:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
