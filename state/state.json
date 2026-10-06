@@ -309,358 +309,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 1,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 6,
-   "sec": "재생에너지·ESS",
-   "t": "(2026 국감)이철규 의원 “ESS 중앙계약시장 수익보장 과도…정산구조 손질해야”",
-   "ts": 1791289934,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373105"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 5,
-   "sec": "재생에너지·ESS",
-   "t": "Australia’s NEM battery storage fleet earns AU$88.91 million in Q3, with five days delivering 15% of revenue",
-   "ts": 1791260921,
-   "u": "https://www.energy-storage.news/australias-nem-battery-storage-fleet-earns-au88-91-million-in-q3-with-five-days-delivering-15-of-revenue/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "Australia’s Origin Energy targets building ‘Southern Hemisphere’s largest battery storage complex’",
-   "ts": 1791260779,
-   "u": "https://www.energy-storage.news/australias-origin-energy-targets-building-southern-hemispheres-largest-battery-storage-complex/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "미디어피아",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "[AIDC⑤ [건축/PMDC] 랙 스케일 시대, 데이터센터도 공장에서 만든다 - 미디어피아",
-   "ts": 1791255524,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FcERkUElZdnZyWWFqM00wQXFqUmQ0UC1lN21IVXJxNGZCNUR3SG5rY2pDcjVCLWg2R1dfQ1FFYU1qQTJJZi1BSzNkd2MwcWJhTTU0bnoteGY5S2NoZTBIMU1iYjRhMy1jU0V1R09B?oc=5"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "아이뉴스24",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "재생에너지 100GW 시대 연다…전력기기업계, ESS부터 기회 - 아이뉴스24",
-   "ts": 1791237601,
-   "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53NzVhSm16TDRLRTZWQ2dUN0JDZDdHNmFQVnNyVGJFQ3R1ZDRLMXJVYnVFX3lJZUdpRC1MbGRtd080Q2twdUFodFV4VDc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 3,
-   "sec": "데이터센터·AI전력",
-   "t": "[ET특징주]LG전자, 북미향 AI데이터센터 냉각솔루션 계약에 상승세",
-   "ts": 1791259669,
-   "u": "https://www.etnews.com/20261006000193"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 1,
-   "sec": "유틸리티·정책",
-   "t": "지역난방公, 성남 공공기관 지역우선 구매 상담회 개최",
-   "ts": 1791293959,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303853"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 11,
-   "sec": "유틸리티·정책",
-   "t": "[국감 자료] 기업 전기요금 선납제 제도화 도입 제안",
-   "ts": 1791292153,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303850"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 3,
-   "sec": "건설·플랜트",
-   "t": "대한기계설비건설협회, 주계약자 공동도급제 활성화 촉구",
-   "ts": 1791291600,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303803"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "유틸리티·정책",
-   "t": "김정관 \"알래스카 LNG 전략적 가치는 있어…상업성 전제로 검토\"",
-   "ts": 1791262109,
-   "u": "https://www.yna.co.kr/view/AKR20261006104100003"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "m-i.kr",
-   "sc": 10,
-   "sec": "전력기기",
-   "t": "KB운용, AI 데이터센터 전력 인프라 ETF…발전·전력망·냉각 기업에 투자 - m-i.kr",
-   "ts": 1791260992,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GMUFLcnNsYmhWNlI2TTUtZnh6Y0lEVnE3SEt1aDVuZTlQN3pDZVRrSVNvazVpQTdYWjlRcVNkMU5IMjN6X2laYlJ5NmpJR3BNV3QxTkJYdm5TN0Q2b2tWcC1NVWU?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "건설연 개발 엣지 AI ‘MOVI’, 남양주 불법주정차 최대 99% 줄였다",
-   "ts": 1791294427,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373107"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "재생에너지·ESS",
-   "t": "에코프로비엠-삼성SDI, 전고체 배터리 상용화 위한 전략적 협력 확대",
-   "ts": 1791261234,
-   "u": "https://www.etnews.com/20261006000222"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "ESG경제",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "IEA “동남아 전력수요 '30년까지 연 5.4% 증가” - ESG경제",
-   "ts": 1791262311,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82aExla21wZk9QWGlpai1vMDVKbjVpMzRPcTNVOElWYktfQXotUDMzMDRlRE5ra2pQbkhqY0JCaUR4cXNqdFBqOFBmeTdkWlAzWklBSHNHSEJlYzFRRFJXY1A1T2JMczIxTXJ1cA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 1,
-   "sec": "건설·플랜트",
-   "t": "건설업 다단계 하도급 구조 개선해야…주계약자 공동도급 활성화 통해",
-   "ts": 1791296612,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228731"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴스저널리즘",
-   "sc": 2,
-   "sec": "전력기기",
-   "t": "AI 전력수요 몰리는데 송전망 '포화'…LMP 부담 우려 - 뉴스저널리즘",
-   "ts": 1791264264,
-   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jOVd6ZFlBcS1nN1ZpSDhHcFhadVBFVXd5emtELWo2dHU1RTV1MTFFR041cE5jOEdsNHk3VGlfN2Z5OVJqM1hKR05BS2thaWpXWDNLSlo3SWpQQUltYTFQVWtEM1RtVHRuY2tJ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 0,
-   "sec": "재생에너지·ESS",
-   "t": "[국감] 수소 인프라 확충…‘범부처 통합관리 체계’ 절실",
-   "ts": 1791295639,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334845"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "newsquest.co.kr",
-   "sc": 4,
-   "sec": "데이터센터·AI전력",
-   "t": "“전력·부동산 다 잡았다…SGC에너지, ‘AI 데이터센터’로 밸류에이션 재평가” - newsquest.co.kr",
-   "ts": 1791264578,
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GYXhsbFAwa0VNMWJ2aE5nMGo1Q0Z5d2phN3VzckRHdlVPSFk1cHFCZEtKaTlOc1VId2p6WGNnTXV6cWJfd0dTRUR1YW9MY28tSEc1Q3VuVnJYMUdTSzluUGxuTHo4ekJUbFN6T2xvVQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 0,
-   "sec": "유틸리티·정책",
-   "t": "中, 구매자에서 중계인으로…‘LNG 재판매국’ 부상",
-   "ts": 1791297277,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334849"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 0,
-   "sec": "재생에너지·ESS",
-   "t": "에코프로비엠-삼성SDI, 황화물계 전고체 배터리 상용화 목표 MOU",
-   "ts": 1791296214,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373111"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 3,
-   "sec": "재생에너지·ESS",
-   "t": "엠플러스, 유럽 글로벌 배터리 기업에 각형 장비 공급한다",
-   "ts": 1791295313,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373108"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일일보",
-   "sc": 4,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터부터 차세대 원전까지…K-철강, 첨단 영토 확장 - 매일일보",
-   "ts": 1791264619,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1TUotaXgzSDJYMkY1OVo1WktQaXhoZ1ctWF9YazJZaXpvNE4yMkJiajJBdkY0SWJ4ZUdfRzBwSmJqeHowc2ZkdzZvTWZiODZVeDFMRnJDc2FfZm9pUmFRMVpvaVE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "오늘경제",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "“AI 데이터센터 확산에 AI 전력 인프라 ETF 뜬다” KB자산운용 ‘RISE 미국AI전력인프라액티브’ 주목 - 오늘경제",
-   "ts": 1791264121,
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPY3NZQVF1dE9WSmpqLTdLd3V5TmZRVGszZmhtSGJXRjVLSTV4VF9zQU9kSzNXbnpaT1JtaHJpaXpvZ2ZBN3hYRlNWUmJfSU8yZDVHcDZfWGFWSzkwV21GbDlrNmFlcFhRSW9uOTlqbWROM28?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 5,
-   "sec": "전력기기",
-   "t": "건설생활환경시험연구원, 차세대 그리드·전력반도체 생태계 구축 협력",
-   "ts": 1791297362,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228781"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "경남신문",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, 美 AI 데이터센터에 5GW 냉각 솔루션 공급한다 - 경남신문",
-   "ts": 1791265034,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwTW5IWTJFNWNrZjZ5aFBkQmI1WXQwbDRsZGhjeWZsR0ZCVTZ5cG5EYTNERWR6eFpheHBKbDExV1dWeG9hcXk1bWNJRUNZaE1zMWNMX05tdHdadw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "imaeil.com",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "노키아 CEO \"공급 제약 없으면 데이터센터 2배 빠르게 짓는다\" - imaeil.com",
-   "ts": 1791264702,
-   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43eDlRX2VDQzAzUzlvY1dJY0tDU1lFSEM1dXNKdjlkVTlhd2tpbk9vLUo5MnBKbUZZdXE4NEZFS1ZSVndzLVBpV3dUNEZxQXZjVmV1QVFXMm5uZkExYXYwc1Zn?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 11,
-   "sec": "재생에너지·ESS",
-   "t": "Sumitomo Corporation invests in Hero Future Energies’ solar-wind-storage hybrid in Karnataka, India",
-   "ts": 1791265597,
-   "u": "https://www.energy-storage.news/sumitomo-corporation-invests-in-hero-future-energies-solar-wind-storage-hybrid-in-karnataka-india/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "재경일보",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터 수요 여전…노키아 CEO “아직 초기 단계” : 국제 - 재경일보",
-   "ts": 1791255600,
-   "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YXzctMXVaZnhXRi1lY0U0bUFPVVlOVkZsUUxfOWVrVDdlMGZxVmE3MzNLd0hyX01UYVBrUGNDeFh0OFc2eEJJSWZMWQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 1,
-   "sec": "재생에너지·ESS",
-   "t": "렉스이노베이션, 연료전지 시제품 제작·수전해 사업화 추진",
-   "ts": 1791297270,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303858"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 1,
-   "sec": "재생에너지·ESS",
-   "t": "[국감자료] '충전 인프라' 구축이 수소차 세계 1위 수성 열쇠",
-   "ts": 1791297127,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303859"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 1,
-   "sec": "재생에너지·ESS",
-   "t": "한국환경공단, 獨과 사용후 배터리 순환이용 공동연구",
-   "ts": 1791294258,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303855"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 10,
-   "sec": "재생에너지·ESS",
-   "t": "에너지공단, 베트남에 재생에너지 무역사절단 파견해",
-   "ts": 1791294081,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303854"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일산업뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "LG전자, 북미서 5GW AI 데이터센터 냉각 잭팟… ‘칠러 1조’ 조기 달성 눈앞 - 매일산업뉴스",
-   "ts": 1791265481,
-   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1YjRQbWlaUm13YmFjSk1DYlNoLV9CaU0xMnVlbElJMnVJYzhQTjFJblVweFVRb2xBNFlXOG0zcjhBVmlhWWR0dFJBTXAwdG9FZkxYSEUxZ0xrR3dPTmVqWWh1Zw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "한국경제",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "[단독] 고속도로 '노는 땅'에 AI데이터센터 짓는다 - 한국경제",
-   "ts": 1791190166,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mbnAtY1UwMTNycDRJNjE0ZUJ2OGdEU2lLdlpTZ1pmNWlOMjFFbnkzRWlrNHJSN1JFa3J1T3NNd2QtM0VfWmRVOEZqSjhhQWVUQjc2OFRpSWpFZw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 10,
-   "sec": "유틸리티·정책",
-   "t": "Utility solar generation reaches record highs in Australia",
-   "ts": 1791266670,
-   "u": "https://www.pv-magazine.com/2026/10/06/utility-solar-generation-reaches-record-highs-in-nem/"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -728,6 +377,7 @@
   "01157ccc6fbbe0ff": 1790139621,
   "01173843d2763895": 1790732723,
   "011749359af6e021": 1790723121,
+  "011e8e82a2dc2be5": 1791267322,
   "01203bbf8b445eb2": 1791247733,
   "012f65181126fc1b": 1790475926,
   "0134b051d48b98e6": 1789946508,
@@ -1797,6 +1447,7 @@
   "175e62abc3e7150b": 1790849118,
   "175f5768118f9da5": 1790038892,
   "1763e496d58ba509": 1790564716,
+  "17785225f3608f1f": 1791267322,
   "177ef6572923580a": 1790116521,
   "179031781bb66e4a": 1790681418,
   "1792f148b1c393b2": 1790038311,
@@ -2505,6 +2156,7 @@
   "2507c44e958afc6e": 1791155417,
   "2507c52916af8551": 1790067655,
   "250f0433444a11e1": 1791266120,
+  "2512ee356f1d6857": 1791267322,
   "2518a5be5720f316": 1790728372,
   "251aad1ae52fe445": 1790041833,
   "251cbbf9702a0f1c": 1790040051,
@@ -13339,8 +12991,8 @@
  },
  "companies_today": {},
  "day": "2026-10-06",
- "last_clip": 1791259818,
- "last_msg_poll": 1791267264,
+ "last_clip": 1791267322,
+ "last_msg_poll": 1791267565,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13381,7 +13033,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 15:14 KST",
+  "last_run": "2026-10-06 15:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
