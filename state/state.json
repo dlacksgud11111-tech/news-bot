@@ -364,6 +364,16 @@
    "t": "에너지공단, 재생에너지 기업 베트남 수출시장 개척 지원",
    "ts": 1791359583,
    "u": "http://www.e2news.com/news/articleView.html?idxno=334853"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "M이코노미뉴스",
+   "sc": 10,
+   "sec": "데이터센터·AI전력",
+   "t": "구글, 美 원전서 3.6GW 전력 확보...AI 데이터센터 전력난 대응 - M이코노미뉴스",
+   "ts": 1791327151,
+   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUYVZ0amtZVldsMEFNYlRySlpXUEtpVk5XNHROcUhlODFOWjIzSTY0dGRydlVRTjhpMUdBTW5vYUQza3p3bmNSclJtX043NkZmdnUzaGQyMzYtdS1EQnRaVzJWbGc1UWs?oc=5"
   }
  ],
  "clip_titles": [],
@@ -12776,6 +12786,7 @@
   "f38a5672b7c19e50": 1791061517,
   "f38fbf889fa18c7d": 1790844327,
   "f39d571f1b6b15ee": 1789953163,
+  "f3a3453b4ec6e299": 1791327597,
   "f3aa40fa3af6e5e1": 1789776316,
   "f3b02d877809d222": 1789627496,
   "f3b1d6e1ba048250": 1791276620,
@@ -12880,6 +12891,7 @@
   "f59c9d020b4e9ed1": 1789701615,
   "f59ec287f43c2065": 1790750123,
   "f5a7376f6e496f34": 1790557916,
+  "f5b1f352d54a4e28": 1791327597,
   "f5bb7e9fdae0627d": 1790641093,
   "f5c0087083febdb0": 1791254421,
   "f5c132fb083c9636": 1790700714,
@@ -13437,7 +13449,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791324017,
- "last_msg_poll": 1791327563,
+ "last_msg_poll": 1791327838,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13473,7 +13485,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 07:59 KST",
+  "last_run": "2026-10-07 08:03 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
