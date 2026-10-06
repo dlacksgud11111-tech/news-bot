@@ -409,6 +409,16 @@
    "t": "정혜경 “ 데이터센터 효율 기준 · 재생에너지 요건 등 마련 요구 ” 에 김성환 장관 “ 데이터센터 전력요금제 설계에 반영할 것 ” - 뉴스데일리",
    "ts": 1791285857,
    "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDRjlGVGZuVUFvUnZEMnk3ZlpQdTFGZWVmUWk5bFpqYS1kNFBKUlJOcFhRSUpJS0ctN1ptREpRMGxZeUxwa1hmNjNEX2xCSElFalVvZFduSVN1Vjg3RzZ3NGtrdkdSR0ExYzdz?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "fntoday.co.kr",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "美 AI·데이터센터 확산에 ‘블루칼라 일자리’ 급증…전기·기계·용접 인력 수요 확대 - fntoday.co.kr",
+   "ts": 1791264382,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wdXNBZVlRMjhpQ1UzZlF0emxxMmZPR0h3Zk9WQUlveExwcWJCWWFsNmEtLV93WlVGODJuVkZod2EtUU1CcmtyeFNvdERmRHQxak5DQTBxOXhUVDVmdVhfTUs5NWRGTnk0MVZ1Qg?oc=5"
   }
  ],
  "clip_titles": [],
@@ -8017,6 +8027,7 @@
   "94e258d42883700c": 1790665521,
   "94e307733b56ab40": 1790139915,
   "94e4929b80eacf4f": 1791206736,
+  "94e5c60cd7c1273d": 1791286522,
   "94f9b45137dc4941": 1790812225,
   "94fcd6c543257b65": 1790674470,
   "94fe537bda128b8a": 1790498128,
@@ -12366,6 +12377,7 @@
   "ec91c90376556703": 1789689020,
   "ec9688e4ac495dbd": 1789729598,
   "ec9b5a8b61065e30": 1790730658,
+  "ecad85e07de6ec31": 1791286522,
   "ecae1b0b28e21c8f": 1790148975,
   "ecb72a1e363c557e": 1789699582,
   "ecb89ff66f6733c7": 1790037737,
@@ -13376,7 +13388,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791282036,
- "last_msg_poll": 1791286468,
+ "last_msg_poll": 1791286770,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13416,7 +13428,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 20:34 KST",
+  "last_run": "2026-10-06 20:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
