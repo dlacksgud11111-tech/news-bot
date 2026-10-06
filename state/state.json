@@ -329,6 +329,36 @@
    "t": "DCD Studio: The UK data center shift with Allan Bosley, Ark Data Centres",
    "ts": 1791219780,
    "u": "https://www.datacenterdynamics.com/en/videos/dcd-studio-the-uk-data-center-shift-with-allan-bosley-ark-data-centres/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "전기신문 - 전체기사",
+   "sc": 7,
+   "sec": "재생에너지·ESS",
+   "t": "에너지공단, 韓 재생에너지 기업과 베트남 공략...현지 바이어·정책기관 협력 확대",
+   "ts": 1791307304,
+   "u": "https://www.electimes.com/news/articleView.html?idxno=373127"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "e4ds news",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "마이크로칩·나비타스, AI 데이터센터용 800V DC 레퍼런스 디자인 공동 개발 - e4ds news",
+   "ts": 1791246000,
+   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzWXNtQ0ZIaU1zM2JSdU40S3NpcEZteWpDYk9qVS0tYWo0TTJ6Rk5aWDJnS3lVdzBuUUNLSWlneEFuSFJoLWYtd094am1EYXZKZnFyUnh3?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "blockmedia.co.kr",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "골드만 “지역사회 반발에도 AI 데이터센터 성장 지속” - blockmedia.co.kr",
+   "ts": 1791223794,
+   "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFN1BfaHpmQ3lINWZyQU1Tc2VGZmk0T19Ma0V3RkZlelZrMk9oNVo4bnNQN3dQLVNGekxISWVFYmlJdU1zWjVkNU9qOTFWeEx6TGNxQTMxWks?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3738,6 +3768,7 @@
   "425e8e59da1cb2e5": 1790919619,
   "425fbe8a555c56b1": 1790928485,
   "4264baeca53b5d47": 1790917521,
+  "4265a95436f9c9b5": 1791275432,
   "4266f0ccfe162fed": 1789976420,
   "426d52cc02b665ea": 1789663551,
   "4277a85df6b35277": 1790559622,
@@ -5612,6 +5643,7 @@
   "66c01c4e552b0fa3": 1789954905,
   "66cde135ab54f5a4": 1790737975,
   "66ce5664e4edb536": 1789803330,
+  "66dc5900f98fb850": 1791275432,
   "66ddfbf4a49e826b": 1790142019,
   "66e7deeefa4f5236": 1790315120,
   "66ed6cf92e560aad": 1790040620,
@@ -8928,6 +8960,7 @@
   "aa7e32fce2acf2ac": 1790645732,
   "aa80424852d002c3": 1790587832,
   "aa839a3c0b45a36e": 1790665521,
+  "aa8b32bb8d3056b9": 1791275432,
   "aa928a6c35f2a9ae": 1789629088,
   "aa9db6ce04662113": 1790065913,
   "aab469237376bb01": 1791155120,
@@ -8944,6 +8977,7 @@
   "aad82cfdc9a43226": 1790844615,
   "aaec9a7a8757740e": 1790815518,
   "aaf0709fe976619a": 1790175921,
+  "aaf3aba3a7339310": 1791275432,
   "aaf4f056820e118f": 1790670021,
   "ab01a24932f063ed": 1790111621,
   "ab0300ffae77f5d8": 1790823919,
@@ -12888,6 +12922,7 @@
   "faac4a3a5fdc20ab": 1789699582,
   "fab03c41a6f09016": 1790142615,
   "fab178fbbba2e096": 1789629150,
+  "fab1abfcb7d6dd3d": 1791275432,
   "fab32a4a013718cd": 1790508916,
   "fab35ecb9e48ad6c": 1789950858,
   "fac42ceb78cc06d4": 1790648734,
@@ -13181,7 +13216,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791274831,
- "last_msg_poll": 1791275366,
+ "last_msg_poll": 1791275679,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13222,7 +13257,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 17:29 KST",
+  "last_run": "2026-10-06 17:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
