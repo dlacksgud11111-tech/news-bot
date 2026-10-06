@@ -314,7 +314,28 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 1,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "Daum",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "구글, 美 최대 원전기업과 전력공급 계약…\"데이터센터 대응\" - Daum",
+   "ts": 1791323158,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LLUdtYlpmQ0V1VTRGM05vcGMxUC1HQXJaV1BnV29MMjBCd3NEaGtLUmJObWdDU0ZqTFBuS2NFd2piVnB1Q19sSWlNM3ozVm8?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "한국공공정책신문",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "MIT 선정 2026 기후테크 10곳, AI·데이터센터가 에너지·물 자원 지형을 바꾼다 - 한국공공정책신문",
+   "ts": 1791303002,
+   "u": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1PYXpSMjhIWEtIOWpseUtGWldnM3JWX25SUGU0MU5UWmJBYU0yMzY4R3VkMzg4TDFBazNHTEh5TXhqUEk?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -5771,6 +5792,7 @@
   "68849b7d1663cd13": 1789976420,
   "688717eb2ed667b4": 1790559622,
   "688edb3c2d704462": 1790053220,
+  "689a12d0bdc34005": 1791324919,
   "689a30d3ced80d55": 1790039473,
   "689c2a61f56d6874": 1790742018,
   "689f5202a252e485": 1791255918,
@@ -10535,6 +10557,7 @@
   "c76dde4feb2072d4": 1789852801,
   "c76e33df6deb60e2": 1790912423,
   "c77659eb103fc531": 1790932820,
+  "c7794db93f9827a4": 1791324919,
   "c77cbf9049b86e29": 1790301997,
   "c785c4d9094ad010": 1790845517,
   "c787943fedebcefb": 1790918119,
@@ -13377,7 +13400,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791324017,
- "last_msg_poll": 1791324867,
+ "last_msg_poll": 1791325165,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13413,7 +13436,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 07:14 KST",
+  "last_run": "2026-10-07 07:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
