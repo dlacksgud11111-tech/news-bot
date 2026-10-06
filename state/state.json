@@ -334,6 +334,26 @@
    "t": "MIT 선정 2026 기후테크 10곳, AI·데이터센터가 에너지·물 자원 지형을 바꾼다 - 한국공공정책신문",
    "ts": 1791303002,
    "u": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1PYXpSMjhIWEtIOWpseUtGWldnM3JWX25SUGU0MU5UWmJBYU0yMzY4R3VkMzg4TDFBazNHTEh5TXhqUEk?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "에너지안전신문",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터는 2년, 원전은 10년…구글이 찾은 ‘890MW 지름길’ - 에너지안전신문",
+   "ts": 1791326280,
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQaE9obWFhMGxtNTFFWVpDSTFmVUdUc25IV05SLVBwWkF0Z0dTYkJUT0pJYkVYWE5HT0VudGNWdG84elRPUV9ad0NrMVdGUUFsNi1MRWR3NVl4S194cG53eHZJTkc?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "비즈니스플러스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "[AI 냉각 전쟁/①]가전, 통신, 정유사까지…AI 데이터센터가 연 냉각 시장 - 비즈니스플러스",
+   "ts": 1791322200,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2U09lWjJ6bnhjZXNkSzQtclJNaHdCRGdfMGh2NDdZeFJKTzQzREhHUUo3ZEhxdEc2MW9aS04zaVNKdkpmRGdTOEZNSzFEVk5NV1VsMmRVMDE1ckMxNWwzbXhDSXpzZlEydFpLbnFn?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2021,6 +2041,7 @@
   "2116a3f05b5712d5": 1789731618,
   "211b9f92b8cc8c8a": 1789627496,
   "211fb2817f777687": 1789627496,
+  "212234c0c43cc435": 1791326723,
   "2126bc04ed1e4c88": 1790134817,
   "2127f4394bc80815": 1790912423,
   "2128f6a4ef23d838": 1790559622,
@@ -4079,6 +4100,7 @@
   "471f29a7cbd90930": 1790577419,
   "4724492b077a0175": 1790816717,
   "472698ff8bfa7532": 1789738532,
+  "47280e2ce8efe402": 1791326723,
   "47283e295af434ec": 1790907917,
   "47300b323923ec03": 1790820617,
   "47396852a6db233a": 1790820921,
@@ -13402,7 +13424,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791324017,
- "last_msg_poll": 1791326668,
+ "last_msg_poll": 1791326970,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13438,7 +13460,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 07:44 KST",
+  "last_run": "2026-10-07 07:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
