@@ -379,6 +379,26 @@
    "t": "AWS plans 36-building data center campus in Indiana County, Pennsylvania",
    "ts": 1791302657,
    "u": "https://www.datacenterdynamics.com/en/news/aws-plans-36-building-data-center-campus-in-indiana-county-pennsylvania/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "POWER Magazine",
+   "sc": 3,
+   "sec": "데이터센터·AI전력",
+   "t": "Fit Energy Will Use Gas-Powered Fuel Cells For Pennsylvania Data Center Project",
+   "ts": 1791304945,
+   "u": "https://www.powermag.com/fit-energy-will-use-gas-powered-fuel-cells-for-pennsylvania-data-center-project/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "건설·플랜트",
+   "t": "DCD Studio: Permitting and pre-construction for Edge sites, with Gonzalo de la Pedraja, Quetta Data Centers",
+   "ts": 1791304811,
+   "u": "https://www.datacenterdynamics.com/en/videos/dcd-studio-permitting-and-pre-construction-for-edge-sites-with-gonzalo-de-la-pedraja-quetta-data-centers/"
   }
  ],
  "clip_titles": [],
@@ -4975,6 +4995,7 @@
   "5837e8b87a458d3a": 1790041833,
   "583a6bac7e25dd31": 1791250020,
   "583ecfb5244eb52d": 1789948516,
+  "58457da58562a6d6": 1791305120,
   "584814f603d14d5b": 1790003117,
   "58485657927c67dd": 1791278717,
   "58493811a53fa475": 1790575098,
@@ -6799,6 +6820,7 @@
   "7c77e8c4ce07e34a": 1790125822,
   "7c7c44e75c3e3b28": 1789954905,
   "7c7c56553434fc78": 1790663718,
+  "7c8ae136006e4325": 1791305121,
   "7c94121d8f4a85d3": 1790570118,
   "7c948fdf846e2ad4": 1790380987,
   "7c9999f0a8ce4af6": 1790646328,
@@ -13396,7 +13418,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791297187,
- "last_msg_poll": 1791305063,
+ "last_msg_poll": 1791305370,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13434,7 +13456,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 01:44 KST",
+  "last_run": "2026-10-07 01:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
