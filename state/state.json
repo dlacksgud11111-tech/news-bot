@@ -404,6 +404,16 @@
    "t": "'영업비밀'이라던 구글 데이터센터 수치 드러났다…물 사용량까지 노출 - 디지털투데이",
    "ts": 1791246041,
    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJNFRUMGtDZGJrMFNMS0t5azlMdDF3c1ptbHE0TC1qcXpEalcwek1CcEQybHE2UnUzTEVULTgwLVhqYmZrLVR6OU04NnVaVkZ4S0JUQ095SXN0NDlDY0taUWN6aG4tNUdlNXliS1ZXMTlvOFE?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "마켓잉크",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, 북미 AI데이터센터 5GW 냉각설비 장기공급…업계 \"3조원 안팎\" - 마켓잉크",
+   "ts": 1791246798,
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvMmRoRGMtMHVHSnhENDRFREg5VXp2UzR5SDFraUYzTUhvblNsTjBvUlltSlBLV2pNUXhQb09EWVRMUlFubGhyYnJOTTRaTDBNU0dMNnZqSkhRek51TzllaHRJTnFjRlFDZVBaMEdZaw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2774,6 +2784,7 @@
   "306c96f3ca046302": 1790062459,
   "306d9c97bc6804af": 1790912423,
   "307332ca86af7ac0": 1789868332,
+  "30747242faeb80be": 1791255018,
   "307e0dd5c8b0aa08": 1790042975,
   "30801c6c2509e96b": 1790811314,
   "308212bb11ed5c1f": 1789978220,
@@ -9017,6 +9028,7 @@
   "b0b9a69ffb6ebf83": 1789983621,
   "b0badc8f7fe053e9": 1790935817,
   "b0bffe89c3d53c0a": 1791004215,
+  "b0c0de40ebe282d9": 1791255018,
   "b0ce8d469b20ac37": 1790122002,
   "b0d5c4f8c6b323e0": 1789634416,
   "b0e838b6ccc45c1f": 1789647027,
@@ -11206,6 +11218,7 @@
   "dfc8c0abfbc119a1": 1790730658,
   "dfcdefd4ad4c0a95": 1790037737,
   "dfd2402eec03c595": 1791179428,
+  "dfd75c03ab13a68b": 1791255018,
   "dfdefce2ca46e29a": 1790088308,
   "dfe0801eb865912a": 1790106018,
   "dfe107d9932112a2": 1790661915,
@@ -11323,6 +11336,7 @@
   "e1e8b1716dec1440": 1790629525,
   "e1ee61b960dbfe0c": 1791147799,
   "e1fa0e1e438847b2": 1790833487,
+  "e201a0b31d6b421c": 1791255018,
   "e2124e0bc09d0647": 1789745154,
   "e219c43b80528d63": 1789627496,
   "e21c2a90824b1bde": 1789715716,
@@ -12798,7 +12812,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791252320,
- "last_msg_poll": 1791254961,
+ "last_msg_poll": 1791255265,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12843,7 +12857,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 11:49 KST",
+  "last_run": "2026-10-06 11:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
