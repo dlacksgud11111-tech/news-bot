@@ -539,6 +539,36 @@
    "t": "“AI 데이터센터 확산에 AI 전력 인프라 ETF 뜬다” KB자산운용 ‘RISE 미국AI전력인프라액티브’ 주목 - 오늘경제",
    "ts": 1791264121,
    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPY3NZQVF1dE9WSmpqLTdLd3V5TmZRVGszZmhtSGJXRjVLSTV4VF9zQU9kSzNXbnpaT1JtaHJpaXpvZ2ZBN3hYRlNWUmJfSU8yZDVHcDZfWGFWSzkwV21GbDlrNmFlcFhRSW9uOTlqbWROM28?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "에너지신문 - 전체기사",
+   "sc": 5,
+   "sec": "전력기기",
+   "t": "건설생활환경시험연구원, 차세대 그리드·전력반도체 생태계 구축 협력",
+   "ts": 1791297362,
+   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228781"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "경남신문",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "LG전자, 美 AI 데이터센터에 5GW 냉각 솔루션 공급한다 - 경남신문",
+   "ts": 1791265034,
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwTW5IWTJFNWNrZjZ5aFBkQmI1WXQwbDRsZGhjeWZsR0ZCVTZ5cG5EYTNERWR6eFpheHBKbDExV1dWeG9hcXk1bWNJRUNZaE1zMWNMX05tdHdadw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "imaeil.com",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "노키아 CEO \"공급 제약 없으면 데이터센터 2배 빠르게 짓는다\" - imaeil.com",
+   "ts": 1791264702,
+   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43eDlRX2VDQzAzUzlvY1dJY0tDU1lFSEM1dXNKdjlkVTlhd2tpbk9vLUo5MnBKbUZZdXE4NEZFS1ZSVndzLVBpV3dUNEZxQXZjVmV1QVFXMm5uZkExYXYwc1Zn?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1695,6 +1725,7 @@
   "17d35434f4b247de": 1791247733,
   "17d4fb9f29c20279": 1790038892,
   "17e29a7d0a91a22f": 1790054430,
+  "17e81b5cedf172fc": 1791265522,
   "17e9b2d764f03246": 1790576273,
   "17ea2019185c4ad5": 1789627496,
   "17f2bbf6e769c833": 1790257223,
@@ -2719,6 +2750,7 @@
   "2b741413ebafd1e1": 1790579195,
   "2b81f5e541064da0": 1790127320,
   "2b9b4829423e97b1": 1789738816,
+  "2ba68c63823f0c29": 1791265522,
   "2ba8622213e8c246": 1789647914,
   "2bb0fa595a1eda69": 1791252320,
   "2bb1d0c3a777927f": 1790406317,
@@ -9655,6 +9687,7 @@
   "b76d44d4f2227992": 1790802441,
   "b770762cbe687a62": 1789627496,
   "b771629172d6d7bb": 1790785431,
+  "b77456b7b609219b": 1791265522,
   "b77b2e8cc81a9a1f": 1790640533,
   "b77d8262e9a2c30d": 1789656318,
   "b77e9239582a14fc": 1790816717,
@@ -12974,6 +13007,7 @@
   "fc84280fcd1051d6": 1790384441,
   "fc875109ac2280c9": 1789798257,
   "fc93521f510d2d93": 1790130924,
+  "fc99fc388147ba6d": 1791265522,
   "fc9c203e616d298e": 1789627496,
   "fc9ccf1ddb8464c5": 1791148356,
   "fc9eaf79f98115b0": 1790123140,
@@ -13159,7 +13193,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791259818,
- "last_msg_poll": 1791265470,
+ "last_msg_poll": 1791265767,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13200,7 +13234,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 14:44 KST",
+  "last_run": "2026-10-06 14:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
