@@ -414,6 +414,26 @@
    "t": "LG전자, 북미 AI데이터센터 5GW 냉각설비 장기공급…업계 \"3조원 안팎\" - 마켓잉크",
    "ts": 1791246798,
    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvMmRoRGMtMHVHSnhENDRFREg5VXp2UzR5SDFraUYzTUhvblNsTjBvUlltSlBLV2pNUXhQb09EWVRMUlFubGhyYnJOTTRaTDBNU0dMNnZqSkhRek51TzllaHRJTnFjRlFDZVBaMEdZaw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "테크월드",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "마이크로칩, 나비타스와 AI 데이터센터 800V 전력 솔루션 개발 - 테크월드",
+   "ts": 1791247500,
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzUGlsUllKUjNOc0RUQV9CSUJkNl9PMVZxSWxzLVBCSzRkSUNtSkpvaFIyS3JEeTdveVF1eGRKdTBiZ1dIU0I2OFBKYm12dlJydVY5UDRlRzZqcXBLVnROZG1XX0xpSVMx?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "핀포인트뉴스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터 짓고 싶어도 전기가 없다…수도권 '전기길' 60% 포화 - 핀포인트뉴스",
+   "ts": 1791246087,
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kZ1BkM2xsRjAzZ1FkNGRIY1dhWFhlSGg5cFdmaGVaUF8yMUhHd3pYVm9sb2pOemV0Xy1SczdteWRKdTZWdDUyQXhUNGwtTktiQXRXdWVMV2wxbnRQTHhVWFBsbEVlYlpsdVN2MVV1VzJ5cmPSAXdBVV95cUxPRDhQRkZwempVYUpNb25VRmtOM1FBZlRkQlhhaFR3d1hNYWhyN3lwcGt5N1ZPYlIyb3Fvd2ZEeHJleXRIMjAydFdKOWtrOUs4MjV0WWNHMkR6eWE1UXZabVR1ekRNZkt6X1FRVUlyazlHSXFvUmJ6WQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -7647,6 +7667,7 @@
   "93b50ccef66d7d81": 1790991320,
   "93bfeb51fef800bb": 1790823919,
   "93c5899579b14e05": 1790645160,
+  "93ca46ab3d12c09e": 1791255318,
   "93ca8224e0343239": 1790166328,
   "93cd6f9007fa6d3b": 1790570118,
   "93d37fb98b836859": 1789627496,
@@ -11593,6 +11614,7 @@
   "e7529abd89e207b7": 1790473831,
   "e7531ad595537db2": 1790579781,
   "e75cd40080524cd9": 1790640533,
+  "e7753e447b255d05": 1791255318,
   "e7793003ffca0063": 1789627496,
   "e77ab89e19913aca": 1789980020,
   "e78489dfea3a3dfb": 1790583931,
@@ -12074,6 +12096,7 @@
   "f0a85939abddec1f": 1789974322,
   "f0acd87d40da8fa6": 1790044716,
   "f0ae45dc59893544": 1790901316,
+  "f0b2d74371f5fb5d": 1791255318,
   "f0b38574de3002ef": 1790042395,
   "f0b77a66ea60fdaa": 1789629088,
   "f0c42c0ee2951c12": 1790757639,
@@ -12812,7 +12835,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791252320,
- "last_msg_poll": 1791255265,
+ "last_msg_poll": 1791255561,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12857,7 +12880,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 11:54 KST",
+  "last_run": "2026-10-06 11:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
