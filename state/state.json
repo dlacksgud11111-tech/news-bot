@@ -419,6 +419,16 @@
    "t": "KB운용, AI 데이터센터 전력 인프라 ETF…발전·전력망·냉각 기업에 투자 - m-i.kr",
    "ts": 1791260992,
    "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GMUFLcnNsYmhWNlI2TTUtZnh6Y0lEVnE3SEt1aDVuZTlQN3pDZVRrSVNvazVpQTdYWjlRcVNkMU5IMjN6X2laYlJ5NmpJR3BNV3QxTkJYdm5TN0Q2b2tWcC1NVWU?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "전기신문 - 전체기사",
+   "sc": 0,
+   "sec": "건설·플랜트",
+   "t": "건설연 개발 엣지 AI ‘MOVI’, 남양주 불법주정차 최대 99% 줄였다",
+   "ts": 1791294427,
+   "u": "https://www.electimes.com/news/articleView.html?idxno=373107"
   }
  ],
  "clip_titles": [],
@@ -5863,6 +5873,7 @@
   "6cc61b7c3d5fbd98": 1790727810,
   "6cc85047f4493022": 1790053820,
   "6ccce9e8595026d4": 1790067063,
+  "6ccf754ed62021e8": 1791262829,
   "6cd8932f2380f1b9": 1789870063,
   "6ce0bd6cb52ea3cf": 1789978220,
   "6ce615422e3db864": 1789956616,
@@ -12948,7 +12959,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791259818,
- "last_msg_poll": 1791262761,
+ "last_msg_poll": 1791263074,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12967,14 +12978,12 @@
   "548ed758c0d7bf16": 1789696070,
   "5b5615bb8c32941e": 1789541523,
   "73179d318a7f3e1e": 1790633049,
-  "767f1a2b22130fb8": 1789448532,
   "76aa2d8a91196097": 1789589359,
   "7b7e2b1311cdf59f": 1789589372,
   "8299e0a15a816eff": 1789589395,
   "8327e8159aaad5c9": 1789561283,
   "925314cca215c74a": 1790028800,
   "950e162698deb55c": 1789578658,
-  "9b80a45f3f40b2f1": 1789448536,
   "a876780de402c109": 1789607668,
   "c06f3a8734070926": 1789449821,
   "c11937e79275d01f": 1789561273,
@@ -12987,13 +12996,12 @@
   "ec4a5872f5bae528": 1789589398,
   "f0060fbfaee55722": 1789561277,
   "f05752777b5cfae3": 1789589376,
-  "f21f81bd3049c8b4": 1789448542,
   "f273bb80dfeb49be": 1789482539,
   "fdbb32c5c6bbe5d8": 1789589383,
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 13:59 KST",
+  "last_run": "2026-10-06 14:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
