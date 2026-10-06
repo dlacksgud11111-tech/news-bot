@@ -359,6 +359,16 @@
    "t": "데이터센터 전력수요 급증 전망에 기후장관 \"과잉된 면 있어\" - 연합뉴스",
    "ts": 1791274255,
    "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53UkxUREYwbC1uYXdJMEtlcGs3ZERSSDB5NHlJaGtYUHVPenZMVHUtRzE5ZUNnYnhMTlMySV95MTJJc1dtaTNONld1TDdZNVlCd2d6OUdSUlZ0LUXSAWBBVV95cUxQcFpxXzE4b2syWExqc3dHcC14aFV6eDFLeUNaXzNEUVg3QzJWdUc3WXRNQk4zTEllSy1XRldXVHFCblFOS1dvSXZvOG83UWVWeHNXTEhtbm1BalVkV0wzRWQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 6,
+   "sec": "원전",
+   "t": "Constellation-Google deal will bring $4.3B investment, 890 MW new nuclear to PJM",
+   "ts": 1791291310,
+   "u": "https://www.utilitydive.com/news/constellation-google-deal-will-bring-890-mw-of-new-nuclear-to-pjm/832223/"
   }
  ],
  "clip_titles": [],
@@ -2105,6 +2115,7 @@
   "220a7c421a7709cd": 1790747118,
   "220f29132597e201": 1790161818,
   "22103348ba1206b7": 1790024635,
+  "2212e05b549910e8": 1791302424,
   "221680cae2090e75": 1789968847,
   "221cff63dabd4f63": 1789866315,
   "22200014d00e4b53": 1790156717,
@@ -11025,6 +11036,7 @@
   "d209a6f1adbbfc57": 1790635214,
   "d20f7599c643ad80": 1790664631,
   "d211289bcd7b3a2e": 1790370688,
+  "d214d30f5edc7f4b": 1791302424,
   "d21b93d435afe9fe": 1789956616,
   "d222662e202375e9": 1790907632,
   "d2250e51ed3c8095": 1789627496,
@@ -13370,7 +13382,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791297187,
- "last_msg_poll": 1791302367,
+ "last_msg_poll": 1791302663,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13408,7 +13420,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 00:59 KST",
+  "last_run": "2026-10-07 01:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
