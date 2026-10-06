@@ -499,6 +499,16 @@
    "t": "황정아 의원, AI 데이터센터 전력 수요 대응 위한 “SMR·원자력·LNG PPA 온사이트 실증 현실화 필요” - 서울뉴스통신",
    "ts": 1791275173,
    "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42eEs4SXFLdUZ1V1U3bWw5b3JnQ1h3ekJDRFJ5MXdvcFR3dC1mcm50U0pOXzNMOWhDOHpQWTlyek5YQTdYLXZiYkxubVowUDFSck5hR0RoYWFhZjJidXg2XzlOM1IxNkUwenZV?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "글로벌이코노믹",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "\"땅 없고 전력 부족하면 지하로\"… 日 미쓰이 후도산, '폐터널'에 데이터센터 짓는다 - 글로벌이코노믹",
+   "ts": 1791318900,
+   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVgzdVNaTDE0WkpiRS1zN0FQTlNNdUxQMDdxN09OWElnZmJUbFFWbWRwd09CaE5sRTNWdm80R3l4T2hnSnh5MUhOdy1VeEExRUs0RzJ5ZmhrbHhTRi1UT1FaM1AzMmFwblQxbDZUbHB6Ukg2cy16Z3hFb2l2dnpjd3Njdk83dWtP?oc=5"
   }
  ],
  "clip_titles": [],
@@ -6939,6 +6949,7 @@
   "7c9ce484532d632e": 1789627496,
   "7ca17f55a3bac3cc": 1790837509,
   "7ca41eaf506f8b34": 1790580923,
+  "7ca7110142dc55ec": 1791319551,
   "7ca7891d2416b147": 1790836356,
   "7ca965c2f67ae703": 1790056218,
   "7ca9a86539e9e9b6": 1790737975,
@@ -13540,7 +13551,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791297187,
- "last_msg_poll": 1791319209,
+ "last_msg_poll": 1791319796,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13577,7 +13588,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 05:40 KST",
+  "last_run": "2026-10-07 05:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
