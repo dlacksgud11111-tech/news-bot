@@ -469,6 +469,16 @@
    "t": "미국 전력 수요, AI 데이터센터 확대로 2026·2027년 사상 최고 전망 - 블루밍비트",
    "ts": 1791313877,
    "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MWEtXUHJfY2NnQlNtNmIzTjIzenRkU2lMY0ozemZUSFA2R21iUGJZNHNWeHpjZHdSWDBzTmZYa2g1NHJWa3ZtT1VJb2ctZlEw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "올포칩",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "전력 변환 2단계에서 1단계로…AI 데이터센터 전력 효율·밀도 높인다 - 올포칩",
+   "ts": 1791314616,
+   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ibUZyYXVkUFlnUWxtX3B6RGZNWHRjVzJ6d1Z6NDR1d0M5VnFfSGZsRW82YVVmbmpiaHdBMlUxUXlNWFZXMm5lMVNLM1VvdmNWNGtrZXZud0xuSktHSUwtbA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -9853,6 +9863,7 @@
   "b7110b458af00a28": 1790556791,
   "b7267289c484563b": 1790557358,
   "b726faebf5fbc07d": 1789627496,
+  "b728c17a8f1ecb99": 1791314927,
   "b73df2b90e05000a": 1790740818,
   "b74acde9e3c18f85": 1789627496,
   "b74f904c26ce736a": 1790898024,
@@ -13503,7 +13514,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791297187,
- "last_msg_poll": 1791314610,
+ "last_msg_poll": 1791315175,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13540,7 +13551,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 04:23 KST",
+  "last_run": "2026-10-07 04:32 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
