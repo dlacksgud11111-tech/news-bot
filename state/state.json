@@ -319,6 +319,46 @@
    "t": "(2026 국감)이철규 의원 “ESS 중앙계약시장 수익보장 과도…정산구조 손질해야”",
    "ts": 1791289934,
    "u": "https://www.electimes.com/news/articleView.html?idxno=373105"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 5,
+   "sec": "재생에너지·ESS",
+   "t": "Australia’s NEM battery storage fleet earns AU$88.91 million in Q3, with five days delivering 15% of revenue",
+   "ts": 1791260921,
+   "u": "https://www.energy-storage.news/australias-nem-battery-storage-fleet-earns-au88-91-million-in-q3-with-five-days-delivering-15-of-revenue/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "Australia’s Origin Energy targets building ‘Southern Hemisphere’s largest battery storage complex’",
+   "ts": 1791260779,
+   "u": "https://www.energy-storage.news/australias-origin-energy-targets-building-southern-hemispheres-largest-battery-storage-complex/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "미디어피아",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "[AIDC⑤ [건축/PMDC] 랙 스케일 시대, 데이터센터도 공장에서 만든다 - 미디어피아",
+   "ts": 1791255524,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FcERkUElZdnZyWWFqM00wQXFqUmQ0UC1lN21IVXJxNGZCNUR3SG5rY2pDcjVCLWg2R1dfQ1FFYU1qQTJJZi1BSzNkd2MwcWJhTTU0bnoteGY5S2NoZTBIMU1iYjRhMy1jU0V1R09B?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "아이뉴스24",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "재생에너지 100GW 시대 연다…전력기기업계, ESS부터 기회 - 아이뉴스24",
+   "ts": 1791237601,
+   "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53NzVhSm16TDRLRTZWQ2dUN0JDZDdHNmFQVnNyVGJFQ3R1ZDRLMXJVYnVFX3lJZUdpRC1MbGRtd080Q2twdUFodFV4VDc?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3480,6 +3520,7 @@
   "3f1ee328975d1d36": 1790903137,
   "3f2295a5fe6913e9": 1791164731,
   "3f2a35ea6ef9ac17": 1790008517,
+  "3f3e1d4067dd93cd": 1791261019,
   "3f4acc07106023ea": 1791176723,
   "3f5126df9f8ef767": 1790042975,
   "3f5327af7440df34": 1790742941,
@@ -6802,6 +6843,7 @@
   "82f9e7eface721da": 1790562019,
   "830105aa281d8e76": 1790742313,
   "8302f182911ebd1e": 1790755519,
+  "830b81f2334bf95b": 1791261019,
   "830dcf4de09303d6": 1790823015,
   "830e675698904445": 1789629088,
   "830e6aa6db3dd322": 1790907917,
@@ -6977,6 +7019,7 @@
   "869dfd179ea7470b": 1790919017,
   "86a1d564d68aad32": 1790560231,
   "86abcbfc807fdaea": 1790038311,
+  "86aeb4564c110b84": 1791261019,
   "86af9d989325692e": 1790578558,
   "86bbba728eaa2b7d": 1789953163,
   "86c64b198dadb07d": 1790814336,
@@ -7552,6 +7595,7 @@
   "92965c5a2118e319": 1789705221,
   "9298af22c3c21b89": 1789629088,
   "929e6d37a09c58d9": 1789893929,
+  "92a18ddb769e458f": 1791261019,
   "92a3b651be9242b7": 1789958121,
   "92a4c31c11ca31c5": 1789693531,
   "92a51bf8f8c5792c": 1790814919,
@@ -8449,6 +8493,7 @@
   "a58c06b817b3544b": 1791165919,
   "a58ed729c1625337": 1789698990,
   "a59788af316f2af5": 1789981516,
+  "a598927ffe55a4f3": 1791261019,
   "a59e7e1d15ca6b16": 1791211830,
   "a5a9f14f914bb67e": 1790641093,
   "a5aacbc42a1bcf55": 1789638052,
@@ -9076,6 +9121,7 @@
   "b2246e768ca6b090": 1790822117,
   "b2250ad5291bce47": 1789637719,
   "b22d1e610527fab0": 1789943682,
+  "b22e2b7056d3dace": 1791261019,
   "b2384f8409ca78fa": 1791202853,
   "b238ed1481ce1c14": 1790838638,
   "b23e9e86c1af413c": 1790904022,
@@ -12803,7 +12849,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791259818,
- "last_msg_poll": 1791260962,
+ "last_msg_poll": 1791261264,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -12848,7 +12894,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 13:29 KST",
+  "last_run": "2026-10-06 13:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
