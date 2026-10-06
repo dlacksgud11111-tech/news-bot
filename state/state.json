@@ -489,6 +489,16 @@
    "t": "What’s driving Europe’s battery boom? Insights from EUPD Research’s Business Climate Survey and Storage Report",
    "ts": 1791276644,
    "u": "https://www.pv-magazine.com/2026/10/06/whats-driving-europes-battery-boom-insights-from-eupd-researchs-business-climate-survey-and-storage-report/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "Thailand tightens solar panel safety standards",
+   "ts": 1791277346,
+   "u": "https://www.pv-magazine.com/2026/10/06/thailand-tightens-solar-panel-safety-standards/"
   }
  ],
  "clip_titles": [],
@@ -7004,6 +7014,7 @@
   "7f6bac662c59fb2b": 1789627496,
   "7f8ac91050605e0f": 1790077528,
   "7f8d3f37279d2f6c": 1789896916,
+  "7f8eff90cfff73a7": 1791277528,
   "7f9183c6194c6b9e": 1791250577,
   "7f9361a513cd5563": 1789627496,
   "7f99124b91005a6a": 1790593819,
@@ -13346,6 +13357,7 @@
   "ff178017429b9d5f": 1791155417,
   "ff17f05a79ba32fe": 1790732122,
   "ff2c2a8170ea2977": 1790734218,
+  "ff2ff8fd484a8fa3": 1791277528,
   "ff315905d4cbd1ea": 1789691349,
   "ff33f33a18f0b0c4": 1791266719,
   "ff36fda73c996eb6": 1789872360,
@@ -13394,7 +13406,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791274831,
- "last_msg_poll": 1791277461,
+ "last_msg_poll": 1791277768,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13435,7 +13447,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 18:04 KST",
+  "last_run": "2026-10-06 18:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
