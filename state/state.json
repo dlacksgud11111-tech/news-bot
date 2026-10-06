@@ -639,6 +639,16 @@
    "t": "LG전자, 북미서 5GW AI 데이터센터 냉각 잭팟… ‘칠러 1조’ 조기 달성 눈앞 - 매일산업뉴스",
    "ts": 1791265481,
    "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1YjRQbWlaUm13YmFjSk1DYlNoLV9CaU0xMnVlbElJMnVJYzhQTjFJblVweFVRb2xBNFlXOG0zcjhBVmlhWWR0dFJBTXAwdG9FZkxYSEUxZ0xrR3dPTmVqWWh1Zw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "한국경제",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "[단독] 고속도로 '노는 땅'에 AI데이터센터 짓는다 - 한국경제",
+   "ts": 1791190166,
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mbnAtY1UwMTNycDRJNjE0ZUJ2OGdEU2lLdlpTZ1pmNWlOMjFFbnkzRWlrNHJSN1JFa3J1T3NNd2QtM0VfWmRVOEZqSjhhQWVUQjc2OFRpSWpFZw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -9211,6 +9221,7 @@
   "acd220e4e5410fc9": 1790657174,
   "acd2f58908ce692a": 1790888719,
   "acd306715ca6e9fe": 1790730658,
+  "acd5281c8c83e233": 1791266432,
   "acd56479a80bbb9d": 1791263115,
   "acd5ca831bd42a7d": 1789627496,
   "acdb096a25711c28": 1789630519,
@@ -9699,6 +9710,7 @@
   "b5d4e8f07026fe3c": 1790905221,
   "b5d88f5ac021554a": 1790498128,
   "b5deaf4ade76db7a": 1790032819,
+  "b5f0512401c42b83": 1791266432,
   "b5f1b5ab7c91998d": 1791263115,
   "b5f425cf7bbbb22c": 1789652720,
   "b5f55be2dec71faf": 1789629088,
@@ -11055,6 +11067,7 @@
   "d28bacd5a44f984e": 1790585722,
   "d29195b8b32d4a9f": 1791103304,
   "d292597db9dc9d8f": 1790645732,
+  "d292c51c9b430be8": 1791266432,
   "d2a6ef13c5771c66": 1789953163,
   "d2a71e09489448cb": 1790061315,
   "d2adfd64f87273cc": 1790064758,
@@ -11324,6 +11337,7 @@
   "d82dd2802ea390ac": 1790766320,
   "d8311b5d610f8fa4": 1789872360,
   "d840e46977d2def7": 1790668519,
+  "d847ed198e39f7ed": 1791266432,
   "d849c27237da0a1b": 1789649116,
   "d84d13244e6d8729": 1789974322,
   "d84f502b49e1a1e4": 1790815518,
@@ -13280,7 +13294,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791259818,
- "last_msg_poll": 1791266364,
+ "last_msg_poll": 1791266680,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13321,7 +13335,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 14:59 KST",
+  "last_run": "2026-10-06 15:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
