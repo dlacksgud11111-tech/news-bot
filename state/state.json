@@ -529,6 +529,16 @@
    "t": "김성환 \"데이터센터 전력수요 과잉 추계…사업 불확실성 반영\" - 뉴스1",
    "ts": 1791278355,
    "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KVGpna3pjZEEzU0Vhd05oMEdka3V2aE52RFdwQTVGcEZKWGxZeHJpZjFVUlVMZ1lVOWxjanJHOHpGM29rUk9rck5mZkYwc0RhMFNCQdIBWkFVX3lxTE1kVzJpa2Q1ZDduTXV3NGVqQ0tkTmpDN2dMU0tDc0h1UnQyRmhaekh1TmJfSElTSVZrTVA0dUNxY3BTNU42Q2JBaDJ4eUZKdk1OOVJmSlhKZGtDZw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "한겨레",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "4개월 새 3배 뛴 데이터센터 전력수요… 김성환 “과잉 추계” - 한겨레",
+   "ts": 1791279660,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QWWZmX2RuX2V6TzB1ZWMyRGQ3T1FINmpzMzNMb0VrTm9GaWI4dkhHY0RzYWx5RG1NSjNJbjdjUGdBRGxobGRtYURkMHdTZnNmT2tCZ2xhNzZXdEM3Tk5NTEZURzN4VkpMM2IySA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -4274,6 +4284,7 @@
   "47df41041139365d": 1790562019,
   "47e1abea4b022a92": 1789866315,
   "47e3a1a33a4daca0": 1790910034,
+  "47f3b7d2131e5870": 1791279921,
   "4808bb2d77ce5080": 1789691718,
   "4811c00c23b4187c": 1790042975,
   "4814e67851d645c2": 1789956049,
@@ -4824,6 +4835,7 @@
   "52ef43665cff51cc": 1790556791,
   "52f3b5b0caa50cae": 1789968847,
   "52f43bcaa821a598": 1790556223,
+  "52f8993776aa3c05": 1791279921,
   "52fb4107448ead0a": 1790154617,
   "52fe0319560a78ec": 1790829319,
   "5302da2d518c034d": 1790045289,
@@ -13452,7 +13464,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791274831,
- "last_msg_poll": 1791279866,
+ "last_msg_poll": 1791280170,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13492,7 +13504,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 18:44 KST",
+  "last_run": "2026-10-06 18:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
