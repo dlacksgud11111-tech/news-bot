@@ -529,6 +529,16 @@
    "t": "AI가 바꾼 전력반도체 지도, 전기차에서 데이터센터로 무게중심 이동 - e4ds news",
    "ts": 1791246228,
    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rZEJkaTM5M2RJZHRjZDVLcTgxNml0T3JlTnVfQmJDUmpmeEVYUjhRTm1hUkY1UVZKT3BZaTN5Vjd0c2N3OF9VbXlOd1drUkFnMWs5cUt3?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "v.daum.net",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터 몰리자 전력·용수 부담…정책 재검토 나선 동남아 - v.daum.net",
+   "ts": 1791166034,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVRDliNHBSUGE3X290VUEwdHZQUU0zd1BSQ3RjMDltOW4xVlZrVDhmTVpwWEhINjQzbDVKM3VJYUtiN1hJWTNLdmNWMmtWU0U?oc=5"
   }
  ],
  "clip_titles": [],
@@ -951,6 +961,7 @@
   "097e963e4c48616c": 1790577419,
   "0982663bea8ea5ca": 1790368995,
   "098b262ff7987721": 1789951430,
+  "098eba3c6b43c270": 1791257116,
   "09918dcf712a321f": 1790142019,
   "0994be3117205f64": 1790572220,
   "099d11dbcc7c039f": 1790733932,
@@ -2071,6 +2082,7 @@
   "2024881a5fd9fecc": 1789851916,
   "202687319c396b42": 1790640533,
   "2028933daf8009a4": 1790661915,
+  "2030d864d37097ab": 1791257116,
   "2034d2c9e99d4d3a": 1790643992,
   "2034f305a1a82228": 1789635918,
   "20397de09bc00f3d": 1790562951,
@@ -12971,7 +12983,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791252320,
- "last_msg_poll": 1791257055,
+ "last_msg_poll": 1791257360,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13016,7 +13028,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 12:24 KST",
+  "last_run": "2026-10-06 12:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
