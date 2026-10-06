@@ -489,6 +489,16 @@
    "t": "기후부 장관, 데이터센터 전력수요 ‘뻥튀기’ 지적에 “과잉 추계된 측면 있다” 시인 - 경향신문",
    "ts": 1791277920,
    "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MaVNPMUEwbXpHV0ZXYUdLMHlCMjNabmljRzRodEV1em5SRzg1eW9DRWVDUmhrU1BXcE9ZVldaYzBfX05sMmRCU1hTbFEwbnBPWWJvVWtoUmt2Z9IBX0FVX3lxTFBiNGZPN2tkMzMtbjhWenljbVhGZXdIdXZub19VY2ZRazJWWGVfY0Zua0lqYlBDcVpkNkdfTFV0aFpHOW9nRXQzSjNMMzlsVEV5aU5KZUFFWUNZZEpfTzk0?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "서울뉴스통신",
+   "sc": 14,
+   "sec": "데이터센터·AI전력",
+   "t": "황정아 의원, AI 데이터센터 전력 수요 대응 위한 “SMR·원자력·LNG PPA 온사이트 실증 현실화 필요” - 서울뉴스통신",
+   "ts": 1791275173,
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42eEs4SXFLdUZ1V1U3bWw5b3JnQ1h3ekJDRFJ5MXdvcFR3dC1mcm50U0pOXzNMOWhDOHpQWTlyek5YQTdYLXZiYkxubVowUDFSck5hR0RoYWFhZjJidXg2XzlOM1IxNkUwenZV?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3766,6 +3776,7 @@
   "3ed642ea05ad0c1e": 1789627496,
   "3ed7069c20bdb6c1": 1789627496,
   "3ed8b9f1d584e146": 1790040917,
+  "3ed943e005f5d61f": 1791318967,
   "3edc69c9a7e52624": 1789954905,
   "3ede36dacd66dfdf": 1789629088,
   "3edebee3f80b848b": 1790650773,
@@ -13529,7 +13540,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791297187,
- "last_msg_poll": 1791318605,
+ "last_msg_poll": 1791319209,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13566,7 +13577,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 05:30 KST",
+  "last_run": "2026-10-07 05:40 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
