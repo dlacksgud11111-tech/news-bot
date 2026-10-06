@@ -308,7 +308,7 @@
   "f1b9bc6a34eac3f9": 1790921418,
   "fe7b17c162f91919": 1790498127
  },
- "alerted_today": 1,
+ "alerted_today": 0,
  "clip_buffer": [
   {
    "co": "",
@@ -329,6 +329,16 @@
    "t": "중대형 변압기 수출 55% 급증⋯美 전력망 수요에 K전력기기 출하 확대 - 아이뉴스24",
    "ts": 1791266902,
    "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qRE1VcWx2QzRNUDl4eUpQTkVBbV9YMERUWS02b2paekJuVUNOaU96WEh6NDlzdUtNTG93TFliNWc1R3BSeHVzajhJUQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "edaily.co.kr",
+   "sc": 6,
+   "sec": "원전",
+   "t": "AI 전력난에 기존 원전 영끌…구글, 전력 3.6GW 확보 - edaily.co.kr",
+   "ts": 1791298455,
+   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcjJGallqcFotSzdjLWthVm0zSnpQTmQxRE5WNF9NaGV0bi1VR1VkUVVsaUZZOEU3UHA1cUZMSEszd0pyakdfUUR2ek13YTA3eHRsaHFuVktHaGUzc3JxRGdCQ0RmRTY2cDBfdkl0ZE52VUI0cnlkU1ZBUDV2MXZwNg?oc=5"
   }
  ],
  "clip_titles": [],
@@ -843,6 +853,7 @@
   "0aec1983a7dcee06": 1789715428,
   "0afa2a625ca2f47f": 1790163629,
   "0aff620cea0a678e": 1790699001,
+  "0b01954fbd956186": 1791298921,
   "0b0f2bb392a6c38e": 1789948225,
   "0b11781cedf890df": 1790818527,
   "0b134cdb3e517d99": 1790519116,
@@ -11408,6 +11419,7 @@
   "da47704ceaf8efa7": 1790122002,
   "da521bd8a3bf82d1": 1790733017,
   "da521cc5e80a71fa": 1790955660,
+  "da523a45a0a2fb77": 1791298921,
   "da5471bb646c1ce4": 1790845517,
   "da58bf947a9d5083": 1789688119,
   "da5cfa6c5a08ab7a": 1790060726,
@@ -13329,9 +13341,9 @@
   "ffffd1601452ed3f": 1791160587
  },
  "companies_today": {},
- "day": "2026-10-06",
+ "day": "2026-10-07",
  "last_clip": 1791297187,
- "last_msg_poll": 1791298578,
+ "last_msg_poll": 1791299170,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13369,7 +13381,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 23:56 KST",
+  "last_run": "2026-10-07 00:06 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
