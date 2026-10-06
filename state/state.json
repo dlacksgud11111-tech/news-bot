@@ -459,6 +459,16 @@
    "t": "LG전자, 북미 AI데이터센터 냉각시장 공략…5GW 규모 장기 공급계약 체결 - 대한경제",
    "ts": 1791207107,
    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxZVlSbWxDV2l2YW5qM1pTTXlRdXBuUU9INWlRYjA5T0EzTFZfeE1sNDRVMF9QRlB5XzVmXzRYMnZwTjBOYzY5azVZb0pmTEVKcU1hSzNOTVhsMWw1MFhZei13QU1OSGthOVZrUkFqeEZDaEk?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "블루밍비트",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "미국 전력 수요, AI 데이터센터 확대로 2026·2027년 사상 최고 전망 - 블루밍비트",
+   "ts": 1791313877,
+   "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MWEtXUHJfY2NnQlNtNmIzTjIzenRkU2lMY0ozemZUSFA2R21iUGJZNHNWeHpjZHdSWDBzTmZYa2g1NHJWa3ZtT1VJb2ctZlEw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3466,6 +3476,7 @@
   "3a2891de92118c02": 1789956049,
   "3a2a0dd3817795d4": 1790321776,
   "3a2bddc429ed874a": 1790118587,
+  "3a2ebf0eb57e7617": 1791314369,
   "3a30ce4276236d0b": 1790742018,
   "3a3d6e1e6b950597": 1790832921,
   "3a3f20d7bc4db486": 1790748320,
@@ -13492,7 +13503,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791297187,
- "last_msg_poll": 1791314050,
+ "last_msg_poll": 1791314610,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13529,7 +13540,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 04:14 KST",
+  "last_run": "2026-10-07 04:23 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
