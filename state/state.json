@@ -319,6 +319,16 @@
    "t": "Mixed stock market listing fortunes for energy storage technology firms ESS Inc, ZincFive and InoBat",
    "ts": 1791282802,
    "u": "https://www.energy-storage.news/mixed-stock-market-listing-fortunes-for-energy-storage-technology-firms-ess-inc-zincfive-and-inobat/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "글로벌뉴스통신GNA",
+   "sc": 4,
+   "sec": "데이터센터·AI전력",
+   "t": "정혜경 “ 데이터센터 효율 기준 · 재생에너지 요건 등 마련 요구 ” - 글로벌뉴스통신GNA",
+   "ts": 1791282713,
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXRDJLN3FxN1V1ZVJIZ3BiOVpEWF9rSmVnYUxnSGJwX0l2dlMyVUVKaGFQWTVxOURUS1hGVnBEbE12ZHJRZkpyX3dBa2ZvekRvX2hybDV4dlZQUGM1QnI3RGlKMUhJSWY3aVkwZVU1QmhyY2o2?oc=5"
   }
  ],
  "clip_titles": [],
@@ -4278,6 +4288,7 @@
   "4c3d10699d27a39e": 1790724317,
   "4c3efaa51007128a": 1790831115,
   "4c412228e134f284": 1790768419,
+  "4c41f0aec49c3d92": 1791283530,
   "4c42ac158a72ca5e": 1791009315,
   "4c456f9ef5522bf7": 1790564716,
   "4c472190eea0f4d6": 1790845517,
@@ -13272,7 +13283,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791282036,
- "last_msg_poll": 1791283455,
+ "last_msg_poll": 1791283777,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13312,7 +13323,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 19:44 KST",
+  "last_run": "2026-10-06 19:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
