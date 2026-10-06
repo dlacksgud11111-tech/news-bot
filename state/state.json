@@ -389,6 +389,16 @@
    "t": "Valo’s Steve Merrick on why accurate state of charge estimation remains energy storage’s ‘unsolved problem’",
    "ts": 1791285288,
    "u": "https://www.energy-storage.news/valos-steve-merrick-on-why-accurate-state-of-charge-estimation-remains-energy-storages-unsolved-problem/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "Antora Energy announces 5.8GWh ‘multi-day’ thermal energy storage project in Kansas, US",
+   "ts": 1791285759,
+   "u": "https://www.energy-storage.news/antora-energy-announces-5-8gwh-multi-day-thermal-energy-storage-project-in-kansas-us/"
   }
  ],
  "clip_titles": [],
@@ -2014,6 +2024,7 @@
   "206b8404816cd02a": 1790925615,
   "206e4c01a22d423c": 1789627496,
   "20760a297f23166a": 1791277821,
+  "2079642842a610a2": 1791285925,
   "207a8bfdb9a7988f": 1789738816,
   "207b63ee9f69518c": 1790400920,
   "207f6ca782f0d3b4": 1790754616,
@@ -13354,7 +13365,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791282036,
- "last_msg_poll": 1791285880,
+ "last_msg_poll": 1791286170,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13394,7 +13405,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 20:24 KST",
+  "last_run": "2026-10-06 20:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
