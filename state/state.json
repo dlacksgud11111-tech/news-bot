@@ -319,6 +319,16 @@
    "t": "[美특징주]콘스텔레이션 에너지, 구글과 20년 원전 전력 공급 계약에 개장 전↑ - edaily.co.kr",
    "ts": 1791289501,
    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV3drY204LTJQSGgtZmhaNFBSS3lLMGlPaTlDQ1p1ajF0ZEV2bVVoU3VwNmp0eDNzZ3dnRnVzelAwT1VLVVI4UThEdm9BNzZ4M3ZIOFBrVjVlWEp2WTdRNURCeU05cHFNMmNGOE9vdXZWdGlZczdvaU5CakZ1VkI5Tw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 3,
+   "sec": "건설·플랜트",
+   "t": "German startup offers AI platform to accelerate battery storage engineering",
+   "ts": 1791290275,
+   "u": "https://www.pv-magazine.com/2026/10/06/german-startup-offers-ai-platform-to-accelerate-battery-storage-engineering/"
   }
  ],
  "clip_titles": [],
@@ -7730,6 +7740,7 @@
   "90a652356173bdc3": 1790142019,
   "90a7a18a97226c1f": 1790668817,
   "90aa32951667fb78": 1790199690,
+  "90b25af1c0b38fe7": 1791290430,
   "90bb9ccc29dc8a00": 1789945362,
   "90c2b72335984006": 1789695321,
   "90c58901417e0140": 1789627496,
@@ -13297,7 +13308,7 @@
  "companies_today": {},
  "day": "2026-10-06",
  "last_clip": 1791289519,
- "last_msg_poll": 1791290379,
+ "last_msg_poll": 1791290675,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13337,7 +13348,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-06 21:39 KST",
+  "last_run": "2026-10-06 21:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
