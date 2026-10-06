@@ -369,6 +369,16 @@
    "t": "Constellation-Google deal will bring $4.3B investment, 890 MW new nuclear to PJM",
    "ts": 1791291310,
    "u": "https://www.utilitydive.com/news/constellation-google-deal-will-bring-890-mw-of-new-nuclear-to-pjm/832223/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 1,
+   "sec": "데이터센터·AI전력",
+   "t": "AWS plans 36-building data center campus in Indiana County, Pennsylvania",
+   "ts": 1791302657,
+   "u": "https://www.datacenterdynamics.com/en/news/aws-plans-36-building-data-center-campus-in-indiana-county-pennsylvania/"
   }
  ],
  "clip_titles": [],
@@ -4985,6 +4995,7 @@
   "58a1f7963a48e0b3": 1790147846,
   "58a83c0fc1d1b175": 1790586316,
   "58aa7686b1900ffc": 1790660118,
+  "58ac868b983aa428": 1791303028,
   "58af1113a4586435": 1790575673,
   "58b0f631bf576d8a": 1791268521,
   "58b32eac40d398c5": 1790025209,
@@ -5609,6 +5620,7 @@
   "6463fab5078cdd4a": 1790651338,
   "6467db6a2315e13e": 1791251134,
   "6470cc9b6266e42b": 1790737408,
+  "64771e528e5c711b": 1791303028,
   "64782ff9dfa0de53": 1790834627,
   "647d0a779504507f": 1790561723,
   "6482b487850dce7d": 1789719936,
@@ -13383,7 +13395,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791297187,
- "last_msg_poll": 1791302967,
+ "last_msg_poll": 1791303269,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13421,7 +13433,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 01:09 KST",
+  "last_run": "2026-10-07 01:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
