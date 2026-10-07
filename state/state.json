@@ -324,398 +324,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 3,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "조달청 최소한 태양광 ‘직생위반 제재’...국감 앞둔 중기부, 입장 바꿀까",
-   "ts": 1791363600,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373109"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "더구루",
-   "sc": 18,
-   "sec": "전력기기",
-   "t": "美 텍사스 전력망에 첫 SMR 연결 신청…데이터센터 전력 수요 겨냥 - 더구루",
-   "ts": 1791331875,
-   "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrR01fU29kTjJVRkVlNnl2LVR0a3hNMy12eUllZDJBWDhsZ2ktQWtLYVh6UWY4Y1dobFd5WHJjaktvMEJpdzhpVHJTX2kyVmNKS05vdFg5UjVpT0lMX3c?oc=5"
-  },
-  {
-   "co": "",
-   "n": 3,
-   "s": "내외통신",
-   "sc": 10,
-   "sec": "데이터센터·AI전력",
-   "t": "최기상 의원, “주거지·학교 인근 데이터센터 전력계통영향평가 회피 문제 살펴야” - 내외통신",
-   "ts": 1791332463,
-   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rZDNESFpaYlJ0XzJtT3JicnhHQnRsX0VldmRZY0daV29CeE1jVTdvNjZkRkpwdjhGUjhtZy1IN2JQZW1ZZ2gzVFR2NE54N3JlNUJYdDBQQ0dtSlN0eWVlUEhuNlhIYXhYS2RJ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "현대엔지니어링, 8천700억원 규모 인천 데이터센터 공사 수주",
-   "ts": 1791332079,
-   "u": "https://www.yna.co.kr/view/AKR20261007040600003"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "아주경제",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "LS에코에너지, AI데이터센터용 대용량 버스덕트 투자 - 아주경제",
-   "ts": 1791330614,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtTDVMdnhrV2I0cnVtaE1JdFNyNXNFWGNZeFFIQU5OQzRCbzBnTWlMQUVtbjN3QngwQmtpOG9FbERON1Q0WVBTLUlBVlFQbk1hMDRUM1BUOVRYUdIBWEFVX3lxTE9RejdLMEQzMWREZ0hUUUZSaDdhYlZtekxiejVXdEhpYWFmdl94VzNTa2VUS0RZYk5DWktROE5maVNySmNlckpPNWx4M1BjQ05TOV81LWdrUEQ?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 3,
-   "s": "데일리안",
-   "sc": 20,
-   "sec": "전력기기",
-   "t": "LS일렉트릭, 대만 최대 석화그룹과 합작법인…전력기기 넘어 수주사업 확대 - 데일리안",
-   "ts": 1791332580,
-   "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oQzd1YmVVZXlpM0hnMmxpUHFUaV9kR25KSlVzOTdzRDhPWkdDZWp4VzcyMi00dS10UU1JRjU3eFlzWGFYX2xnb2Q5RVg1Q3AyRGJB?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "코리아리포트",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "K-배터리 3사, AI 데이터센터 ‘전력 해결사’ 노린다 - 코리아리포트",
-   "ts": 1791332567,
-   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DcDlsRmdrc0NSSXN2Vjk3c3Q0N2VmRjNDQURCSFhERF8wX3l2cjZzMlRaN1ZHaWZ6Q3BYbkl1MjF3NmZoU3JnQ0MtXzJnYUdwQ2xxSWZBYlZlemhtSlB5a1luQWJfSXlrWG05Nk1iUFk?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Chosunbiz",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "현대엔지니어링, 군산 이어 원창동 데이터센터 수주 - 조선비즈 - Chosunbiz",
-   "ts": 1791333180,
-   "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdUN3Q0NVU1U4LVFPX1dtR2tuMU1UdUtTdFpVellFY0tRSFA4aS1UeHRhRFZaU0hIb0g5bzF6N2lOUG9CNXNRYUlhYVB6UGQ4eGJyamJZTTZkNkloLURidWpyWHhJaTdtamR2WWJCX21zZlItRXNKT0dBZnZKNjlGVXFhNlplUWVXakppc1h6ZDhXeUI0S1d5NdIBrAFBVV95cUxQb2lvVkFxMVEzbGZsWFBzaEt6WnNlV3JyQ0hTX21GQl9VLXVnaldPcnpMQXRmakppSXliZnlmaVVOR1ZOYzVCNE1kb1BhZHNEbWo2UFhnV0hPVFVOOTVsTkRTejhjcGEzTDJvbXJSSm5aanJ3UENqZzB1eGd5VnZDT29wSnI3V1lFVXNwaXc2TEFPQkl0d3g4V3gySmhudkhRWXVTcGFWck1LWW9y?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 8,
-   "sec": "원전",
-   "t": "구글, 美최대 원전기업과 3.6GW 전력공급 계약…AIDC 전력 수요 대응",
-   "ts": 1791332380,
-   "u": "https://www.etnews.com/20261007000037"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "에너지신문 - 전체기사",
-   "sc": 1,
-   "sec": "유틸리티·정책",
-   "t": "가스공사, 정보자산 기반 AX TF 발족…전사 AI 전환 추진",
-   "ts": 1791366301,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228806"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 14,
-   "sec": "전력기기",
-   "t": "한전, 차세대 전압형 HVDC 분석기술 연구성과 국제학술지 게재",
-   "ts": 1791365897,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373151"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "데일리안",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "한화, AI로 데이터센터 전력비 최대 25%↓…美 신기술 선정 - 데일리안",
-   "ts": 1791334020,
-   "u": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPYXhsd3dRdkxjWTBiYnNuQllTYlR5ZDhxbnJsckdoQnhiTEFCNHdwYWh0Y1UtdWxEY3czaEg0VjhDZnZQMm9RRFhET3VGem9yaUt2eHRWajl0VmFLc2luRlA2Y2xfVDVnajFQaGlXVlJBM1BublpNa3A5Tk5uYklFLW8yNzBkZ2NYTUd0YXRNdlpvbW1CMkl6MzFUZHNSLXJwOFNRbDk0VEMtYnlHZ21qQjZyZGJvbFhLTEJPWVhhWEtNajJUV1dHY2k3eEJ3aDVZOF9TWWlxWVdfX3h4S1dSTHVRS0dybTJpOE9uSk9HbjVXQXZWVXF5VEQyNWIweUo1TWc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Investing.com 한국어",
-   "sc": 10,
-   "sec": "데이터센터·AI전력",
-   "t": "알파벳(GOOGL.N) 대규모 원전 전력 계약 추진..AI 데이터센터 전력 확보 경쟁 본격화 By 알파경제 alphabiz - Investing.com 한국어",
-   "ts": 1791333540,
-   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HS2k1bnA0dWtkMTFYZUFLVmFCcW0ya3ZGRHJvaXZiVzByM3FsbEx5MDdHamdrcFRRTXNJQjh6M2sxM0IwUzVLT3hob0J5dkllQ3N6bDNsanZUZEtyMW5QVTNkNl82dTVwXzNiVHNMWjc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "호반건설, 세대별 옵션 자동 반영하는 AI 설계기술 개발",
-   "ts": 1791334144,
-   "u": "https://www.yna.co.kr/view/AKR20261007053600003"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 5,
-   "sec": "원전",
-   "t": "원전 수출 소통채널 가동···美 공급망 진입 지원 강화",
-   "ts": 1791366717,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228808"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "마켓잉크",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "엔비디아, AI 데이터센터 배터리 인증제 도입…BESS 공급사 3곳 선정 - 마켓잉크",
-   "ts": 1791334175,
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZNDRMV2xwczJpa01RRzJfWjJjU04tVTV2TEJ2aWliekNqUjh2UDBxYkJoYlRiUGQwN3JPVmJIZ1EwdjhkQVM5SjJLZWVsd0pnWUw4dnNncVI1ei1iZjh3bjdTN00wMXZoOGtXc2JLaw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "비즈워치",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "'큰손' 빅테크가 직접 주문…\"전력기기 내년에도 고성장\" - 비즈워치",
-   "ts": 1791334863,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wYU9CdjY5bzdZZTc3dW5LSE5TZmIzX0wwUFktblZsMmVrQUpGQXJLZzF5RGx5MTIwbTNvaVd5ZWhWU21wRnlsS0FYbGI0RlgweFpNTnRWVWljd1dQTGdaV1QzMDVpM19xSlE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "개미신문",
-   "sc": 8,
-   "sec": "전력기기",
-   "t": "미국 데이터센터에 1800억원 규모 초고압 변압기 공급 - 개미신문",
-   "ts": 1791334766,
-   "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwZzdGR2puVlp2bnQwSEVsejVHMmRGb1B2UFJ2NV9oVDNoTWx1VjFaRmhsUTJBMUhQSEZyeUtlZmRWOE5aN2NNR1Qxdw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴스락",
-   "sc": 8,
-   "sec": "데이터센터·AI전력",
-   "t": "LS에코에너지, AI 데이터센터 전력 인프라 확대…버스덕트에 80억 투자 - 뉴스락",
-   "ts": 1791332807,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBadHo3RFZwbnNyS0tsS05XYmR1NE1RckRCTU9XWHJ4bG9KT1Y1YjNMYXczZnBJcUxzbDRBT2NOZTFOaXFEYnFGclo3S21MNEs0TUx4OXltOTJDbHppT0UzYzhza3VpQVI2UzRpVg?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "신동아건설, 남양주 진접 공동주택부지 매입…자체사업 확대",
-   "ts": 1791334987,
-   "u": "https://www.yna.co.kr/view/AKR20261007057400003"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투데이",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "현대엔지니어링, 8700억 인천 데이터센터 수주…군산 이어 연속 성과 - 이투데이",
-   "ts": 1791334920,
-   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TRmo4QmFvaU1sSmhVOGs3TFlpRklxQjBBSlREelRMNDY3eFdLcUJCS1lpYUJhSWNnVjVHajZTXy1DV2laaURQMEFUQ0swNldBQlplNjN1c1cxa3M2bHJ3QlFGMFR2WmlRUGlZT0Z4MlhJMHZJ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "세종 국가산단에 100㎿ 데이터센터…1조8천억원 투자 계획",
-   "ts": 1791334659,
-   "u": "https://www.yna.co.kr/view/AKR20261007055400063"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 2,
-   "s": "뉴데일리",
-   "sc": 20,
-   "sec": "전력기기",
-   "t": "전력기기 넘어 수주 사업으로 확대 … LS일렉트릭, 대만 난야플라스틱과 합작회사 설립 - 뉴데일리",
-   "ts": 1791332121,
-   "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82ZjBiV05iM1d5UGZRYUo4RjZTVVp6NHo5N1dwZ1V4YU9xVWtoVVgtTDlXdjBDN08xRDdFZ3BwSEYzek1mS2NKemVVbWZ4ZThUWWl2dGRaLThuTXcxczRBc3QyY0JQODZmWGkzemo4T1dFaFlEazd3dG5qb9IBgAFBVV95cUxPalpQMGx1WDc1NUVWTUNwb18xVFhvcmF3Ti16ZlFHOGE4aUJaNF9LQzMtaFlkNGk1ZURuTG1Icko4b2I5VmpJQURkUks3MWxacEhSOTJRcE1idFZpemk4VjJlLVo0ZzZva0pyeVRtMXRFbFgyR093VG8yUTk5N0tRbA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 1,
-   "sec": "유틸리티·정책",
-   "t": "한난 수원사업소, 중유설비 LNG 전환…주민설명회 개최",
-   "ts": 1791366958,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373152"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "데일리안",
-   "sc": 8,
-   "sec": "데이터센터·AI전력",
-   "t": "LS에코에너지, 베트남에 버스덕트 설비 증설…AI 데이터센터 겨냥 - 데일리안",
-   "ts": 1791333480,
-   "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TdnpZYy1tLWZWQVRta3VFYlZtLXlmM2JPaV9YOERkU0ZaRTJBbWNUWXdvSlg1M3dUazNjbjRMQWE0bW1PMTNjUjI2V01zM3gwY2k4?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "국토장관 \"재개발·재건축 사업 속도 저해요인 적극 해소\"",
-   "ts": 1791336680,
-   "u": "https://www.yna.co.kr/view/AKR20261007064800003"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "임팩트온",
-   "sc": 6,
-   "sec": "원전",
-   "t": "구글, 새 원전 기다리는 대신 기존 원전 개조…AI 전력 890MW 확보 - 임팩트온",
-   "ts": 1791336406,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wbzdUT190WGxFeWtKMnVpNzBRY0dIOE9XSktza3pZa1ozaDVET3hLYjZHRERpX2IyZUtxd2JoOG1EcklXZ2pSdVF5eENtbzY3aUpXTlRFYmlXOWRNb01mb0w4LVFYZWptc3c?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "원전",
-   "t": "원자력연 연구소기업 '서울프로폴리스', 중기부 유망기업 선정",
-   "ts": 1791335981,
-   "u": "https://www.etnews.com/20261007000113"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "뉴스1",
-   "sc": 16,
-   "sec": "전력기기",
-   "t": "LS일렉, 대만 최대 석화그룹과 합작법인 설립…전력기기 사업 수주 확대 - 뉴스1",
-   "ts": 1791329617,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fV0NzLVc4eDBYUERQMGlrSnNFMzlrQnQ3OFlLSUVmRHBhLWVPUy1uczFyc2JtYlFGMHFkblBtUzJBQk1scmJ2NnJlX0k4WXplME5mOVZuenprcU5GV0JlRC0zQ2pfNVhFTnfSAWpBVV95cUxOX1dDcy1XOHgwWFBEUDBpa0pzRTM5a0J0NzhZS0lFZkRwYS1lT1MtbnMxcnNibWJRRjBxZG5QbVMyQUJNbHJidjZyZV9JOFl6ZTBOZjlWbnp6a3FORldCZUQtM0NqXzVYRU53?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 12,
-   "sec": "원전",
-   "t": "HD현대중공업, 해양 SMR 실증센터 구축···12개 기관 협력",
-   "ts": 1791369521,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228813"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Korea IT Times",
-   "sc": 8,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터 전력 수요 잡는다… LS에코에너지, 베트남서 버스덕트 생산 2배 확대 - Korea IT Times",
-   "ts": 1791337479,
-   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HUURfUlk2WlRvc1I5VE00bXM1WDB5cUpTSEpmU0J1T0JXOHE3OFJYU2Y4TVBOdURxMXhQaGFEWTljajB0cGVuZjl5WnFoN29RQmtsT0JuZFBXM1pCNkdxZi1VQUlpQlV4ZXRZdmFaSHU?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "마켓인",
-   "sc": 8,
-   "sec": "원전",
-   "t": "콘스텔레이션 에너지, 구글과 20년 원전 전력 공급 계약에 개장 전↑ - 마켓인",
-   "ts": 1791289501,
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85YUFCMC1IcU5aM2pEemZpMlpySGtuenZLaUctU2FfM0tJb24zV2JBc0huSDB0dlhEYkdSVGZ2dmxLcmJ2d2h3NUJPekxLRzZ6cmQwOEFrVkVNRHhUeGc0eVk3cE9yTTQ3ZFZKeVJJMEpTQU0?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "한스경제",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "AI데이터센터 연료전지 확대…韓기업 실익 있나 - 한스경제",
-   "ts": 1791337685,
-   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xN2JuSS03QVFaWVRaenNsSzlNUURZeExhLVYyREtwQlMzSF85XzFheUZydl9BOVo2Z3M4emQ0Y2Q5SDNGZWlqNmlsT01DQTJ6eTFhNE1UV1B5bHE2NVpGZGNlRVg3aUw3ZWtv0gFvQVVfeXFMT2xOUFFBeW8zeXZCbFV1cG1JaUVLTE5Vb0N6alpEYWVPZG9nOHZTS3FQRUtZeFc0WUp1UUdBblR5SjR1ajN1QlN0M296NXRUX1FJNWxlaGwxenNZcVV0cTgyMFJzbXJMcXpRSi1vNXc4?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "SBS Biz",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "[오늘장 탑픽] AI 데이터센터發 냉각솔루션株 뜬다…LG전자·GST 주목 - SBS Biz",
-   "ts": 1791327540,
-   "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VMHdRc2ZOdzQ4QlllQ0pxeEJrV3gyVXdyQXZRM3RXQk1WWEk0QzN5dTFwZmtKZ0JtRHVkMk9FUFJ0U2k3NkxKQ1h6S2Y4b3h6ZUhZ0gFYQVVfeXFMTnR2c2JOY05qa0p1VVNDdzhlNzNlS1ZORnd6aTlCRHU1b29nNzFuWGJ3SkRxMmV6UC1ocGw1ZkZLeWt0MEFuR0lTY2laZlgyMTY5MnNxSFY3Mg?oc=5"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "파이낸셜뉴스",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "모건스탠리, AI 성장에 필요한 전력·데이터센터 공급 사태 불가피 - 파이낸셜뉴스",
-   "ts": 1791338174,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yYzdGVlNKSFNjSUxZX0hENVB1UGZyVVNMT0RJYS1GRmgtamdDQ2h0aHp4aV9tWS1LVXFEcE1LT2p4VGhsQUJKaWZJNWFxYUNEaWJxclpqVXBsdw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 5,
-   "sec": "재생에너지·ESS",
-   "t": "김재홍 회장,  한국 수소산업 현황 및 한·미 협력방안 제시",
-   "ts": 1791370010,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303905"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 12,
-   "sec": "원전",
-   "t": "HD현대重 등 12개 기관, ‘SMR 해양 기술 실증센터’ 출범",
-   "ts": 1791369800,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303906"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 2,
-   "sec": "유틸리티·정책",
-   "t": "지역난방公, 수원 지역 친환경에너지 개선 설명회 열어",
-   "ts": 1791368382,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303903"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "건설현장 불법하도급 연말까지 집중단속…공공현장 275곳 점검",
-   "ts": 1791338405,
-   "u": "https://www.yna.co.kr/view/AKR20261007029600003"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -8567,6 +8176,7 @@
   "94374465cc9c4141": 1790129120,
   "94402234160cad21": 1790696737,
   "9447d8e20cef3461": 1791060941,
+  "945545ae2b1a429c": 1791339021,
   "945c8dd635491681": 1790557916,
   "94640676ed68f313": 1790005215,
   "946743cacbc2ba6a": 1790142019,
@@ -8742,6 +8352,7 @@
   "97cccdc9662a0c52": 1790204965,
   "97cd73ec51508bf1": 1789712512,
   "97e90d861f895f78": 1790838638,
+  "97e94026a93c9261": 1791339021,
   "97ec3c0670fe4953": 1789720517,
   "97f0c8e57378ee65": 1790125213,
   "97f2645d5c73de76": 1791333350,
@@ -10067,6 +9678,7 @@
   "b0fde5040a541497": 1790064758,
   "b100dda730ee7965": 1791331618,
   "b104e12bf3412be8": 1790897721,
+  "b105d982aa9d632a": 1791339021,
   "b107576c89592818": 1790732122,
   "b1089320459c30c1": 1789782685,
   "b10b7cfc4be3dbeb": 1790840120,
@@ -14178,8 +13790,8 @@
  },
  "companies_today": {},
  "day": "2026-10-07",
- "last_clip": 1791331618,
- "last_msg_poll": 1791338977,
+ "last_clip": 1791339021,
+ "last_msg_poll": 1791339268,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14214,7 +13826,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 11:09 KST",
+  "last_run": "2026-10-07 11:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
