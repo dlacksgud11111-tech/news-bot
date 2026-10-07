@@ -1,7 +1,7 @@
 {
  "alert_cooldown": {
   "HD현대일렉트릭|수주·계약": 1790662216,
-  "LS일렉트릭|수주·계약": 1791373216,
+  "LS일렉트릭|수주·계약": 1791387630,
   "LS일렉트릭|투자·증설": 1791360622,
   "LS전선|수주·계약": 1789713632,
   "Vertiv|투자·증설": 1790328618,
@@ -274,6 +274,10 @@
   [
    1791373216,
    "LS일렉트릭, ‘전력기기 공급→프로젝트 수주’ 대만 시장 확대"
+  ],
+  [
+   1791387630,
+   "LS일렉트릭, 대만서 전력기기 넘어 수주사업 확대…현지 합작법인 설립"
   ]
  ],
  "alerted": {
@@ -291,6 +295,7 @@
   "283b50fd635c110a": 1790174131,
   "2850841fdf0ec7cd": 1790847019,
   "2a3c3b712db1cc14": 1790126759,
+  "3157210b2481368c": 1791387630,
   "35913bf4ca2349fd": 1790079928,
   "3a7d7b5b8245dde0": 1789682430,
   "3b00df8f72f77d75": 1790575672,
@@ -343,7 +348,7 @@
   "f1b9bc6a34eac3f9": 1790921418,
   "fe7b17c162f91919": 1790498127
  },
- "alerted_today": 0,
+ "alerted_today": 1,
  "clip_buffer": [
   {
    "co": "",
@@ -364,6 +369,16 @@
    "t": "DCD Studio: The rise of US nuclear power, with Mark Gusakov, The Digital Infrastructure Alliance",
    "ts": 1791386933,
    "u": "https://www.datacenterdynamics.com/en/videos/dcd-studio-the-rise-of-us-nuclear-power-with-mark-gusakov-the-digital-infrastructure-alliance/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "Toyo cuts the ribbon on its newly-expanded solar factory in Texas",
+   "ts": 1791387463,
+   "u": "https://www.pv-magazine.com/2026/10/07/toyo-cuts-the-ribbon-on-its-newly-expanded-solar-factory-in-texas/"
   }
  ],
  "clip_titles": [],
@@ -5653,6 +5668,7 @@
   "5cc0d3c38a5e4d77": 1790284148,
   "5cc64686858264c1": 1790583021,
   "5cc7f3432f9ef915": 1791280519,
+  "5cca5906381971f3": 1791387631,
   "5cce5601b739fc06": 1789637120,
   "5cd11f259e482589": 1790873120,
   "5cea8dd36cbf08e2": 1791369318,
@@ -11619,6 +11635,7 @@
   "c98ff19dd484930e": 1789627496,
   "c998ecc967a0a9ad": 1789627496,
   "c99a68c99e98ca9e": 1790735693,
+  "c99de07db8895c62": 1791387631,
   "c9a60a1b857440ac": 1791378322,
   "c9b12de657eadaff": 1789687220,
   "c9b5c02ab89d34a2": 1789629088,
@@ -14599,7 +14616,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791383419,
- "last_msg_poll": 1791387568,
+ "last_msg_poll": 1791387877,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14629,7 +14646,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-08 00:39 KST",
+  "last_run": "2026-10-08 00:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
