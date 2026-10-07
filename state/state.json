@@ -519,6 +519,26 @@
    "t": "구글 '원전 전력' 20년 확보…데이터센터 대응 위해 890MW 증설 - 디지털투데이",
    "ts": 1791350940,
    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qckphd2l0REpoejVLMDRKNkdGZnJJQXdFdDN4V1JwUkRSb2w2ck1OYTFua25LMGtFbE9SQTVqenpVY1pFWjdrNUY5WC1HLXVGemxBTnA0bzdoR1c5SV9NUTBNV0R5a0RXVXFmSmlBb2FLNGs?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "한경매거진&북",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "데이터센터 전력도 'AI 관제' 시대…한화 기술 美 차세대 신기술 선정 - 한경매거진&북",
+   "ts": 1791336900,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wajRDX1lGcWNBbk0yMEdJLTBpRVRRV01zbGl1V2k1NXlwZDdXMEFYS043SnIwUW9SMlM4U2VTMjZIZWMxYVRXNGVBT0ZJRjVZYm1VdmZRMmdXT3hWR08yVlAtRFpSUktkQTNlTA?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Daum",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "데이터센터 전력수요 급증 전망에 기후장관 “과잉된 면 없지 않아” - Daum",
+   "ts": 1791275892,
+   "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2N0I3U2F6bjZNandXcy12U1c5REItZ0c0SW9EN1BkYnc5aUk1R2ZncmRIdS1fU29qb05FNkt2WXNKR0c4VGc?oc=5"
   }
  ],
  "clip_titles": [],
@@ -5880,6 +5900,7 @@
   "6145fb8378f523fc": 1790035428,
   "614e39333dbec737": 1790646615,
   "615298e443a987ad": 1791247733,
+  "6158a20c171e6bda": 1791351918,
   "615f4187b3086e29": 1791018618,
   "6160ea66bb07023e": 1790492713,
   "616a9771af508dd2": 1790821531,
@@ -7207,6 +7228,7 @@
   "7a5671820d9bb661": 1790005215,
   "7a5740f38a9e007f": 1790556223,
   "7a5f9b728b0c1d96": 1790817629,
+  "7a64e29a109234b0": 1791351918,
   "7a6e906cb73923a3": 1790732413,
   "7a7932a230fb7c9c": 1790859733,
   "7a7c382e6a3bf43b": 1789713065,
@@ -8226,6 +8248,7 @@
   "8daeb4179859b6c7": 1790676778,
   "8dbbfd09e668dc00": 1790901033,
   "8dbebc20283d3acc": 1790841922,
+  "8dbf3204b3805c0d": 1791351918,
   "8dc299ae442e0fb0": 1789973468,
   "8dc49fbfd88866d8": 1791275721,
   "8dd199046c0cc734": 1790923527,
@@ -8989,6 +9012,7 @@
   "9c9cbbd0e6699bb3": 1791334222,
   "9c9f8f48534eaf3b": 1790348724,
   "9ca0c7ea7178acb4": 1790755819,
+  "9ca7cf1d5c6280c5": 1791351918,
   "9ca85470f031ff2a": 1789972883,
   "9cb688ac276ef08c": 1790478323,
   "9cbe3a42e1d8da73": 1789629088,
@@ -13300,6 +13324,7 @@
   "eda9d859c07ffe97": 1790847338,
   "edaa1fca692f7cad": 1790727236,
   "edaa51b28354f204": 1790896239,
+  "edacea2ac4c04fe8": 1791351918,
   "edb12309720f3460": 1789729598,
   "edb20d7cca92e8fd": 1789954905,
   "edb672ab2ecaf659": 1789695321,
@@ -14302,7 +14327,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791346232,
- "last_msg_poll": 1791351866,
+ "last_msg_poll": 1791352167,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14337,7 +14362,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 14:44 KST",
+  "last_run": "2026-10-07 14:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
