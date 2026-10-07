@@ -379,6 +379,16 @@
    "t": "북미·AI 데이터센터가 끈다…HD현대일렉트릭 영업익 1조 가시권 - 녹색경제신문",
    "ts": 1791347659,
    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtVXhSNHRHam9OU1U4UDluTGFkMElLTkxTS2lGY3RtU2RjcUNNQTZRVGRzNHFzeWhxM2ZqT2xldy0yd2xJVHVJX2RIWjM4b0NTNDQ0LTFZRkNSUGlpQnp4aFczVEY0bGlv?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "인천일보",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "[국감, 핀셋] “10MW 턱밑” 데이터센터, 인천·경기 주거지·학교까지 파고든다 - 인천일보",
+   "ts": 1791348420,
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kUnM4WmNoY1gyUTQ2QTJ6N01vTGJ6dWw4SEh0QmFXcGZDT1Z0ejRGaGE5aENoOXZWQzhiWUdTaU5OTTBHTkNQS19QaGhFZjg4QWNyUTZLaS1aQjhuN1FTMy1KZlZMWEt0Mmc?oc=5"
   }
  ],
  "clip_titles": [],
@@ -6933,6 +6943,7 @@
   "7887054de73c027b": 1791266719,
   "78878558bb6d3368": 1790672719,
   "788c2baddd4de6bd": 1790555020,
+  "78962c58eb2bf397": 1791349222,
   "789f3ece8ceab191": 1789731320,
   "78a77ae526ba4868": 1790003117,
   "78ac3f8d127411f1": 1791147799,
@@ -14058,7 +14069,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791346232,
- "last_msg_poll": 1791349169,
+ "last_msg_poll": 1791349470,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14093,7 +14104,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 13:59 KST",
+  "last_run": "2026-10-07 14:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
