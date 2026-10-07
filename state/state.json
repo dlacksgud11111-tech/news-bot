@@ -459,6 +459,16 @@
    "t": "[기후테크, 산업을 바꾸다③]배터리 속 얇은 막 하나…화재 위험 낮추는 기술",
    "ts": 1791399600,
    "u": "https://www.etnews.com/20261007000112"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Waterless fire suppression is becoming key for data center community relations",
+   "ts": 1791403200,
+   "u": "https://www.datacenterdynamics.com/en/opinions/waterless-fire-suppression-is-becoming-key-for-data-center-community-relations/"
   }
  ],
  "clip_titles": [],
@@ -14297,6 +14307,7 @@
   "f896586c1ed7e6f5": 1789965314,
   "f89ccd4ece8a815c": 1789967119,
   "f8a3bd5257ffa870": 1790374821,
+  "f8a419c01a334d11": 1791403519,
   "f8acb6abc5eea645": 1790671521,
   "f8ae00bd77f05ec9": 1791336918,
   "f8b1d5e1259ec8cc": 1790930213,
@@ -14715,7 +14726,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791383419,
- "last_msg_poll": 1791403466,
+ "last_msg_poll": 1791403763,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14728,7 +14739,6 @@
   "381dab70369fcfc7": 1789589365,
   "548ed758c0d7bf16": 1789696070,
   "73179d318a7f3e1e": 1790633049,
-  "76aa2d8a91196097": 1789589359,
   "7b7e2b1311cdf59f": 1789589372,
   "8299e0a15a816eff": 1789589395,
   "925314cca215c74a": 1790028800,
@@ -14743,7 +14753,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-08 05:04 KST",
+  "last_run": "2026-10-08 05:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
