@@ -434,6 +434,16 @@
    "t": "Transforming data center services: AI-driven condition-based maintenance",
    "ts": 1791373828,
    "u": "https://www.datacenterdynamics.com/en/whitepapers/transforming-data-center-services-ai-driven-condition-based-maintenance/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "한국공공정책신문",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "보령 100MW AI데이터센터 유치 논란…“전력·용수·환경 검증부터” | 뉴스추적 - 한국공공정책신문",
+   "ts": 1791374565,
+   "u": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE42bVJJanA1SHp1RTcyTGJIVFJYYkNFeWFqNXRlbTNyVk9nV281VkhEbkc1RzBoQUxSVGxwT2lsNGdxazA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -515,6 +525,7 @@
   "01157ccc6fbbe0ff": 1790139621,
   "01173843d2763895": 1790732723,
   "011749359af6e021": 1790723121,
+  "0118777fc8add474": 1791375036,
   "0119f0b9ccbb65de": 1791272508,
   "011e8e82a2dc2be5": 1791267322,
   "01203bbf8b445eb2": 1791247733,
@@ -10993,6 +11004,7 @@
   "bce6f0dbbf60bcd6": 1789688716,
   "bcee727e2afcb4d7": 1790208393,
   "bcee733ed795620f": 1789956616,
+  "bcf358754813063d": 1791375036,
   "bcf88ef5343dc211": 1790646615,
   "bcfde90a23825522": 1789979721,
   "bd008bec0bf1870b": 1789729598,
@@ -12320,6 +12332,7 @@
   "d64a39634f0a1b01": 1789935268,
   "d64ed2a0fe6aceb4": 1790910654,
   "d650b289746f80ae": 1790931342,
+  "d650c5a5ea9ed54a": 1791375036,
   "d65335247c336a95": 1790959221,
   "d658fada3987edf7": 1791250577,
   "d65c4d56d0ca7461": 1790217321,
@@ -14623,7 +14636,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791368421,
- "last_msg_poll": 1791374969,
+ "last_msg_poll": 1791375283,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14656,7 +14669,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 21:09 KST",
+  "last_run": "2026-10-07 21:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
