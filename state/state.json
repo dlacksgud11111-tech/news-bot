@@ -349,6 +349,26 @@
    "t": "전기먹는 하마 데이터센터…SiC·GaN 전력반도체 역할 부각 - 디일렉",
    "ts": 1791369800,
    "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wLUtDX241UlBKazRIU0lkMXJ0bVRISjZzSFA4VWpLRWlyYXJHREd5Y21VdkxtN0JTSWhlYV9MNFRiS3lXcnAtUFVNNkdvR3dWNkhUUmxoZ1pCTTQ4UmFOeE92QzkwZw?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "팝콘뉴스",
+   "sc": 20,
+   "sec": "전력기기",
+   "t": "LS일렉트릭, 대만서 전력기기 넘어 수주사업 확대…현지 합작법인 설립 - 팝콘뉴스",
+   "ts": 1791361842,
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIbE5fUFFqMk1NbXp5NWtKWEpvOUFvaDVYbTU1VlRESEZWUTZCb2ltT1hfdjhyVHVUSkpGNGRkNEFRNng5bVEtTGY2NTZXdTFmY3N4TzJMUHlwTzFBcUlqQU9OR0ZGb0p1a2xaaHVpV2Yyd9IBckFVX3lxTFBIbE5fUFFqMk1NbXp5NWtKWEpvOUFvaDVYbTU1VlRESEZWUTZCb2ltT1hfdjhyVHVUSkpGNGRkNEFRNng5bVEtTGY2NTZXdTFmY3N4TzJMUHlwTzFBcUlqQU9OR0ZGb0p1a2xaaHVpV2Yydw?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "스트레이트뉴스",
+   "sc": 20,
+   "sec": "전력기기",
+   "t": "LS일렉트릭, 대만 최대 석화기업과 JV 설립…전력기기 넘어 수주사업 확대 - 스트레이트뉴스",
+   "ts": 1791359847,
+   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfLU1YUUV1NjNfZlk2dEk5WUhMS2hUTFNLam9kaVRBRlVRWEN2dUNjS3NoWUdQVjU3ejdhTEViVGdyUmRUcUdiaXJ3RnJsZUFwcHdHa0lxYjNBTXlveEhoVVBVTk45TkdndjhxdC11d0pQVXNEVzln0gF3QVVfeXFMUF8tTVhRRXU2M19mWTZ0STlZSExLaFRMU0tqb2RpVEFGVVFYQ3Z1Q2NLc2hZR1BWNTd6N2FMRWJUZ3JSZFRxR2JpcndGcmxlQXBwd0drSXFiM0FNeW94SGhVUFVOTjlOR2d2OHF0LXV3SlBVc0RXOWc?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3118,6 +3138,7 @@
   "314cd8989c151157": 1790030116,
   "31529b383eebe10c": 1789957530,
   "3153cd8ab334ec6e": 1790558489,
+  "3157210b2481368c": 1791370816,
   "3157b9d4520cedd2": 1790892282,
   "3157d7633b1e9315": 1791248864,
   "3157fd6f1b42a378": 1790468917,
@@ -11190,6 +11211,7 @@
   "c2c681b76796e17b": 1789627496,
   "c2d0f59f8f6f082f": 1789710788,
   "c2db56675bc0a3e6": 1789965314,
+  "c2dbd7f65277b5d8": 1791370816,
   "c2dc73af047bb9e6": 1790246731,
   "c2df159f81659aef": 1789629612,
   "c2e1877bf3ed9f53": 1790492713,
@@ -14513,7 +14535,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791368421,
- "last_msg_poll": 1791370769,
+ "last_msg_poll": 1791371066,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14546,7 +14568,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 19:59 KST",
+  "last_run": "2026-10-07 20:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
