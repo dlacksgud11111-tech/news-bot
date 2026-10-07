@@ -374,6 +374,16 @@
    "t": "관악구, 신림8구역 조합설립인가…\"30개동 2천257세대로 재개발\"",
    "ts": 1791414311,
    "u": "https://www.yna.co.kr/view/AKR20261008025300004"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "국민기자뉴스",
+   "sc": 16,
+   "sec": "전력기기",
+   "t": "LS일렉트릭, 미국 데이터센터에 1800억원 규모 초고압 변압기 공급 - 국민기자뉴스",
+   "ts": 1791414300,
+   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPb2xYRjhNQkpDOEUwZGJWOXBJb0NTMTdNVXRWMjA1MHphdFR4eDl4bndhbENzU0tqaXhsUVpmVk9DWVBCV2NCS1pwU1R6aFNGRl9CSk1zN1Z4VGtKallkZkg1SdIBZ0FVX3lxTE1pMzNFSWtkaFJTMS1NY3YtdGNOY1RnRmtGTlFSdWVQMHNpR0dOZDFrQVdDdUVwb0k4ZjMxUnhPUTZzUGIya3FJem9NM1o3aUJ2T3JVejEtWDF4cENkNUFGVkZoNlFMT00?oc=5"
   }
  ],
  "clip_titles": [],
@@ -13236,6 +13246,7 @@
   "e705abee1d195965": 1790747118,
   "e709e30a3e85d65c": 1790807718,
   "e70dbce6f821bafc": 1790750123,
+  "e7107702d8c34cf0": 1791415822,
   "e71e49c561ddfe18": 1790805917,
   "e720e15a84dd12c4": 1789642817,
   "e728c0aa4995cb2c": 1789851315,
@@ -14674,7 +14685,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791410827,
- "last_msg_poll": 1791415773,
+ "last_msg_poll": 1791416066,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14693,7 +14704,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 08:29 KST",
+  "last_run": "2026-10-08 08:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
