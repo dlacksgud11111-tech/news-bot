@@ -489,6 +489,36 @@
    "t": "가스공사업협의회, LPG배관망 직접발주 확대 역량 집중",
    "ts": 1791389585,
    "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228820"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "Hithium’s sodium-ion storage push, where it could win, where it won’t, and path to bankability",
+   "ts": 1791357961,
+   "u": "https://www.pv-magazine.com/2026/10/07/hithiums-sodium-ion-storage-push-where-it-could-win-where-it-wont-and-path-to-bankability/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "스마트비즈",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "군산 찍고 인천까지···현대엔지니어링, 8700억 데이터센터 잇단 수주 - 스마트비즈",
+   "ts": 1791357770,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FTU45WEhMNW9GNk8wa09WYmE3ZVhRYmpXaWpXX3RtdU9BYmxYaWNvS3hDY21lQlFSS1Z4OWljTDRuSHY3WllGc3Z4Zmo1SXA3SmlaajNrR3IzREhOOHlGZmltbFdabEFpY1c1bA?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "테크데일리",
+   "sc": 20,
+   "sec": "전력기기",
+   "t": "LS일렉트릭, 대만 최대 석유화학그룹과 JV... 전력기기 넘어 수주사업 확대 - 테크데일리",
+   "ts": 1791349346,
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE04eFZaQS1oano5NWRRUnQ0blYzY3c1SE9NUXM4YWFiZUE0RlpwZUdKMm9BMUhNUEZZSUE3SXBhclQ4QjlScFpIQkJBWUg0dHYwaklSWGpENG0tZFUwdk1IRWc0MFdHQWdGZ0ppNFBOZjZZUdIBckFVX3lxTE04eFZaQS1oano5NWRRUnQ0blYzY3c1SE9NUXM4YWFiZUE0RlpwZUdKMm9BMUhNUEZZSUE3SXBhclQ4QjlScFpIQkJBWUg0dHYwaklSWGpENG0tZFUwdk1IRWc0MFdHQWdGZ0ppNFBOZjZZUQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3458,6 +3488,7 @@
   "35a99567362034e2": 1790647519,
   "35a9e214e55a4f13": 1790042975,
   "35adcc2d1e94c7fe": 1790605523,
+  "35b52cc1a2f362c2": 1791358218,
   "35b8820e9d6d5ab4": 1790842827,
   "35b8f82178902082": 1791204019,
   "35c2b2f761703201": 1790668519,
@@ -3994,6 +4025,7 @@
   "3ebb13936c39b990": 1789627496,
   "3ebc7b6a6c404e8a": 1790141423,
   "3ebf84e7cd66b92b": 1790663121,
+  "3ec3f93f43d8e7db": 1791358218,
   "3ec5b8cd2fcc9bf3": 1789748719,
   "3eccbe4ac5be1cfd": 1789632918,
   "3ed5cb69cb7582ef": 1790841621,
@@ -4091,6 +4123,7 @@
   "40c51c8cee298b9d": 1789736415,
   "40c97a44aa04c336": 1790035428,
   "40caad300f3084c4": 1791243016,
+  "40d55db568f510c9": 1791358218,
   "40d76c6d930814c4": 1790818527,
   "40e6519d83e857ff": 1790061315,
   "40ed4783b0cb22f1": 1789715119,
@@ -4865,6 +4898,7 @@
   "4df4e98311f4da81": 1789953163,
   "4df600b3afeaffe7": 1790040917,
   "4df9dc65fb9ed73e": 1790554448,
+  "4dfec10dbb4144ab": 1791358218,
   "4e01e0a78bcfc361": 1791353122,
   "4e14667247eba98e": 1791169650,
   "4e1534393e8c2272": 1789707915,
@@ -7525,6 +7559,7 @@
   "7f118c1b8a2ad1e9": 1790658925,
   "7f16559f1c80e50f": 1789627496,
   "7f27e8cd7bc1e252": 1790123140,
+  "7f2b0a4e4be039a0": 1791358218,
   "7f2cacd3e5e388b3": 1791078884,
   "7f37c84122d31df4": 1790065327,
   "7f3cd89de95212f6": 1791337817,
@@ -9919,6 +9954,7 @@
   "ac21f6a9878ea933": 1791297187,
   "ac233416615e1d6a": 1790759655,
   "ac27e51e7f1e591b": 1791326420,
+  "ac2af163e8a8be90": 1791358218,
   "ac36c2ae36d8d4a0": 1791347720,
   "ac37df33236657d2": 1789629088,
   "ac3bc53c08c10704": 1790178324,
@@ -14450,7 +14486,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791353724,
- "last_msg_poll": 1791358182,
+ "last_msg_poll": 1791358458,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14483,7 +14519,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 16:29 KST",
+  "last_run": "2026-10-07 16:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
