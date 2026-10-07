@@ -352,7 +352,7 @@
   },
   {
    "co": "",
-   "n": 6,
+   "n": 7,
    "s": "데일리한국",
    "sc": 12,
    "sec": "데이터센터·AI전력",
@@ -639,6 +639,26 @@
    "t": "기기만 팔던 대만서 EPC까지…LS일렉트릭, 포모사그룹과 합작법인 설립 - 더파워",
    "ts": 1791337599,
    "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfR1h0OXVWa0lvekZJMmtuSEQ4Vy1CcHN4VGZLRHdGVGpOWHIyUk5zSF9fXzhJcGdUN1dJTDI4RzVTc2ZlY3BvTDc3dnhBZDAzUW84ZkRXc0ZhcnFiSlNvWDhmUVA1U1Q4bTZYTnJOZlZWcU9EWmNORTM3dmg?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "Dutch BESS developer Giga Storage brings gigawatt-hour-scale project strategy to Germany",
+   "ts": 1791360817,
+   "u": "https://www.energy-storage.news/dutch-bess-developer-giga-storage-brings-gigawatt-hour-scale-project-strategy-to-germany/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "포쓰저널",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "한화, AI 데이터센터 전력난 공략…발전·저장·소비 통합 관리 - 포쓰저널",
+   "ts": 1791360422,
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnajFqbjB0a3pKS0V0M0hTU0E4T05UZFVKbXpLRExib3phUUNlcXhXWTAtdlk3SXpZeWc1ZHNydzZiOXZGdEVGdHB0cnZhVkIzb3lpUnpjNTFkUU54VVA4ZndnRF8?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1615,6 +1635,7 @@
   "12433f3e7d780373": 1790927918,
   "124c94cd1f56d0d9": 1790058015,
   "124eca2d3e1c7b09": 1790554448,
+  "124f3a0873f24a34": 1791360921,
   "1251440157069b90": 1790492713,
   "12522f05eb9a13d5": 1790822722,
   "1254ef0867463b32": 1789627496,
@@ -2299,6 +2320,7 @@
   "1e5028a239be1853": 1790557358,
   "1e5757c7ab69a478": 1790125213,
   "1e67abeaa877335d": 1789691718,
+  "1e6b8cc4b185c96b": 1791360921,
   "1e6b9e429e33b672": 1790814336,
   "1e744c65d3dbb4f2": 1790906736,
   "1e78f46eb5880ed1": 1790051416,
@@ -4159,6 +4181,7 @@
   "3e96c3523da4f16d": 1789972883,
   "3ea13c050a4881fd": 1790129427,
   "3eabcceeb66f78a3": 1790839223,
+  "3eb39438a9be1b21": 1791360921,
   "3eb5524669c46b5e": 1790828719,
   "3eb7a5a7ee77bdb7": 1789629088,
   "3ebb13936c39b990": 1789627496,
@@ -6920,6 +6943,7 @@
   "6fff9f8899e1e0fb": 1790668519,
   "7001917cc226ff26": 1791205828,
   "700274b3bcb4b16a": 1790830817,
+  "700503e7389ac4cc": 1791360921,
   "7012f58305794de8": 1790138131,
   "701ad1930dff912c": 1790041522,
   "7021b56b362206bf": 1791278420,
@@ -14683,7 +14707,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791353724,
- "last_msg_poll": 1791360870,
+ "last_msg_poll": 1791361170,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14716,7 +14740,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 17:14 KST",
+  "last_run": "2026-10-07 17:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
