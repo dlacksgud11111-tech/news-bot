@@ -339,7 +339,18 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 6,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "디일렉",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "전기먹는 하마 데이터센터…SiC·GaN 전력반도체 역할 부각 - 디일렉",
+   "ts": 1791369800,
+   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wLUtDX241UlBKazRIU0lkMXJ0bVRISjZzSFA4VWpLRWlyYXJHREd5Y21VdkxtN0JTSWhlYV9MNFRiS3lXcnAtUFVNNkdvR3dWNkhUUmxoZ1pCTTQ4UmFOeE92QzkwZw?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -1424,6 +1435,7 @@
   "140201feea2105e6": 1791187217,
   "1406e7332647d343": 1791242441,
   "14095fb105bd8231": 1790047038,
+  "141547a245327232": 1791370217,
   "1418ad87596b47cf": 1790728372,
   "1419b196f28fce0e": 1790836356,
   "141a7f67bd4b09e5": 1789698990,
@@ -14501,7 +14513,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791368421,
- "last_msg_poll": 1791370166,
+ "last_msg_poll": 1791370463,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14534,7 +14546,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 19:49 KST",
+  "last_run": "2026-10-07 19:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
