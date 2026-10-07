@@ -344,118 +344,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 7,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "디일렉",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "전기먹는 하마 데이터센터…SiC·GaN 전력반도체 역할 부각 - 디일렉",
-   "ts": 1791369800,
-   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wLUtDX241UlBKazRIU0lkMXJ0bVRISjZzSFA4VWpLRWlyYXJHREd5Y21VdkxtN0JTSWhlYV9MNFRiS3lXcnAtUFVNNkdvR3dWNkhUUmxoZ1pCTTQ4UmFOeE92QzkwZw?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "팝콘뉴스",
-   "sc": 20,
-   "sec": "전력기기",
-   "t": "LS일렉트릭, 대만서 전력기기 넘어 수주사업 확대…현지 합작법인 설립 - 팝콘뉴스",
-   "ts": 1791361842,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIbE5fUFFqMk1NbXp5NWtKWEpvOUFvaDVYbTU1VlRESEZWUTZCb2ltT1hfdjhyVHVUSkpGNGRkNEFRNng5bVEtTGY2NTZXdTFmY3N4TzJMUHlwTzFBcUlqQU9OR0ZGb0p1a2xaaHVpV2Yyd9IBckFVX3lxTFBIbE5fUFFqMk1NbXp5NWtKWEpvOUFvaDVYbTU1VlRESEZWUTZCb2ltT1hfdjhyVHVUSkpGNGRkNEFRNng5bVEtTGY2NTZXdTFmY3N4TzJMUHlwTzFBcUlqQU9OR0ZGb0p1a2xaaHVpV2Yydw?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "스트레이트뉴스",
-   "sc": 20,
-   "sec": "전력기기",
-   "t": "LS일렉트릭, 대만 최대 석화기업과 JV 설립…전력기기 넘어 수주사업 확대 - 스트레이트뉴스",
-   "ts": 1791359847,
-   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfLU1YUUV1NjNfZlk2dEk5WUhMS2hUTFNLam9kaVRBRlVRWEN2dUNjS3NoWUdQVjU3ejdhTEViVGdyUmRUcUdiaXJ3RnJsZUFwcHdHa0lxYjNBTXlveEhoVVBVTk45TkdndjhxdC11d0pQVXNEVzln0gF3QVVfeXFMUF8tTVhRRXU2M19mWTZ0STlZSExLaFRMU0tqb2RpVEFGVVFYQ3Z1Q2NLc2hZR1BWNTd6N2FMRWJUZ3JSZFRxR2JpcndGcmxlQXBwd0drSXFiM0FNeW94SGhVUFVOTjlOR2d2OHF0LXV3SlBVc0RXOWc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일일보",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "한화, AI로 데이터센터 전력 통합관제…운영비 최대 25% 절감 - 매일일보",
-   "ts": 1791370724,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tY0VHcHdxM0IydUdBYWwwNGQwWTVyTkwzQWFMUkhiSVpsSE83cmNYMDFXX3l3WjJLWFF1OVA4Z2hnRWVfTEh2TjhVdFBtb05uSkhjUVhzc1JiUU5kNUdWR3dzOXk?oc=5"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 4,
-   "sec": "유틸리티·정책",
-   "t": "\"미래기금으로 한전·관사·공연관람·농어촌 기본소득 지원\"(종합)",
-   "ts": 1791371429,
-   "u": "https://www.yna.co.kr/view/AKR20261007188851001"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 3,
-   "sec": "재생에너지·ESS",
-   "t": "BW ESS starts building 828MWh BESS in Italy as ‘market moves to execution’",
-   "ts": 1791371408,
-   "u": "https://www.energy-storage.news/bw-ess-starts-building-828mwh-bess-italy-market-moves-execution/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Firmus tops out data center building in Tasmania",
-   "ts": 1791371169,
-   "u": "https://www.datacenterdynamics.com/en/news/firmus-tops-out-data-center-building-in-tasmania/"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "뉴스퀘스트",
-   "sc": 14,
-   "sec": "전력기기",
-   "t": "“미국 빅테크도 직접 뚫었다…효성중공업, AI 전력망 탑픽인 이유” - 뉴스퀘스트",
-   "ts": 1791371660,
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiTUJSRWpRUjRDMHpnYnhGdHV0WGR3SE80S2ZaTldlZTZlUUFxX1BwMnU4d1RpNVFXYl96R0dmQkRTdllfNXlnNUVfbFhkN2t4UFhqTm5CSW9uU3kzcmRtVWQ4ZE5lSDNteVN3clcyNA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Transforming data center services: AI-driven condition-based maintenance",
-   "ts": 1791373828,
-   "u": "https://www.datacenterdynamics.com/en/whitepapers/transforming-data-center-services-ai-driven-condition-based-maintenance/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "한국공공정책신문",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "보령 100MW AI데이터센터 유치 논란…“전력·용수·환경 검증부터” | 뉴스추적 - 한국공공정책신문",
-   "ts": 1791374565,
-   "u": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE42bVJJanA1SHp1RTcyTGJIVFJYYkNFeWFqNXRlbTNyVk9nV281VkhEbkc1RzBoQUxSVGxwT2lsNGdxazA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 3,
-   "sec": "재생에너지·ESS",
-   "t": "Thousands of European solar park systems exposed online, say researchers",
-   "ts": 1791375300,
-   "u": "https://www.pv-magazine.com/2026/10/07/thousands-of-european-solar-park-systems-exposed-online-say-researchers/"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -14646,8 +14535,8 @@
  },
  "companies_today": {},
  "day": "2026-10-07",
- "last_clip": 1791368421,
- "last_msg_poll": 1791375865,
+ "last_clip": 1791375925,
+ "last_msg_poll": 1791376165,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14677,7 +14566,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 21:24 KST",
+  "last_run": "2026-10-07 21:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
