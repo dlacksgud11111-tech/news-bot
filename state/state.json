@@ -362,7 +362,7 @@
   },
   {
    "co": "",
-   "n": 3,
+   "n": 4,
    "s": "속보 - 이티뉴스",
    "sc": 5,
    "sec": "데이터센터·AI전력",
@@ -439,6 +439,26 @@
    "t": "전력 먹는 AI 데이터센터…한화, AI로 운영비 최대 25% 줄인다 - 디지틀조선TV",
    "ts": 1791364440,
    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQenJYTTNWTTQ1c3prclpPRC1ZOEtjMWswQWZ4VC1ncUVySGczWFN2TENiVkZlX2FJUkNlWUlxMGlQa0hLVlBra2FwLUpDYmtQQlhkMVpKV3pmSmZ5Wm8yU2M5OU5RYzFJM2pMbjlYUllhMEd0UnNvZDQycnlsVjM2Q0VvekFtdw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "이뉴스투데이",
+   "sc": 12,
+   "sec": "데이터센터·AI전력",
+   "t": "HD건설기계, 美데이터센터 전력시장 뚫었다···3900억원 엔진 수주 - 이뉴스투데이",
+   "ts": 1791364500,
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOZWJIVlpwY2pzZl9rRGtXcXl5S01YX0dkZ09oREE0UWtrQ3lxZzVDLUJZaldkanN3UGhwWmI5ZG95eTFFUDNFWEZPcUUtT0dBeVNwOXNPcmpBblFPYU5ZRDVQRTlzU3d6cWx5bWlUaExnZ9IBdEFVX3lxTE5jME9jREV3dTFhZGpzZlFCd1BwdmptVW85TWFpMHpCbG45Xzd1ZEVDUHFUNTRXdFhIVDhwbUZQY04weEtwNDhaenZSRC11MElsNk9pWU9rWVRCWF94WUpMNl9HU3BtY29iOWFYLXdlZFFIV1N4?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "동아일보",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "최기상 “데이터센터 10MW 문턱 아래 ‘쪼개기’ 의혹 …주거지·학교 인근에도” - 동아일보",
+   "ts": 1791352560,
+   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9va3FNUElUYllpYmVrWlZPZk03bG9FV2Z1YjdKYkk1azRONUlnMW5PaVYwREZuUXZINTFBV05aSk52RXlRLXBUekQ3T1gtekJlS1dOVXh0Y0JTZnI4YmdpdGtPZXlTajBabHlIU0l1TFRQUEM0SGtR0gFmQVVfeXFMUF9RTGRKWUsyMUh4eTVod20yY2dPczlCLU1EVmxSSjIwZ2FoYk40bU9HS0p0RjNhNW85NEFzTVY1SjZ0TnlGcUhQV1p0SmNLQWdFVlNQbGlCUTNtQWJYcUlDNENUc2hR?oc=5"
   }
  ],
  "clip_titles": [],
@@ -678,6 +698,7 @@
   "042cfb23d6e695a6": 1789627496,
   "0432b0056716370f": 1790777717,
   "043766ec08f8e8ea": 1790562951,
+  "04377ceefe2274ef": 1791365288,
   "043dee9cbbcab4d2": 1790728933,
   "04422e804cc0f8b5": 1789629088,
   "04487eafbfa34231": 1790125822,
@@ -2989,6 +3010,7 @@
   "2d5bd4f6340efd57": 1790668519,
   "2d62a810cc66e8b0": 1789627496,
   "2d6abe3abecc5095": 1789709642,
+  "2d6f1896494d1a31": 1791365288,
   "2d759922e0cf1fee": 1789951430,
   "2d78012a13ab23af": 1790062459,
   "2d79af057551ae75": 1791338120,
@@ -3377,6 +3399,7 @@
   "347d8789998bb71a": 1789627496,
   "347eb152c8c7f119": 1790580923,
   "3480bef139522037": 1790559053,
+  "3486e2b9e1425757": 1791365288,
   "348709da894cdf6e": 1791252320,
   "34881ebab73f5763": 1790728933,
   "348956f958859b4c": 1789972883,
@@ -6777,6 +6800,7 @@
   "704b646aa3b40344": 1791194824,
   "705136b6c6097366": 1790560827,
   "7051f58243030c20": 1791098415,
+  "7053bb98eed148c1": 1791365288,
   "7059f48c1762d7d0": 1789649116,
   "705b8e7b53b146c3": 1789972312,
   "705b903235f64bdc": 1789695321,
@@ -8032,6 +8056,7 @@
   "87b112f73805b7f0": 1790543417,
   "87c2f0f70bb1c181": 1789972883,
   "87c5dda68ad2361c": 1790818527,
+  "87c8c4c45c43e4c7": 1791365288,
   "87f1a3825a4ec983": 1790929616,
   "87f31d3495162617": 1790042395,
   "87f73f14edfea1bd": 1790835785,
@@ -13683,6 +13708,7 @@
   "f04e4fcf53437a24": 1790032230,
   "f05587a73d1bbbf2": 1790006722,
   "f05752777b5cfae3": 1789629088,
+  "f05aba3b5b84fe55": 1791365288,
   "f05cbfc57ca4226a": 1790120847,
   "f05de461d33ec664": 1789694131,
   "f0677637a1324fd9": 1791162318,
@@ -14564,7 +14590,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791361221,
- "last_msg_poll": 1791364969,
+ "last_msg_poll": 1791365536,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14597,7 +14623,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 18:22 KST",
+  "last_run": "2026-10-07 18:32 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
