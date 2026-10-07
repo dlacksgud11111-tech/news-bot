@@ -344,7 +344,18 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 7,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "유스연합",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "보령 100MW AI데이터센터 유치 논란…“전력·용수·환경 검증부터” | 뉴스추적 - 유스연합",
+   "ts": 1791374565,
+   "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QQ3RyRTBEcXFBUHcxZlpjdEgyTXF3aUtiZEVqS2NrbjdteHF0bml3bVRlQWlRenk1VV9leVRtWnFqOVNMUW9uZlJoWjYwLVd6a0d3?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -11482,6 +11493,7 @@
   "c7a33581f5d00985": 1790899528,
   "c7a50f6aca6093fb": 1789792532,
   "c7c175eb2467cc30": 1791105914,
+  "c7c2b4b53602ebf7": 1791376222,
   "c7c3dc4846c7102e": 1790640533,
   "c7c9bcb3adcad98d": 1790824522,
   "c7ca2fc96c618466": 1790842523,
@@ -14536,7 +14548,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791375925,
- "last_msg_poll": 1791376165,
+ "last_msg_poll": 1791376466,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14566,7 +14578,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 21:29 KST",
+  "last_run": "2026-10-07 21:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
