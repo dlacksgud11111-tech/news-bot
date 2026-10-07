@@ -354,7 +354,18 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 2,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "저널25방송",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "보령 100MW AI데이터센터, 무엇이 확인됐고 무엇을 검증해야 하나 - 저널25방송",
+   "ts": 1791375978,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zSzFRV1RKeG9UTk5VY081WHZ3QlZPY0t2QzJqODJLa00tNFhnMTBkMHhpRGlCYlRhSDhydjVBQTllVzFjQjFYT1U5MF9mS3FMbE9xN0dSNFlPcnFkRHI4ZXE1MTUtd1AyOUFQSQ?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -3827,6 +3838,7 @@
   "3cb81f54fb442671": 1790042395,
   "3cbf1b327a056ca8": 1789735230,
   "3cc15ddf36f579c9": 1790040051,
+  "3cc6505c0d3ad36a": 1791412532,
   "3cc7cb843125b66d": 1791173121,
   "3cc9371fb65258b4": 1791257718,
   "3ccabc8ad1e80f70": 1790756120,
@@ -10245,6 +10257,7 @@
   "b04a33d41a2c7d26": 1790833487,
   "b04d9963002a554e": 1791259227,
   "b050c79e5c71d6a8": 1790040917,
+  "b0520e46d5bf98d8": 1791412532,
   "b05392add3224086": 1790058917,
   "b055a5d81bbddd90": 1790579195,
   "b058f72b36c217c7": 1790727810,
@@ -14630,7 +14643,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791410827,
- "last_msg_poll": 1791412201,
+ "last_msg_poll": 1791412774,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14649,7 +14662,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 07:30 KST",
+  "last_run": "2026-10-08 07:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
