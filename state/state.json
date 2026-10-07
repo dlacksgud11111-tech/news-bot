@@ -432,7 +432,7 @@
   },
   {
    "co": "",
-   "n": 4,
+   "n": 5,
    "s": "아시아경제",
    "sc": 6,
    "sec": "데이터센터·AI전력",
@@ -469,6 +469,26 @@
    "t": "구글, 6GW 이상 전력 잇따라 계약...AI 데이터센터 전력 수요 확보 - 디일렉",
    "ts": 1791350382,
    "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41Z2JzRy03SFNZMFhpTWN6cXdpMklJU2VmN2pfVm5SWnN1cHhaaElzc05oZVJLMlo5dHVlWVdMSVBReUpBUWo4TzNJMkpDTTRqWGZtTjdDeEpndlFEMm9Ncms0YXlnZw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "Building quality domestic U.S. solar cell fabs is more important than technology-choice today",
+   "ts": 1791351275,
+   "u": "https://www.pv-magazine.com/2026/10/07/building-quality-domestic-u-s-cell-fabs-is-more-important-than-technology-choice-today/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "매일경제 마켓",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "HD건설기계, 미국 데이터센터 발전엔진 몸체 수주…3천900억원 - 매일경제 마켓",
+   "ts": 1791350481,
+   "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IeFhBMDQzN2h5bElmekU3THN3ZVp4WmVKUllOTjczazkyeGVTSjFfTFNZNkRxbmlmWlZTczdBNEY5OTJrdk5RNDRMRzdJRnZnQVE?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1613,6 +1633,7 @@
   "15ae74dd138f8065": 1790061315,
   "15b4bc21f3585af7": 1789728460,
   "15b977db07a31b97": 1790040051,
+  "15bb25d967885e46": 1791351334,
   "15bdb774ba0c99a0": 1790065913,
   "15bffc5ed431a986": 1791341036,
   "15c2bb461a87e524": 1790467770,
@@ -1993,6 +2014,7 @@
   "1cca0833d19fe3cb": 1790145582,
   "1ccc2be418435e19": 1790576273,
   "1cccf24689e04a68": 1790834627,
+  "1cdef19e8aafc27c": 1791351334,
   "1ce10d2ffde92917": 1790904314,
   "1ce14bfec7311e0b": 1790640533,
   "1ce4a2784620a0e4": 1791255617,
@@ -8636,6 +8658,7 @@
   "9719178d57f58110": 1789942522,
   "971a37f4da04d172": 1790759655,
   "972906c21965c980": 1790903137,
+  "9729b434f0f13772": 1791351334,
   "972c14d2a8017867": 1789691718,
   "97312f2386370fdc": 1790556791,
   "9731f7100dcfbff7": 1790565022,
@@ -11330,6 +11353,7 @@
   "c9b5c02ab89d34a2": 1789629088,
   "c9b7331137162fb0": 1789689915,
   "c9bf58244b280718": 1790829319,
+  "c9c2a615c44baeb9": 1791351334,
   "c9d146ab57864c69": 1790123718,
   "c9d40f3bc32d0a6b": 1790041833,
   "c9d6d02a55a99452": 1789633213,
@@ -13343,6 +13367,7 @@
   "effda535d8aed112": 1791264914,
   "f0079ed99559bb12": 1791092117,
   "f00d3991a925cf23": 1790556791,
+  "f01677e43a270755": 1791351334,
   "f016ef29e2b3e160": 1790818527,
   "f017728069dc5d5e": 1790814336,
   "f018b0a4ded8a7f6": 1790897721,
@@ -14210,7 +14235,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791346232,
- "last_msg_poll": 1791351268,
+ "last_msg_poll": 1791351581,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14245,7 +14270,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 14:34 KST",
+  "last_run": "2026-10-07 14:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
