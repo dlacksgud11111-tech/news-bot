@@ -429,6 +429,16 @@
    "t": "보령 100MW AI데이터센터 유치 논란…“전력·용수·환경 검증부터” | 뉴스추적 - 얼리어답터뉴스",
    "ts": 1791374564,
    "u": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1TUmExY2YyTWNGUzFEaW5GM3c0bjdQX2VfS0RpcnJmWWhXNFB5RmlENmNuOXk4VFdFYkdRZllQSFVHS2ZqQmszYURn?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스",
+   "sc": 6,
+   "sec": "원전",
+   "t": "구글, 美최대 원전기업 컨스텔레이션서 3.6GW 전력공급 계약 - 연합뉴스",
+   "ts": 1791319908,
+   "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vU3lHdWpEdUlBaW16VFYtem9VbXJjb2U0WnM4WFpLSFRFQ2tvWXNjMFdLWGJmUDFnV1FQX19FMHhvYXU1QmxBTFp0NXlHSG1ma29QelZ4OVJfTjjSAWBBVV95cUxOMU5heGZDaERCMHdCZ0ZwMVVwTWdNdFhlNVlFa2tHeG1EWFFmdWNVcF9meGFyN1dlZGF3SGJtbkpRYW8wZFJTQ0J6UWJpVGRaaEN1aHpRSUVxYm9rMENjaC0?oc=5"
   }
  ],
  "clip_titles": [],
@@ -10072,6 +10082,7 @@
   "ac5fe7bb23f8fa1e": 1791264914,
   "ac608b79c6906a64": 1790666422,
   "ac6666c72b2f0913": 1790757930,
+  "ac6e76e53cc63ee9": 1791397242,
   "ac78dc59ea43f207": 1790300885,
   "ac796b5352c44073": 1789958121,
   "ac7b58cb83257e92": 1790649324,
@@ -14677,7 +14688,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791383419,
- "last_msg_poll": 1791397163,
+ "last_msg_poll": 1791397493,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14705,7 +14716,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-08 03:19 KST",
+  "last_run": "2026-10-08 03:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
