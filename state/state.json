@@ -339,198 +339,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 6,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 6,
-   "sec": "재생에너지·ESS",
-   "t": "Eskom extends solar registration fee waiver indefinitely",
-   "ts": 1791361497,
-   "u": "https://www.pv-magazine.com/2026/10/07/eskom-extends-solar-registration-fee-waiver-indefinitely/"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 16,
-   "sec": "원전",
-   "t": "50년 원전 설계 자산 AI로…한국전력기술, ‘반디’에 적용",
-   "ts": 1791393787,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373188"
-  },
-  {
-   "co": "",
-   "n": 4,
-   "s": "속보 - 이티뉴스",
-   "sc": 5,
-   "sec": "데이터센터·AI전력",
-   "t": "HD건설기계, 美 데이터센터에 발전용 엔진 공급…3900억원 규모",
-   "ts": 1791360350,
-   "u": "https://www.etnews.com/20261007000451"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 1,
-   "sec": "유틸리티·정책",
-   "t": "지역난방公, 올해 취약계층 난방비 특별요금 104억 원 지급",
-   "ts": 1791394246,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303958"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 1,
-   "sec": "유틸리티·정책",
-   "t": "가스공사업협의회, 제101차 정기회의 개최",
-   "ts": 1791393917,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303956"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 12,
-   "sec": "유틸리티·정책",
-   "t": "한전기술 ‘2026년 AX시대 리더십 교육’ 실시",
-   "ts": 1791393112,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303952"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 2,
-   "sec": "건설·플랜트",
-   "t": "울산플랜트산업협의회 \"지역 전기요금제에 울산기여도 반영돼야\"",
-   "ts": 1791362010,
-   "u": "https://www.yna.co.kr/view/AKR20261007172900057"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "월요신문",
-   "sc": 14,
-   "sec": "전력기기",
-   "t": "AI·노후 전력망 교체 특수…효성중공업, 질적 성장 가속 - 월요신문",
-   "ts": 1791362210,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jTmljZV9sQXMxeERaYzNfZmloSEJrMGVLQzdrLWpCNl9lQXlldmlDZXBGYUdYcDMyM3Fic3Ywb21FcVB6ZVJiXzVYQVdiV2YxRUpMUmt6UkRMUGtIUkRBam1MQ010NERmUFE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "재생에너지·ESS",
-   "t": "한·이집트 비즈니스 라운드테이블…수소트램 공급 양해각서",
-   "ts": 1791363600,
-   "u": "https://www.yna.co.kr/view/AKR20261007178400003"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "디지틀조선TV",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "전력 먹는 AI 데이터센터…한화, AI로 운영비 최대 25% 줄인다 - 디지틀조선TV",
-   "ts": 1791364440,
-   "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQenJYTTNWTTQ1c3prclpPRC1ZOEtjMWswQWZ4VC1ncUVySGczWFN2TENiVkZlX2FJUkNlWUlxMGlQa0hLVlBra2FwLUpDYmtQQlhkMVpKV3pmSmZ5Wm8yU2M5OU5RYzFJM2pMbjlYUllhMEd0UnNvZDQycnlsVjM2Q0VvekFtdw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이뉴스투데이",
-   "sc": 12,
-   "sec": "데이터센터·AI전력",
-   "t": "HD건설기계, 美데이터센터 전력시장 뚫었다···3900억원 엔진 수주 - 이뉴스투데이",
-   "ts": 1791364500,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOZWJIVlpwY2pzZl9rRGtXcXl5S01YX0dkZ09oREE0UWtrQ3lxZzVDLUJZaldkanN3UGhwWmI5ZG95eTFFUDNFWEZPcUUtT0dBeVNwOXNPcmpBblFPYU5ZRDVQRTlzU3d6cWx5bWlUaExnZ9IBdEFVX3lxTE5jME9jREV3dTFhZGpzZlFCd1BwdmptVW85TWFpMHpCbG45Xzd1ZEVDUHFUNTRXdFhIVDhwbUZQY04weEtwNDhaenZSRC11MElsNk9pWU9rWVRCWF94WUpMNl9HU3BtY29iOWFYLXdlZFFIV1N4?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "동아일보",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "최기상 “데이터센터 10MW 문턱 아래 ‘쪼개기’ 의혹 …주거지·학교 인근에도” - 동아일보",
-   "ts": 1791352560,
-   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9va3FNUElUYllpYmVrWlZPZk03bG9FV2Z1YjdKYkk1azRONUlnMW5PaVYwREZuUXZINTFBV05aSk52RXlRLXBUekQ3T1gtekJlS1dOVXh0Y0JTZnI4YmdpdGtPZXlTajBabHlIU0l1TFRQUEM0SGtR0gFmQVVfeXFMUF9RTGRKWUsyMUh4eTVod20yY2dPczlCLU1EVmxSSjIwZ2FoYk40bU9HS0p0RjNhNW85NEFzTVY1SjZ0TnlGcUhQV1p0SmNLQWdFVlNQbGlCUTNtQWJYcUlDNENUc2hR?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 6,
-   "sec": "건설·플랜트",
-   "t": "한강 열로 아파트 냉난방...서울에너지公-GS건설, ZEB 모델 검토",
-   "ts": 1791397583,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228825"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 7,
-   "sec": "유틸리티·정책",
-   "t": "한전기술, AX 전환 가속도…AI 리더십 강화하고 협력사와 노하우 나눈다",
-   "ts": 1791364437,
-   "u": "https://www.etnews.com/20261007000466"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "뉴스1",
-   "sc": 16,
-   "sec": "전력기기",
-   "t": "LS일렉, 대만 최대 석화그룹과 합작법인 설립…전력기기 사업 수주 확대 - 뉴스1",
-   "ts": 1791329617,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pZGdFZzFkU3ZuLUsxdE9Ya1l3YlMtVzQ4Qks5YTJ1bThTT0VqeTRSd3RHVmZiS29VQTh0blVwSmFhRFRPemN4ZEhhU2d1Q1dXMXhtYk8xMVZNZXhEbjlhaFR0VWk?oc=5"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 4,
-   "sec": "유틸리티·정책",
-   "t": "\"미래기금으로 한전·관사·공연관람·농어촌 기본소득 지원\"",
-   "ts": 1791365892,
-   "u": "https://www.yna.co.kr/view/AKR20261007188800001"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 0,
-   "sec": "유틸리티·정책",
-   "t": "가스공사업협의회, ‘LPG배관망사업 직접발주’ 역량 집중",
-   "ts": 1791399196,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334897"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "타워 대신 ‘연’으로 바람 잡는다...공중풍력 개발 시동",
-   "ts": 1791399405,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228827"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Plant diversity under PV modules rivals grassland at Japanese solar park",
-   "ts": 1791367140,
-   "u": "https://www.pv-magazine.com/2026/10/07/plant-diversity-under-pv-modules-rivals-grassland-at-japanese-solar-park/"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -2476,6 +2285,7 @@
   "22a5fe6b1911b131": 1790127320,
   "22ae4479074f864b": 1790913021,
   "22b5607f51d45a03": 1790646615,
+  "22bc294c15bc86b9": 1791368421,
   "22bdd37f9abbbb82": 1790576273,
   "22be93bbe9ba4c86": 1790148975,
   "22bfdc0302075f34": 1790474714,
@@ -5993,6 +5803,7 @@
   "6025a129abbd9ff0": 1791248292,
   "602b5117c99d39f8": 1789974627,
   "602ca002122b8474": 1790124922,
+  "602dfebca1c0d60d": 1791368421,
   "603b78f87ca832fb": 1790803004,
   "603ea98d9b66519e": 1789676118,
   "6046a01ddfd0500d": 1790807416,
@@ -9293,6 +9104,7 @@
   "9db545c3fe538370": 1789627496,
   "9dcb1932aa3e9a87": 1790813121,
   "9dce6c247b3b0a84": 1789954905,
+  "9dd173db6a8c72d8": 1791368421,
   "9dd4079c0c23a1a6": 1789629088,
   "9dd7bbb2fa89343f": 1790778623,
   "9de48e885640eacc": 1790685320,
@@ -14683,8 +14495,8 @@
  },
  "companies_today": {},
  "day": "2026-10-07",
- "last_clip": 1791361221,
- "last_msg_poll": 1791368386,
+ "last_clip": 1791368421,
+ "last_msg_poll": 1791368663,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14717,7 +14529,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 19:19 KST",
+  "last_run": "2026-10-07 19:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
