@@ -344,98 +344,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 7,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "유스연합",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "보령 100MW AI데이터센터 유치 논란…“전력·용수·환경 검증부터” | 뉴스추적 - 유스연합",
-   "ts": 1791374565,
-   "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QQ3RyRTBEcXFBUHcxZlpjdEgyTXF3aUtiZEVqS2NrbjdteHF0bml3bVRlQWlRenk1VV9leVRtWnFqOVNMUW9uZlJoWjYwLVd6a0d3?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "Danish Parliament adopts \"emergency plan\" for electricity grid, puts data centers at the back of queue",
-   "ts": 1791377441,
-   "u": "https://www.datacenterdynamics.com/en/news/danish-parliament-adopts-emergency-plan-for-electricity-grid-puts-data-centers-at-the-back-of-queue/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Chinese ESS shipments still growing strongly but financial performance starting to diverge",
-   "ts": 1791378801,
-   "u": "https://www.energy-storage.news/chinese-ess-shipments-still-growing-strongly-but-financial-performance-starting-to-diverge/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "POWER Magazine",
-   "sc": 4,
-   "sec": "건설·플랜트",
-   "t": "Clearway Starts Construction of 650-MW Solar Facility in Missouri",
-   "ts": 1791378749,
-   "u": "https://www.powermag.com/clearway-starts-construction-of-650-mw-solar-facility-in-missouri/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 3,
-   "sec": "재생에너지·ESS",
-   "t": "UK ROUNDUP: Gore Street shareholder vote maintains status quo, CIP and BW ESS progress 4-hour duration assets",
-   "ts": 1791378662,
-   "u": "https://www.energy-storage.news/uk-roundup-gore-street-shareholder-vote-maintains-status-quo-cip-and-bw-ess-progress-4-hour-duration-assets/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "스마트투데이",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "HD건설기계, 美 데이터센터용 엔진 롱블록 3900억원 수주 - 스마트투데이",
-   "ts": 1791356700,
-   "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpaW90Qy00cHNEeFVSSnNhR3ZGTk5NMHdkbVZpWGhpdUJrVmlOLVVyZmJacFdjalBpNGM3eDdNMFp0REt3TGVKdlRENzY4ZXo3bVFJUHgyOEVPb0hNMTZv?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "Solar and storage accounted for nearly 1 million EU jobs in 2025",
-   "ts": 1791380101,
-   "u": "https://www.pv-magazine.com/2026/10/07/solar-and-storage-accounted-for-nearly-1-million-eu-jobs-in-2025/"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "테크데일리",
-   "sc": 20,
-   "sec": "전력기기",
-   "t": "LS일렉트릭, 대만 최대 석유화학그룹과 JV... 전력기기 넘어 수주사업 확대 - 테크데일리",
-   "ts": 1791349081,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WVm5yVFZBVXQ5U3ZGbUVrTDB5R0Q3bUlzaWkzQ0gzYjA2WHN1cnhfa2pyQm5HWjdNV3RVNEhWc3JwdmFCdkNHN0w5OWRPVzN4UE1BUFFId1puTDB1d0ZVYlhzbVZXd1M3YW1QVHhn0gFyQVVfeXFMTTh4VlpBLWhqejk1ZFFSdDRuVjNjdzVIT01RczhhYWJlQTRGWnBlR0oyb0ExSE1QRllJQTdJcGFyVDhCOVJwWkhCQkFZSDR0djBqSVJYakQ0bS1kVTB2TUhFZzQwV0dBZ0ZnSmk0UE5mNllR?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "1,000-year-old Scottish castle could be destroyed to make way for hyperscale data center",
-   "ts": 1791382795,
-   "u": "https://www.datacenterdynamics.com/en/news/1000-year-old-scottish-castle-could-be-destroyed-to-make-way-for-hyperscale-data-center/"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -14662,8 +14571,8 @@
  },
  "companies_today": {},
  "day": "2026-10-07",
- "last_clip": 1791375925,
- "last_msg_poll": 1791383365,
+ "last_clip": 1791383419,
+ "last_msg_poll": 1791383670,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14693,7 +14602,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 23:29 KST",
+  "last_run": "2026-10-07 23:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
