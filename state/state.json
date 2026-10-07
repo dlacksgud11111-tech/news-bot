@@ -349,6 +349,26 @@
    "t": "HD건설기계, AI 데이터센터 전력시장 뚫었다…3900억 엔진 수주 - 데일리한국",
    "ts": 1791350699,
    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95ejFfaDl3ZHNwNGFkQ1NaZ0VVeUt2VzFacGFqTlVkdEdkSU1MRDl5N2lManlodFZzM1Y1OHFNVWg2MTUwLUl2VVFUSU52WXY5T2REQmN3aFd2N2N0UGtTU2FjRlRVd24wNGRWTm1Ga9IBc0FVX3lxTE1Yc0lhZkxhb0xyQm1NQmd0NGQ2eUF6ZFFLcnN6Xzc5ODFQZ1R2OW85YmI4OUo2R1lIVU1NanJ0U2duTFFxOEpCNXpSMS1VVzE1Rzc2VEFTQnZvVGZjTWdseEE1WXNDTUxua3h5UENEb0pUbUU?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "디지털데일리",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "HD건설기계, 북미 데이터센터에 전력 공급 - 디지털데일리",
+   "ts": 1791353909,
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mRXVBdmUyMWJsTHNrYWd2UzhUaVVzNjVPd3dDQzNtMDBLVEJhT1R6Rzdnd2JjYlk0T2FfZ25sS0x5TFlzRm9YSHZxMVZUSmZzcktDSXVRbjBCTXpBd0lSVS1ZbUM?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "허프포스트코리아",
+   "sc": 20,
+   "sec": "전력기기",
+   "t": "LS일렉트릭 대만 최대 석유화학 기업과 합작법인 설립 : 전력기기 공급 넘어 현지 전력 인프라 수주 뛰어든다 - 허프포스트코리아",
+   "ts": 1791347704,
+   "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXWVBhUUtTSnR2dE4yZDdJQkdEUnZCcXdwR1dkbmM5OFp2Tnp0UnBJVkpSYVlRRnp5U2twTnhlZXl3LUUwT3lteTZ2czNyTlpIaTBETk53VQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -7363,6 +7383,7 @@
   "7ff153d6d3c531f7": 1790558489,
   "7ff51161f49d3a37": 1791212721,
   "7ff88c70b104a116": 1789629088,
+  "7ff97d6251cbd631": 1791354615,
   "7ffacbbb98c8526c": 1789780383,
   "7fffd3b8699ddfe4": 1791270233,
   "80016e73d9560028": 1790550317,
@@ -9412,6 +9433,7 @@
   "a666d79040b610bf": 1789627496,
   "a66b11b36e077d1d": 1790923232,
   "a66d384d53cbec0e": 1789974040,
+  "a67bf58914d90725": 1791354615,
   "a67d664290491afd": 1790642222,
   "a6846d69a72efafc": 1790059817,
   "a688a349927647a8": 1790754317,
@@ -9878,6 +9900,7 @@
   "af5d72321e9a48f7": 1789627496,
   "af5e708d9318fac5": 1790572796,
   "af5f30e7611cb687": 1790658925,
+  "af5fbcd71e85a206": 1791354615,
   "af648ff06b49bf63": 1790862936,
   "af6687244d7af3e0": 1789958121,
   "af6adf4e308b4bd5": 1790827519,
@@ -11621,6 +11644,7 @@
   "d016097e3f3cbc7f": 1790642813,
   "d017f9b96996eb38": 1791349518,
   "d01bebeedc04297a": 1789958121,
+  "d01ccd71b1a506b0": 1791354615,
   "d01d780b4376bfbe": 1789968847,
   "d0202b9c7156fdca": 1790556223,
   "d0237a0c0e912e8a": 1790058917,
@@ -13994,6 +14018,7 @@
   "fc4d2964f2999110": 1790757930,
   "fc51267a63b5a9d6": 1790678503,
   "fc5995d2b99bed9c": 1790741728,
+  "fc59b21c0581d185": 1791354615,
   "fc5c3d0546baff89": 1790938222,
   "fc6f25d98be5f94d": 1790926783,
   "fc6f9605481392f7": 1790809517,
@@ -14205,7 +14230,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791353724,
- "last_msg_poll": 1791354564,
+ "last_msg_poll": 1791354864,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14240,7 +14265,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 15:29 KST",
+  "last_run": "2026-10-07 15:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
