@@ -439,6 +439,16 @@
    "t": "HD건설기계, 3천900억 규모 북미 데이터센터용 가스발전 엔진 수주 - 파이낸셜신문",
    "ts": 1791355397,
    "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBueXhVMW02SXA4MW9WdUdiUkZrVFpzNktkSUt6V29TN0c1d25GTFNUamg5OXFsUElEZE82V1dRXy1IZnBqSFpseGJNMjZSNjZwa2F6bHRiRVVKMGF5eHZCRVNVSS0zdVJTazdR?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "투데이에너지",
+   "sc": 4,
+   "sec": "데이터센터·AI전력",
+   "t": "스페인·포르투갈, 데이터센터 확대에 ESS 주목 - 투데이에너지",
+   "ts": 1791352049,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56WnVDTGtMRXZUeUFFeFRNcnhtQjVJNXRNVU5tZWlxQTNUNjJtY1RrNW9QenJ4a3piXzdnVE40Y2hIcmpLa3BGWk9UUlV3Ull1UUxEWE9GMWVYUjYxc3BKZi0zMmNJSFRoTFM0LQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -8307,6 +8317,7 @@
   "8f7ca15ea30a9ed9": 1790660118,
   "8f7cb57609f1106d": 1790478323,
   "8f88666ffbb8bfea": 1790663121,
+  "8f8a11bffbdb6b95": 1791356426,
   "8f8ce54b71ba6012": 1790829319,
   "8f8d76127d471655": 1790929616,
   "8f941ee27590449b": 1791254421,
@@ -13228,6 +13239,7 @@
   "ebe2ab057819be65": 1790753132,
   "ebf004ca5a255570": 1789627496,
   "ebfc9c94f04dd730": 1789627496,
+  "ec08bb32df9611f5": 1791356426,
   "ec0c07738bcf5010": 1790742313,
   "ec0ca2cfda4a96c1": 1789635918,
   "ec0fa97b77cc9bb1": 1791158305,
@@ -14344,7 +14356,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791353724,
- "last_msg_poll": 1791356365,
+ "last_msg_poll": 1791356672,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14377,7 +14389,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 15:59 KST",
+  "last_run": "2026-10-07 16:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
