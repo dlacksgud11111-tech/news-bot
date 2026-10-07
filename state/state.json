@@ -354,6 +354,16 @@
    "t": "보령 100MW AI데이터센터 유치 논란…“전력·용수·환경 검증부터” | 뉴스추적 - 유스연합",
    "ts": 1791374565,
    "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QQ3RyRTBEcXFBUHcxZlpjdEgyTXF3aUtiZEVqS2NrbjdteHF0bml3bVRlQWlRenk1VV9leVRtWnFqOVNMUW9uZlJoWjYwLVd6a0d3?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "Danish Parliament adopts \"emergency plan\" for electricity grid, puts data centers at the back of queue",
+   "ts": 1791377441,
+   "u": "https://www.datacenterdynamics.com/en/news/danish-parliament-adopts-emergency-plan-for-electricity-grid-puts-data-centers-at-the-back-of-queue/"
   }
  ],
  "clip_titles": [],
@@ -1998,6 +2008,7 @@
   "1da2aeb9b99cd478": 1790667315,
   "1da77014cf06b7f7": 1789951430,
   "1dad3831c07ba13a": 1789974322,
+  "1db13374d7df6d52": 1791377719,
   "1db52b46c6189a95": 1789706118,
   "1dbebc6b601a457f": 1790824219,
   "1dc1d5e52767e859": 1790651338,
@@ -8663,6 +8674,7 @@
   "945c8dd635491681": 1790557916,
   "945e8623a7ec847c": 1791353122,
   "94640676ed68f313": 1790005215,
+  "9466931e390c0f2f": 1791377719,
   "946743cacbc2ba6a": 1790142019,
   "946794e7c72a45b6": 1789697729,
   "946886c510b79e97": 1791187217,
@@ -14351,6 +14363,7 @@
   "fc5995d2b99bed9c": 1790741728,
   "fc59b21c0581d185": 1791354615,
   "fc5c3d0546baff89": 1790938222,
+  "fc6555e0620d7dc2": 1791377719,
   "fc6f25d98be5f94d": 1790926783,
   "fc6f9605481392f7": 1790809517,
   "fc7231fd19f1d9a9": 1790896239,
@@ -14563,7 +14576,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791375925,
- "last_msg_poll": 1791377662,
+ "last_msg_poll": 1791377964,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14593,7 +14606,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 21:54 KST",
+  "last_run": "2026-10-07 21:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
