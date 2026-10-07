@@ -339,328 +339,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 6,
- "clip_buffer": [
-  {
-   "co": "HD현대일렉트릭",
-   "n": 1,
-   "s": "뉴스퀘스트",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "“마진 깎아먹는다고?”…HD현대일렉트릭, 배전·회전기기 우려가 ‘착시’인 이유” - 뉴스퀘스트",
-   "ts": 1791353578,
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xTUF6VzlWUVlscHVuVGVsR3dLdVN3Q0ZRbXhJb3ZjeUtxZnA0aEtGaW15bXF2azJ0dlZ5UEc1R0o5NXZqRDV3ckdCN1VybFVYS0QxZG1xUTZRSW1JMWVqSXRXWFVacUtPSUw0NW9KOA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 7,
-   "s": "데일리한국",
-   "sc": 12,
-   "sec": "데이터센터·AI전력",
-   "t": "HD건설기계, AI 데이터센터 전력시장 뚫었다…3900억 엔진 수주 - 데일리한국",
-   "ts": 1791350699,
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95ejFfaDl3ZHNwNGFkQ1NaZ0VVeUt2VzFacGFqTlVkdEdkSU1MRDl5N2lManlodFZzM1Y1OHFNVWg2MTUwLUl2VVFUSU52WXY5T2REQmN3aFd2N2N0UGtTU2FjRlRVd24wNGRWTm1Ga9IBc0FVX3lxTE1Yc0lhZkxhb0xyQm1NQmd0NGQ2eUF6ZFFLcnN6Xzc5ODFQZ1R2OW85YmI4OUo2R1lIVU1NanJ0U2duTFFxOEpCNXpSMS1VVzE1Rzc2VEFTQnZvVGZjTWdseEE1WXNDTUxua3h5UENEb0pUbUU?oc=5"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "디지털데일리",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "HD건설기계, 북미 데이터센터에 전력 공급 - 디지털데일리",
-   "ts": 1791353909,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mRXVBdmUyMWJsTHNrYWd2UzhUaVVzNjVPd3dDQzNtMDBLVEJhT1R6Rzdnd2JjYlk0T2FfZ25sS0x5TFlzRm9YSHZxMVZUSmZzcktDSXVRbjBCTXpBd0lSVS1ZbUM?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "허프포스트코리아",
-   "sc": 20,
-   "sec": "전력기기",
-   "t": "LS일렉트릭 대만 최대 석유화학 기업과 합작법인 설립 : 전력기기 공급 넘어 현지 전력 인프라 수주 뛰어든다 - 허프포스트코리아",
-   "ts": 1791347704,
-   "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXWVBhUUtTSnR2dE4yZDdJQkdEUnZCcXdwR1dkbmM5OFp2Tnp0UnBJVkpSYVlRRnp5U2twTnhlZXl3LUUwT3lteTZ2czNyTlpIaTBETk53VQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Heterojunction solar cell built with biomass lignin-based silver paste achieves 25.96% efficiency",
-   "ts": 1791354887,
-   "u": "https://www.pv-magazine.com/2026/10/07/heterojunction-solar-cell-built-with-biomass-lignin-based-silver-paste-achieves-25-96-efficiency/"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 14,
-   "sec": "유틸리티·정책",
-   "t": "박수영 “한전에 2036년까지 46조 혈세 지원…연도별 계획 없이 예산 편성”",
-   "ts": 1791353292,
-   "u": "https://www.etnews.com/20261007000355"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 4,
-   "sec": "원전",
-   "t": "한미 원전 2028년 시동…노예계약 족쇄 푼 정부 속도전",
-   "ts": 1791354889,
-   "u": "https://www.yna.co.kr/view/AKR20261007143900003"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "www.ebn.co.kr",
-   "sc": 16,
-   "sec": "전력기기",
-   "t": "HD건설기계, 북미 데이터센터 전력망 뚫었다…3900억 발전용 엔진 수주 - www.ebn.co.kr",
-   "ts": 1791352622,
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wWG5za1ZYTEJ6ZGVvTW5wWF8zd3JibloweXZZNnFnblUwclhOV0RhTnExQWlBenlyY1FnNVM1Q0J5Q1NYR1BNclpyYkI3akc3V3RSLXNyak9hdERsQmF1RXdCMjRBWk5s?oc=5"
-  },
-  {
-   "co": "LS전선",
-   "n": 1,
-   "s": "한국금융신문",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "'전력 다음은 광통신'…LS전선, AI 데이터센터 '낙수' 효과 기대 - 한국금융신문",
-   "ts": 1791355278,
-   "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLUnExUm12S3JjRnlsRl9kcmhWbnFUN0lQS0tMeFRvNDdVSEJZV0M0ODQ2b0F6QlZFd3hLNWhLUl9wOVJfU2hLVEdSQkp4azdWeVY5TkQ3bE0wVzdUMjN2TnY3aUQyYS1ZLVNtaUNBU3ZHd2t3V3FTbldqUWU?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일경제 : 경제",
-   "sc": 4,
-   "sec": "원전",
-   "t": "美원전 수출때...웨스팅하우스 기술료 지급에 상한둔다",
-   "ts": 1791356001,
-   "u": "https://www.mk.co.kr/news/economy/12170509"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "파이낸셜신문",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "HD건설기계, 3천900억 규모 북미 데이터센터용 가스발전 엔진 수주 - 파이낸셜신문",
-   "ts": 1791355397,
-   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBueXhVMW02SXA4MW9WdUdiUkZrVFpzNktkSUt6V29TN0c1d25GTFNUamg5OXFsUElEZE82V1dRXy1IZnBqSFpseGJNMjZSNjZwa2F6bHRiRVVKMGF5eHZCRVNVSS0zdVJTazdR?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지",
-   "sc": 4,
-   "sec": "데이터센터·AI전력",
-   "t": "스페인·포르투갈, 데이터센터 확대에 ESS 주목 - 투데이에너지",
-   "ts": 1791352049,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56WnVDTGtMRXZUeUFFeFRNcnhtQjVJNXRNVU5tZWlxQTNUNjJtY1RrNW9QenJ4a3piXzdnVE40Y2hIcmpLa3BGWk9UUlV3Ull1UUxEWE9GMWVYUjYxc3BKZi0zMmNJSFRoTFM0LQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 0,
-   "sec": "재생에너지·ESS",
-   "t": "한국수소연합, 철강·청정수소 분야 한·미 협력 확대 제안",
-   "ts": 1791387151,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334875"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 1,
-   "sec": "재생에너지·ESS",
-   "t": "[기획]그래핀부터 수소센서까지…NCCP 신규 9개사 '첨단산업 난제' 공략",
-   "ts": 1791356400,
-   "u": "https://www.etnews.com/20261007000144"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "재생에너지·ESS",
-   "t": "[기획]반도체·배터리·수소 공급망 파고든 나노기업…NCCP 60개사로 확대",
-   "ts": 1791356400,
-   "u": "https://www.etnews.com/20261007000134"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 1,
-   "sec": "유틸리티·정책",
-   "t": "가스공사업협의회, LPG배관망 직접발주 확대 역량 집중",
-   "ts": 1791389585,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228820"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "Hithium’s sodium-ion storage push, where it could win, where it won’t, and path to bankability",
-   "ts": 1791357961,
-   "u": "https://www.pv-magazine.com/2026/10/07/hithiums-sodium-ion-storage-push-where-it-could-win-where-it-wont-and-path-to-bankability/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "스마트비즈",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "군산 찍고 인천까지···현대엔지니어링, 8700억 데이터센터 잇단 수주 - 스마트비즈",
-   "ts": 1791357770,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FTU45WEhMNW9GNk8wa09WYmE3ZVhRYmpXaWpXX3RtdU9BYmxYaWNvS3hDY21lQlFSS1Z4OWljTDRuSHY3WllGc3Z4Zmo1SXA3SmlaajNrR3IzREhOOHlGZmltbFdabEFpY1c1bA?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "테크데일리",
-   "sc": 20,
-   "sec": "전력기기",
-   "t": "LS일렉트릭, 대만 최대 석유화학그룹과 JV... 전력기기 넘어 수주사업 확대 - 테크데일리",
-   "ts": 1791349346,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE04eFZaQS1oano5NWRRUnQ0blYzY3c1SE9NUXM4YWFiZUE0RlpwZUdKMm9BMUhNUEZZSUE3SXBhclQ4QjlScFpIQkJBWUg0dHYwaklSWGpENG0tZFUwdk1IRWc0MFdHQWdGZ0ppNFBOZjZZUdIBckFVX3lxTE04eFZaQS1oano5NWRRUnQ0blYzY3c1SE9NUXM4YWFiZUE0RlpwZUdKMm9BMUhNUEZZSUE3SXBhclQ4QjlScFpIQkJBWUg0dHYwaklSWGpENG0tZFUwdk1IRWc0MFdHQWdGZ0ppNFBOZjZZUQ?oc=5"
-  },
-  {
-   "co": "한전KPS",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 14,
-   "sec": "유틸리티·정책",
-   "t": "한전KPS, AI감사 부작용 방어체계 구축한다",
-   "ts": 1791390765,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303949"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 9,
-   "sec": "재생에너지·ESS",
-   "t": "인천 강화 길정리, 전국 최대 주민주도형 수상태양광 추진",
-   "ts": 1791389431,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303947"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 2,
-   "s": "에너지신문",
-   "sc": 22,
-   "sec": "전력기기",
-   "t": "LS일렉트릭, ‘전력기기 공급→프로젝트 수주’ 대만 시장 확대 - 에너지신문",
-   "ts": 1791358831,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VRnJmNDFVWnlmNkhFZmw2UGl1Y1Rtc0xsX3F2MmhvQ25wZlJKRk9DbzhETGdDc1R0Qi0tejE3djYzaVZCTTNnZ2N3N0U5bkQ5ZlpOMUJqZ0dOdkFOVTZEUXdPVHcxS0M0d0NKU1RsdUVUUQ?oc=5"
-  },
-  {
-   "co": "한전KPS",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 12,
-   "sec": "유틸리티·정책",
-   "t": "한전KPS, AI 감사 부작용 막는다…'이지스' 구축 착수",
-   "ts": 1791358232,
-   "u": "https://www.etnews.com/20261007000435"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "유틸리티·정책",
-   "t": "남부발전, 부산복합 LNG 직도입…발전5사 통합 대비",
-   "ts": 1791356786,
-   "u": "https://www.etnews.com/20261007000409"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 7,
-   "sec": "재생에너지·ESS",
-   "t": "태양광 원격제어 통신에 암호모듈 적용...민간 공급 확대",
-   "ts": 1791391918,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228823"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "AI타임스",
-   "sc": 16,
-   "sec": "데이터센터·AI전력",
-   "t": "구글, AI 데이터센터 전력 확보 위해 3.6GW 규모 원전 계약 체결 - AI타임스",
-   "ts": 1791359400,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52MGRkRVJLcDJIN0ZMRGwtbTdwbTE1dVZGVGlwLWJfRVRQaklBSkJHQ1JSSVNGZmxaeGNHQV9fekp5WjZaejBXSUVKTGtscWRQN2tteXY0cXVaLW1HSGx6TjhZNnF0MVQ2Rnc?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "한국정경신문",
-   "sc": 14,
-   "sec": "데이터센터·AI전력",
-   "t": "LS일렉트릭, 북미 수주 확대..AI 데이터센터 타고 실적 고공행진 - 한국정경신문",
-   "ts": 1791338039,
-   "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWUURRaElKOG1KbjY5S1pXZTlLSnppeVlNZW1tT050X2o2NjlTUGtVd19PSFU0MW9IS2lRbEVMc01lQWRfWlg4bTRlY1RqaUl0VVE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 3,
-   "sec": "데이터센터·AI전력",
-   "t": "LS에코에너지, AI데이터센터 버스덕트 생산설비에 투자",
-   "ts": 1791392387,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334892"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "안근표 씨케이솔루션 대표, “올해는 제2의 창업…반도체·데이터센터로 성장축 확대”",
-   "ts": 1791360000,
-   "u": "https://www.etnews.com/20261007000080"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "더파워",
-   "sc": 8,
-   "sec": "건설·플랜트",
-   "t": "기기만 팔던 대만서 EPC까지…LS일렉트릭, 포모사그룹과 합작법인 설립 - 더파워",
-   "ts": 1791337599,
-   "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfR1h0OXVWa0lvekZJMmtuSEQ4Vy1CcHN4VGZLRHdGVGpOWHIyUk5zSF9fXzhJcGdUN1dJTDI4RzVTc2ZlY3BvTDc3dnhBZDAzUW84ZkRXc0ZhcnFiSlNvWDhmUVA1U1Q4bTZYTnJOZlZWcU9EWmNORTM3dmg?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Dutch BESS developer Giga Storage brings gigawatt-hour-scale project strategy to Germany",
-   "ts": 1791360817,
-   "u": "https://www.energy-storage.news/dutch-bess-developer-giga-storage-brings-gigawatt-hour-scale-project-strategy-to-germany/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "포쓰저널",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "한화, AI 데이터센터 전력난 공략…발전·저장·소비 통합 관리 - 포쓰저널",
-   "ts": 1791360422,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnajFqbjB0a3pKS0V0M0hTU0E4T05UZFVKbXpLRExib3phUUNlcXhXWTAtdlk3SXpZeWc1ZHNydzZiOXZGdEVGdHB0cnZhVkIzb3lpUnpjNTFkUU54VVA4ZndnRF8?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -1219,6 +898,7 @@
   "0aeab31aa481fbbe": 1789953163,
   "0aec1983a7dcee06": 1789715428,
   "0afa2a625ca2f47f": 1790163629,
+  "0afb274aa35a9a37": 1791361221,
   "0aff620cea0a678e": 1790699001,
   "0b01954fbd956186": 1791298921,
   "0b0f2bb392a6c38e": 1789948225,
@@ -4046,6 +3726,7 @@
   "3c4947b5d66618aa": 1791215719,
   "3c500e24184b1c84": 1789787129,
   "3c5287ccf2076ed7": 1791285326,
+  "3c56b6d6063f2fe6": 1791361221,
   "3c584012bc013353": 1789736719,
   "3c613eb2eadf9ea4": 1790042975,
   "3c65bf708d25382c": 1790744723,
@@ -4939,6 +4620,7 @@
   "4be3a4acf66d07d0": 1790809517,
   "4bef685fe274bcdc": 1790759086,
   "4bf1b2e684080192": 1790640533,
+  "4bf69583be1c02cc": 1791361221,
   "4bf72ece45d59fe1": 1790560518,
   "4c0085421e63fd51": 1789744015,
   "4c079bb12e9f4211": 1789630519,
@@ -6823,6 +6505,7 @@
   "6deb7f1e21ea732a": 1791313803,
   "6decc3ce99a9e7c2": 1789965922,
   "6dee3c0c796dba3b": 1790247019,
+  "6df05d5515680be3": 1791361221,
   "6df99a8ef1e7385b": 1790986592,
   "6dfb717bc4630a44": 1789962027,
   "6dfbac375b19bc23": 1790932532,
@@ -7693,6 +7376,7 @@
   "7e3f9ecaf59aa9a3": 1789635618,
   "7e3ff94f49c0a19c": 1789853389,
   "7e400834416826b4": 1790907023,
+  "7e444356f143ced3": 1791361221,
   "7e457fcd9978b37a": 1789896916,
   "7e46f13cac00e2a9": 1790556223,
   "7e48c4be6224c3d5": 1791341603,
@@ -12707,6 +12391,7 @@
   "dc0370f48f10e50e": 1790947219,
   "dc0570f562ead56a": 1790841922,
   "dc06a253062b0ae4": 1790050530,
+  "dc0b24fa0c791280": 1791361221,
   "dc0d0669ca439673": 1790923816,
   "dc0d1c9af839636d": 1790193022,
   "dc0d950bfa897b70": 1790824522,
@@ -14706,8 +14391,8 @@
  },
  "companies_today": {},
  "day": "2026-10-07",
- "last_clip": 1791353724,
- "last_msg_poll": 1791361170,
+ "last_clip": 1791361221,
+ "last_msg_poll": 1791361468,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14740,7 +14425,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 17:19 KST",
+  "last_run": "2026-10-07 17:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
