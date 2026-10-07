@@ -329,198 +329,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 4,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 2,
-   "s": "지디넷코리아",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "한화, AI로 데이터센터 전력 낭비 잡는다…美 '차세대 신기술' 선정 - 지디넷코리아",
-   "ts": 1791338971,
-   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1teTBBamhxM2J5MmZtY0w1VnJfQTNZaHdPbFBKVXM1Z21INHlya21aWkhmU0RGc0JGaUlIQ1RzVjNydmFCQlQ2cTkyLXQ2bGhnRVFpUmZ3?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴스밸류",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "[심층분석] 데이터센터 전력난 해법으로 떠오른 ‘AI EMS’…한화, 전력 생산·저장·소비 통합관리로 미국 시장 공략 - 뉴스밸류",
-   "ts": 1791339299,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mWTJBNEdyQTRiSVNNTUJsZ29waWZDSDVrZVZvX0tZaWdybS1fdGpha01JNEEyeE9NMW1kSHk4UWZ5SVp3NmdnQWdpZURhSXhyTTNQcjNLdTJuME05eGtUa2VHaXRTcHQ4dnc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 3,
-   "sec": "재생에너지·ESS",
-   "t": "[국정감사] 연료전지 지고 히트펌프 뜬다",
-   "ts": 1791372697,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303909"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 5,
-   "sec": "유틸리티·정책",
-   "t": "남부발전 ‘LNG 직도입 설명회’ 개최",
-   "ts": 1791372579,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303920"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 1,
-   "sec": "데이터센터·AI전력",
-   "t": "반도체·데이터센터에 외국인투자 몰렸다…3분기 누적 역대 최대",
-   "ts": 1791372416,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373162"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 6,
-   "sec": "원전",
-   "t": "원전수출 컨트롤타워 민관 협력 강화…‘원전수출 리더스포럼’ 출범",
-   "ts": 1791372105,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373160"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투데이",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "[ESGX 이슈 5] 구글, 美 원전 11기 출력 높인다…AI 전력 확보에 43억달러 투자 - 이투데이",
-   "ts": 1791338760,
-   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PQ09DbWM2SmxJTXhGYzNrOHZOY3VTa184bF9mODRvUzJDQ0NLVWJYTm5ocE9wbzlLbnVxQ094UndyV0xhZ0xJdHpaVGUzNUZLdmJ5MUdCbVhQM29mMkV0N0o0T3F3X3pzSlNNUlVpRGo3WGk2?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "폴리뉴스 Polinews",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "[2026 국감-환노위] 산업용 지역 전기요금·AI센터전력수요·호남 반도체·전기본 집중 질의…김성환 장관 \"국가 에너지정책 차질 없이 추진\" - 폴리뉴스 Polinews",
-   "ts": 1791341077,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CeWxfLTVDUnROMGRJZjllcUxHcVdJRmpaUzgtNmhGY1dfZGZGZEhMMWFVNTVwVnFQTEstb0R5V0xIZlE4bmRXV1hEYVlVUnpvMU9MNFFtZ0gySjgzSFZpdUV0bjJORGtFVXdUbTFB?oc=5"
-  },
-  {
-   "co": "한국전력",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 11,
-   "sec": "유틸리티·정책",
-   "t": "한전KDN, 민간 태양광 발전 사이버 안보 강화",
-   "ts": 1791374424,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303926"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 1,
-   "sec": "유틸리티·정책",
-   "t": "[국감자료] 알래스카 LNG, 검증 전 추진 논란…산업부, '미확정' 입장 고수",
-   "ts": 1791373907,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303919"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "디지털투데이",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "데이터센터 미국에 가장 많은데…'물 스트레스' 칠레·벨기에가 극심 - 디지털투데이",
-   "ts": 1791342194,
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83RjdvbEpvY2FGblhReDQ5UkwzZGNiTTdUZUNZcnlQcVJyZW9DdVN0YnVCOU9BZFM1dnJhMUsyTEJXVEc3czhrVmo5NEhBTDdWckRnaTBVM0t0dWtDNEx2b1Z2cGNRbzlfV29fb2dsNnJSaGM?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "[인터뷰]미주개발은행 마우리시오 바요나, “건설연 등 한국 인프라 건설 기술 훌륭...중남미 건설 수요 연결 돕겠다”",
-   "ts": 1791342000,
-   "u": "https://www.etnews.com/20261007000004"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "[2026국감]농해수위 국감 첫날 '농지·태양광' 공방…송미령 “농지조사, 제도개편 위한 것”",
-   "ts": 1791340698,
-   "u": "https://www.etnews.com/20261007000179"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "마켓인",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터 더 빨리 늘어난다…삼성·LG, ‘냉각’ 공략 속도 - 마켓인",
-   "ts": 1791269644,
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ERnJkamk2VUo5UHA4RHJ2TS1VMndoWUoyOE9hYU1pOUQzVFBWR1h4bkZEdlE5WDRZQkhrTUpQSk5hNWIweWRqRXZ1UnRrLV9fd0xmRUNRdm5KTEpKUEl1czNhdkgtLWU5R2ZjRTVfVmU5TGM?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "뉴스퀘스트",
-   "sc": 20,
-   "sec": "전력기기",
-   "t": "전력기기 공급 넘어 현지 수주로…LS일렉트릭, 대만 합작사 추진 - 뉴스퀘스트",
-   "ts": 1791333449,
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XSHpFbE9wQXNHOWU1bzFQVjdXejZkb3Z3bzRVTXhocDRWYzVLZkx4Nmo4X3NUUzhyX2s5UUNzZ0s4UmFfeElJSlljSDFZTGc1TFRZQkNWdFliZi0yT1ZLNDhwcVVlbmtWdk9vTFB3RQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Daum",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "기후부 장관, 데이터센터 전력수요 ‘뻥튀기’ 지적에 “과잉 추계된 측면 있다” 시인 - Daum",
-   "ts": 1791278051,
-   "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85UlFBZXlfbTZQWk1ZMDVtVmRjdXJQWXFXa2NRWWdRaWduY2hHT01zR29TcXhRdVJCZkh6dTNxdFViaEZRMVhfZzU1QmlTb1lhSGJNTg?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "워크투데이",
-   "sc": 8,
-   "sec": "데이터센터·AI전력",
-   "t": "한화 AI 에너지관리 기술, 美 ‘패스트 컴퍼니’ 주관 ‘차세대 신기술’ 선정 … 데이터센터 전력 효율화 주목 - 워크투데이",
-   "ts": 1791344440,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XbFVidFRmUHhneHUxb1hTODFRdlhnN1BaSVdETnVYNGhRbVFDOU1wMWFlUnFpeVdBM19XRVFGMXNMang3SC1WWFlHT2c2RU1uZktMb1VSXzlXYndBUUpIWm54empXX0tKelhLRQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Daum",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "[오늘장 탑픽] AI 데이터센터發 냉각솔루션株 뜬다…LG전자·GST 주목 - Daum",
-   "ts": 1791333549,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwUUxaMjBMY0dwY2w2MGRTQ1g1OW1uejFoT01DRk5fcmktRjM3THh2OXlESjg1VlVEQW14VXRNU1d2X0RkREE4RDQ3SkZjOTQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Daum",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "김성환 \"데이터센터 전력수요 과잉 추계…사업 불확실성 반영\" - Daum",
-   "ts": 1791278463,
-   "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBvV0xNTkZESk01d1NyVkd6aUdVRG91eG1mQy10OHNHT1pjWVFXZFc0WTJZN2xMZXlKa1ZCYnpEWW1LMDNMVVE?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -4081,6 +3890,7 @@
   "417e1cc1be23428e": 1789967690,
   "418077e5bfb27aa1": 1790805917,
   "41865bd72bddced8": 1791333915,
+  "4187f3120e9f68ac": 1791346232,
   "418c16f3ec3ae3bf": 1791212119,
   "418e849ce727609b": 1790560518,
   "418f29b8801c8314": 1790670021,
@@ -4441,6 +4251,7 @@
   "4779cdd5400e2de2": 1791281118,
   "477b0865293c613f": 1790908520,
   "4784cf6db543100b": 1790559919,
+  "478bbc4d153158c6": 1791346232,
   "4793a050c02f55de": 1790746536,
   "479a100b4b143e54": 1790728933,
   "47a132d4a542b5b8": 1791009922,
@@ -14144,8 +13955,8 @@
  },
  "companies_today": {},
  "day": "2026-10-07",
- "last_clip": 1791339021,
- "last_msg_poll": 1791346172,
+ "last_clip": 1791346232,
+ "last_msg_poll": 1791346478,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14180,7 +13991,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 13:09 KST",
+  "last_run": "2026-10-07 13:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
