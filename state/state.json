@@ -449,6 +449,16 @@
    "t": "스페인·포르투갈, 데이터센터 확대에 ESS 주목 - 투데이에너지",
    "ts": 1791352049,
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TenpJa19oSDRNQ2luQ251SVJaZTctYVUtUG15NDQ1dXAwVXE3N0NhWHBWdmMtY0xTOW12a0MwX3FJcElTZzZTaEkwS1BGUGt1cDBVT2xYMVNCVnRXWjNuaEhBSGRLV1o1RFJYLURR?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "속보 - 이티뉴스",
+   "sc": 0,
+   "sec": "재생에너지·ESS",
+   "t": "[기후테크, 산업을 바꾸다③]배터리 속 얇은 막 하나…화재 위험 낮추는 기술",
+   "ts": 1791399600,
+   "u": "https://www.etnews.com/20261007000112"
   }
  ],
  "clip_titles": [],
@@ -974,6 +984,7 @@
   "0a0ce1112f3217b6": 1790660118,
   "0a13f0038a478570": 1789629088,
   "0a17c43adc05aa5f": 1790646615,
+  "0a1b5fad8bf8ac71": 1791399920,
   "0a208b8518dd78a7": 1790898922,
   "0a23eeeb34a7c328": 1789707915,
   "0a27bb76cf50b9c5": 1790551516,
@@ -8171,6 +8182,7 @@
   "890f28abfd073e3f": 1790926783,
   "8913a2ac379751ea": 1789962027,
   "8913df017a104ab7": 1790923232,
+  "891782a63d10d372": 1791399920,
   "89242c4b64cf61e1": 1790932820,
   "8924889e97531aa8": 1790592618,
   "892cf1af52535122": 1790132132,
@@ -14700,7 +14712,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791383419,
- "last_msg_poll": 1791399867,
+ "last_msg_poll": 1791400170,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14728,7 +14740,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-08 04:04 KST",
+  "last_run": "2026-10-08 04:09 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
