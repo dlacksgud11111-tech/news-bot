@@ -344,7 +344,18 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 7,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "POWER Magazine",
+   "sc": 14,
+   "sec": "원전",
+   "t": "How Advanced Nuclear Can Expand Utility Options",
+   "ts": 1791384458,
+   "u": "https://www.powermag.com/how-advanced-nuclear-can-expand-utility-options/"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -8338,6 +8349,7 @@
   "8e551685fc088462": 1791189930,
   "8e55f2b06dded70f": 1789652129,
   "8e605741be735460": 1790568321,
+  "8e6b08a0a4bc6eda": 1791384621,
   "8e6c2cd2691568d1": 1789627496,
   "8e6d1a678c49840d": 1791090919,
   "8e782f7a21f06937": 1789698990,
@@ -14572,7 +14584,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791383419,
- "last_msg_poll": 1791384567,
+ "last_msg_poll": 1791384866,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14602,7 +14614,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 23:49 KST",
+  "last_run": "2026-10-07 23:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
