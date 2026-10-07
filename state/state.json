@@ -379,6 +379,16 @@
    "t": "Toyo cuts the ribbon on its newly-expanded solar factory in Texas",
    "ts": 1791387463,
    "u": "https://www.pv-magazine.com/2026/10/07/toyo-cuts-the-ribbon-on-its-newly-expanded-solar-factory-in-texas/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AirTrunk plans additional $1bn investment in data center campus in Inzai, Japan",
+   "ts": 1791389415,
+   "u": "https://www.datacenterdynamics.com/en/news/airtrunk-plans-additional-1bn-investment-in-data-center-campus-in-inzai-japan/"
   }
  ],
  "clip_titles": [],
@@ -5088,6 +5098,7 @@
   "5265e271d24b84dd": 1790650193,
   "526dff31cc9941e4": 1791151828,
   "52722111559b47a1": 1790586617,
+  "527a13e6552527c0": 1791389920,
   "527d3c1b1b8792d2": 1790042975,
   "527e4e95ba8700af": 1790370130,
   "528c708b134973c3": 1790863523,
@@ -6547,6 +6558,7 @@
   "6c800801e6b091c2": 1789691718,
   "6c85408b112ca956": 1789627496,
   "6c863d16802c46cc": 1789627496,
+  "6c8727a348835a37": 1791389920,
   "6c8b077e533d9d5f": 1789627496,
   "6c8b33c93f1afff4": 1790123718,
   "6c91adf2e6d52e26": 1789797679,
@@ -7188,6 +7200,7 @@
   "7812710f6512eb9f": 1789731320,
   "78267039bcb108b6": 1790553879,
   "782bcb957f4186f4": 1790053518,
+  "782bcd44d8302257": 1791389920,
   "782c892dba060c2a": 1789646718,
   "782cb3cdcfacc378": 1790044716,
   "7830f114694a3fbf": 1790802441,
@@ -14618,7 +14631,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791383419,
- "last_msg_poll": 1791389604,
+ "last_msg_poll": 1791390165,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14648,7 +14661,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-08 01:13 KST",
+  "last_run": "2026-10-08 01:22 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
