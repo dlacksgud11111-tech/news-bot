@@ -364,6 +364,16 @@
    "t": "보령 100MW AI데이터센터, 무엇이 확인됐고 무엇을 검증해야 하나 - 저널25방송",
    "ts": 1791375978,
    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zSzFRV1RKeG9UTk5VY081WHZ3QlZPY0t2QzJqODJLa00tNFhnMTBkMHhpRGlCYlRhSDhydjVBQTllVzFjQjFYT1U5MF9mS3FMbE9xN0dSNFlPcnFkRHI4ZXE1MTUtd1AyOUFQSQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스 경제 최신기사",
+   "sc": 0,
+   "sec": "건설·플랜트",
+   "t": "관악구, 신림8구역 조합설립인가…\"30개동 2천257세대로 재개발\"",
+   "ts": 1791414311,
+   "u": "https://www.yna.co.kr/view/AKR20261008025300004"
   }
  ],
  "clip_titles": [],
@@ -6720,6 +6730,7 @@
   "6f4f6fcebb44e93c": 1790907917,
   "6f5331acb38661e5": 1789636217,
   "6f542db772725e5d": 1790829018,
+  "6f595841064cf2ac": 1791414921,
   "6f5d21ba57167559": 1790300885,
   "6f5d30f366412bf1": 1790658361,
   "6f5e130f0674b2d5": 1789971751,
@@ -12302,6 +12313,7 @@
   "d5abdc4b43c8e8f7": 1790732122,
   "d5ace792ef461192": 1789637719,
   "d5b75f604a26dfe4": 1790492713,
+  "d5b9703acba279bf": 1791414921,
   "d5bcc04fec2f8450": 1790035999,
   "d5bdafbef7509cf4": 1789957222,
   "d5bf62a276882b12": 1790658925,
@@ -14657,7 +14669,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791410827,
- "last_msg_poll": 1791414864,
+ "last_msg_poll": 1791415160,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14676,7 +14688,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 08:14 KST",
+  "last_run": "2026-10-08 08:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
