@@ -354,6 +354,16 @@
    "t": "How Advanced Nuclear Can Expand Utility Options",
    "ts": 1791384458,
    "u": "https://www.powermag.com/how-advanced-nuclear-can-expand-utility-options/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 7,
+   "sec": "원전",
+   "t": "DCD Studio: The rise of US nuclear power, with Mark Gusakov, The Digital Infrastructure Alliance",
+   "ts": 1791386933,
+   "u": "https://www.datacenterdynamics.com/en/videos/dcd-studio-the-rise-of-us-nuclear-power-with-mark-gusakov-the-digital-infrastructure-alliance/"
   }
  ],
  "clip_titles": [],
@@ -3883,6 +3893,7 @@
   "3ddb3dfd1bf3d34d": 1790243423,
   "3de4ebb57bc19170": 1790831115,
   "3de5c17149ccc9ad": 1790816717,
+  "3de8eb7883bf96a5": 1791387317,
   "3deb3a3b16fff22c": 1791169068,
   "3debc42401f12e65": 1789936425,
   "3df5380010d7f61e": 1790902521,
@@ -5002,6 +5013,7 @@
   "51691d44686f5541": 1790901316,
   "516c5fd0c0034e3a": 1790716383,
   "516ff5c77a0a0485": 1790823919,
+  "517d308d3c5a1d6e": 1791387317,
   "517de7e545dfd9f3": 1790658361,
   "5181b4a67a408f04": 1790824522,
   "518ffef389f49c7f": 1791347720,
@@ -11532,6 +11544,7 @@
   "c7dd0144cb7bda3d": 1791245120,
   "c7de5cd5004a8c4e": 1790921419,
   "c7ede9d7f4c0f7f5": 1791254118,
+  "c7f576e691de1938": 1791387317,
   "c80170ce46eccb46": 1791359152,
   "c801f6f0cece0832": 1789986916,
   "c802d0653d1255f3": 1789697120,
@@ -14586,7 +14599,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791383419,
- "last_msg_poll": 1791387264,
+ "last_msg_poll": 1791387568,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14616,7 +14629,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-08 00:34 KST",
+  "last_run": "2026-10-08 00:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
