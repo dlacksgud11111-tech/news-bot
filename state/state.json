@@ -1,7 +1,7 @@
 {
  "alert_cooldown": {
   "HD현대일렉트릭|수주·계약": 1790662216,
-  "LS일렉트릭|수주·계약": 1791387630,
+  "LS일렉트릭|수주·계약": 1791410826,
   "LS일렉트릭|투자·증설": 1791360622,
   "LS전선|수주·계약": 1789713632,
   "Vertiv|투자·증설": 1790328618,
@@ -278,6 +278,10 @@
   [
    1791387630,
    "LS일렉트릭, 대만서 전력기기 넘어 수주사업 확대…현지 합작법인 설립"
+  ],
+  [
+   1791410826,
+   "LS일렉트릭 대만 최대 석유화학 기업과 합작법인 설립 : 전력기기 공급 넘어 현지 전력 인프라 수주 뛰어든다"
   ]
  ],
  "alerted": {
@@ -346,131 +350,11 @@
   "edfddc9558a892b9": 1791329340,
   "f0f4cc942107030e": 1790662216,
   "f1b9bc6a34eac3f9": 1790921418,
+  "fc59b21c0581d185": 1791410826,
   "fe7b17c162f91919": 1790498127
  },
- "alerted_today": 1,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "POWER Magazine",
-   "sc": 14,
-   "sec": "원전",
-   "t": "How Advanced Nuclear Can Expand Utility Options",
-   "ts": 1791384458,
-   "u": "https://www.powermag.com/how-advanced-nuclear-can-expand-utility-options/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 7,
-   "sec": "원전",
-   "t": "DCD Studio: The rise of US nuclear power, with Mark Gusakov, The Digital Infrastructure Alliance",
-   "ts": 1791386933,
-   "u": "https://www.datacenterdynamics.com/en/videos/dcd-studio-the-rise-of-us-nuclear-power-with-mark-gusakov-the-digital-infrastructure-alliance/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Toyo cuts the ribbon on its newly-expanded solar factory in Texas",
-   "ts": 1791387463,
-   "u": "https://www.pv-magazine.com/2026/10/07/toyo-cuts-the-ribbon-on-its-newly-expanded-solar-factory-in-texas/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "AirTrunk plans additional $1bn investment in data center campus in Inzai, Japan",
-   "ts": 1791389415,
-   "u": "https://www.datacenterdynamics.com/en/news/airtrunk-plans-additional-1bn-investment-in-data-center-campus-in-inzai-japan/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "POWER Magazine",
-   "sc": 6,
-   "sec": "원전",
-   "t": "Google Deal Backs 890 MW of Constellation Nuclear Uprates at 11 PJM Reactors",
-   "ts": 1791390354,
-   "u": "https://www.powermag.com/google-deal-backs-890-mw-of-constellation-nuclear-uprates-at-11-pjm-reactors/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일경제",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "HD건설기계, 美 데이터센터 발전용 엔진 3900억 수주 - 매일경제",
-   "ts": 1791359069,
-   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rWmtuaUxhaDJSWkFrZk91SEhDYnhwQVZ1cFVadW5uUmJ5S3Flc3V6dXZiY3hEemxfckFOTlFubDhlZHFpOV80Mk1tS2tyWFg4azhqYmVn?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "팝콘뉴스",
-   "sc": 20,
-   "sec": "전력기기",
-   "t": "LS일렉트릭, 대만서 전력기기 넘어 수주사업 확대…현지 합작법인 설립 - 팝콘뉴스",
-   "ts": 1791358845,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zTFRoM2NyS0pBT1JRM0VDY2tYMXd0dFFiNXZhUU1Tb1c0MkVrZC1ZVkN2dEZnTjBMZUFpbDBSaWJjQmtpdzIwdUlMaTdqZlFDbVktTlZrN3FIVENMdmMzcXcwSk1RYUpVLVNtOW9R0gFyQVVfeXFMUEhsTl9QUWoyTU1tenk1a0pYSm85QW9oNVhtNTVWVERIRlZRNkJvaW1PWF92OHJUdVRKSkY0ZGQ0QVE2eDltUS1MZjY1Nld1MWZjc3hPMkxQeXBPMUFxSWpBT05HRkZvSnVrbFpodWlXZjJ3?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "얼리어답터뉴스",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "보령 100MW AI데이터센터 유치 논란…“전력·용수·환경 검증부터” | 뉴스추적 - 얼리어답터뉴스",
-   "ts": 1791374564,
-   "u": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1TUmExY2YyTWNGUzFEaW5GM3c0bjdQX2VfS0RpcnJmWWhXNFB5RmlENmNuOXk4VFdFYkdRZllQSFVHS2ZqQmszYURn?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스",
-   "sc": 6,
-   "sec": "원전",
-   "t": "구글, 美최대 원전기업 컨스텔레이션서 3.6GW 전력공급 계약 - 연합뉴스",
-   "ts": 1791319908,
-   "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vU3lHdWpEdUlBaW16VFYtem9VbXJjb2U0WnM4WFpLSFRFQ2tvWXNjMFdLWGJmUDFnV1FQX19FMHhvYXU1QmxBTFp0NXlHSG1ma29QelZ4OVJfTjjSAWBBVV95cUxOMU5heGZDaERCMHdCZ0ZwMVVwTWdNdFhlNVlFa2tHeG1EWFFmdWNVcF9meGFyN1dlZGF3SGJtbkpRYW8wZFJTQ0J6UWJpVGRaaEN1aHpRSUVxYm9rMENjaC0?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지",
-   "sc": 4,
-   "sec": "데이터센터·AI전력",
-   "t": "스페인·포르투갈, 데이터센터 확대에 ESS 주목 - 투데이에너지",
-   "ts": 1791352049,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TenpJa19oSDRNQ2luQ251SVJaZTctYVUtUG15NDQ1dXAwVXE3N0NhWHBWdmMtY0xTOW12a0MwX3FJcElTZzZTaEkwS1BGUGt1cDBVT2xYMVNCVnRXWjNuaEhBSGRLV1o1RFJYLURR?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "재생에너지·ESS",
-   "t": "[기후테크, 산업을 바꾸다③]배터리 속 얇은 막 하나…화재 위험 낮추는 기술",
-   "ts": 1791399600,
-   "u": "https://www.etnews.com/20261007000112"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Waterless fire suppression is becoming key for data center community relations",
-   "ts": 1791403200,
-   "u": "https://www.datacenterdynamics.com/en/opinions/waterless-fire-suppression-is-becoming-key-for-data-center-community-relations/"
-  }
- ],
+ "alerted_today": 2,
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -7979,6 +7863,7 @@
   "84ecdc44a0211dd4": 1791331618,
   "84ee7e592b1896df": 1789963516,
   "84f5a2d5fbfea61d": 1790694621,
+  "84f6877a3c50a130": 1791410827,
   "84fe580adaedac70": 1790824219,
   "84fe8d67861a88af": 1790928485,
   "85058ec13281d92f": 1791268521,
@@ -13336,6 +13221,7 @@
   "e7aa3d056ab99071": 1789963516,
   "e7aa971039e794ea": 1790847338,
   "e7ab11bc5ec4a1b8": 1790921128,
+  "e7ac53e1955dd039": 1791410827,
   "e7ad4a01c0eede5c": 1789859418,
   "e7ae07a7920f3f9c": 1790557916,
   "e7af8230d07c0e30": 1790478323,
@@ -14739,8 +14625,8 @@
  },
  "companies_today": {},
  "day": "2026-10-08",
- "last_clip": 1791383419,
- "last_msg_poll": 1791410499,
+ "last_clip": 1791410827,
+ "last_msg_poll": 1791411068,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14759,7 +14645,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 07:01 KST",
+  "last_run": "2026-10-08 07:11 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
