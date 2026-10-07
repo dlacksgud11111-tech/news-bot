@@ -439,6 +439,16 @@
    "t": "구글, 美최대 원전기업 컨스텔레이션서 3.6GW 전력공급 계약 - 연합뉴스",
    "ts": 1791319908,
    "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vU3lHdWpEdUlBaW16VFYtem9VbXJjb2U0WnM4WFpLSFRFQ2tvWXNjMFdLWGJmUDFnV1FQX19FMHhvYXU1QmxBTFp0NXlHSG1ma29QelZ4OVJfTjjSAWBBVV95cUxOMU5heGZDaERCMHdCZ0ZwMVVwTWdNdFhlNVlFa2tHeG1EWFFmdWNVcF9meGFyN1dlZGF3SGJtbkpRYW8wZFJTQ0J6UWJpVGRaaEN1aHpRSUVxYm9rMENjaC0?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "투데이에너지",
+   "sc": 4,
+   "sec": "데이터센터·AI전력",
+   "t": "스페인·포르투갈, 데이터센터 확대에 ESS 주목 - 투데이에너지",
+   "ts": 1791352049,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TenpJa19oSDRNQ2luQ251SVJaZTctYVUtUG15NDQ1dXAwVXE3N0NhWHBWdmMtY0xTOW12a0MwX3FJcElTZzZTaEkwS1BGUGt1cDBVT2xYMVNCVnRXWjNuaEhBSGRLV1o1RFJYLURR?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3367,6 +3377,7 @@
   "33b5940e205a9b3f": 1791287418,
   "33c62320ebb8ab57": 1790151015,
   "33ccaa298cec0734": 1791251720,
+  "33d3e8f226b4536f": 1791398116,
   "33d9ac5d2fda62ab": 1790671821,
   "33dafd20fb17bbca": 1790658361,
   "33df75bbb10ab067": 1790557916,
@@ -11631,6 +11642,7 @@
   "c7dd0144cb7bda3d": 1791245120,
   "c7de5cd5004a8c4e": 1790921419,
   "c7ede9d7f4c0f7f5": 1791254118,
+  "c7f351ddce743aaf": 1791398116,
   "c7f576e691de1938": 1791387317,
   "c80170ce46eccb46": 1791359152,
   "c801f6f0cece0832": 1789986916,
@@ -14688,7 +14700,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791383419,
- "last_msg_poll": 1791398066,
+ "last_msg_poll": 1791398363,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14716,7 +14728,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-08 03:34 KST",
+  "last_run": "2026-10-08 03:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
