@@ -419,6 +419,16 @@
    "t": "LS일렉트릭, 대만서 전력기기 넘어 수주사업 확대…현지 합작법인 설립 - 팝콘뉴스",
    "ts": 1791358845,
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zTFRoM2NyS0pBT1JRM0VDY2tYMXd0dFFiNXZhUU1Tb1c0MkVrZC1ZVkN2dEZnTjBMZUFpbDBSaWJjQmtpdzIwdUlMaTdqZlFDbVktTlZrN3FIVENMdmMzcXcwSk1RYUpVLVNtOW9R0gFyQVVfeXFMUEhsTl9QUWoyTU1tenk1a0pYSm85QW9oNVhtNTVWVERIRlZRNkJvaW1PWF92OHJUdVRKSkY0ZGQ0QVE2eDltUS1MZjY1Nld1MWZjc3hPMkxQeXBPMUFxSWpBT05HRkZvSnVrbFpodWlXZjJ3?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "얼리어답터뉴스",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "보령 100MW AI데이터센터 유치 논란…“전력·용수·환경 검증부터” | 뉴스추적 - 얼리어답터뉴스",
+   "ts": 1791374564,
+   "u": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1TUmExY2YyTWNGUzFEaW5GM3c0bjdQX2VfS0RpcnJmWWhXNFB5RmlENmNuOXk4VFdFYkdRZllQSFVHS2ZqQmszYURn?oc=5"
   }
  ],
  "clip_titles": [],
@@ -8172,6 +8182,7 @@
   "8987be7490af89f3": 1789889765,
   "898b474d5e10f975": 1790918119,
   "898b5342c8baa974": 1789872360,
+  "898f47d4cd90b995": 1791396915,
   "89916f683d94e5d2": 1790124922,
   "8992068551b3cab5": 1790757930,
   "89974f8f5ab399f6": 1790818527,
@@ -14666,7 +14677,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791383419,
- "last_msg_poll": 1791396865,
+ "last_msg_poll": 1791397163,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14694,7 +14705,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-08 03:14 KST",
+  "last_run": "2026-10-08 03:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
