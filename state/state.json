@@ -389,6 +389,16 @@
    "t": "AirTrunk plans additional $1bn investment in data center campus in Inzai, Japan",
    "ts": 1791389415,
    "u": "https://www.datacenterdynamics.com/en/news/airtrunk-plans-additional-1bn-investment-in-data-center-campus-in-inzai-japan/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "POWER Magazine",
+   "sc": 6,
+   "sec": "원전",
+   "t": "Google Deal Backs 890 MW of Constellation Nuclear Uprates at 11 PJM Reactors",
+   "ts": 1791390354,
+   "u": "https://www.powermag.com/google-deal-backs-890-mw-of-constellation-nuclear-uprates-at-11-pjm-reactors/"
   }
  ],
  "clip_titles": [],
@@ -4650,6 +4660,7 @@
   "4a4b133cab97577c": 1790061315,
   "4a4b7d8d33c13d36": 1790729518,
   "4a5025ef889fafad": 1790298315,
+  "4a5a8e7190692266": 1791390481,
   "4a5d1868fb02c3b7": 1791338726,
   "4a61fdc3c8bb8cbc": 1790040620,
   "4a650738589b54eb": 1790059221,
@@ -8979,6 +8990,7 @@
   "9911863eef3cca9e": 1791009922,
   "99160298832d1178": 1789724997,
   "992f8bc868c511c5": 1790082587,
+  "99349e99d4de935b": 1791390481,
   "993b4490d0027ff0": 1790828127,
   "99462ccc0519934d": 1789632918,
   "9946a3cd9778aff2": 1790030116,
@@ -14631,7 +14643,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791383419,
- "last_msg_poll": 1791390165,
+ "last_msg_poll": 1791390723,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14661,7 +14673,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-08 01:22 KST",
+  "last_run": "2026-10-08 01:32 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
