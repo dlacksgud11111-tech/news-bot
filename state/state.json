@@ -347,7 +347,7 @@
   },
   {
    "co": "",
-   "n": 2,
+   "n": 3,
    "s": "내외통신",
    "sc": 10,
    "sec": "데이터센터·AI전력",
@@ -644,6 +644,26 @@
    "t": "콘스텔레이션 에너지, 구글과 20년 원전 전력 공급 계약에 개장 전↑ - 마켓인",
    "ts": 1791289501,
    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85YUFCMC1IcU5aM2pEemZpMlpySGtuenZLaUctU2FfM0tJb24zV2JBc0huSDB0dlhEYkdSVGZ2dmxLcmJ2d2h3NUJPekxLRzZ6cmQwOEFrVkVNRHhUeGc0eVk3cE9yTTQ3ZFZKeVJJMEpTQU0?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "한스경제",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AI데이터센터 연료전지 확대…韓기업 실익 있나 - 한스경제",
+   "ts": 1791337685,
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xN2JuSS03QVFaWVRaenNsSzlNUURZeExhLVYyREtwQlMzSF85XzFheUZydl9BOVo2Z3M4emQ0Y2Q5SDNGZWlqNmlsT01DQTJ6eTFhNE1UV1B5bHE2NVpGZGNlRVg3aUw3ZWtv0gFvQVVfeXFMT2xOUFFBeW8zeXZCbFV1cG1JaUVLTE5Vb0N6alpEYWVPZG9nOHZTS3FQRUtZeFc0WUp1UUdBblR5SjR1ajN1QlN0M296NXRUX1FJNWxlaGwxenNZcVV0cTgyMFJzbXJMcXpRSi1vNXc4?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "SBS Biz",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "[오늘장 탑픽] AI 데이터센터發 냉각솔루션株 뜬다…LG전자·GST 주목 - SBS Biz",
+   "ts": 1791327540,
+   "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VMHdRc2ZOdzQ4QlllQ0pxeEJrV3gyVXdyQXZRM3RXQk1WWEk0QzN5dTFwZmtKZ0JtRHVkMk9FUFJ0U2k3NkxKQ1h6S2Y4b3h6ZUhZ0gFYQVVfeXFMTnR2c2JOY05qa0p1VVNDdzhlNzNlS1ZORnd6aTlCRHU1b29nNzFuWGJ3SkRxMmV6UC1ocGw1ZkZLeWt0MEFuR0lTY2laZlgyMTY5MnNxSFY3Mg?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1116,6 +1136,7 @@
   "09eaaea264070170": 1790645160,
   "09eb8f88aa1157c2": 1790543116,
   "09ef967379a51795": 1789863399,
+  "09f6e4c79a661439": 1791338120,
   "09fcdf52c41de82e": 1789644018,
   "0a051ce57ba07884": 1790673879,
   "0a06be682c20c443": 1790047604,
@@ -3055,6 +3076,7 @@
   "2d6abe3abecc5095": 1789709642,
   "2d759922e0cf1fee": 1789951430,
   "2d78012a13ab23af": 1790062459,
+  "2d79af057551ae75": 1791338120,
   "2d803bc1ca12b34e": 1790744723,
   "2d812ee347449749": 1790843183,
   "2d8352d4721f9b0c": 1790730658,
@@ -3490,6 +3512,7 @@
   "35cf3e90daedb4aa": 1789691718,
   "35d06c2b81500042": 1790661331,
   "35d2fd6bc6df95a0": 1791148918,
+  "35d4142a73b5c0b4": 1791338120,
   "35d90e32ed125cc1": 1789707615,
   "35dd75f92822014f": 1790665521,
   "35de1002e120b507": 1789981231,
@@ -5283,6 +5306,7 @@
   "567d9d5f2d38fb50": 1791250020,
   "5689317b777f03fc": 1790744723,
   "568ccd81ca137793": 1790910034,
+  "568f73cd6c9d3bcb": 1791338120,
   "568f9d62c341d7ff": 1790647820,
   "56939cf0a7bd35bd": 1790822117,
   "569ac6b2b8eb7261": 1789629088,
@@ -14056,7 +14080,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791331618,
- "last_msg_poll": 1791338066,
+ "last_msg_poll": 1791338360,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14091,7 +14115,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 10:54 KST",
+  "last_run": "2026-10-07 10:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
