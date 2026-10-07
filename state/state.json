@@ -329,7 +329,28 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 4,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "HD현대일렉트릭",
+   "n": 1,
+   "s": "뉴스퀘스트",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "“마진 깎아먹는다고?”…HD현대일렉트릭, 배전·회전기기 우려가 ‘착시’인 이유” - 뉴스퀘스트",
+   "ts": 1791353578,
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xTUF6VzlWUVlscHVuVGVsR3dLdVN3Q0ZRbXhJb3ZjeUtxZnA0aEtGaW15bXF2azJ0dlZ5UEc1R0o5NXZqRDV3ckdCN1VybFVYS0QxZG1xUTZRSW1JMWVqSXRXWFVacUtPSUw0NW9KOA?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "데일리한국",
+   "sc": 12,
+   "sec": "데이터센터·AI전력",
+   "t": "HD건설기계, AI 데이터센터 전력시장 뚫었다…3900억 엔진 수주 - 데일리한국",
+   "ts": 1791350699,
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95ejFfaDl3ZHNwNGFkQ1NaZ0VVeUt2VzFacGFqTlVkdEdkSU1MRDl5N2lManlodFZzM1Y1OHFNVWg2MTUwLUl2VVFUSU52WXY5T2REQmN3aFd2N2N0UGtTU2FjRlRVd24wNGRWTm1Ga9IBc0FVX3lxTE1Yc0lhZkxhb0xyQm1NQmd0NGQ2eUF6ZFFLcnN6Xzc5ODFQZ1R2OW85YmI4OUo2R1lIVU1NanJ0U2duTFFxOEpCNXpSMS1VVzE1Rzc2VEFTQnZvVGZjTWdseEE1WXNDTUxua3h5UENEb0pUbUU?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -875,6 +896,7 @@
   "0ace3e35b776fecc": 1790298620,
   "0ad68854fd4e25e0": 1790583931,
   "0add782baf7f9e09": 1790658925,
+  "0adfc13a27facecf": 1791354021,
   "0ae284dee6e285e3": 1789627496,
   "0ae429d127177900": 1789957530,
   "0ae9086349ab7475": 1789951430,
@@ -8804,6 +8826,7 @@
   "9bccabd8012a320f": 1790060416,
   "9bcdf2720f440045": 1791301238,
   "9bd06eccc8223b26": 1790039473,
+  "9bd27256d56f25cc": 1791354021,
   "9bd4598aa747cb21": 1791196557,
   "9bd9b2136deddeab": 1790111024,
   "9bdf04166f18f429": 1790020216,
@@ -8985,6 +9008,7 @@
   "9f6999355459a63a": 1789947108,
   "9f70298aa1a45d93": 1791247733,
   "9f7d850bcb996206": 1790341651,
+  "9f7f945e76fb49f7": 1791354021,
   "9f805f15b8a5867c": 1790062459,
   "9f808197f1183501": 1790685925,
   "9f8216cc59d6fdd6": 1790629823,
@@ -10889,6 +10913,7 @@
   "c21f724d707d5f76": 1789987796,
   "c21f921928ec977a": 1789982120,
   "c221cde987d392b8": 1790812225,
+  "c225a60b57e637ef": 1791354021,
   "c227c8933e143a24": 1790605523,
   "c22b0e203fc2b39a": 1790064758,
   "c22dc00606ac5a4e": 1789627496,
@@ -12584,6 +12609,7 @@
   "e31d5bdc08de3d7c": 1790003117,
   "e31dbe7d5214b600": 1791300660,
   "e328dcb238d456e3": 1790041833,
+  "e32c8b5326164802": 1791354021,
   "e3359650c2c66073": 1791332773,
   "e3374e7c7086d05e": 1790816717,
   "e33dd648f953a984": 1789627496,
@@ -14178,7 +14204,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791353724,
- "last_msg_poll": 1791353970,
+ "last_msg_poll": 1791354271,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14213,7 +14239,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 15:19 KST",
+  "last_run": "2026-10-07 15:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
