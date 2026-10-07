@@ -12,7 +12,7 @@
   "일진전기|수주·계약": 1790930212,
   "한국전력|수주·계약": 1790498127,
   "한전KPS|투자·증설": 1790146150,
-  "효성중공업|수주·계약": 1790042974
+  "효성중공업|수주·계약": 1791331050
  },
  "alert_titles": [
   [
@@ -254,10 +254,15 @@
   [
    1791329340,
    "LS일렉트릭, 대만서 판매 넘어 전력망 수주로…포모사와 JV 설립"
+  ],
+  [
+   1791331050,
+   "효성중공업, 북미 초고압 수주 타고 3분기도 성장"
   ]
  ],
  "alerted": {
   "03c4ef70a4774424": 1789971750,
+  "04aecf21f0547494": 1791331050,
   "0510ff7c656a496f": 1790953367,
   "091d016afda7463f": 1790892281,
   "0cfb56c86751e9ef": 1790035428,
@@ -318,7 +323,7 @@
   "f1b9bc6a34eac3f9": 1790921418,
   "fe7b17c162f91919": 1790498127
  },
- "alerted_today": 2,
+ "alerted_today": 3,
  "clip_buffer": [
   {
    "co": "",
@@ -519,6 +524,46 @@
    "t": "LS에코에너지, 베트남에 80억 투자…AI 데이터센터 전력망 정조준 - SR타임스",
    "ts": 1791329543,
    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkaWtwSGNMSWUtM0ZLaEdoZDctQk5NTU9NNGkwZWFMTmxjTkMxSlJmY1ZJV09RZE40XzJqd3FsY2d2djZkWEV6VlV3QmpxcGlONU9NdWhPZW9kYlU2VnM2RFFYVVBwM0VR0gFrQVVfeXFMTTNVNTI4YWpmOG5FUEx3elFjTjFuQlZUUHRjZ0pFbkFGUFVIaWJDanhBWHBmNDJ4SHVZc3huX3QwakFzYkM3OWJyWHlIMVVpSUpzVWg5TWkxdU5kblA1enNZQnRteGJIQk8xWkk?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "팍스경제TV",
+   "sc": 8,
+   "sec": "데이터센터·AI전력",
+   "t": "LS에코에너지, AI 데이터센터 전력설비 투자…생산능력 2배 확대 - 팍스경제TV",
+   "ts": 1791330828,
+   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oOENOLW9kaUVFRURPaThCWThsbWVSY1MwSWtVNkxVVW1hY2RiYjYzLV9aZVFIWXFwMG5keGJ0ZmtMVHFGRkhQcEpSUzdHXzJRcjlPNUhkb203bEpKUWpORk1jOEItbXM?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "한국아이닷컴",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "[국감2026] 정혜경 “데이터센터 전력수요 다시 산정해야”…김성환 “과잉된 측면 있어” - 한국아이닷컴",
+   "ts": 1791330402,
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41dk54Z1U3bW5tMWxaSEJXY0xyZEFCUjBWUElYWU5sR21zdVV6SldFZ2NoeXhDcHhvM0xabV85cnRZM1BtbkFxeDJ5UXhPdHRBcldCS3pBeFZ2UzdJbm9Ddm1wYkwzTzhFTGQ00gFvQVVfeXFMTnQ0elh1VHc0cGZPeUJQSmF6V3JyZWdWZ05hMmhaM0g5NTdaSjNjQmZvMFFyaVdQLUg2OHNaQXJpZmVFREE0SWZvWktPYnotQTJkeXJnTlJLbW4yOFhFVlFkSV9Da2JfV0tsLWhMbTFJ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 2,
+   "s": "Daum",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "LS에코에너지, 베트남에 80억 투자…AI 데이터센터 '버스덕트' 생산 확대 - Daum",
+   "ts": 1791330394,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIN1VNZUcwVm9wbVBGVDRyUHpFM040ajRKT2NZYU9XWGJLYVFJVG4yQkxZMWRUUUdHU1AzbTIzQVk1MVVxZzRIUzBuYm1uUkU?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "데이터뉴스",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "효성중공업, 북미 초고압 수주 타고 3분기도 성장 - 데이터뉴스",
+   "ts": 1791330337,
+   "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iaVVTV0JZRVpDM3JuM3hSb2RZUEJIb3dYMlJiNENkd3pma0dXTzFzS05DUUpvZnhPYkhKb1ZJV0FCNlB0SGNUZGoxTkFRc2JDM093aWhkalpsRTNhMjln?oc=5"
   }
  ],
  "clip_titles": [],
@@ -754,6 +799,7 @@
   "048b3cc2f945f2c7": 1789959919,
   "049013fbc16da9aa": 1790829018,
   "04aa1fb69e66db0a": 1791014880,
+  "04aecf21f0547494": 1791331051,
   "04b279a01c1b2e40": 1790569820,
   "04bc1bca3b3a61f0": 1789723516,
   "04c99b505250a38f": 1790836926,
@@ -3022,6 +3068,7 @@
   "303b79508c154b69": 1790064758,
   "303c4d3fb9f16397": 1790685320,
   "303d6168dee722c3": 1789824864,
+  "30469b2033012e19": 1791331051,
   "3052428a8ff69665": 1790829319,
   "30551a4ce167ac7b": 1790085997,
   "305a30a3b081a12f": 1791242441,
@@ -4934,6 +4981,7 @@
   "53dee3101f0f9965": 1791266719,
   "53e16dbf1649a792": 1790602525,
   "53e4ac09a4032b94": 1790125530,
+  "53f10fe386d02793": 1791331051,
   "5403aee7ae80998f": 1790726668,
   "540611e09068c5e5": 1790042975,
   "5406d5611b8b91e5": 1789965616,
@@ -5470,6 +5518,7 @@
   "5e32957458bd10b4": 1790734218,
   "5e409bfea049e697": 1789974322,
   "5e430fab07228fdd": 1790668519,
+  "5e43f1f0721367ac": 1791331051,
   "5e44f00db428640a": 1789627496,
   "5e4ba53b6abd75c2": 1789880723,
   "5e50922f6c5f8f3f": 1790373918,
@@ -6319,6 +6368,7 @@
   "6e90e3a184ad5ebc": 1791252320,
   "6e96aa89602d6cec": 1791266719,
   "6e995821bff479b8": 1790135116,
+  "6e9b104f6ffb096d": 1791331051,
   "6e9efb902436062c": 1790042395,
   "6ea1d4ebb3b7dd50": 1790748925,
   "6ea6411b3a07ea77": 1789734932,
@@ -6369,6 +6419,7 @@
   "6f7a4090f2aa177d": 1790553879,
   "6f80bc372f26fc1b": 1790814919,
   "6f80d805f46a07c3": 1790761391,
+  "6f820305da0ac95f": 1791331051,
   "6f84a9a25bcc9429": 1790380987,
   "6f866e70ab4e76fd": 1791109528,
   "6f94a490ec48301a": 1789630519,
@@ -6600,6 +6651,7 @@
   "744ba92e1091c17d": 1790402718,
   "745ab7da63c48157": 1790069431,
   "745bc86ef4019d38": 1790123718,
+  "746dfaa92f05393a": 1791331051,
   "74754e056a140d6e": 1790693424,
   "74882541aec98490": 1790750123,
   "748d45f42b76f73a": 1790823919,
@@ -7959,6 +8011,7 @@
   "8f9eac6a5965d738": 1789974040,
   "8f9eb6e70b4adb86": 1790813716,
   "8fa1a7623feb51de": 1790607918,
+  "8fa2082001aca3da": 1791331051,
   "8fab80bd178f34e9": 1789682714,
   "8fac77b1813e5791": 1789707915,
   "8fade3fe2be779fd": 1790699001,
@@ -8932,6 +8985,7 @@
   "a35fe4a916fcdbc7": 1790733932,
   "a365bae177ec3625": 1789686316,
   "a367751b8c6a0369": 1789629088,
+  "a36bdbd8ccdbd18f": 1791331051,
   "a36bf9b024ba58b3": 1790844615,
   "a3731608c8d13727": 1790478323,
   "a37dc366541560d7": 1790696737,
@@ -9591,6 +9645,7 @@
   "b01f09cebcf82ba8": 1790143522,
   "b0233d3242676973": 1790647519,
   "b0250868a6845db4": 1789870063,
+  "b02833be5fe88add": 1791331051,
   "b029bd01c9bb4cc6": 1790816717,
   "b02c9a7c9ea919ec": 1790759655,
   "b02eff0063f9439b": 1790554448,
@@ -10440,6 +10495,7 @@
   "c0ba2d8beaeceeb0": 1791200418,
   "c0bc3aabec3a9821": 1791243016,
   "c0bfa847cbaa9de0": 1790562951,
+  "c0c263a7c81e8c35": 1791331051,
   "c0cd0199abb4956f": 1789728460,
   "c0dabab3a30d1e6f": 1790824817,
   "c0e2db5a780f8110": 1790059817,
@@ -10874,6 +10930,7 @@
   "c94e461508204865": 1791169650,
   "c957f6af49eb8c16": 1789954905,
   "c968f3f0f0a81a98": 1790668519,
+  "c96c01fd2f4f9cfa": 1791331051,
   "c96c9e5b2a0cfec0": 1791261617,
   "c96dc7a5c7f83d39": 1790979032,
   "c9771f1e269ec6f1": 1791257414,
@@ -11707,6 +11764,7 @@
   "da370dd793722218": 1790056218,
   "da3d91049038aef5": 1789764171,
   "da3dd119734c61ab": 1790663718,
+  "da3f540eba9e51ce": 1791331051,
   "da41393e28aac5f8": 1790677344,
   "da419199b6ed6b20": 1790838638,
   "da42e82eaf4d0f88": 1790145020,
@@ -12205,6 +12263,7 @@
   "e46afdda051fb398": 1789629088,
   "e46b13406fe5cefb": 1790543116,
   "e4744615536a6e1d": 1789873818,
+  "e47f41563a54ede5": 1791331051,
   "e4834de6a58ec48f": 1790557916,
   "e48c3c94e865a48c": 1789627496,
   "e493b1c388130d65": 1790589919,
@@ -13655,7 +13714,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791324017,
- "last_msg_poll": 1791330727,
+ "last_msg_poll": 1791331297,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -13691,7 +13750,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 08:52 KST",
+  "last_run": "2026-10-07 09:01 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
