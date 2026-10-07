@@ -409,6 +409,16 @@
    "t": "HD건설기계, 북미 데이터센터 전력망 뚫었다…3900억 발전용 엔진 수주 - www.ebn.co.kr",
    "ts": 1791352622,
    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wWG5za1ZYTEJ6ZGVvTW5wWF8zd3JibloweXZZNnFnblUwclhOV0RhTnExQWlBenlyY1FnNVM1Q0J5Q1NYR1BNclpyYkI3akc3V3RSLXNyak9hdERsQmF1RXdCMjRBWk5s?oc=5"
+  },
+  {
+   "co": "LS전선",
+   "n": 1,
+   "s": "한국금융신문",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "'전력 다음은 광통신'…LS전선, AI 데이터센터 '낙수' 효과 기대 - 한국금융신문",
+   "ts": 1791355278,
+   "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLUnExUm12S3JjRnlsRl9kcmhWbnFUN0lQS0tMeFRvNDdVSEJZV0M0ODQ2b0F6QlZFd3hLNWhLUl9wOVJfU2hLVEdSQkp4azdWeVY5TkQ3bE0wVzdUMjN2TnY3aUQyYS1ZLVNtaUNBU3ZHd2t3V3FTbldqUWU?oc=5"
   }
  ],
  "clip_titles": [],
@@ -908,6 +918,7 @@
   "09fcdf52c41de82e": 1789644018,
   "0a051ce57ba07884": 1790673879,
   "0a06be682c20c443": 1790047604,
+  "0a0b3b5b8ea90655": 1791355519,
   "0a0ce1112f3217b6": 1790660118,
   "0a13f0038a478570": 1789629088,
   "0a17c43adc05aa5f": 1790646615,
@@ -5564,6 +5575,7 @@
   "5cd11f259e482589": 1790873120,
   "5ced2a5ffe57ddec": 1791214522,
   "5ced70a8513f3aa1": 1791250577,
+  "5cef3bd6d128cb65": 1791355519,
   "5cef646fcbda80c0": 1791345631,
   "5cf1b76f26006bf9": 1790059817,
   "5cf48a5ab5edffdd": 1790008517,
@@ -6156,6 +6168,7 @@
   "6794ab16246d5a1a": 1790730658,
   "679a624762d3e541": 1789720817,
   "679b5da5b67cdc4c": 1790295093,
+  "67a3c581ed1d59c6": 1791355519,
   "67a9adc737f5775b": 1789973468,
   "67a9f20acd467246": 1789629088,
   "67c08876ebd1b4f3": 1790812565,
@@ -14010,6 +14023,7 @@
   "fb1149dd2fc96a3a": 1790038311,
   "fb1508cb088d40cc": 1790751030,
   "fb1858e063ed2533": 1791266719,
+  "fb1b2f304a5ce956": 1791355519,
   "fb246439504b971c": 1790136631,
   "fb2a356c50240848": 1790910319,
   "fb2ad3522a5a1413": 1790732413,
@@ -14301,7 +14315,7 @@
  "companies_today": {},
  "day": "2026-10-07",
  "last_clip": 1791353724,
- "last_msg_poll": 1791355474,
+ "last_msg_poll": 1791355767,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14336,7 +14350,7 @@
   "ffa40d075e7d7e5b": 1789589391
  },
  "stats": {
-  "last_run": "2026-10-07 15:44 KST",
+  "last_run": "2026-10-07 15:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
