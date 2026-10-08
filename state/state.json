@@ -502,6 +502,16 @@
    "t": "비용 4배 내고 트럭으로 가스 배달…오라클, AI 전력 확보 ‘사투’｜Global Money Club - 중앙일보",
    "ts": 1791479768,
    "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MaTZvbkkzSVNyekVpMU1vbVloeUFZTjFjU3lOandPelBmNWdGMksyaFdJeHFySTR2SlNZZEpaQXUyZEU3VFpXdjU1OGlqTk5IeXY2TnhTNkoycWs?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "아주경제",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "SK이터닉스, 연료전지 연계형 AI 데이터센터 짓는다 - 아주경제",
+   "ts": 1791438926,
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HUE5heFZpMDBtcjBNTjI3b0tkMzRjbkF4RmRiSkZLdm1KN3FEdDVFeVpJS3JLTWJFS18zdm9BSDY0YUNZSENxakFhVEt2RFRaWDZXZ3pxQ2NsZ9IBWEFVX3lxTE1NWmpZLXdibHVlcmo0WlNBZzZOSGRkOVNjc2k3bkZDTlctcFdlcWcyYUtvYlRUSjJuSURDTmhPcmZpbWdteXdXMWs3MG5saWxMMFdyWHdQT00?oc=5"
   }
  ],
  "clip_titles": [],
@@ -7465,6 +7475,7 @@
   "7a98f57696446ad7": 1791351616,
   "7aa4d38ab9661a34": 1789862827,
   "7aab3d78e5e1163b": 1790814336,
+  "7aaed0c05de1eb15": 1791481518,
   "7aafd44d491fb9fc": 1791351616,
   "7ab3ea7e67035124": 1791250020,
   "7ab418c07a06b274": 1791428754,
@@ -7935,7 +7946,6 @@
   "833e91333d9fc29f": 1789983017,
   "83478c076fcd3165": 1789960215,
   "8348a5c43b8bd748": 1791270233,
-  "8350dde44babcd72": 1789667118,
   "8357d8d8f25bca7f": 1790737975,
   "835848e26801e019": 1790804731,
   "836345adaac270eb": 1789689915,
@@ -14833,7 +14843,7 @@
  "companies_today": {},
  "day": "2026-10-09",
  "last_clip": 1791470177,
- "last_msg_poll": 1791481464,
+ "last_msg_poll": 1791481767,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14851,7 +14861,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-09 02:44 KST",
+  "last_run": "2026-10-09 02:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
