@@ -397,7 +397,7 @@
   "fc59b21c0581d185": 1791410826,
   "fe7b17c162f91919": 1790498127
  },
- "alerted_today": 12,
+ "alerted_today": 0,
  "clip_buffer": [
   {
    "co": "효성중공업",
@@ -14724,9 +14724,9 @@
   "ffffd1601452ed3f": 1791160587
  },
  "companies_today": {},
- "day": "2026-10-08",
+ "day": "2026-10-09",
  "last_clip": 1791470177,
- "last_msg_poll": 1791471004,
+ "last_msg_poll": 1791471600,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14744,7 +14744,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 23:50 KST",
+  "last_run": "2026-10-09 00:00 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
