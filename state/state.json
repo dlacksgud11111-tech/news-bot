@@ -406,7 +406,18 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 2,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "글로벌이코노믹",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "미국 규격 뚫은 중국 배전반… LS일렉트릭 안방 격전지서 수직 계열화로 맞불 - 글로벌이코노믹",
+   "ts": 1791498087,
+   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNm5RQmwzLWRCUExYbFFfYkJHVE9iaDBtTXNnWlJBY2MwdmtVbUR3SlA2cUJHVzBMT21vVW00OXI1WXdYVV9KYUxHdzNYb3pIaTZGRFNzRGloMUg4aHdwazdBM0FLSDd6ZmNzNTQwcEx3QjRFd3Z4Zm9OeV9kR3pyWXZaazg5bElC?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -6908,6 +6919,7 @@
   "7190d4a34ce548ce": 1790735129,
   "71990700c65f7fb7": 1789736415,
   "719f7d6d298d8664": 1790635214,
+  "71a7a31a7f560b00": 1791498619,
   "71a8643fc1231ce4": 1791437718,
   "71abaef8b12b741c": 1791330483,
   "71ac5f734948ed61": 1790055920,
@@ -14717,7 +14729,7 @@
  "companies_today": {},
  "day": "2026-10-09",
  "last_clip": 1791496888,
- "last_msg_poll": 1791498566,
+ "last_msg_poll": 1791498864,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14735,7 +14747,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-09 07:29 KST",
+  "last_run": "2026-10-09 07:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
