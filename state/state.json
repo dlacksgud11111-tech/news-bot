@@ -383,7 +383,7 @@
  "clip_buffer": [
   {
    "co": "효성중공업",
-   "n": 6,
+   "n": 7,
    "s": "매일타임즈",
    "sc": 12,
    "sec": "전력기기",
@@ -550,6 +550,36 @@
    "t": "\"국가 안보 직결\"…조현준 회장, 3억달러 베팅해 美 전력망 잡는다 - 파이낸셜포스트",
    "ts": 1791441760,
    "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzaXpOM3JlYS1LY2tCOVFkLTBoS0tyaEFlbGJLOFdkTklQaDZhLVlISVJzSGswUUlyNDdteW12a05BM1l3ajU1RHdqSmJVWjJiLW92Yk5GWnJKX2Y0c0NJQ2F0YmxueEYxUEhEN2ZndVpsVDZE?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "뉴스웨이",
+   "sc": 14,
+   "sec": "전력기기",
+   "t": "효성중공업, 2GW급 HVDC 승부수···에너지고속도로 겨냥 - 뉴스웨이",
+   "ts": 1791442112,
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLdEJ0OTZ4ZTlSbHoyUlcyeGtvd0lpNk9xRG5MQjlmWVZvNm5Dd1VSWVE0Zm5mRU5MQnpQWExHWmZyMW5wYWV1RzBtaHFxLVBzZmZMTmVNNUdpUERlRUN4Z0NBdnh5b3VJUGc?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스 경제 최신기사",
+   "sc": 0,
+   "sec": "건설·플랜트",
+   "t": "우리자산신탁, 해운대2구역 통합재건축 주민대표단과 업무협약",
+   "ts": 1791442084,
+   "u": "https://www.yna.co.kr/view/AKR20261008143200002"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "국제뉴스",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "효성중공업, 2GW급 HVDC 성능검증 설비 국내 첫 구축…신뢰성 강화 - 국제뉴스",
+   "ts": 1791441967,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rQWo5LVg1QmdZMi1fOUhPbklpNzBMUEtNNk5KZjdZU3dUWlFfdXpoVkZ1Y2xET2hfM0RmbnVlcG1xdVFJMkhSdWtra1ZIRGhzZ3pNVlJIaDdsc29rSHNiNEVWVEZzLUlSMVdFbGdn?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1640,6 +1670,7 @@
   "13e042ea4c9b60cd": 1790233628,
   "13e321644bc0c0bf": 1791270233,
   "13e45d1603f83174": 1791423214,
+  "13ea19ffd7b410d9": 1791442529,
   "13eecd5f0dbff958": 1791246009,
   "13f54a342653e041": 1789894218,
   "13fb2e602420dedd": 1789956616,
@@ -4046,6 +4077,7 @@
   "3cb0744fbc6288a8": 1789953163,
   "3cb1741363cb9e8c": 1790669122,
   "3cb81f54fb442671": 1790042395,
+  "3cbd72cd06867437": 1791442529,
   "3cbf1b327a056ca8": 1789735230,
   "3cc15ddf36f579c9": 1790040051,
   "3cc6505c0d3ad36a": 1791412532,
@@ -4624,6 +4656,7 @@
   "463967649a302735": 1790670923,
   "463e15293f2ba2ab": 1791247733,
   "4650d9ec8c1e1ce7": 1789629088,
+  "465178a5e126888a": 1791442529,
   "46529c982818fae5": 1791333915,
   "4655a6a7bf664483": 1789629088,
   "4655d075de2c5591": 1790055317,
@@ -4860,6 +4893,7 @@
   "4a3a87817738e135": 1790813121,
   "4a3db897c3742654": 1790910319,
   "4a42cc3d2e571425": 1790421616,
+  "4a46f8c2ce9c9b54": 1791442529,
   "4a480efe53975965": 1789941916,
   "4a491d2397fd104b": 1790054122,
   "4a4b133cab97577c": 1790061315,
@@ -7363,6 +7397,7 @@
   "76a189ecfd6960ef": 1790716383,
   "76a1c54357a8bba9": 1791362124,
   "76b321137933ed5b": 1791441922,
+  "76bf2dffe8516bb5": 1791442529,
   "76caf0e1be286768": 1790871924,
   "76cfc42f7647d8c0": 1791253823,
   "76d2a70bd7a268c1": 1789974322,
@@ -9403,6 +9438,7 @@
   "9c290aac12dda1e8": 1790654845,
   "9c3770cc1efc28bf": 1789956049,
   "9c3e5728689d2d74": 1791336616,
+  "9c405e2ad5a3aece": 1791442529,
   "9c44debf3bd29370": 1789629088,
   "9c4c58d6877a8772": 1791241846,
   "9c50fe429947e162": 1790730658,
@@ -10876,6 +10912,7 @@
   "b5b1420f5c97b671": 1791235521,
   "b5b78b556e16ab44": 1789955477,
   "b5bd0d9902c53c2f": 1789650029,
+  "b5c57e50f81cebb8": 1791442529,
   "b5c6edfb5fdc5899": 1790748320,
   "b5c7928f6594a8f6": 1791417914,
   "b5c83a9f26bf67ed": 1790915718,
@@ -14986,7 +15023,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791440131,
- "last_msg_poll": 1791442471,
+ "last_msg_poll": 1791442771,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -15004,7 +15041,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 15:54 KST",
+  "last_run": "2026-10-08 15:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
