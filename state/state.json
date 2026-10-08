@@ -405,6 +405,26 @@
    "t": "[증권言言] 하나증권 \"LS ELECTRIC, 북미 데이터센터 수주로 성장 지속\" - 마일드경제",
    "ts": 1791424740,
    "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pQXdTVmZ2TE1BRDR1cl9zTUJjbU5UXzZzRG1qQ0hLYkhfQlNCTTE4a1BIdUUwN3h2VTY0dmxzeHU5NGxwNDNwckdYcWRmMFpzTE5sUzc3Wi0xOWVrcjFISUI4RlRUUjBuSVc4?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "전기신문 - 전체기사",
+   "sc": 7,
+   "sec": "재생에너지·ESS",
+   "t": "(2026 국감)기상청 재생에너지 기상지원 인력·예산 부족 도마 위",
+   "ts": 1791458729,
+   "u": "https://www.electimes.com/news/articleView.html?idxno=373227"
+  },
+  {
+   "co": "효성중공업",
+   "n": 2,
+   "s": "워크투데이",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "효성중공업, 국내 최초 2GW급 HVDC 성능검증 설비 구축 … 국산 기술 고도화 - 워크투데이",
+   "ts": 1791426426,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xLUxKT1pxeThfQWdsR0dZRlpNU1BnbFlNTDkyTXZCZlFnZVY4NEsydXQyenpZQ0xDYjhRcHJxMk1vZDNyNnI3cGZyNTlaR0JyNVBXR1picnc3WF9VSFBvNUJvSFA4dEZEWWVXOQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3110,6 +3130,7 @@
   "2e8217f9634e61fa": 1789950278,
   "2e84e7cfb9d1264a": 1791342755,
   "2e87c071bcfde670": 1789953723,
+  "2e8ffad6c374184a": 1791426634,
   "2e96501aa49f7eed": 1790841922,
   "2e9817ebbc9f19fe": 1789698990,
   "2e988f03c9e02541": 1789785337,
@@ -3689,6 +3710,7 @@
   "387aededdf08b03c": 1790751916,
   "387f6c1cec3d94e4": 1791342755,
   "387fb7c2b339b743": 1790559622,
+  "387fdf8061b9168a": 1791426634,
   "38805057cfc2291a": 1790140218,
   "3881f1192fd79a95": 1789859418,
   "38869322d6968e8b": 1789954327,
@@ -4600,6 +4622,7 @@
   "473cae5e45cc5ad3": 1791196557,
   "473ec138ed7afb32": 1790563529,
   "47424ab93c55efce": 1789962027,
+  "474a2f571fe31aa4": 1791426634,
   "474ab50cc058432a": 1791335721,
   "4753037fad042fda": 1789694721,
   "47562174ec56cc51": 1789855639,
@@ -12397,6 +12420,7 @@
   "d18c1df15d38ba13": 1791333915,
   "d18ce4e955d741fb": 1789969411,
   "d18d15676fe06e61": 1790921419,
+  "d1902165bae5e038": 1791426634,
   "d19125c6a274d2cd": 1789950858,
   "d191f1ef9ab24374": 1790370130,
   "d19254c70f86c888": 1789695321,
@@ -15041,7 +15065,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791425493,
- "last_msg_poll": 1791426313,
+ "last_msg_poll": 1791426877,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -15058,7 +15082,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 11:25 KST",
+  "last_run": "2026-10-08 11:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
