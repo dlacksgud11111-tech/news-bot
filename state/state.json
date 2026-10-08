@@ -388,148 +388,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 10,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Yandex data center hit in drone attack in Russia",
-   "ts": 1791455149,
-   "u": "https://www.datacenterdynamics.com/en/news/yandex-data-center-hit-in-drone-attack-in-russia/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "Italian startup offers 535 W PVT solar module with 1.4 kW thermal output",
-   "ts": 1791455400,
-   "u": "https://www.pv-magazine.com/2026/10/08/italian-startup-offers-535-w-pvt-solar-module-with-1-4-kw-thermal-output/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Sesterce to invest $10bn in 600MW AI data center campus in Jämsä, Finland",
-   "ts": 1791456776,
-   "u": "https://www.datacenterdynamics.com/en/news/sesterce-to-invest-10bn-in-600mw-ai-data-center-campus-in-j%C3%A4ms%C3%A4-finland/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일일보",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "SK이터닉스, 연료전지 기반 AI 데이터센터 추진 - 매일일보",
-   "ts": 1791454110,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50RU1hMGhwMTNXSHdxcVM3NWJmZGFtejZmLUc1NlZ2VFlXUDNfc1cxZU5uUlN6VHRVdE43ZE56WFZYX05DcXhwLXlUUGFYbGx0eklYRmpfck9LbzEteUx2cFV3RzA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 8,
-   "sec": "유틸리티·정책",
-   "t": "가스기술공사, 세네갈 FSU 시운전 수주…아프리카 LNG 시장 진출",
-   "ts": 1791490362,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228865"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 6,
-   "sec": "유틸리티·정책",
-   "t": "Inside BESS manufacturing: Maxxen’s utility-scale storage factory in Europe",
-   "ts": 1791458100,
-   "u": "https://www.pv-magazine.com/2026/10/08/inside-bess-manufacturing-maxxens-utility-scale-storage-factory-in-europe/"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "뉴스엔뷰",
-   "sc": 14,
-   "sec": "전력기기",
-   "t": "효성중공업, 국내 최초 GW급 HVDC 성능 검증 설비 구축…‘서해안 에너지고속도로’ 가속화 - 뉴스엔뷰",
-   "ts": 1791436795,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53cDg4Zy1kTWd5M3h5Z1g0LVdKbGh1Zzl3X3FWYVI3b19rYl9aaGlRdDlUQmxXUmdKTUg3OWxSVUNXcFhSRVBKVFhfQVE0dDlmOFRYYUlZM2pCZWl3TkRqdmVqYXc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "DCD Data Center Construction Channel Sample Audience",
-   "ts": 1791446400,
-   "u": "https://www.datacenterdynamics.com/en/dcd-downloads/dcd-data-center-construction-channel-sample-audience/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "시드원",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "獨 RWE, \"데이터센터 붐, 전력망 비용 부담 주체에 대한 의문 제기\" - 시드원",
-   "ts": 1791458419,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SZ1B6dXNBOFNJZFlXSVR4LUk0WEN3OVdFLTkwa3hDMXZ5OXdXeFZzWkNobFpLLVhyLXFrU1dmVXZmUGY3NlExNFZPWElrUzVFVUtIbkNiU0o3N3htcGFjMGJiMUFKNV9xRGc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "인공지능신문",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "AI로 데이터센터 전력·환경 부담 줄인다…MIT 델리트루 교수, “AI가 AI 인프라 최적화” - 인공지능신문",
-   "ts": 1791452098,
-   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HZ2hwVnNCOGZXaV85T3N5Vk9lc1lkQ0habWUxUFFpeDdFcGRFOEFCWENrd29Ba1FQY2JqUl92bFEzcjZ0bmRaMW1ra0k1TWRTNV8tQzRvSF9GUGJDWDZiR3dPZWN1RTg?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "초이스경제",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "조현준 효성 회장, 美 AI 데이터센터 전력시장 선점..기술 경영 부각 - 초이스경제",
-   "ts": 1791446423,
-   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhUFV2NWJ0RWJ5YmJHdEx6UHV6NGtpZEZmUVZkWEM1NzdOWnpOc2JFcHNObWxsdXJLTHUxU2J0amxiMDh2OXNIbUxiZ1dVeFJiUGdEdlJLX0stc3hfa1ZqT25Rc0V2YWl6SXlHM0xVbVDSAXNBVV95cUxOdHhJWkRKN0JMNlJNUVRzTnh6Q2VlRkR4dTJNaG1vMVVSOFpvSlVrRWQ5NG1QaFVKNVk4X3I5LUtEbF9JM1ZLMkJQel9mRHQ4MkgxRnhEMWtiQUZGRFJDODVtdGhmX0h3Y0hlN3c2emg2cTEw?oc=5"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "백세시대",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "효성중공업, 자체개발 HVDC 제어기 안전성 검증…시험설비 구축 - 백세시대",
-   "ts": 1791438940,
-   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoM21qa0RTb3RWVnJQTklqZC1YeWJ2VmFrUXQ0UkF0bWxMdHdvR2o5RWZueExoQzRaaWhhX1BPdmprVDQ5NkRNeW4wUkFJbFBEWlBEU3pMVzhqZzNDVkhyQlByeW43MVVKd0pB?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "잡포스트",
-   "sc": 16,
-   "sec": "전력기기",
-   "t": "20만원선 내준 LS ELECTRIC…북미 전력기기 수주 소화가 관건 - 잡포스트",
-   "ts": 1791436594,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE81UzlSTEpsS00xQk1FaWZ5M1dkMW04WEdXUW56a3VFQ3BFN1JKenEtaWhmVUNOWGdWdVV2S1ljNUZxVmx1cm9XUm5fbUxRTW01WS1Qd2hDRkItc0o5OUt3TVloWWFaaXFBRDZ0ZUxhZ0Y3d9IBckFVX3lxTE81UzlSTEpsS00xQk1FaWZ5M1dkMW04WEdXUW56a3VFQ3BFN1JKenEtaWhmVUNOWGdWdVV2S1ljNUZxVmx1cm9XUm5fbUxRTW01WS1Qd2hDRkItc0o5OUt3TVloWWFaaXFBRDZ0ZUxhZ0Y3dw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투데이",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "SK이터닉스, 연료전지로 AI 데이터센터 전력 댄다…마스턴과 사업 추진 - 이투데이",
-   "ts": 1791419220,
-   "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92Snc2QVktQjEyVGxMU21MMHE0SmtHUFdPTEd6MjdDMXZFcktzcHBvV1E2NlhCZXRGQkttRmF3LWh2cDcwa2s4OVg1eXNFTGdNaTZZbA?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -14869,8 +14728,8 @@
  },
  "companies_today": {},
  "day": "2026-10-08",
- "last_clip": 1791455118,
- "last_msg_poll": 1791462565,
+ "last_clip": 1791462632,
+ "last_msg_poll": 1791462877,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14888,7 +14747,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 21:29 KST",
+  "last_run": "2026-10-08 21:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
