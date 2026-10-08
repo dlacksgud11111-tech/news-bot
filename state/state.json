@@ -549,6 +549,16 @@
    "t": "효성重, 국내 최초 2GW급 HVDC 검증 설비 구축…‘서해안 에너지고속도로’ 탄력 - 매일일보",
    "ts": 1791449523,
    "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VNWl3bl9fT1FHazcwamZoWlp0bS1YV295VkdxNVBwUnJabE16Z2ZXYTVqaXgtVjdUQjlqQ2h1OXRKYm5GSTVpNkFQdm5QVVUteWMtcUVqLTVzNVVQUXNNNF8xd2I?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "인사이드비나",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "독자 기술력 증명한 효성중공업, 국내 최초 2GW급 HVDC 성능검증 설비 완성 - 인사이드비나",
+   "ts": 1791450554,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zT2hfa0R3VFI3RDR3QkFlMWdRazZVMk9uWU9KcnBITVN5VzJuanJrRnhnZFVNT3BycDJnWXhEeHU2WHU2ZHc0SVBXX1gyTEUtclRaQU55ZnRwczA5M2tLTjNZbEJJdFlvREQ0ZQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2433,7 +2443,6 @@
   "2179ac48cb282981": 1790046448,
   "217a39bca4f2e2c0": 1789946508,
   "217ab959b9f1a62b": 1789967119,
-  "217c306208e09d6e": 1789636827,
   "217ee74931adc048": 1790750421,
   "217fc6f5a3b9ad46": 1790737408,
   "2185623c5dd7126a": 1791165919,
@@ -6136,6 +6145,7 @@
   "60e1fc582889c4de": 1790661331,
   "60edb34286ade2cf": 1790809517,
   "60eea34a6d47c6c0": 1791337232,
+  "60fdd2cb7242aaa0": 1791451268,
   "6105742fbd337a41": 1790832921,
   "610fa7aa1e35ffa7": 1790573944,
   "6113a54acf100edb": 1790478323,
@@ -6153,6 +6163,7 @@
   "614452225dd319b9": 1790132720,
   "6145fb8378f523fc": 1790035428,
   "614e39333dbec737": 1790646615,
+  "6150e63ef0692f42": 1791451268,
   "615298e443a987ad": 1791247733,
   "6158a20c171e6bda": 1791351918,
   "615f4187b3086e29": 1791018618,
@@ -14882,7 +14893,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791447744,
- "last_msg_poll": 1791451165,
+ "last_msg_poll": 1791451515,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14900,7 +14911,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 18:19 KST",
+  "last_run": "2026-10-08 18:25 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
