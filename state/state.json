@@ -398,7 +398,18 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 12,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "알파경제",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "효성중공업, 국내 최초 GW급 HVDC 성능 검증 설비 구축…국산화 속도 - 알파경제",
+   "ts": 1791426597,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yWjlaSDJYXzgwZDFoTXdJS0dwSnNRVzNveHVySnhrdWZ3ZnkwemhJWUxEQ2padnpYMDc3TUpYTUR4a0R0bzJYVEF6N19oaVNVeXMwTzZEWjNaQjBEMzlxYjFTcER5VmxCUk5wdXB3?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -4425,7 +4436,6 @@
   "460fce3732f4105a": 1791336918,
   "461167e5315420b8": 1790132720,
   "4616656a348cca27": 1791273068,
-  "4617de34553ebb4b": 1789656318,
   "4619bbcbc265b56e": 1791448898,
   "462594adf76d60b1": 1790905221,
   "46274b801776b279": 1790061315,
@@ -8204,6 +8214,7 @@
   "8a2812c62d4ba5df": 1790646615,
   "8a2bd278727ebb3d": 1790844327,
   "8a316bbadfc4c636": 1790830817,
+  "8a34f43b98831b9e": 1791470757,
   "8a36a0d1859981bc": 1791260421,
   "8a388125049cf2f3": 1790426529,
   "8a3c4d7c7fdab447": 1791430514,
@@ -10734,7 +10745,6 @@
   "b77456b7b609219b": 1791265522,
   "b7760ddbd87f9aa7": 1791348919,
   "b77b2e8cc81a9a1f": 1790640533,
-  "b77d8262e9a2c30d": 1789656318,
   "b77e9239582a14fc": 1790816717,
   "b77edf0954c4102b": 1790771118,
   "b780de54d9b9231a": 1789953163,
@@ -14716,7 +14726,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791470177,
- "last_msg_poll": 1791470429,
+ "last_msg_poll": 1791471004,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14734,7 +14744,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 23:40 KST",
+  "last_run": "2026-10-08 23:50 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
