@@ -555,6 +555,26 @@
    "t": "효성重, 국내 첫 2GW급 HVDC 가상검증 설비 완성 - 뉴스웍스",
    "ts": 1791427313,
    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11NmJRclIxMldXLXBrb19Vb0I1U2kzbkpMUTBrQkE2aWhzb1VDMENiNi01WlNGN2pOR1pqUUY3ODNxNWdYaWRFOGtVZFBYaWJxRkwyVnFGTnpWMUh2UHNQNmVzM1VVTmUzc19lb1FOWdIBc0FVX3lxTFBRLVFPdmU1NXZFWHFOeDVqdk9HUlMtdHhRajdhWjl1emlLbmRrVElveExwNjNxQkRiMndTNDVHeVJkeC1sMzdDTzhudmJUbWVnd19JLTVWbmJPc1g0UnR5MmYwZk1BZTZKQmxsX0pKeS04d0U?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "뉴데일리",
+   "sc": 20,
+   "sec": "전력기기",
+   "t": "효성중공업, 2GW급 HVDC 검증설비 구축 … 서해안 에너지고속도로 선점 나선다 - 뉴데일리",
+   "ts": 1791427748,
+   "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzX2RfVTdMUFlEcl94enNDdGpsZDNrcDVBSjVINVJuTmpvcWMxOTZVaTd5T3U4VFN4M2hBZ19IZ2o4UzVsSFoweEhXMy1xSFI0T0hGWk1pci1uZU00aHFXcUpNTVVJRG5lbUtyeFRtNjhEWFFxaFZhRnBTQdIBgAFBVV95cUxPelMwNDNHMUhuRWZXSDFDRDVwcHJvWDdGYi1XalJtb0U5Snp1cnZfYWVTZ3YzN0FGYkZvZ1p1NDlvbnZ5c1FaQjF6WEJXdm83ZVYwdzNuYW43UUVuaWEwcElyc25WaGhwN2VWSFdZR19Idm1tREhkNldZWnl3QU15WQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "더구루",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "오픈·AI 앤트로픽 본사 있는 샌프란시스코, 새 데이터센터 건설 45일간 중단하기로 - 더구루",
+   "ts": 1791423190,
+   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YNHdXaHNxRzB3NlUya2RPTXNMNFVQaXAzUXo2cHlESnZWUUtfbU1pVlNnVE90TWw0elk0NkNfU21ZWE15Z1c2TW0zYlFyOGxWU203TGdtQW1hSE1aalFjbkF6cw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3911,6 +3931,7 @@
   "39527b1bbb17d8a7": 1790041217,
   "39549ee3a1173cdf": 1790143827,
   "3955ae172466fe73": 1790822117,
+  "395a56376b0a8205": 1791431729,
   "39639de7a67ddc0d": 1790224520,
   "396620778357c99e": 1790735693,
   "39689fe7a5ab5fab": 1789629088,
@@ -12177,6 +12198,7 @@
   "c98b4e15917e33a2": 1789710788,
   "c98c21aee0826222": 1790559622,
   "c98ff19dd484930e": 1789627496,
+  "c996bd39dac68f3b": 1791431729,
   "c998ecc967a0a9ad": 1789627496,
   "c99a68c99e98ca9e": 1790735693,
   "c99de07db8895c62": 1791387631,
@@ -15276,7 +15298,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791425493,
- "last_msg_poll": 1791431667,
+ "last_msg_poll": 1791431975,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -15293,7 +15315,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 12:54 KST",
+  "last_run": "2026-10-08 12:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
