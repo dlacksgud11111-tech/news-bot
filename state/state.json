@@ -620,6 +620,16 @@
    "t": "“미디어 기본사회 세이프가드 되겠다”…케이블TV, AI·지역성 강화 제시",
    "ts": 1791432039,
    "u": "https://www.etnews.com/20261008000197"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴스핌",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "[미국 특징주] 듀크에너지, 빅테크와 '데이터센터 전기료 분담' 합의 - 뉴스핌",
+   "ts": 1791432240,
+   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkYVhDOEh4RWlKMklEUldZRTRJOXNYSTFTMDV1c2s4LXZ0Q1ZRY095WC1ENXV1bkhvbGpjeGdmY1dGaW0zcklGYTNzbEFENkwtQ20yeDBKVFVGN1JE?oc=5"
   }
  ],
  "clip_titles": [],
@@ -11491,6 +11501,7 @@
   "bb2113d95d3250d6": 1790034282,
   "bb2804dd88ea3a76": 1790553879,
   "bb2a7fc5b5d976c8": 1790548821,
+  "bb2f5cec0f834f1b": 1791432625,
   "bb35315bcd556735": 1790136915,
   "bb39b107c51f8fb7": 1790903418,
   "bb3c70befd0316d7": 1789627496,
@@ -15373,7 +15384,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791425493,
- "last_msg_poll": 1791432569,
+ "last_msg_poll": 1791432874,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -15390,7 +15401,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 13:09 KST",
+  "last_run": "2026-10-08 13:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
