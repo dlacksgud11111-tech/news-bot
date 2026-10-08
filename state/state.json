@@ -370,268 +370,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 5,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "지디넷코리아",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "SK이터닉스, '연료전지 연계형' AI 데이터센터 개발한다 - 지디넷코리아",
-   "ts": 1791425921,
-   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qeGpra1B4bTNXZVAxV0hRWC1SUmEyZll3eGRuT09NcUEyVVNzTXlPZXh2UGRMamFGWnRCQkR5YjRKaXluczJ3c2RiaWRnZV9HNUJvTTlB?oc=5"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "오피니언뉴스",
-   "sc": 8,
-   "sec": "전력기기",
-   "t": "효성重, 가상 공간에서 한계 시험 마친 '대용량 HVDC' 국산화 속도 - 오피니언뉴스",
-   "ts": 1791425766,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nQkc0TEh3NGpaS0lZZzhHNnp3Q1Nmb3NzclZZTVByN2V0S2wyTlV2Q2hwYjZHRmQ1cmcxZllXNFY0SkZCaFhTU3FMZ2dRUDZHS0E4WVJlT1lETTRDMHR3eGFDQWM3aDIzWjFBZkpqS1BBdw?oc=5"
-  },
-  {
-   "co": "효성중공업",
-   "n": 3,
-   "s": "서울경제TV",
-   "sc": 14,
-   "sec": "전력기기",
-   "t": "효성重, 국내 최초 2GW급 HVDC 검증설비 구축 - 서울경제TV",
-   "ts": 1791425472,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4bi1SNTBrQjlMelJFU05hSDh5THNOY251NkZ3YTFaeC1kNF8yQ3BBVnFnREFBcDM0UndLam1Ra0g4STJSemx3bnJzR3BKTXl2TWdqLXB1bTlfUzJUU2hxa3FaV2k?oc=5"
-  },
-  {
-   "co": "LS일렉트릭",
-   "n": 1,
-   "s": "마일드경제",
-   "sc": 10,
-   "sec": "데이터센터·AI전력",
-   "t": "[증권言言] 하나증권 \"LS ELECTRIC, 북미 데이터센터 수주로 성장 지속\" - 마일드경제",
-   "ts": 1791424740,
-   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pQXdTVmZ2TE1BRDR1cl9zTUJjbU5UXzZzRG1qQ0hLYkhfQlNCTTE4a1BIdUUwN3h2VTY0dmxzeHU5NGxwNDNwckdYcWRmMFpzTE5sUzc3Wi0xOWVrcjFISUI4RlRUUjBuSVc4?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 7,
-   "sec": "재생에너지·ESS",
-   "t": "(2026 국감)기상청 재생에너지 기상지원 인력·예산 부족 도마 위",
-   "ts": 1791458729,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373227"
-  },
-  {
-   "co": "효성중공업",
-   "n": 4,
-   "s": "워크투데이",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "효성중공업, 국내 최초 2GW급 HVDC 성능검증 설비 구축 … 국산 기술 고도화 - 워크투데이",
-   "ts": 1791426426,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xLUxKT1pxeThfQWdsR0dZRlpNU1BnbFlNTDkyTXZCZlFnZVY4NEsydXQyenpZQ0xDYjhRcHJxMk1vZDNyNnI3cGZyNTlaR0JyNVBXR1picnc3WF9VSFBvNUJvSFA4dEZEWWVXOQ?oc=5"
-  },
-  {
-   "co": "가온전선",
-   "n": 1,
-   "s": "뉴데일리",
-   "sc": 4,
-   "sec": "전력기기",
-   "t": "AI 데이터센터 훈풍에 시총 10조 넘긴 가온전선 … 북미서 사업 확장 탄력 - 뉴데일리",
-   "ts": 1791425584,
-   "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVQVAxa2xPSG9XWHJwZzZMdHVMa2NDZHhZZ1Znb3NTUDBZX29GVkYxYjdENzBlZnlVUVZTY2lieDBtMjBKODJ3dUJVeEVHV05Wai1WOVNUOWZrOWxRRTdwQ05PV0o2aU9ka2Fyam1TZzFyNFlnTThDLW5oSdIBgAFBVV95cUxQdzlFRmNXdlVOX3ItZFhUYXYzekJKTTJFWE9qVXBUa3B0Y0hfYkgtUmlLaGNsVnZKYnVmWGNJeUNVSXhwc0czc3VYamhVR1A3UE1Xb1BFci1IQ2lIbTIzUWxNZU8wMFJzOXBpa05CT1ktUTE1TzlRSEl1ck9hMTlaWA?oc=5"
-  },
-  {
-   "co": "효성중공업",
-   "n": 3,
-   "s": "전기신문 - 전체기사",
-   "sc": 27,
-   "sec": "전력기기",
-   "t": "에너지 고속도로 기술 자립화 시동… 효성중공업, GW급 HVDC 성능 검증설비 국내 첫 구축",
-   "ts": 1791459595,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373232"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "고용 회복 흐름 속 청년·제조·건설 ‘취약’…정부, 일자리 대책 점검",
-   "ts": 1791459303,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373230"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "유니슨, K-GX 해상풍력 전 주기 공급망 구축 참여",
-   "ts": 1791458766,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334923"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "한국재난안전뉴스",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "[AI 데이터센터, 안전한가] ①AI의 심장에 불이 나면…전력·배터리·냉각 ‘3중 위험’ - 한국재난안전뉴스",
-   "ts": 1791427210,
-   "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iQlpjVW1Wa3BiQVZuQ2x0ZWgyMndLTE5QamNIMlpzLXpwNU0zOC1GLWtBYWJlYjFtQ3FOSGU3MkpRUUM1SUVHWmRWSlZSLUR5c0pGa0pfcFEzMjB3OHc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "연료전지 연계형 'On site 방식' 데이터센터 사업 속도",
-   "ts": 1791459839,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334928"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "www.peopleview.co.kr",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "AI의 다음 인프라 과제는 전력… 디지타임스, 800VDC 데이터센터로의 전환을 분석하다 - www.peopleview.co.kr",
-   "ts": 1791427804,
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlb2tQcHp3R0FNUEVkTmR1X0QtcnNzS3Fuc0Zqd2VlbUhtd3dKWjk2dTNpQnRBZE43Z1JISjhDWlR2U0dIQldNYy05V3VtMGNsT2xVZS1nMGY4Q3NHamxZSUgtWmM?oc=5"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "연합뉴스",
-   "sc": 18,
-   "sec": "전력기기",
-   "t": "효성중공업, 국내 첫 GW급 초고압 직류송전 성능 검증설비 구축 - 연합뉴스",
-   "ts": 1791418298,
-   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0ydy02TUU0QW9rTHRGMVpKclp2UnJlcXNaRzZjaGMyaVpBaGV0WnhjQWNjYV9IX3VfYXpRVFZGTU5qQ1lFNk9lNWJTRHpYSEducEhuYXcteWtaSG9FT2YtadIBYEFVX3lxTE0ydy02TUU0QW9rTHRGMVpKclp2UnJlcXNaRzZjaGMyaVpBaGV0WnhjQWNjYV9IX3VfYXpRVFZGTU5qQ1lFNk9lNWJTRHpYSEducEhuYXcteWtaSG9FT2YtaQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "대우건설, 정비사업 확대·데이터센터사업팀 신설…조직 개편",
-   "ts": 1791428149,
-   "u": "https://www.yna.co.kr/view/AKR20261008094900003"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "디지틀조선TV",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "효성중공업, 국내 첫 2GW급 HVDC 검증 설비 구축…핵심기술 자립 속도 - 디지틀조선TV",
-   "ts": 1791429180,
-   "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oYzh6U0laRU1NektPd2RDUnJZRGZYYUp0MnlYXzNvVW85SEM1aTBET2ZHa2xYWW5WXzVSaHA5SENlNkVTUXdONFBTQnFDNHVhd0dxNWJBZWFPaENlcFF1TlhVWFE0dnl5R0hGTXo5UmVsREkySWZTX3M0TWc?oc=5"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "미주중앙일보",
-   "sc": 10,
-   "sec": "전력기기",
-   "t": "‘에너지고속도로’ 겨냥한 효성重, 국내 첫 초고압직류송전 검증 - 미주중앙일보",
-   "ts": 1791427980,
-   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oakNKdXNNVmlnQjdMVVlMeWhOeGlKQUROWjlUWjVfaGxleWRyYTRHbFJDQlBQMG84aEYxQ1JjbEJ2NlQ2QlByTFg2UUI3RFZCLTFtb2x3QjV0Q2p0VHFaWXFR?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "딜사이트",
-   "sc": 6,
-   "sec": "전력기기",
-   "t": "AI 데이터센터 경쟁, 전력으로…K전력기기 고객 된 빅테크 - 딜사이트",
-   "ts": 1791427203,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kYnhsb2dMMlZueUM5YkhwWi0yb0dTcGhGb0pteC1sN1lpRWtRYUFHQ0Mzd2RseXVPQUFadE1xV2llZ3VSM3prWFpfeWt1dlk?oc=5"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "뉴스웍스",
-   "sc": 8,
-   "sec": "전력기기",
-   "t": "효성重, 국내 첫 2GW급 HVDC 가상검증 설비 완성 - 뉴스웍스",
-   "ts": 1791427313,
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11NmJRclIxMldXLXBrb19Vb0I1U2kzbkpMUTBrQkE2aWhzb1VDMENiNi01WlNGN2pOR1pqUUY3ODNxNWdYaWRFOGtVZFBYaWJxRkwyVnFGTnpWMUh2UHNQNmVzM1VVTmUzc19lb1FOWdIBc0FVX3lxTFBRLVFPdmU1NXZFWHFOeDVqdk9HUlMtdHhRajdhWjl1emlLbmRrVElveExwNjNxQkRiMndTNDVHeVJkeC1sMzdDTzhudmJUbWVnd19JLTVWbmJPc1g0UnR5MmYwZk1BZTZKQmxsX0pKeS04d0U?oc=5"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "뉴데일리",
-   "sc": 20,
-   "sec": "전력기기",
-   "t": "효성중공업, 2GW급 HVDC 검증설비 구축 … 서해안 에너지고속도로 선점 나선다 - 뉴데일리",
-   "ts": 1791427748,
-   "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzX2RfVTdMUFlEcl94enNDdGpsZDNrcDVBSjVINVJuTmpvcWMxOTZVaTd5T3U4VFN4M2hBZ19IZ2o4UzVsSFoweEhXMy1xSFI0T0hGWk1pci1uZU00aHFXcUpNTVVJRG5lbUtyeFRtNjhEWFFxaFZhRnBTQdIBgAFBVV95cUxPelMwNDNHMUhuRWZXSDFDRDVwcHJvWDdGYi1XalJtb0U5Snp1cnZfYWVTZ3YzN0FGYkZvZ1p1NDlvbnZ5c1FaQjF6WEJXdm83ZVYwdzNuYW43UUVuaWEwcElyc25WaGhwN2VWSFdZR19Idm1tREhkNldZWnl3QU15WQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "더구루",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "오픈·AI 앤트로픽 본사 있는 샌프란시스코, 새 데이터센터 건설 45일간 중단하기로 - 더구루",
-   "ts": 1791423190,
-   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YNHdXaHNxRzB3NlUya2RPTXNMNFVQaXAzUXo2cHlESnZWUUtfbU1pVlNnVE90TWw0elk0NkNfU21ZWE15Z1c2TW0zYlFyOGxWU203TGdtQW1hSE1aalFjbkF6cw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 1,
-   "sec": "데이터센터·AI전력",
-   "t": "하이엠솔루텍, AI 데이터센터 유지보수 강화",
-   "ts": 1791460191,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303980"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 3,
-   "sec": "재생에너지·ESS",
-   "t": "유니슨, K-GX 해상풍력 공급망 구축 참여",
-   "ts": 1791460191,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303977"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 1,
-   "sec": "재생에너지·ESS",
-   "t": "글로벌 수소업계 리더 한자리에 모인다",
-   "ts": 1791457273,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303973"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 4,
-   "sec": "전력기기",
-   "t": "“미디어 기본사회 세이프가드 되겠다”…케이블TV, AI·지역성 강화 제시",
-   "ts": 1791432039,
-   "u": "https://www.etnews.com/20261008000197"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴스핌",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "[미국 특징주] 듀크에너지, 빅테크와 '데이터센터 전기료 분담' 합의 - 뉴스핌",
-   "ts": 1791432240,
-   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkYVhDOEh4RWlKMklEUldZRTRJOXNYSTFTMDV1c2s4LXZ0Q1ZRY095WC1ENXV1bkhvbGpjeGdmY1dGaW0zcklGYTNzbEFENkwtQ20yeDBKVFVGN1JE?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -10018,6 +9757,7 @@
   "a26ded7561d39ac1": 1789692317,
   "a2701e53098720ad": 1789943682,
   "a271c0edd8d60fc0": 1790657788,
+  "a27694a798622c84": 1791432920,
   "a27a9d99bec4b348": 1790824522,
   "a283b114b8e5e042": 1790577419,
   "a2874236b530603c": 1790205547,
@@ -15383,8 +15123,8 @@
  },
  "companies_today": {},
  "day": "2026-10-08",
- "last_clip": 1791425493,
- "last_msg_poll": 1791432874,
+ "last_clip": 1791432920,
+ "last_msg_poll": 1791433167,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -15401,7 +15141,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 13:14 KST",
+  "last_run": "2026-10-08 13:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
