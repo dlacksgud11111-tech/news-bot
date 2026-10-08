@@ -522,6 +522,16 @@
    "t": "“인공지능 데이터센터 전력난 잡는다”…SK이터닉스, 연료전지 연계 출사표 - 매일경제",
    "ts": 1791438752,
    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0ejl1SXZHYWY5b2FpYUZLeFJRUVhlQmpVTTdNUzVSRDFwU05YR2tlbmlCV2JhX3djQVd5RkpnTGwzZFFMVGlhSG5xYmIyc3RBdVRORTFn?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "www.2news.co.kr",
+   "sc": 16,
+   "sec": "전력기기",
+   "t": "50Hertz 부스텐마르크 변전소 증축 착공… 대규모 데이터센터 전력 공급망 확보 - www.2news.co.kr",
+   "ts": 1791494549,
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyZEdMS3ZGLTU1aTZfaDlvVWdHeFJwc0lZekhzTGRXQjg5U3NsUkJBX2FrbnE0QURzcmZIWWE2WDk5Y1dlY3VBQXp4M2YwdjZ4OFhpMlBxMHEyUTNZWXJPd2R1QnNwdkQz?oc=5"
   }
  ],
  "clip_titles": [],
@@ -7475,6 +7485,7 @@
   "7a7c382e6a3bf43b": 1789713065,
   "7a7ef2f43a0dc427": 1790129120,
   "7a8f4264accfb939": 1790645160,
+  "7a974fba91f5830f": 1791495164,
   "7a98f57696446ad7": 1791351616,
   "7aa4d38ab9661a34": 1789862827,
   "7aab3d78e5e1163b": 1790814336,
@@ -14837,7 +14848,7 @@
  "companies_today": {},
  "day": "2026-10-09",
  "last_clip": 1791470177,
- "last_msg_poll": 1791494802,
+ "last_msg_poll": 1791495412,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14855,7 +14866,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-09 06:26 KST",
+  "last_run": "2026-10-09 06:36 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
