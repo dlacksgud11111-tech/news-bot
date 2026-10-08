@@ -498,6 +498,16 @@
    "t": "조현준 효성 회장, 美 AI 데이터센터 전력시장 선점..기술 경영 부각 - 초이스경제",
    "ts": 1791446423,
    "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhUFV2NWJ0RWJ5YmJHdEx6UHV6NGtpZEZmUVZkWEM1NzdOWnpOc2JFcHNObWxsdXJLTHUxU2J0amxiMDh2OXNIbUxiZ1dVeFJiUGdEdlJLX0stc3hfa1ZqT25Rc0V2YWl6SXlHM0xVbVDSAXNBVV95cUxOdHhJWkRKN0JMNlJNUVRzTnh6Q2VlRkR4dTJNaG1vMVVSOFpvSlVrRWQ5NG1QaFVKNVk4X3I5LUtEbF9JM1ZLMkJQel9mRHQ4MkgxRnhEMWtiQUZGRFJDODVtdGhmX0h3Y0hlN3c2emg2cTEw?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "백세시대",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "효성중공업, 자체개발 HVDC 제어기 안전성 검증…시험설비 구축 - 백세시대",
+   "ts": 1791438940,
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoM21qa0RTb3RWVnJQTklqZC1YeWJ2VmFrUXQ0UkF0bWxMdHdvR2o5RWZueExoQzRaaWhhX1BPdmprVDQ5NkRNeW4wUkFJbFBEWlBEU3pMVzhqZzNDVkhyQlByeW43MVVKd0pB?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3691,6 +3701,7 @@
   "38406e553a4e70cc": 1790817021,
   "38427e7e66b57af0": 1790908520,
   "3845c83fde838971": 1791329340,
+  "38472a108b8f5410": 1791461433,
   "3851cf3535b4f9a3": 1790127320,
   "38558325f6411ef5": 1790888719,
   "385d38bfd84ff4ee": 1790727810,
@@ -8243,7 +8254,6 @@
   "88e0dad907d5d4d8": 1791338417,
   "88e10b8a674c63ba": 1789708498,
   "88e1c8bca480c2bb": 1790562951,
-  "88e24d4ff5526ec3": 1789647027,
   "88e2bd4d3b57090c": 1790597331,
   "88e335f8d5a341a0": 1791187519,
   "88e85e681703cdd1": 1790746830,
@@ -10465,7 +10475,6 @@
   "b0ce8d469b20ac37": 1790122002,
   "b0da44422eb7d3da": 1791455420,
   "b0de6347ef9a8594": 1791423777,
-  "b0e838b6ccc45c1f": 1789647027,
   "b0eba14b5df97d90": 1790820322,
   "b0ef03c406061dfa": 1789712512,
   "b0f15f3f2a8deb79": 1790553316,
@@ -14843,7 +14852,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791455118,
- "last_msg_poll": 1791461363,
+ "last_msg_poll": 1791461681,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14861,7 +14870,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 21:09 KST",
+  "last_run": "2026-10-08 21:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
