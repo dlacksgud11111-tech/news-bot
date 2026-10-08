@@ -545,6 +545,16 @@
    "t": "AI 데이터센터 경쟁, 전력으로…K전력기기 고객 된 빅테크 - 딜사이트",
    "ts": 1791427203,
    "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kYnhsb2dMMlZueUM5YkhwWi0yb0dTcGhGb0pteC1sN1lpRWtRYUFHQ0Mzd2RseXVPQUFadE1xV2llZ3VSM3prWFpfeWt1dlk?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "뉴스웍스",
+   "sc": 8,
+   "sec": "전력기기",
+   "t": "효성重, 국내 첫 2GW급 HVDC 가상검증 설비 완성 - 뉴스웍스",
+   "ts": 1791427313,
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11NmJRclIxMldXLXBrb19Vb0I1U2kzbkpMUTBrQkE2aWhzb1VDMENiNi01WlNGN2pOR1pqUUY3ODNxNWdYaWRFOGtVZFBYaWJxRkwyVnFGTnpWMUh2UHNQNmVzM1VVTmUzc19lb1FOWdIBc0FVX3lxTFBRLVFPdmU1NXZFWHFOeDVqdk9HUlMtdHhRajdhWjl1emlLbmRrVElveExwNjNxQkRiMndTNDVHeVJkeC1sMzdDTzhudmJUbWVnd19JLTVWbmJPc1g0UnR5MmYwZk1BZTZKQmxsX0pKeS04d0U?oc=5"
   }
  ],
  "clip_titles": [],
@@ -11231,6 +11241,7 @@
   "b87bbaf4fcfa8dce": 1790045289,
   "b87cf380875cfe62": 1789965017,
   "b883121171c50158": 1789647653,
+  "b88bbbb44437f51a": 1791430221,
   "b89178c355d8ea30": 1790342212,
   "b8939a1884c38f0d": 1790646328,
   "b89472a8e56b09c7": 1790062459,
@@ -13306,6 +13317,7 @@
   "deb1f7feb82003c2": 1791423214,
   "deb2e9eb313eef4a": 1790611820,
   "debebc1172b0174e": 1790140529,
+  "debf43f2feebef8d": 1791430221,
   "dece5565e6773f0e": 1790060129,
   "ded0eda4a406267c": 1791330483,
   "ded38c69e30dd788": 1790042975,
@@ -15247,7 +15259,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791425493,
- "last_msg_poll": 1791430171,
+ "last_msg_poll": 1791430468,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -15264,7 +15276,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 12:29 KST",
+  "last_run": "2026-10-08 12:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
