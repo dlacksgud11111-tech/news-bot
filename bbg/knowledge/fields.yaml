@@ -1,0 +1,28 @@
+# 항목 → 블룸버그 필드 매핑
+# actual: 과거 실적 (BDH) / best: 블룸버그 컨센 추정치 (BDP, forward)
+# basis: 기준 (GAAP / ADJ / ?) — '?'는 터미널 확인 필요
+# source: 어디서 확인했는지
+
+income_statement:
+  매출액:        {actual: SALES_REV_TURN,      best: BEST_SALES,        basis: {actual: GAAP, best: "?"}, source: 사용자 템플릿}
+  매출총이익:    {actual: GROSS_PROFIT,        best: "BEST_SALES × BEST_GROSS_MARGIN 역산", basis: {actual: GAAP, best: "?"}, source: 사용자 템플릿}
+  매출총이익률:  {actual: "계산", best: BEST_GROSS_MARGIN, source: 사용자 템플릿}
+  영업이익:      {actual: IS_OPER_INC,         best: BEST_OPP,          basis: {actual: GAAP, best: "?(ADJ 의심)"}, source: 사용자 템플릿}
+  EBITDA:        {actual: EBITDA,              best: BEST_EBITDA,       basis: {actual: "?", best: "?"}, source: 사용자 템플릿}
+  순이익:        {actual: NET_INCOME,          best: BEST_NET_INCOME,   basis: {actual: GAAP, best: "?(ADJ 의심)"}, source: 사용자 템플릿}
+
+per_share:
+  EPS:           {actual: IS_DIL_EPS_CONT_OPS, best: BEST_EPS,          basis: {actual: GAAP, best: "?(ADJ 의심)"}, source: 사용자 템플릿}
+  BPS:           {actual: BOOK_VAL_PER_SH,     best: BEST_BPS,          source: 사용자 템플릿}
+
+ratios:
+  ROE:           {actual: RETURN_COM_EQY,      best: BEST_ROE,          source: 사용자 템플릿}
+
+valuation:   # 연간 템플릿에만 있음
+  PER:           {actual: PE_RATIO,            best: BEST_PE_RATIO,         source: 사용자 템플릿}
+  PBR:           {actual: PX_TO_BOOK_RATIO,    best: BEST_PX_BPS_RATIO,     source: 사용자 템플릿}
+  EV/EBITDA:     {actual: EV_EBITDA_ADJUSTED,  best: BEST_CUR_EV_TO_EBITDA, source: 사용자 템플릿}
+
+reference:
+  기업명:   NAME
+  현재주가: PX_LAST
