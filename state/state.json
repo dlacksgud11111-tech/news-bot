@@ -426,6 +426,16 @@
    "t": "[GAM] 오라클이 드러낸 AI 복병 '전력 인허가'...첩첩산중 데이터센터 일정 - 뉴스핌",
    "ts": 1791500400,
    "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBybUE5ZFB6VmJNZ2ROR2NEeXlDMTlJTWlFaEhBYVpWRlhaZnpZdmM2a2xWZ2tvZUI2bkpYNndKNWEtQXRsSV9mNW0tbVh1aFNaNmdnMjk4OW1VOTRF?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "에너지안전신문",
+   "sc": 8,
+   "sec": "데이터센터·AI전력",
+   "t": "“AI 데이터센터 전력비 누가 내나”…美 전력업계, 가스발전 확대에도 ‘비용 폭탄’ 경고 - 에너지안전신문",
+   "ts": 1791500610,
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UQ2ZtSldsRWhlUG9tcDRMaFhKYlV5LUlTVEp3WTdDeU5MYWtVczVaZk1oaWxiTk1jOFBodGx1SDRtWHdfenpULWwzRVNsdzJlMFkyMnZEQWVvUXMwbnRJVUlHM0I?oc=5"
   }
  ],
  "clip_titles": [],
@@ -599,7 +609,6 @@
   "02ec2dc2f008a3ce": 1791246579,
   "02f65c64f70981ea": 1789959919,
   "02f8cc1f7faf87c5": 1790552453,
-  "02fa75d6c7747074": 1789686930,
   "02fb5b425bbdd1ac": 1791278717,
   "0303c85959b3c2d1": 1790503653,
   "03056a5fee11d598": 1789983017,
@@ -5715,7 +5724,6 @@
   "5c428472a647ee2c": 1791364156,
   "5c4b456a2c662ce0": 1789734932,
   "5c4d179c2b33b9dd": 1790946927,
-  "5c4dc2360ec368a9": 1789686930,
   "5c5145ffe2da9f88": 1790049332,
   "5c578747613787fb": 1790821531,
   "5c57aae33285283f": 1791257718,
@@ -5814,6 +5822,7 @@
   "5dc50900f3989d22": 1791339906,
   "5dcd9cc4c113b5e2": 1790836926,
   "5dce214ee57b1b02": 1790730658,
+  "5dd9d34610bbaf5b": 1791501323,
   "5ddeda71a8255bb1": 1790664917,
   "5de0dba56d0d332d": 1790649324,
   "5deb15c0bc83a1ee": 1791259518,
@@ -8950,7 +8959,6 @@
   "9735e0132cdea234": 1790556791,
   "973c01147d461b5a": 1790911534,
   "973d7cffe2cec907": 1790066475,
-  "97496b481ecb7a84": 1789686930,
   "974b93f2cc088743": 1790037157,
   "974bd1709917244e": 1791268221,
   "974db347aca0890f": 1789698990,
@@ -11354,7 +11362,6 @@
   "c26654ef4fcc5604": 1790658361,
   "c271b9a5d4125981": 1791427818,
   "c27354f92e0ac964": 1791439821,
-  "c273cfe7ba4af81b": 1789686930,
   "c280dd52135e16e6": 1791374119,
   "c2870b8ce25d2f5c": 1790573357,
   "c289eff579c415b4": 1790147295,
@@ -14737,7 +14744,7 @@
  "companies_today": {},
  "day": "2026-10-09",
  "last_clip": 1791496888,
- "last_msg_poll": 1791501265,
+ "last_msg_poll": 1791501572,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14755,7 +14762,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-09 08:14 KST",
+  "last_run": "2026-10-09 08:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
