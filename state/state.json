@@ -432,6 +432,26 @@
    "t": "보령시 AI 데이터센터 유치 추진에 시민사회 ‘전면 재검토’ 촉구 - 뉴스스토리",
    "ts": 1791457904,
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Da1o0bWpHZFJEWm1ZLTdaQ1g1aFQzM1g0dTVaLXdfUWJOS1MxS1FPQmhSSmZRWVM0MU82WFNtSmdJQU5qcmtXUXo2VzlrWGZKYUQ4RzBUMUVTZWs2SGRlTkNjekNZbVZqaVI5eTln?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "Waste heat from Goodman data center in Frankfurt, Germany, to power district heating system",
+   "ts": 1791474925,
+   "u": "https://www.datacenterdynamics.com/en/news/waste-heat-from-goodman-data-center-in-frankfurt-germany-to-power-district-heating-system/"
+  },
+  {
+   "co": "산일전기",
+   "n": 1,
+   "s": "잡포스트",
+   "sc": 8,
+   "sec": "전력기기",
+   "t": "산일전기 22만4000원으로 조정…북미 변압기 납기 점검 - 잡포스트",
+   "ts": 1791437730,
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUbmlNRkdDeW5KRmt0X09fTVBHTEYzdkx2eVEwa2N5Ty1YUXlKdkQ2UHV5RXZlRnNDeVduRXRDdGJJYmpjZ0VTR3gtQjRNNmhiNGJPMnJrQzVSbGpUZThWNkJNNjB3bHZSU2dKWWFYeFBBZ9IBckFVX3lxTFBUbmlNRkdDeW5KRmt0X09fTVBHTEYzdkx2eVEwa2N5Ty1YUXlKdkQ2UHV5RXZlRnNDeVduRXRDdGJJYmpjZ0VTR3gtQjRNNmhiNGJPMnJrQzVSbGpUZThWNkJNNjB3bHZSU2dKWWFYeFBBZw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3900,6 +3920,7 @@
   "3cc9371fb65258b4": 1791257718,
   "3ccabc8ad1e80f70": 1790756120,
   "3cd1f075868efcea": 1790152520,
+  "3cd307a52ca85e38": 1791475249,
   "3cd69f151ecc06ca": 1790570118,
   "3cecff5e75b93a44": 1790726668,
   "3cee1209fdd94590": 1791380122,
@@ -8189,6 +8210,7 @@
   "896767c7598539fc": 1790072717,
   "8969d61be53bdec4": 1790214317,
   "896a0abae21daf96": 1791155417,
+  "896abe58c2a684be": 1791475249,
   "896cb06ec15bd442": 1790697297,
   "89726900b48be2ad": 1790127622,
   "8975f29d703d4e02": 1791336918,
@@ -10071,6 +10093,7 @@
   "ab779b5ca5cce5ee": 1790975418,
   "ab78b86e5adfcbdf": 1790649614,
   "ab7ea64b6955544f": 1789718418,
+  "ab7ff7bcef66f72e": 1791475249,
   "ab8b415fa5eb4488": 1790467770,
   "ab902c6c759ae0ca": 1791297760,
   "ab95ded73bb93401": 1791347720,
@@ -14750,7 +14773,7 @@
  "companies_today": {},
  "day": "2026-10-09",
  "last_clip": 1791470177,
- "last_msg_poll": 1791475164,
+ "last_msg_poll": 1791475490,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14768,7 +14791,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-09 00:59 KST",
+  "last_run": "2026-10-09 01:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
