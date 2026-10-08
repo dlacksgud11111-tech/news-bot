@@ -398,88 +398,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 12,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 5,
-   "sec": "유틸리티·정책",
-   "t": "가스기술공사, 글로벌 부유식 LNG저장설비 시장공략 드라이브",
-   "ts": 1791498186,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334967"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "Daum",
-   "sc": 8,
-   "sec": "전력기기",
-   "t": "\"시뮬레이션으로 안전 확보\"…효성重, 2GW급 HVDC 검증 설비 구축 - Daum",
-   "ts": 1791443715,
-   "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40TGlwdUtCWVhNb3NNZ3JnQmFKV25KZjl0YVQ5bllOczdhY1RTYlJTXzM1aUVUcGVjbHkxUDM1dDlYbVN6QkE?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "스마트비즈",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "조현준 효성 회장, ‘기술경영’ 앞세워 미국 AI 데이터센터 전력시장 공략 - 스마트비즈",
-   "ts": 1791443107,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tUDNmN0lFMGExbml3SmNxLVJLamNQbDBQaHJDYlJVQTNiSktuMTlha3ZHYVJ6cWxuTVEwdXN5bWRVRzZMbjhUVVNLZU5hXzdsUE5oOEs4UDVHVHBkYUpXdE84Vlc0SXJTd0NkQg?oc=5"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "인더스트리뉴스",
-   "sc": 18,
-   "sec": "전력기기",
-   "t": "효성중공업, 국내 최초 2GW급 초고압 직류송전 검증설비 구축 - 인더스트리뉴스",
-   "ts": 1791450459,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JMnE4dWxwV0ZVTjdOYTdiRVlCOVUwSlVTdlN0V1B3aHdkdDBsVF9sZzlyY2xTUTFGNktYRzhJSF9aY05RRTFnb0RaWjEzNC00VHZRdGlyNlJPcVRUdlZvM2JDNUMtX2dXbFU3YW95S204dw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 0,
-   "sec": "전력기기",
-   "t": "韓·美·日 등 15개국, 中 핵심품목 과잉생산에 공동전선",
-   "ts": 1791500036,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334951"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "South Africa to procure 4.6 GW of battery storage",
-   "ts": 1791468879,
-   "u": "https://www.pv-magazine.com/2026/10/08/south-africa-to-procure-4-6-gw-of-battery-storage/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "파인드비",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "핀란드, 구글 데이터센터 공사 중단 명령 - 파인드비",
-   "ts": 1791453642,
-   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PTlRod1V4cDI2MHU0RlRKMXdxVEtsN3dTanJjcUxkY1pxeGpDQlgzLUk3UFZqVGtrcGlDVzBqblp0WGVMSnNEdm5nMHRBSXJ1S0xNS2N4RTQtMHR1anJLOFNMQWxsd9IBakFVX3lxTE1YakF5dktTQ1RMcnBQcXlYdVkxRmRsQ2tjSldMang5NktTcDJxbkFIQ2t1OVhRSDhyZG9iaTRDLTF4NTdZUkFVQjlaY3E5V0IyOFJScDJpMVJXY1h5dUVhREQ1T3h4OUZmRHc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Google's €13bn data center buildout in Finland under investigation for 300-hectare forest removal",
-   "ts": 1791468946,
-   "u": "https://www.datacenterdynamics.com/en/news/googles-13bn-data-center-buildout-in-finland-under-investigation-for-300-hectare-forest-removal/"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -922,7 +841,6 @@
   "08c07dcd890a63ef": 1789965314,
   "08c343c2256ae244": 1791453915,
   "08d4ea2ec052a2d3": 1790818527,
-  "08d647260e31ed67": 1789655729,
   "08da2482c118dc35": 1789959318,
   "08db35abb3f0fadb": 1790132720,
   "08de605f72e24a3c": 1790041217,
@@ -1257,6 +1175,7 @@
   "0f0321809f60fcdd": 1791063917,
   "0f06382a217195ae": 1791335721,
   "0f09d9e0f8be62d0": 1789957530,
+  "0f0ef3ece4a35834": 1791470177,
   "0f12679b7f68a2c9": 1790661331,
   "0f1316dc50af8ccf": 1791103304,
   "0f15e0018dc3fd7c": 1789883723,
@@ -8225,7 +8144,6 @@
   "892cf1af52535122": 1790132132,
   "89394224f2871d15": 1790084279,
   "893d1b640cdfd1e4": 1790735693,
-  "894bbd95398eb93c": 1789655729,
   "894db2de67d192d0": 1791274234,
   "89517435aca8f742": 1791248864,
   "8952abd7b6a26a1f": 1791209421,
@@ -11994,7 +11912,6 @@
   "cd8838fdc3e540fa": 1791323416,
   "cd8b5eab6c214fc8": 1790197952,
   "cd9d8f8e1a0f9432": 1791164118,
-  "cdaa54f68b0563fa": 1789655729,
   "cdb0d7e27ed3c2c1": 1791417616,
   "cdb449c84d9b4653": 1790921419,
   "cdbaaaf2faaf5b31": 1791184220,
@@ -12764,7 +12681,6 @@
   "dbe2e0670db74d75": 1791341036,
   "dbf398756ee8ce71": 1790816717,
   "dbfaf5afebdfa899": 1790127320,
-  "dc0104fce3a0c7e6": 1789655729,
   "dc0370f48f10e50e": 1790947219,
   "dc0570f562ead56a": 1790841922,
   "dc06a253062b0ae4": 1790050530,
@@ -13740,6 +13656,7 @@
   "ed7d20e4ff5e735d": 1791341603,
   "ed8383ffab69bf6a": 1790810422,
   "ed848ddfa72f5d0a": 1790807718,
+  "ed8c7bbed2fbd22a": 1791470177,
   "ed90a75069a12cbc": 1789953163,
   "ed90d7816fe517f1": 1789971183,
   "ed91f789437adb53": 1790823619,
@@ -14720,7 +14637,6 @@
   "feac042766298e95": 1791264914,
   "feae91d6b6d46655": 1791160587,
   "feaf0d35f0508a4a": 1789866315,
-  "feb7c72d95d12768": 1789656017,
   "feb8172745429cc4": 1790221821,
   "febb1e502e3367e9": 1791062417,
   "febdda83d792bf49": 1791421506,
@@ -14799,8 +14715,8 @@
  },
  "companies_today": {},
  "day": "2026-10-08",
- "last_clip": 1791462632,
- "last_msg_poll": 1791469854,
+ "last_clip": 1791470177,
+ "last_msg_poll": 1791470429,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14818,7 +14734,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 23:30 KST",
+  "last_run": "2026-10-08 23:40 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
