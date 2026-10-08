@@ -404,6 +404,26 @@
    "t": "대신證 \"효성중공업, 3분기 전쟁 여파 일시 부진…美데이터센터 호조 지속\" - 뉴스1",
    "ts": 1791417721,
    "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NR3JjV2c1cENlSkJ3QkRLNzlMQTVNQmp0TklDNXBqOUJvMGRYTHdXTG5TWnVfcnF6cUJKWnZZSkVwVXJQZU81TzgydUlVbTZUaXlNbXpQb1pTZFU?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "녹색경제신문",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터 전력 폭증…‘버스덕트’가 뜬다 - 녹색경제신문",
+   "ts": 1791418362,
+   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82M05vV1d3RkhLNmxadk5LZGRaSWVuNzQtY0VjVHhZS0cyQ0JpaHdTZkhDZU9LWEtYTHBaT096bHNSZ3JVQ1htVzRTOFhUemFNTnJwZDBocTlpVGphZDJ0dHJTLVY2ZWM?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "누리일보",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "충남연구원 “AI 데이터센터, 충남이 최적 입지” - 누리일보",
+   "ts": 1791418215,
+   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WS0dUSVIxV1psbHdpZHZ0Q2NoeXFJc29TN2tNVG9ZVHp3Wmt4S1gxVzRvUEFpWnk2WGRvQ29saUl3Zm5mNWVaX0FSRWNDOWRzTThGUGEyVGlGOUkw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -8977,6 +8997,7 @@
   "9789bcc6c6010dce": 1790751916,
   "9794fadca2d1faeb": 1790037157,
   "9795fefc4a56da71": 1791350422,
+  "97a587fe1914df18": 1791418819,
   "97a8948aefd28eeb": 1790904314,
   "97b0f4af51fccea6": 1790901316,
   "97b1f1612e5685e3": 1790035999,
@@ -14268,6 +14289,7 @@
   "f766a92759a0b686": 1790898618,
   "f7766490d3960ef5": 1789956049,
   "f77e591faa3acdaf": 1790841331,
+  "f77e86a1b41378eb": 1791418819,
   "f77fcecb94f4ad47": 1790959221,
   "f77fef82f3cf5542": 1790639933,
   "f77ffb1fc8761161": 1790668519,
@@ -14766,7 +14788,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791418218,
- "last_msg_poll": 1791418764,
+ "last_msg_poll": 1791419069,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14785,7 +14807,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 09:19 KST",
+  "last_run": "2026-10-08 09:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
