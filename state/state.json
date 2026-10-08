@@ -515,6 +515,26 @@
    "t": "대우건설, 정비사업 확대·데이터센터사업팀 신설…조직 개편",
    "ts": 1791428149,
    "u": "https://www.yna.co.kr/view/AKR20261008094900003"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "디지틀조선TV",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "효성중공업, 국내 첫 2GW급 HVDC 검증 설비 구축…핵심기술 자립 속도 - 디지틀조선TV",
+   "ts": 1791429180,
+   "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oYzh6U0laRU1NektPd2RDUnJZRGZYYUp0MnlYXzNvVW85SEM1aTBET2ZHa2xYWW5WXzVSaHA5SENlNkVTUXdONFBTQnFDNHVhd0dxNWJBZWFPaENlcFF1TlhVWFE0dnl5R0hGTXo5UmVsREkySWZTX3M0TWc?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "미주중앙일보",
+   "sc": 10,
+   "sec": "전력기기",
+   "t": "‘에너지고속도로’ 겨냥한 효성重, 국내 첫 초고압직류송전 검증 - 미주중앙일보",
+   "ts": 1791427980,
+   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oakNKdXNNVmlnQjdMVVlMeWhOeGlKQUROWjlUWjVfaGxleWRyYTRHbFJDQlBQMG84aEYxQ1JjbEJ2NlQ2QlByTFg2UUI3RFZCLTFtb2x3QjV0Q2p0VHFaWXFR?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2758,6 +2778,7 @@
   "26771b807ab2d77a": 1791164118,
   "267d8a6cf9a1013c": 1789979721,
   "2681d2c56bff137a": 1790053518,
+  "26872ba3d7a678dd": 1791429630,
   "2694d1171b540e45": 1790821819,
   "2695167f31592ce7": 1790759086,
   "2698af9a73f14800": 1789956616,
@@ -4986,6 +5007,7 @@
   "4bf1b2e684080192": 1790640533,
   "4bf69583be1c02cc": 1791361221,
   "4bf72ece45d59fe1": 1790560518,
+  "4bffacf6fd5accab": 1791429630,
   "4c0085421e63fd51": 1789744015,
   "4c079bb12e9f4211": 1789630519,
   "4c0c0057485e73ed": 1790508916,
@@ -7861,6 +7883,7 @@
   "7e2b95f9f3d9c16e": 1790219119,
   "7e2cf8630422d5ae": 1791419757,
   "7e2dbec90225bfa8": 1791269674,
+  "7e30c8611214e730": 1791429630,
   "7e3113f0009a8edf": 1791263115,
   "7e37f73033957e32": 1791245120,
   "7e3f9ecaf59aa9a3": 1789635618,
@@ -15208,7 +15231,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791425493,
- "last_msg_poll": 1791429567,
+ "last_msg_poll": 1791429872,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -15225,7 +15248,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 12:19 KST",
+  "last_run": "2026-10-08 12:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
