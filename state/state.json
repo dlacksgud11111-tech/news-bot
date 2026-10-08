@@ -468,6 +468,16 @@
    "t": "핀란드, 구글 데이터센터 공사 중단 명령 - 파인드비",
    "ts": 1791453642,
    "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PTlRod1V4cDI2MHU0RlRKMXdxVEtsN3dTanJjcUxkY1pxeGpDQlgzLUk3UFZqVGtrcGlDVzBqblp0WGVMSnNEdm5nMHRBSXJ1S0xNS2N4RTQtMHR1anJLOFNMQWxsd9IBakFVX3lxTE1YakF5dktTQ1RMcnBQcXlYdVkxRmRsQ2tjSldMang5NktTcDJxbkFIQ2t1OVhRSDhyZG9iaTRDLTF4NTdZUkFVQjlaY3E5V0IyOFJScDJpMVJXY1h5dUVhREQ1T3h4OUZmRHc?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Google's €13bn data center buildout in Finland under investigation for 300-hectare forest removal",
+   "ts": 1791468946,
+   "u": "https://www.datacenterdynamics.com/en/news/googles-13bn-data-center-buildout-in-finland-under-investigation-for-300-hectare-forest-removal/"
   }
  ],
  "clip_titles": [],
@@ -6119,7 +6129,6 @@
   "6248196fbc1d29c1": 1790681418,
   "6248583c43c9accf": 1789866315,
   "624a41b00424113d": 1790055317,
-  "624e6bf862fb20d2": 1789655120,
   "624e9a2ef7abc583": 1790040051,
   "624ee8fbd740fc3e": 1790074217,
   "624f9a5bd9dca74c": 1791263115,
@@ -9216,6 +9225,7 @@
   "9b86c531d8aaea49": 1790060726,
   "9b8a2aa2389aa413": 1790911534,
   "9b8c411f9ba46d95": 1791261318,
+  "9b8d2560bbfe7b25": 1791469607,
   "9b9070ed263752c1": 1790553024,
   "9b9294a7d7081dff": 1790042395,
   "9b9ae56f3f8cad7f": 1790572220,
@@ -14790,7 +14800,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791462632,
- "last_msg_poll": 1791469282,
+ "last_msg_poll": 1791469854,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14808,7 +14818,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 23:21 KST",
+  "last_run": "2026-10-08 23:30 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
