@@ -388,7 +388,7 @@
   },
   {
    "co": "효성중공업",
-   "n": 1,
+   "n": 2,
    "s": "서울경제TV",
    "sc": 14,
    "sec": "전력기기",
@@ -488,13 +488,23 @@
   },
   {
    "co": "",
-   "n": 1,
+   "n": 2,
    "s": "www.peopleview.co.kr",
    "sc": 2,
    "sec": "데이터센터·AI전력",
    "t": "AI의 다음 인프라 과제는 전력… 디지타임스, 800VDC 데이터센터로의 전환을 분석하다 - www.peopleview.co.kr",
    "ts": 1791427804,
    "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlb2tQcHp3R0FNUEVkTmR1X0QtcnNzS3Fuc0Zqd2VlbUhtd3dKWjk2dTNpQnRBZE43Z1JISjhDWlR2U0dIQldNYy05V3VtMGNsT2xVZS1nMGY4Q3NHamxZSUgtWmM?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "연합뉴스",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "효성중공업, 국내 첫 GW급 초고압 직류송전 성능 검증설비 구축 - 연합뉴스",
+   "ts": 1791418298,
+   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0ydy02TUU0QW9rTHRGMVpKclp2UnJlcXNaRzZjaGMyaVpBaGV0WnhjQWNjYV9IX3VfYXpRVFZGTU5qQ1lFNk9lNWJTRHpYSEducEhuYXcteWtaSG9FT2YtadIBYEFVX3lxTE0ydy02TUU0QW9rTHRGMVpKclp2UnJlcXNaRzZjaGMyaVpBaGV0WnhjQWNjYV9IX3VfYXpRVFZGTU5qQ1lFNk9lNWJTRHpYSEducEhuYXcteWtaSG9FT2YtaQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2085,6 +2095,7 @@
   "1bb724e54b7945a2": 1790986017,
   "1bb9d5bb73aab499": 1791181823,
   "1bbac4bdd5318522": 1790550621,
+  "1bbe41d527382322": 1791428418,
   "1bc9e7d276878317": 1790642222,
   "1bd16eebf670509b": 1790583021,
   "1bd1f3ba45758b04": 1790650773,
@@ -2194,6 +2205,7 @@
   "1dad3831c07ba13a": 1789974322,
   "1db13374d7df6d52": 1791377719,
   "1db52b46c6189a95": 1789706118,
+  "1db5609cfc188e28": 1791428418,
   "1dbebc6b601a457f": 1790824219,
   "1dc1d5e52767e859": 1790651338,
   "1dc7aa892ec6050f": 1789957222,
@@ -7391,6 +7403,7 @@
   "7663e041827cbbec": 1790476519,
   "7668323670c8b0f6": 1789627496,
   "766871b82ad69426": 1790752230,
+  "766baa3b6d91984b": 1791428418,
   "7671be2d593e1f2f": 1790557358,
   "7672a16696bbed76": 1790734519,
   "7676a22f197d72ea": 1790130631,
@@ -15169,7 +15182,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791425493,
- "last_msg_poll": 1791428364,
+ "last_msg_poll": 1791428665,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -15186,7 +15199,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 11:59 KST",
+  "last_run": "2026-10-08 12:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
