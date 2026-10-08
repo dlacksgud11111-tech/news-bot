@@ -428,6 +428,16 @@
    "t": "조현준 효성 회장, ‘기술경영’ 앞세워 미국 AI 데이터센터 전력시장 공략 - 스마트비즈",
    "ts": 1791443107,
    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tUDNmN0lFMGExbml3SmNxLVJLamNQbDBQaHJDYlJVQTNiSktuMTlha3ZHYVJ6cWxuTVEwdXN5bWRVRzZMbjhUVVNLZU5hXzdsUE5oOEs4UDVHVHBkYUpXdE84Vlc0SXJTd0NkQg?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "인더스트리뉴스",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "효성중공업, 국내 최초 2GW급 초고압 직류송전 검증설비 구축 - 인더스트리뉴스",
+   "ts": 1791450459,
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JMnE4dWxwV0ZVTjdOYTdiRVlCOVUwSlVTdlN0V1B3aHdkdDBsVF9sZzlyY2xTUTFGNktYRzhJSF9aY05RRTFnb0RaWjEzNC00VHZRdGlyNlJPcVRUdlZvM2JDNUMtX2dXbFU3YW95S204dw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -4153,6 +4163,7 @@
   "41485957f810a7ee": 1791248864,
   "414a62ee5fe58c6b": 1790181333,
   "4152e899720f0152": 1790660429,
+  "4159667d1b031fda": 1791466229,
   "41638f1b3909ff43": 1791419757,
   "41682c71d0d3ea4e": 1790843760,
   "416cfaca65c8d00d": 1790581516,
@@ -4921,7 +4932,6 @@
   "4e1837ba30c16db8": 1790903418,
   "4e1ae7f1f696f9bf": 1790658925,
   "4e1ed3e3a526f98b": 1790516716,
-  "4e23888217cc671e": 1789651818,
   "4e2504ff8dd17936": 1789851315,
   "4e33a1f2bbc258f3": 1790815220,
   "4e343984d5142b9a": 1790692523,
@@ -10077,7 +10087,6 @@
   "abc24059bdac3c34": 1790370688,
   "abc96428dc9dc7b7": 1790005215,
   "abcf9f03496c6b07": 1791419757,
-  "abd079df30cc7dbe": 1789651818,
   "abd4cdda332ca1fe": 1789720817,
   "abe19ec3af7cdf18": 1790715791,
   "abe2bd92ceec0968": 1790136915,
@@ -14382,6 +14391,7 @@
   "f98d6c4df694356d": 1791427818,
   "f98e9fd24e4b731c": 1790824219,
   "f9932f25eb727241": 1791148356,
+  "f995b8257c072b6b": 1791466229,
   "f99f2a0907740b36": 1790923232,
   "f9b263cb9f34678f": 1791356717,
   "f9b4e7a4f2ae5130": 1791284117,
@@ -14751,7 +14761,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791462632,
- "last_msg_poll": 1791466171,
+ "last_msg_poll": 1791466478,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14769,7 +14779,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 22:29 KST",
+  "last_run": "2026-10-08 22:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
