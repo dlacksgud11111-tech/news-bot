@@ -579,6 +579,16 @@
    "t": "\"100조원 HVDC 시장 잡아라\"…효성중공업, 국내 첫 2GW급 검증설비 구축 '승부수' - 이코노미트리뷴",
    "ts": 1791428721,
    "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XMEYxaW91dHRPRHNwZXZ0MUduX2VFZE80el9yWkE2LURXQVMwclNreDJaYnVUVTIzWXNqTXdmTURTZlNHYWtIQnVtV3J5VnZGUGpaOVVSaWVSTUltR0FJazBBbzRnV3JaQVlMVVBTVngwMmZKZV9R?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "한겨레",
+   "sc": 6,
+   "sec": "전력기기",
+   "t": "효성, ‘전력 고속도로’ 핵심 HVDC 검증 설비 구축…국내 첫 2GW급 - 한겨레",
+   "ts": 1791451260,
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44MFA2c01lZkxNVW9YanRWWXRpM214eWhnMEdmRV81cG0zNlhSSHlSZWlPbmRjaXR0NUpNbVJ4QnhMdlpSeGdDNm50SFNsajM5eUNrd3dpcXRSY1NNWjNXbkdzTERXT2lfcXc?oc=5"
   }
  ],
  "clip_titles": [],
@@ -6112,7 +6122,6 @@
   "6016109050c00c7d": 1791259518,
   "6023dba7c6627678": 1790744723,
   "6023e27af2b8e843": 1790057120,
-  "602523fa57ef7431": 1789638052,
   "6025a129abbd9ff0": 1791248292,
   "602b5117c99d39f8": 1789974627,
   "602ca002122b8474": 1790124922,
@@ -9914,7 +9923,6 @@
   "a59e7e1d15ca6b16": 1791211830,
   "a5a5d659f8cfe75e": 1791359152,
   "a5a9f14f914bb67e": 1790641093,
-  "a5aacbc42a1bcf55": 1789638052,
   "a5abda2fcf636732": 1790292769,
   "a5aeb93bf0de0b32": 1790955660,
   "a5aff1a0e1f90e22": 1790733017,
@@ -10277,6 +10285,7 @@
   "ac664e9dcc827a83": 1791452122,
   "ac6666c72b2f0913": 1790757930,
   "ac6e76e53cc63ee9": 1791397242,
+  "ac781ea180d2209f": 1791452430,
   "ac78dc59ea43f207": 1790300885,
   "ac796b5352c44073": 1789958121,
   "ac7b58cb83257e92": 1790649324,
@@ -14914,7 +14923,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791447744,
- "last_msg_poll": 1791452361,
+ "last_msg_poll": 1791452677,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14932,7 +14941,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 18:39 KST",
+  "last_run": "2026-10-08 18:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
