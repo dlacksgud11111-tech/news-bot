@@ -472,6 +472,16 @@
    "t": "KT Cloud plans 50MW data center project in Incheon, South Korea",
    "ts": 1791477203,
    "u": "https://www.datacenterdynamics.com/en/news/kt-cloud-plans-50mw-data-center-project-in-incheon-south-korea/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Investing.com 한국어",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "Oracle, 데이터센터 전력 공급을 위해 천연가스 트럭 운송 활용 - Investing.com 한국어",
+   "ts": 1791478620,
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iMzAzVHNZaGtYbGxrcDh3UjJRLW9wazdEV1lsTmRSQ0RTSk5hTjZLLVE3TW1LenJ4UkduNXNkSkJjNjByM3YxR3ZFMDZycVVkcEtFSzI0UUxpNHFPeDNsSi1kdjZxcWxuUlVfU19mc0M?oc=5"
   }
  ],
  "clip_titles": [],
@@ -5846,6 +5856,7 @@
   "5d909c4fbab064a5": 1791348321,
   "5d9a8cf3ac8e4856": 1790084844,
   "5d9ad1d648c18ab9": 1790731821,
+  "5da5e86d72914865": 1791479432,
   "5da6ebfe3bb5276e": 1790638794,
   "5dafd1b7f8ba546f": 1790323520,
   "5db2fb19e0e17c20": 1790037157,
@@ -14797,7 +14808,7 @@
  "companies_today": {},
  "day": "2026-10-09",
  "last_clip": 1791470177,
- "last_msg_poll": 1791479376,
+ "last_msg_poll": 1791479676,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14815,7 +14826,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-09 02:09 KST",
+  "last_run": "2026-10-09 02:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
