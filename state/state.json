@@ -446,6 +446,16 @@
    "t": "“AI 데이터센터 전력 3배 폭증”…美 전력산업, 발전소보다 ‘누가 돈 내나’에 주목 - 에너지안전신문",
    "ts": 1791501351,
    "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55emFtbUthNGN5dXhkTkd5RXlOaTV5MWt3ZG16N1pueVZERVNRdVFCLTBES3QxRFNnSlRpbjhfaDdmY0pDLVNiUlI1R2h0UDVleVNIbF9wdHA3OVE5M2JXNWJEWGM?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "이코노뉴스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "HD건설기계, 미국 데이터센터에 발전용 엔진 공급...이록과 가스발전 엔진 롱블록 공급 계약 - 이코노뉴스",
+   "ts": 1791461100,
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FU3RiTk5NaHVJS0NFaXk5ZkhUX0hLWGllX2FFQVZvcXNNZXE4TDktQmFaeVYydkhzaE9iVXZ5QV95dUR5UmhITG9yamQtN1R0eWhCSFFRaWROSHA4WVFVSkRNQlUtdVBHMWgwaDdxYw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -7830,7 +7840,6 @@
   "825a9284dfa2a99d": 1790565330,
   "825b1fb627ba56b4": 1791338417,
   "825de8cc277d72a2": 1790124315,
-  "8262fbcbfa91e115": 1789687812,
   "826b4586f990676b": 1790644581,
   "826de60993533c6d": 1790130924,
   "827160728ba4e11f": 1790583021,
@@ -11926,6 +11935,7 @@
   "ccefabb3047b6d7f": 1791279022,
   "ccf05d5ba3214773": 1791158866,
   "ccf1add09672e017": 1790658925,
+  "ccf48dec6200fe82": 1791502231,
   "cd016f81c4b301ab": 1789865116,
   "cd05a37249faa4c7": 1789877422,
   "cd0e72f07b28edd1": 1790706014,
@@ -14753,7 +14763,7 @@
  "companies_today": {},
  "day": "2026-10-09",
  "last_clip": 1791496888,
- "last_msg_poll": 1791502160,
+ "last_msg_poll": 1791502477,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14771,7 +14781,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-09 08:29 KST",
+  "last_run": "2026-10-09 08:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
