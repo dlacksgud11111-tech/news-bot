@@ -448,6 +448,16 @@
    "t": "Inside BESS manufacturing: Maxxen’s utility-scale storage factory in Europe",
    "ts": 1791458100,
    "u": "https://www.pv-magazine.com/2026/10/08/inside-bess-manufacturing-maxxens-utility-scale-storage-factory-in-europe/"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "뉴스엔뷰",
+   "sc": 14,
+   "sec": "전력기기",
+   "t": "효성중공업, 국내 최초 GW급 HVDC 성능 검증 설비 구축…‘서해안 에너지고속도로’ 가속화 - 뉴스엔뷰",
+   "ts": 1791436795,
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53cDg4Zy1kTWd5M3h5Z1g0LVdKbGh1Zzl3X3FWYVI3b19rYl9aaGlRdDlUQmxXUmdKTUg3OWxSVUNXcFhSRVBKVFhfQVE0dDlmOFRYYUlZM2pCZWl3TkRqdmVqYXc?oc=5"
   }
  ],
  "clip_titles": [],
@@ -6242,6 +6252,7 @@
   "6463fab5078cdd4a": 1790651338,
   "6467db6a2315e13e": 1791251134,
   "6470cc9b6266e42b": 1790737408,
+  "647676589b8cdb3c": 1791458746,
   "64771e528e5c711b": 1791303028,
   "64782ff9dfa0de53": 1790834627,
   "647d0a779504507f": 1790561723,
@@ -8917,7 +8928,6 @@
   "95cd92b4c47c37ee": 1791257718,
   "95d025dacbeebb92": 1791097829,
   "95d83946d3bfed26": 1791334517,
-  "95d92ec09c25432a": 1789644321,
   "95e0a44f228f49c2": 1790833487,
   "95e8635ea9b8d5b0": 1791419121,
   "95e93bf73359dd4b": 1790037737,
@@ -12741,7 +12751,6 @@
   "db833e5dd8ac29b6": 1790728933,
   "db87b07f922da4df": 1789851916,
   "db9b75f04e23306e": 1790082587,
-  "db9de21f163f6baa": 1789644321,
   "dba02e845df13471": 1791345923,
   "dba5ed287c2c4b25": 1790645160,
   "dbac7bedb74cbf9f": 1790727236,
@@ -14791,7 +14800,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791455118,
- "last_msg_poll": 1791458421,
+ "last_msg_poll": 1791458987,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14809,7 +14818,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 20:20 KST",
+  "last_run": "2026-10-08 20:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
