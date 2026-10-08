@@ -458,6 +458,16 @@
    "t": "효성중공업, 국내 최초 GW급 HVDC 성능 검증 설비 구축…‘서해안 에너지고속도로’ 가속화 - 뉴스엔뷰",
    "ts": 1791436795,
    "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53cDg4Zy1kTWd5M3h5Z1g0LVdKbGh1Zzl3X3FWYVI3b19rYl9aaGlRdDlUQmxXUmdKTUg3OWxSVUNXcFhSRVBKVFhfQVE0dDlmOFRYYUlZM2pCZWl3TkRqdmVqYXc?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "DCD Data Center Construction Channel Sample Audience",
+   "ts": 1791446400,
+   "u": "https://www.datacenterdynamics.com/en/dcd-downloads/dcd-data-center-construction-channel-sample-audience/"
   }
  ],
  "clip_titles": [],
@@ -3829,7 +3839,6 @@
   "3b158bc4f2fc24ce": 1790685320,
   "3b1ad3b0935e4fdd": 1791453915,
   "3b1d7470899cea38": 1790067063,
-  "3b1dd863d0bba9bc": 1789646417,
   "3b2498047d673659": 1789939270,
   "3b25ec1c5a5c1b3f": 1790073620,
   "3b2b8cee070ffe0a": 1790141423,
@@ -9867,6 +9876,7 @@
   "a7023e3f762b4a58": 1790657174,
   "a706d6fe60d63010": 1791359739,
   "a70a7feb3c85a7d9": 1790008517,
+  "a7114f9950574c46": 1791460817,
   "a7135dd5e4f685fc": 1791389357,
   "a71877886d847c23": 1790396718,
   "a726ef76e4e64c8c": 1791246009,
@@ -14803,7 +14813,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791455118,
- "last_msg_poll": 1791460766,
+ "last_msg_poll": 1791461066,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14821,7 +14831,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 20:59 KST",
+  "last_run": "2026-10-08 21:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
