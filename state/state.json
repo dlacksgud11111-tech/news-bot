@@ -388,7 +388,7 @@
  "clip_buffer": [
   {
    "co": "효성중공업",
-   "n": 2,
+   "n": 3,
    "s": "매일타임즈",
    "sc": 12,
    "sec": "전력기기",
@@ -435,6 +435,36 @@
    "t": "\"변압기 슈퍼사이클 아닌 '뉴노멀'\"..HD현대일렉 글로벌 시장 잡는다 - 머니투데이 - 머니투데이",
    "ts": 1791433800,
    "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Nd25UdjJyQkZNVDdUOVJwbFpFQm9WUGlNbC1aY1BXdFhjcnRIUkVvTUNxYmV0OXF6VWR2bFVBdmN3c0ozMWZkakE5bHczWDJ4enhvTFRlbUhPQXBqNUZCT1RPN283SERzb2d1b3MxRWROZ9IBckFVX3lxTE5Nd25UdjJyQkZNVDdUOVJwbFpFQm9WUGlNbC1aY1BXdFhjcnRIUkVvTUNxYmV0OXF6VWR2bFVBdmN3c0ozMWZkakE5bHczWDJ4enhvTFRlbUhPQXBqNUZCT1RPN283SERzb2d1b3MxRWROZw?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "비욘드포스트",
+   "sc": 14,
+   "sec": "전력기기",
+   "t": "효성중공업, 대용량 스태콤 앞세워 미국 전력망 시장 확대 - 비욘드포스트",
+   "ts": 1791440514,
+   "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hMnNEdzFTVWFVZjRKWTAySDdrUERQM1JnM0QzSTZIRUhtN2dJZjJNeDRDQXEyTWFzbTZvOHA1VTB4UFA3RWx4aGtiOEpKRGh5Q0htYk5tc1dyM1J1elpDd21XZFczaExZU0RDRlAxdGpaWkt6VTlRd0IzU3U?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스 경제 최신기사",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "DB월드·한국투자리얼에셋운용, 데이터센터 사업 협력",
+   "ts": 1791440354,
+   "u": "https://www.yna.co.kr/view/AKR20261008130800003"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "임팩트온",
+   "sc": 24,
+   "sec": "전력기기",
+   "t": "텍사스 전력망에 첫 SMR 연결 추진...블루에너지, 1.5GW 원전 계통연계 첫 신청 - 임팩트온",
+   "ts": 1791419293,
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rT0ZlVGpGTjAzU0Y4dF83RnNfdmlVVFdRSUw3Q2xNSG0xeVNrRzFuX19SSGZ1ZDZValZEZDJBblF2Uk9HRmVodVRLbmhEdjBRZVVmTlhtenhQeGdFZk1aZ2VOZGpXUVc2MGc?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2391,6 +2421,7 @@
   "21367bf61cdebb75": 1789977915,
   "21386a5cb34805fb": 1790836926,
   "21420eef939d09ea": 1791352819,
+  "2143ab9cbf49418c": 1791441029,
   "2143f1c9968ee4c4": 1790925921,
   "214b648b67337642": 1790557916,
   "214bbddb34989ca2": 1790735693,
@@ -2466,6 +2497,7 @@
   "223d63a49df1c110": 1789724119,
   "224073c363efde1c": 1791356717,
   "2240cb5e0fb74462": 1790838638,
+  "2243b57cbaa6df72": 1791441029,
   "2243d6114c37189d": 1790725223,
   "224470d1b32804d4": 1789781561,
   "2245d0c61015f561": 1790735693,
@@ -3197,6 +3229,7 @@
   "2e8217f9634e61fa": 1789950278,
   "2e84e7cfb9d1264a": 1791342755,
   "2e87c071bcfde670": 1789953723,
+  "2e8edd6158cedeee": 1791441029,
   "2e8ffad6c374184a": 1791426634,
   "2e96501aa49f7eed": 1790841922,
   "2e9817ebbc9f19fe": 1789698990,
@@ -8192,6 +8225,7 @@
   "839f528709caa56f": 1790572796,
   "83af7814e6d6b02a": 1790730092,
   "83b7dab3595d9739": 1790840725,
+  "83c1cada9031f9fb": 1791441029,
   "83cae0fa40fc5b44": 1790139621,
   "83cb720a9dd428d5": 1790665521,
   "83d2eab4740ef133": 1791440418,
@@ -10548,6 +10582,7 @@
   "ad1e0d5473266979": 1790040917,
   "ad1fbc952b71c585": 1790730658,
   "ad2e9ba950904016": 1790831115,
+  "ad3de7e217e0dcdd": 1791441029,
   "ad5477c6b41f3994": 1789959318,
   "ad54919e9df5744b": 1791365854,
   "ad5c438c3ef7ed4c": 1789954327,
@@ -12379,6 +12414,7 @@
   "cccf39c2b2c28aff": 1790683820,
   "ccd4ce630eb10794": 1790179822,
   "ccd5ea4d2eaf5df2": 1790903418,
+  "ccd7b901f0b218da": 1791441029,
   "ccdcada23185c12f": 1790673879,
   "cce0e8f88c54ec90": 1790728933,
   "cce2d61752e10078": 1791331618,
@@ -14061,6 +14097,7 @@
   "ea71f246d3866783": 1791148356,
   "ea748cb69e4782fe": 1790087657,
   "ea7c2037328591b4": 1791351616,
+  "ea7e830723898721": 1791441029,
   "ea83dba575d2dd87": 1790904314,
   "ea8464907a6e3561": 1790757639,
   "ea8761345e44e148": 1790759086,
@@ -15347,7 +15384,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791440131,
- "last_msg_poll": 1791440974,
+ "last_msg_poll": 1791441280,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -15365,7 +15402,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 15:29 KST",
+  "last_run": "2026-10-08 15:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
