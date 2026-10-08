@@ -420,6 +420,16 @@
    "t": "12차 전기본 '원전 공론화' 본궤도…시민 300명, 2박3일 숙의한다",
    "ts": 1791433741,
    "u": "https://www.etnews.com/20261008000204"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "충청시사신문",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "세종시, 7조 원 AI 데이터센터 유치 시동…전력·용수 확보가 관건 - 충청시사신문",
+   "ts": 1791434105,
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yek9peDZlR1VmcWoyemxFRFlrTnpRcmY4cHdZeHIzclFSYTgwdjlhcGtzN1AxRGFpVDMzb0FRMG1MUmctOVoxMGl5QnBZMkJMajdfTWhaVE1wODdVX2l1dWhXSWVPeHZ4YmpJ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -4317,6 +4327,7 @@
   "42120ba52e47abdd": 1791333915,
   "42129bd7b56cb5b9": 1789954905,
   "421645b37769c745": 1791332199,
+  "421929351fd184b0": 1791434718,
   "421b94dab03a8aed": 1791284117,
   "42246eba0c83f3d5": 1791272508,
   "42258f47e118d598": 1790604618,
@@ -15195,7 +15206,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791432920,
- "last_msg_poll": 1791434670,
+ "last_msg_poll": 1791434963,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -15212,7 +15223,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 13:44 KST",
+  "last_run": "2026-10-08 13:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
