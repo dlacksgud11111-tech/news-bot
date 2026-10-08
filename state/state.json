@@ -388,7 +388,7 @@
  "clip_buffer": [
   {
    "co": "효성중공업",
-   "n": 1,
+   "n": 2,
    "s": "매일타임즈",
    "sc": 12,
    "sec": "전력기기",
@@ -405,6 +405,36 @@
    "t": "효성중공업, 독자기술로 2GW급 HVDC 검증설비 구축…국내 최초 - 서울타임즈뉴스",
    "ts": 1791423306,
    "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5URjlBdWRFdHJ6N1JwMG9xcjFfLVlLNHIzMndBbHpQWnV5bGl2c3dDaXJCZ1Y4LWNYNDBGV0gwYWhKclVkZVpOZ0VyMkZrRERlZjJOTkhKQjREc2JPWXR6TnJWTTY5bk5PNHNF?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "전기신문 - 전체기사",
+   "sc": 2,
+   "sec": "유틸리티·정책",
+   "t": "이상한 전력시장…비싼 LNG 더 돌리고도 SMP 56원 ‘뚝’",
+   "ts": 1791473039,
+   "u": "https://www.electimes.com/news/articleView.html?idxno=373223"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "에너지신문 - 전체기사",
+   "sc": 1,
+   "sec": "건설·플랜트",
+   "t": "건설생활환경시험연구원, 한국주택협회와 기술협력",
+   "ts": 1791472566,
+   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228850"
+  },
+  {
+   "co": "HD현대일렉트릭",
+   "n": 1,
+   "s": "머니투데이",
+   "sc": 8,
+   "sec": "전력기기",
+   "t": "\"변압기 슈퍼사이클 아닌 '뉴노멀'\"..HD현대일렉 글로벌 시장 잡는다 - 머니투데이 - 머니투데이",
+   "ts": 1791433800,
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Nd25UdjJyQkZNVDdUOVJwbFpFQm9WUGlNbC1aY1BXdFhjcnRIUkVvTUNxYmV0OXF6VWR2bFVBdmN3c0ozMWZkakE5bHczWDJ4enhvTFRlbUhPQXBqNUZCT1RPN283SERzb2d1b3MxRWROZ9IBckFVX3lxTE5Nd25UdjJyQkZNVDdUOVJwbFpFQm9WUGlNbC1aY1BXdFhjcnRIUkVvTUNxYmV0OXF6VWR2bFVBdmN3c0ozMWZkakE5bHczWDJ4enhvTFRlbUhPQXBqNUZCT1RPN283SERzb2d1b3MxRWROZw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3103,6 +3133,7 @@
   "2d62a810cc66e8b0": 1789627496,
   "2d6abe3abecc5095": 1789709642,
   "2d6f1896494d1a31": 1791365288,
+  "2d70efe7d641aeee": 1791440724,
   "2d759922e0cf1fee": 1789951430,
   "2d78012a13ab23af": 1790062459,
   "2d79af057551ae75": 1791338120,
@@ -5069,6 +5100,7 @@
   "4de8389507400af9": 1789980627,
   "4dea26ddf7bc3dc7": 1790847338,
   "4debbe5bd3226d78": 1790860882,
+  "4dec040123555c5c": 1791440724,
   "4df3364091cfc76b": 1791179428,
   "4df4e98311f4da81": 1789953163,
   "4df600b3afeaffe7": 1790040917,
@@ -8586,6 +8618,7 @@
   "8b0a9a49b5241e96": 1790700714,
   "8b0eaf903c3b5a11": 1791276932,
   "8b143529e14a870c": 1790428852,
+  "8b1d182964cd02d2": 1791440724,
   "8b22245b76182e37": 1789967119,
   "8b24301336e2ec18": 1789693531,
   "8b2528bfd88574c1": 1791350118,
@@ -11165,6 +11198,7 @@
   "b78d9b6cf3e074dc": 1790731219,
   "b78f9a27b13b58d2": 1789716319,
   "b790f4874a89d9f8": 1790813121,
+  "b7937b58ff4fca10": 1791440724,
   "b79516eba36f1cd5": 1790492713,
   "b795de427262182e": 1790595317,
   "b7a9c656eade8d5c": 1790106934,
@@ -13096,6 +13130,7 @@
   "da069d1f452c03c5": 1789627496,
   "da0bc1fedb59d00c": 1790899820,
   "da0cd149fec3720a": 1790838638,
+  "da0e69949a7da8b5": 1791440724,
   "da10cc537c7f9973": 1790895099,
   "da139cdb0bf70eff": 1790661331,
   "da147923327943c6": 1790148975,
@@ -14739,6 +14774,7 @@
   "f6afd3fd05514cd7": 1790949920,
   "f6b122ed9a0aea5c": 1791353122,
   "f6b6b3b94121eaef": 1790123718,
+  "f6bc535a34995cc7": 1791440724,
   "f6beab88594c478f": 1790765119,
   "f6c2e87021b30e3c": 1790040051,
   "f6c8cc654585245a": 1790556223,
@@ -15311,7 +15347,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791440131,
- "last_msg_poll": 1791440668,
+ "last_msg_poll": 1791440974,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -15329,7 +15365,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 15:24 KST",
+  "last_run": "2026-10-08 15:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
