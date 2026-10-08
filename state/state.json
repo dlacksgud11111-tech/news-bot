@@ -508,6 +508,26 @@
    "t": "효성중공업, 자체개발 HVDC 제어기 안전성 검증…시험설비 구축 - 백세시대",
    "ts": 1791438940,
    "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoM21qa0RTb3RWVnJQTklqZC1YeWJ2VmFrUXQ0UkF0bWxMdHdvR2o5RWZueExoQzRaaWhhX1BPdmprVDQ5NkRNeW4wUkFJbFBEWlBEU3pMVzhqZzNDVkhyQlByeW43MVVKd0pB?oc=5"
+  },
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "잡포스트",
+   "sc": 16,
+   "sec": "전력기기",
+   "t": "20만원선 내준 LS ELECTRIC…북미 전력기기 수주 소화가 관건 - 잡포스트",
+   "ts": 1791436594,
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE81UzlSTEpsS00xQk1FaWZ5M1dkMW04WEdXUW56a3VFQ3BFN1JKenEtaWhmVUNOWGdWdVV2S1ljNUZxVmx1cm9XUm5fbUxRTW01WS1Qd2hDRkItc0o5OUt3TVloWWFaaXFBRDZ0ZUxhZ0Y3d9IBckFVX3lxTE81UzlSTEpsS00xQk1FaWZ5M1dkMW04WEdXUW56a3VFQ3BFN1JKenEtaWhmVUNOWGdWdVV2S1ljNUZxVmx1cm9XUm5fbUxRTW01WS1Qd2hDRkItc0o5OUt3TVloWWFaaXFBRDZ0ZUxhZ0Y3dw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "이투데이",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "SK이터닉스, 연료전지로 AI 데이터센터 전력 댄다…마스턴과 사업 추진 - 이투데이",
+   "ts": 1791419220,
+   "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92Snc2QVktQjEyVGxMU21MMHE0SmtHUFdPTEd6MjdDMXZFcktzcHBvV1E2NlhCZXRGQkttRmF3LWh2cDcwa2s4OVg1eXNFTGdNaTZZbA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1003,6 +1023,7 @@
   "09a1c06da3ee22fb": 1790062459,
   "09a5cf1a9a7dd325": 1790660118,
   "09ace3494d821237": 1790814919,
+  "09b5b2c6256012b5": 1791461732,
   "09b8e4c273663c2e": 1790645732,
   "09c1713a7d5b5033": 1790643406,
   "09d9c61740b062f3": 1791333915,
@@ -7314,6 +7335,7 @@
   "773b1636c7af0a32": 1790553879,
   "773bbfea354057cb": 1790139621,
   "774072b015b22669": 1789983621,
+  "7744aa346ff44eaf": 1791461732,
   "77467fdcab269b3c": 1790038892,
   "77493f62e8057803": 1791167944,
   "7749d1041c6da967": 1790951650,
@@ -12241,7 +12263,6 @@
   "d12e0536fc1e1d1a": 1790726084,
   "d136bebd2343f139": 1790636716,
   "d13b11be28685acd": 1790559053,
-  "d13d122b09597a8e": 1789647317,
   "d14f4a2c0ca28067": 1789958422,
   "d151fd1b05eb4f73": 1790136320,
   "d156cd33da5797e4": 1791066018,
@@ -14852,7 +14873,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791455118,
- "last_msg_poll": 1791461681,
+ "last_msg_poll": 1791461981,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14870,7 +14891,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 21:14 KST",
+  "last_run": "2026-10-08 21:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
