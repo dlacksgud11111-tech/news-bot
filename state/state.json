@@ -492,7 +492,7 @@
   },
   {
    "co": "효성중공업",
-   "n": 1,
+   "n": 2,
    "s": "투데이에너지 - 전체기사",
    "sc": 26,
    "sec": "전력기기",
@@ -599,6 +599,16 @@
    "t": "Tata Power to pilot membrane-based floating solar with Norway’s Ocean Sun",
    "ts": 1791452956,
    "u": "https://www.pv-magazine.com/2026/10/08/tata-power-to-pilot-membrane-based-floating-solar-with-norways-ocean-sun/"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "파이낸셜뉴스",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "효성중공업, GW급 초고압 직류송전 성능 검증설비 구축 - 파이낸셜뉴스",
+   "ts": 1791452587,
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Cc3NqenViUk03QVY2cnJsd2Itc2lPUFpaTE5GcVhZaEYxaUliTnpGTUlKRXZFN3luQnFMMVhYRVlfVkVzN0ZUQWpnZ3pJTTZBcy1ZMmU4TWtSQQ?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3149,7 +3159,6 @@
   "2cca39bbbcdf5f21": 1790668519,
   "2ccc213ae5a1d8c7": 1790574524,
   "2cd8ee8c712682f2": 1790024635,
-  "2cdb6ce1a12017f9": 1789638920,
   "2cdf1e717e0f0394": 1790809517,
   "2cdff3e8d3ed03ee": 1791167944,
   "2cefbcd7ca429be0": 1790733932,
@@ -3324,6 +3333,7 @@
   "2fad3574bb231ed3": 1790757639,
   "2fae76f116a868bf": 1790557916,
   "2fb04cf4b967a362": 1791330483,
+  "2fb5ad306f9106ec": 1791453329,
   "2fbaa720427d00d3": 1790771720,
   "2fbf199131d78973": 1790820322,
   "2fc68b0a1d62a36c": 1791089419,
@@ -11223,7 +11233,6 @@
   "bc1dfa1d549d9cf3": 1790383280,
   "bc2c2dab49597d15": 1791252320,
   "bc30c2ad3d527992": 1790210120,
-  "bc33aa962d5f6e6a": 1789638920,
   "bc3799a2d6808c33": 1789950858,
   "bc477e99a77aa958": 1791276331,
   "bc480a53340ffe06": 1790840428,
@@ -12156,6 +12165,7 @@
   "ce2f1f4429a65ae8": 1790293327,
   "ce31e53d0df5c039": 1789649116,
   "ce374f04ff0a4d07": 1791184220,
+  "ce38375b9f7dd4cb": 1791453329,
   "ce3afd2170d92fce": 1790384441,
   "ce46110b18ad021e": 1791147799,
   "ce4726ecbd880bf5": 1791250577,
@@ -13932,7 +13942,6 @@
   "ee77e79068b80667": 1791237808,
   "ee7821982d273a2f": 1790737408,
   "ee7aa789144be9cc": 1790042975,
-  "ee7d04d0099b25b0": 1789638920,
   "ee84278065093ae7": 1791439821,
   "ee849bbb8815d9e2": 1790658925,
   "ee89230eb234996c": 1790058917,
@@ -14932,7 +14941,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791447744,
- "last_msg_poll": 1791453265,
+ "last_msg_poll": 1791453570,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14950,7 +14959,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 18:54 KST",
+  "last_run": "2026-10-08 18:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
