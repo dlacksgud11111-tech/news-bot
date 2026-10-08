@@ -389,7 +389,18 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 10,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Yandex data center hit in drone attack in Russia",
+   "ts": 1791455149,
+   "u": "https://www.datacenterdynamics.com/en/news/yandex-data-center-hit-in-drone-attack-in-russia/"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -657,7 +668,6 @@
   "04c99b505250a38f": 1790836926,
   "04cdd2d7604e8116": 1790644581,
   "04d0fc53f3c94cb5": 1790671821,
-  "04d6e29d6b213f69": 1789641027,
   "04d9844d617514db": 1791196557,
   "04dd0dd52cee4dc6": 1790200290,
   "04ea0588e8225158": 1789951430,
@@ -10349,6 +10359,7 @@
   "b0bffe89c3d53c0a": 1791004215,
   "b0c0de40ebe282d9": 1791255018,
   "b0ce8d469b20ac37": 1790122002,
+  "b0da44422eb7d3da": 1791455420,
   "b0de6347ef9a8594": 1791423777,
   "b0e838b6ccc45c1f": 1789647027,
   "b0eba14b5df97d90": 1790820322,
@@ -14723,7 +14734,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791455118,
- "last_msg_poll": 1791455368,
+ "last_msg_poll": 1791455668,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14741,7 +14752,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 19:29 KST",
+  "last_run": "2026-10-08 19:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
