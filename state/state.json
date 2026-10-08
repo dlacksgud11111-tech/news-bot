@@ -436,6 +436,16 @@
    "t": "“AI 데이터센터 전력비 누가 내나”…美 전력업계, 가스발전 확대에도 ‘비용 폭탄’ 경고 - 에너지안전신문",
    "ts": 1791500610,
    "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UQ2ZtSldsRWhlUG9tcDRMaFhKYlV5LUlTVEp3WTdDeU5MYWtVczVaZk1oaWxiTk1jOFBodGx1SDRtWHdfenpULWwzRVNsdzJlMFkyMnZEQWVvUXMwbnRJVUlHM0I?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "에너지안전신문",
+   "sc": 8,
+   "sec": "데이터센터·AI전력",
+   "t": "“AI 데이터센터 전력 3배 폭증”…美 전력산업, 발전소보다 ‘누가 돈 내나’에 주목 - 에너지안전신문",
+   "ts": 1791501351,
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55emFtbUthNGN5dXhkTkd5RXlOaTV5MWt3ZG16N1pueVZERVNRdVFCLTBES3QxRFNnSlRpbjhfaDdmY0pDLVNiUlI1R2h0UDVleVNIbF9wdHA3OVE5M2JXNWJEWGM?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2842,6 +2852,7 @@
   "2a8c31ed229ae9c8": 1791356717,
   "2a8d021c21861e33": 1790810119,
   "2a8fb2975a25ccbd": 1790642222,
+  "2a8fdebd65412575": 1791501619,
   "2a928ff9e0ffbda3": 1789783260,
   "2a9a3e5cdea204f1": 1789977915,
   "2a9c6c07d48e8f22": 1790629525,
@@ -11742,7 +11753,6 @@
   "c99a68c99e98ca9e": 1790735693,
   "c99de07db8895c62": 1791387631,
   "c9a60a1b857440ac": 1791378322,
-  "c9b12de657eadaff": 1789687220,
   "c9b7331137162fb0": 1789689915,
   "c9bf58244b280718": 1790829319,
   "c9c125a27af6974b": 1791424933,
@@ -14744,7 +14754,7 @@
  "companies_today": {},
  "day": "2026-10-09",
  "last_clip": 1791496888,
- "last_msg_poll": 1791501572,
+ "last_msg_poll": 1791501865,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14762,7 +14772,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-09 08:19 KST",
+  "last_run": "2026-10-09 08:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
