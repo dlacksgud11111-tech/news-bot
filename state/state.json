@@ -512,6 +512,16 @@
    "t": "SK이터닉스, 연료전지 연계형 AI 데이터센터 짓는다 - 아주경제",
    "ts": 1791438926,
    "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HUE5heFZpMDBtcjBNTjI3b0tkMzRjbkF4RmRiSkZLdm1KN3FEdDVFeVpJS3JLTWJFS18zdm9BSDY0YUNZSENxakFhVEt2RFRaWDZXZ3pxQ2NsZ9IBWEFVX3lxTE1NWmpZLXdibHVlcmo0WlNBZzZOSGRkOVNjc2k3bkZDTlctcFdlcWcyYUtvYlRUSjJuSURDTmhPcmZpbWdteXdXMWs3MG5saWxMMFdyWHdQT00?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "매일경제",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "“인공지능 데이터센터 전력난 잡는다”…SK이터닉스, 연료전지 연계 출사표 - 매일경제",
+   "ts": 1791438752,
+   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0ejl1SXZHYWY5b2FpYUZLeFJRUVhlQmpVTTdNUzVSRDFwU05YR2tlbmlCV2JhX3djQVd5RkpnTGwzZFFMVGlhSG5xYmIyc3RBdVRORTFn?oc=5"
   }
  ],
  "clip_titles": [],
@@ -11458,6 +11468,7 @@
   "c280dd52135e16e6": 1791374119,
   "c2870b8ce25d2f5c": 1790573357,
   "c289eff579c415b4": 1790147295,
+  "c28b1aa5561ecf75": 1791485121,
   "c28bc5fa945b32ed": 1790065913,
   "c297d249a683569f": 1790144115,
   "c29e5bde2a4dfbb5": 1790646328,
@@ -14840,7 +14851,7 @@
  "companies_today": {},
  "day": "2026-10-09",
  "last_clip": 1791470177,
- "last_msg_poll": 1791485069,
+ "last_msg_poll": 1791485362,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14858,7 +14869,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-09 03:44 KST",
+  "last_run": "2026-10-09 03:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
