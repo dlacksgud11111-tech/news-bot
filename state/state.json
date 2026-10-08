@@ -580,6 +580,16 @@
    "t": "포장재·배터리로 번진 환경규제…KEA, 14일 수출기업 실무 대응법 제시",
    "ts": 1791436530,
    "u": "https://www.etnews.com/20261008000228"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "비즈니스플러스",
+   "sc": 14,
+   "sec": "전력기기",
+   "t": "[비즈+]AI 데이터센터에 커지는 전력 부담…효성중공업 '스태콤', 美 전력망 필수 설비로 '각광' - 비즈니스플러스",
+   "ts": 1791437679,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YcW55dVZYSlRSY0otdHZKT2dLYUdaUUVaTm41QmRDRktUbzhGOEwyTkRuVlBGbnpxOUxsVW9Cd1BUV1JmZEwwZlZXRG04ZGdMZzZRYXo3T3FOX1ZSZW5IRFV1bjB4NHN5T25sbEFB?oc=5"
   }
  ],
  "clip_titles": [],
@@ -988,6 +998,7 @@
   "0773f0df309b0599": 1791393916,
   "0773f30ee42c53f6": 1790568652,
   "077a4529cdc45432": 1789948225,
+  "077e94fb4c6f4111": 1791438022,
   "077f0a057fa86846": 1790206680,
   "0781bf307fb8d6f0": 1791250577,
   "07850e763a92cd7d": 1791419428,
@@ -14540,6 +14551,7 @@
   "f10b44b48a76e604": 1790395516,
   "f10ed5d69359232a": 1791423777,
   "f110145948a2f48b": 1791244222,
+  "f1151adec7894bf5": 1791438022,
   "f115b86b84002f6e": 1789695321,
   "f11ad9cbbac50d2f": 1789866315,
   "f11ce4af3882967b": 1790929051,
@@ -15413,7 +15425,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791432920,
- "last_msg_poll": 1791437965,
+ "last_msg_poll": 1791438270,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -15431,7 +15443,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 14:39 KST",
+  "last_run": "2026-10-08 14:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
