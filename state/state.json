@@ -589,6 +589,16 @@
    "t": "효성, ‘전력 고속도로’ 핵심 HVDC 검증 설비 구축…국내 첫 2GW급 - 한겨레",
    "ts": 1791451260,
    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44MFA2c01lZkxNVW9YanRWWXRpM214eWhnMEdmRV81cG0zNlhSSHlSZWlPbmRjaXR0NUpNbVJ4QnhMdlpSeGdDNm50SFNsajM5eUNrd3dpcXRSY1NNWjNXbkdzTERXT2lfcXc?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 6,
+   "sec": "재생에너지·ESS",
+   "t": "Tata Power to pilot membrane-based floating solar with Norway’s Ocean Sun",
+   "ts": 1791452956,
+   "u": "https://www.pv-magazine.com/2026/10/08/tata-power-to-pilot-membrane-based-floating-solar-with-norways-ocean-sun/"
   }
  ],
  "clip_titles": [],
@@ -5324,6 +5334,7 @@
   "5262af8888ccd35e": 1791253241,
   "52659920983c28e2": 1791235521,
   "5265a3bb8a107197": 1790084279,
+  "5265bf3b1455ea99": 1791453015,
   "5265e271d24b84dd": 1790650193,
   "526a1642909b042a": 1791403219,
   "526dff31cc9941e4": 1791151828,
@@ -14481,6 +14492,7 @@
   "f84a363318edb7a5": 1791264317,
   "f84a6e89d4cad722": 1790060726,
   "f84b8be975f26b49": 1790536131,
+  "f84f4ec22f6571a4": 1791453015,
   "f85073ba4d758d1a": 1791441616,
   "f853f22d8def34bf": 1790159130,
   "f85753b278db300e": 1791361530,
@@ -14920,7 +14932,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791447744,
- "last_msg_poll": 1791452972,
+ "last_msg_poll": 1791453265,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14938,7 +14950,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 18:49 KST",
+  "last_run": "2026-10-08 18:54 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
