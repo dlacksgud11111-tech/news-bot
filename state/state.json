@@ -590,6 +590,36 @@
    "t": "[비즈+]AI 데이터센터에 커지는 전력 부담…효성중공업 '스태콤', 美 전력망 필수 설비로 '각광' - 비즈니스플러스",
    "ts": 1791437679,
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YcW55dVZYSlRSY0otdHZKT2dLYUdaUUVaTm41QmRDRktUbzhGOEwyTkRuVlBGbnpxOUxsVW9Cd1BUV1JmZEwwZlZXRG04ZGdMZzZRYXo3T3FOX1ZSZW5IRFV1bjB4NHN5T25sbEFB?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "한강타임즈",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "효성중공업, 국내 최초 2GW급 HVDC 제어기 성능검증 설비 구축 - 한강타임즈",
+   "ts": 1791438714,
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IZVBGNnFDcG4wX3RhZ0ZhUzhLazRTX1hRM29JaXprY2RiR2hkME12cUR1NjB5ZExDOEpJZHZ5ZUl5NEJ0YVYxcHVBanllYWZJblcybWd5SWVscnVTQXNHM1lUdFgwazZpU3F3?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스 경제 최신기사",
+   "sc": 0,
+   "sec": "건설·플랜트",
+   "t": "[게시판] 주택건설협회, 지역은행·보증기관과 지방 주택건설 활성화 협약",
+   "ts": 1791438628,
+   "u": "https://www.yna.co.kr/view/AKR20261008126700003"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴스충청인",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "충남연구원, AI 데이터센터 입지 경쟁력 전국 1위…100점 만점에 85점 - 뉴스충청인",
+   "ts": 1791416759,
+   "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5RYjYzbXg4Q1R3eGVOSkpydnpQVTU2QmMxNXU3UXBlYWYyYUxDU3gybGZrcGlPbF9zeDhETnE0eUdEaUVQR2c?oc=5"
   }
  ],
  "clip_titles": [],
@@ -8266,6 +8296,7 @@
   "82962ff1f0bfcb6c": 1791098712,
   "8299e0a15a816eff": 1789627496,
   "829a536a69b95355": 1790747719,
+  "829d4f39f479088a": 1791438930,
   "82a0ffc0e42b1a63": 1791372917,
   "82a435aa0e1e6128": 1790896826,
   "82a567004b821efa": 1790215520,
@@ -9955,6 +9986,7 @@
   "a116fb883386bfe8": 1789697120,
   "a11e3a5c8ad6622f": 1791246009,
   "a11f0a9d83b976a0": 1791342755,
+  "a12c37320ebaadb2": 1791438930,
   "a131f35903479069": 1789627496,
   "a136eb88bfe43f6a": 1791359152,
   "a14399f1d328c02e": 1791350118,
@@ -10099,6 +10131,7 @@
   "a36bdbd8ccdbd18f": 1791331051,
   "a36bf9b024ba58b3": 1790844615,
   "a3731608c8d13727": 1790478323,
+  "a3744a476eab0b51": 1791438930,
   "a376e093cb6295e0": 1791339906,
   "a37dc366541560d7": 1790696737,
   "a38c061fcea73f53": 1790208393,
@@ -11713,6 +11746,7 @@
   "bed8be8caf1f4f0e": 1791341036,
   "bee7fa11435f5bb7": 1790065913,
   "bef4558662b4aabf": 1790588118,
+  "bf0245e7bf62bf36": 1791438930,
   "bf069809848b734a": 1791207021,
   "bf11729aef8db5fe": 1790579195,
   "bf131973fc2ecb28": 1790300325,
@@ -15432,7 +15466,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791432920,
- "last_msg_poll": 1791438882,
+ "last_msg_poll": 1791439175,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -15450,7 +15484,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 14:54 KST",
+  "last_run": "2026-10-08 14:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
