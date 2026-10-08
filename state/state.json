@@ -482,6 +482,16 @@
    "t": "Oracle, 데이터센터 전력 공급을 위해 천연가스 트럭 운송 활용 - Investing.com 한국어",
    "ts": 1791478620,
    "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iMzAzVHNZaGtYbGxrcDh3UjJRLW9wazdEV1lsTmRSQ0RTSk5hTjZLLVE3TW1LenJ4UkduNXNkSkJjNjByM3YxR3ZFMDZycVVkcEtFSzI0UUxpNHFPeDNsSi1kdjZxcWxuUlVfU19mc0M?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 5,
+   "sec": "재생에너지·ESS",
+   "t": "4-hour storage cheaper than gas peakers across global markets: WoodMac",
+   "ts": 1791468277,
+   "u": "https://www.utilitydive.com/news/4-hour-storage-cheaper-than-gas-peakers-across-global-markets-woodmac/832489/"
   }
  ],
  "clip_titles": [],
@@ -8549,6 +8559,7 @@
   "8ee177597967e512": 1790059221,
   "8ee706548259da1e": 1790554448,
   "8eea91f1d19bb6fa": 1791198314,
+  "8ef099f1811541d9": 1791479717,
   "8ef1bec8fbcb5405": 1790557916,
   "8ef9694814807ae0": 1790039473,
   "8efad24ed106f922": 1790553879,
@@ -14235,6 +14246,7 @@
   "f65481cf20d9ee05": 1790822117,
   "f65777b4585734bc": 1789776316,
   "f65dbc37266ddac8": 1790150165,
+  "f66419f56ea07e30": 1791479717,
   "f664eeda57eaef53": 1789729598,
   "f66755e38e3fcc26": 1790495418,
   "f66c9fc3ec6fad61": 1790146721,
@@ -14808,7 +14820,7 @@
  "companies_today": {},
  "day": "2026-10-09",
  "last_clip": 1791470177,
- "last_msg_poll": 1791479676,
+ "last_msg_poll": 1791479960,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14826,7 +14838,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-09 02:14 KST",
+  "last_run": "2026-10-09 02:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
