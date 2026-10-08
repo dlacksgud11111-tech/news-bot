@@ -385,7 +385,28 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 8,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "매일타임즈",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "효성중공업, 국내 최초 GW급 HVDC 성능 검증 설비 구축 - 매일타임즈",
+   "ts": 1791439860,
+   "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kYmFpVXl6MWxENG5laEVnMTFpdzhSYWI2MEwxY2ZsRmxrT0NMcGlzeERBSzl3RjhpWE1TVXFjdFNSbkZSbTFOWWtYaDN2d28tUHVZQkYyMUlSbFplU2c?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "서울타임즈뉴스",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "효성중공업, 독자기술로 2GW급 HVDC 검증설비 구축…국내 최초 - 서울타임즈뉴스",
+   "ts": 1791423306,
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5URjlBdWRFdHJ6N1JwMG9xcjFfLVlLNHIzMndBbHpQWnV5bGl2c3dDaXJCZ1Y4LWNYNDBGV0gwYWhKclVkZVpOZ0VyMkZrRERlZjJOTkhKQjREc2JPWXR6TnJWTTY5bk5PNHNF?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -4803,6 +4824,7 @@
   "49d032cbf2c2f9f8": 1790953922,
   "49d11baf3575c26a": 1790748619,
   "49d1c81e25d8ea6a": 1791364156,
+  "49d1dac0e7e1cf8a": 1791440418,
   "49d3e2e9256a923b": 1790753717,
   "49d48d8a46f6795e": 1790907632,
   "49d668eb7c3c997e": 1790832921,
@@ -5293,6 +5315,7 @@
   "52272271df50e1a1": 1790723121,
   "5229ac9c77c8dbf5": 1790806228,
   "5229b97b732e1839": 1790032518,
+  "522c093286513ce0": 1791440418,
   "522d286c906070ba": 1790827519,
   "523b24981e051289": 1790643992,
   "523c44a7c5a54d7d": 1790042395,
@@ -5790,6 +5813,7 @@
   "5a926673b4fdf664": 1790771720,
   "5a9311bc43a688a5": 1789627496,
   "5a935b33b89bcd23": 1791147799,
+  "5a9a831990efb888": 1791440418,
   "5a9ba13e347c4f1b": 1790053220,
   "5aa527727c8f5232": 1790658361,
   "5aa53c93a0a815e4": 1790838079,
@@ -5856,6 +5880,7 @@
   "5bbd54bea8a39a9b": 1791351616,
   "5bc13dcdfbd06689": 1789946508,
   "5bc609b95318f1ac": 1791158866,
+  "5bc69391ca536446": 1791440418,
   "5bce628b62c81338": 1791182123,
   "5bd0bb0fdab6399b": 1790665521,
   "5bd967a094abacff": 1791367574,
@@ -8137,6 +8162,7 @@
   "83b7dab3595d9739": 1790840725,
   "83cae0fa40fc5b44": 1790139621,
   "83cb720a9dd428d5": 1790665521,
+  "83d2eab4740ef133": 1791440418,
   "83d3d1e3cd3eaed4": 1790058917,
   "83df1ffb82cac3ff": 1789953163,
   "83e28eb4f37091f8": 1790062459,
@@ -15285,7 +15311,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791440131,
- "last_msg_poll": 1791440379,
+ "last_msg_poll": 1791440668,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -15303,7 +15329,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 15:19 KST",
+  "last_run": "2026-10-08 15:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
