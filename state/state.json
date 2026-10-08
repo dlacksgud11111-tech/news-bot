@@ -448,6 +448,26 @@
    "t": "韓·美·日 등 15개국, 中 핵심품목 과잉생산에 공동전선",
    "ts": 1791500036,
    "u": "http://www.e2news.com/news/articleView.html?idxno=334951"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "South Africa to procure 4.6 GW of battery storage",
+   "ts": 1791468879,
+   "u": "https://www.pv-magazine.com/2026/10/08/south-africa-to-procure-4-6-gw-of-battery-storage/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "파인드비",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "핀란드, 구글 데이터센터 공사 중단 명령 - 파인드비",
+   "ts": 1791453642,
+   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PTlRod1V4cDI2MHU0RlRKMXdxVEtsN3dTanJjcUxkY1pxeGpDQlgzLUk3UFZqVGtrcGlDVzBqblp0WGVMSnNEdm5nMHRBSXJ1S0xNS2N4RTQtMHR1anJLOFNMQWxsd9IBakFVX3lxTE1YakF5dktTQ1RMcnBQcXlYdVkxRmRsQ2tjSldMang5NktTcDJxbkFIQ2t1OVhRSDhyZG9iaTRDLTF4NTdZUkFVQjlaY3E5V0IyOFJScDJpMVJXY1h5dUVhREQ1T3h4OUZmRHc?oc=5"
   }
  ],
  "clip_titles": [],
@@ -5669,6 +5689,7 @@
   "5adeeb7bcb1e35dc": 1790084844,
   "5adf58fe923ea4cc": 1790073620,
   "5ae756a0cc1d4250": 1791355229,
+  "5af6c64f6e6114fd": 1791469038,
   "5af97e4162ee48f5": 1790748320,
   "5afcd27e27bfd0bb": 1791267915,
   "5b052a360d8893e6": 1790045289,
@@ -6018,6 +6039,7 @@
   "60c381052b1115aa": 1790831115,
   "60cf6fd151c5590a": 1790560231,
   "60e1fc582889c4de": 1790661331,
+  "60ec2d8ef9036d76": 1791469038,
   "60edb34286ade2cf": 1790809517,
   "60eea34a6d47c6c0": 1791337232,
   "60fdd2cb7242aaa0": 1791451268,
@@ -14552,6 +14574,7 @@
   "fc5b16cc40140067": 1791427818,
   "fc5c3d0546baff89": 1790938222,
   "fc6555e0620d7dc2": 1791377719,
+  "fc692145b26b5791": 1791469038,
   "fc6f25d98be5f94d": 1790926783,
   "fc6f9605481392f7": 1790809517,
   "fc7231fd19f1d9a9": 1790896239,
@@ -14767,7 +14790,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791462632,
- "last_msg_poll": 1791468703,
+ "last_msg_poll": 1791469282,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14785,7 +14808,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 23:11 KST",
+  "last_run": "2026-10-08 23:21 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
