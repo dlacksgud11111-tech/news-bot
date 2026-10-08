@@ -13,7 +13,7 @@
   "한국전력|수주·계약": 1790498127,
   "한전KPS|투자·증설": 1790146150,
   "효성중공업|수주·계약": 1791462921,
-  "효성중공업|투자·증설": 1791462921
+  "효성중공업|투자·증설": 1791496888
  },
  "alert_titles": [
   [
@@ -327,6 +327,10 @@
   [
    1791471923,
    "일진전기 8만원대로 후퇴…해외 전력기기 수주 소화가 관건"
+  ],
+  [
+   1791496888,
+   "효성중공업, 국내 최초 2GW급 HVDC 검증설비 구축… 대용량 전력망 기술 선점"
   ]
  ],
  "alerted": {
@@ -334,6 +338,7 @@
   "03c4ef70a4774424": 1789971750,
   "04aecf21f0547494": 1791331050,
   "0510ff7c656a496f": 1790953367,
+  "066d37970b78f3ef": 1791496888,
   "091d016afda7463f": 1790892281,
   "0cfb56c86751e9ef": 1790035428,
   "118666bcac262b6c": 1791324017,
@@ -347,7 +352,6 @@
   "2f451578847502ed": 1791448323,
   "3157210b2481368c": 1791387630,
   "35913bf4ca2349fd": 1790079928,
-  "3a7d7b5b8245dde0": 1789682430,
   "3b00df8f72f77d75": 1790575672,
   "4530bfcf6dc4fba0": 1789950278,
   "4dfec10dbb4144ab": 1791358589,
@@ -401,139 +405,8 @@
   "fc59b21c0581d185": 1791410826,
   "fe7b17c162f91919": 1790498127
  },
- "alerted_today": 1,
- "clip_buffer": [
-  {
-   "co": "효성중공업",
-   "n": 2,
-   "s": "알파경제",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "효성중공업, 국내 최초 GW급 HVDC 성능 검증 설비 구축…국산화 속도 - 알파경제",
-   "ts": 1791426597,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yWjlaSDJYXzgwZDFoTXdJS0dwSnNRVzNveHVySnhrdWZ3ZnkwemhJWUxEQ2padnpYMDc3TUpYTUR4a0R0bzJYVEF6N19oaVNVeXMwTzZEWjNaQjBEMzlxYjFTcER5VmxCUk5wdXB3?oc=5"
-  },
-  {
-   "co": "일진전기",
-   "n": 1,
-   "s": "잡포스트",
-   "sc": 16,
-   "sec": "전력기기",
-   "t": "일진전기 8만원대로 후퇴…해외 전력기기 수주 소화가 관건 - 잡포스트",
-   "ts": 1791437514,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XQ0FSWDh2U2p4dlZERXczY1lYZS1oOFd0UGFTZFRiWk1ZLUk4UThMNGw3WDVmQ2R1VTdzdWVhRWJkZWQzTTUyT0RHZ091VjZJaGpZa0I4UHZhOW01RVlvbk5hVFFGd3hQZnFBYUlKUGVBQdIBckFVX3lxTE9XQ0FSWDh2U2p4dlZERXczY1lYZS1oOFd0UGFTZFRiWk1ZLUk4UThMNGw3WDVmQ2R1VTdzdWVhRWJkZWQzTTUyT0RHZ091VjZJaGpZa0I4UHZhOW01RVlvbk5hVFFGd3hQZnFBYUlKUGVBQQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴스스토리",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "보령시 AI 데이터센터 유치 추진에 시민사회 ‘전면 재검토’ 촉구 - 뉴스스토리",
-   "ts": 1791457904,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Da1o0bWpHZFJEWm1ZLTdaQ1g1aFQzM1g0dTVaLXdfUWJOS1MxS1FPQmhSSmZRWVM0MU82WFNtSmdJQU5qcmtXUXo2VzlrWGZKYUQ4RzBUMUVTZWs2SGRlTkNjekNZbVZqaVI5eTln?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "Waste heat from Goodman data center in Frankfurt, Germany, to power district heating system",
-   "ts": 1791474925,
-   "u": "https://www.datacenterdynamics.com/en/news/waste-heat-from-goodman-data-center-in-frankfurt-germany-to-power-district-heating-system/"
-  },
-  {
-   "co": "산일전기",
-   "n": 1,
-   "s": "잡포스트",
-   "sc": 8,
-   "sec": "전력기기",
-   "t": "산일전기 22만4000원으로 조정…북미 변압기 납기 점검 - 잡포스트",
-   "ts": 1791437730,
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUbmlNRkdDeW5KRmt0X09fTVBHTEYzdkx2eVEwa2N5Ty1YUXlKdkQ2UHV5RXZlRnNDeVduRXRDdGJJYmpjZ0VTR3gtQjRNNmhiNGJPMnJrQzVSbGpUZThWNkJNNjB3bHZSU2dKWWFYeFBBZ9IBckFVX3lxTFBUbmlNRkdDeW5KRmt0X09fTVBHTEYzdkx2eVEwa2N5Ty1YUXlKdkQ2UHV5RXZlRnNDeVduRXRDdGJJYmpjZ0VTR3gtQjRNNmhiNGJPMnJrQzVSbGpUZThWNkJNNjB3bHZSU2dKWWFYeFBBZw?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Optical illusion: Is co-packaged optics the savior the data center industry has been waiting for?",
-   "ts": 1791475259,
-   "u": "https://www.datacenterdynamics.com/en/analysis/optical-illusion-is-co-packaged-optics-the-savior-the-data-center-industry-has-been-waiting-for/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "KT Cloud plans 50MW data center project in Incheon, South Korea",
-   "ts": 1791477203,
-   "u": "https://www.datacenterdynamics.com/en/news/kt-cloud-plans-50mw-data-center-project-in-incheon-south-korea/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Investing.com 한국어",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "Oracle, 데이터센터 전력 공급을 위해 천연가스 트럭 운송 활용 - Investing.com 한국어",
-   "ts": 1791478620,
-   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iMzAzVHNZaGtYbGxrcDh3UjJRLW9wazdEV1lsTmRSQ0RTSk5hTjZLLVE3TW1LenJ4UkduNXNkSkJjNjByM3YxR3ZFMDZycVVkcEtFSzI0UUxpNHFPeDNsSi1kdjZxcWxuUlVfU19mc0M?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Utility Dive - Latest News",
-   "sc": 5,
-   "sec": "재생에너지·ESS",
-   "t": "4-hour storage cheaper than gas peakers across global markets: WoodMac",
-   "ts": 1791468277,
-   "u": "https://www.utilitydive.com/news/4-hour-storage-cheaper-than-gas-peakers-across-global-markets-woodmac/832489/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "중앙일보",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "비용 4배 내고 트럭으로 가스 배달…오라클, AI 전력 확보 ‘사투’｜Global Money Club - 중앙일보",
-   "ts": 1791479768,
-   "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MaTZvbkkzSVNyekVpMU1vbVloeUFZTjFjU3lOandPelBmNWdGMksyaFdJeHFySTR2SlNZZEpaQXUyZEU3VFpXdjU1OGlqTk5IeXY2TnhTNkoycWs?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "아주경제",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "SK이터닉스, 연료전지 연계형 AI 데이터센터 짓는다 - 아주경제",
-   "ts": 1791438926,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HUE5heFZpMDBtcjBNTjI3b0tkMzRjbkF4RmRiSkZLdm1KN3FEdDVFeVpJS3JLTWJFS18zdm9BSDY0YUNZSENxakFhVEt2RFRaWDZXZ3pxQ2NsZ9IBWEFVX3lxTE1NWmpZLXdibHVlcmo0WlNBZzZOSGRkOVNjc2k3bkZDTlctcFdlcWcyYUtvYlRUSjJuSURDTmhPcmZpbWdteXdXMWs3MG5saWxMMFdyWHdQT00?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일경제",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "“인공지능 데이터센터 전력난 잡는다”…SK이터닉스, 연료전지 연계 출사표 - 매일경제",
-   "ts": 1791438752,
-   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0ejl1SXZHYWY5b2FpYUZLeFJRUVhlQmpVTTdNUzVSRDFwU05YR2tlbmlCV2JhX3djQVd5RkpnTGwzZFFMVGlhSG5xYmIyc3RBdVRORTFn?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "www.2news.co.kr",
-   "sc": 16,
-   "sec": "전력기기",
-   "t": "50Hertz 부스텐마르크 변전소 증축 착공… 대규모 데이터센터 전력 공급망 확보 - www.2news.co.kr",
-   "ts": 1791494549,
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyZEdMS3ZGLTU1aTZfaDlvVWdHeFJwc0lZekhzTGRXQjg5U3NsUkJBX2FrbnE0QURzcmZIWWE2WDk5Y1dlY3VBQXp4M2YwdjZ4OFhpMlBxMHEyUTNZWXJPd2R1QnNwdkQz?oc=5"
-  }
- ],
+ "alerted_today": 2,
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -784,7 +657,6 @@
   "04795a86fbb2931c": 1789956049,
   "047cbdceb3854080": 1790556223,
   "047d96308c4b714b": 1790729518,
-  "047de98d7222f0e7": 1789682714,
   "04841165540738f0": 1789999520,
   "0484f558fb489f8a": 1791350118,
   "04892391a2ad3184": 1790729518,
@@ -8635,7 +8507,6 @@
   "8f9eb6e70b4adb86": 1790813716,
   "8fa1a7623feb51de": 1790607918,
   "8fa2082001aca3da": 1791331051,
-  "8fab80bd178f34e9": 1789682714,
   "8fac77b1813e5791": 1789707915,
   "8fade3fe2be779fd": 1790699001,
   "8fb032906939eeaa": 1790069431,
@@ -10317,7 +10188,6 @@
   "ae4011ac8a22678b": 1789938697,
   "ae417bb50d9d5ee6": 1791263115,
   "ae42602b6b04cfc9": 1789866014,
-  "ae42dfa18d9bf3a0": 1789682714,
   "ae42e17249e2d2f8": 1790907314,
   "ae457219d9b738bc": 1791297760,
   "ae4edd5c3efd3983": 1789877422,
@@ -14846,8 +14716,8 @@
  },
  "companies_today": {},
  "day": "2026-10-09",
- "last_clip": 1791470177,
- "last_msg_poll": 1791496564,
+ "last_clip": 1791496888,
+ "last_msg_poll": 1791497140,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14865,7 +14735,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-09 06:56 KST",
+  "last_run": "2026-10-09 07:05 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
