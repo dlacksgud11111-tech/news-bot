@@ -543,7 +543,7 @@
   },
   {
    "co": "효성중공업",
-   "n": 1,
+   "n": 2,
    "s": "CNB뉴스",
    "sc": 12,
    "sec": "전력기기",
@@ -620,6 +620,26 @@
    "t": "충남연구원, AI 데이터센터 입지 경쟁력 전국 1위…100점 만점에 85점 - 뉴스충청인",
    "ts": 1791416759,
    "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5RYjYzbXg4Q1R3eGVOSkpydnpQVTU2QmMxNXU3UXBlYWYyYUxDU3gybGZrcGlPbF9zeDhETnE0eUdEaUVQR2c?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "전기신문 - 전체기사",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "LG에너지솔루션, ESS 생산능력 확대 힘입어 3분기 영업이익 567% 증가",
+   "ts": 1791471330,
+   "u": "https://www.electimes.com/news/articleView.html?idxno=373242"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "뉴스포스트",
+   "sc": 18,
+   "sec": "전력기기",
+   "t": "효성중공업, 2GW급 HVDC 국산화 속도…국내 첫 검증설비 구축 - 뉴스포스트",
+   "ts": 1791438899,
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rQVpjZ0JMVmhwVFNzQTdFMGdRaEdUbEgyWjVJbWhWQmVPUkRvS0NhT3VFRURTVDdzNkFLTEdsYXNnM0JVZVExVDdjelVockxkNDZiMFhxM0R5VUp4TG9GeUNsRFF4WkNo?oc=5"
   }
  ],
  "clip_titles": [],
@@ -4877,6 +4897,7 @@
   "472698ff8bfa7532": 1789738532,
   "47280e2ce8efe402": 1791326723,
   "47283e295af434ec": 1790907917,
+  "472b44e114a84243": 1791439217,
   "47300b323923ec03": 1790820617,
   "47396852a6db233a": 1790820921,
   "473b763f26cda74c": 1789945939,
@@ -8426,6 +8447,7 @@
   "8506886a01088b71": 1790054715,
   "85134332796fd0b3": 1790734218,
   "85162822591307d1": 1790815220,
+  "8519cbd9bf5cf325": 1791439217,
   "852223dfb55a9dcd": 1789689915,
   "852a8fab3871585c": 1790125530,
   "852ae50fc5851c38": 1790135717,
@@ -9515,6 +9537,7 @@
   "987df12dde982dc3": 1790492713,
   "987f17e65101330d": 1790660118,
   "9882e9e82b32408b": 1789867761,
+  "988408e3dcd8d645": 1791439217,
   "98840fcaa19c58db": 1790727236,
   "988aedccccc6f155": 1790564716,
   "988b7b23a725c0dd": 1790730658,
@@ -11419,6 +11442,7 @@
   "b8ab1e1cee8d296a": 1790939731,
   "b8ab260d50543bba": 1790556791,
   "b8b478b1df506599": 1790498128,
+  "b8b9b5ff8c0736cb": 1791439217,
   "b8ba4552a6fb3282": 1789968268,
   "b8c45ae9b2946832": 1790053518,
   "b8cd9541f2055cb8": 1790643992,
@@ -15466,7 +15490,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791432920,
- "last_msg_poll": 1791439175,
+ "last_msg_poll": 1791439467,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -15484,7 +15508,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 14:59 KST",
+  "last_run": "2026-10-08 15:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
