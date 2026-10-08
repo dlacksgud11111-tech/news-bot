@@ -530,6 +530,26 @@
    "t": "HD건설기계, 북미 데이터센터 전력시장 공략…3900억원 엔진 공급계약 - 강소기업뉴스",
    "ts": 1791436572,
    "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92dnFUQ1hiRXdfRlJJN0JUa0Y5cHVGQ1VaYUZLVkN1dm0zZVlMZ3dwZnlMM1FlYjlsSVhmOWNzUE1NdGZnb1dKWlNTQ0V6SUJxQl9R?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴시스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "마스턴운용-SK이터닉스, 연료전지 연계형 AI 데이터센터 개발 - 뉴시스",
+   "ts": 1791436875,
+   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hM1hGV1cyUTVpWWFMWDVlalgzS1pPZnAzOHo4aEhhUi11d0l6QTVmaHlYd1hjWlQ5Zm1fT0FQNXMyeWxvbXAyQmxiUzNHNkVEdTJ1RGZYUXVUbWZ4ZnNjZdIBeEFVX3lxTE85SkJEUUlxenhjdkVnbzZqZm5vZFo3a1RGa2tJZktENnN4ZkdBcHUwVURmSHhYTndxRVJWVVkzNDRmRk1DdzlWWkd2QnF1UUtoT2ZtMUkyb0ZNWGF1OWNqcWEtZ2N2bG0waXBTZjBsNHRjelFBZjJzaQ?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "CNB뉴스",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "효성중공업, 독자 기술 기반 GW급 HVDC 성능 검증 설비 구축 - CNB뉴스",
+   "ts": 1791421281,
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04Qy1hYURIWlhydG9QVWFZaGRQUExiZjNzZjdzRDhjV0t0d013dkRENjRJTXZtZjRzNVF1d1pLWnBVM2xvZkhuSFFfbXBheGVzSXVEUHp0aUpNTjZGRmVHWDhGaUNtOTB0eENn?oc=5"
   }
  ],
  "clip_titles": [],
@@ -2695,6 +2715,7 @@
   "24ab22f1feadb9a4": 1789629088,
   "24af5ac2f31e54fb": 1791423214,
   "24afe8ebbf9718eb": 1789948225,
+  "24ba0844824f1cbe": 1791437429,
   "24bb743d51a8cbcc": 1789686316,
   "24bfdee25e189395": 1790671821,
   "24c8e07a3f7760f8": 1790922918,
@@ -9823,6 +9844,7 @@
   "a0481967cf1a0b30": 1790032819,
   "a04b07d04818cd0b": 1789693531,
   "a05181fa180e7c67": 1790756727,
+  "a059b389bc607803": 1791437429,
   "a05a7994895f0432": 1789644018,
   "a05b169f39d33405": 1791119419,
   "a05e7440310af97f": 1790122002,
@@ -14059,6 +14081,7 @@
   "ea49aae8770b6eb0": 1790093478,
   "ea4f55dec1dc5ffe": 1789977915,
   "ea585cb295244dcb": 1790139330,
+  "ea5af7cef2edd219": 1791437429,
   "ea5bac273c076ba6": 1790573944,
   "ea6194fec8ecbb0b": 1790054715,
   "ea675905169cf7d6": 1790127320,
@@ -15342,7 +15365,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791432920,
- "last_msg_poll": 1791437357,
+ "last_msg_poll": 1791437679,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -15360,7 +15383,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 14:29 KST",
+  "last_run": "2026-10-08 14:34 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
