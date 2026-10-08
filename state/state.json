@@ -354,7 +354,58 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 2,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "이투데이",
+   "sc": 14,
+   "sec": "전력기기",
+   "t": "효성중공업, 2GW급 HVDC 성능검증 설비 구축…서해안 에너지고속도로 대비 - 이투데이",
+   "ts": 1791418320,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBscE1XdjROUU1vc2xtd0h1bWdZOTdGSDVNZjFBTW4wZXF2bnFFTXh6SDhsSmtsQi1uSFNTZFBjZ0hiOG9SSmd3M3FGcFY3d0hTM3A1NWtZalZDX2QwZ0lDbHRPNlVIdXZqcTJKNjBB?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "핀포인트뉴스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "SK이터닉스, 마스턴투자운용과 연료전지 연계형 데이터센터 추진 - 핀포인트뉴스",
+   "ts": 1791418282,
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5heVVrWE15ckFQLVJWd3NlcU9pUXJQVkNUb1pXNklORnVjSFl0Q2RFOS12ZXRFMW45S2g2WnMybks5RFhwaXdDczM2T1J4bE41MW4yTGhlZmJQWXotbjI3LVAtU0lfR2xEN3R0NTBUcmI5UFHSAXdBVV95cUxPUWlHdEhxbGI5STA1a1ZwTGdwV2VfV1hpU1ZxZ0loTE9CYWdQNlowU2FJUVNKOEFUS0V5a0ZKTFdfcHZlOHhEVkRwOEJlRWh2eHd1eWpPQ0dFZThyTlcyR1hfYS1KNVJiMlEycUUxbkcta19leUYyUQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스 경제 최신기사",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "마스턴운용·SK이터닉스, 연료전지 연계형 데이터센터 사업 MOU",
+   "ts": 1791418192,
+   "u": "https://www.yna.co.kr/view/AKR20261008040300008"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "한국정경신문",
+   "sc": 12,
+   "sec": "전력기기",
+   "t": "효성중공업, 독자 기술 고도화..기가와트급 초고압직류송전 성능 검증 설비 구축 - 한국정경신문",
+   "ts": 1791418052,
+   "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnV2kzUFdFdkhNT1Q3Q2JlVXBJWnh5aFRheEc1MDhxNDlkSFZYNHR5dVFzd214WGxzaWhFOEQzOGF4S1REYUdwdVBNcnFQcjRqcGc?oc=5"
+  },
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "뉴스1",
+   "sc": 8,
+   "sec": "데이터센터·AI전력",
+   "t": "대신證 \"효성중공업, 3분기 전쟁 여파 일시 부진…美데이터센터 호조 지속\" - 뉴스1",
+   "ts": 1791417721,
+   "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NR3JjV2c1cENlSkJ3QkRLNzlMQTVNQmp0TklDNXBqOUJvMGRYTHdXTG5TWnVfcnF6cUJKWnZZSkVwVXJQZU81TzgydUlVbTZUaXlNbXpQb1pTZFU?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -1412,6 +1463,7 @@
   "135b0f698a898b49": 1789627496,
   "135b2661bc8c18f6": 1789749023,
   "135d5be3073dfc0d": 1789705521,
+  "135f22158ef85263": 1791418517,
   "135ff0129c97c7ad": 1791340467,
   "136127ba4eeab589": 1790814919,
   "13616484b6689971": 1789954905,
@@ -1607,6 +1659,7 @@
   "16796cf2d8d054b5": 1789635918,
   "16797cc5ef609623": 1790805616,
   "167aa2b25e05275e": 1790660118,
+  "167c84b7d08ae855": 1791418517,
   "168ba5d71125279d": 1789635327,
   "169545f43cc4f9f1": 1791334222,
   "1697c3ef9ae09ce3": 1789748428,
@@ -4530,6 +4583,7 @@
   "484713670218f4e6": 1790320645,
   "484a4ffffd786be6": 1790051717,
   "484efe1ded9a0f6d": 1790665521,
+  "48509db23bc8fce0": 1791418517,
   "485a4ad30fa100de": 1790042975,
   "485d3ec9f0b5f2a0": 1790577419,
   "4860cba46569565c": 1790751916,
@@ -4663,6 +4717,7 @@
   "4a7878e61674377c": 1789965314,
   "4a90348fc419d1d7": 1789870063,
   "4aa2871228f659a0": 1789959919,
+  "4aa6f43cf81fa85f": 1791418517,
   "4aab8d57a02b9888": 1791235521,
   "4aaea4f2a8947fee": 1790144426,
   "4abc9e5048ff9c57": 1790737975,
@@ -5090,6 +5145,7 @@
   "522d286c906070ba": 1790827519,
   "523b24981e051289": 1790643992,
   "523c44a7c5a54d7d": 1790042395,
+  "5253fe06afc09a89": 1791418517,
   "5257cde8d7be65b3": 1791196557,
   "525c1683b7eab445": 1791363021,
   "525daa00b94851bb": 1791274519,
@@ -5748,6 +5804,7 @@
   "5db5709abc5a4526": 1790734218,
   "5db7677f50a18f5e": 1790647519,
   "5db8280acb625b2e": 1789627496,
+  "5db94b6ebbee06f6": 1791418517,
   "5dbe9ae79a1084f5": 1790311217,
   "5dc2679f9fe3197f": 1790162122,
   "5dc29b4a5e9a1900": 1790557916,
@@ -6481,6 +6538,7 @@
   "6aa1466e425f88f2": 1789712512,
   "6aa42f510290e049": 1790295093,
   "6ab3ca5de6b0277d": 1791263115,
+  "6ab6d4493ad210ad": 1791418517,
   "6abc6b95f562f247": 1791273664,
   "6ac5891876d39785": 1790151921,
   "6ac8bb800acf2727": 1791338726,
@@ -9351,6 +9409,7 @@
   "9fd86959a5fd139e": 1789627496,
   "9fd9a7340eac2a29": 1790646615,
   "9fe3d51aa9011d39": 1790576844,
+  "9fe4a4aa48bf47a7": 1791418517,
   "9febb8fefbc1a18a": 1791330483,
   "9ff0fbba65e320c2": 1791336918,
   "9ff2880894fd8dc4": 1791252320,
@@ -14707,7 +14766,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791418218,
- "last_msg_poll": 1791418467,
+ "last_msg_poll": 1791418764,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14726,7 +14785,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 09:14 KST",
+  "last_run": "2026-10-08 09:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065797,
