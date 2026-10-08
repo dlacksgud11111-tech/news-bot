@@ -462,6 +462,16 @@
    "t": "Optical illusion: Is co-packaged optics the savior the data center industry has been waiting for?",
    "ts": 1791475259,
    "u": "https://www.datacenterdynamics.com/en/analysis/optical-illusion-is-co-packaged-optics-the-savior-the-data-center-industry-has-been-waiting-for/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "KT Cloud plans 50MW data center project in Incheon, South Korea",
+   "ts": 1791477203,
+   "u": "https://www.datacenterdynamics.com/en/news/kt-cloud-plans-50mw-data-center-project-in-incheon-south-korea/"
   }
  ],
  "clip_titles": [],
@@ -6221,6 +6231,7 @@
   "6407913b77a13483": 1790900129,
   "640bb6d86a1d7ee4": 1790807718,
   "640c4a6d3f951e53": 1790052923,
+  "641687d159872721": 1791477318,
   "641fe00a4d0a7f0c": 1789865116,
   "642a12eb3cea7c9e": 1790593223,
   "642a55e7cd74d999": 1791270233,
@@ -8024,6 +8035,7 @@
   "858ce6159a933ced": 1790031917,
   "859728c310c309cf": 1791193137,
   "85988b181f0fbf32": 1790134817,
+  "859c8684bd5626a3": 1791477318,
   "859c887e50ed1998": 1789977032,
   "85a212fe505d33f0": 1791254421,
   "85a31f44d2408ea9": 1789806916,
@@ -9495,6 +9507,7 @@
   "a0b048d0b7253d19": 1790747118,
   "a0b50ce9d2b3379a": 1790138416,
   "a0b86e0f047bd350": 1791248864,
+  "a0b9dce8f7c23cd3": 1791477318,
   "a0bccf0693903899": 1790377518,
   "a0c222957ef979cc": 1790574524,
   "a0c5ee113450aed2": 1790124616,
@@ -10120,6 +10133,7 @@
   "abd4cdda332ca1fe": 1789720817,
   "abe19ec3af7cdf18": 1790715791,
   "abe2bd92ceec0968": 1790136915,
+  "abe40228426d6e35": 1791477318,
   "abe40265b7a30f4c": 1790955660,
   "abe56225eb7574a0": 1789787432,
   "abe65acd4714f40a": 1791316063,
@@ -10864,7 +10878,6 @@
   "b82d2fdf854b78fb": 1791333915,
   "b834c34c0a4902c5": 1789976119,
   "b83f0da14d31261f": 1791336017,
-  "b842f097a5fbd69d": 1789662917,
   "b847b6e2ec86cc10": 1789954327,
   "b84a29fd4d6e2bd7": 1789976119,
   "b859c17484b0897d": 1791136477,
@@ -12451,7 +12464,6 @@
   "d63c8c3a34e8f558": 1790646328,
   "d63ec268a4aa7e2a": 1790818527,
   "d64176d3e9bf2aa1": 1790073620,
-  "d641fe517b813ed1": 1789662917,
   "d642b28e0864fd0c": 1791333915,
   "d6443a6a557b400f": 1791351616,
   "d646d14ccfe4ab92": 1790663718,
@@ -14785,7 +14797,7 @@
  "companies_today": {},
  "day": "2026-10-09",
  "last_clip": 1791470177,
- "last_msg_poll": 1791477262,
+ "last_msg_poll": 1791477565,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14803,7 +14815,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-09 01:34 KST",
+  "last_run": "2026-10-09 01:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
