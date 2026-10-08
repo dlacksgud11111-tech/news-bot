@@ -529,6 +529,16 @@
    "t": "안산도시공사, 아시안게임 금메달리스트와 초등생 20명 펜싱 체험교실",
    "ts": 1791448973,
    "u": "https://www.etnews.com/20261008000359"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "연합뉴스",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "세종시, 360㎿ 규모 데이터센터 건립 유치…7조원 투자 받는다 - 연합뉴스",
+   "ts": 1791443999,
+   "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FWWJoQ1luai1QZGFvaVFGam9aVHVydkhEUGlXSDdGSW1FdzkwSFNIMVV6T01QVzRaX1lKanNIT1lJT0wySUhKbUJ2TGZhOWNkWU4za1oxWlRDRE3SAWBBVV95cUxQVGdRbXU1NFcwZE1MUWlnbHMtZmltUjBHend6amhMd3VfMnNEN1NSNXBGZjNHdkZoSmJxWmZKNjRndFVsTF9INExIbmdNbDYtOWtfalVQMGxQUS1IZ0dKY1U?oc=5"
   }
  ],
  "clip_titles": [],
@@ -6907,7 +6917,6 @@
   "6f3e35c93d22e983": 1791151828,
   "6f4a1e7b815341ec": 1791337527,
   "6f4f6fcebb44e93c": 1790907917,
-  "6f5331acb38661e5": 1789636217,
   "6f542db772725e5d": 1790829018,
   "6f595841064cf2ac": 1791414921,
   "6f5d21ba57167559": 1790300885,
@@ -9993,6 +10002,7 @@
   "a80e204dcf6e8fd2": 1790170519,
   "a81124cdcb1c0a3d": 1790561723,
   "a817d08bae454aad": 1789892428,
+  "a817d70b680146ed": 1791450630,
   "a8248e91b85092a6": 1789875319,
   "a8282b98aa58a14b": 1790590818,
   "a82b22482431a352": 1790823919,
@@ -11506,6 +11516,7 @@
   "c3118b5025028846": 1791254118,
   "c314b3134e78bc64": 1789888052,
   "c318f9ad0b3404be": 1791333915,
+  "c31d3da9fa70a78c": 1791450630,
   "c330921f82402ac9": 1790551516,
   "c335148b935e0b57": 1790807718,
   "c3430b781fcda3e4": 1790820322,
@@ -13263,6 +13274,7 @@
   "e4088b52640c3204": 1790667315,
   "e40fc2b3361aef58": 1791346820,
   "e417857456a5aa63": 1790732122,
+  "e417c2b2273ea410": 1791450630,
   "e418c7596fbf871c": 1791360319,
   "e4195e36efc1a282": 1790907632,
   "e41f0ea9a63db937": 1790658361,
@@ -14800,7 +14812,6 @@
   "fef323e6ffa65a98": 1790671223,
   "fefe94e1be1ac38a": 1790721616,
   "ff050b206c9492a8": 1790577994,
-  "ff05432b996fa423": 1789636217,
   "ff07ad1e059c1abd": 1790148975,
   "ff123afac23ac10a": 1790464815,
   "ff14355b5c50a859": 1790824219,
@@ -14858,7 +14869,7 @@
  "companies_today": {},
  "day": "2026-10-08",
  "last_clip": 1791447744,
- "last_msg_poll": 1791450565,
+ "last_msg_poll": 1791450877,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -14876,7 +14887,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 18:09 KST",
+  "last_run": "2026-10-08 18:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
