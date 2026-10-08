@@ -1,7 +1,7 @@
 {
  "alert_cooldown": {
   "HD현대일렉트릭|수주·계약": 1790662216,
-  "LS일렉트릭|수주·계약": 1791425492,
+  "LS일렉트릭|수주·계약": 1791440130,
   "LS일렉트릭|투자·증설": 1791360622,
   "LS전선|수주·계약": 1789713632,
   "Vertiv|투자·증설": 1790328618,
@@ -303,6 +303,10 @@
   [
    1791433819,
    "효성중공업·LS일렉트릭, 2GW급 HVDC 성능검증 설비 구축...대만 최대 석유화학 기업과 합작법인 설립 수주사업 확대"
+  ],
+  [
+   1791440130,
+   "하나증권 \"LS ELECTRIC, 북미 데이터센터 수주로 성장 지속\""
   ]
  ],
  "alerted": {
@@ -339,6 +343,7 @@
   "6958cd328c52ad5c": 1790557915,
   "69c0d1493b507851": 1790721919,
   "71ac5f734948ed61": 1790055920,
+  "72037036b6976f2a": 1791440130,
   "7704fb4eef03b597": 1790930212,
   "7a14cde93682e80c": 1790910034,
   "7af5ff2c39f18449": 1790328618,
@@ -379,309 +384,8 @@
   "fc59b21c0581d185": 1791410826,
   "fe7b17c162f91919": 1790498127
  },
- "alerted_today": 7,
- "clip_buffer": [
-  {
-   "co": "한전KPS",
-   "n": 1,
-   "s": "이투뉴스 - 전체기사",
-   "sc": 12,
-   "sec": "유틸리티·정책",
-   "t": "한전KPS, AI감사 부작용 예방 'AI 이지스 구축 전담반' 킥오프",
-   "ts": 1791465559,
-   "u": "http://www.e2news.com/news/articleView.html?idxno=334938"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "여성소비자신문",
-   "sc": 26,
-   "sec": "전력기기",
-   "t": "효성중공업·LS일렉트릭, 2GW급 HVDC 성능검증 설비 구축...대만 최대 석유화학 기업과 합작법인 설립 수주사업 확대 - 여성소비자신문",
-   "ts": 1791433245,
-   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aYnZYVXNJWjFTZnVTc1dCZzQ0RDZTZVpIQXpKNS1xd0ZaS09hWW44QUJMb05oSnhTdnZiV3hSaFVCVFA3RXY0TzBxV05CRFRwanVWVzdXWHNmSkJVdTg0RGpFMWw3Zw?oc=5"
-  },
-  {
-   "co": "HD현대일렉트릭",
-   "n": 2,
-   "s": "머니투데이",
-   "sc": 8,
-   "sec": "전력기기",
-   "t": "\"변압기 슈퍼사이클 아닌 '뉴노멀'\"..HD현대일렉 글로벌 시장 잡는다 - 머니투데이 - 머니투데이",
-   "ts": 1791433800,
-   "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2UnE5U2RQQnlBOVp4STNqSDRia2lzME55MHFlejVKS1VOT3RpU1A0aU52WUFpRkg0alRLWWhHQ1p6dmtQdkNZU095UzhjYlpSRC1NMlFnRm5yaENXZ2xRNTc4dDBldlFMRElfeXNUX3FvYUJFR3p6WjNB0gF_QVVfeXFMUDZBMzNzTkxVT01sQ3pJWmpIUngwQ21nV0RhdmItODgxTWs3X1JxVUQ3aGk2QjdpdHNQdlR2eEk1VkFxSGpyelpkRGotbUV1aHc0cmJkYV9NUV9sVl9INF9jY0o3RENkUEdGV1NGREJpczhPcWZBZ1VvNFZhY2N1NA?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 8,
-   "sec": "원전",
-   "t": "12차 전기본 '원전 공론화' 본궤도…시민 300명, 2박3일 숙의한다",
-   "ts": 1791433741,
-   "u": "https://www.etnews.com/20261008000204"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "충청시사신문",
-   "sc": 2,
-   "sec": "데이터센터·AI전력",
-   "t": "세종시, 7조 원 AI 데이터센터 유치 시동…전력·용수 확보가 관건 - 충청시사신문",
-   "ts": 1791434105,
-   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yek9peDZlR1VmcWoyemxFRFlrTnpRcmY4cHdZeHIzclFSYTgwdjlhcGtzN1AxRGFpVDMzb0FRMG1MUmctOVoxMGl5QnBZMkJMajdfTWhaVE1wODdVX2l1dWhXSWVPeHZ4YmpJ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 7,
-   "sec": "재생에너지·ESS",
-   "t": "[국감 자료] 에너지기상 인력 3.4명…안호영 “재생에너지 확대 맞춰 강화해야”",
-   "ts": 1791467264,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303986"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "투데이에너지 - 전체기사",
-   "sc": 5,
-   "sec": "재생에너지·ESS",
-   "t": "남동발전-전기연구원, 공중풍력발전 기술개발 착수",
-   "ts": 1791467231,
-   "u": "https://www.todayenergy.kr/news/articleView.html?idxno=303989"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "지디넷코리아",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "엘리스그룹, 모듈형 AI 데이터센터 'PMDC' 상표권 확보…인프라 사업 확대 - 지디넷코리아",
-   "ts": 1791424119,
-   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13Q0lIU2JnR0J6M3ZuSW55QUNud3NHRjBVbENrNWpWclhUVDhTT1J4V2U0dWN1cTR2cWVZbzcyRkg5cFhCYmtoeEE2b3pVb0lCXzhrcU5R?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "에너지신문 - 전체기사",
-   "sc": 11,
-   "sec": "전력기기",
-   "t": "한·이집트, 청정에너지·전력망 협력 확대",
-   "ts": 1791467884,
-   "u": "https://www.energy-news.co.kr/news/articleView.html?idxno=228846"
-  },
-  {
-   "co": "효성중공업",
-   "n": 3,
-   "s": "천지일보",
-   "sc": 20,
-   "sec": "전력기기",
-   "t": "효성중공업, 국내 첫 2GW급 HVDC 검증설비 구축… ‘서해안 에너지고속도로’ 적기 구축 기여 - 천지일보",
-   "ts": 1791435600,
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwT0JmLXhSVHVPU3lPSEFFT19hUTBybndXSDZBMFVKQkl0Tk9hamN0enlwTUtoWmhXOFAyR1IxZHA1ZXhFUEtGd01Sd21FTWRLc205bmRIVzhXV3dHWnAyWDB0RzBaYmhKS2c?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "BNK경남은행, 지역 주택건설산업 활성화 지원…업무협약",
-   "ts": 1791435309,
-   "u": "https://www.yna.co.kr/view/AKR20261008111600052"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "더파워",
-   "sc": 24,
-   "sec": "전력기기",
-   "t": "효성중공업, 美 빅테크서 3865억원 변압기 수주…대신증권 \"AI 전력망 수요 여전\" - 더파워",
-   "ts": 1791429600,
-   "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxcVh2TkJIUEhvM1JIR19wUDJCNlAxLTNFbUtDRGlmdDZhc0NLenhDQXQzLUNHbnhGTkhCOVF2Y2gzUnJ5WVM2Y0hsUzRWczZoUzZsbnAzdmxnUHdNdU96cVY5WWFyeUM4ZU1SdWpQMU9Ha3VMejFZeUtRejZCQQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 11,
-   "sec": "전력기기",
-   "t": "韓-이집트, 태양광·풍력 넘어 송배전망·HVDC 협력 확대",
-   "ts": 1791468717,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373239"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "서초구, 20일 세제개편안·재건축 세무설명회",
-   "ts": 1791436150,
-   "u": "https://www.yna.co.kr/view/AKR20261008116900004"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "강소기업뉴스",
-   "sc": 12,
-   "sec": "데이터센터·AI전력",
-   "t": "HD건설기계, 북미 데이터센터 전력시장 공략…3900억원 엔진 공급계약 - 강소기업뉴스",
-   "ts": 1791436572,
-   "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92dnFUQ1hiRXdfRlJJN0JUa0Y5cHVGQ1VaYUZLVkN1dm0zZVlMZ3dwZnlMM1FlYjlsSVhmOWNzUE1NdGZnb1dKWlNTQ0V6SUJxQl9R?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "뉴시스",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "마스턴운용-SK이터닉스, 연료전지 연계형 AI 데이터센터 개발 - 뉴시스",
-   "ts": 1791436875,
-   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hM1hGV1cyUTVpWWFMWDVlalgzS1pPZnAzOHo4aEhhUi11d0l6QTVmaHlYd1hjWlQ5Zm1fT0FQNXMyeWxvbXAyQmxiUzNHNkVEdTJ1RGZYUXVUbWZ4ZnNjZdIBeEFVX3lxTE85SkJEUUlxenhjdkVnbzZqZm5vZFo3a1RGa2tJZktENnN4ZkdBcHUwVURmSHhYTndxRVJWVVkzNDRmRk1DdzlWWkd2QnF1UUtoT2ZtMUkyb0ZNWGF1OWNqcWEtZ2N2bG0waXBTZjBsNHRjelFBZjJzaQ?oc=5"
-  },
-  {
-   "co": "효성중공업",
-   "n": 2,
-   "s": "CNB뉴스",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "효성중공업, 독자 기술 기반 GW급 HVDC 성능 검증 설비 구축 - CNB뉴스",
-   "ts": 1791421281,
-   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04Qy1hYURIWlhydG9QVWFZaGRQUExiZjNzZjdzRDhjV0t0d013dkRENjRJTXZtZjRzNVF1d1pLWnBVM2xvZkhuSFFfbXBheGVzSXVEUHp0aUpNTjZGRmVHWDhGaUNtOTB0eENn?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "경기도, 대형·지역 건설사 상생협력 만남 행사",
-   "ts": 1791437342,
-   "u": "https://www.yna.co.kr/view/AKR20261008123200060"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "디지털투데이",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "美 도심 등장한 수직형 데이터센터…20층 건물인데 서버는 2개층 - 디지털투데이",
-   "ts": 1791437160,
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yRTdKbHVkOTRncGlReXZBaWJIX3FBUDVrVlVVb29xc3duOVdzQ1lsZG5SQlpJZmN3QVlLQmdwbWdKUGp0WXRDbzB3WFZ6RkFqZ0djVjNBNUtoZ3ZXb09GRHgtWjdhQ25QQVRwZ3lId2JLeXc?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 0,
-   "sec": "재생에너지·ESS",
-   "t": "포장재·배터리로 번진 환경규제…KEA, 14일 수출기업 실무 대응법 제시",
-   "ts": 1791436530,
-   "u": "https://www.etnews.com/20261008000228"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "비즈니스플러스",
-   "sc": 14,
-   "sec": "전력기기",
-   "t": "[비즈+]AI 데이터센터에 커지는 전력 부담…효성중공업 '스태콤', 美 전력망 필수 설비로 '각광' - 비즈니스플러스",
-   "ts": 1791437679,
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YcW55dVZYSlRSY0otdHZKT2dLYUdaUUVaTm41QmRDRktUbzhGOEwyTkRuVlBGbnpxOUxsVW9Cd1BUV1JmZEwwZlZXRG04ZGdMZzZRYXo3T3FOX1ZSZW5IRFV1bjB4NHN5T25sbEFB?oc=5"
-  },
-  {
-   "co": "효성중공업",
-   "n": 2,
-   "s": "한강타임즈",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "효성중공업, 국내 최초 2GW급 HVDC 제어기 성능검증 설비 구축 - 한강타임즈",
-   "ts": 1791438714,
-   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IZVBGNnFDcG4wX3RhZ0ZhUzhLazRTX1hRM29JaXprY2RiR2hkME12cUR1NjB5ZExDOEpJZHZ5ZUl5NEJ0YVYxcHVBanllYWZJblcybWd5SWVscnVTQXNHM1lUdFgwazZpU3F3?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "[게시판] 주택건설협회, 지역은행·보증기관과 지방 주택건설 활성화 협약",
-   "ts": 1791438628,
-   "u": "https://www.yna.co.kr/view/AKR20261008126700003"
-  },
-  {
-   "co": "",
-   "n": 2,
-   "s": "뉴스충청인",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "충남연구원, AI 데이터센터 입지 경쟁력 전국 1위…100점 만점에 85점 - 뉴스충청인",
-   "ts": 1791416759,
-   "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5RYjYzbXg4Q1R3eGVOSkpydnpQVTU2QmMxNXU3UXBlYWYyYUxDU3gybGZrcGlPbF9zeDhETnE0eUdEaUVQR2c?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "LG에너지솔루션, ESS 생산능력 확대 힘입어 3분기 영업이익 567% 증가",
-   "ts": 1791471330,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373242"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "뉴스포스트",
-   "sc": 18,
-   "sec": "전력기기",
-   "t": "효성중공업, 2GW급 HVDC 국산화 속도…국내 첫 검증설비 구축 - 뉴스포스트",
-   "ts": 1791438899,
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rQVpjZ0JMVmhwVFNzQTdFMGdRaEdUbEgyWjVJbWhWQmVPUkRvS0NhT3VFRURTVDdzNkFLTEdsYXNnM0JVZVExVDdjelVockxkNDZiMFhxM0R5VUp4TG9GeUNsRFF4WkNo?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "High defect rates drag down solar performance and yield, finds report",
-   "ts": 1791439200,
-   "u": "https://www.pv-magazine.com/2026/10/08/high-defect-rates-drag-down-solar-performance-and-yield-finds-report/"
-  },
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "매일경제",
-   "sc": 8,
-   "sec": "전력기기",
-   "t": "글로벌 송전 시장 뚫는다 … 효성중공업, 2GW 성능 검증 돌입 - 매일경제",
-   "ts": 1791439178,
-   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3bEo3WlppTG5qazZEbjd5X24wcXFkci1QTEJWTXBpMmxaNTdPT3d0ajRGQXJUeVdqcUMxc1hVbTJub1dadEVmUnFFQWZFQjBoc04xSS13?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "연합뉴스 경제 최신기사",
-   "sc": 3,
-   "sec": "데이터센터·AI전력",
-   "t": "[IPO챗] 디티에스 \"플랜트 냉각 기술로 AI 데이터센터 시장 공략\"",
-   "ts": 1791439128,
-   "u": "https://www.yna.co.kr/view/AKR20261008129600008"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "전기신문 - 전체기사",
-   "sc": 7,
-   "sec": "재생에너지·ESS",
-   "t": "(기자의눈) 전력 과잉 ‘뉴노멀’, ESS는 수조 원인데 DR은 ‘선의’라니",
-   "ts": 1791471992,
-   "u": "https://www.electimes.com/news/articleView.html?idxno=373176"
-  }
- ],
+ "alerted_today": 8,
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -1270,6 +974,7 @@
   "0ac7aae6aa88140e": 1790820322,
   "0ac886fe44c887cd": 1790205547,
   "0ace3e35b776fecc": 1790298620,
+  "0ad096df390dac5e": 1791440131,
   "0ad68854fd4e25e0": 1790583931,
   "0add782baf7f9e09": 1790658925,
   "0adfc13a27facecf": 1791354021,
@@ -2161,6 +1866,7 @@
   "199aea73e56ec4a1": 1791419757,
   "19a1266450531c9c": 1789958422,
   "19a20e3445ec4807": 1789868332,
+  "19a48d5b16c3f925": 1791440131,
   "19a926195777a196": 1790818527,
   "19ab45dc8324ee51": 1789919867,
   "19abbc574bc2530f": 1791251420,
@@ -4181,6 +3887,7 @@
   "3b03282c0e1ba9ef": 1791337527,
   "3b069a1a704e2dfc": 1790055317,
   "3b0a1c0fd0ac8fae": 1789960215,
+  "3b0a6d97b367d552": 1791440131,
   "3b0c3e4ebdfd127f": 1790559622,
   "3b0d03e954e9f220": 1789767654,
   "3b0e9560f5473be1": 1789963516,
@@ -5101,6 +4808,7 @@
   "49d668eb7c3c997e": 1790832921,
   "49d71bedbdd7fb6b": 1791425493,
   "49d7f24a6f06c472": 1790839223,
+  "49d9ea71dfe3e989": 1791440131,
   "49db0db0f2d2f671": 1789630819,
   "49dbad723a7cacaa": 1790822117,
   "49dd02e9ceefd119": 1790731219,
@@ -5544,6 +5252,7 @@
   "5196a15e5902d017": 1791272508,
   "5199fc619cfb7704": 1789954327,
   "519a8c6fe9640bcd": 1789629088,
+  "519ce80f66cf096d": 1791440131,
   "519eec3d8e6c8d29": 1789627496,
   "51a681242abdfd90": 1790575673,
   "51a94fce43dada41": 1790157618,
@@ -6010,6 +5719,7 @@
   "59533be811cb06ce": 1790744723,
   "595967fc75305983": 1791266719,
   "595b2bf4aa8ae108": 1789967119,
+  "59611cee7616ed79": 1791440131,
   "596313c2c02f20c7": 1791074117,
   "59661da7485b318a": 1790728933,
   "59670a315c54d86d": 1790757639,
@@ -7975,6 +7685,7 @@
   "7bcfe76028d127f2": 1789974322,
   "7bd4afe5c659d2e8": 1790314224,
   "7bd68505a113b0cc": 1789764171,
+  "7bd84fc254d4ea64": 1791440131,
   "7bdc7011b1ebb914": 1790320078,
   "7bdf487d6ab2f727": 1789983921,
   "7be6eb59a350d5de": 1789974040,
@@ -8645,6 +8356,7 @@
   "875a62163f185242": 1791338726,
   "875becc2a220cb96": 1790747118,
   "875d08c7d13cd422": 1790814919,
+  "876663285e0bb641": 1791440131,
   "8768438c78d292d2": 1789631127,
   "876b93a95afb004c": 1790556223,
   "876bb814667f65b5": 1790566223,
@@ -13233,6 +12945,7 @@
   "d7c9827cc16bd1c7": 1790908520,
   "d7c9dae0fa09f597": 1790750123,
   "d7cd443fda342771": 1791252320,
+  "d7cdf11487621ec2": 1791440131,
   "d7d5b0af1aa7067e": 1790820921,
   "d7d7a0a18e742ad4": 1791259518,
   "d7d83a58f1bb2864": 1791343944,
@@ -13302,6 +13015,7 @@
   "d91bb64d745c60c6": 1791268521,
   "d927764173fef7c5": 1791349518,
   "d92801e4b04d1a63": 1789960215,
+  "d9281c2db84604d3": 1791440131,
   "d9282371579751d7": 1790080237,
   "d92a0c1d8bd4d10f": 1789990699,
   "d93326ce73b71a38": 1790240120,
@@ -14222,6 +13936,7 @@
   "e95b37d8b8eae3e1": 1789691718,
   "e95cbd6fde702b18": 1790124616,
   "e960bc034ed7eafa": 1790834627,
+  "e96437365b02380b": 1791440131,
   "e964b593b5d78553": 1791353122,
   "e96e48e4f3940ee2": 1789871205,
   "e96e91580a333d79": 1790647820,
@@ -14631,6 +14346,7 @@
   "f018b0a4ded8a7f6": 1790897721,
   "f024d61dfeceb8a7": 1789707915,
   "f02a90f8dd17adcd": 1790574524,
+  "f03734304e3b6269": 1791440131,
   "f037bd42f8d52851": 1791209118,
   "f037d82e92ab1a30": 1790577419,
   "f0380c89ae5ffb9c": 1790831729,
@@ -15071,6 +14787,7 @@
   "f79cc6c246bea506": 1790665521,
   "f7a25d59d4630ebf": 1790062459,
   "f7a478dad7c289dd": 1791351616,
+  "f7ab20ed260914e7": 1791440131,
   "f7af0489032367c0": 1790831115,
   "f7b0a40b1b719f86": 1790292193,
   "f7b3ab14bb41cd94": 1791337232,
@@ -15462,6 +15179,7 @@
   "fe39f17b99211834": 1790556791,
   "fe3bf5925f67d5a1": 1790926783,
   "fe40f32265e7dc24": 1790735693,
+  "fe434d35225f8bc9": 1791440131,
   "fe44767754a47274": 1790649016,
   "fe48301b7614db2c": 1790043540,
   "fe4d8609349e3f93": 1790375732,
@@ -15566,8 +15284,8 @@
  },
  "companies_today": {},
  "day": "2026-10-08",
- "last_clip": 1791432920,
- "last_msg_poll": 1791440068,
+ "last_clip": 1791440131,
+ "last_msg_poll": 1791440379,
  "last_weekly": 1790895600.0,
  "paused": false,
  "posted_today": 0,
@@ -15585,7 +15303,7 @@
   "e55cb3e07030a691": 1789693522
  },
  "stats": {
-  "last_run": "2026-10-08 15:14 KST",
+  "last_run": "2026-10-08 15:19 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
