@@ -411,7 +411,18 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 4,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "European storage inventories on the rise",
+   "ts": 1791539555,
+   "u": "https://www.pv-magazine.com/2026/10/09/european-storage-inventories-on-the-rise/"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -568,7 +579,6 @@
   "02c806225424966d": 1790246427,
   "02c8d2a3fc1c2bc0": 1790140218,
   "02cae054cfe093d1": 1790835202,
-  "02cd0f9524e2dcbf": 1789725558,
   "02cd1df8c07e3b6c": 1790136320,
   "02cef15960cc7063": 1790753717,
   "02d268a94f40c79f": 1790560827,
@@ -4373,6 +4383,7 @@
   "47b96de5eb5e6b9b": 1789859418,
   "47ba8e112bb257d9": 1790646027,
   "47bd276ea7cc615b": 1790067063,
+  "47c14d1c6376676d": 1791539719,
   "47c17166bc1c44d4": 1790035999,
   "47c37d59948bc790": 1790905221,
   "47c39126c3d30919": 1790353221,
@@ -11019,7 +11030,6 @@
   "c43f3d7d3ddc2dfd": 1790907632,
   "c440406e82f5a4f6": 1790811920,
   "c44184a1b849f0ff": 1790554448,
-  "c44a001c51cd60d3": 1789725558,
   "c4533a260ef8d75e": 1791270233,
   "c453f6263546df22": 1790058917,
   "c459b265ecc5eafa": 1790813121,
@@ -14199,7 +14209,7 @@
  "companies_today": {},
  "day": "2026-10-09",
  "last_clip": 1791538820,
- "last_msg_poll": 1791539668,
+ "last_msg_poll": 1791539967,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14212,7 +14222,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-09 18:54 KST",
+  "last_run": "2026-10-09 18:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
