@@ -422,6 +422,16 @@
    "t": "효성중공업, 국내 첫 2GW급 HVDC 성능검증 설비 구축 - IT타임스",
    "ts": 1791529438,
    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyOVBDTGJIZmZnQVVPdC0xVzdNVFAycVVLS0hYY2hDVlN5eVY4TExMOC1JTmJXU0VLSEJfdmFaNHpkOHJjYTlEeTRfLV9hd2lxZVdINzk2SkNJSmZhc2NCcnVCajR2a3dC?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "당진시대",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "[김기재 시장 취임 100일 기자회견] 당진에 데이터센터 5곳 추진 중 - 당진시대",
+   "ts": 1791532800,
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZdDhMZ2ZyYjFhMkRvbU9fUGtTVURlZlhMMWF0TkdGeFAweGZSSWp6Q3B5ZC1HSW8xcVZsbGxrazN1QkFoaXJmbmRPUXMzMVUyUVZTN3NTWU82bGVhWXhLNENfZVhIdjdpWlow0gFvQVVfeXFMUFFqZk5iYmJ5Q1FKVUVMLTRrZTA1dVN0RmJpckYxVk83NWlMcWlNYnYtX2FQNWhwSDRIeE1EbmgyWE4zR1dQZWZLRU5NMFZteFJPQ1JkckhleHBJQkVQT0ZmdU1tTUwtcklrS3dObkhn?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1293,6 +1303,7 @@
   "10dbf00bdb38ef98": 1790791432,
   "10dcffc64dc50447": 1790676778,
   "10de004fd72539eb": 1790142019,
+  "10e1ed9dd4ea58ed": 1791534318,
   "10e4cb9272248b3f": 1790035428,
   "10e643f74ceec2b0": 1789729598,
   "10e6b88a78c8749b": 1790142019,
@@ -6021,7 +6032,6 @@
   "64771e528e5c711b": 1791303028,
   "64782ff9dfa0de53": 1790834627,
   "647d0a779504507f": 1790561723,
-  "6482b487850dce7d": 1789719936,
   "649087fba59f7e90": 1791323121,
   "64b0bf45a3cb93d4": 1789967690,
   "64b7f040dcc10d7c": 1790321776,
@@ -9113,6 +9123,7 @@
   "9fb4e5b0410aac90": 1790734218,
   "9fb67ff934ff12d1": 1790588718,
   "9fb8a30fe6da450b": 1789969411,
+  "9fb9cdfacc17bb8b": 1791534318,
   "9fba711f7c00e3ad": 1790630119,
   "9fc6e793f8bd675a": 1791437718,
   "9fc71687e41f6576": 1790246123,
@@ -14260,7 +14271,7 @@
  "companies_today": {},
  "day": "2026-10-09",
  "last_clip": 1791531403,
- "last_msg_poll": 1791534285,
+ "last_msg_poll": 1791534559,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14273,7 +14284,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-09 17:24 KST",
+  "last_run": "2026-10-09 17:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
