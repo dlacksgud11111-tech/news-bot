@@ -411,48 +411,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "IndexBox",
-   "sc": 4,
-   "sec": "전력기기",
-   "t": "2035년 전원 및 케이블 관리 시장 전망: 데이터센터 고밀도화와 전동화가 성장 견인 - IndexBox",
-   "ts": 1791552364,
-   "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3BRdDYxUUNzVlpIUWRpYzd5YVR3emxPc0RjdHFLMW1rYTdDY3NteXo1a0dDc05HWGV5dUdIaTV6YzJaT0NLY190T3NwTjhpZ1VFOWpvaUlsR0g3ZVJndHhiVmV0QmdnaGdWbzlDYURNd3cxb3BxNVdlVkh3dGFBa2Z6VHR2TUFHcUFHdm1tTDJPVEFoTVFzdjBjZWx1clNyQTIzZURET1JyWEhOS2hES256bldmbjFMSzFOaFhIOHFXVy02UWVkZldjSjFwM2k0b2c?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Anthropic-linked $366m data center project filed for in Cedar Creek, Texas",
-   "ts": 1791556073,
-   "u": "https://www.datacenterdynamics.com/en/news/anthropic-linked-366m-data-center-project-filed-for-in-cedar-creek-texas/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Uncertainty over data center development in Trzebnica, Poland",
-   "ts": 1791558747,
-   "u": "https://www.datacenterdynamics.com/en/news/uncertainty-over-data-center-development-in-trzebnica-poland/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Digital Realty begins work on KIX15 data center in Japan",
-   "ts": 1791559834,
-   "u": "https://www.datacenterdynamics.com/en/news/digital-realty-begins-work-on-kix15-data-center-in-japan/"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -3616,6 +3575,7 @@
   "3a90fb8b8fdc43eb": 1790142332,
   "3a91615eb3b0aac6": 1790553879,
   "3a93d68b7d95d772": 1790903418,
+  "3a969cd8e526bd92": 1791561317,
   "3a9af950523abd23": 1791274234,
   "3a9d3982428ddcc4": 1789916965,
   "3aa1d98388fa0b2c": 1789893929,
@@ -14174,8 +14134,8 @@
  },
  "companies_today": {},
  "day": "2026-10-10",
- "last_clip": 1791554045,
- "last_msg_poll": 1791561266,
+ "last_clip": 1791561317,
+ "last_msg_poll": 1791561564,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14188,7 +14148,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-10 00:54 KST",
+  "last_run": "2026-10-10 00:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
