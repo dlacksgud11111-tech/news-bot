@@ -441,6 +441,16 @@
    "t": "Uncertainty over data center development in Trzebnica, Poland",
    "ts": 1791558747,
    "u": "https://www.datacenterdynamics.com/en/news/uncertainty-over-data-center-development-in-trzebnica-poland/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Digital Realty begins work on KIX15 data center in Japan",
+   "ts": 1791559834,
+   "u": "https://www.datacenterdynamics.com/en/news/digital-realty-begins-work-on-kix15-data-center-in-japan/"
   }
  ],
  "clip_titles": [],
@@ -3506,6 +3516,7 @@
   "38b6612f1dacac50": 1790478323,
   "38b7388e415d1d0d": 1791254118,
   "38c657302d48d2b7": 1791351616,
+  "38c6e1d8a025afa7": 1791560420,
   "38c812dca595b85c": 1790064758,
   "38c83792964eed47": 1790105418,
   "38d00f7e835d6d95": 1790666117,
@@ -6099,7 +6110,6 @@
   "66ed6cf92e560aad": 1790040620,
   "66eddf2326732439": 1790838638,
   "66f3cbfc5f79224d": 1789979427,
-  "6700d19e99b83421": 1789745736,
   "67041cf988217d34": 1790493019,
   "67042652bc26d82c": 1790128821,
   "6709553e79ea836f": 1790944517,
@@ -7646,6 +7656,7 @@
   "84ea2223bcce97a5": 1790048174,
   "84ecdc44a0211dd4": 1791331618,
   "84ee7e592b1896df": 1789963516,
+  "84efe20b53f7c838": 1791560420,
   "84f5a2d5fbfea61d": 1790694621,
   "84f6877a3c50a130": 1791410827,
   "84fe580adaedac70": 1790824219,
@@ -14165,7 +14176,7 @@
  "companies_today": {},
  "day": "2026-10-10",
  "last_clip": 1791554045,
- "last_msg_poll": 1791560095,
+ "last_msg_poll": 1791560667,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14178,7 +14189,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-10 00:34 KST",
+  "last_run": "2026-10-10 00:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
