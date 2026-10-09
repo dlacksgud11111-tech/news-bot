@@ -461,6 +461,16 @@
    "t": "Spanish researchers reduce losses in organic solar cells by restricting emission angle",
    "ts": 1791543936,
    "u": "https://www.pv-magazine.com/2026/10/09/spanish-researchers-reduce-losses-in-organic-solar-cells-by-restricting-the-emission-angle/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "ThisWay Global plans 73MW AI and HPC data center in Bryan, Texas",
+   "ts": 1791544477,
+   "u": "https://www.datacenterdynamics.com/en/news/thisway-global-plans-73mw-ai-and-hpc-data-center-in-bryan-texas/"
   }
  ],
  "clip_titles": [],
@@ -6413,6 +6423,7 @@
   "6c3476b29a70b543": 1790731219,
   "6c3db04533ada182": 1791449457,
   "6c3f6a1f72adc311": 1791419428,
+  "6c3fb732cadaf9e4": 1791544831,
   "6c47a106d2b0e69a": 1790469496,
   "6c4aed631def0ca8": 1790814336,
   "6c4c6192d54679cb": 1791289216,
@@ -14219,7 +14230,7 @@
  "companies_today": {},
  "day": "2026-10-09",
  "last_clip": 1791538820,
- "last_msg_poll": 1791544766,
+ "last_msg_poll": 1791545080,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14232,7 +14243,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-09 20:19 KST",
+  "last_run": "2026-10-09 20:24 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
