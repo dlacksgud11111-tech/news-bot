@@ -411,7 +411,18 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 0,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "Utility Dive - Latest News",
+   "sc": 4,
+   "sec": "유틸리티·정책",
+   "t": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
+   "ts": 1791553745,
+   "u": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -3269,6 +3280,7 @@
   "34f5373c340829c7": 1790139017,
   "34f885522e37456b": 1791366995,
   "34f88bb9f466e67f": 1790032819,
+  "34fd7649e0603158": 1791563719,
   "350188fc6a728557": 1790753717,
   "3501fbd7f3e075d3": 1790059221,
   "35027a8d8b821ec9": 1791361817,
@@ -9738,6 +9750,7 @@
   "ad1fbc952b71c585": 1790730658,
   "ad2e9ba950904016": 1790831115,
   "ad3de7e217e0dcdd": 1791441029,
+  "ad4f5494c2e24838": 1791563719,
   "ad5477c6b41f3994": 1789959318,
   "ad54919e9df5744b": 1791365854,
   "ad5c438c3ef7ed4c": 1789954327,
@@ -14136,7 +14149,7 @@
  "companies_today": {},
  "day": "2026-10-10",
  "last_clip": 1791561317,
- "last_msg_poll": 1791563665,
+ "last_msg_poll": 1791563962,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14149,7 +14162,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-10 01:34 KST",
+  "last_run": "2026-10-10 01:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
