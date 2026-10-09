@@ -13,7 +13,7 @@
   "한국전력|수주·계약": 1790498127,
   "한전KPS|투자·증설": 1790146150,
   "효성중공업|수주·계약": 1791462921,
-  "효성중공업|투자·증설": 1791511544
+  "효성중공업|투자·증설": 1791526232
  },
  "alert_titles": [
   [
@@ -335,6 +335,10 @@
   [
    1791511544,
    "효성중공업, 2GW급 HVDC 국산화 속도…국내 첫 검증설비 구축"
+  ],
+  [
+   1791526232,
+   "\"100조원 HVDC 시장 잡아라\"…효성중공업, 국내 첫 2GW급 검증설비 구축 '승부수'"
   ]
  ],
  "alerted": {
@@ -392,6 +396,7 @@
   "ba93f8b815857de9": 1790783690,
   "bc994ca12211ee69": 1789720222,
   "be30e281fa63782f": 1791373216,
+  "be69dc12318e0bbf": 1791526232,
   "c949ac5c8aa7ae59": 1790131216,
   "ca425dae1bd2590b": 1790059817,
   "d09dd25c4f4edf8d": 1790174132,
@@ -408,7 +413,7 @@
   "fc59b21c0581d185": 1791410826,
   "fe7b17c162f91919": 1790498127
  },
- "alerted_today": 3,
+ "alerted_today": 4,
  "clip_buffer": [
   {
    "co": "효성중공업",
@@ -419,6 +424,16 @@
    "t": "효성중공업, 글로벌 피어보다 낮은 밸류에이션…전력기기 호황 이어진다 - 핀포인트뉴스",
    "ts": 1791523656,
    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95dW9uc0pZU1RISkJvMVdFcnVMS05hWUdXMlA5SUwtSnFPcTB0aWR6cnlsZVBFNmZ1Tm9jTUs4XzdaaEtsQ2ZOeFdWRm5Zd1h0OGpBaVBaaHdlRjUxbWZBV2hoZlZJOEhxM2diY1RBRTRUNEHSAXdBVV95cUxOVHVGRWJ0M3k2QUhWaGU4WXhvUXlUR1NuYjd2TWc2Xzc2dmY0TnFOWXE1TmNsbXg3azBsYWNoQkx1Z3l2UVdDdTVvdDVFTjM1ZVViVVB6aDNoYnlsUGRld0hTdDdZbTJhLWd4UThlZmhwWkZqaXQ5OA?oc=5"
+  },
+  {
+   "co": "일진전기",
+   "n": 1,
+   "s": "잡포스트",
+   "sc": 16,
+   "sec": "전력기기",
+   "t": "일진전기 8만원대로 후퇴…해외 전력기기 수주 소화가 관건 - 잡포스트",
+   "ts": 1791437514,
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jN0NNN3BOaW1qTjJSRFdxQnRpQ3laUzNpeGZPVm5VMlg1VUg1cHhTek9yNmVCcXdhVXJ0MVd0S1Vaa1dJNzhUd3g5SlBaMlc5NmlscE5wTVJKa1RrVjZrMHRhUVh3WTBOTnJMendn0gFyQVVfeXFMT1dDQVJYOHZTanh2VkRFdzNjWVhlLWg4V3RQYVNkVGJaTVktSThROEw0bDdYNWZDZHVVN3N1ZWFFYmRlZDNNNTJPREdnT3VWNkloallrQjhQdmE5bTVFWW9uTmFUUUZ3eFBmcUFhSUpQZUFB?oc=5"
   }
  ],
  "clip_titles": [],
@@ -3723,6 +3738,7 @@
   "3bb5379739b4ad51": 1790668519,
   "3bb9eaa81e014f0b": 1790923232,
   "3bc53234c9002a09": 1790042975,
+  "3bcd46cd134448e2": 1791526232,
   "3bce6a6ba9896115": 1790052923,
   "3bcecd0584ed4b83": 1790040917,
   "3bd65a95055c07c9": 1790036576,
@@ -5394,7 +5410,6 @@
   "590d684b9468a961": 1790906736,
   "5910444586013765": 1790580361,
   "59160780ecffb0ca": 1790921128,
-  "591b4fc2ccabe2da": 1789711937,
   "591d43d610ae17ef": 1789724119,
   "591f9c8310e80b89": 1791438318,
   "5921f67203815422": 1789828903,
@@ -11028,7 +11043,6 @@
   "c1f5c6330470c972": 1791181823,
   "c1f82f4005a93fd4": 1791423214,
   "c1ff86d935abf31a": 1790551214,
-  "c202f3b817559067": 1789711937,
   "c20f4b5570ffd5f8": 1790838638,
   "c20f5341f3a969b1": 1790763689,
   "c20f85d29db1d440": 1790559622,
@@ -12639,6 +12653,7 @@
   "e0e62c137356be91": 1790214317,
   "e0ee5328299629d0": 1790370688,
   "e0f1e3a5894bc26c": 1791348919,
+  "e0f2351eb3efc78c": 1791526232,
   "e0fa8f347679cecb": 1789980627,
   "e10356e69d118dc7": 1791441616,
   "e103e58c6900cdfd": 1790922019,
@@ -14343,7 +14358,7 @@
  "companies_today": {},
  "day": "2026-10-09",
  "last_clip": 1791523821,
- "last_msg_poll": 1791526166,
+ "last_msg_poll": 1791526479,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14356,7 +14371,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-09 15:09 KST",
+  "last_run": "2026-10-09 15:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
