@@ -411,38 +411,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 4,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 3,
-   "sec": "재생에너지·ESS",
-   "t": "The Hydrogen Stream: Dutch researchers calculate green H2 costs as low as €7.2/kg",
-   "ts": 1791550249,
-   "u": "https://www.pv-magazine.com/2026/10/09/the-hydrogen-stream-dutch-researchers-calculate-green-h2-costs-as-low-as-e7-2-kg/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 6,
-   "sec": "재생에너지·ESS",
-   "t": "Prices drive Pakistan’s metered solar, outages drive hidden uptake",
-   "ts": 1791550200,
-   "u": "https://www.pv-magazine.com/2026/10/09/prices-drive-pakistans-metered-solar-outages-drive-hidden-uptake/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "금융경제플러스",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "HD건설기계, 북미 데이터센터 전력시장 공략…가스엔진 3900억원 공급 - 금융경제플러스",
-   "ts": 1791450600,
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03allTYWlnb0dPRjBtLXoxeTU1TUZfbFVEOGM1NktfRlpCSGRNQ0ZreU9neGVScHEwejlCdk5jdWtJeWgwMk5yMnRVZUhOaFlleVFYcElGN1dYaDVUUExEeHFJeGpUdjlIQ0c0OA?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -1538,6 +1507,7 @@
   "150e916afba9356f": 1791169650,
   "1513700b27eb17f1": 1790052923,
   "1514222d8a59b92c": 1790399120,
+  "1516cec89d3750a1": 1791554045,
   "1517c74dd3f1b33b": 1790292193,
   "1518a2ead3f1f8ea": 1790141423,
   "151ef6fb591056e4": 1790049916,
@@ -14170,8 +14140,8 @@
  },
  "companies_today": {},
  "day": "2026-10-09",
- "last_clip": 1791546314,
- "last_msg_poll": 1791553726,
+ "last_clip": 1791554045,
+ "last_msg_poll": 1791554288,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14184,7 +14154,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-09 22:48 KST",
+  "last_run": "2026-10-09 22:58 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
