@@ -461,6 +461,26 @@
    "t": "구글, 데이터센터 물 사용량 가렸다가 복붙에 들통 - 스타트업레시피",
    "ts": 1791514825,
    "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fWXhVTXNyM0FlaGZlMmYxVmh4VDk3MHd5RjBYM3pNcjRSM1FMSG1ObFNoa0tiVkpfek9xYVVkRWZ6dTRWVFFpWXRaWEg1NnlCZGdDRVBPWWYxMkktZ1E?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 3,
+   "sec": "건설·플랜트",
+   "t": "Finland: BESS acquisition, construction and optimisation news from Usva Energia, Nala Renewables, Centrica and Olana Energy",
+   "ts": 1791537706,
+   "u": "https://www.energy-storage.news/finland-bess-usva-energia-nala-renewables-centrica-olana-energy-acquisition-construction-optimisation-news/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "Energy-Storage.News",
+   "sc": 4,
+   "sec": "재생에너지·ESS",
+   "t": "IEA: Thermal energy storage key to industrial heat electrification that could cut EU gas demand by 35 bcm annually",
+   "ts": 1791537674,
+   "u": "https://www.energy-storage.news/iea-thermal-energy-storage-key-to-industrial-heat-electrification-that-could-cut-eu-gas-demand-by-35-bcm-annually/"
   }
  ],
  "clip_titles": [],
@@ -714,7 +734,6 @@
   "04aa1fb69e66db0a": 1791014880,
   "04aecf21f0547494": 1791331051,
   "04b279a01c1b2e40": 1790569820,
-  "04bc1bca3b3a61f0": 1789723516,
   "04bda321ec35a38e": 1791364719,
   "04c99b505250a38f": 1790836926,
   "04cdd2d7604e8116": 1790644581,
@@ -6342,6 +6361,7 @@
   "6a4ff15e749989d6": 1790058917,
   "6a5021881d2f3f35": 1791330483,
   "6a552eb3be36cc0d": 1791189019,
+  "6a55f36550c06193": 1791537932,
   "6a56ffb37faf7dc5": 1790341084,
   "6a5a0414ff99847f": 1790555020,
   "6a5af6aed58210e0": 1791260421,
@@ -7977,6 +7997,7 @@
   "89ad053daf192384": 1789783839,
   "89ae4682a97ebf75": 1790832921,
   "89b0f260e17b518f": 1791187519,
+  "89bc101d71d0caca": 1791537932,
   "89bc163cf88f4462": 1791448898,
   "89cadab027e4af16": 1791061218,
   "89cbfcd9d1171f64": 1790660118,
@@ -14263,7 +14284,7 @@
  "companies_today": {},
  "day": "2026-10-09",
  "last_clip": 1791531403,
- "last_msg_poll": 1791537864,
+ "last_msg_poll": 1791538178,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14276,7 +14297,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-09 18:24 KST",
+  "last_run": "2026-10-09 18:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
