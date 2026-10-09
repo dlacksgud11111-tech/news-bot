@@ -451,6 +451,16 @@
    "t": "Jackery steps into RVs with built-in 2 kW solar and 45 kWh storage",
    "ts": 1791541859,
    "u": "https://www.pv-magazine.com/2026/10/09/jackery-steps-into-rvs-with-built-in-2-kw-solar-and-45-kwh-storage/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 2,
+   "sec": "재생에너지·ESS",
+   "t": "Spanish researchers reduce losses in organic solar cells by restricting emission angle",
+   "ts": 1791543936,
+   "u": "https://www.pv-magazine.com/2026/10/09/spanish-researchers-reduce-losses-in-organic-solar-cells-by-restricting-the-emission-angle/"
   }
  ],
  "clip_titles": [],
@@ -11742,6 +11752,7 @@
   "d1fadea4d8432806": 1789949125,
   "d1fc0a6e0595b6c0": 1789967119,
   "d209a6f1adbbfc57": 1790635214,
+  "d20a8932e47ade34": 1791544221,
   "d20f7599c643ad80": 1790664631,
   "d211289bcd7b3a2e": 1790370688,
   "d214d30f5edc7f4b": 1791302424,
@@ -12426,6 +12437,7 @@
   "df519c7cac1ddba1": 1790562951,
   "df5316980f435bc6": 1790838079,
   "df5733bd7d9863c2": 1790053518,
+  "df585fce6fb764bd": 1791544221,
   "df61c87c416c1776": 1789976730,
   "df62ba81eadb9181": 1790946019,
   "df6377d1bc29a54c": 1791281723,
@@ -14207,7 +14219,7 @@
  "companies_today": {},
  "day": "2026-10-09",
  "last_clip": 1791538820,
- "last_msg_poll": 1791544165,
+ "last_msg_poll": 1791544467,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14220,7 +14232,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-09 20:09 KST",
+  "last_run": "2026-10-09 20:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
