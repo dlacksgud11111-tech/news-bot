@@ -451,6 +451,16 @@
    "t": "힘빠진 전력기기…美 수주랠리에도 매출 제자리 - 한국경제",
    "ts": 1791535406,
    "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UNVQ3V2hyRzNhUU1NTkxqbXVfN2NBTWg4MlVGaEdJS21NOEJJcWhCY0xKTUhRSGVaNmlXZ1J5NV9XTjViU2dHMktaWUlRbV96MjJZQzFldDFaUQ?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "스타트업레시피",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "구글, 데이터센터 물 사용량 가렸다가 복붙에 들통 - 스타트업레시피",
+   "ts": 1791514825,
+   "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fWXhVTXNyM0FlaGZlMmYxVmh4VDk3MHd5RjBYM3pNcjRSM1FMSG1ObFNoa0tiVkpfek9xYVVkRWZ6dTRWVFFpWXRaWEg1NnlCZGdDRVBPWWYxMkktZ1E?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1767,7 +1777,6 @@
   "18d8e2f2e77d0a17": 1790042975,
   "18dc3db4e6bcdf9a": 1790667616,
   "18e053dda848ca96": 1790295093,
-  "18f0214836ede48a": 1789722621,
   "18f12381bfb67024": 1790153419,
   "18f1a23cb15da429": 1791184220,
   "18f3383ae7124afc": 1789870063,
@@ -3112,7 +3121,6 @@
   "30b875483114dc9d": 1789875319,
   "30c719956fc639a8": 1790834627,
   "30d0c89ad23c5d62": 1790734218,
-  "30d19b43ed9a36b6": 1789722621,
   "30d518eb51c1e1f6": 1791355818,
   "30d639d08682411a": 1790643992,
   "30de04f150dbe2d3": 1790930213,
@@ -10777,7 +10785,6 @@
   "be67ac921941c8a2": 1791247733,
   "be69dc12318e0bbf": 1791451841,
   "be6e58ce1462ca81": 1791443696,
-  "be75fcdc05d65893": 1789722621,
   "be798870e2bc2737": 1790562951,
   "be7d230702e42c18": 1790733331,
   "be8e6e486e535d0e": 1790142019,
@@ -11134,6 +11141,7 @@
   "c53b7ce6d6139444": 1790820617,
   "c53f74f6cf04ebe9": 1790561723,
   "c54afbb4796fba40": 1791018317,
+  "c556af47ff8328e5": 1791537031,
   "c560725d0fdfeb55": 1790823919,
   "c565ca5b767febe6": 1790748619,
   "c568c216db41538f": 1789870063,
@@ -14257,7 +14265,7 @@
  "companies_today": {},
  "day": "2026-10-09",
  "last_clip": 1791531403,
- "last_msg_poll": 1791536966,
+ "last_msg_poll": 1791537280,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14270,7 +14278,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-09 18:09 KST",
+  "last_run": "2026-10-09 18:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
