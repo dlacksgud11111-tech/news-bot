@@ -411,7 +411,28 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 4,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 3,
+   "sec": "재생에너지·ESS",
+   "t": "The Hydrogen Stream: Dutch researchers calculate green H2 costs as low as €7.2/kg",
+   "ts": 1791550249,
+   "u": "https://www.pv-magazine.com/2026/10/09/the-hydrogen-stream-dutch-researchers-calculate-green-h2-costs-as-low-as-e7-2-kg/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "pv magazine Global",
+   "sc": 6,
+   "sec": "재생에너지·ESS",
+   "t": "Prices drive Pakistan’s metered solar, outages drive hidden uptake",
+   "ts": 1791550200,
+   "u": "https://www.pv-magazine.com/2026/10/09/prices-drive-pakistans-metered-solar-outages-drive-hidden-uptake/"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -6305,6 +6326,7 @@
   "6b40c16a9ac00a2a": 1790818527,
   "6b42eed736c8db4c": 1790815220,
   "6b4eca9a816ebf0a": 1791092117,
+  "6b5291d08b97a879": 1791550518,
   "6b5fb58c10e49135": 1790487375,
   "6b60bc05a7ffc605": 1790559622,
   "6b638eac1574cdcb": 1790816717,
@@ -12257,6 +12279,7 @@
   "dd00faa19f0bf7ad": 1790138416,
   "dd08ad753a5a87a6": 1791527968,
   "dd0ba4b6e56512c8": 1791252320,
+  "dd17598a6d0f0c44": 1791550518,
   "dd1a60bb0ad07e25": 1789980916,
   "dd1f84de9ecdf931": 1790773522,
   "dd24c3e5a4ff5735": 1790825718,
@@ -14148,7 +14171,7 @@
  "companies_today": {},
  "day": "2026-10-09",
  "last_clip": 1791546314,
- "last_msg_poll": 1791550462,
+ "last_msg_poll": 1791550768,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14161,7 +14184,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-09 21:54 KST",
+  "last_run": "2026-10-09 21:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
