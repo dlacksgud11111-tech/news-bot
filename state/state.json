@@ -431,6 +431,16 @@
    "t": "Prices drive Pakistan’s metered solar, outages drive hidden uptake",
    "ts": 1791550200,
    "u": "https://www.pv-magazine.com/2026/10/09/prices-drive-pakistans-metered-solar-outages-drive-hidden-uptake/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "금융경제플러스",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "HD건설기계, 북미 데이터센터 전력시장 공략…가스엔진 3900억원 공급 - 금융경제플러스",
+   "ts": 1791450600,
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03allTYWlnb0dPRjBtLXoxeTU1TUZfbFVEOGM1NktfRlpCSGRNQ0ZreU9neGVScHEwejlCdk5jdWtJeWgwMk5yMnRVZUhOaFlleVFYcElGN1dYaDVUUExEeHFJeGpUdjlIQ0c0OA?oc=5"
   }
  ],
  "clip_titles": [],
@@ -820,6 +830,7 @@
   "080d47ae5bfc5e41": 1791351023,
   "080e5c35b327e90f": 1791178527,
   "0821de1624166880": 1790671521,
+  "082412deb3752fb5": 1791552318,
   "0826f73feb10d635": 1790812225,
   "08295cc8c102bb86": 1790003117,
   "08323e5dc4cebe8f": 1790841922,
@@ -14164,7 +14175,7 @@
  "companies_today": {},
  "day": "2026-10-09",
  "last_clip": 1791546314,
- "last_msg_poll": 1791552271,
+ "last_msg_poll": 1791552564,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14177,7 +14188,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-09 22:24 KST",
+  "last_run": "2026-10-09 22:29 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
