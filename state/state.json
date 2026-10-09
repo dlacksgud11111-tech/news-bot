@@ -409,7 +409,18 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 3,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "효성중공업",
+   "n": 1,
+   "s": "핀포인트뉴스",
+   "sc": 14,
+   "sec": "전력기기",
+   "t": "효성중공업, 글로벌 피어보다 낮은 밸류에이션…전력기기 호황 이어진다 - 핀포인트뉴스",
+   "ts": 1791523656,
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95dW9uc0pZU1RISkJvMVdFcnVMS05hWUdXMlA5SUwtSnFPcTB0aWR6cnlsZVBFNmZ1Tm9jTUs4XzdaaEtsQ2ZOeFdWRm5Zd1h0OGpBaVBaaHdlRjUxbWZBV2hoZlZJOEhxM2diY1RBRTRUNEHSAXdBVV95cUxOVHVGRWJ0M3k2QUhWaGU4WXhvUXlUR1NuYjd2TWc2Xzc2dmY0TnFOWXE1TmNsbXg3azBsYWNoQkx1Z3l2UVdDdTVvdDVFTjM1ZVViVVB6aDNoYnlsUGRld0hTdDdZbTJhLWd4UThlZmhwWkZqaXQ5OA?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -9469,6 +9480,7 @@
   "a517901190d3f553": 1790640533,
   "a5189b91b077054e": 1790001429,
   "a51a149120e38175": 1791262516,
+  "a51ad5011a5d803d": 1791524118,
   "a51b058f8a6ea668": 1790839547,
   "a51dc19a304a3b0c": 1790813121,
   "a51fc94a3cc5eea4": 1790146721,
@@ -14348,7 +14360,7 @@
  "companies_today": {},
  "day": "2026-10-09",
  "last_clip": 1791523821,
- "last_msg_poll": 1791524071,
+ "last_msg_poll": 1791524360,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14361,7 +14373,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-09 14:34 KST",
+  "last_run": "2026-10-09 14:39 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
