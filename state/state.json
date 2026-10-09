@@ -411,78 +411,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 4,
- "clip_buffer": [
-  {
-   "co": "효성중공업",
-   "n": 1,
-   "s": "IT타임스",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "효성중공업, 국내 첫 2GW급 HVDC 성능검증 설비 구축 - IT타임스",
-   "ts": 1791529438,
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyOVBDTGJIZmZnQVVPdC0xVzdNVFAycVVLS0hYY2hDVlN5eVY4TExMOC1JTmJXU0VLSEJfdmFaNHpkOHJjYTlEeTRfLV9hd2lxZVdINzk2SkNJSmZhc2NCcnVCajR2a3dC?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "당진시대",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "[김기재 시장 취임 100일 기자회견] 당진에 데이터센터 5곳 추진 중 - 당진시대",
-   "ts": 1791532800,
-   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZdDhMZ2ZyYjFhMkRvbU9fUGtTVURlZlhMMWF0TkdGeFAweGZSSWp6Q3B5ZC1HSW8xcVZsbGxrazN1QkFoaXJmbmRPUXMzMVUyUVZTN3NTWU82bGVhWXhLNENfZVhIdjdpWlow0gFvQVVfeXFMUFFqZk5iYmJ5Q1FKVUVMLTRrZTA1dVN0RmJpckYxVk83NWlMcWlNYnYtX2FQNWhwSDRIeE1EbmgyWE4zR1dQZWZLRU5NMFZteFJPQ1JkckhleHBJQkVQT0ZmdU1tTUwtcklrS3dObkhn?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "매일경제 : 경제",
-   "sc": 0,
-   "sec": "건설·플랜트",
-   "t": "신협 부동산·건설업 대출…연체율 다시 두 자릿수로",
-   "ts": 1791534868,
-   "u": "https://www.mk.co.kr/news/economy/12172456"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "한국경제",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "힘빠진 전력기기…美 수주랠리에도 매출 제자리 - 한국경제",
-   "ts": 1791535406,
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UNVQ3V2hyRzNhUU1NTkxqbXVfN2NBTWg4MlVGaEdJS21NOEJJcWhCY0xKTUhRSGVaNmlXZ1J5NV9XTjViU2dHMktaWUlRbV96MjJZQzFldDFaUQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "스타트업레시피",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "구글, 데이터센터 물 사용량 가렸다가 복붙에 들통 - 스타트업레시피",
-   "ts": 1791514825,
-   "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fWXhVTXNyM0FlaGZlMmYxVmh4VDk3MHd5RjBYM3pNcjRSM1FMSG1ObFNoa0tiVkpfek9xYVVkRWZ6dTRWVFFpWXRaWEg1NnlCZGdDRVBPWWYxMkktZ1E?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 3,
-   "sec": "건설·플랜트",
-   "t": "Finland: BESS acquisition, construction and optimisation news from Usva Energia, Nala Renewables, Centrica and Olana Energy",
-   "ts": 1791537706,
-   "u": "https://www.energy-storage.news/finland-bess-usva-energia-nala-renewables-centrica-olana-energy-acquisition-construction-optimisation-news/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "IEA: Thermal energy storage key to industrial heat electrification that could cut EU gas demand by 35 bcm annually",
-   "ts": 1791537674,
-   "u": "https://www.energy-storage.news/iea-thermal-energy-storage-key-to-industrial-heat-electrification-that-could-cut-eu-gas-demand-by-35-bcm-annually/"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -3811,6 +3740,7 @@
   "3cd1f075868efcea": 1790152520,
   "3cd307a52ca85e38": 1791475249,
   "3cd69f151ecc06ca": 1790570118,
+  "3ce7419e47401eb5": 1791538820,
   "3cecff5e75b93a44": 1790726668,
   "3cee1209fdd94590": 1791380122,
   "3cef9d30b126a4dd": 1790403023,
@@ -6197,7 +6127,6 @@
   "676be87a7b2f8819": 1790125530,
   "676f11dd30b7d39a": 1790768118,
   "6774b8dc70dbb2f5": 1790478323,
-  "6778f6c38acc3397": 1789724420,
   "6779e7223b062c4c": 1790834041,
   "677e66d6050b425c": 1790653090,
   "678739920a688429": 1791270233,
@@ -9672,7 +9601,6 @@
   "a9792b5d0ccff8ae": 1790818527,
   "a979f3fc8676a948": 1789972883,
   "a985e87b85329ee7": 1790031917,
-  "a98d75f457bfe3bb": 1789724420,
   "a98febebee51dfb7": 1791352222,
   "a993f5479c7e0075": 1789958121,
   "a9947b192f3a7905": 1791184220,
@@ -14272,8 +14200,8 @@
  },
  "companies_today": {},
  "day": "2026-10-09",
- "last_clip": 1791531403,
- "last_msg_poll": 1791538782,
+ "last_clip": 1791538820,
+ "last_msg_poll": 1791539067,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14286,7 +14214,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-09 18:39 KST",
+  "last_run": "2026-10-09 18:44 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
