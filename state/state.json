@@ -449,6 +449,16 @@
    "t": "전차 엔진부터 AI 데이터센터 비상전력까지···군산이 HD건설기계 새 거점으로 - 뉴스웨이",
    "ts": 1791519716,
    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jQ0ZVc3ZFR0xPdVJrUnRZYmd1UEYyUlp6eHR2Y2RvbHIyS0QwZkM0NTR3enhQbGhWYUVJdG5Md2VVcnpvTHM2SG5keVB4TVRZR1FxVHlnSEZnQlZVZndQR201TlNfd1hK?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "뉴스핌",
+   "sc": 2,
+   "sec": "데이터센터·AI전력",
+   "t": "[GAM] 오라클이 드러낸 AI 복병 '전력 인허가'...첩첩산중 데이터센터 일정 - 뉴스핌",
+   "ts": 1791445866,
+   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yMkRmbllVXzVnUldCWjNKUWFITkJKMnFpeVVhYVZGSk11TzNPcGFQdDB0V2NFdEFWc2VhbGNKd0xuS0FCRUs1TkZrZFpxVzk1d2I4UkNnOWFMLU81?oc=5"
   }
  ],
  "clip_titles": [],
@@ -5566,7 +5576,6 @@
   "5b1ba853b80421f9": 1790758216,
   "5b227d246390fe96": 1791288930,
   "5b2a863224eb8e2b": 1789720517,
-  "5b387427e407f7af": 1789707317,
   "5b40c5fcfc645d41": 1790818527,
   "5b4d2d2e92c92789": 1791359739,
   "5b4e1f283a29927a": 1790809517,
@@ -6521,7 +6530,6 @@
   "6c50ad1095675409": 1789967119,
   "6c52ad09f16a5790": 1790061315,
   "6c5560d7b229b393": 1790060129,
-  "6c5f59cc69ec2bac": 1789707317,
   "6c5f7b6d8d1ce9ce": 1791442232,
   "6c60e0e8772ee676": 1789893929,
   "6c612d2b19f5c177": 1789988958,
@@ -6777,7 +6785,6 @@
   "70f593c75cc82b58": 1790832316,
   "70f7a4848d22da7d": 1790155818,
   "70f8ecac01483e10": 1791157183,
-  "70fbf2d0f4c52bd1": 1789707317,
   "70ff7964e1cb9334": 1791338726,
   "71010e8432cb623c": 1790744723,
   "7102f91795cefe67": 1790843760,
@@ -6947,6 +6954,7 @@
   "745bc86ef4019d38": 1790123718,
   "746dfaa92f05393a": 1791331051,
   "74754e056a140d6e": 1790693424,
+  "74756e29dd503442": 1791521714,
   "74882541aec98490": 1790750123,
   "748d45f42b76f73a": 1790823919,
   "748d8acbade754ee": 1789977915,
@@ -10160,7 +10168,6 @@
   "b058f72b36c217c7": 1790727810,
   "b0598484b4d6b671": 1790558489,
   "b05fc5be9235474d": 1789993527,
-  "b0664a88f9f5c59e": 1789707317,
   "b06667e745b9b2b2": 1791252320,
   "b07811201a727aef": 1790469496,
   "b07bf8af68d7d01c": 1791356717,
@@ -14444,7 +14451,7 @@
  "companies_today": {},
  "day": "2026-10-09",
  "last_clip": 1791516334,
- "last_msg_poll": 1791521673,
+ "last_msg_poll": 1791521961,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14457,7 +14464,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-09 13:54 KST",
+  "last_run": "2026-10-09 13:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
