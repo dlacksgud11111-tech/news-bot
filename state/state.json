@@ -411,68 +411,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 4,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "European storage inventories on the rise",
-   "ts": 1791539555,
-   "u": "https://www.pv-magazine.com/2026/10/09/european-storage-inventories-on-the-rise/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "Second Yandex data center hit in drone strikes in Russia",
-   "ts": 1791539974,
-   "u": "https://www.datacenterdynamics.com/en/news/second-yandex-data-center-hit-in-drone-strikes-in-russia/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "Energy-Storage.News",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "South Africa pursues 4.6GW of battery storage deployments in Integrated Resource Plan",
-   "ts": 1791541458,
-   "u": "https://www.energy-storage.news/south-africa-pursues-4-6gw-of-battery-storage-deployments-in-integrated-resource-plan/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 4,
-   "sec": "재생에너지·ESS",
-   "t": "Jackery steps into RVs with built-in 2 kW solar and 45 kWh storage",
-   "ts": 1791541859,
-   "u": "https://www.pv-magazine.com/2026/10/09/jackery-steps-into-rvs-with-built-in-2-kw-solar-and-45-kwh-storage/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "Spanish researchers reduce losses in organic solar cells by restricting emission angle",
-   "ts": 1791543936,
-   "u": "https://www.pv-magazine.com/2026/10/09/spanish-researchers-reduce-losses-in-organic-solar-cells-by-restricting-the-emission-angle/"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "DCD",
-   "sc": 0,
-   "sec": "데이터센터·AI전력",
-   "t": "ThisWay Global plans 73MW AI and HPC data center in Bryan, Texas",
-   "ts": 1791544477,
-   "u": "https://www.datacenterdynamics.com/en/news/thisway-global-plans-73mw-ai-and-hpc-data-center-in-bryan-texas/"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -9367,6 +9306,7 @@
   "a4923cfb34ba6b7f": 1790070922,
   "a496445a46b9ff9d": 1790853924,
   "a4980d28309c89d7": 1790818527,
+  "a49962157ef1c031": 1791546314,
   "a49a45f4cf5a535b": 1791349518,
   "a49a962b27f87c22": 1790580361,
   "a49a9c3c4559d734": 1790825425,
@@ -13649,7 +13589,6 @@
   "f5e940c3daa4b00d": 1789950278,
   "f5f11a6cbaf9e83f": 1790933121,
   "f5f2b5f39d363770": 1791416126,
-  "f5f2c4b8cd92de0b": 1789731934,
   "f5f959cf197f62bf": 1790457028,
   "f5fb84262eb8ac7d": 1791267016,
   "f5fbb3b9080d251b": 1790901316,
@@ -14227,8 +14166,8 @@
  },
  "companies_today": {},
  "day": "2026-10-09",
- "last_clip": 1791538820,
- "last_msg_poll": 1791546261,
+ "last_clip": 1791546314,
+ "last_msg_poll": 1791546565,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14241,7 +14180,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-09 20:44 KST",
+  "last_run": "2026-10-09 20:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
