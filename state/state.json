@@ -431,6 +431,16 @@
    "t": "Anthropic-linked $366m data center project filed for in Cedar Creek, Texas",
    "ts": 1791556073,
    "u": "https://www.datacenterdynamics.com/en/news/anthropic-linked-366m-data-center-project-filed-for-in-cedar-creek-texas/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Uncertainty over data center development in Trzebnica, Poland",
+   "ts": 1791558747,
+   "u": "https://www.datacenterdynamics.com/en/news/uncertainty-over-data-center-development-in-trzebnica-poland/"
   }
  ],
  "clip_titles": [],
@@ -867,6 +877,7 @@
   "090d828be2678e59": 1790816419,
   "0910ac90fcbce1c1": 1790125530,
   "0914d536a4f2fea5": 1789977915,
+  "091918f56c0c16d5": 1791559284,
   "091c31c5336c44f8": 1791341603,
   "091ce194fa067355": 1791331618,
   "091d016afda7463f": 1790852721,
@@ -3661,7 +3672,6 @@
   "3b78d36c7c7b3340": 1790921419,
   "3b7a1b2358b20198": 1790922618,
   "3b7ee4286ec25071": 1790823332,
-  "3b826fdd33041830": 1789744587,
   "3b83f8b31423b713": 1791444833,
   "3b882b65709c8dbf": 1791476118,
   "3b9609c32025b981": 1790147295,
@@ -6159,7 +6169,6 @@
   "6855d61d7b0ddfe5": 1790726668,
   "68560aa3431c3e94": 1790478323,
   "6857ffc1309ac13b": 1790939118,
-  "6867bb7ff113b2dc": 1789744587,
   "686b44d2b1b1a15e": 1791466818,
   "686dd56a0788308d": 1790034858,
   "686fe5c603346e2a": 1790586034,
@@ -7067,7 +7076,6 @@
   "79d0699eb28f950a": 1789971751,
   "79d2b94bf97edcf3": 1790925615,
   "79d5bb5522ac08f6": 1791351616,
-  "79e760c832b2bcf2": 1789744587,
   "79ef9dd978c34a45": 1790642222,
   "79efc0be69a70cb2": 1790034282,
   "79f0338d10fd47cb": 1791352819,
@@ -14157,7 +14165,7 @@
  "companies_today": {},
  "day": "2026-10-10",
  "last_clip": 1791554045,
- "last_msg_poll": 1791558944,
+ "last_msg_poll": 1791559531,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14170,7 +14178,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-10 00:15 KST",
+  "last_run": "2026-10-10 00:25 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
