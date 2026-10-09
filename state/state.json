@@ -421,6 +421,16 @@
    "t": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
    "ts": 1791553745,
    "u": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "글로벌이코노믹",
+   "sc": 10,
+   "sec": "전력기기",
+   "t": "AI 데이터센터 전력난 덮친 미국 전력망, 2.1기가와트 신속 연계로 숨통 틔운다 - 글로벌이코노믹",
+   "ts": 1791586459,
+   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY29HcUJfX2thVjItRThkcU5Fcm1VQnAyRkNSZl9kWElfWVl5TGxwcUNualRIS2NWMmhLVUVrVTZ5NWhPRzBLbFF1NHpSdDVWc0NiVjA3a1VRR2N1TFYxT2RMa2VTOHFJLWlRRDZXY0VsSTJQTHp0YU1ZOVpLWEVCM1lzaWNjcGNu?oc=5"
   }
  ],
  "clip_titles": [],
@@ -4241,6 +4251,7 @@
   "45aef44c63706720": 1790040917,
   "45b02dc0062c74f6": 1791444833,
   "45c1ab114ae07361": 1791354917,
+  "45c1ac036e2fc418": 1791586815,
   "45c49019bd27d8b9": 1789870063,
   "45cd129da1c99db4": 1791362124,
   "45d12fdda383a26f": 1790125822,
@@ -14152,7 +14163,7 @@
  "companies_today": {},
  "day": "2026-10-10",
  "last_clip": 1791561317,
- "last_msg_poll": 1791586760,
+ "last_msg_poll": 1791587063,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14165,7 +14176,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-10 07:59 KST",
+  "last_run": "2026-10-10 08:04 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
