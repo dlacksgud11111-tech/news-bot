@@ -421,6 +421,16 @@
    "t": "대한전선, CLV 2척으로 해저케이블 '투 트랙 시공'…'턴키 경쟁력'↑",
    "ts": 1791601200,
    "u": "https://www.etnews.com/20261008000076"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "와우테일",
+   "sc": 6,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터 전력·냉각 인프라 액시엄, 20억달러 투자유치…내년 플렉스서 분사 - 와우테일",
+   "ts": 1791602154,
+   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84RDFaMTl0NlBKa1JmLUFEVXhfaWVqOER2NnlkM1NsN0RuQXRhZG5VbWJLQTFKbXpESlJqYnVOTUVtQ2JTSUczYnNuSV9tX3c?oc=5"
   }
  ],
  "clip_titles": [],
@@ -13028,6 +13038,7 @@
   "ec3de9539c7eddf8": 1789872360,
   "ec4032e692f6a4ee": 1790055317,
   "ec43261e7b94d8f0": 1791224154,
+  "ec475345538d8bb8": 1791602803,
   "ec47effd3e50a64d": 1790816419,
   "ec486364d193a83e": 1789969411,
   "ec4a185bb7331c1f": 1790753132,
@@ -14111,7 +14122,7 @@
  "companies_today": {},
  "day": "2026-10-10",
  "last_clip": 1791598212,
- "last_msg_poll": 1791602475,
+ "last_msg_poll": 1791603051,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14124,7 +14135,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-10 12:21 KST",
+  "last_run": "2026-10-10 12:30 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
