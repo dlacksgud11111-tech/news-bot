@@ -411,7 +411,18 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 0,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "LS일렉트릭",
+   "n": 1,
+   "s": "Naver Blog",
+   "sc": 8,
+   "sec": "전력기기",
+   "t": "송변전 호황·배전시장 개화…LS일렉트릭, 수혜 본격화 : 네이버 블로그 - Naver Blog",
+   "ts": 1791625243,
+   "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVllPTGVEeVpUaDl4R3BlVUNnUU4xZDhNclJ2ajR6bUxHa1ZCcVFBYjcwVjd1RDdVTTlRZzNZd3V0bHFLeXlOeG5KS3RuQXBJUlJqdzdjVDVjOGpmZ0d6OFoyT2xMZW1mVXRQSEV3c0tNSV9jcWRId2tRUVh5N1psMXQxcjdFX0hBbHo0a1BOaw?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -4923,6 +4934,7 @@
   "527a13e6552527c0": 1791389920,
   "527d3c1b1b8792d2": 1790042975,
   "527e4e95ba8700af": 1790370130,
+  "528745eeda4e635d": 1791625612,
   "528c708b134973c3": 1790863523,
   "529250bdd17ebfd5": 1790927918,
   "52972258e185d06f": 1790135428,
@@ -14092,7 +14104,7 @@
  "companies_today": {},
  "day": "2026-10-10",
  "last_clip": 1791623341,
- "last_msg_poll": 1791625287,
+ "last_msg_poll": 1791625860,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14105,7 +14117,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-10 18:41 KST",
+  "last_run": "2026-10-10 18:51 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
