@@ -431,6 +431,16 @@
    "t": "AI 데이터센터 전력·냉각 인프라 액시엄, 20억달러 투자유치…내년 플렉스서 분사 - 와우테일",
    "ts": 1791602154,
    "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84RDFaMTl0NlBKa1JmLUFEVXhfaWVqOER2NnlkM1NsN0RuQXRhZG5VbWJLQTFKbXpESlJqYnVOTUVtQ2JTSUczYnNuSV9tX3c?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "우리일보",
+   "sc": 16,
+   "sec": "전력기기",
+   "t": "HD건설기계, 北美 AI 데이터센터 전력망 뚫었다… 3,900억 규모 엔진 수주 - 우리일보",
+   "ts": 1791604184,
+   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6OWcxa0YzWXNZdmQ1ZHItQ0hIS09tWW9EZTltcXRtaHNQa3VyN1Z0dmZSWDBLM3NzTHpqck1TR0gyWlE1V3QxZ3VENUZWWkk5VVE4bTl1ZzRxTFY3TlAyUnBJdw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -1794,6 +1804,7 @@
   "19fce69d266a0c8a": 1791349518,
   "19ff3de6628a9f21": 1789879816,
   "1a0c6627688ebefe": 1790561130,
+  "1a30c442355e58ee": 1791604519,
   "1a321431cac91138": 1790921419,
   "1a35cfefbc3ba3aa": 1790665217,
   "1a363467ebd626a5": 1791285632,
@@ -14120,7 +14131,7 @@
  "companies_today": {},
  "day": "2026-10-10",
  "last_clip": 1791598212,
- "last_msg_poll": 1791604200,
+ "last_msg_poll": 1791604765,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14133,7 +14144,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-10 12:50 KST",
+  "last_run": "2026-10-10 12:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
