@@ -411,7 +411,18 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 0,
- "clip_buffer": [],
+ "clip_buffer": [
+  {
+   "co": "",
+   "n": 1,
+   "s": "한국공공정책신문",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AI가 대신 일하는 시대 열린다…반도체·데이터센터·안전관리까지 확장된 AI 경쟁 - 한국공공정책신문",
+   "ts": 1791606638,
+   "u": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1vYWE0c29nS0NBdlhKaTZuS0U5UGZRc2NnVGlmTkdDRGJIVnB3TWtLZ05nSDBSTUc4SUJqcnJLY1hNa3c?oc=5"
+  }
+ ],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -1856,6 +1867,7 @@
   "1b8c8d5752aaaec3": 1791352222,
   "1b8cc2892e4eb0f5": 1789891518,
   "1b968d598a41351b": 1791353122,
+  "1b98eae57d8d5a03": 1791607531,
   "1b9e8a078e5ac16b": 1790572220,
   "1ba389539a69c674": 1790668519,
   "1ba9e88abf355a4d": 1790674470,
@@ -14097,7 +14109,7 @@
  "companies_today": {},
  "day": "2026-10-10",
  "last_clip": 1791605422,
- "last_msg_poll": 1791607467,
+ "last_msg_poll": 1791607774,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14110,7 +14122,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-10 13:44 KST",
+  "last_run": "2026-10-10 13:49 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
