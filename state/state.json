@@ -431,6 +431,16 @@
    "t": "AI 데이터센터 확산에 전력·냉각 시장 공략 가속 - 연합뉴스TV",
    "ts": 1791593040,
    "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YdGM1bDBicXIzc24tQzNTTWxmc2NiZXRrRkxsYU96Wm1GZ0ZzUVY0RzZGek9nZEpJNE5kNWlyYktHY3ZENnUyOXd2dWlEd010SUVXbnVsbXcyTldOckhoTzBhSlpkR00?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "이데일리",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "AI 데이터센터 몸값 시험대…엔비디아 투자받은 퍼머스 IPO 철회 - 이데일리",
+   "ts": 1791593161,
+   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUjNYUU84NENlYUZrY0t0VTRra0lnQW5XVTJXRm1PckY5Q3Q0QjRVRVVwTVhQNVhUT2ZaSjZETG83RUZTRkhVOGpSNlNyUWkwUzZVeTg2NHBJd1d6YlRaZTZpVXJyc3RzTy1KdzhvdVl4aE95UF8wejZZLUVTbGpkQw?oc=5"
   }
  ],
  "clip_titles": [],
@@ -8564,6 +8574,7 @@
   "960bc108a4e32b45": 1791276620,
   "9617c69c2080b92d": 1791196557,
   "961b9f9c174e67c4": 1790648426,
+  "961cd36b77c6985c": 1791593720,
   "961fbff81164b9fe": 1789954905,
   "96261888a37eb61a": 1791167944,
   "962e9e048b3f80ba": 1790660118,
@@ -14164,7 +14175,7 @@
  "companies_today": {},
  "day": "2026-10-10",
  "last_clip": 1791590828,
- "last_msg_poll": 1791593670,
+ "last_msg_poll": 1791593971,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14177,7 +14188,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-10 09:54 KST",
+  "last_run": "2026-10-10 09:59 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
