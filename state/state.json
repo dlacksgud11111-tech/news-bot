@@ -411,38 +411,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "대한전선",
-   "n": 1,
-   "s": "속보 - 이티뉴스",
-   "sc": 15,
-   "sec": "전력기기",
-   "t": "대한전선, CLV 2척으로 해저케이블 '투 트랙 시공'…'턴키 경쟁력'↑",
-   "ts": 1791601200,
-   "u": "https://www.etnews.com/20261008000076"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "와우테일",
-   "sc": 6,
-   "sec": "데이터센터·AI전력",
-   "t": "AI 데이터센터 전력·냉각 인프라 액시엄, 20억달러 투자유치…내년 플렉스서 분사 - 와우테일",
-   "ts": 1791602154,
-   "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84RDFaMTl0NlBKa1JmLUFEVXhfaWVqOER2NnlkM1NsN0RuQXRhZG5VbWJLQTFKbXpESlJqYnVOTUVtQ2JTSUczYnNuSV9tX3c?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "우리일보",
-   "sc": 16,
-   "sec": "전력기기",
-   "t": "HD건설기계, 北美 AI 데이터센터 전력망 뚫었다… 3,900억 규모 엔진 수주 - 우리일보",
-   "ts": 1791604184,
-   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6OWcxa0YzWXNZdmQ1ZHItQ0hIS09tWW9EZTltcXRtaHNQa3VyN1Z0dmZSWDBLM3NzTHpqck1TR0gyWlE1V3QxZ3VENUZWWkk5VVE4bTl1ZzRxTFY3TlAyUnBJdw?oc=5"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -14128,8 +14097,8 @@
  },
  "companies_today": {},
  "day": "2026-10-10",
- "last_clip": 1791598212,
- "last_msg_poll": 1791605380,
+ "last_clip": 1791605422,
+ "last_msg_poll": 1791605663,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14142,7 +14111,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-10 13:09 KST",
+  "last_run": "2026-10-10 13:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
