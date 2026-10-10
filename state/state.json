@@ -421,6 +421,16 @@
    "t": "송변전 호황·배전시장 개화…LS일렉트릭, 수혜 본격화 : 네이버 블로그 - Naver Blog",
    "ts": 1791625243,
    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVllPTGVEeVpUaDl4R3BlVUNnUU4xZDhNclJ2ajR6bUxHa1ZCcVFBYjcwVjd1RDdVTTlRZzNZd3V0bHFLeXlOeG5KS3RuQXBJUlJqdzdjVDVjOGpmZ0d6OFoyT2xMZW1mVXRQSEV3c0tNSV9jcWRId2tRUVh5N1psMXQxcjdFX0hBbHo0a1BOaw?oc=5"
+  },
+  {
+   "co": "",
+   "n": 1,
+   "s": "DCD",
+   "sc": 0,
+   "sec": "데이터센터·AI전력",
+   "t": "Cipher extends Barber Lake data center lease commitments to 20 years",
+   "ts": 1791630034,
+   "u": "https://www.datacenterdynamics.com/en/news/cipher-extends-barber-lake-data-center-lease-commitments-to-20-years/"
   }
  ],
  "clip_titles": [],
@@ -12080,6 +12090,7 @@
   "da3f540eba9e51ce": 1791331051,
   "da41393e28aac5f8": 1790677344,
   "da419199b6ed6b20": 1790838638,
+  "da419e06060a8ec8": 1791630614,
   "da42e82eaf4d0f88": 1790145020,
   "da47704ceaf8efa7": 1790122002,
   "da521bd8a3bf82d1": 1790733017,
@@ -14103,7 +14114,7 @@
  "companies_today": {},
  "day": "2026-10-10",
  "last_clip": 1791623341,
- "last_msg_poll": 1791630577,
+ "last_msg_poll": 1791630864,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14116,7 +14127,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-10 20:09 KST",
+  "last_run": "2026-10-10 20:14 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
