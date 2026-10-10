@@ -411,28 +411,7 @@
   "fe7b17c162f91919": 1790498127
  },
  "alerted_today": 0,
- "clip_buffer": [
-  {
-   "co": "",
-   "n": 1,
-   "s": "Naver Blog",
-   "sc": 12,
-   "sec": "전력기기",
-   "t": "[2026 한-미 전력망 뉴욕포럼] K-에너지 쇼케이스…‘바다 위 데이터센터·원전 유지보수·정비 역량’ 美 조준 - Naver Blog",
-   "ts": 1791592407,
-   "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeUsyOWI2NU5uUDhHODBGRXR6Z3pvYTZ3c00xQW1zbnI0QmRmZThKMDFsajZQajRUeFRONWFRaTU5ZjlnMjRHMVktYURISUJrSDFvaFgzWTRuNVFwQlFwbUJoV2NnSEVpdFRROFhnZU9qdHRPcmZLb0J1VmF3M3luLWxIMlZQdG5TT3lmY3dnWQ?oc=5"
-  },
-  {
-   "co": "",
-   "n": 1,
-   "s": "pv magazine Global",
-   "sc": 2,
-   "sec": "재생에너지·ESS",
-   "t": "More than 70% of announced U.S. solar manufacturing expansion plans yet to be financed",
-   "ts": 1791615600,
-   "u": "https://www.pv-magazine.com/2026/10/10/more-than-70-of-announced-u-s-solar-manufacturing-expansion-plans-yet-to-be-financed/"
-  }
- ],
+ "clip_buffer": [],
  "clip_titles": [],
  "clipped": {
   "00006de6a8e72658": 1790852431,
@@ -3612,7 +3591,6 @@
   "3ac73f680eb089e1": 1790038892,
   "3accc8f5b05f5977": 1791148356,
   "3ad5f173c970c98f": 1790955660,
-  "3ad5f78eb8e323a4": 1789809020,
   "3ad9f59a43c5e06c": 1791247733,
   "3ae720b6780d769d": 1790817021,
   "3aeb6b8612ee3284": 1790668519,
@@ -7746,6 +7724,7 @@
   "86fd3274f0d54189": 1790726668,
   "87056766b748714a": 1790899820,
   "87073189d6346fc7": 1790843760,
+  "870e453f1f2fd12d": 1791623341,
   "871250d8d44c294e": 1789916965,
   "8714a7c62330dae9": 1790040051,
   "8717a07d0c06f9d5": 1790579195,
@@ -8066,6 +8045,7 @@
   "8d003de92a480936": 1791504318,
   "8d00531bb07264c3": 1791448898,
   "8d094ac668a2fe60": 1790744723,
+  "8d0e20c5a54caaf9": 1791623341,
   "8d133d50abbe6f44": 1790008218,
   "8d14fcaca7b354be": 1789886351,
   "8d175e7b721f976f": 1791353122,
@@ -14110,8 +14090,8 @@
  },
  "companies_today": {},
  "day": "2026-10-10",
- "last_clip": 1791613839,
- "last_msg_poll": 1791623011,
+ "last_clip": 1791623341,
+ "last_msg_poll": 1791623592,
  "last_weekly": 1791500400.0,
  "paused": false,
  "posted_today": 0,
@@ -14124,7 +14104,7 @@
   "e41c64521cc66a71": 1790633432
  },
  "stats": {
-  "last_run": "2026-10-10 18:03 KST",
+  "last_run": "2026-10-10 18:13 KST",
   "total_posted": 7
  },
  "tg_offset": 371065798,
