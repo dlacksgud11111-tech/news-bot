@@ -12,6 +12,7 @@ DM 에 넣는 세 가지 모양:
 from __future__ import annotations
 
 import re
+from urllib.parse import urlparse
 
 import vault
 
@@ -93,7 +94,9 @@ def save_card(card: dict, url: str, sector: str, tags: list[str], memo: str,
         "## 인용할 만한 문장",
     ]
     quotes = [q for q in card.get("quotes") or [] if q.strip()]
-    who = origin or src
+    # 인용 출처: 채널명이 있으면 그것, 없으면 매체 도메인 + 수집일 (예: yna.co.kr, 2026-10-12)
+    host = urlparse(url).netloc.removeprefix("www.").removeprefix("m.") if url else ""
+    who = f"{origin or host or src}, {t:%Y-%m-%d}"
     lines += [f'> "{q.strip().strip(chr(34) + "“”")}" — {who}' for q in quotes] or ["(원문에서 그대로 옮길 만한 문장 없음)"]
     lines += [
         "",
