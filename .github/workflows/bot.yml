@@ -39,6 +39,9 @@ jobs:
           TELEGRAM_CHAT_ID_CLIP: ${{ secrets.TELEGRAM_CHAT_ID_CLIP }}
           TELEGRAM_CHAT_ID_WEEKLY: ${{ secrets.TELEGRAM_CHAT_ID_WEEKLY }}
           TELEGRAM_CHAT_ID_SUMMARY: ${{ secrets.TELEGRAM_CHAT_ID_SUMMARY }}
+          # 옵시디언 위키(비공개 저장소). 없으면 위키 저장만 건너뛴다.
+          VAULT_REPO: ${{ secrets.VAULT_REPO }}
+          VAULT_TOKEN: ${{ secrets.VAULT_TOKEN }}
         # 이 단계가 뉴스 수집과 수신 메시지를 함께 처리합니다.
         # 이어지는 'Listen for messages' 단계와 한 짝입니다.
         run: python src/main.py
@@ -59,6 +62,8 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TELEGRAM_CHAT_ID_SUMMARY: ${{ secrets.TELEGRAM_CHAT_ID_SUMMARY }}
+          VAULT_REPO: ${{ secrets.VAULT_REPO }}
+          VAULT_TOKEN: ${{ secrets.VAULT_TOKEN }}
         run: |
           end=$(( $(date +%s) + 240 ))
           while [[ $(date +%s) -lt $end ]]; do

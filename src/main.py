@@ -24,11 +24,13 @@ from datetime import datetime, timedelta
 sys.path.insert(0, str(Path(__file__).parent))
 
 import alerts  # noqa: E402
+import archive  # noqa: E402
 import clipping  # noqa: E402
 import extract  # noqa: E402
 import scoring  # noqa: E402
 import sources  # noqa: E402
 import tg  # noqa: E402
+import vault  # noqa: E402
 import weekly  # noqa: E402
 from store import Store, now_kst, url_key  # noqa: E402
 from summarize import Summarizer  # noqa: E402
@@ -60,8 +62,15 @@ def load_dotenv(path: Path) -> int:
 
 HELP = """<b>리서치 봇</b>
 
-기사 링크를 여기에 넣으면 번역·요약해서 <b>📝 기사 요약</b> 채널에 올립니다.
-(이 방은 링크를 넣는 입력창입니다)
+여기가 입력창입니다. 넣은 것은 📝 기사 요약 채널과 옵시디언 위키에 함께 저장됩니다.
+
+• <b>링크</b> → 요약 카드 + 위키 아카이브
+• <b>다른 채널 글 전달</b> → 본문으로 요약 + 위키 아카이브
+• <b>#태그·메모</b>를 같이 쓰면 그대로 반영
+  예) <code>#원전 웨스팅하우스 밸류 근거 https://…</code>
+  섹터: #건설 #유틸리티 #원전 #반도체 #IT
+  개인: #여행 #일정 #월급 (요약 없이 그 폴더에 저장)
+• 링크 없는 메모 → 위키 메모함에 저장
 
 /status — 오늘 발행 수, 큐, 일시정지 상태
 /pause — 자동 발행 중지 (링크 정리는 계속 됨)
@@ -109,9 +118,22 @@ def weekly_status(store: Store, cfg: dict) -> str:
     return f"{due:%m/%d %H시} 마감분 대기 중"
 
 
-def summarize_and_render(sm: Summarizer, item: dict, cfg: dict, mode: str):
-    """기사 → (텔레그램 메시지, 카드). 버려야 하면 (None, 카드)."""
+def summarize_and_render(sm: Summarizer, item: dict, cfg: dict, mode: str,
+                         body_override: str | None = None):
+    """기사 → (텔레그램 메시지, 카드). 버려야 하면 (None, 카드).
+
+    body_override: 텔레그램에서 '전달'된 글처럼 본문을 이미 손에 쥔 경우.
+    링크를 열지 않고 그 글을 그대로 요약한다.
+    """
     limits = cfg.get("limits") or {}
+    if body_override is not None:
+        card = sm.run(item, body_override[: limits.get("article_max_chars", 12000)],
+                      mode=mode, body_ok=True)
+        if not card:
+            return None, None
+        card["_body_ok"] = True
+        return tg.render(card, item), card
+
     url = extract.resolve(item["link"])
     item = dict(item, link=url)
 
@@ -151,7 +173,8 @@ def handle_messages(bot: tg.Telegram, store: Store, sm: Summarizer, cfg: dict) -
         msg = u.get("message") or {}
         if str(msg.get("chat", {}).get("id")) != bot.chat_id:
             continue  # 남이 보낸 건 무시
-        text = (msg.get("text") or "").strip()
+        # 사진·파일을 전달하면 본문이 caption 에 들어 있다
+        text = (msg.get("text") or msg.get("caption") or "").strip()
         if not text:
             continue
 
@@ -168,7 +191,8 @@ def handle_messages(bot: tg.Telegram, store: Store, sm: Summarizer, cfg: dict) -
                 f"자동 발행: {'⏸ 중지' if store.paused else '▶️ 작동중'}\n"
                 f"누적 발행: {d['stats'].get('total_posted', 0)}건\n"
                 f"마지막 실행: {d['stats'].get('last_run', '-')}\n"
-                f"주간 리포트: {weekly_status(store, cfg)}"
+                f"주간 리포트: {weekly_status(store, cfg)}\n"
+                f"옵시디언 저장: {'켜짐' if vault.enabled() else '꺼짐 (VAULT_REPO/VAULT_TOKEN 없음)'}"
             )
             continue
         if cmd == "/pause":
@@ -180,33 +204,90 @@ def handle_messages(bot: tg.Telegram, store: Store, sm: Summarizer, cfg: dict) -
             bot.send("▶️ 자동 발행을 재개합니다.")
             continue
 
-        url = extract.find_url(text)
-        if not url:
-            bot.send("링크를 찾지 못했습니다. 기사 URL을 포함해서 보내주세요. (/help)")
-            continue
+        handle_input(bot, store, sm, cfg, msg, text)
 
+
+def handle_input(bot: tg.Telegram, store: Store, sm: Summarizer, cfg: dict,
+                 msg: dict, text: str) -> None:
+    """DM 에 들어온 링크·전달글·메모 하나를 처리한다.
+
+    텔레그램 📝 기사 요약 채널로 카드를 보내는 것은 예전과 같고, 볼트가 설정돼
+    있으면 같은 카드를 옵시디언 아카이브에도 저장한다.
+    """
+    origin, fwd_link = archive.forward_info(msg)
+    tags, memo = archive.parse(text)
+    url = extract.find_url(text)
+    kind, folder = archive.route(tags)
+
+    # 1) 개인 태그 (#여행 #일정 #월급) — 요약하지 않고 그대로 쌓는다
+    if kind == "personal":
+        path = archive.save_personal(folder, text, url or fwd_link, memo if not origin else text[:200])
+        bot.send(f"📥 {folder}에 저장했습니다." if path else "⚠️ 옵시디언 저장 실패 (볼트 설정 확인: /status)")
+        return
+
+    # 2) 전달된 글 — 본문이 메시지에 있으므로 링크를 열 필요가 없다.
+    #    단, 짧은 전달글(링크 한 줄 + 코멘트)은 그 링크를 여는 편이 낫다.
+    if origin and (len(memo) >= 150 or not url):
+        log.info("전달글 요청: %s (%d자)", origin, len(text))
+        bot.send("⏳ 정리 중…")
+        first = memo.split("。")[0].split(". ")[0][:80]
+        item = {"title": first, "link": fwd_link or url or "", "source": origin,
+                "published": None, "summary": ""}
+        rendered, card = summarize_and_render(sm, item, cfg, mode="ondemand", body_override=text)
+        _deliver(bot, store, rendered, card, item, tags, memo="", origin=origin,
+                 src_type="텔레그램", mark_url=None)
+        return
+
+    # 3) 링크 — 예전과 같은 요약 + 볼트 저장
+    if url:
         log.info("온디맨드 요청: %s", url)
         bot.send("⏳ 정리 중…")
-        item = {"title": "", "link": url, "source": "", "published": None, "summary": ""}
+        item = {"title": "", "link": url, "source": "", "published": None,
+                "summary": "", "memo": memo}
         rendered, card = summarize_and_render(sm, item, cfg, mode="ondemand")
-        if rendered:
-            # 요약 카드는 전용 채널에 쌓고, DM 은 입력창으로만 쓴다.
-            # 채널을 아직 안 만들었으면(값 없음) 여기 DM 으로 그대로 보낸다 —
-            # 없는 채널을 가리키며 '올렸습니다' 라고 거짓말하지 않기 위해서다.
-            to = "summary" if bot.channels.get("summary") else None
-            bot.send(rendered, channel=to)
-            warn = "" if card.get("_body_ok") else (
-                "\n⚠️ 본문을 제대로 못 읽었습니다 (유료 기사·봇 차단·삭제된 페이지, "
-                "또는 관련뉴스 카드만 잡힌 경우). 카드가 얕거나 제목과 어긋나면 "
-                "이 때문이니 원문을 한 번 확인해 주세요."
-            )
-            if to:
-                bot.send("✅ 📝 기사 요약 채널에 올렸습니다." + warn)
-            elif warn:
-                bot.send(warn.strip())
-            store.mark(url, "")  # 같은 기사가 자동 피드로 또 오지 않게
-        else:
-            bot.send("❌ 정리 실패. 본문을 못 읽었거나(유료 기사) 모델 호출이 실패했습니다.")
+        _deliver(bot, store, rendered, card, dict(item, link=extract.resolve(url)), tags,
+                 memo=memo, origin=origin, src_type="", mark_url=url)
+        return
+
+    # 4) 링크도 전달도 아닌 그냥 메모
+    path = archive.save_memo(text, tags)
+    bot.send("📝 메모로 저장했습니다. (밤 정리 때 자리를 찾아 넣습니다)" if path else
+             "링크를 찾지 못했습니다. 기사 URL을 포함해서 보내주세요. (/help)")
+
+
+def _deliver(bot, store, rendered, card, item, tags, memo, origin, src_type, mark_url) -> None:
+    if not rendered:
+        bot.send("❌ 정리 실패. 본문을 못 읽었거나(유료 기사) 모델 호출이 실패했습니다.")
+        if vault.enabled() and (item.get("link") or memo):
+            archive.save_memo(f"(요약 실패) {item.get('link', '')} {memo}", tags)
+        return
+    # 요약 카드는 전용 채널에 쌓고, DM 은 입력창으로만 쓴다.
+    # 채널을 아직 안 만들었으면(값 없음) 여기 DM 으로 그대로 보낸다 —
+    # 없는 채널을 가리키며 '올렸습니다' 라고 거짓말하지 않기 위해서다.
+    to = "summary" if bot.channels.get("summary") else None
+    bot.send(rendered, channel=to)
+
+    _, sector = archive.route(tags, card.get("sector", ""))
+    saved = archive.save_card(card, item.get("link", ""), sector, tags, memo,
+                              origin=origin, src_type=src_type)
+
+    notes = []
+    if to:
+        notes.append("✅ 📝 기사 요약 채널에 올렸습니다.")
+    if saved:
+        notes.append(f"🗂 옵시디언 <b>{sector}</b> 아카이브에 저장했습니다.")
+    elif vault.enabled():
+        notes.append("⚠️ 옵시디언 저장 실패 — 요약 채널에는 올라갔습니다.")
+    if not card.get("_body_ok"):
+        notes.append(
+            "⚠️ 본문을 제대로 못 읽었습니다 (유료 기사·봇 차단·삭제된 페이지, "
+            "또는 관련뉴스 카드만 잡힌 경우). 카드가 얕거나 제목과 어긋나면 "
+            "이 때문이니 원문을 한 번 확인해 주세요."
+        )
+    if notes:
+        bot.send("\n".join(notes))
+    if mark_url:
+        store.mark(mark_url, "")  # 같은 기사가 자동 피드로 또 오지 않게
 
 
 # ---------------------------------------------------------------- 모드 A+B
@@ -462,7 +543,11 @@ def main() -> int:
                 log.info("일시정지 상태 — 자동 발행 건너뜀")
             else:
                 # 피드는 한 번만 읽고 알람·클리핑·(선택)AI선별이 나눠 쓴다
-                items = sources.collect(cfg)
+                # 알람·클리핑·AI선별이 전부 꺼져 있으면 피드를 읽을 이유가 없다
+                # (주간 리포트는 자기 소스를 따로 읽는다)
+                need_feeds = any((cfg.get(k) or {}).get("enabled", d) for k, d in
+                                 (("alerts", True), ("clipping", True), ("curation", False)))
+                items = sources.collect(cfg) if need_feeds else []
                 run_alerts(bot, store, cfg, items)
                 run_clipping(bot, store, cfg, items)
                 run_weekly(bot, store, cfg)

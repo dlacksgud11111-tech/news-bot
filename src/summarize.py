@@ -144,7 +144,7 @@ emoji   : 기사 주제에 맞는 것 하나.
           ⚛️ 원전·SMR   ⚡ 전력·유틸리티·요금   🔌 전력기기·송배전·케이블
           🏗️ 건설·플랜트·EPC   ☀️ 재생에너지   🔋 배터리·ESS·수소
           💾 데이터센터·AI 전력   🏭 제조·공장 투자   📊 실적·시장·정책
-          🏠 부동산
+          🏠 부동산   🖥️ 반도체·IT
 lead    : 한 줄. 명사형. 제목을 보완하는 가장 중요한 사실 한두 개.
 details : **3~5개.** 각 항목 한 문장, 40~100자. 두 문장은 꼭 필요할 때만.
           **자리표시자를 쓰지 마라** — "details2 placeholder", "항목 2", "TBD"
@@ -152,6 +152,15 @@ details : **3~5개.** 각 항목 한 문장, 40~100자. 두 문장은 꼭 필요
           (예: "Apex의 9월 16일 발표 기준, …"). ondemand 면 마지막 항목은
           반드시 "시사점: " 으로 시작한다.
 tags    : 2~4개. 메시지에는 표시되지 않지만 분류용으로 채운다.
+sector  : 아래 중 하나. 개인 위키의 폴더를 정한다.
+          건설(건설사·해외건설·주택·부동산·데이터센터 건설) / 유틸리티(전력기기·송배전·
+          한전·전력수요·재생에너지) / 원전(대형원전·SMR·원전 수출·핵연료) /
+          반도체(메모리·파운드리·패키징·장비·소재) / IT(전자부품·세트·디스플레이·
+          빅테크·AI 서비스) / 기타(그 밖)
+companies : 기사에 나온 상장사·주요 기업명 0~5개. 한국 독자에게 익숙한 표기로.
+quotes  : 나중에 리포트에 인용할 만한 문장 0~2개. **원문에서 한 글자도 바꾸지 말고
+          그대로** 옮긴다(영문 기사는 영문 그대로). 발언·수치·전망이 담긴 문장을
+          고른다. 마땅한 문장이 없으면 빈 배열. 요약문을 넣지 마라.
 """
 
 SCHEMA = {
@@ -165,14 +174,18 @@ SCHEMA = {
         "title": {"type": "string"},
         "emoji": {
             "type": "string",
-            "enum": ["⚛️", "⚡", "🔌", "🏗️", "☀️", "🔋", "💾", "🏭", "📊", "🏠"],
+            "enum": ["⚛️", "⚡", "🔌", "🏗️", "☀️", "🔋", "💾", "🏭", "📊", "🏠", "🖥️"],
         },
         "lead": {"type": "string"},
         "details": {"type": "array", "items": {"type": "string"}},
         "tags": {"type": "array", "items": {"type": "string"}},
+        "sector": {"type": "string",
+                   "enum": ["건설", "유틸리티", "원전", "반도체", "IT", "기타"]},
+        "companies": {"type": "array", "items": {"type": "string"}},
+        "quotes": {"type": "array", "items": {"type": "string"}},
     },
     "required": ["publish", "importance", "reject_reason", "title", "emoji",
-                 "lead", "details", "tags"],
+                 "lead", "details", "tags", "sector", "companies", "quotes"],
     "additionalProperties": False,
 }
 
@@ -245,6 +258,11 @@ class Summarizer:
                 "제목의 핵심 사건을 1번에 두고, 메커니즘을 풀고, "
                 "마지막 항목은 '시사점: ' 으로 시작해라."
             )
+            if item.get("memo"):
+                parts.append(
+                    f"\n[사용자 메모] {item['memo']}\n"
+                    "사용자가 이 글을 저장한 이유다. 이 관점과 관련된 사실·숫자를 빠뜨리지 마라."
+                )
         else:
             parts.append("\n[mode=feed] 위 발행 판단 기준에 따라 publish 와 importance 를 정해라.")
 

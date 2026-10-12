@@ -74,7 +74,8 @@ channels:
 #  알람이 너무 적으면 words 를 늘리고, 너무 많으면 require_company 를 켜세요.
 # ============================================================
 alerts:
-  enabled: true
+  # 2026-10-12 사용 중지 (⚡ 전력 알람 채널을 더 보지 않음). 되살리려면 true.
+  enabled: false
   max_per_run: 5
   max_per_day: 30
   cooldown_hours: 4      # 같은 회사의 같은 유형 사건은 이 시간 안에 한 번만.
@@ -112,7 +113,9 @@ alerts:
 #     매 실행마다 버퍼에 쌓고, interval_hours 마다 한 번에 보냅니다.
 # ============================================================
 clipping:
-  enabled: true
+  # 2026-10-12 사용 중지 (📰 시간별 뉴스 클리핑 채널을 더 보지 않음).
+  # 아침 데일리 클리핑(News-Clipper)으로 충분. 되살리려면 true.
+  enabled: false
   interval_hours: 2      # 몇 시간마다 묶어 보낼지
   max_items: 40          # 한 번에 보낼 최대 건수. 훑을 수 있는 분량으로 잡으세요.
   max_per_sector: 8      # 섹터 하나가 목록을 독차지하지 않게 하는 상한
