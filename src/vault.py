@@ -58,8 +58,12 @@ def _url(path: str) -> str:
     return f"{API}/repos/{os.environ['VAULT_REPO']}/contents/{quote(path, safe='/')}"
 
 
-def put(path: str, content: str, message: str, append: bool = False) -> bool:
-    """파일을 만들거나(append=False 면 덮어씀) 끝에 이어 붙인다. 실패해도 예외를 던지지 않는다."""
+def put(path: str, content: str, message: str, append: bool = False,
+        header: str = "") -> bool:
+    """파일을 만들거나(append=False 면 덮어씀) 끝에 이어 붙인다. 실패해도 예외를 던지지 않는다.
+
+    header: append 로 새 파일을 만들 때만 맨 앞에 붙일 머리말.
+    """
     if not enabled():
         return False
     for attempt in range(4):
@@ -71,7 +75,10 @@ def put(path: str, content: str, message: str, append: bool = False) -> bool:
                 if append:
                     old = base64.b64decode(r.json()["content"]).decode("utf-8")
                     body = old.rstrip("\n") + "\n" + content
-            elif r.status_code != 404:
+            elif r.status_code == 404:
+                if append and header:
+                    body = header + content
+            else:
                 log.warning("볼트 읽기 실패 %s: %s", r.status_code, r.text[:200])
                 return False
             payload = {"message": message,

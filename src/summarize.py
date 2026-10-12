@@ -327,3 +327,95 @@ class Summarizer:
             "out": resp.usage.output_tokens,
         }
         return data
+
+
+# ---------------------------------------------------------------- 긴 글 (블로그·장문 전달글)
+
+LONG_SYSTEM = """\
+너는 증권사 애널리스트의 개인 위키를 위해 긴 글(블로그·장문 리포트형 글)을 정리한다.
+독자는 IT·반도체·전력인프라·원전·건설을 보는 애널리스트 한 명이다. 지금 바로 읽을 요약이
+아니라, **몇 달 뒤 이 주제로 공부를 다시 시작하거나 리포트를 쓸 때 출발점이 될 정리본**이다.
+그래서 짧게 줄이기보다 글의 논리 구조와 근거를 보존하는 것이 목적이다.
+
+## 절대 규칙
+1. 글에 없는 사실·숫자를 만들지 마라. 숫자·날짜·회사명은 원문 그대로.
+2. 글쓴이의 주장과 객관적 사실을 구분하라. 주장은 "글쓴이는 …라고 봄" 처럼 쓴다.
+3. 영문 글은 한국어로 정리하되 quotes 는 원문 언어 그대로 둔다.
+4. 개조식, 명사형 종결("…확대", "…전망 제시"). "~했다/~이다/~합니다" 로 끝내지 마라.
+
+## 출력
+title    : 글의 핵심 주장이 드러나는 제목, 25~45자.
+sector   : 건설 / 유틸리티 / 원전 / 반도체 / IT / 기타 중 하나.
+thesis   : 글 전체의 핵심 논지 1~2문장.
+outline  : 글의 흐름을 따라 섹션별 요약 3~8개. 각 항목은 "소제목 — 내용" 형식, 60~200자.
+           글이 원래 나눈 단락·소제목을 최대한 따른다.
+evidence : 논지를 받치는 근거(데이터·사례·인용된 발표) 2~6개.
+numbers  : 글에 나온 주요 수치. 각 {item, value, when}. when 을 모르면 빈 문자열. 최대 12개.
+risks    : 글이 언급한 리스크·반론·불확실성. 글에 없으면 빈 배열 (지어내지 마라).
+quotes   : 나중에 리포트에 그대로 인용할 만한 문장 3~5개. **한 글자도 바꾸지 말고** 원문 그대로.
+companies: 언급된 상장사·주요 기업 0~8개.
+tags     : 3~6개.
+"""
+
+LONG_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "title": {"type": "string"},
+        "sector": {"type": "string", "enum": ["건설", "유틸리티", "원전", "반도체", "IT", "기타"]},
+        "thesis": {"type": "string"},
+        "outline": {"type": "array", "items": {"type": "string"}},
+        "evidence": {"type": "array", "items": {"type": "string"}},
+        "numbers": {"type": "array", "items": {
+            "type": "object",
+            "properties": {"item": {"type": "string"}, "value": {"type": "string"},
+                           "when": {"type": "string"}},
+            "required": ["item", "value", "when"],
+            "additionalProperties": False,
+        }},
+        "risks": {"type": "array", "items": {"type": "string"}},
+        "quotes": {"type": "array", "items": {"type": "string"}},
+        "companies": {"type": "array", "items": {"type": "string"}},
+        "tags": {"type": "array", "items": {"type": "string"}},
+    },
+    "required": ["title", "sector", "thesis", "outline", "evidence", "numbers",
+                 "risks", "quotes", "companies", "tags"],
+    "additionalProperties": False,
+}
+
+
+def run_long(self, item: dict, body: str) -> dict | None:
+    """긴 글 → 위키용 정리본. 텔레그램 카드(run)와 따로 한 번 더 부른다. 실패하면 None."""
+    parts = [f"제목: {item.get('title') or '(없음)'}",
+             f"출처: {item.get('source') or '(불명)'}",
+             f"URL: {item.get('link') or '(없음)'}"]
+    if item.get("memo"):
+        parts.append(f"[사용자 메모] {item['memo']} — 이 관점과 관련된 내용을 빠뜨리지 마라.")
+    parts.append("\n본문:\n" + body)
+    try:
+        resp = self.client.messages.create(
+            model=self.od_model,
+            max_tokens=12000,
+            system=LONG_SYSTEM,
+            messages=[{"role": "user", "content": "\n".join(parts)}],
+            output_config={
+                "effort": self.od_effort,
+                "format": {"type": "json_schema", "schema": LONG_SCHEMA},
+            },
+        )
+    except (anthropic.APIStatusError, anthropic.APIConnectionError) as e:
+        log.error("긴 글 정리 실패: %s", e)
+        return None
+    if resp.stop_reason == "refusal":
+        return None
+    text = next((b.text for b in resp.content if b.type == "text"), None)
+    try:
+        data = json.loads(text) if text else None
+    except json.JSONDecodeError:
+        log.error("긴 글 JSON 파싱 실패: %s", (text or "")[:200])
+        return None
+    if not data or len(data.get("outline") or []) < 2:
+        return None
+    return data
+
+
+Summarizer.run_long = run_long

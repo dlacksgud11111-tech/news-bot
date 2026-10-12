@@ -538,3 +538,13 @@ blocklist:
   - sponsored
   - webinar
   - press release distribution
+
+# ============================================================
+#  저녁 일기 — 매일 이 시각이 지난 첫 실행에 DM 으로 "오늘 뭐 했어?" 를 묻는다.
+#  답(답장, 또는 질문 뒤 새벽 4시 전까지 보낸 링크 없는 글)은
+#  MyWiki 30_Personal/일정관리/YYYY-MM-DD.md 에 쌓인다. 끄려면 enabled: false.
+# ============================================================
+diary:
+  enabled: true
+  hour: 21
+  minute: 30

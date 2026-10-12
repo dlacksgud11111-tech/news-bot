@@ -26,6 +26,19 @@ HEADERS = {
 URL_RE = re.compile(r"https?://[^\s<>\"'()]+")
 
 
+_NAVER_BLOG = re.compile(r"https?://(?:m\.)?blog\.naver\.com/([A-Za-z0-9_-]+)/(\d+)")
+_NAVER_BLOG_Q = re.compile(r"blogId=([A-Za-z0-9_-]+).*?logNo=(\d+)")
+
+
+def blog_url(url: str) -> str:
+    """네이버 블로그는 본문이 iframe 안에 있어서 PC 주소로는 본문을 못 읽는다.
+    모바일 주소(m.blog.naver.com/아이디/글번호)로 바꾸면 본문이 페이지에 바로 실린다."""
+    m = _NAVER_BLOG.match(url or "") or (_NAVER_BLOG_Q.search(url or "") if "blog.naver" in (url or "") else None)
+    if m:
+        return f"https://m.blog.naver.com/{m.group(1)}/{m.group(2)}"
+    return url
+
+
 def find_url(text: str) -> str | None:
     m = URL_RE.search(text or "")
     return m.group(0).rstrip(".,)]") if m else None

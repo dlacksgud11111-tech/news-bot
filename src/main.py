@@ -70,6 +70,8 @@ HELP = """<b>리서치 봇</b>
   예) <code>#원전 웨스팅하우스 밸류 근거 https://…</code>
   섹터: #건설 #유틸리티 #원전 #반도체 #IT
   개인: #여행 #일정 #월급 (요약 없이 그 폴더에 저장)
+• <b>블로그·긴 전달글</b> → 위키엔 긴 정리본 + 원문 사본
+• <b>일기</b> → 매일 21:30 질문에 답장 (또는 #일기 붙여서 아무 때나)
 • 링크 없는 메모 → 위키 메모함에 저장
 
 /status — 오늘 발행 수, 큐, 일시정지 상태
@@ -219,6 +221,14 @@ def handle_input(bot: tg.Telegram, store: Store, sm: Summarizer, cfg: dict,
     url = extract.find_url(text)
     kind, folder = archive.route(tags)
 
+    # 0) 일기 — 저녁 질문(📓)에 답장했거나, #일기 를 붙였거나, 질문 뒤 새벽 4시 전까지 보낸 그냥 글
+    replied = ((msg.get("reply_to_message") or {}).get("text") or "").startswith("📓")
+    window = time.time() < float(store.data.get("diary_open_until") or 0)
+    if not origin and ("일기" in tags or replied or (window and not url and not tags)):
+        path = archive.save_diary(memo if "일기" in tags else text)
+        bot.send("📓 오늘 일기에 적어뒀어요." if path else "⚠️ 일기 저장 실패 (볼트 설정 확인: /status)")
+        return
+
     # 1) 개인 태그 (#여행 #일정 #월급) — 요약하지 않고 그대로 쌓는다
     if kind == "personal":
         path = archive.save_personal(folder, text, url or fwd_link, memo if not origin else text[:200])
@@ -229,14 +239,20 @@ def handle_input(bot: tg.Telegram, store: Store, sm: Summarizer, cfg: dict,
     #    단, 짧은 전달글(링크 한 줄 + 코멘트)은 그 링크를 여는 편이 낫다.
     if origin and (len(memo) >= 150 or not url):
         log.info("전달글 요청: %s (%d자)", origin, len(text))
-        bot.send("⏳ 정리 중…")
+        bot.send("⏳ 정리 중…" if len(text) < LONG_CHARS else "⏳ 긴 글이라 정리본까지 만드는 중… (1분 정도)")
         first = memo.split("。")[0].split(". ")[0][:80]
         item = {"title": first, "link": fwd_link or url or "", "source": origin,
                 "published": None, "summary": ""}
         rendered, card = summarize_and_render(sm, item, cfg, mode="ondemand", body_override=text)
+        long = sm.run_long(item, text) if rendered and len(text) >= LONG_CHARS else None
         _deliver(bot, store, rendered, card, item, tags, memo="", origin=origin,
-                 src_type="텔레그램", mark_url=None)
+                 src_type="텔레그램", mark_url=None, long=long, raw=text if long else None)
         return
+
+    # 3-1) 블로그 — 텔레그램엔 같은 짧은 카드, 위키엔 긴 정리본 + 원문 사본
+    if url and vault.source_type(url) == "블로그":
+        if handle_blog(bot, store, sm, cfg, url, tags, memo):
+            return
 
     # 3) 링크 — 예전과 같은 요약 + 볼트 저장
     if url:
@@ -255,7 +271,31 @@ def handle_input(bot: tg.Telegram, store: Store, sm: Summarizer, cfg: dict,
              "링크를 찾지 못했습니다. 기사 URL을 포함해서 보내주세요. (/help)")
 
 
-def _deliver(bot, store, rendered, card, item, tags, memo, origin, src_type, mark_url) -> None:
+LONG_CHARS = 1500     # 이보다 긴 전달글은 블로그처럼 긴 정리본도 만든다
+BLOG_MAX_CHARS = 40000
+
+
+def handle_blog(bot, store, sm, cfg, url, tags, memo) -> bool:
+    """블로그 링크. 본문을 못 읽으면 False 를 돌려 일반 링크 처리로 넘긴다."""
+    murl = extract.blog_url(url)
+    log.info("블로그 요청: %s", murl)
+    bot.send("⏳ 블로그라 정리본까지 만드는 중… (1분 정도)")
+    body, ok, title = extract.article_text(murl, BLOG_MAX_CHARS)
+    if not ok:
+        log.info("블로그 본문 추출 실패 — 일반 링크로 처리: %s", murl)
+        return False
+    item = {"title": title, "link": url, "source": "", "published": None,
+            "summary": "", "memo": memo}
+    limit = (cfg.get("limits") or {}).get("article_max_chars", 12000)
+    rendered, card = summarize_and_render(sm, item, cfg, mode="ondemand", body_override=body[:limit])
+    long = sm.run_long(item, body) if rendered else None
+    _deliver(bot, store, rendered, card, item, tags, memo=memo, origin="",
+             src_type="블로그", mark_url=url, long=long, raw=body)
+    return True
+
+
+def _deliver(bot, store, rendered, card, item, tags, memo, origin, src_type, mark_url,
+             long: dict | None = None, raw: str | None = None) -> None:
     if not rendered:
         bot.send("❌ 정리 실패. 본문을 못 읽었거나(유료 기사) 모델 호출이 실패했습니다.")
         if vault.enabled() and (item.get("link") or memo):
@@ -267,15 +307,25 @@ def _deliver(bot, store, rendered, card, item, tags, memo, origin, src_type, mar
     to = "summary" if bot.channels.get("summary") else None
     bot.send(rendered, channel=to)
 
-    _, sector = archive.route(tags, card.get("sector", ""))
-    saved = archive.save_card(card, item.get("link", ""), sector, tags, memo,
-                              origin=origin, src_type=src_type)
+    _, sector = archive.route(tags, (long or card).get("sector", ""))
+    if long:
+        raw_path = archive.save_raw(sector, long.get("title") or card.get("title", ""),
+                                    item.get("link", ""), origin, raw or "")
+        saved = archive.save_long_card(long, item.get("link", ""), sector, tags, memo,
+                                       origin=origin, src_type=src_type, raw_path=raw_path)
+    else:
+        saved = archive.save_card(card, item.get("link", ""), sector, tags, memo,
+                                  origin=origin, src_type=src_type)
+
+    if saved:
+        count_saved(store, sector)
 
     notes = []
     if to:
         notes.append("✅ 📝 기사 요약 채널에 올렸습니다.")
     if saved:
-        notes.append(f"🗂 옵시디언 <b>{sector}</b> 아카이브에 저장했습니다.")
+        notes.append(f"🗂 옵시디언 <b>{sector}</b> 아카이브에 "
+                     + ("장문 정리본 + 원문 사본을 저장했습니다." if long else "저장했습니다."))
     elif vault.enabled():
         notes.append("⚠️ 옵시디언 저장 실패 — 요약 채널에는 올라갔습니다.")
     if not card.get("_body_ok"):
@@ -288,6 +338,45 @@ def _deliver(bot, store, rendered, card, item, tags, memo, origin, src_type, mar
         bot.send("\n".join(notes))
     if mark_url:
         store.mark(mark_url, "")  # 같은 기사가 자동 피드로 또 오지 않게
+
+
+# ---------------------------------------------------------------- 저녁 일기 질문
+
+def run_diary_ask(bot: tg.Telegram, store: Store, cfg: dict) -> None:
+    """매일 저녁 한 번 DM 으로 '오늘 뭐 했어?' 를 묻는다. 답은 handle_input 이 일기로 받는다."""
+    d = cfg.get("diary") or {}
+    if not d.get("enabled", True) or not vault.enabled():
+        return
+    now = now_kst()
+    today = now.strftime("%Y-%m-%d")
+    if store.data.get("diary_asked") == today:
+        return
+    if (now.hour, now.minute) < (int(d.get("hour", 21)), int(d.get("minute", 30))):
+        return
+    store.data["diary_asked"] = today
+    until = (now + timedelta(days=1)).replace(hour=4, minute=0, second=0, microsecond=0)
+    store.data["diary_open_until"] = until.timestamp()
+
+    lines = [f"📓 <b>{now:%m/%d} 오늘 하루 어땠어요?</b>", "",
+             "한 일, 떠오른 생각, 내일 할 일을 편하게 답장으로 보내주세요.",
+             "여러 번 나눠 보내도 되고, 새벽 4시까지 받아요. 오늘은 건너뛰려면 그냥 두면 돼요."]
+    saved = store.data.get("diary_saved_today") or {}
+    if saved.get("day") == today and saved.get("n"):
+        by = " · ".join(f"{k} {v}" for k, v in sorted(saved["by"].items(), key=lambda x: -x[1]))
+        lines += ["", f"오늘 위키에 저장된 카드: <b>{saved['n']}</b>건 ({by})"]
+    bot.send("\n".join(lines))
+    log.info("저녁 일기 질문 발송")
+
+
+def count_saved(store: Store, sector: str) -> None:
+    """저녁 질문에 '오늘 저장한 카드' 를 보여주려고 섹터별로 센다."""
+    today = now_kst().strftime("%Y-%m-%d")
+    s = store.data.get("diary_saved_today") or {}
+    if s.get("day") != today:
+        s = {"day": today, "n": 0, "by": {}}
+    s["n"] += 1
+    s["by"][sector] = s["by"].get(sector, 0) + 1
+    store.data["diary_saved_today"] = s
 
 
 # ---------------------------------------------------------------- 모드 A+B
@@ -551,6 +640,7 @@ def main() -> int:
                 run_alerts(bot, store, cfg, items)
                 run_clipping(bot, store, cfg, items)
                 run_weekly(bot, store, cfg)
+                run_diary_ask(bot, store, cfg)
                 if (cfg.get("curation") or {}).get("enabled", False):
                     run_news_cycle(bot, store, sm, cfg, items)
     finally:

@@ -12,6 +12,7 @@ DM 에 넣는 세 가지 모양:
 from __future__ import annotations
 
 import re
+from datetime import timedelta
 from urllib.parse import urlparse
 
 import vault
@@ -138,5 +139,99 @@ def save_memo(text: str, tags: list[str]) -> str | None:
     tag_s = " ".join("#" + x for x in tags)
     line = f"- [ ] {t:%Y-%m-%d %H:%M} {tag_s} {text}".replace("  ", " ")
     if vault.put(path, line, "memo", append=True):
+        return path
+    return None
+
+
+# ---------------------------------------------------------------- 긴 글 (블로그·장문 전달글)
+
+def save_raw(sector: str, title: str, url: str, origin: str, body: str) -> str | None:
+    """원문 전체를 10_Raw 에 보관한다. 블로그는 삭제·비공개 전환이 잦아서 나중에 인용하려면 사본이 필요하다."""
+    if not vault.enabled() or not body:
+        return None
+    t = vault.now()
+    path = f"10_Raw/work/{sector}/{t:%Y-%m-%d}_{vault.slug(origin or vault.source_type(url), 15)}_{vault.slug(title)}.md"
+    text = "\n".join([
+        "---", f"원문: {url}", f"채널/작성자: {origin}", f"수집일: {t:%Y-%m-%d}",
+        "종류: 원문 사본 (수정 금지)", "---", "", body.strip(), "",
+    ])
+    return path if vault.put(path, text, f"raw: {title[:40]}") else None
+
+
+def save_long_card(long: dict, url: str, sector: str, tags: list[str], memo: str,
+                   origin: str = "", src_type: str = "", raw_path: str | None = None) -> str | None:
+    if not vault.enabled():
+        return None
+    t = vault.now()
+    title = long.get("title") or "제목 없음"
+    src = src_type or vault.source_type(url)
+    path = (f"20_Work/{sector}/아카이브/{t:%Y-%m}/"
+            f"{t:%Y-%m-%d}_{vault.slug(origin or src, 15)}_{vault.slug(title)}.md")
+    host = urlparse(url).netloc.removeprefix("www.").removeprefix("m.") if url else ""
+    who = f"{origin or host or src}, {t:%Y-%m-%d}"
+    all_tags = list(dict.fromkeys([*(long.get("tags") or []), *[x for x in tags if not vault.norm_sector(x)]]))
+
+    lines = [
+        "---",
+        f"섹터: {sector}",
+        f"태그: {_yaml_list(all_tags)}",
+        f"출처유형: {src}",
+        "분량: 장문",
+        f"채널/작성자: {origin}",
+        f"원문: {url}",
+        f"수집일: {t:%Y-%m-%d}",
+        f"관련기업: {_yaml_list(long.get('companies') or [])}",
+        "입력: 텔레그램 봇",
+        "---",
+        f"# {title}",
+        "",
+        "## 핵심 논지",
+        long.get("thesis") or "",
+        "",
+        "## 글의 흐름",
+        *[f"{i}. {x}" for i, x in enumerate(long.get("outline") or [], 1)],
+        "",
+        "## 근거",
+        *[f"- {x}" for x in long.get("evidence") or []],
+        "",
+    ]
+    nums = long.get("numbers") or []
+    if nums:
+        lines += ["## 숫자", "| 항목 | 값 | 시점 |", "|---|---|---|",
+                  *[f"| {n.get('item','')} | {n.get('value','')} | {n.get('when','')} |" for n in nums], ""]
+    risks = long.get("risks") or []
+    lines += ["## 리스크·반론", *([f"- {x}" for x in risks] or ["(글에서 언급 없음)"]), ""]
+    quotes = [q for q in long.get("quotes") or [] if q.strip()]
+    lines += ["## 인용할 만한 문장",
+              *([f'> "{q.strip().strip(chr(34) + "“”")}" — {who}' for q in quotes] or ["(없음)"]), ""]
+    lines += ["## 왜 저장했나", memo or "(메모 없음)", "",
+              "## 관련 페이지",
+              (f"- 원문 사본: [[{raw_path.removesuffix('.md')}]]" if raw_path else "- 원문 사본: (저장 실패 — 링크로만 확인)"),
+              "- (밤 정리 때 Claude 가 연결)", "",
+              "## 내 코멘트", ""]
+
+    if vault.put(path, "\n".join(lines), f"archive(long): {sector} · {title[:40]}"):
+        vault.queue_line(f"장문·{sector}", path, memo[:60])
+        return path
+    return None
+
+
+# ---------------------------------------------------------------- 일기 (저녁 질문에 대한 답)
+
+def save_diary(text: str, when=None) -> str | None:
+    """'오늘 뭐 했어?' 에 대한 답을 그날 데일리 노트에 쌓는다.
+
+    새벽(04시 전)에 쓴 답은 전날 일기로 본다 — 밤늦게 답하는 경우가 많아서.
+    """
+    if not vault.enabled():
+        return None
+    t = when or vault.now()
+    day = t - timedelta(days=1) if t.hour < 4 else t
+    path = f"30_Personal/일정관리/{day:%Y-%m-%d}.md"
+    entry = f"- {t:%H:%M} {text.strip()}"
+    # 처음 쓰는 날이면 머리를 붙여 만든다
+    if vault.put(path, entry, f"diary: {day:%Y-%m-%d}", append=True, header=(
+        f"---\n날짜: {day:%Y-%m-%d}\n---\n# {day:%Y-%m-%d} ({'월화수목금토일'[day.weekday()]})\n\n"
+        "## 오늘 한 일 (내가 쓴 것)\n")):
         return path
     return None
