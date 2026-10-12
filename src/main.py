@@ -71,7 +71,7 @@ HELP = """<b>리서치 봇</b>
   섹터: #건설 #유틸리티 #원전 #반도체 #IT
   개인: #여행 #일정 #월급 (요약 없이 그 폴더에 저장)
 • <b>블로그·긴 전달글</b> → 위키엔 긴 정리본 + 원문 사본
-• <b>일기</b> → 매일 21:30 질문에 답장 (또는 #일기 붙여서 아무 때나)
+• 일기·여행·일정·월급은 <b>📓 개인 봇</b>으로
 • 링크 없는 메모 → 위키 메모함에 저장
 
 /status — 오늘 발행 수, 큐, 일시정지 상태
@@ -223,7 +223,9 @@ def handle_input(bot: tg.Telegram, store: Store, sm: Summarizer, cfg: dict,
 
     # 0) 일기 — 저녁 질문(📓)에 답장했거나, #일기 를 붙였거나, 질문 뒤 새벽 4시 전까지 보낸 그냥 글
     replied = ((msg.get("reply_to_message") or {}).get("text") or "").startswith("📓")
-    window = time.time() < float(store.data.get("diary_open_until") or 0)
+    # 개인 봇이 있으면 일기 창(질문 뒤 아무 글이나 일기로 받기)은 개인 봇에서만 연다.
+    # 리서치봇에서는 #일기 를 붙인 경우만 일기로 받는다.
+    window = (not PERSONAL_TOKEN()) and time.time() < float(store.data.get("diary_open_until") or 0)
     if not origin and ("일기" in tags or replied or (window and not url and not tags)):
         path = archive.save_diary(memo if "일기" in tags else text)
         bot.send("📓 오늘 일기에 적어뒀어요." if path else "⚠️ 일기 저장 실패 (볼트 설정 확인: /status)")
@@ -340,6 +342,55 @@ def _deliver(bot, store, rendered, card, item, tags, memo, origin, src_type, mar
         store.mark(mark_url, "")  # 같은 기사가 자동 피드로 또 오지 않게
 
 
+# ---------------------------------------------------------------- 개인 봇 (📓 찬형 일기)
+
+def PERSONAL_TOKEN() -> str:
+    return os.environ.get("PERSONAL_BOT_TOKEN", "")
+
+
+PERSONAL_HELP = """<b>📓 개인 봇</b>
+
+여기 보내는 건 전부 옵시디언 위키 개인 폴더로 갑니다. (업무 자료는 Researchbot 으로)
+
+• 그냥 쓰면 → 오늘 일기 (<code>일정관리/날짜.md</code>)
+• <code>#여행</code> 내용·링크 → 여행 폴더
+• <code>#일정</code> 내용 → 일정관리 메모함
+• <code>#월급</code> 내용 → 월급관리 메모함
+
+매일 21:30 에 "오늘 하루 어땠어요?" 를 물어봅니다. 새벽 4시 전에 쓴 건 전날 일기로 들어가요."""
+
+
+def personal_bot(chat_id: str) -> tg.Telegram | None:
+    tok = PERSONAL_TOKEN()
+    return tg.Telegram(tok, chat_id, {}) if tok else None
+
+
+def handle_personal_messages(pbot: tg.Telegram, store: Store) -> None:
+    """개인 봇 DM. AI 를 쓰지 않는다 — 쓴 그대로 위키에 넣는다."""
+    updates = pbot.get_updates(int(store.data.get("personal_tg_offset") or 0))
+    for u in updates or []:
+        store.data["personal_tg_offset"] = u["update_id"] + 1
+        msg = u.get("message") or {}
+        if str(msg.get("chat", {}).get("id")) != pbot.chat_id:
+            continue
+        text = (msg.get("text") or msg.get("caption") or "").strip()
+        if not text:
+            continue
+        cmd = text.split()[0].lower().split("@")[0]
+        if cmd in ("/start", "/help"):
+            pbot.send(PERSONAL_HELP)
+            continue
+        tags, memo = archive.parse(text)
+        url = extract.find_url(text)
+        kind, folder = archive.route(tags)
+        if kind == "personal":
+            path = archive.save_personal(folder, text, url or "", memo)
+            pbot.send(f"📥 {folder}에 저장했어요." if path else "⚠️ 위키 저장 실패")
+            continue
+        path = archive.save_diary(memo if "일기" in tags else text)
+        pbot.send("📓 오늘 일기에 적어뒀어요." if path else "⚠️ 일기 저장 실패")
+
+
 # ---------------------------------------------------------------- 저녁 일기 질문
 
 def run_diary_ask(bot: tg.Telegram, store: Store, cfg: dict) -> None:
@@ -364,8 +415,11 @@ def run_diary_ask(bot: tg.Telegram, store: Store, cfg: dict) -> None:
     if saved.get("day") == today and saved.get("n"):
         by = " · ".join(f"{k} {v}" for k, v in sorted(saved["by"].items(), key=lambda x: -x[1]))
         lines += ["", f"오늘 위키에 저장된 카드: <b>{saved['n']}</b>건 ({by})"]
-    bot.send("\n".join(lines))
-    log.info("저녁 일기 질문 발송")
+    pbot = personal_bot(bot.chat_id)
+    if pbot:
+        lines[3] = "여러 번 나눠 보내도 되고, 새벽 4시 전에 쓴 건 오늘 일기로 들어가요."
+    (pbot or bot).send("\n".join(lines))
+    log.info("저녁 일기 질문 발송 (%s)", "개인 봇" if pbot else "리서치봇")
 
 
 def count_saved(store: Store, sector: str) -> None:
@@ -622,6 +676,9 @@ def main() -> int:
             return 0
         if has_telegram and not args.no_messages and messages_due(args, store):
             handle_messages(bot, store, sm, cfg)
+            pbot = personal_bot(chat_id)
+            if pbot:
+                handle_personal_messages(pbot, store)
             if args.messages_only:
                 # 전담 실행만 도장을 찍는다. 대타가 찍으면 20분마다 한 번씩만
                 # 처리되는 이상한 리듬이 된다.
