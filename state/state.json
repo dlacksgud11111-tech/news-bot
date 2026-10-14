@@ -9793,7 +9793,6 @@
   "e418c7596fbf871c": 1791360319,
   "e4195e36efc1a282": 1790907632,
   "e41f0ea9a63db937": 1790658361,
-  "e4207b5fa75f7f59": 1790166922,
   "e4221027e5cf72b0": 1790830534,
   "e42931684485d3b1": 1790902521,
   "e433babbc4a30661": 1791184532,
@@ -10984,8 +10983,8 @@
  },
  "companies_today": {},
  "day": "2026-10-14",
- "diary_asked": "2026-10-13",
- "diary_open_until": 1791918000.0,
+ "diary_asked": "2026-10-14",
+ "diary_open_until": 1792004400.0,
  "diary_saved_today": {
   "by": {
    "유틸리티": 4
@@ -10994,7 +10993,7 @@
   "n": 4
  },
  "last_clip": 1791757979,
- "last_msg_poll": 1791981033,
+ "last_msg_poll": 1791981349,
  "last_weekly": 1791500400.0,
  "paused": false,
  "personal_tg_offset": 910680808,
@@ -11033,7 +11032,7 @@
   "ff564ea7d6d0779f": 1791773348
  },
  "stats": {
-  "last_run": "2026-10-14 21:30 KST",
+  "last_run": "2026-10-14 21:35 KST",
   "total_posted": 7
  },
  "tg_offset": 371065828,
