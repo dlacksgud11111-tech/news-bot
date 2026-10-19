@@ -9102,8 +9102,8 @@
  },
  "companies_today": {},
  "day": "2026-10-19",
- "diary_asked": "2026-10-18",
- "diary_open_until": 1792350000.0,
+ "diary_asked": "2026-10-19",
+ "diary_open_until": 1792436400.0,
  "diary_saved_today": {
   "by": {
    "반도체": 2,
@@ -9113,7 +9113,7 @@
   "n": 5
  },
  "last_clip": 1791757979,
- "last_msg_poll": 1792413036,
+ "last_msg_poll": 1792413332,
  "last_weekly": 1792105200.0,
  "paused": false,
  "personal_tg_offset": 910680812,
@@ -9162,7 +9162,7 @@
   "ff564ea7d6d0779f": 1791773348
  },
  "stats": {
-  "last_run": "2026-10-19 21:30 KST",
+  "last_run": "2026-10-19 21:35 KST",
   "total_posted": 7
  },
  "tg_offset": 371065848,
