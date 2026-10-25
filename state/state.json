@@ -4588,8 +4588,8 @@
  },
  "companies_today": {},
  "day": "2026-10-25",
- "diary_asked": "2026-10-24",
- "diary_open_until": 1792868400.0,
+ "diary_asked": "2026-10-25",
+ "diary_open_until": 1792954800.0,
  "diary_saved_today": {
   "by": {
    "건설": 1
@@ -4598,7 +4598,7 @@
   "n": 1
  },
  "last_clip": 1791757979,
- "last_msg_poll": 1792931436,
+ "last_msg_poll": 1792931724,
  "last_weekly": 1792710000.0,
  "paused": false,
  "personal_tg_offset": 910680812,
@@ -4660,7 +4660,7 @@
   "ff564ea7d6d0779f": 1791773348
  },
  "stats": {
-  "last_run": "2026-10-25 21:30 KST",
+  "last_run": "2026-10-25 21:35 KST",
   "total_posted": 7
  },
  "tg_offset": 371065873,
