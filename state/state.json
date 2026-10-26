@@ -1346,7 +1346,6 @@
   "3dd83ca3e628b2ea": 1791590828,
   "3de8eb7883bf96a5": 1791387317,
   "3deaf84eeba08feb": 1791518725,
-  "3deb3a3b16fff22c": 1791169068,
   "3e0684af273dde8e": 1791443696,
   "3e17888efdfbc9c1": 1791451841,
   "3e25a3c45bb2f694": 1791359152,
@@ -4422,7 +4421,7 @@
   "n": 1
  },
  "last_clip": 1791757979,
- "last_msg_poll": 1792983330,
+ "last_msg_poll": 1792983636,
  "last_weekly": 1792710000.0,
  "paused": false,
  "personal_tg_offset": 910680812,
@@ -4484,7 +4483,7 @@
   "ff564ea7d6d0779f": 1791773348
  },
  "stats": {
-  "last_run": "2026-10-26 11:55 KST",
+  "last_run": "2026-10-26 12:00 KST",
   "total_posted": 7
  },
  "tg_offset": 371065873,
