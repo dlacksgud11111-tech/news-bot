@@ -3763,7 +3763,7 @@
   "n": 2
  },
  "last_clip": 1791757979,
- "last_msg_poll": 1793074237,
+ "last_msg_poll": 1793074535,
  "last_weekly": 1792710000.0,
  "paused": false,
  "personal_tg_offset": 910680812,
@@ -3834,7 +3834,7 @@
   "ff564ea7d6d0779f": 1791773348
  },
  "stats": {
-  "last_run": "2026-10-27 13:10 KST",
+  "last_run": "2026-10-27 13:15 KST",
   "total_posted": 7
  },
  "tg_offset": 371065883,
