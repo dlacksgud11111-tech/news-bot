@@ -812,22 +812,20 @@
  "diary_open_until": 1793300400.0,
  "diary_saved_today": {
   "by": {
-   "건설": 1,
-   "기타": 1,
-   "원전": 1,
    "유틸리티": 1
   },
-  "day": "2026-10-29",
-  "n": 4
+  "day": "2026-10-30",
+  "n": 1
  },
  "last_clip": 1791757979,
- "last_msg_poll": 1793338529,
+ "last_msg_poll": 1793338837,
  "last_weekly": 1793314800.0,
  "paused": false,
  "personal_tg_offset": 910680812,
  "posted_today": 0,
  "queue": [],
  "seen": {
+  "01396fc9b7c9e89c": 1793338813,
   "068e45f1d3b92b4c": 1793023756,
   "0aadc61c4a558d3c": 1792363007,
   "113e9cd9bd172c1a": 1791928501,
@@ -902,10 +900,10 @@
   "ff564ea7d6d0779f": 1791773348
  },
  "stats": {
-  "last_run": "2026-10-30 14:35 KST",
+  "last_run": "2026-10-30 14:40 KST",
   "total_posted": 7
  },
- "tg_offset": 371065902,
+ "tg_offset": 371065903,
  "titles": [
   [
    1789448532,
