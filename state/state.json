@@ -591,8 +591,8 @@
  },
  "companies_today": {},
  "day": "2026-10-31",
- "diary_asked": "2026-10-30",
- "diary_open_until": 1793386800.0,
+ "diary_asked": "2026-10-31",
+ "diary_open_until": 1793473200.0,
  "diary_saved_today": {
   "by": {
    "기타": 1,
@@ -603,7 +603,7 @@
   "n": 3
  },
  "last_clip": 1791757979,
- "last_msg_poll": 1793449834,
+ "last_msg_poll": 1793450127,
  "last_weekly": 1793314800.0,
  "paused": false,
  "personal_tg_offset": 910680812,
@@ -687,7 +687,7 @@
   "ff564ea7d6d0779f": 1791773348
  },
  "stats": {
-  "last_run": "2026-10-31 21:30 KST",
+  "last_run": "2026-10-31 21:35 KST",
   "total_posted": 7
  },
  "tg_offset": 371065906,
