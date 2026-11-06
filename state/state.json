@@ -344,7 +344,7 @@
  "clip_titles": [],
  "clipped": {},
  "companies_today": {},
- "day": "2026-11-06",
+ "day": "2026-11-07",
  "diary_asked": "2026-11-06",
  "diary_open_until": 1793991600.0,
  "diary_saved_today": {
@@ -357,7 +357,7 @@
   "n": 3
  },
  "last_clip": 1791757979,
- "last_msg_poll": 1793976931,
+ "last_msg_poll": 1793977225,
  "last_weekly": 1793919600.0,
  "paused": false,
  "personal_tg_offset": 910680812,
@@ -443,7 +443,7 @@
   "fbc8fbaa51451ccb": 1793752216
  },
  "stats": {
-  "last_run": "2026-11-06 23:55 KST",
+  "last_run": "2026-11-07 00:00 KST",
   "total_posted": 7
  },
  "tg_offset": 371065965,
